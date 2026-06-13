@@ -40,7 +40,7 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [x] `concepts/religion/` — [[trimurti]] — Hindu triad: Brahma, Vishnu, Shiva
 - [x] `concepts/religion/` — [[mahabharata]] — Hindu epic containing the Bhagavad Gita
 - [x] `concepts/religion/` — [[ramayana]] — Hindu epic of Rama
-- [ ] `concepts/religion/` — [[jesus]] — central figure of Christianity / the NT
+- [x] `concepts/religion/` — [[jesus]] — central figure of Christianity / the NT
 - [ ] `concepts/religion/` — [[judaism]] — the tradition the Hebrew-Bible/holiday/lifecycle lists orbit
 - [ ] `concepts/religion/` — [[torah]] — the first five books / core of Judaism
 - [ ] `concepts/religion/` — [[gospels]] — the four NT accounts of Jesus
