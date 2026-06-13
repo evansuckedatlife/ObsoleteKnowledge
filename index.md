@@ -25,12 +25,13 @@ The first subject branch. Each links to its list MOC.
 - [[british-monarchs]] — British monarchs
 - [[popes]] — popes
 - [[20th-century-physicists]] — 20th-century physicists
+- [[active-volcanoes]] — active volcanoes
 
 ## Full catalogue (by NAQT category)
 
-## Geography  ·  0/7 built
+## Geography  ·  1/7 built
 
-- [[active-volcanoes]] — active volcanoes
+- ✅ [[active-volcanoes]] — active volcanoes
 - [[african-bodies-of-water]] — African bodies of water
 - [[asian-rivers]] — Asian rivers
 - [[deserts]] — deserts
@@ -216,10 +217,10 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[popes]] — popes
 - ✅ [[religious-texts]] — religious texts
 
-## Science  ·  1/30 built
+## Science  ·  2/30 built
 
 - ✅ [[20th-century-physicists]] — 20th-century physicists
-- [[active-volcanoes]] — active volcanoes
+- ✅ [[active-volcanoes]] — active volcanoes
 - [[phyla]] — animal phyla
 - [[chemical-elements]] — chemical elements
 - [[chemistry-lab-techniques]] — chemistry lab techniques
