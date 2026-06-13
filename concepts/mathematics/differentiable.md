@@ -3,7 +3,7 @@ type: concept
 category: mathematics
 defines: [Differentiable, differentiability]
 related: ["[[derivative]]", "[[continuity]]"]
-lists: ["[[calculus-ideas]]"]
+lists: []
 read: false
 ---
 
@@ -49,4 +49,4 @@ Differentiability is the formal guarantee that a function "behaves nicely" aroun
 
 ---
 
-Lists: [[calculus-ideas]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`

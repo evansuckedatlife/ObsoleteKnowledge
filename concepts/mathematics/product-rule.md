@@ -3,7 +3,7 @@ type: concept
 category: mathematics
 defines: ["Product Rule", product-rule]
 related: ["[[derivative]]", "[[quotient-rule]]"]
-lists: ["[[calculus-ideas]]"]
+lists: []
 read: false
 ---
 
@@ -48,4 +48,4 @@ The product rule is one of the foundational techniques in calculus because so ma
 
 ---
 
-Lists: [[calculus-ideas]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`

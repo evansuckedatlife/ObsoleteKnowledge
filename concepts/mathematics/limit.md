@@ -11,7 +11,7 @@ read: false
 
 ## summary
 
-A *limit* is the value that a function or sequence approaches as the input approaches some value. Limits are the foundational concept underlying calculus—they make rigorous the intuitive idea of "getting arbitrarily close." The formal definition (epsilon-delta) bounds how close the output is to the target for inputs sufficiently close to a point.
+A *limit* is the value that a function or sequence approaches as the input approaches some value. Limits are the foundational concept underlying calculus—they make rigorous the intuitive idea of "getting arbitrarily close." The formal definition (epsilon-delta) bounds how close the output is to the target for inputs sufficiently close to a point. By defining behavior near a point rather than exactly at it, limits resolve the logical paradoxes of division by zero that historically plagued the study of motion. This framework allows mathematicians to define key concepts like continuity, derivatives, and integrals on solid logical footing.
 
 ## you gotta know
 

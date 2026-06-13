@@ -11,7 +11,7 @@ read: false
 
 ## summary
 
-An *integral* is either the antiderivative of a function (indefinite integral) or the signed area under a curve (definite integral). The indefinite integral ∫ f(x) dx = F(x) + C is a function whose derivative is f; the definite integral ∫[a,b] f(x) dx is a number representing the net area between the curve and the x-axis. Integrals are the inverse of derivatives and are essential to computing areas, volumes, and accumulating quantities.
+An *integral* is either the antiderivative of a function (indefinite integral) or the signed area under a curve (definite integral). The indefinite integral ∫ f(x) dx = F(x) + C is a function whose derivative is f; the definite integral ∫[a,b] f(x) dx is a number representing the net area between the curve and the x-axis. Integrals are the inverse of derivatives and are essential to computing areas, volumes, and accumulating quantities. By formalizing the process of continuous summation, integration resolves the ancient geometric problem of finding the area of shapes with curved boundaries. This operation is crucial in physics for determining total work, electromagnetic flux, and probability distributions in quantum mechanics.
 
 ## you gotta know
 
@@ -40,6 +40,7 @@ Integration is the twin pillar of calculus, complementing differentiation. While
 - [[derivative]] — the derivative and integral are inverse operations.
 - [[differential-equations]] — differential equations are often solved via integration.
 - [[taylor-series]] — term-by-term integration of power series.
+- [[gottfried-leibniz]] — co-creator of calculus who introduced the integration symbol (∫).
 
 ## see also
 

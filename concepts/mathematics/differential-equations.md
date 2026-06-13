@@ -3,7 +3,7 @@ type: concept
 category: mathematics
 defines: ["Differential Equations", "differential equation"]
 related: ["[[derivative]]", "[[integral]]", "[[separation-of-variables]]"]
-lists: ["[[calculus-ideas]]"]
+lists: []
 read: false
 ---
 
@@ -49,4 +49,4 @@ Differential equations are the language of mathematical modeling. Nearly every q
 
 ---
 
-Lists: [[calculus-ideas]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`

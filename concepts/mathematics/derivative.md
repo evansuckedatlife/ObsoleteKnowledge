@@ -11,7 +11,7 @@ read: false
 
 ## summary
 
-The *derivative* of a function measures its instantaneous rate of change at a point—the slope of the tangent line to the curve. Defined as the limit of the secant-line slope, f'(x) = lim(h→0) [f(x+h) – f(x)] / h, the derivative is the workhorse of calculus, with applications spanning physics (velocity, acceleration), optimization (maxima and minima), and approximation. Computing derivatives by applying rules (power, product, chain, quotient) is a core calculus skill.
+The *derivative* of a function measures its instantaneous rate of change at a point—the slope of the tangent line to the curve. Defined as the limit of the secant-line slope, f'(x) = lim(h→0) [f(x+h) – f(x)] / h, the derivative is the workhorse of calculus, with applications spanning physics (velocity, acceleration), optimization (maxima and minima), and approximation. Computing derivatives by applying rules (power, product, chain, quotient) is a core calculus skill. By providing a precise way to calculate how a changing quantity varies in real time, differentiation forms the mathematical basis for classical mechanics and rate laws. It allows scientists to translate physical laws, which are naturally expressed as relationships between quantities and their rates of change, into solvable equations.
 
 ## you gotta know
 

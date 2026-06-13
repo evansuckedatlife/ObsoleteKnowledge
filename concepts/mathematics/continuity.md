@@ -3,7 +3,7 @@ type: concept
 category: mathematics
 defines: [Continuity, continuous, discontinuous]
 related: ["[[limit]]", "[[intermediate-value-theorem]]"]
-lists: ["[[calculus-ideas]]"]
+lists: []
 read: false
 ---
 
@@ -50,4 +50,4 @@ Continuity is the mathematician's way of formalizing the intuition that "nearby 
 
 ---
 
-Lists: [[calculus-ideas]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`
