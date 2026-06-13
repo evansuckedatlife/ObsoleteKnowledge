@@ -82,7 +82,7 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [x] [[active-volcanoes]] — active volcanoes
 - [x] [[phyla]] — animal phyla
 - [x] ⭐ [[chemical-elements]] — chemical elements
-- [ ] [[chemistry-lab-techniques]] — chemistry lab techniques
+- [x] [[chemistry-lab-techniques]] — chemistry lab techniques
 - [ ] [[circuit-components]] — circuit components
 - [ ] ⭐ [[classes-of-particles]] — classes of particles
 - [ ] [[computer-components]] — computer components
