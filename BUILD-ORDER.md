@@ -47,7 +47,7 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [x] `concepts/religion/` — [[crucifixion]] — the death of Jesus
 - [x] `concepts/religion/` — [[exodus]] — the departure from Egypt under Moses
 - [x] `concepts/religion/` — [[buddhism]] — tradition founded by Siddhartha Gautama
-- [ ] `concepts/religion/` — [[temple-in-jerusalem]] — First & Second Temples
+- [x] `concepts/religion/` — [[temple-in-jerusalem]] — First & Second Temples
 
 > After Phase 0, also consider the rest of the Twelve Olympians (hera, poseidon, ares, artemis, hephaestus, hermes, demeter, dionysus, hades, hestia) as a node cluster.
 
