@@ -4,7 +4,7 @@ category: mythology
 read: false
 ---
 
-# Egyptian Deities
+# Egyptian deities
 
 The major gods of ancient Egypt and the Osiris myth at the center of their religion.
 

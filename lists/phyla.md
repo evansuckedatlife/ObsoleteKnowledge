@@ -4,26 +4,26 @@ category: science
 read: false
 ---
 
-# Animal Phyla
+# animal phyla
 
-The primary taxonomic divisions of the animal kingdom, categorized by their structural body plans, embryonic development, and evolutionary histories.
+The animal phyla most worth knowing for quiz bowl.
 
 ## nodes
 
-- [[porifera|Porifera]] — sponges; primitive sessile organisms lacking true tissues and organs, characterized by choanocytes.
-- [[cnidaria|Cnidaria]] — jellyfish, corals, and anemones; characterized by stinging cnidocytes and alternating polyp/medusa stages.
-- [[ctenophora|Ctenophora]] — comb jellies; marine invertebrates that move using comb rows of cilia and capture prey using sticky colloblasts.
-- [[platyhelminthes|Platyhelminthes]] — flatworms; acoelomate triploblasts lacking circulatory systems, relying on diffusion.
-- [[nematoda|Nematoda]] — roundworms; pseudocoelomates covered by a thick collagen cuticle that undergoes ecdysis.
-- [[annelida|Annelida]] — segmented worms; coelomates characterized by body segments (metamerism) and chitinous setae.
-- [[mollusca|Mollusca]] — snails, clams, and octopuses; characterized by a mantle, muscular foot, and rasping radula.
-- [[arthropoda|Arthropoda]] — insects, arachnids, and crustaceans; characterized by a chitinous exoskeleton, segmented bodies, and jointed appendages.
-- [[echinodermata|Echinodermata]] — starfish, sea urchins, and cucumbers; characterized by pentaradial symmetry and a water vascular system.
-- [[chordata|Chordata]] — vertebrates, tunicates, and lancelets; defined by a notochord, dorsal hollow nerve cord, pharyngeal slits, and post-anal tail.
+- [[annelida|Annelida]] — A phylum of invertebrate segmented worms including earthworms, leeches, and marine bristle worms, Annelida are coelomate…
+- [[arthropoda|Arthropoda]] — Accounting for over 80% of all described animal species, Arthropoda is the largest and most ecologically diverse phylum on Earth.
+- [[chordata|Chordata]] — Comprising all vertebrates (mammals, birds, reptiles, amphibians, and fish) alongside two invertebrate subphyla, Chordata is a…
+- [[cnidaria|Cnidaria]] — A phylum of radially symmetrical aquatic animals including jellyfish, corals, sea anemones, and hydras, Cnidaria are…
+- [[ctenophora|Ctenophora]] — A phylum of marine invertebrates commonly known as comb jellies, Ctenophora are characterized by rows of cilia that they use…
+- [[echinodermata|Echinodermata]] — A phylum of marine deuterostomes including starfish, sea urchins, sand dollars, and sea cucumbers, Echinodermata are…
+- [[mollusca|Mollusca]] — Comprising soft-bodied animals such as snails, clams, squids, and octopuses, Mollusca is the second-largest phylum of…
+- [[nematoda|Nematoda]] — A highly diverse phylum of unsegmented, cylindrical invertebrates known as roundworms, Nematoda are pseudocoelomate protostomes.
+- [[platyhelminthes|Platyhelminthes]] — A phylum of bilaterally symmetrical, unsegmented invertebrates known as flatworms, Platyhelminthes are acoelomate triploblasts.
+- [[porifera|Porifera]] — An ancient phylum of aquatic multicellular organisms commonly known as sponges, Porifera are characterized by a lack of true…
 
 ## progress
 
-Live read-status for this list (requires the **Bases** core plugin).
+Live read-status for this list (requires the **Bases** core plugin). Flip a node's `read` from its footer toggle and it moves here.
 
 ```base
 filters:

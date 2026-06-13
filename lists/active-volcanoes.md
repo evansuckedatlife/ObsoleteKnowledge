@@ -4,27 +4,27 @@ category: science
 read: false
 ---
 
-# Active Volcanoes
+# active volcanoes
 
-Geologically active volcanic vents, stratovolcanoes, and shield volcanoes whose eruptions have shaped Earth's climate, geography, and human history.
+The active volcanoes most worth knowing for quiz bowl.
 
 ## nodes
 
-- [[vesuvius|Mount Vesuvius]] — Italian stratovolcano that buried Pompeii in 79 AD.
-- [[krakatoa|Krakatoa]] — Indonesian caldera island famous for its massive 1883 explosion and resulting global tsunami.
-- [[mount-saint-helens|Mount Saint Helens]] — Cascade stratovolcano that erupted in a major lateral blast in May 1980.
-- [[mount-pinatubo|Mount Pinatubo]] — Philippine volcano that erupted in 1991, causing global cooling via stratospheric aerosols.
-- [[mount-pelee|Mount Pelée]] — Martinique volcano whose 1902 pyroclastic flow wiped out the city of Saint-Pierre.
-- [[mount-tambora|Mount Tambora]] — Indonesian volcano whose 1815 eruption caused the "Year Without a Summer" in 1816.
-- [[mount-cotopaxi|Mount Cotopaxi]] — high-altitude Ecuadorian stratovolcano capped by an equatorial glacier.
-- [[mount-erebus|Mount Erebus]] — southernmost active volcano on Earth, located in Antarctica and possessing an active lava lake.
-- [[mount-etna|Mount Etna]] — Europe's highest active volcano, located in Sicily and connected to Greek myths of Typhon.
-- [[mauna-loa|Mauna Loa]] — world's largest shield volcano by volume, located on the Big Island of Hawaii.
-- [[kilauea|Kilauea]] — highly active Hawaiian shield volcano regarded as the home of the goddess Pele.
+- [[kilauea|Kilauea]] — An active shield volcano located on the southeastern part of the Big Island of Hawaii, Kilauea is one of the most active…
+- [[krakatoa|Krakatoa]] — Located in the Sunda Strait between Java and Sumatra in Indonesia, Krakatoa is famous for its cataclysmic 1883 eruption.
+- [[mauna-loa|Mauna Loa]] — An active basaltic shield volcano on the Big Island of Hawaii, Mauna Loa is the largest subaerial volcano on Earth by both…
+- [[mount-cotopaxi|Mount Cotopaxi]] — An active stratovolcano located in the Andes Mountains of Ecuador, Mount Cotopaxi is one of the highest active volcanoes in…
+- [[mount-erebus|Mount Erebus]] — Located on Ross Island in Antarctica, Mount Erebus is the southernmost active volcano on Earth.
+- [[mount-etna|Mount Etna]] — Located on the east coast of Sicily, Italy, Mount Etna is the highest active volcano in Europe outside the Caucasus.
+- [[mount-pelee|Mount Pelée]] — An active stratovolcano on the Caribbean island of Martinique, Mount Pelée is infamous for its devastating eruption in May 1902.
+- [[mount-pinatubo|Mount Pinatubo]] — Located on the island of Luzon in the Philippines, Mount Pinatubo is an active stratovolcano.
+- [[mount-saint-helens|Mount Saint Helens]] — An active stratovolcano located in Skamania County, Washington, Mount Saint Helens is part of the Cascade Volcanic Arc.
+- [[mount-tambora|Mount Tambora]] — An active stratovolcano on the island of Sumbawa in Indonesia, Mount Tambora is the site of the largest volcanic eruption in…
+- [[vesuvius|Mount Vesuvius]] — A sommo-stratovolcano located on the Gulf of Naples in Campania, Italy, Mount Vesuvius is one of the world's most famous and…
 
 ## progress
 
-Live read-status for this list (requires the **Bases** core plugin).
+Live read-status for this list (requires the **Bases** core plugin). Flip a node's `read` from its footer toggle and it moves here.
 
 ```base
 filters:

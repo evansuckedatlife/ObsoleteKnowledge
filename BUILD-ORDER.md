@@ -20,7 +20,7 @@ Rules that never bend: original content only (no NAQT prose), one node per entit
 
 **Legend:** ⭐ = Tier-1 Cornerstone (deep treatment). All Phase-0 hub nodes are Tier 1.
 
-**Scope:** 187 unique NAQT topics (30 built, 31 ⭐ Tier-1) + 23 hub nodes (all Tier 1).
+**Scope:** 187 unique NAQT topics (43 built, 31 ⭐ Tier-1) + 23 hub nodes (all Tier 1).
 
 ---
 
@@ -76,33 +76,33 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [x] [[norse-gods]] — Norse gods
 - [x] [[trojan-war-heroes]] — Trojan War heroes
 
-## Phase 3 — Science  (`concepts/science/`)  ·  12/25 built
+## Phase 3 — Science  (`concepts/science/`)  ·  25/25 built
 
 - [x] [[20th-century-physicists]] — 20th-century physicists
 - [x] [[active-volcanoes]] — active volcanoes
 - [x] [[phyla]] — animal phyla
 - [x] ⭐ [[chemical-elements]] — chemical elements
 - [x] [[chemistry-lab-techniques]] — chemistry lab techniques
-- [ ] [[circuit-components]] — circuit components
+- [x] [[circuit-components]] — circuit components
 - [x] ⭐ [[classes-of-particles]] — classes of particles
-- [ ] [[computer-components]] — computer components
+- [x] [[computer-components]] — computer components
 - [x] ⭐ [[quantum-mechanics-concepts]] — concepts from quantum mechanics
-- [ ] [[plant-distinctions]] — distinctions among types of plants
-- [ ] [[dwarf-planets-comets-and-asteroids]] — dwarf planets, comets, and asteroids
+- [x] [[plant-distinctions]] — distinctions among types of plants
+- [x] [[dwarf-planets-comets-and-asteroids]] — dwarf planets, comets, and asteroids
 - [x] ⭐ [[enzymes]] — enzymes
 - [x] [[functional-groups]] — functional groups
-- [ ] [[geologic-time-periods]] — geologic time periods
-- [ ] [[moons]] — moons
-- [ ] [[nobel-prize-winners-in-medicine]] — Nobel Prize winners in physiology or medicine
+- [x] [[geologic-time-periods]] — geologic time periods
+- [x] [[moons]] — moons
+- [x] [[nobel-prize-winners-in-medicine]] — Nobel Prize winners in physiology or medicine
 - [x] ⭐ [[organelles]] — organelles
 - [x] [[organic-reactions]] — organic reactions
 - [x] ⭐ [[programming-terms]] — programming terms
-- [ ] [[rocket-scientists]] — rocket scientists
-- [ ] [[rocks-and-minerals]] — rocks and minerals
-- [ ] [[scientific-experiments]] — scientific experiments
-- [ ] [[scientific-scales]] — scientific scales
-- [ ] [[space-missions]] — space missions
-- [ ] [[techniques-in-biotechnology]] — techniques in biotechnology
+- [x] [[rocket-scientists]] — rocket scientists
+- [x] [[rocks-and-minerals]] — rocks and minerals
+- [x] [[scientific-experiments]] — scientific experiments
+- [x] [[scientific-scales]] — scientific scales
+- [x] [[space-missions]] — space missions
+- [x] [[techniques-in-biotechnology]] — techniques in biotechnology
 
 ## Phase 4 — Mathematics  (`concepts/mathematics/`)  ·  0/6 built
 

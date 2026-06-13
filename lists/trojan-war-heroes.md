@@ -4,7 +4,7 @@ category: mythology
 read: false
 ---
 
-# Trojan War Heroes
+# Trojan War heroes
 
 The Greek and Trojan warriors, kings, and casualties of the Trojan War.
 

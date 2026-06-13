@@ -4,7 +4,7 @@ category: religion
 read: false
 ---
 
-# Founders of Religious Traditions
+# founders of religious traditions
 
 The people who founded or decisively shaped the world's major religions.
 

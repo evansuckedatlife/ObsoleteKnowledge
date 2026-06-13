@@ -1,6 +1,6 @@
 # ObsoleteKnowledge — Master Index
 
-The full catalogue of **187 topics** (NAQT cross-lists some, so 211 entries appear across the categories below), the scope this vault grows into. Live links (**30 built**) have a list MOC and member nodes; everything else is a **dangling link — the frontier**, scoped but unwritten. Open the graph view to watch the frontier light up as unresolved nodes.
+The full catalogue of **187 topics** (NAQT cross-lists some, so 211 entries appear across the categories below), the scope this vault grows into. Live links (**43 built**) have a list MOC and member nodes; everything else is a **dangling link — the frontier**, scoped but unwritten. Open the graph view to watch the frontier light up as unresolved nodes.
 
 ## Built so far — Mythology & Belief
 
@@ -17,6 +17,7 @@ The first subject branch. Each links to its list MOC.
 - [[jewish-holidays]] — Jewish holidays
 - [[jewish-lifecycle-events]] — Jewish lifecycle events
 - [[new-testament-characters]] — New Testament characters
+- [[nobel-prize-winners-in-medicine]] — Nobel Prize winners in physiology or medicine
 - [[norse-gods]] — Norse gods
 - [[roman-emperors]] — Roman emperors
 - [[trojan-war-heroes]] — Trojan War heroes
@@ -25,17 +26,29 @@ The first subject branch. Each links to its list MOC.
 - [[hebrew-bible-characters]] — characters in the Hebrew Bible
 - [[chemical-elements]] — chemical elements
 - [[chemistry-lab-techniques]] — chemistry lab techniques
+- [[circuit-components]] — circuit components
 - [[classes-of-particles]] — classes of particles
+- [[computer-components]] — computer components
 - [[quantum-mechanics-concepts]] — concepts from quantum mechanics
+- [[plant-distinctions]] — distinctions among types of plants
+- [[dwarf-planets-comets-and-asteroids]] — dwarf planets, comets, and asteroids
 - [[enzymes]] — enzymes
 - [[founders-of-religious-traditions]] — founders of religious traditions
 - [[functional-groups]] — functional groups
+- [[geologic-time-periods]] — geologic time periods
+- [[moons]] — moons
 - [[mortal-women-in-greek-myth]] — mortal women in Greek myth
 - [[organelles]] — organelles
 - [[organic-reactions]] — organic reactions
 - [[popes]] — popes
 - [[programming-terms]] — programming terms
 - [[religious-texts]] — religious texts
+- [[rocket-scientists]] — rocket scientists
+- [[rocks-and-minerals]] — rocks and minerals
+- [[scientific-experiments]] — scientific experiments
+- [[scientific-scales]] — scientific scales
+- [[space-missions]] — space missions
+- [[techniques-in-biotechnology]] — techniques in biotechnology
 
 ## Full catalogue (by NAQT category)
 
@@ -49,7 +62,7 @@ The first subject branch. Each links to its list MOC.
 - [[north-american-rivers]] — North American rivers
 - [[western-european-rivers]] — western European rivers
 
-## History  ·  4/58 built
+## History  ·  5/58 built
 
 - [[20th-century-african-leaders]] — 20th-century African leaders
 - [[20th-century-middle-eastern-leaders]] — 20th-century Middle Eastern leaders
@@ -99,7 +112,7 @@ The first subject branch. Each links to its list MOC.
 - [[russian-tsars]] — Russian tsars
 - [[secretaries-of-state]] — Secretaries of State
 - [[south-american-political-leaders]] — South American political leaders
-- [[space-missions]] — space missions
+- ✅ [[space-missions]] — space missions
 - [[spies]] — spies
 - [[supreme-court-cases]] — Supreme Court cases
 - [[supreme-court-cases-2]] — Supreme Court cases
@@ -227,37 +240,37 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[popes]] — popes
 - ✅ [[religious-texts]] — religious texts
 
-## Science  ·  12/30 built
+## Science  ·  25/30 built
 
 - ✅ [[20th-century-physicists]] — 20th-century physicists
 - ✅ [[active-volcanoes]] — active volcanoes
 - ✅ [[phyla]] — animal phyla
 - ✅ [[chemical-elements]] — chemical elements
 - ✅ [[chemistry-lab-techniques]] — chemistry lab techniques
-- [[circuit-components]] — circuit components
+- ✅ [[circuit-components]] — circuit components
 - ✅ [[classes-of-particles]] — classes of particles
 - [[classifications-of-functions]] — classifications of mathematical functions
-- [[computer-components]] — computer components
+- ✅ [[computer-components]] — computer components
 - ✅ [[quantum-mechanics-concepts]] — concepts from quantum mechanics
-- [[plant-distinctions]] — distinctions among types of plants
-- [[dwarf-planets-comets-and-asteroids]] — dwarf planets, comets, and asteroids
+- ✅ [[plant-distinctions]] — distinctions among types of plants
+- ✅ [[dwarf-planets-comets-and-asteroids]] — dwarf planets, comets, and asteroids
 - ✅ [[enzymes]] — enzymes
 - ✅ [[functional-groups]] — functional groups
-- [[geologic-time-periods]] — geologic time periods
+- ✅ [[geologic-time-periods]] — geologic time periods
 - [[geometric-curves]] — geometric curves
 - [[calculus-ideas]] — ideas from calculus
 - [[mathematicians]] — mathematicians
-- [[moons]] — moons
-- [[nobel-prize-winners-in-medicine]] — Nobel Prize winners in physiology or medicine
+- ✅ [[moons]] — moons
+- ✅ [[nobel-prize-winners-in-medicine]] — Nobel Prize winners in physiology or medicine
 - ✅ [[organelles]] — organelles
 - ✅ [[organic-reactions]] — organic reactions
 - ✅ [[programming-terms]] — programming terms
-- [[rocket-scientists]] — rocket scientists
-- [[rocks-and-minerals]] — rocks and minerals
-- [[scientific-experiments]] — scientific experiments
-- [[scientific-scales]] — scientific scales
-- [[space-missions]] — space missions
-- [[techniques-in-biotechnology]] — techniques in biotechnology
+- ✅ [[rocket-scientists]] — rocket scientists
+- ✅ [[rocks-and-minerals]] — rocks and minerals
+- ✅ [[scientific-experiments]] — scientific experiments
+- ✅ [[scientific-scales]] — scientific scales
+- ✅ [[space-missions]] — space missions
+- ✅ [[techniques-in-biotechnology]] — techniques in biotechnology
 - [[computation-types]] — types of computation problems
 
 ## Social Science  ·  0/9 built

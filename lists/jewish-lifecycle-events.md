@@ -4,7 +4,7 @@ category: religion
 read: false
 ---
 
-# Jewish Lifecycle Events
+# Jewish lifecycle events
 
 The rites marking birth, coming of age, marriage, death, and conversion in Judaism.
 

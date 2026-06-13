@@ -4,7 +4,7 @@ category: religion
 read: false
 ---
 
-# Religious Texts
+# religious texts
 
 The core scriptures and classic texts of the world's religious traditions.
 

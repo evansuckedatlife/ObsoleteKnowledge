@@ -4,7 +4,7 @@ category: mythology
 read: false
 ---
 
-# Norse Gods
+# Norse gods
 
 The principal deities of Norse mythology, from Odin to the Norns.
 

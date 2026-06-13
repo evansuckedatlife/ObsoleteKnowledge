@@ -4,7 +4,7 @@ category: mythology
 read: false
 ---
 
-# Greek Heroes
+# Greek heroes
 
 The great mortal and demigod heroes of Greek mythology and their legendary exploits.
 

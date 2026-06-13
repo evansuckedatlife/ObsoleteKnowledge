@@ -4,7 +4,7 @@ category: religion
 read: false
 ---
 
-# New Testament Characters
+# New Testament characters
 
 Key figures of the New Testament surrounding Jesus and the early Church.
 

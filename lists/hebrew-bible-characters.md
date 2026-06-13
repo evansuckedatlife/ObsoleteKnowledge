@@ -4,7 +4,7 @@ category: religion
 read: false
 ---
 
-# Hebrew Bible Characters
+# characters in the Hebrew Bible
 
 Major figures of the Hebrew Bible (Old Testament), from the patriarchs to the prophets.
 

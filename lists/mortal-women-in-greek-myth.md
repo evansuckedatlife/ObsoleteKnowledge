@@ -4,7 +4,7 @@ category: mythology
 read: false
 ---
 
-# Mortal Women in Greek Myth
+# mortal women in Greek myth
 
 Famous mortal women of Greek mythology — queens, sorceresses, and tragic figures.
 

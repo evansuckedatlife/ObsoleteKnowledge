@@ -4,7 +4,7 @@ category: mythology
 read: false
 ---
 
-# Arthurian Characters
+# Arthurian characters
 
 The knights, ladies, and wizards of the legend of King Arthur and Camelot.
 

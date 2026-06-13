@@ -4,26 +4,26 @@ category: science
 read: false
 ---
 
-# Chemistry Lab Techniques
+# chemistry lab techniques
 
-Common experimental methods and practices used to separate, purify, analyze, and quantify chemical substances.
+The chemistry lab techniques most worth knowing for quiz bowl.
 
 ## nodes
 
-- [[chromatography|Chromatography]] — separates components of mixtures using a stationary phase and a mobile phase.
-- [[distillation|Distillation]] — separates liquid mixtures based on differences in boiling points or volatile behaviors.
-- [[titration|Titration]] — quantifies the concentration of an unknown analyte by adding a reactant of known concentration.
-- [[calorimetry|Calorimetry]] — measures the heat flow and energy changes associated with chemical and physical processes.
-- [[spectroscopy|Spectroscopy]] — analyzes the interaction between matter and electromagnetic radiation to determine structure and concentration.
-- [[filtration|Filtration]] — separates solid particulate matter from a fluid using a porous physical barrier.
-- [[centrifugation|Centrifugation]] — separates components of different densities using high-speed rotational force.
-- [[recrystallization|Recrystallization]] — purifies solid organic compounds based on their temperature-dependent solubility.
-- [[pipetting|Pipetting]] — transfers precise volumes of liquid reagents using volumetric, graduated, or micropipettes.
-- [[electrolysis|Electrolysis]] — drives non-spontaneous redox reactions using a direct electric current.
+- [[calorimetry|Calorimetry]] — Calorimetry is a laboratory technique used to measure the amount of heat transferred to or from a substance during chemical…
+- [[centrifugation|Centrifugation]] — Centrifugation is a laboratory technique that uses centrifugal force to separate particles of different densities from a…
+- [[chromatography|Chromatography]] — Chromatography is a versatile laboratory technique used to separate, purify, and analyze the individual components of complex…
+- [[distillation|Distillation]] — Distillation is a widely used laboratory and industrial technique for separating the components of a liquid mixture based on…
+- [[electrolysis|Electrolysis]] — Electrolysis is a technique that uses a direct electric current (DC) to drive an otherwise non-spontaneous chemical reaction.
+- [[filtration|Filtration]] — Filtration is a physical or mechanical laboratory operation used to separate solid particles from a fluid (liquid or gas) by…
+- [[pipetting|Pipetting]] — Pipetting is a fundamental laboratory technique used to measure and transfer a precise volume of liquid.
+- [[recrystallization|Recrystallization]] — Recrystallization is a chemical purification technique used to dissolve an impure solid in a hot solvent and then cool the…
+- [[spectroscopy|Spectroscopy]] — Spectroscopy is the study of the interaction between electromagnetic radiation and matter.
+- [[titration|Titration]] — Titration is a quantitative chemical analysis method used to determine the unknown concentration of an identified analyte.
 
 ## progress
 
-Live read-status for this list (requires the **Bases** core plugin).
+Live read-status for this list (requires the **Bases** core plugin). Flip a node's `read` from its footer toggle and it moves here.
 
 ```base
 filters:

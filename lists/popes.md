@@ -4,28 +4,28 @@ category: religion
 read: false
 ---
 
-# Popes
+# popes
 
-The leaders of the Roman Catholic Church who have shaped European history, Christian theology, and global politics from late antiquity to the modern era.
+The popes most worth knowing for quiz bowl.
 
 ## nodes
 
-- [[peter|Peter]] — Simon Peter, the leader of the apostles and traditionally the first Bishop of Rome.
-- [[leo-i|Leo I]] — the first pope styled "the Great," who defined Christ's dual natures and turned away Attila the Hun.
-- [[gregory-i|Gregory I]] — the first monk to become pope, who sent the Gregorian mission to England and codified liturgical reforms.
-- [[gregory-vii|Gregory VII]] — the reformist pope who battled Holy Roman Emperor Henry IV in the Investiture Controversy.
-- [[urban-ii|Urban II]] — the pope who launched the First Crusade at the Council of Clermont.
-- [[innocent-iii|Innocent III]] — the peak of medieval papal power who convened the Fourth Lateran Council and launched the Fourth Crusade.
-- [[boniface-viii|Boniface VIII]] — the pope who issued the bull *Unam Sanctam* and clashed with Philip IV of France.
-- [[alexander-vi|Alexander VI]] — the notorious Borgia pope who divided the New World and advanced Cesare and Lucrezia's political power.
-- [[julius-ii|Julius II]] — the "Warrior Pope" who rebuilt St. Peter's Basilica and commissioned Michelangelo and Raphael.
-- [[leo-x|Leo X]] — the Medici pope who excommunicated Martin Luther and authorized the sale of indulgences.
-- [[clement-vii|Clement VII]] — the Medici pope who refused Henry VIII's annulment and witnessed the Sack of Rome.
-- [[john-paul-ii|John Paul II]] — the modern Polish pope who helped dismantle Eastern European communism and survived a 1981 assassination attempt.
+- [[alexander-vi|Alexander VI]] — Reigning as pope from 1492 to 1503, Alexander VI (born Rodrigo Borgia) is the most notorious of the Renaissance popes, with a…
+- [[boniface-viii|Boniface VIII]] — Reigning as pope from 1294 to 1303, Boniface VIII (born Benedetto Caetani) is remembered for his extreme claims of papal…
+- [[clement-vii|Clement VII]] — Reigning as pope from 1523 to 1534, Clement VII (born Giulio de' Medici) had a tumultuous pontificate defined by the rapid…
+- [[gregory-i|Gregory I]] — Reigning from 590 to 604, Gregory I was a transformative pope who bridged the transition from the classical Roman world to the…
+- [[gregory-vii|Gregory VII]] — Reigning as pope from 1073 to 1085, Gregory VII (originally named Hildebrand) was a zealous reformer who fought to establish…
+- [[innocent-iii|Innocent III]] — Reigning from 1198 to 1216, Innocent III represents the absolute zenith of medieval papal authority and influence.
+- [[john-paul-ii|John Paul II]] — Reigning as pope from 1978 to 2005, John Paul II (born Karol Wojtyła) was the first non-Italian pope in 455 years and the…
+- [[julius-ii|Julius II]] — Reigning from 1503 to 1513, Julius II was one of the most powerful, active, and influential popes of the High Renaissance.
+- [[leo-i|Leo I]] — Reigning as pope from 440 to 461, Leo I was a key figure in establishing the authority of the bishop of Rome as the supreme…
+- [[leo-x|Leo X]] — Reigning as pope from 1513 to 1521, Leo X (born Giovanni de' Medici) was a lavish patron of the arts and the son of Lorenzo…
+- [[peter|Peter]] — One of Jesus's most prominent apostles, originally a fisherman named Simon who became the rock upon which Jesus built his church.
+- [[urban-ii|Urban II]] — Reigning as pope from 1088 to 1099, Urban II (originally Odo of Châtillon) was a key administrative reformer who continued the…
 
 ## progress
 
-Live read-status for this list (requires the **Bases** core plugin).
+Live read-status for this list (requires the **Bases** core plugin). Flip a node's `read` from its footer toggle and it moves here.
 
 ```base
 filters:

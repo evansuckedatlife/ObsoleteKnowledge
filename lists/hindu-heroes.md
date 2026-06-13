@@ -4,7 +4,7 @@ category: mythology
 read: false
 ---
 
-# Hindu Gods and Heroes
+# Hindu gods and heroes
 
 Central deities and heroes of Hinduism, including the Trimurti and Vishnu's avatars.
 

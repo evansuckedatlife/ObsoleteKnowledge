@@ -4,7 +4,7 @@ category: mythology
 read: false
 ---
 
-# Greek Mythological Monsters
+# Greek mythological monsters
 
 The beasts and hybrid horrors of Greek myth and the heroes who slew them.
 

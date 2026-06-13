@@ -4,7 +4,7 @@ category: religion
 read: false
 ---
 
-# Jewish Holidays
+# Jewish holidays
 
 The major festivals and holy days of the Jewish calendar.
 
