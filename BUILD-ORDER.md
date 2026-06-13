@@ -76,11 +76,11 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [x] [[norse-gods]] — Norse gods
 - [x] [[trojan-war-heroes]] — Trojan War heroes
 
-## Phase 3 — Science  (`concepts/science/`)  ·  2/25 built
+## Phase 3 — Science  (`concepts/science/`)  ·  3/25 built
 
 - [x] [[20th-century-physicists]] — 20th-century physicists
 - [x] [[active-volcanoes]] — active volcanoes
-- [ ] [[phyla]] — animal phyla
+- [x] [[phyla]] — animal phyla
 - [ ] ⭐ [[chemical-elements]] — chemical elements
 - [ ] [[chemistry-lab-techniques]] — chemistry lab techniques
 - [ ] [[circuit-components]] — circuit components

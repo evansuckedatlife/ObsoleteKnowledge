@@ -26,6 +26,7 @@ The first subject branch. Each links to its list MOC.
 - [[popes]] — popes
 - [[20th-century-physicists]] — 20th-century physicists
 - [[active-volcanoes]] — active volcanoes
+- [[phyla]] — animal phyla
 
 ## Full catalogue (by NAQT category)
 
@@ -217,11 +218,11 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[popes]] — popes
 - ✅ [[religious-texts]] — religious texts
 
-## Science  ·  2/30 built
+## Science  ·  3/30 built
 
 - ✅ [[20th-century-physicists]] — 20th-century physicists
 - ✅ [[active-volcanoes]] — active volcanoes
-- [[phyla]] — animal phyla
+- ✅ [[phyla]] — animal phyla
 - [[chemical-elements]] — chemical elements
 - [[chemistry-lab-techniques]] — chemistry lab techniques
 - [[circuit-components]] — circuit components
