@@ -29,7 +29,7 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [x] `concepts/mythology/` — [[athena]] — goddess of wisdom & war
 - [x] `concepts/mythology/` — [[apollo]] — god of the sun, music, prophecy
 - [x] `concepts/mythology/` — [[aphrodite]] — goddess of love
-- [ ] `concepts/mythology/` — [[the-trojan-war]] — the war the Trojan/Greek hero lists orbit
+- [x] `concepts/mythology/` — [[the-trojan-war]] — the war the Trojan/Greek hero lists orbit
 - [ ] `concepts/mythology/` — [[the-iliad]] — Homer's epic of the Trojan War
 - [ ] `concepts/mythology/` — [[the-odyssey]] — Homer's epic of Odysseus' return
 - [ ] `concepts/mythology/` — [[the-aeneid]] — Virgil's epic of Aeneas
