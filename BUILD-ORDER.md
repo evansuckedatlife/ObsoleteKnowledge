@@ -37,7 +37,7 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [x] `concepts/mythology/` — [[holy-grail]] — the object of the Arthurian quest
 - [x] `concepts/mythology/` — [[book-of-the-dead]] — Egyptian funerary text
 - [x] `concepts/mythology/` — [[pharaoh]] — Egyptian god-king institution
-- [ ] `concepts/religion/` — [[trimurti]] — Hindu triad: Brahma, Vishnu, Shiva
+- [x] `concepts/religion/` — [[trimurti]] — Hindu triad: Brahma, Vishnu, Shiva
 - [ ] `concepts/religion/` — [[mahabharata]] — Hindu epic containing the Bhagavad Gita
 - [ ] `concepts/religion/` — [[ramayana]] — Hindu epic of Rama
 - [ ] `concepts/religion/` — [[jesus]] — central figure of Christianity / the NT
