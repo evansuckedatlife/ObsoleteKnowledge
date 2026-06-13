@@ -3,7 +3,7 @@ type: term
 category: mathematics
 defines: [Conic Sections]
 related: ["[[circle]]", "[[ellipse]]", "[[parabola]]", "[[hyperbola]]", "[[euclid]]"]
-lists: ["[[geometric-curves]]"]
+lists: []
 read: false
 ---
 
@@ -40,4 +40,4 @@ read: false
 
 ---
 
-Lists: [[geometric-curves]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`

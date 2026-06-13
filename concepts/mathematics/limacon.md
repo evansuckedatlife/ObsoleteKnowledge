@@ -3,7 +3,7 @@ type: term
 category: mathematics
 defines: [Limacon, Limaçon, Limacon of Pascal]
 related: ["[[cardioid]]", "[[pascal]]", "[[polar-curves]]", "[[epicycloid]]"]
-lists: ["[[geometric-curves]]"]
+lists: []
 read: false
 ---
 
@@ -39,4 +39,4 @@ A *limacon* (or *limaçon*, French for "snail") is a rose-like curve defined in 
 
 ---
 
-Lists: [[geometric-curves]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`

@@ -3,7 +3,7 @@ type: term
 category: mathematics
 defines: [Witch of Agnesi, Versiera]
 related: ["[[maria-agnesi]]", "[[newton]]", "[[catenary]]"]
-lists: ["[[geometric-curves]]"]
+lists: []
 read: false
 ---
 
@@ -38,4 +38,4 @@ The *Witch of Agnesi* is a smooth, bell-shaped curve with a centuries-long histo
 
 ---
 
-Lists: [[geometric-curves]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`
