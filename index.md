@@ -24,6 +24,7 @@ The first subject branch. Each links to its list MOC.
 - [[roman-emperors]] — Roman emperors
 - [[british-monarchs]] — British monarchs
 - [[popes]] — popes
+- [[20th-century-physicists]] — 20th-century physicists
 
 ## Full catalogue (by NAQT category)
 
@@ -215,9 +216,9 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[popes]] — popes
 - ✅ [[religious-texts]] — religious texts
 
-## Science  ·  0/30 built
+## Science  ·  1/30 built
 
-- [[20th-century-physicists]] — 20th-century physicists
+- ✅ [[20th-century-physicists]] — 20th-century physicists
 - [[active-volcanoes]] — active volcanoes
 - [[phyla]] — animal phyla
 - [[chemical-elements]] — chemical elements
