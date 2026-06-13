@@ -9,8 +9,7 @@ related:
   - "[[np-complexity-class]]"
   - "[[decision-problem]]"
   - "[[optimization-problem]]"
-lists:
-  - "[[computation-types]]"
+lists: []
 read: false
 ---
 
@@ -45,4 +44,4 @@ read: false
 
 ---
 
-Lists: [[computation-types]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`

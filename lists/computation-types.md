@@ -10,20 +10,20 @@ The types of computation problems most worth knowing for quiz bowl.
 
 ## nodes
 
-- [[decision-problem|Decision Problem]] — A decision problem is a computational problem with a yes-or-no (binary) answer: given an input, determine whether it satisfies…
-- [[halting-problem|Halting Problem]] — The Halting Problem asks: given an arbitrary algorithm and an input, will the algorithm terminate or loop forever?
-- [[np-complexity-class|NP (Complexity Class)]] — NP is the complexity class of decision problems whose solutions can be verified in polynomial time, even if finding them may…
-- [[np-complete|NP-Complete]] — NP-complete problems are the hardest problems in NP: they are both in NP (verifiable in polynomial time) and NP-hard (at least…
-- [[np-hard|NP-Hard]] — NP-hard problems are at least as computationally hard as the hardest problems in NP, defined by the property that every…
-- [[optimization-problem|Optimization Problem]] — An optimization problem seeks the best solution from a set of candidates according to some criterion—maximizing profit,…
-- [[p-complexity-class|P (Complexity Class)]] — P is the complexity class of decision problems solvable in polynomial time—that is, by a deterministic algorithm in a number…
-- [[space-complexity|Space Complexity]] — Space complexity measures the amount of memory (auxiliary storage) an algorithm uses as a function of input size, expressed in…
-- [[time-complexity|Time Complexity]] — Time complexity measures how the running time of an algorithm grows with the size of the input, typically expressed using Big…
-- [[turing-machine|Turing Machine]] — A Turing machine is an abstract mathematical model of computation introduced by Alan Turing in 1936 that consists of an…
+- [[p-vs-np-problem|P vs NP Problem]] — The fundamental question of whether verifying a solution's correctness is as easy as finding it.
+- [[halting-problem|Halting Problem]] — The undecidable problem of determining whether an arbitrary computer program will eventually finish running or loop forever.
+- [[traveling-salesman-problem|Traveling Salesman Problem]] — An NP-hard optimization problem seeking the shortest cycle that visits each vertex of a weighted graph exactly once.
+- [[knapsack-problem|Knapsack Problem]] — An NP-complete optimization problem seeking the most valuable subset of items that fits within a weight limit.
+- [[sorting-algorithms|Sorting Algorithms]] — Systematic procedures for rearranging a sequence of elements into numerical or alphabetical order.
+- [[matrix-multiplication|Matrix Multiplication]] — A core algebraic operation whose optimal asymptotic time complexity remains a major open question.
+- [[graph-coloring|Graph Coloring]] — An NP-complete problem that assigns colors to vertices such that no adjacent vertices share a color.
+- [[shortest-path-problem|Shortest Path Problem]] — The polynomial-time problem of finding the route of minimum total weight between vertices in a graph.
+- [[primality-testing|Primality Testing]] — The polynomial-time decision problem of determining whether a given integer is a prime number.
+- [[integer-factorization|Integer Factorization]] — The computationally difficult problem of decomposing a composite integer into its prime factors.
 
 ## progress
 
-Live read-status for this list (requires the **Bases** core plugin). Flip a node's `read` from its footer toggle and it moves here.
+Live read-status for this list (requires the **Bases** core plugin).
 
 ```base
 filters:

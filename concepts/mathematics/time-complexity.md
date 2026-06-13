@@ -10,8 +10,7 @@ related:
   - "[[np-complexity-class]]"
   - "[[space-complexity]]"
   - "[[turing-machine]]"
-lists:
-  - "[[computation-types]]"
+lists: []
 read: false
 ---
 
@@ -47,4 +46,4 @@ read: false
 
 ---
 
-Lists: [[computation-types]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`

@@ -9,7 +9,6 @@ related:
   - "[[np-hard]]"
   - "[[np-complete]]"
 lists:
-  - "[[computation-types]]"
   - "[[calculus-ideas]]"
 read: false
 ---
@@ -44,4 +43,4 @@ An **optimization problem** seeks the best solution from a set of candidates acc
 
 ---
 
-Lists: [[computation-types]] · [[calculus-ideas]] · Mark read: `INPUT[toggle:read]`
+Lists: [[calculus-ideas]] · Mark read: `INPUT[toggle:read]`

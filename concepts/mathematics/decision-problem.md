@@ -9,8 +9,7 @@ related:
   - "[[np-complexity-class]]"
   - "[[optimization-problem]]"
   - "[[turing-machine]]"
-lists:
-  - "[[computation-types]]"
+lists: []
 read: false
 ---
 
@@ -45,4 +44,4 @@ A **decision problem** is a computational problem with a yes-or-no (binary) answ
 
 ---
 
-Lists: [[computation-types]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`

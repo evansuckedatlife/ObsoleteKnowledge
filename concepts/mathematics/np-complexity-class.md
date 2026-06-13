@@ -11,8 +11,7 @@ related:
   - "[[np-hard]]"
   - "[[decision-problem]]"
   - "[[time-complexity]]"
-lists:
-  - "[[computation-types]]"
+lists: []
 read: false
 ---
 
@@ -48,4 +47,4 @@ read: false
 
 ---
 
-Lists: [[computation-types]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`

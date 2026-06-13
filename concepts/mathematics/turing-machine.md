@@ -11,8 +11,7 @@ related:
   - "[[np-complexity-class]]"
   - "[[halting-problem]]"
   - "[[time-complexity]]"
-lists:
-  - "[[computation-types]]"
+lists: []
 read: false
 ---
 
@@ -48,4 +47,4 @@ A **Turing machine** is an abstract mathematical model of computation introduced
 
 ---
 
-Lists: [[computation-types]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`
