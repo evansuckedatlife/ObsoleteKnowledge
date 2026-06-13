@@ -3,7 +3,7 @@ type: term
 category: mathematics
 defines: [Rational Function]
 related: ["[[polynomial-function]]", "[[quadratic-function]]", "[[discontinuity]]"]
-lists: ["[[classifications-of-functions]]"]
+lists: []
 read: false
 ---
 
@@ -36,4 +36,4 @@ A *rational function* is a quotient of two polynomials, written as `f(x) = P(x) 
 
 ---
 
-Lists: [[classifications-of-functions]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`

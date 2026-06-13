@@ -3,7 +3,7 @@ type: term
 category: mathematics
 defines: [Monomial, Monomial Function]
 related: ["[[polynomial-function]]", "[[power-function]]"]
-lists: ["[[classifications-of-functions]]"]
+lists: []
 read: false
 ---
 
@@ -36,4 +36,4 @@ A *monomial* is a single term consisting of a constant coefficient multiplied by
 
 ---
 
-Lists: [[classifications-of-functions]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`

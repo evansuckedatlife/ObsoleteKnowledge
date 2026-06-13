@@ -3,7 +3,7 @@ type: term
 category: mathematics
 defines: [Trigonometric Function, Trig Function]
 related: ["[[sine-function]]", "[[cosine-function]]", "[[tangent-function]]", "[[periodic-function]]", "[[inverse-trigonometric-function]]"]
-lists: ["[[classifications-of-functions]]"]
+lists: []
 read: false
 ---
 
@@ -36,4 +36,4 @@ read: false
 
 ---
 
-Lists: [[classifications-of-functions]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`

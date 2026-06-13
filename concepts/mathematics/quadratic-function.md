@@ -3,7 +3,7 @@ type: term
 category: mathematics
 defines: [Quadratic Function, Quadratic]
 related: ["[[polynomial-function]]", "[[monomial-function]]", "[[rational-function]]"]
-lists: ["[[classifications-of-functions]]"]
+lists: []
 read: false
 ---
 
@@ -36,4 +36,4 @@ A *quadratic function* is a polynomial of degree 2, written as `f(x) = ax² + bx
 
 ---
 
-Lists: [[classifications-of-functions]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`

@@ -3,7 +3,7 @@ type: term
 category: mathematics
 defines: [Exponential Function]
 related: ["[[logarithmic-function]]", "[[continuous-functions]]", "[[derivative]]", "[[e-mathematical-constant]]"]
-lists: ["[[classifications-of-functions]]"]
+lists: []
 read: false
 ---
 
@@ -36,4 +36,4 @@ An *exponential function* has the form `f(x) = aˣ` (or more generally `f(x) = a
 
 ---
 
-Lists: [[classifications-of-functions]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`

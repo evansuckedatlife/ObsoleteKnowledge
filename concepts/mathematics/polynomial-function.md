@@ -3,7 +3,7 @@ type: term
 category: mathematics
 defines: [Polynomial Function, Polynomial]
 related: ["[[monomial-function]]", "[[rational-function]]", "[[continuous-functions]]"]
-lists: ["[[classifications-of-functions]]"]
+lists: []
 read: false
 ---
 
@@ -37,4 +37,4 @@ A *polynomial function* is an algebraic function composed of a sum of terms, eac
 
 ---
 
-Lists: [[classifications-of-functions]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`

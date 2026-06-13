@@ -3,7 +3,7 @@ type: term
 category: mathematics
 defines: [Logarithmic Function, Logarithm]
 related: ["[[exponential-function]]", "[[e-mathematical-constant]]", "[[inverse-function]]"]
-lists: ["[[classifications-of-functions]]"]
+lists: []
 read: false
 ---
 
@@ -36,4 +36,4 @@ A *logarithmic function* is the inverse of an exponential function, written as `
 
 ---
 
-Lists: [[classifications-of-functions]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`
