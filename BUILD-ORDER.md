@@ -20,7 +20,7 @@ Rules that never bend: original content only (no NAQT prose), one node per entit
 
 **Legend:** ⭐ = Tier-1 Cornerstone (deep treatment). All Phase-0 hub nodes are Tier 1.
 
-**Scope:** 187 unique NAQT topics (43 built, 31 ⭐ Tier-1) + 23 hub nodes (all Tier 1).
+**Scope:** 187 unique NAQT topics (57 built, 31 ⭐ Tier-1) + 23 hub nodes (all Tier 1).
 
 ---
 
@@ -104,14 +104,14 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [x] [[space-missions]] — space missions
 - [x] [[techniques-in-biotechnology]] — techniques in biotechnology
 
-## Phase 4 — Mathematics  (`concepts/mathematics/`)  ·  0/6 built
+## Phase 4 — Mathematics  (`concepts/mathematics/`)  ·  6/6 built
 
-- [ ] [[classifications-of-functions]] — classifications of mathematical functions
-- [ ] [[geometric-curves]] — geometric curves
-- [ ] ⭐ [[calculus-ideas]] — ideas from calculus
-- [ ] ⭐ [[mathematicians]] — mathematicians
-- [ ] [[statements-about-prime-numbers]] — statements about prime numbers
-- [ ] [[computation-types]] — types of computation problems
+- [x] [[classifications-of-functions]] — classifications of mathematical functions
+- [x] [[geometric-curves]] — geometric curves
+- [x] ⭐ [[calculus-ideas]] — ideas from calculus
+- [x] ⭐ [[mathematicians]] — mathematicians
+- [x] [[statements-about-prime-numbers]] — statements about prime numbers
+- [x] [[computation-types]] — types of computation problems
 
 ## Phase 5 — Literature  (`concepts/literature/`)  ·  0/23 built
 
@@ -234,14 +234,14 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [ ] [[skyscrapers]] — skyscrapers
 - [ ] [[works-by-leonardo-da-vinci]] — works by Leonardo da Vinci
 
-## Phase 10 — Geography  (`concepts/geography/`)  ·  0/6 built
+## Phase 10 — Geography  (`concepts/geography/`)  ·  6/6 built
 
-- [ ] [[african-bodies-of-water]] — African bodies of water
-- [ ] [[asian-rivers]] — Asian rivers
-- [ ] [[deserts]] — deserts
-- [ ] [[mountains]] — mountains
-- [ ] [[north-american-rivers]] — North American rivers
-- [ ] [[western-european-rivers]] — western European rivers
+- [x] [[african-bodies-of-water]] — African bodies of water
+- [x] [[asian-rivers]] — Asian rivers
+- [x] [[deserts]] — deserts
+- [x] [[mountains]] — mountains
+- [x] [[north-american-rivers]] — North American rivers
+- [x] [[western-european-rivers]] — western European rivers
 
 ## Phase 11 — Social Science  (`concepts/social-science/`)  ·  0/9 built
 
@@ -255,10 +255,10 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [ ] ⭐ [[psychologists]] — psychologists
 - [ ] [[unique-languages]] — unique languages
 
-## Phase 12 — Philosophy  (`concepts/philosophy/`)  ·  0/2 built
+## Phase 12 — Philosophy  (`concepts/philosophy/`)  ·  2/2 built
 
-- [ ] ⭐ [[ancient-philosophers]] — ancient philosophers
-- [ ] ⭐ [[schools-of-western-philosophy]] — schools of Western philosophy
+- [x] ⭐ [[ancient-philosophers]] — ancient philosophers
+- [x] ⭐ [[schools-of-western-philosophy]] — schools of Western philosophy
 
 ## Phase 13 — Popular Culture  (`concepts/pop-culture/`)  ·  0/7 built
 

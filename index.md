@@ -1,13 +1,15 @@
 # ObsoleteKnowledge — Master Index
 
-The full catalogue of **187 topics** (NAQT cross-lists some, so 211 entries appear across the categories below), the scope this vault grows into. Live links (**43 built**) have a list MOC and member nodes; everything else is a **dangling link — the frontier**, scoped but unwritten. Open the graph view to watch the frontier light up as unresolved nodes.
+The full catalogue of **187 topics** (NAQT cross-lists some, so 211 entries appear across the categories below), the scope this vault grows into. Live links (**57 built**) have a list MOC and member nodes; everything else is a **dangling link — the frontier**, scoped but unwritten. Open the graph view to watch the frontier light up as unresolved nodes.
 
 ## Built so far — Mythology & Belief
 
 The first subject branch. Each links to its list MOC.
 
 - [[20th-century-physicists]] — 20th-century physicists
+- [[african-bodies-of-water]] — African bodies of water
 - [[arthurian-characters]] — Arthurian characters
+- [[asian-rivers]] — Asian rivers
 - [[biblical-sayings]] — Biblical sayings
 - [[british-monarchs]] — British monarchs
 - [[egyptian-deities]] — Egyptian deities
@@ -19,25 +21,33 @@ The first subject branch. Each links to its list MOC.
 - [[new-testament-characters]] — New Testament characters
 - [[nobel-prize-winners-in-medicine]] — Nobel Prize winners in physiology or medicine
 - [[norse-gods]] — Norse gods
+- [[north-american-rivers]] — North American rivers
 - [[roman-emperors]] — Roman emperors
 - [[trojan-war-heroes]] — Trojan War heroes
 - [[active-volcanoes]] — active volcanoes
+- [[ancient-philosophers]] — ancient philosophers
 - [[phyla]] — animal phyla
 - [[hebrew-bible-characters]] — characters in the Hebrew Bible
 - [[chemical-elements]] — chemical elements
 - [[chemistry-lab-techniques]] — chemistry lab techniques
 - [[circuit-components]] — circuit components
 - [[classes-of-particles]] — classes of particles
+- [[classifications-of-functions]] — classifications of mathematical functions
 - [[computer-components]] — computer components
 - [[quantum-mechanics-concepts]] — concepts from quantum mechanics
+- [[deserts]] — deserts
 - [[plant-distinctions]] — distinctions among types of plants
 - [[dwarf-planets-comets-and-asteroids]] — dwarf planets, comets, and asteroids
 - [[enzymes]] — enzymes
 - [[founders-of-religious-traditions]] — founders of religious traditions
 - [[functional-groups]] — functional groups
 - [[geologic-time-periods]] — geologic time periods
+- [[geometric-curves]] — geometric curves
+- [[calculus-ideas]] — ideas from calculus
+- [[mathematicians]] — mathematicians
 - [[moons]] — moons
 - [[mortal-women-in-greek-myth]] — mortal women in Greek myth
+- [[mountains]] — mountains
 - [[organelles]] — organelles
 - [[organic-reactions]] — organic reactions
 - [[popes]] — popes
@@ -45,22 +55,26 @@ The first subject branch. Each links to its list MOC.
 - [[religious-texts]] — religious texts
 - [[rocket-scientists]] — rocket scientists
 - [[rocks-and-minerals]] — rocks and minerals
+- [[schools-of-western-philosophy]] — schools of Western philosophy
 - [[scientific-experiments]] — scientific experiments
 - [[scientific-scales]] — scientific scales
 - [[space-missions]] — space missions
+- [[statements-about-prime-numbers]] — statements about prime numbers
 - [[techniques-in-biotechnology]] — techniques in biotechnology
+- [[computation-types]] — types of computation problems
+- [[western-european-rivers]] — western European rivers
 
 ## Full catalogue (by NAQT category)
 
-## Geography  ·  1/7 built
+## Geography  ·  7/7 built
 
 - ✅ [[active-volcanoes]] — active volcanoes
-- [[african-bodies-of-water]] — African bodies of water
-- [[asian-rivers]] — Asian rivers
-- [[deserts]] — deserts
-- [[mountains]] — mountains
-- [[north-american-rivers]] — North American rivers
-- [[western-european-rivers]] — western European rivers
+- ✅ [[african-bodies-of-water]] — African bodies of water
+- ✅ [[asian-rivers]] — Asian rivers
+- ✅ [[deserts]] — deserts
+- ✅ [[mountains]] — mountains
+- ✅ [[north-american-rivers]] — North American rivers
+- ✅ [[western-european-rivers]] — western European rivers
 
 ## History  ·  5/58 built
 
@@ -153,14 +167,14 @@ The first subject branch. Each links to its list MOC.
 - [[works-of-mystery-and-detective-fiction]] — works of mystery and detective fiction
 - [[works-of-russian-short-fiction]] — works of Russian short fiction
 
-## Mathematics  ·  0/6 built
+## Mathematics  ·  6/6 built
 
-- [[classifications-of-functions]] — classifications of mathematical functions
-- [[geometric-curves]] — geometric curves
-- [[calculus-ideas]] — ideas from calculus
-- [[mathematicians]] — mathematicians
-- [[statements-about-prime-numbers]] — statements about prime numbers
-- [[computation-types]] — types of computation problems
+- ✅ [[classifications-of-functions]] — classifications of mathematical functions
+- ✅ [[geometric-curves]] — geometric curves
+- ✅ [[calculus-ideas]] — ideas from calculus
+- ✅ [[mathematicians]] — mathematicians
+- ✅ [[statements-about-prime-numbers]] — statements about prime numbers
+- ✅ [[computation-types]] — types of computation problems
 
 ## Miscellaneous  ·  0/5 built
 
@@ -209,10 +223,10 @@ The first subject branch. Each links to its list MOC.
 - [[musicals-part-2]] — musicals
 - [[operas]] — operas
 
-## Philosophy  ·  0/2 built
+## Philosophy  ·  2/2 built
 
-- [[ancient-philosophers]] — ancient philosophers
-- [[schools-of-western-philosophy]] — schools of Western philosophy
+- ✅ [[ancient-philosophers]] — ancient philosophers
+- ✅ [[schools-of-western-philosophy]] — schools of Western philosophy
 
 ## Popular Culture  ·  0/11 built
 
@@ -240,7 +254,7 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[popes]] — popes
 - ✅ [[religious-texts]] — religious texts
 
-## Science  ·  25/30 built
+## Science  ·  30/30 built
 
 - ✅ [[20th-century-physicists]] — 20th-century physicists
 - ✅ [[active-volcanoes]] — active volcanoes
@@ -249,7 +263,7 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[chemistry-lab-techniques]] — chemistry lab techniques
 - ✅ [[circuit-components]] — circuit components
 - ✅ [[classes-of-particles]] — classes of particles
-- [[classifications-of-functions]] — classifications of mathematical functions
+- ✅ [[classifications-of-functions]] — classifications of mathematical functions
 - ✅ [[computer-components]] — computer components
 - ✅ [[quantum-mechanics-concepts]] — concepts from quantum mechanics
 - ✅ [[plant-distinctions]] — distinctions among types of plants
@@ -257,9 +271,9 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[enzymes]] — enzymes
 - ✅ [[functional-groups]] — functional groups
 - ✅ [[geologic-time-periods]] — geologic time periods
-- [[geometric-curves]] — geometric curves
-- [[calculus-ideas]] — ideas from calculus
-- [[mathematicians]] — mathematicians
+- ✅ [[geometric-curves]] — geometric curves
+- ✅ [[calculus-ideas]] — ideas from calculus
+- ✅ [[mathematicians]] — mathematicians
 - ✅ [[moons]] — moons
 - ✅ [[nobel-prize-winners-in-medicine]] — Nobel Prize winners in physiology or medicine
 - ✅ [[organelles]] — organelles
@@ -271,7 +285,7 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[scientific-scales]] — scientific scales
 - ✅ [[space-missions]] — space missions
 - ✅ [[techniques-in-biotechnology]] — techniques in biotechnology
-- [[computation-types]] — types of computation problems
+- ✅ [[computation-types]] — types of computation problems
 
 ## Social Science  ·  0/9 built
 
