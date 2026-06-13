@@ -3,7 +3,7 @@ type: person
 category: mathematics
 defines: [Andrew Wiles, Wiles]
 related: ["[[fermat-last-theorem]]", "[[elliptic-curves]]", "[[modular-forms]]", "[[taniyama-shimura-conjecture]]", "[[pierre-de-fermat]]"]
-lists: ["[[mathematicians]]"]
+lists: []
 read: false
 ---
 
@@ -49,4 +49,4 @@ Wiles' proof of Fermat's Last Theorem is one of the 20th century's greatest math
 
 ---
 
-Lists: [[mathematicians]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`

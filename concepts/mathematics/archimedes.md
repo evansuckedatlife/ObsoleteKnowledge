@@ -3,7 +3,7 @@ type: person
 category: mathematics
 defines: [Archimedes, Archimedes of Syracuse]
 related: ["[[geometry]]", "[[calculus]]", "[[buoyancy]]", "[[mechanics]]", "[[pi]]"]
-lists: ["[[mathematicians]]"]
+lists: []
 read: false
 ---
 
@@ -51,4 +51,4 @@ Archimedes bridged the ancient and modern worlds. His *method of exhaustion* was
 
 ---
 
-Lists: [[mathematicians]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`

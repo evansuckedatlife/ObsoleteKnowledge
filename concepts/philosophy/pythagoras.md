@@ -3,7 +3,7 @@ type: person
 category: philosophy
 defines: [Pythagoras, Pythagoreanism]
 related: ["[[pythagorean-theorem]]", "[[number-theory]]", "[[pre-socratic-philosophy]]", "[[orphism]]"]
-lists: ["[[ancient-philosophers]]"]
+lists: ["[[ancient-philosophers]]", "[[mathematicians]]"]
 read: false
 ---
 
@@ -61,4 +61,4 @@ Pythagoras represents the merger of rationalism and mysticism—the idea that re
 
 ---
 
-Lists: [[ancient-philosophers]] · Mark read: `INPUT[toggle:read]`
+Lists: [[ancient-philosophers]] · [[mathematicians]] · Mark read: `INPUT[toggle:read]`

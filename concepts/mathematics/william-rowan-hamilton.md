@@ -3,7 +3,7 @@ type: person
 category: mathematics
 defines: [William Rowan Hamilton, Hamilton, "Sir William Rowan Hamilton"]
 related: ["[[quaternions]]", "[[hamiltonian-mechanics]]", "[[complex-numbers]]", "[[vector-algebra]]", "[[optics]]"]
-lists: ["[[mathematicians]]"]
+lists: []
 read: false
 ---
 
@@ -51,4 +51,4 @@ Hamilton's Hamiltonian formulation seemed like a mathematical reformulation—a 
 
 ---
 
-Lists: [[mathematicians]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`

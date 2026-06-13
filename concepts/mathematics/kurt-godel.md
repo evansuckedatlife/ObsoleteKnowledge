@@ -3,7 +3,7 @@ type: person
 category: mathematics
 defines: [Kurt Gödel, Gödel]
 related: ["[[logic]]", "[[incompleteness-theorems]]", "[[axioms]]", "[[hilbert-program]]", "[[undecidability]]"]
-lists: ["[[mathematicians]]"]
+lists: []
 read: false
 ---
 
@@ -50,4 +50,4 @@ Gödel's theorems hit the mathematical world like a thunderbolt. The 19th and ea
 
 ---
 
-Lists: [[mathematicians]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`
