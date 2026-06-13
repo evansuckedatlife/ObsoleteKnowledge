@@ -44,7 +44,7 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [x] `concepts/religion/` — [[judaism]] — the tradition the Hebrew-Bible/holiday/lifecycle lists orbit
 - [x] `concepts/religion/` — [[torah]] — the first five books / core of Judaism
 - [x] `concepts/religion/` — [[gospels]] — the four NT accounts of Jesus
-- [ ] `concepts/religion/` — [[crucifixion]] — the death of Jesus
+- [x] `concepts/religion/` — [[crucifixion]] — the death of Jesus
 - [ ] `concepts/religion/` — [[exodus]] — the departure from Egypt under Moses
 - [ ] `concepts/religion/` — [[buddhism]] — tradition founded by Siddhartha Gautama
 - [ ] `concepts/religion/` — [[temple-in-jerusalem]] — First & Second Temples
