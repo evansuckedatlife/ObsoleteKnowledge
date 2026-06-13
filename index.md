@@ -21,6 +21,8 @@ The first subject branch. Each links to its list MOC.
 - [[founders-of-religious-traditions]] — founders of religious traditions
 - [[mortal-women-in-greek-myth]] — mortal women in Greek myth
 - [[religious-texts]] — religious texts
+- [[roman-emperors]] — Roman emperors
+- [[british-monarchs]] — British monarchs
 
 ## Full catalogue (by NAQT category)
 
@@ -34,7 +36,7 @@ The first subject branch. Each links to its list MOC.
 - [[north-american-rivers]] — North American rivers
 - [[western-european-rivers]] — western European rivers
 
-## History  ·  1/58 built
+## History  ·  3/58 built
 
 - [[20th-century-african-leaders]] — 20th-century African leaders
 - [[20th-century-middle-eastern-leaders]] — 20th-century Middle Eastern leaders
@@ -49,7 +51,7 @@ The first subject branch. Each links to its list MOC.
 - [[aviators]] — aviators
 - [[battles-of-the-ancient-world]] — battles of the ancient world
 - [[black-american-legislators]] — Black American legislators
-- [[british-monarchs]] — British monarchs
+- ✅ [[british-monarchs]] — British monarchs
 - [[british-prime-ministers]] — British prime ministers
 - [[british-reform-movements]] — British reform movements
 - [[world-war-ii-pacific-campaigns]] — campaigns in the Pacific Theater of World War II
@@ -80,7 +82,7 @@ The first subject branch. Each links to its list MOC.
 - [[presidential-scandals]] — presidential scandals
 - [[revolutionary-war-battles]] — Revolutionary War battles
 - [[revolutionary-war-generals]] — Revolutionary War generals
-- [[roman-emperors]] — Roman emperors
+- ✅ [[roman-emperors]] — Roman emperors
 - [[russian-tsars]] — Russian tsars
 - [[secretaries-of-state]] — Secretaries of State
 - [[south-american-political-leaders]] — South American political leaders
