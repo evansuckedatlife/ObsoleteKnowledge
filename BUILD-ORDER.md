@@ -42,7 +42,7 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [x] `concepts/religion/` — [[ramayana]] — Hindu epic of Rama
 - [x] `concepts/religion/` — [[jesus]] — central figure of Christianity / the NT
 - [x] `concepts/religion/` — [[judaism]] — the tradition the Hebrew-Bible/holiday/lifecycle lists orbit
-- [ ] `concepts/religion/` — [[torah]] — the first five books / core of Judaism
+- [x] `concepts/religion/` — [[torah]] — the first five books / core of Judaism
 - [ ] `concepts/religion/` — [[gospels]] — the four NT accounts of Jesus
 - [ ] `concepts/religion/` — [[crucifixion]] — the death of Jesus
 - [ ] `concepts/religion/` — [[exodus]] — the departure from Egypt under Moses
