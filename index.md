@@ -23,6 +23,7 @@ The first subject branch. Each links to its list MOC.
 - [[religious-texts]] — religious texts
 - [[roman-emperors]] — Roman emperors
 - [[british-monarchs]] — British monarchs
+- [[popes]] — popes
 
 ## Full catalogue (by NAQT category)
 
@@ -202,7 +203,7 @@ The first subject branch. Each links to its list MOC.
 - [[unique-languages]] — unique languages
 - [[video-game-series]] — video game series
 
-## Religion  ·  8/9 built
+## Religion  ·  9/9 built
 
 - ✅ [[biblical-sayings]] — Biblical sayings
 - ✅ [[hebrew-bible-characters]] — characters in the Hebrew Bible
@@ -211,7 +212,7 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[jewish-holidays]] — Jewish holidays
 - ✅ [[jewish-lifecycle-events]] — Jewish lifecycle events
 - ✅ [[new-testament-characters]] — New Testament characters
-- [[popes]] — popes
+- ✅ [[popes]] — popes
 - ✅ [[religious-texts]] — religious texts
 
 ## Science  ·  0/30 built

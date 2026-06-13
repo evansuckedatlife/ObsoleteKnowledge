@@ -3,7 +3,7 @@ type: person
 category: religion
 defines: [Peter, Simon, Simon Peter, Saint Peter]
 related: ["[[jesus]]", "[[judas-iscariot]]", "[[paul]]"]
-lists: ["[[new-testament-characters]]"]
+lists: ["[[new-testament-characters]]", "[[popes]]"]
 read: false
 ---
 
@@ -39,4 +39,4 @@ One of Jesus's most prominent apostles, originally a fisherman named **Simon** w
 
 ---
 
-Lists: [[new-testament-characters]] · Mark read: `INPUT[toggle:read]`
+Lists: [[new-testament-characters]] · [[popes]] · Mark read: `INPUT[toggle:read]`

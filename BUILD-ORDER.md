@@ -54,7 +54,7 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 
 > After Phase 0, also consider the rest of the Twelve Olympians (hera, poseidon, ares, artemis, hephaestus, hermes, demeter, dionysus, hades, hestia) as a node cluster.
 
-## Phase 1 — Religion  (`concepts/religion/`)  ·  8/9 built
+## Phase 1 — Religion  (`concepts/religion/`)  ·  9/9 built
 
 - [x] [[biblical-sayings]] — Biblical sayings
 - [x] [[hebrew-bible-characters]] — characters in the Hebrew Bible
@@ -63,7 +63,7 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [x] [[jewish-holidays]] — Jewish holidays
 - [x] [[jewish-lifecycle-events]] — Jewish lifecycle events
 - [x] [[new-testament-characters]] — New Testament characters
-- [ ] [[popes]] — popes
+- [x] [[popes]] — popes
 - [x] [[religious-texts]] — religious texts
 
 ## Phase 2 — Mythology  (`concepts/mythology/`)  ·  7/7 built
