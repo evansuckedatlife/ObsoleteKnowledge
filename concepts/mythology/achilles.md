@@ -1,10 +1,14 @@
 ---
 type: hero
 category: mythology
-defines: [Achilles]
-related: ["[[achilles]]"]
-lists: ["[[greek-heroes]]", "[[trojan-war-heroes]]"]
-read: false
+defines:
+  - Achilles
+related:
+  - "[[achilles]]"
+lists:
+  - "[[greek-heroes]]"
+  - "[[trojan-war-heroes]]"
+read: true
 ---
 
 # Achilles

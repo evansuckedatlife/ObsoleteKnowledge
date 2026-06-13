@@ -1,10 +1,15 @@
 ---
 type: hero
 category: mythology
-defines: [Patroclus]
-related: ["[[achilles]]", "[[hector]]", "[[the-iliad]]"]
-lists: ["[[trojan-war-heroes]]"]
-read: false
+defines:
+  - Patroclus
+related:
+  - "[[achilles]]"
+  - "[[hector]]"
+  - "[[the-iliad]]"
+lists:
+  - "[[trojan-war-heroes]]"
+read: true
 ---
 
 # Patroclus

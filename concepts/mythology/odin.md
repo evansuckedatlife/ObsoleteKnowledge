@@ -1,10 +1,19 @@
 ---
 type: deity
 category: mythology
-defines: [Odin, Wodin, Wotan]
-related: ["[[ymir]]", "[[frigg]]", "[[thor]]", "[[loki]]", "[[balder]]"]
-lists: ["[[norse-gods]]"]
-read: false
+defines:
+  - Odin
+  - Wodin
+  - Wotan
+related:
+  - "[[ymir]]"
+  - "[[frigg]]"
+  - "[[thor]]"
+  - "[[loki]]"
+  - "[[balder]]"
+lists:
+  - "[[norse-gods]]"
+read: true
 ---
 
 # Odin

@@ -99,7 +99,7 @@ Live read-status table for this list's nodes (requires the **Bases** core plugin
 ```base
 filters:
   and:
-    - lists.containsLinkTo(this.file.asLink())
+    - file.hasLink(this.file)
 views:
   - type: table
     name: Progress
@@ -113,11 +113,11 @@ views:
       - property: file.name
         direction: ASC
 ```
-
-## source
-
-Scoped from NAQT's *You Gotta Know* topic [`<slug>`](https://www.naqt.com/you-gotta-know/<slug>.html). Content authored originally; NAQT used as topic map only.
 `````
+
+The `file.hasLink(this.file)` filter shows every node that links to this MOC — which is exactly its members, since each member's `lists:` frontmatter (and footer) links here. (Do **not** use `lists.containsLinkTo(...)` — that function does not exist in Bases.)
+
+Frontmatter note: Obsidian normalises inline YAML lists (`lists: ["[[x]]"]`) into block style when a note is edited. Both are equivalent; any tooling that reads frontmatter must parse real YAML, not regex.
 
 ---
 

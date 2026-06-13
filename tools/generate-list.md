@@ -62,7 +62,7 @@ One-sentence description of the topic and why it matters for quiz bowl.
 ```base
 filters:
   and:
-    - lists.containsLinkTo(this.file.asLink())
+    - file.hasLink(this.file)
 views:
   - type: table
     name: Progress
@@ -76,11 +76,9 @@ views:
       - property: file.name
         direction: ASC
 ```
-
-## source
-
-Scoped from NAQT's *You Gotta Know* topic [`<slug>`](https://www.naqt.com/you-gotta-know/<slug>.html). Content authored originally; NAQT used as topic map only.
 `````
+
+`file.hasLink(this.file)` selects every node linking to this MOC (its members, via their `lists:` frontmatter). `lists.containsLinkTo(...)` is **not** a real Bases function — don't use it.
 
 ## Quality checks
 1. **No duplicate basenames** — shared members are authored once and multi-linked.

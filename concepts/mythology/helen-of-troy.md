@@ -1,10 +1,16 @@
 ---
 type: person
 category: mythology
-defines: [Helen of Troy, Helen]
-related: ["[[the-trojan-war]]", "[[menelaus]]", "[[paris]]"]
-lists: ["[[mortal-women-in-greek-myth]]"]
-read: false
+defines:
+  - Helen of Troy
+  - Helen
+related:
+  - "[[the-trojan-war]]"
+  - "[[menelaus]]"
+  - "[[paris]]"
+lists:
+  - "[[mortal-women-in-greek-myth]]"
+read: true
 ---
 
 # Helen of Troy

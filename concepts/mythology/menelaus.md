@@ -1,10 +1,15 @@
 ---
 type: hero
 category: mythology
-defines: [Menelaus]
-related: ["[[agamemnon]]", "[[helen-of-troy]]", "[[the-trojan-war]]"]
-lists: ["[[trojan-war-heroes]]"]
-read: false
+defines:
+  - Menelaus
+related:
+  - "[[agamemnon]]"
+  - "[[helen-of-troy]]"
+  - "[[the-trojan-war]]"
+lists:
+  - "[[trojan-war-heroes]]"
+read: true
 ---
 
 # Menelaus

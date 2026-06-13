@@ -1,10 +1,15 @@
 ---
 type: hero
 category: mythology
-defines: [Agamemnon]
-related: ["[[menelaus]]", "[[the-trojan-war]]", "[[the-iliad]]"]
-lists: ["[[trojan-war-heroes]]"]
-read: false
+defines:
+  - Agamemnon
+related:
+  - "[[menelaus]]"
+  - "[[the-trojan-war]]"
+  - "[[the-iliad]]"
+lists:
+  - "[[trojan-war-heroes]]"
+read: true
 ---
 
 # Agamemnon

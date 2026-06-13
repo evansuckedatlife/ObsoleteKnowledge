@@ -1,9 +1,15 @@
 ---
 type: deity
 category: mythology
-defines: [Freya]
-related: ["[[frey]]", "[[odin]]", "[[frigg]]", "[[loki]]"]
-lists: ["[[norse-gods]]"]
+defines:
+  - Freya
+related:
+  - "[[frey]]"
+  - "[[odin]]"
+  - "[[frigg]]"
+  - "[[loki]]"
+lists:
+  - "[[norse-gods]]"
 read: false
 ---
 

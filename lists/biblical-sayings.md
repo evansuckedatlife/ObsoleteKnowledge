@@ -28,7 +28,7 @@ Live read-status for this list (requires the **Bases** core plugin). Flip a node
 ```base
 filters:
   and:
-    - lists.containsLinkTo(this.file.asLink())
+    - file.hasLink(this.file)
 views:
   - type: table
     name: Progress
@@ -42,7 +42,3 @@ views:
       - property: file.name
         direction: ASC
 ```
-
-## source
-
-Scoped from NAQT's *You Gotta Know* topic [`biblical-sayings`](https://www.naqt.com/you-gotta-know/biblical-sayings.html). Content authored originally; NAQT used as a topic map only.

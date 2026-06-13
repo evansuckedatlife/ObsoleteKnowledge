@@ -1,10 +1,15 @@
 ---
 type: hero
 category: mythology
-defines: [Hector]
-related: ["[[achilles]]", "[[paris]]", "[[the-iliad]]"]
-lists: ["[[trojan-war-heroes]]"]
-read: false
+defines:
+  - Hector
+related:
+  - "[[achilles]]"
+  - "[[paris]]"
+  - "[[the-iliad]]"
+lists:
+  - "[[trojan-war-heroes]]"
+read: true
 ---
 
 # Hector

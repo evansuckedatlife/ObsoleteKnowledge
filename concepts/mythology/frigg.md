@@ -1,10 +1,17 @@
 ---
 type: deity
 category: mythology
-defines: [Frigg, Frigga]
-related: ["[[odin]]", "[[balder]]", "[[frey]]", "[[freya]]"]
-lists: ["[[norse-gods]]"]
-read: false
+defines:
+  - Frigg
+  - Frigga
+related:
+  - "[[odin]]"
+  - "[[balder]]"
+  - "[[frey]]"
+  - "[[freya]]"
+lists:
+  - "[[norse-gods]]"
+read: true
 ---
 
 # Frigg
