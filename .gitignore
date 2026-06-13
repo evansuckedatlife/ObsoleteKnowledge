@@ -7,3 +7,7 @@
 # Transient build scratch — source scope extraction, never committed
 _scratch/
 _sources/
+.agents/
+ORIGINAL_REQUEST.md
+
+
