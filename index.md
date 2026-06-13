@@ -30,6 +30,8 @@ The first subject branch. Each links to its list MOC.
 - [[chemical-elements]] — chemical elements
 - [[chemistry-lab-techniques]] — chemistry lab techniques
 - [[functional-groups]] — functional groups
+- [[organic-reactions]] — organic reactions
+
 
 
 
@@ -223,7 +225,7 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[popes]] — popes
 - ✅ [[religious-texts]] — religious texts
 
-## Science  ·  6/30 built
+## Science  ·  7/30 built
 
 - ✅ [[20th-century-physicists]] — 20th-century physicists
 - ✅ [[active-volcanoes]] — active volcanoes
@@ -246,7 +248,7 @@ The first subject branch. Each links to its list MOC.
 - [[moons]] — moons
 - [[nobel-prize-winners-in-medicine]] — Nobel Prize winners in physiology or medicine
 - [[organelles]] — organelles
-- [[organic-reactions]] — organic reactions
+- ✅ [[organic-reactions]] — organic reactions
 - [[programming-terms]] — programming terms
 - [[rocket-scientists]] — rocket scientists
 - [[rocks-and-minerals]] — rocks and minerals
