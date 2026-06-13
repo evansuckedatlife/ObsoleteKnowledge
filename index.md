@@ -29,6 +29,8 @@ The first subject branch. Each links to its list MOC.
 - [[phyla]] — animal phyla
 - [[chemical-elements]] — chemical elements
 - [[chemistry-lab-techniques]] — chemistry lab techniques
+- [[functional-groups]] — functional groups
+
 
 
 ## Full catalogue (by NAQT category)
@@ -221,7 +223,7 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[popes]] — popes
 - ✅ [[religious-texts]] — religious texts
 
-## Science  ·  5/30 built
+## Science  ·  6/30 built
 
 - ✅ [[20th-century-physicists]] — 20th-century physicists
 - ✅ [[active-volcanoes]] — active volcanoes
@@ -236,7 +238,7 @@ The first subject branch. Each links to its list MOC.
 - [[plant-distinctions]] — distinctions among types of plants
 - [[dwarf-planets-comets-and-asteroids]] — dwarf planets, comets, and asteroids
 - [[enzymes]] — enzymes
-- [[functional-groups]] — functional groups
+- ✅ [[functional-groups]] — functional groups
 - [[geologic-time-periods]] — geologic time periods
 - [[geometric-curves]] — geometric curves
 - [[calculus-ideas]] — ideas from calculus

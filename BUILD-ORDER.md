@@ -90,7 +90,7 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [ ] [[plant-distinctions]] — distinctions among types of plants
 - [ ] [[dwarf-planets-comets-and-asteroids]] — dwarf planets, comets, and asteroids
 - [ ] ⭐ [[enzymes]] — enzymes
-- [ ] [[functional-groups]] — functional groups
+- [x] [[functional-groups]] — functional groups
 - [ ] [[geologic-time-periods]] — geologic time periods
 - [ ] [[moons]] — moons
 - [ ] [[nobel-prize-winners-in-medicine]] — Nobel Prize winners in physiology or medicine
