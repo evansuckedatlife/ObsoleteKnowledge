@@ -6,8 +6,7 @@ related:
   - "[[modular-arithmetic]]"
   - "[[prime-factorization]]"
   - "[[john-wilson]]"
-lists:
-  - "[[statements-about-prime-numbers]]"
+lists: []
 read: false
 ---
 
@@ -40,4 +39,4 @@ Wilson's Theorem states that a positive integer p > 1 is prime if and only if (p
 
 ---
 
-Lists: [[statements-about-prime-numbers]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`

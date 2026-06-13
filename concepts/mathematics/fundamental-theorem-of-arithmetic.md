@@ -6,6 +6,7 @@ related:
   - "[[prime-number-theorem]]"
   - "[[infinitude-of-primes]]"
   - "[[greatest-common-divisor]]"
+  - "[[integer-factorization]]"
 lists:
   - "[[statements-about-prime-numbers]]"
 read: false
@@ -15,27 +16,46 @@ read: false
 
 ## summary
 
-The fundamental theorem of arithmetic states that every integer greater than 1 can be represented uniquely as a product of prime numbers, up to the order of the factors. This uniqueness—that there is exactly one way to factor a number into primes—is a cornerstone of number theory and algebra.
+The Fundamental Theorem of Arithmetic states that every integer greater than 1 is either a prime number itself or can be represented uniquely as a product of prime numbers, up to the order of the factors. This theorem serves as the bedrock of number theory, establishing prime numbers as the fundamental "building blocks" of all integers. The existence part of the theorem guarantees that any composite number can be broken down, while the uniqueness part ensures that this decomposition is distinct. This dual property enables the systematic study of divisibility, modular arithmetic, and algebraic structures. Its principles also underpin modern cryptographic algorithms, where the difficulty of finding these unique factorizations secures global communications.
 
 ## you gotta know
 
-- Every integer n > 1 is either prime itself or factors into a product of primes: n = p₁^a₁ · p₂^a₂ · ... · pₖ^aₖ where the pᵢ are distinct primes and aᵢ ≥ 1.
-- The prime factorization of any number is unique except for the order in which primes appear (e.g., 12 = 2² · 3 always, never any other prime product).
-- This uniqueness fails in some algebraic number systems, which motivated the invention of *ideals* in abstract algebra.
-- The theorem is sometimes called the "Fundamental Theorem" because factorization underlies divisibility, greatest common divisors, least common multiples, and modular arithmetic.
-- For cryptography and primality testing, knowing or computing prime factorizations efficiently is computationally hard—a property exploited by *RSA* encryption.
+### statement & components
+
+- *Existence*: Every integer $n > 1$ can be written as a product of one or more prime numbers, which can be expressed in canonical form as $n = p_1^{a_1} p_2^{a_2} \cdots p_k^{a_k}$ where $p_i$ are distinct primes in increasing order and $a_i \ge 1$.
+- *Uniqueness*: The factorization is unique up to the order of the prime factors; no integer can have two different prime decompositions.
+- *Role of 1*: The number 1 is excluded from being a prime specifically to preserve the uniqueness of factorization (otherwise, $6 = 2 \cdot 3 = 2 \cdot 3 \cdot 1 = 2 \cdot 3 \cdot 1^2 \dots$).
+
+### algebraic extensions & failures
+
+- *Unique Factorization Domains (UFDs)*: The theorem generalizes to abstract algebra; rings where every non-zero non-unit factors uniquely into irreducibles are called UFDs.
+- *Failure of Uniqueness*: In some algebraic number fields, unique factorization fails; for example, in the ring $\mathbb{Z}[\sqrt{-5}]$, the number 6 has two distinct factorizations: $2 \cdot 3$ and $(1 + \sqrt{-5})(1 - \sqrt{-5})$.
+- *Invention of Ideals*: The failure of unique factorization in rings of algebraic integers led Ernst Kummer and Richard Dedekind to introduce the concept of *ideals* (specifically, *prime ideals* factor uniquely in Dedekind domains).
+
+### algorithmic & computational aspects
+
+- *Asymmetric Hardness*: While checking if a factorization is correct is extremely fast (polynomial time), finding the prime factorization of a very large composite number is computationally difficult.
+- *RSA Cryptography*: This computational asymmetry—factoring is hard, multiplication is easy—directly underpins the security of the *RSA* public-key cryptosystem.
+- *Euclid's Lemma*: The proof of uniqueness relies crucially on Euclid's Lemma, which states that if a prime $p$ divides a product $ab$, then $p$ must divide $a$ or $b$.
 
 ## connections
 
-- [[infinitude-of-primes]] — demonstrates that enough primes exist to factor any integer.
-- [[euclid]] — rigorously established the concept of prime divisibility that grounds this theorem.
-- [[modular-arithmetic]] — relies on unique factorization to define residue classes and ring structure.
-- [[rsa-encryption]] — security depends on factorization being hard for very large numbers.
-- [[greatest-common-divisor]] — computed using prime factorization.
+- [[infinitude-of-primes]] — guarantees that an infinite supply of prime building blocks exists.
+- [[dirichlets-theorem-on-arithmetic-progressions]] — extends prime existence to arithmetic progressions.
+- [[euclid]] — proved the foundational lemma and early forms of the theorem in the *Elements*.
+- [[carl-friedrich-gauss]] — provided the first modern rigorous proof of the theorem in *Disquisitiones Arithmeticae*.
+- [[rsa-encryption]] — cryptographic system whose security relies on the hardness of integer factorization.
+- [[sieve-of-eratosthenes]] — an ancient algorithm used to generate the primes needed for factorization.
+- [[integer-factorization]] — the computational problem of finding the prime factors guaranteed by the theorem.
+- [[goldbach-conjecture]] — an additive question about primes, contrasting with this multiplicative theorem.
+
+## context
+
+The Fundamental Theorem of Arithmetic, though simple in its assertion, represents one of humanity's earliest steps toward formalizing mathematical structures. Originally formulated in Euclid's *Elements* (Book IX, Proposition 14) for products of primes, it was not given a modern, rigorous proof of both existence and uniqueness until Carl Friedrich Gauss's *Disquisitiones Arithmeticae* in 1801. In quiz bowl, the theorem is a frequent source of questions, often clued via its algebraic generalizations (UFDs), its reliance on Euclid's Lemma, or the historical crisis surrounding the failure of unique factorization in rings like $\mathbb{Z}[\sqrt{-5}]$ which prompted the creation of modern ring theory.
 
 ## see also
 
-- [[infinitude-of-primes]] · [[modular-arithmetic]] · [[rsa-encryption]]
+- [[infinitude-of-primes]] · [[modular-arithmetic]] · [[rsa-encryption]] · [[integer-factorization]]
 
 <!-- footer -->
 

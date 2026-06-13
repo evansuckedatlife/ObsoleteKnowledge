@@ -6,8 +6,7 @@ related:
   - "[[rsa-encryption]]"
   - "[[computational-complexity]]"
   - "[[public-key-cryptography]]"
-lists:
-  - "[[statements-about-prime-numbers]]"
+lists: []
 read: false
 ---
 
@@ -40,4 +39,4 @@ The hardness of prime factorization is the computational observation that determ
 
 ---
 
-Lists: [[statements-about-prime-numbers]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`

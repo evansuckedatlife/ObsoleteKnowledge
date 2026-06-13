@@ -6,8 +6,7 @@ related:
   - "[[perfect-numbers]]"
   - "[[mersenne-primes]]"
   - "[[euclid]]"
-lists:
-  - "[[statements-about-prime-numbers]]"
+lists: []
 read: false
 ---
 
@@ -40,4 +39,4 @@ The Euclid–Euler theorem establishes a complete characterization of even perfe
 
 ---
 
-Lists: [[statements-about-prime-numbers]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`
