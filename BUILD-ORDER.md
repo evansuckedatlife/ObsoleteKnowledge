@@ -6,18 +6,21 @@ Ordered queue of everything left to build. Work top to bottom. This file plus `A
 
 Repeat until no `- [ ]` boxes remain:
 
-1. Find the **first unchecked** `- [ ]` item below.
-2. Build it following `AGENTS.md`:
-   - **Hub node** (Phase 0): create the single node file `concepts/<folder>/<slug>.md` with `lists: []`. Wire its `connections` to existing nodes.
-   - **List** (Phase 1+): create every member node under `concepts/<folder>/`, then the MOC `lists/<slug>.md`. Dedup first — never duplicate an existing basename; add the list to a shared node's `lists:` instead.
-3. Run the validation in `AGENTS.md` §6 (or `python _scratch/validate.py`). If it reports errors, fix them — do **not** check the box until it's clean (0 errors).
-4. Tick the box here (`- [ ]` → `- [x]`) and add a `✅ ` to the same topic's line in `index.md`.
-5. Commit: `git add -A && git commit -m "Build <topic>"`. (Commit per item so progress is resumable and reviewable.)
-6. Go to step 1.
+1. **Re-read `AGENTS.md` and this file first** (every iteration). A long autonomous run drifts off-format; a quick re-read each time is what keeps the output consistent — do not skip it.
+2. Find the **first unchecked** `- [ ]` item below. Note whether it is marked **⭐** — if so it is **Tier 1 (Cornerstone)** and gets the deep treatment in `AGENTS.md` §2b (long summary, 8–14 grouped clues, a `## context` section, 6–10 connections). Unmarked = Tier 2 (standard).
+3. Build it following `AGENTS.md`:
+   - **Hub node** (Phase 0, all Tier 1): create the single node file `concepts/<folder>/<slug>.md` with `lists: []`. Wire its `connections` to existing nodes.
+   - **List** (Phase 1+): create every member node under `concepts/<folder>/`, then the MOC `lists/<slug>.md`. Dedup first — never duplicate an existing basename; add the list to a shared node's `lists:` instead. Even in a Tier-2 list, give the 1–3 keystone members Tier-1 depth.
+4. Run the validation in `AGENTS.md` §6 (or `python _scratch/validate.py`). If it reports errors, fix them — do **not** check the box until it's clean (0 errors).
+5. Tick the box here (`- [ ]` → `- [x]`) and add a `✅ ` to the same topic's line in `index.md`.
+6. Commit: `git add -A && git commit -m "Build <topic>"`. (Commit per item so progress is resumable and reviewable.)
+7. Go to step 1.
 
 Rules that never bend: original content only (no NAQT prose), one node per entity with a globally-unique basename, `read: false`. Accuracy over invention — if unsure of a fact, state it less precisely. Spot-checkpoint: pause for human review after each full category.
 
-**Scope:** 187 unique NAQT topics (17 built) + 23 hub nodes.
+**Legend:** ⭐ = Tier-1 Cornerstone (deep treatment). All Phase-0 hub nodes are Tier 1.
+
+**Scope:** 187 unique NAQT topics (17 built, 31 ⭐ Tier-1) + 23 hub nodes (all Tier 1).
 
 ---
 
@@ -25,29 +28,29 @@ Rules that never bend: original content only (no NAQT prose), one node per entit
 
 Single nodes, not lists. The Greek Olympian gods especially are referenced by dozens of existing hero/monster nodes but don't exist yet.
 
-- [x] `concepts/mythology/` — [[zeus]] — king of the Olympian gods — referenced everywhere
-- [x] `concepts/mythology/` — [[athena]] — goddess of wisdom & war
-- [x] `concepts/mythology/` — [[apollo]] — god of the sun, music, prophecy
-- [x] `concepts/mythology/` — [[aphrodite]] — goddess of love
-- [x] `concepts/mythology/` — [[the-trojan-war]] — the war the Trojan/Greek hero lists orbit
-- [x] `concepts/mythology/` — [[the-iliad]] — Homer's epic of the Trojan War
-- [x] `concepts/mythology/` — [[the-odyssey]] — Homer's epic of Odysseus' return
-- [x] `concepts/mythology/` — [[the-aeneid]] — Virgil's epic of Aeneas
-- [x] `concepts/mythology/` — [[round-table]] — the fellowship of Arthur's knights
-- [x] `concepts/mythology/` — [[holy-grail]] — the object of the Arthurian quest
-- [x] `concepts/mythology/` — [[book-of-the-dead]] — Egyptian funerary text
-- [x] `concepts/mythology/` — [[pharaoh]] — Egyptian god-king institution
-- [x] `concepts/religion/` — [[trimurti]] — Hindu triad: Brahma, Vishnu, Shiva
-- [x] `concepts/religion/` — [[mahabharata]] — Hindu epic containing the Bhagavad Gita
-- [x] `concepts/religion/` — [[ramayana]] — Hindu epic of Rama
-- [x] `concepts/religion/` — [[jesus]] — central figure of Christianity / the NT
-- [x] `concepts/religion/` — [[judaism]] — the tradition the Hebrew-Bible/holiday/lifecycle lists orbit
-- [x] `concepts/religion/` — [[torah]] — the first five books / core of Judaism
-- [x] `concepts/religion/` — [[gospels]] — the four NT accounts of Jesus
-- [x] `concepts/religion/` — [[crucifixion]] — the death of Jesus
-- [x] `concepts/religion/` — [[exodus]] — the departure from Egypt under Moses
-- [x] `concepts/religion/` — [[buddhism]] — tradition founded by Siddhartha Gautama
-- [x] `concepts/religion/` — [[temple-in-jerusalem]] — First & Second Temples
+- [ ] `concepts/mythology/` — [[zeus]] — king of the Olympian gods — referenced everywhere
+- [ ] `concepts/mythology/` — [[athena]] — goddess of wisdom & war
+- [ ] `concepts/mythology/` — [[apollo]] — god of the sun, music, prophecy
+- [ ] `concepts/mythology/` — [[aphrodite]] — goddess of love
+- [ ] `concepts/mythology/` — [[the-trojan-war]] — the war the Trojan/Greek hero lists orbit
+- [ ] `concepts/mythology/` — [[the-iliad]] — Homer's epic of the Trojan War
+- [ ] `concepts/mythology/` — [[the-odyssey]] — Homer's epic of Odysseus' return
+- [ ] `concepts/mythology/` — [[the-aeneid]] — Virgil's epic of Aeneas
+- [ ] `concepts/mythology/` — [[round-table]] — the fellowship of Arthur's knights
+- [ ] `concepts/mythology/` — [[holy-grail]] — the object of the Arthurian quest
+- [ ] `concepts/mythology/` — [[book-of-the-dead]] — Egyptian funerary text
+- [ ] `concepts/mythology/` — [[pharaoh]] — Egyptian god-king institution
+- [ ] `concepts/religion/` — [[trimurti]] — Hindu triad: Brahma, Vishnu, Shiva
+- [ ] `concepts/religion/` — [[mahabharata]] — Hindu epic containing the Bhagavad Gita
+- [ ] `concepts/religion/` — [[ramayana]] — Hindu epic of Rama
+- [ ] `concepts/religion/` — [[jesus]] — central figure of Christianity / the NT
+- [ ] `concepts/religion/` — [[judaism]] — the tradition the Hebrew-Bible/holiday/lifecycle lists orbit
+- [ ] `concepts/religion/` — [[torah]] — the first five books / core of Judaism
+- [ ] `concepts/religion/` — [[gospels]] — the four NT accounts of Jesus
+- [ ] `concepts/religion/` — [[crucifixion]] — the death of Jesus
+- [ ] `concepts/religion/` — [[exodus]] — the departure from Egypt under Moses
+- [ ] `concepts/religion/` — [[buddhism]] — tradition founded by Siddhartha Gautama
+- [ ] `concepts/religion/` — [[temple-in-jerusalem]] — First & Second Temples
 
 > After Phase 0, also consider the rest of the Twelve Olympians (hera, poseidon, ares, artemis, hephaestus, hermes, demeter, dionysus, hades, hestia) as a node cluster.
 
@@ -78,22 +81,22 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [ ] [[20th-century-physicists]] — 20th-century physicists
 - [ ] [[active-volcanoes]] — active volcanoes
 - [ ] [[phyla]] — animal phyla
-- [ ] [[chemical-elements]] — chemical elements
+- [ ] ⭐ [[chemical-elements]] — chemical elements
 - [ ] [[chemistry-lab-techniques]] — chemistry lab techniques
 - [ ] [[circuit-components]] — circuit components
-- [ ] [[classes-of-particles]] — classes of particles
+- [ ] ⭐ [[classes-of-particles]] — classes of particles
 - [ ] [[computer-components]] — computer components
-- [ ] [[quantum-mechanics-concepts]] — concepts from quantum mechanics
+- [ ] ⭐ [[quantum-mechanics-concepts]] — concepts from quantum mechanics
 - [ ] [[plant-distinctions]] — distinctions among types of plants
 - [ ] [[dwarf-planets-comets-and-asteroids]] — dwarf planets, comets, and asteroids
-- [ ] [[enzymes]] — enzymes
+- [ ] ⭐ [[enzymes]] — enzymes
 - [ ] [[functional-groups]] — functional groups
 - [ ] [[geologic-time-periods]] — geologic time periods
 - [ ] [[moons]] — moons
 - [ ] [[nobel-prize-winners-in-medicine]] — Nobel Prize winners in physiology or medicine
-- [ ] [[organelles]] — organelles
+- [ ] ⭐ [[organelles]] — organelles
 - [ ] [[organic-reactions]] — organic reactions
-- [ ] [[programming-terms]] — programming terms
+- [ ] ⭐ [[programming-terms]] — programming terms
 - [ ] [[rocket-scientists]] — rocket scientists
 - [ ] [[rocks-and-minerals]] — rocks and minerals
 - [ ] [[scientific-experiments]] — scientific experiments
@@ -105,8 +108,8 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 
 - [ ] [[classifications-of-functions]] — classifications of mathematical functions
 - [ ] [[geometric-curves]] — geometric curves
-- [ ] [[calculus-ideas]] — ideas from calculus
-- [ ] [[mathematicians]] — mathematicians
+- [ ] ⭐ [[calculus-ideas]] — ideas from calculus
+- [ ] ⭐ [[mathematicians]] — mathematicians
 - [ ] [[statements-about-prime-numbers]] — statements about prime numbers
 - [ ] [[computation-types]] — types of computation problems
 
@@ -122,13 +125,13 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [ ] [[japanese-authors]] — Japanese authors
 - [ ] [[jewish-american-authors]] — Jewish-American authors
 - [ ] [[latin-american-authors]] — Latin American authors
-- [ ] [[modernist-authors]] — modernist authors
+- [ ] ⭐ [[modernist-authors]] — modernist authors
 - [ ] [[non-shakespeare-classical-english-dramas]] — non-Shakespeare classical English dramas
 - [ ] [[plot-twists]] — plot twists
 - [ ] [[postmodern-authors]] — postmodern authors
 - [ ] [[shakespearean-speeches]] — Shakespearean speeches, monologues, and soliloquies
-- [ ] [[shakespearean-villains]] — Shakespearean villains
-- [ ] [[short-story-authors]] — short story authors
+- [ ] ⭐ [[shakespearean-villains]] — Shakespearean villains
+- [ ] ⭐ [[short-story-authors]] — short story authors
 - [ ] [[translations]] — translations and translators
 - [ ] [[works-by-dostoevsky]] — works by Fyodor Dostoevsky
 - [ ] [[works-by-irish-authors]] — works by Irish authors
@@ -144,20 +147,20 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [ ] [[american-murders-and-murderers]] — American murders and murderers
 - [ ] [[american-third-parties]] — American third parties
 - [ ] [[american-warships]] — American warships
-- [ ] [[ancient-empires]] — ancient empires of the Mediterranean and Near East
+- [ ] ⭐ [[ancient-empires]] — ancient empires of the Mediterranean and Near East
 - [ ] [[ancient-greek-places]] — ancient Greek places
-- [ ] [[assassinations]] — assassinations
+- [ ] ⭐ [[assassinations]] — assassinations
 - [ ] [[aviators]] — aviators
 - [ ] [[battles-of-the-ancient-world]] — battles of the ancient world
 - [ ] [[black-american-legislators]] — Black American legislators
-- [x] [[british-monarchs]] — British monarchs
+- [x] ⭐ [[british-monarchs]] — British monarchs
 - [ ] [[british-prime-ministers]] — British prime ministers
 - [ ] [[british-reform-movements]] — British reform movements
 - [ ] [[world-war-ii-pacific-campaigns]] — campaigns in the Pacific Theater of World War II
-- [ ] [[chinese-dynasties]] — Chinese dynasties
-- [ ] [[civil-war-battles]] — Civil War battles
+- [ ] ⭐ [[chinese-dynasties]] — Chinese dynasties
+- [ ] ⭐ [[civil-war-battles]] — Civil War battles
 - [ ] [[countries-once-known-by-different-names]] — countries once known by different names
-- [ ] [[elections]] — elections
+- [ ] ⭐ [[elections]] — elections
 - [ ] [[european-royal-families]] — European royal families
 - [ ] [[explorers]] — explorers
 - [ ] [[feminists]] — feminists
@@ -165,7 +168,7 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [ ] [[indigenous-peoples]] — indigenous peoples
 - [ ] [[kings-of-france]] — kings of France
 - [ ] [[magazines-from-american-history]] — magazines from American history
-- [ ] [[massacres]] — massacres
+- [ ] ⭐ [[massacres]] — massacres
 - [ ] [[medieval-battles]] — medieval battles
 - [ ] [[medieval-islamic-dynasties]] — medieval Islamic dynasties
 - [ ] [[mexican-leaders]] — Mexican leaders
@@ -179,18 +182,18 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [ ] [[presidential-scandals]] — presidential scandals
 - [ ] [[revolutionary-war-battles]] — Revolutionary War battles
 - [ ] [[revolutionary-war-generals]] — Revolutionary War generals
-- [x] [[roman-emperors]] — Roman emperors
-- [ ] [[russian-tsars]] — Russian tsars
+- [x] ⭐ [[roman-emperors]] — Roman emperors
+- [ ] ⭐ [[russian-tsars]] — Russian tsars
 - [ ] [[secretaries-of-state]] — Secretaries of State
 - [ ] [[south-american-political-leaders]] — South American political leaders
 - [ ] [[spies]] — spies
-- [ ] [[supreme-court-cases]] — Supreme Court cases
+- [ ] ⭐ [[supreme-court-cases]] — Supreme Court cases
 - [ ] [[supreme-court-cases-2]] — Supreme Court cases
 - [ ] [[supreme-court-cases-concerned-with-african-americans]] — Supreme Court cases concerned with African-Americans
 - [ ] [[supreme-court-cases-involving-lgbt-rights]] — Supreme Court cases involving LGBT+ rights
-- [ ] [[treaties]] — treaties
+- [ ] ⭐ [[treaties]] — treaties
 - [ ] [[vice-presidents-who-never-became-president]] — vice presidents who never became president
-- [ ] [[world-war-ii-battles]] — World War II battles
+- [ ] ⭐ [[world-war-ii-battles]] — World War II battles
 - [ ] [[worlds-fairs]] — world's fairs
 
 ## Phase 7 — Music and Auditory Art  (`concepts/music/`)  ·  0/15 built
@@ -204,12 +207,12 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [ ] [[musicals-part-1]] — musicals
 - [ ] [[musicals-part-2]] — musicals
 - [ ] [[non-western-classical-music-traditions]] — non-western classical music traditions
-- [ ] [[operas]] — operas
+- [ ] ⭐ [[operas]] — operas
 - [ ] [[piano-sonatas]] — piano sonatas
 - [ ] [[pre-1700-composers]] — pre-1700 composers
-- [ ] [[romantic-era-composers]] — Romantic-era composers
-- [ ] [[works-by-beethoven]] — works by Ludwig van Beethoven
-- [ ] [[works-by-mozart]] — works by Mozart
+- [ ] ⭐ [[romantic-era-composers]] — Romantic-era composers
+- [ ] ⭐ [[works-by-beethoven]] — works by Ludwig van Beethoven
+- [ ] ⭐ [[works-by-mozart]] — works by Mozart
 
 ## Phase 8 — Performance  (`concepts/performance/`)  ·  0/3 built
 
@@ -245,17 +248,17 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [ ] [[accents-and-dialects-of-english]] — accents and dialects of English
 - [ ] [[anthropologists]] — anthropologists
 - [ ] [[archaeological-sites]] — archaeological sites
-- [ ] [[economic-concepts]] — economic concepts
+- [ ] ⭐ [[economic-concepts]] — economic concepts
 - [ ] [[economists]] — economists
 - [ ] [[linguists]] — linguists
 - [ ] [[psychological-experiments]] — psychological experiments and studies
-- [ ] [[psychologists]] — psychologists
+- [ ] ⭐ [[psychologists]] — psychologists
 - [ ] [[unique-languages]] — unique languages
 
 ## Phase 12 — Philosophy  (`concepts/philosophy/`)  ·  0/2 built
 
-- [ ] [[ancient-philosophers]] — ancient philosophers
-- [ ] [[schools-of-western-philosophy]] — schools of Western philosophy
+- [ ] ⭐ [[ancient-philosophers]] — ancient philosophers
+- [ ] ⭐ [[schools-of-western-philosophy]] — schools of Western philosophy
 
 ## Phase 13 — Popular Culture  (`concepts/pop-culture/`)  ·  0/7 built
 

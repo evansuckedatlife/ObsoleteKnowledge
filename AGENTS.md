@@ -78,6 +78,21 @@ Notes:
 - Footer lists **every** list the node belongs to: `Lists: [[greek-heroes]] · [[trojan-war-heroes]] · Mark read: ...`.
 - `defines` = the display name plus any aliases/alternate spellings the node owns.
 - Read an existing node first as a style exemplar, e.g. `concepts/mythology/odin.md` or `concepts/religion/moses.md`.
+- **Tier-1 (Cornerstone) nodes** add a `## context` section after `## connections` (see Depth tiers below).
+
+## 2b. Depth tiers — scale effort to importance
+
+Not every node deserves equal effort. Match depth to how central the topic is. **Effort budget should flow to the major concepts**, not be spread evenly.
+
+**Tier 1 — Cornerstone.** Civilization-level concepts and high-traffic hubs: `jesus`, `zeus`, `judaism`, `the-trojan-war`; and major lists/members like *programming terms*, *massacres*, *elections*, *chemical elements*, *Supreme Court cases*, *World War II battles*. Marked **⭐** in `BUILD-ORDER.md`. Give these the deep treatment:
+- **summary:** a full paragraph (4–6 sentences) — identity, scope, and why it's pivotal.
+- **you gotta know:** 8–14 bullets, and group them under `###` sub-headers when the material splits naturally (e.g. for `jesus`: `### life`, `### teachings`, `### death & resurrection`, `### influence`; for a battle: `### background`, `### the battle`, `### aftermath`).
+- **`## context`** (Tier-1 only): one paragraph on broader significance — influence, legacy, why it recurs in quiz bowl and the wider culture.
+- **connections:** 6–10 links, reaching across domains (a person → their works, era, rivals, the movement they belong to).
+
+**Tier 2 — Standard.** Everything else (the default, and what the existing Mythology & Belief nodes are): summary 2–4 sentences, 4–8 clue bullets, 2–5 connections, no `## context`.
+
+**Within any list,** even a Tier-2 list, give the 1–3 *keystone* members Tier-1 depth (e.g. in *operas*, *Carmen* and *The Magic Flute* get more than a minor entry). Use judgment: if a topic is obviously major but isn't marked ⭐, treat it as Tier 1 anyway. Better to over-invest in the famous than to pad the obscure.
 
 ## 3. List (MOC) template — copy this exactly
 
@@ -136,7 +151,9 @@ The `file.hasLink(this.file)` filter automatically shows every node whose `lists
 
 ## 5. Workflow to build one list
 
-1. **Pick a frontier topic** — any dangling (unbuilt) entry in `index.md`. Good next targets: high-traffic hubs and big categories (History, Science, Literature).
+**Stay on-spec:** at the start of every item, **re-read this `AGENTS.md` and `BUILD-ORDER.md`** before writing. Over a long autonomous run your sense of the format drifts; a 10-second re-read prevents it. Also glance at one recent node you wrote to confirm you're still matching the template.
+
+1. **Pick a frontier topic** — the first unchecked item in `BUILD-ORDER.md`. Check whether it's marked **⭐ (Tier 1)** and set your depth accordingly (§2b).
 2. **Enumerate members** — the ~10 well-known entities for that topic. You may use NAQT's entry names as the checklist (names only).
 3. **Dedup** — for each member, `ls concepts/<category>/` (and grep the vault) to see if a node already exists. If it does, add this list to that node's `lists:` and footer; do not duplicate. Otherwise author it from the node template.
 4. **Write the MOC** at `lists/<slug>.md` from the list template, listing every member.
