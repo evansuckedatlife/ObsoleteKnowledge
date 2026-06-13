@@ -78,7 +78,7 @@ Notes:
 - Footer lists **every** list the node belongs to: `Lists: [[greek-heroes]] · [[trojan-war-heroes]] · Mark read: ...`.
 - `defines` = the display name plus any aliases/alternate spellings the node owns.
 - Read an existing node first as a style exemplar, e.g. `concepts/mythology/odin.md` or `concepts/religion/moses.md`.
-- **Tier-1 (Cornerstone) nodes** add a `## context` section after `## connections` (see Depth tiers below).
+- **Tier-1 (Cornerstone) nodes** add a `## context` section after `## you gotta know` (see Depth tiers below).
 
 ## 2b. Depth tiers — scale effort to importance
 

@@ -20,7 +20,7 @@ Rules that never bend: original content only (no NAQT prose), one node per entit
 
 **Legend:** ⭐ = Tier-1 Cornerstone (deep treatment). All Phase-0 hub nodes are Tier 1.
 
-**Scope:** 187 unique NAQT topics (17 built, 31 ⭐ Tier-1) + 23 hub nodes (all Tier 1).
+**Scope:** 187 unique NAQT topics (30 built, 31 ⭐ Tier-1) + 23 hub nodes (all Tier 1).
 
 ---
 
@@ -28,29 +28,29 @@ Rules that never bend: original content only (no NAQT prose), one node per entit
 
 Single nodes, not lists. The Greek Olympian gods especially are referenced by dozens of existing hero/monster nodes but don't exist yet.
 
-- [x] `concepts/mythology/` — [[zeus]] — king of the Olympian gods — referenced everywhere
-- [x] `concepts/mythology/` — [[athena]] — goddess of wisdom & war
-- [x] `concepts/mythology/` — [[apollo]] — god of the sun, music, prophecy
-- [x] `concepts/mythology/` — [[aphrodite]] — goddess of love
-- [x] `concepts/mythology/` — [[the-trojan-war]] — the war the Trojan/Greek hero lists orbit
-- [x] `concepts/mythology/` — [[the-iliad]] — Homer's epic of the Trojan War
-- [x] `concepts/mythology/` — [[the-odyssey]] — Homer's epic of Odysseus' return
-- [x] `concepts/mythology/` — [[the-aeneid]] — Virgil's epic of Aeneas
-- [x] `concepts/mythology/` — [[round-table]] — the fellowship of Arthur's knights
-- [x] `concepts/mythology/` — [[holy-grail]] — the object of the Arthurian quest
-- [x] `concepts/mythology/` — [[book-of-the-dead]] — Egyptian funerary text
-- [x] `concepts/mythology/` — [[pharaoh]] — Egyptian god-king institution
-- [x] `concepts/religion/` — [[trimurti]] — Hindu triad: Brahma, Vishnu, Shiva
-- [x] `concepts/religion/` — [[mahabharata]] — Hindu epic containing the Bhagavad Gita
-- [x] `concepts/religion/` — [[ramayana]] — Hindu epic of Rama
-- [x] `concepts/religion/` — [[jesus]] — central figure of Christianity / the NT
-- [x] `concepts/religion/` — [[judaism]] — the tradition the Hebrew-Bible/holiday/lifecycle lists orbit
-- [x] `concepts/religion/` — [[torah]] — the first five books / core of Judaism
-- [x] `concepts/religion/` — [[gospels]] — the four NT accounts of Jesus
-- [x] `concepts/religion/` — [[crucifixion]] — the death of Jesus
-- [x] `concepts/religion/` — [[exodus]] — the departure from Egypt under Moses
-- [x] `concepts/religion/` — [[buddhism]] — tradition founded by Siddhartha Gautama
-- [x] `concepts/religion/` — [[temple-in-jerusalem]] — First & Second Temples
+- [ ] `concepts/mythology/` — [[zeus]] — king of the Olympian gods — referenced everywhere
+- [ ] `concepts/mythology/` — [[athena]] — goddess of wisdom & war
+- [ ] `concepts/mythology/` — [[apollo]] — god of the sun, music, prophecy
+- [ ] `concepts/mythology/` — [[aphrodite]] — goddess of love
+- [ ] `concepts/mythology/` — [[the-trojan-war]] — the war the Trojan/Greek hero lists orbit
+- [ ] `concepts/mythology/` — [[the-iliad]] — Homer's epic of the Trojan War
+- [ ] `concepts/mythology/` — [[the-odyssey]] — Homer's epic of Odysseus' return
+- [ ] `concepts/mythology/` — [[the-aeneid]] — Virgil's epic of Aeneas
+- [ ] `concepts/mythology/` — [[round-table]] — the fellowship of Arthur's knights
+- [ ] `concepts/mythology/` — [[holy-grail]] — the object of the Arthurian quest
+- [ ] `concepts/mythology/` — [[book-of-the-dead]] — Egyptian funerary text
+- [ ] `concepts/mythology/` — [[pharaoh]] — Egyptian god-king institution
+- [ ] `concepts/religion/` — [[trimurti]] — Hindu triad: Brahma, Vishnu, Shiva
+- [ ] `concepts/religion/` — [[mahabharata]] — Hindu epic containing the Bhagavad Gita
+- [ ] `concepts/religion/` — [[ramayana]] — Hindu epic of Rama
+- [ ] `concepts/religion/` — [[jesus]] — central figure of Christianity / the NT
+- [ ] `concepts/religion/` — [[judaism]] — the tradition the Hebrew-Bible/holiday/lifecycle lists orbit
+- [ ] `concepts/religion/` — [[torah]] — the first five books / core of Judaism
+- [ ] `concepts/religion/` — [[gospels]] — the four NT accounts of Jesus
+- [ ] `concepts/religion/` — [[crucifixion]] — the death of Jesus
+- [ ] `concepts/religion/` — [[exodus]] — the departure from Egypt under Moses
+- [ ] `concepts/religion/` — [[buddhism]] — tradition founded by Siddhartha Gautama
+- [ ] `concepts/religion/` — [[temple-in-jerusalem]] — First & Second Temples
 
 > After Phase 0, also consider the rest of the Twelve Olympians (hera, poseidon, ares, artemis, hephaestus, hermes, demeter, dionysus, hades, hestia) as a node cluster.
 
@@ -76,7 +76,7 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [x] [[norse-gods]] — Norse gods
 - [x] [[trojan-war-heroes]] — Trojan War heroes
 
-## Phase 3 — Science  (`concepts/science/`)  ·  3/25 built
+## Phase 3 — Science  (`concepts/science/`)  ·  12/25 built
 
 - [x] [[20th-century-physicists]] — 20th-century physicists
 - [x] [[active-volcanoes]] — active volcanoes
@@ -84,19 +84,19 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [x] ⭐ [[chemical-elements]] — chemical elements
 - [x] [[chemistry-lab-techniques]] — chemistry lab techniques
 - [ ] [[circuit-components]] — circuit components
-- [ ] ⭐ [[classes-of-particles]] — classes of particles
+- [x] ⭐ [[classes-of-particles]] — classes of particles
 - [ ] [[computer-components]] — computer components
-- [ ] ⭐ [[quantum-mechanics-concepts]] — concepts from quantum mechanics
+- [x] ⭐ [[quantum-mechanics-concepts]] — concepts from quantum mechanics
 - [ ] [[plant-distinctions]] — distinctions among types of plants
 - [ ] [[dwarf-planets-comets-and-asteroids]] — dwarf planets, comets, and asteroids
-- [ ] ⭐ [[enzymes]] — enzymes
+- [x] ⭐ [[enzymes]] — enzymes
 - [x] [[functional-groups]] — functional groups
 - [ ] [[geologic-time-periods]] — geologic time periods
 - [ ] [[moons]] — moons
 - [ ] [[nobel-prize-winners-in-medicine]] — Nobel Prize winners in physiology or medicine
-- [ ] ⭐ [[organelles]] — organelles
+- [x] ⭐ [[organelles]] — organelles
 - [x] [[organic-reactions]] — organic reactions
-- [ ] ⭐ [[programming-terms]] — programming terms
+- [x] ⭐ [[programming-terms]] — programming terms
 - [ ] [[rocket-scientists]] — rocket scientists
 - [ ] [[rocks-and-minerals]] — rocks and minerals
 - [ ] [[scientific-experiments]] — scientific experiments

@@ -1,13 +1,15 @@
 # ObsoleteKnowledge — Master Index
 
-The full catalogue of **187 topics** (NAQT cross-lists some, so 211 entries appear across the categories below), the scope this vault grows into. Live links (**15 built**) have a list MOC and member nodes; everything else is a **dangling link — the frontier**, scoped but unwritten. Open the graph view to watch the frontier light up as unresolved nodes.
+The full catalogue of **187 topics** (NAQT cross-lists some, so 211 entries appear across the categories below), the scope this vault grows into. Live links (**30 built**) have a list MOC and member nodes; everything else is a **dangling link — the frontier**, scoped but unwritten. Open the graph view to watch the frontier light up as unresolved nodes.
 
 ## Built so far — Mythology & Belief
 
 The first subject branch. Each links to its list MOC.
 
+- [[20th-century-physicists]] — 20th-century physicists
 - [[arthurian-characters]] — Arthurian characters
 - [[biblical-sayings]] — Biblical sayings
+- [[british-monarchs]] — British monarchs
 - [[egyptian-deities]] — Egyptian deities
 - [[greek-heroes]] — Greek heroes
 - [[greek-mythological-monsters]] — Greek mythological monsters
@@ -16,24 +18,24 @@ The first subject branch. Each links to its list MOC.
 - [[jewish-lifecycle-events]] — Jewish lifecycle events
 - [[new-testament-characters]] — New Testament characters
 - [[norse-gods]] — Norse gods
-- [[trojan-war-heroes]] — Trojan War heroes
-- [[hebrew-bible-characters]] — characters in the Hebrew Bible
-- [[founders-of-religious-traditions]] — founders of religious traditions
-- [[mortal-women-in-greek-myth]] — mortal women in Greek myth
-- [[religious-texts]] — religious texts
 - [[roman-emperors]] — Roman emperors
-- [[british-monarchs]] — British monarchs
-- [[popes]] — popes
-- [[20th-century-physicists]] — 20th-century physicists
+- [[trojan-war-heroes]] — Trojan War heroes
 - [[active-volcanoes]] — active volcanoes
 - [[phyla]] — animal phyla
+- [[hebrew-bible-characters]] — characters in the Hebrew Bible
 - [[chemical-elements]] — chemical elements
 - [[chemistry-lab-techniques]] — chemistry lab techniques
+- [[classes-of-particles]] — classes of particles
+- [[quantum-mechanics-concepts]] — concepts from quantum mechanics
+- [[enzymes]] — enzymes
+- [[founders-of-religious-traditions]] — founders of religious traditions
 - [[functional-groups]] — functional groups
+- [[mortal-women-in-greek-myth]] — mortal women in Greek myth
+- [[organelles]] — organelles
 - [[organic-reactions]] — organic reactions
-
-
-
+- [[popes]] — popes
+- [[programming-terms]] — programming terms
+- [[religious-texts]] — religious texts
 
 ## Full catalogue (by NAQT category)
 
@@ -47,7 +49,7 @@ The first subject branch. Each links to its list MOC.
 - [[north-american-rivers]] — North American rivers
 - [[western-european-rivers]] — western European rivers
 
-## History  ·  3/58 built
+## History  ·  4/58 built
 
 - [[20th-century-african-leaders]] — 20th-century African leaders
 - [[20th-century-middle-eastern-leaders]] — 20th-century Middle Eastern leaders
@@ -88,7 +90,7 @@ The first subject branch. Each links to its list MOC.
 - [[people-from-the-french-revolution]] — people from the French Revolution
 - [[peoples-of-the-early-middle-ages]] — peoples of the early Middle Ages
 - [[plagues-and-pandemics]] — plagues and pandemics
-- [[popes]] — popes
+- ✅ [[popes]] — popes
 - [[presidential-inaugurations]] — presidential inaugurations
 - [[presidential-scandals]] — presidential scandals
 - [[revolutionary-war-battles]] — Revolutionary War battles
@@ -225,7 +227,7 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[popes]] — popes
 - ✅ [[religious-texts]] — religious texts
 
-## Science  ·  7/30 built
+## Science  ·  12/30 built
 
 - ✅ [[20th-century-physicists]] — 20th-century physicists
 - ✅ [[active-volcanoes]] — active volcanoes
@@ -233,13 +235,13 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[chemical-elements]] — chemical elements
 - ✅ [[chemistry-lab-techniques]] — chemistry lab techniques
 - [[circuit-components]] — circuit components
-- [[classes-of-particles]] — classes of particles
+- ✅ [[classes-of-particles]] — classes of particles
 - [[classifications-of-functions]] — classifications of mathematical functions
 - [[computer-components]] — computer components
-- [[quantum-mechanics-concepts]] — concepts from quantum mechanics
+- ✅ [[quantum-mechanics-concepts]] — concepts from quantum mechanics
 - [[plant-distinctions]] — distinctions among types of plants
 - [[dwarf-planets-comets-and-asteroids]] — dwarf planets, comets, and asteroids
-- [[enzymes]] — enzymes
+- ✅ [[enzymes]] — enzymes
 - ✅ [[functional-groups]] — functional groups
 - [[geologic-time-periods]] — geologic time periods
 - [[geometric-curves]] — geometric curves
@@ -247,9 +249,9 @@ The first subject branch. Each links to its list MOC.
 - [[mathematicians]] — mathematicians
 - [[moons]] — moons
 - [[nobel-prize-winners-in-medicine]] — Nobel Prize winners in physiology or medicine
-- [[organelles]] — organelles
+- ✅ [[organelles]] — organelles
 - ✅ [[organic-reactions]] — organic reactions
-- [[programming-terms]] — programming terms
+- ✅ [[programming-terms]] — programming terms
 - [[rocket-scientists]] — rocket scientists
 - [[rocks-and-minerals]] — rocks and minerals
 - [[scientific-experiments]] — scientific experiments
