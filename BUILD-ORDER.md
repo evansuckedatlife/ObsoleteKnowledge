@@ -32,7 +32,7 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [x] `concepts/mythology/` — [[the-trojan-war]] — the war the Trojan/Greek hero lists orbit
 - [x] `concepts/mythology/` — [[the-iliad]] — Homer's epic of the Trojan War
 - [x] `concepts/mythology/` — [[the-odyssey]] — Homer's epic of Odysseus' return
-- [ ] `concepts/mythology/` — [[the-aeneid]] — Virgil's epic of Aeneas
+- [x] `concepts/mythology/` — [[the-aeneid]] — Virgil's epic of Aeneas
 - [ ] `concepts/mythology/` — [[round-table]] — the fellowship of Arthur's knights
 - [ ] `concepts/mythology/` — [[holy-grail]] — the object of the Arthurian quest
 - [ ] `concepts/mythology/` — [[book-of-the-dead]] — Egyptian funerary text
