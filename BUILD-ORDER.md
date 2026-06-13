@@ -106,12 +106,13 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 
 ## Phase 4 — Mathematics  (`concepts/mathematics/`)  ·  6/6 built
 
-- [x] [[classifications-of-functions]] — classifications of mathematical functions
-- [x] [[geometric-curves]] — geometric curves
-- [x] ⭐ [[calculus-ideas]] — ideas from calculus
-- [x] ⭐ [[mathematicians]] — mathematicians
-- [x] [[statements-about-prime-numbers]] — statements about prime numbers
-- [x] [[computation-types]] — types of computation problems
+- [x] [[classifications-of-functions]] — classifications of mathematical functions 
+- [x] [[geometric-curves]] — geometric curves 
+- [x] ⭐ [[calculus-ideas]] — ideas from calculus 
+- [x] ⭐ [[mathematicians]] — mathematicians 
+- [x] [[statements-about-prime-numbers]] — statements about prime numbers 
+- [x] [[computation-types]] — types of computation problems 
+
 
 ## Phase 5 — Literature  (`concepts/literature/`)  ·  0/23 built
 
