@@ -1,0 +1,9 @@
+# Obsidian per-machine workspace state (changes every session, not worth tracking)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/
+
+# Transient build scratch — source scope extraction, never committed
+_scratch/
+_sources/

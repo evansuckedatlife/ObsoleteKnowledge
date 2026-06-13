@@ -1,0 +1,28 @@
+views:
+  - type: table
+    name: All concepts
+    order:
+      - file.name
+      - read
+      - type
+      - category
+      - lists
+    sort:
+      - property: read
+        direction: ASC
+      - property: category
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: By category
+    order:
+      - category
+      - file.name
+      - read
+      - type
+    sort:
+      - property: category
+        direction: ASC
+      - property: read
+        direction: ASC

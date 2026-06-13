@@ -1,0 +1,14 @@
+filters:
+  and:
+    - read == true
+views:
+  - type: table
+    name: Read
+    order:
+      - file.name
+      - type
+      - category
+      - lists
+    sort:
+      - property: file.name
+        direction: ASC

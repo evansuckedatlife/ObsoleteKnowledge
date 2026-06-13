@@ -1,0 +1,16 @@
+filters:
+  and:
+    - read == false
+views:
+  - type: table
+    name: Unread
+    order:
+      - file.name
+      - type
+      - category
+      - lists
+    sort:
+      - property: category
+        direction: ASC
+      - property: file.name
+        direction: ASC
