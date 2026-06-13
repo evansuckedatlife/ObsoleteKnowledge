@@ -2,7 +2,7 @@
 type: person
 category: history
 defines: [Richard I, Richard the Lionheart, Richard Coeur de Lion]
-related: ["[[henry-ii]]", "[[john]]", "[[saladin]]", "[[third-crusade]]"]
+related: ["[[henry-ii]]", "[[king-john]]", "[[saladin]]", "[[third-crusade]]"]
 lists: ["[[british-monarchs]]"]
 read: false
 ---
@@ -24,11 +24,11 @@ Richard I, widely known as Richard the Lionheart, was King of England from 1189 
 ## connections
 
 - [[henry-ii]] — his father, against whom he repeatedly rebelled in alliance with Philip II of France.
-- [[john]] — his younger brother and successor who ruled England during Richard's crusade and captivity.
+- [[king-john]] — his younger brother and successor who ruled England during Richard's crusade and captivity.
 
 ## see also
 
-- [[william-i]] · [[henry-ii]] · [[john]]
+- [[william-i]] · [[henry-ii]] · [[king-john]]
 
 <!-- footer -->
 

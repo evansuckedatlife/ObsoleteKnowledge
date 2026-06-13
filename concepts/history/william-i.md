@@ -28,7 +28,7 @@ William I, also known as William the Conqueror, was the first Norman king of Eng
 
 ## see also
 
-- [[henry-ii]] · [[richard-i]] · [[john]]
+- [[henry-ii]] · [[richard-i]] · [[king-john]]
 
 <!-- footer -->
 

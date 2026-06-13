@@ -2,7 +2,7 @@
 type: person
 category: history
 defines: [Henry II, Henry Curtmantle, Henry of Anjou]
-related: ["[[thomas-becket]]", "[[eleanor-of-aquitaine]]", "[[richard-i]]", "[[john]]", "[[house-of-plantagenet]]"]
+related: ["[[thomas-becket]]", "[[eleanor-of-aquitaine]]", "[[richard-i]]", "[[king-john]]", "[[house-of-plantagenet]]"]
 lists: ["[[british-monarchs]]"]
 read: false
 ---
@@ -25,11 +25,11 @@ Henry II was King of England from 1154 to 1189, initiating the Plantagenet dynas
 
 - [[william-i]] — his great-grandfather whose administrative legacy he built upon.
 - [[richard-i]] — his son and successor who repeatedly rebelled against him.
-- [[john]] — his favorite son who ultimately joined Richard's final rebellion against him.
+- [[king-john]] — his favorite son who ultimately joined Richard's final rebellion against him.
 
 ## see also
 
-- [[william-i]] · [[richard-i]] · [[john]]
+- [[william-i]] · [[richard-i]] · [[king-john]]
 
 <!-- footer -->
 
