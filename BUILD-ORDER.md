@@ -20,7 +20,7 @@ Rules that never bend: original content only (no NAQT prose), one node per entit
 
 **Legend:** ⭐ = Tier-1 Cornerstone (deep treatment). All Phase-0 hub nodes are Tier 1.
 
-**Scope:** 187 unique NAQT topics (117 built, 31 ⭐ Tier-1) + 23 hub nodes (all Tier 1).
+**Scope:** 187 unique NAQT topics (118 built, 31 ⭐ Tier-1) + 23 hub nodes (all Tier 1).
 
 ---
 
@@ -196,9 +196,9 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [ ] ⭐ [[world-war-ii-battles]] — World War II battles
 - [x] [[worlds-fairs]] — world's fairs
 
-## Phase 7 — Music and Auditory Art  (`concepts/music/`)  ·  5/15 built
+## Phase 7 — Music and Auditory Art  (`concepts/music/`)  ·  6/15 built
 
-- [ ] [[20th-century-composers]] — 20th-century composers
+- [x] [[20th-century-composers]] — 20th-century composers
 - [ ] [[american-composers]] — American composers
 - [ ] [[arias]] — arias
 - [ ] [[early-20th-century-european-composers]] — early-20th-century European composers
