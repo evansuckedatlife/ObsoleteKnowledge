@@ -3,7 +3,9 @@ type: holiday
 category: religion
 defines: [Rosh Hashanah, "Jewish New Year"]
 related: ["[[yom-kippur]]", "[[high-holy-days]]", "[[judaism]]"]
-lists: ["[[jewish-holidays]]"]
+lists:
+  - "[[jewish-holidays]]"
+  - "[[new-year-celebrations]]"
 read: false
 ---
 
@@ -38,4 +40,4 @@ Rosh Hashanah marks the *Jewish New Year* and falls on the first and second days
 
 ---
 
-Lists: [[jewish-holidays]] · Mark read: `INPUT[toggle:read]`
+Lists: [[jewish-holidays]] · [[new-year-celebrations]] · Mark read: `INPUT[toggle:read]`

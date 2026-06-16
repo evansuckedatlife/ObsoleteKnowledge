@@ -20,7 +20,7 @@ Rules that never bend: original content only (no NAQT prose), one node per entit
 
 **Legend:** ⭐ = Tier-1 Cornerstone (deep treatment). All Phase-0 hub nodes are Tier 1.
 
-**Scope:** 187 unique NAQT topics (73 built, 31 ⭐ Tier-1) + 23 hub nodes (all Tier 1).
+**Scope:** 187 unique NAQT topics (89 built, 31 ⭐ Tier-1) + 23 hub nodes (all Tier 1).
 
 ---
 
@@ -139,7 +139,7 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [ ] [[works-of-mystery-and-detective-fiction]] — works of mystery and detective fiction
 - [ ] [[works-of-russian-short-fiction]] — works of Russian short fiction
 
-## Phase 6 — History  (`concepts/history/`)  ·  2/54 built
+## Phase 6 — History  (`concepts/history/`)  ·  3/54 built
 
 - [ ] [[20th-century-african-leaders]] — 20th-century African leaders
 - [ ] [[20th-century-middle-eastern-leaders]] — 20th-century Middle Eastern leaders
@@ -194,7 +194,7 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [ ] ⭐ [[treaties]] — treaties
 - [ ] [[vice-presidents-who-never-became-president]] — vice presidents who never became president
 - [ ] ⭐ [[world-war-ii-battles]] — World War II battles
-- [ ] [[worlds-fairs]] — world's fairs
+- [x] [[worlds-fairs]] — world's fairs
 
 ## Phase 7 — Music and Auditory Art  (`concepts/music/`)  ·  0/15 built
 
@@ -220,19 +220,19 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [ ] [[ballets-2]] — ballets
 - [ ] [[choreographers]] — choreographers
 
-## Phase 9 — Visual Art  (`concepts/visual-art/`)  ·  0/11 built
+## Phase 9 — Visual Art  (`concepts/visual-art/`)  ·  11/11 built
 
-- [ ] [[20th-century-paintings]] — 20th-century paintings
-- [ ] [[architects]] — architects
-- [ ] [[art-museums]] — art museums
-- [ ] [[baroque-painters]] — baroque painters
-- [ ] [[dutch-paintings]] — Dutch paintings
-- [ ] [[early-20th-century-art-movements]] — early 20th-century art movements
-- [ ] [[french-directors]] — French directors
-- [ ] [[photography-pioneers]] — photography pioneers
-- [ ] [[sculptors]] — sculptors
-- [ ] [[skyscrapers]] — skyscrapers
-- [ ] [[works-by-leonardo-da-vinci]] — works by Leonardo da Vinci
+- [x] [[20th-century-paintings]] — 20th-century paintings
+- [x] [[architects]] — architects
+- [x] [[art-museums]] — art museums
+- [x] [[baroque-painters]] — baroque painters
+- [x] [[dutch-paintings]] — Dutch paintings
+- [x] [[early-20th-century-art-movements]] — early 20th-century art movements
+- [x] [[french-directors]] — French directors
+- [x] [[photography-pioneers]] — photography pioneers
+- [x] [[sculptors]] — sculptors
+- [x] [[skyscrapers]] — skyscrapers
+- [x] [[works-by-leonardo-da-vinci]] — works by Leonardo da Vinci
 
 ## Phase 10 — Geography  (`concepts/geography/`)  ·  6/6 built
 
@@ -279,10 +279,10 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [x] [[olympics]] — Olympics
 - [x] [[tennis-players]] — tennis players
 
-## Phase 15 — Miscellaneous  (`concepts/misc/`)  ·  0/4 built
+## Phase 15 — Miscellaneous  (`concepts/misc/`)  ·  4/4 built
 
-- [ ] [[common-mistakes]] — common mistakes
-- [ ] [[common-mistakes-2]] — common mistakes
-- [ ] [[new-year-celebrations]] — new-year celebrations
-- [ ] [[quintuples]] — quintuples
+- [x] [[common-mistakes]] — common mistakes
+- [x] [[common-mistakes-2]] — common mistakes
+- [x] [[new-year-celebrations]] — new-year celebrations
+- [x] [[quintuples]] — quintuples
 

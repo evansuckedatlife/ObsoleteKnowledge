@@ -1,11 +1,12 @@
 # ObsoleteKnowledge — Master Index
 
-The full catalogue of **187 topics** (NAQT cross-lists some, so 211 entries appear across the categories below), the scope this vault grows into. Live links (**73 built**) have a list MOC and member nodes; everything else is a **dangling link — the frontier**, scoped but unwritten. Open the graph view to watch the frontier light up as unresolved nodes.
+The full catalogue of **187 topics** (NAQT cross-lists some, so 211 entries appear across the categories below), the scope this vault grows into. Live links (**89 built**) have a list MOC and member nodes; everything else is a **dangling link — the frontier**, scoped but unwritten. Open the graph view to watch the frontier light up as unresolved nodes.
 
 ## Built so far — Mythology & Belief
 
 The first subject branch. Each links to its list MOC.
 
+- [[20th-century-paintings]] — 20th-century paintings
 - [[20th-century-physicists]] — 20th-century physicists
 - [[21st-century-quarterbacks]] — 21st-century quarterbacks
 - [[african-bodies-of-water]] — African bodies of water
@@ -13,7 +14,9 @@ The first subject branch. Each links to its list MOC.
 - [[asian-rivers]] — Asian rivers
 - [[biblical-sayings]] — Biblical sayings
 - [[british-monarchs]] — British monarchs
+- [[dutch-paintings]] — Dutch paintings
 - [[egyptian-deities]] — Egyptian deities
+- [[french-directors]] — French directors
 - [[greek-heroes]] — Greek heroes
 - [[greek-mythological-monsters]] — Greek mythological monsters
 - [[hindu-heroes]] — Hindu gods and heroes
@@ -34,18 +37,24 @@ The first subject branch. Each links to its list MOC.
 - [[phyla]] — animal phyla
 - [[anthropologists]] — anthropologists
 - [[archaeological-sites]] — archaeological sites
+- [[architects]] — architects
+- [[art-museums]] — art museums
 - [[ballets]] — ballets
+- [[baroque-painters]] — baroque painters
 - [[hebrew-bible-characters]] — characters in the Hebrew Bible
 - [[chemical-elements]] — chemical elements
 - [[chemistry-lab-techniques]] — chemistry lab techniques
 - [[circuit-components]] — circuit components
 - [[classes-of-particles]] — classes of particles
 - [[classifications-of-functions]] — classifications of mathematical functions
+- [[common-mistakes]] — common mistakes
+- [[common-mistakes-2]] — common mistakes
 - [[computer-components]] — computer components
 - [[quantum-mechanics-concepts]] — concepts from quantum mechanics
 - [[deserts]] — deserts
 - [[plant-distinctions]] — distinctions among types of plants
 - [[dwarf-planets-comets-and-asteroids]] — dwarf planets, comets, and asteroids
+- [[early-20th-century-art-movements]] — early 20th-century art movements
 - [[economic-concepts]] — economic concepts
 - [[economists]] — economists
 - [[enzymes]] — enzymes
@@ -60,18 +69,23 @@ The first subject branch. Each links to its list MOC.
 - [[moons]] — moons
 - [[mortal-women-in-greek-myth]] — mortal women in Greek myth
 - [[mountains]] — mountains
+- [[new-year-celebrations]] — new-year celebrations
 - [[organelles]] — organelles
 - [[organic-reactions]] — organic reactions
+- [[photography-pioneers]] — photography pioneers
 - [[popes]] — popes
 - [[programming-terms]] — programming terms
 - [[psychological-experiments]] — psychological experiments and studies
 - [[psychologists]] — psychologists
+- [[quintuples]] — quintuples
 - [[religious-texts]] — religious texts
 - [[rocket-scientists]] — rocket scientists
 - [[rocks-and-minerals]] — rocks and minerals
 - [[schools-of-western-philosophy]] — schools of Western philosophy
 - [[scientific-experiments]] — scientific experiments
 - [[scientific-scales]] — scientific scales
+- [[sculptors]] — sculptors
+- [[skyscrapers]] — skyscrapers
 - [[space-missions]] — space missions
 - [[statements-about-prime-numbers]] — statements about prime numbers
 - [[techniques-in-biotechnology]] — techniques in biotechnology
@@ -79,6 +93,8 @@ The first subject branch. Each links to its list MOC.
 - [[computation-types]] — types of computation problems
 - [[unique-languages]] — unique languages
 - [[western-european-rivers]] — western European rivers
+- [[works-by-leonardo-da-vinci]] — works by Leonardo da Vinci
+- [[worlds-fairs]] — world's fairs
 
 ## Full catalogue (by NAQT category)
 
@@ -92,7 +108,7 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[north-american-rivers]] — North American rivers
 - ✅ [[western-european-rivers]] — western European rivers
 
-## History  ·  6/58 built
+## History  ·  7/58 built
 
 - [[20th-century-african-leaders]] — 20th-century African leaders
 - [[20th-century-middle-eastern-leaders]] — 20th-century Middle Eastern leaders
@@ -151,7 +167,7 @@ The first subject branch. Each links to its list MOC.
 - [[treaties]] — treaties
 - [[vice-presidents-who-never-became-president]] — vice presidents who never became president
 - [[world-war-ii-battles]] — World War II battles
-- [[worlds-fairs]] — world's fairs
+- ✅ [[worlds-fairs]] — world's fairs
 
 ## Literature  ·  4/27 built
 
@@ -192,13 +208,13 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[statements-about-prime-numbers]] — statements about prime numbers
 - ✅ [[computation-types]] — types of computation problems
 
-## Miscellaneous  ·  0/5 built
+## Miscellaneous  ·  5/5 built
 
-- [[common-mistakes]] — common mistakes
-- [[common-mistakes-2]] — common mistakes
-- [[new-year-celebrations]] — new-year celebrations
-- [[quintuples]] — quintuples
-- [[worlds-fairs]] — world's fairs
+- ✅ [[common-mistakes]] — common mistakes
+- ✅ [[common-mistakes-2]] — common mistakes
+- ✅ [[new-year-celebrations]] — new-year celebrations
+- ✅ [[quintuples]] — quintuples
+- ✅ [[worlds-fairs]] — world's fairs
 
 ## Music and Auditory Art  ·  0/15 built
 
@@ -244,10 +260,10 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[ancient-philosophers]] — ancient philosophers
 - ✅ [[schools-of-western-philosophy]] — schools of Western philosophy
 
-## Popular Culture  ·  1/11 built
+## Popular Culture  ·  2/11 built
 
 - [[classic-american-television-series]] — classic American television series
-- [[french-directors]] — French directors
+- ✅ [[french-directors]] — French directors
 - [[landmark-20th-century-american-sitcoms]] — landmark 20th-century American sitcoms
 - [[modern-board-games]] — modern board games
 - [[musicals-part-1]] — musicals
@@ -324,19 +340,19 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[olympics]] — Olympics
 - ✅ [[tennis-players]] — tennis players
 
-## Visual Art  ·  0/11 built
+## Visual Art  ·  11/11 built
 
-- [[20th-century-paintings]] — 20th-century paintings
-- [[architects]] — architects
-- [[art-museums]] — art museums
-- [[baroque-painters]] — baroque painters
-- [[dutch-paintings]] — Dutch paintings
-- [[early-20th-century-art-movements]] — early 20th-century art movements
-- [[french-directors]] — French directors
-- [[photography-pioneers]] — photography pioneers
-- [[sculptors]] — sculptors
-- [[skyscrapers]] — skyscrapers
-- [[works-by-leonardo-da-vinci]] — works by Leonardo da Vinci
+- ✅ [[20th-century-paintings]] — 20th-century paintings
+- ✅ [[architects]] — architects
+- ✅ [[art-museums]] — art museums
+- ✅ [[baroque-painters]] — baroque painters
+- ✅ [[dutch-paintings]] — Dutch paintings
+- ✅ [[early-20th-century-art-movements]] — early 20th-century art movements
+- ✅ [[french-directors]] — French directors
+- ✅ [[photography-pioneers]] — photography pioneers
+- ✅ [[sculptors]] — sculptors
+- ✅ [[skyscrapers]] — skyscrapers
+- ✅ [[works-by-leonardo-da-vinci]] — works by Leonardo da Vinci
 
 ---
 
