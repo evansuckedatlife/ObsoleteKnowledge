@@ -20,7 +20,7 @@ Rules that never bend: original content only (no NAQT prose), one node per entit
 
 **Legend:** ⭐ = Tier-1 Cornerstone (deep treatment). All Phase-0 hub nodes are Tier 1.
 
-**Scope:** 187 unique NAQT topics (171 built, 31 ⭐ Tier-1) + 23 hub nodes (all Tier 1).
+**Scope:** 187 unique NAQT topics (187 built, 31 ⭐ Tier-1) + 23 hub nodes (all Tier 1).
 
 ---
 
@@ -196,29 +196,29 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [x] ⭐ [[world-war-ii-battles]] — World War II battles
 - [x] [[worlds-fairs]] — world's fairs
 
-## Phase 7 — Music and Auditory Art  (`concepts/music/`)  ·  8/15 built
+## Phase 7 — Music and Auditory Art  (`concepts/music/`)  ·  15/15 built
 
 - [x] [[20th-century-composers]] — 20th-century composers
 - [x] [[american-composers]] — American composers
-- [ ] [[arias]] — arias
+- [x] [[arias]] — arias
 - [x] [[early-20th-century-european-composers]] — early-20th-century European composers
-- [ ] [[jazz-musicians]] — jazz musicians
-- [ ] [[music-theory-terms]] — music theory terms
-- [ ] [[musicals-part-1]] — musicals
-- [ ] [[musicals-part-2]] — musicals
-- [ ] [[non-western-classical-music-traditions]] — non-western classical music traditions
+- [x] [[jazz-musicians]] — jazz musicians
+- [x] [[music-theory-terms]] — music theory terms
+- [x] [[musicals-part-1]] — musicals
+- [x] [[musicals-part-2]] — musicals
+- [x] [[non-western-classical-music-traditions]] — non-western classical music traditions
 - [x] ⭐ [[operas]] — operas
 - [x] [[piano-sonatas]] — piano sonatas
-- [ ] [[pre-1700-composers]] — pre-1700 composers
+- [x] [[pre-1700-composers]] — pre-1700 composers
 - [x] ⭐ [[romantic-era-composers]] — Romantic-era composers
 - [x] ⭐ [[works-by-beethoven]] — works by Ludwig van Beethoven
 - [x] ⭐ [[works-by-mozart]] — works by Mozart
 
-## Phase 8 — Performance  (`concepts/performance/`)  ·  1/3 built
+## Phase 8 — Performance  (`concepts/performance/`)  ·  3/3 built
 
 - [x] [[ballets]] — ballets
-- [ ] [[ballets-2]] — ballets
-- [ ] [[choreographers]] — choreographers
+- [x] [[ballets-2]] — ballets
+- [x] [[choreographers]] — choreographers
 
 ## Phase 9 — Visual Art  (`concepts/visual-art/`)  ·  11/11 built
 
@@ -260,15 +260,15 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [x] ⭐ [[ancient-philosophers]] — ancient philosophers
 - [x] ⭐ [[schools-of-western-philosophy]] — schools of Western philosophy
 
-## Phase 13 — Popular Culture  (`concepts/pop-culture/`)  ·  0/7 built
+## Phase 13 — Popular Culture  (`concepts/pop-culture/`)  ·  7/7 built
 
-- [ ] [[classic-american-television-series]] — classic American television series
-- [ ] [[landmark-20th-century-american-sitcoms]] — landmark 20th-century American sitcoms
-- [ ] [[modern-board-games]] — modern board games
-- [ ] [[pre-1960s-movies]] — pre-1960s movies
-- [ ] [[sandbox-and-open-world-video-games]] — sandbox and open-world video games
-- [ ] [[silent-films]] — silent films
-- [ ] [[video-game-series]] — video game series
+- [x] [[classic-american-television-series]] — classic American television series
+- [x] [[landmark-20th-century-american-sitcoms]] — landmark 20th-century American sitcoms
+- [x] [[modern-board-games]] — modern board games
+- [x] [[pre-1960s-movies]] — pre-1960s movies
+- [x] [[sandbox-and-open-world-video-games]] — sandbox and open-world video games
+- [x] [[silent-films]] — silent films
+- [x] [[video-game-series]] — video game series
 
 ## Phase 14 — Sports  (`concepts/sports/`)  ·  6/6 built
 

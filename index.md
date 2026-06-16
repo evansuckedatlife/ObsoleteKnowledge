@@ -1,6 +1,6 @@
 # ObsoleteKnowledge — Master Index
 
-The full catalogue of **187 topics** (NAQT cross-lists some, so 211 entries appear across the categories below), the scope this vault grows into. Live links (**171 built**) have a list MOC and member nodes; everything else is a **dangling link — the frontier**, scoped but unwritten. Open the graph view to watch the frontier light up as unresolved nodes.
+The full catalogue of **187 topics** (NAQT cross-lists some, so 211 entries appear across the categories below), the scope this vault grows into. Live links (**187 built**) have a list MOC and member nodes; everything else is a **dangling link — the frontier**, scoped but unwritten. Open the graph view to watch the frontier light up as unresolved nodes.
 
 ## Built so far — Mythology & Belief
 
@@ -79,19 +79,23 @@ The first subject branch. Each links to its list MOC.
 - [[anthropologists]] — anthropologists
 - [[archaeological-sites]] — archaeological sites
 - [[architects]] — architects
+- [[arias]] — arias
 - [[art-museums]] — art museums
 - [[assassinations]] — assassinations
 - [[authors-of-speculative-fiction]] — authors of speculative fiction
 - [[aviators]] — aviators
 - [[ballets]] — ballets
+- [[ballets-2]] — ballets
 - [[baroque-painters]] — baroque painters
 - [[battles-of-the-ancient-world]] — battles of the ancient world
 - [[world-war-ii-pacific-campaigns]] — campaigns in the Pacific Theater of World War II
 - [[hebrew-bible-characters]] — characters in the Hebrew Bible
 - [[chemical-elements]] — chemical elements
 - [[chemistry-lab-techniques]] — chemistry lab techniques
+- [[choreographers]] — choreographers
 - [[circuit-components]] — circuit components
 - [[classes-of-particles]] — classes of particles
+- [[classic-american-television-series]] — classic American television series
 - [[classifications-of-functions]] — classifications of mathematical functions
 - [[common-mistakes]] — common mistakes
 - [[common-mistakes-2]] — common mistakes
@@ -117,20 +121,27 @@ The first subject branch. Each links to its list MOC.
 - [[historical-fashions]] — historical fashions
 - [[calculus-ideas]] — ideas from calculus
 - [[indigenous-peoples]] — indigenous peoples
+- [[jazz-musicians]] — jazz musicians
 - [[kings-of-france]] — kings of France
+- [[landmark-20th-century-american-sitcoms]] — landmark 20th-century American sitcoms
 - [[linguists]] — linguists
 - [[magazines-from-american-history]] — magazines from American history
 - [[massacres]] — massacres
 - [[mathematicians]] — mathematicians
 - [[medieval-islamic-dynasties]] — medieval Islamic dynasties
 - [[medieval-battles]] — medieval battles
+- [[modern-board-games]] — modern board games
 - [[modern-speeches]] — modern speeches
 - [[modernist-authors]] — modernist authors
 - [[moons]] — moons
 - [[mortal-women-in-greek-myth]] — mortal women in Greek myth
 - [[mountains]] — mountains
+- [[music-theory-terms]] — music theory terms
+- [[musicals-part-1]] — musicals
+- [[musicals-part-2]] — musicals
 - [[new-year-celebrations]] — new-year celebrations
 - [[non-shakespeare-classical-english-dramas]] — non-Shakespeare classical English dramas
+- [[non-western-classical-music-traditions]] — non-western classical music traditions
 - [[operas]] — operas
 - [[organelles]] — organelles
 - [[organic-reactions]] — organic reactions
@@ -142,6 +153,8 @@ The first subject branch. Each links to its list MOC.
 - [[plot-twists]] — plot twists
 - [[popes]] — popes
 - [[postmodern-authors]] — postmodern authors
+- [[pre-1700-composers]] — pre-1700 composers
+- [[pre-1960s-movies]] — pre-1960s movies
 - [[presidential-inaugurations]] — presidential inaugurations
 - [[presidential-scandals]] — presidential scandals
 - [[programming-terms]] — programming terms
@@ -151,11 +164,13 @@ The first subject branch. Each links to its list MOC.
 - [[religious-texts]] — religious texts
 - [[rocket-scientists]] — rocket scientists
 - [[rocks-and-minerals]] — rocks and minerals
+- [[sandbox-and-open-world-video-games]] — sandbox and open-world video games
 - [[schools-of-western-philosophy]] — schools of Western philosophy
 - [[scientific-experiments]] — scientific experiments
 - [[scientific-scales]] — scientific scales
 - [[sculptors]] — sculptors
 - [[short-story-authors]] — short story authors
+- [[silent-films]] — silent films
 - [[skyscrapers]] — skyscrapers
 - [[space-missions]] — space missions
 - [[spies]] — spies
@@ -167,6 +182,7 @@ The first subject branch. Each links to its list MOC.
 - [[computation-types]] — types of computation problems
 - [[unique-languages]] — unique languages
 - [[vice-presidents-who-never-became-president]] — vice presidents who never became president
+- [[video-game-series]] — video game series
 - [[western-european-rivers]] — western European rivers
 - [[works-by-dostoevsky]] — works by Fyodor Dostoevsky
 - [[works-by-irish-authors]] — works by Irish authors
@@ -298,20 +314,20 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[quintuples]] — quintuples
 - ✅ [[worlds-fairs]] — world's fairs
 
-## Music and Auditory Art  ·  8/15 built
+## Music and Auditory Art  ·  15/15 built
 
 - ✅ [[20th-century-composers]] — 20th-century composers
 - ✅ [[american-composers]] — American composers
-- [[arias]] — arias
+- ✅ [[arias]] — arias
 - ✅ [[early-20th-century-european-composers]] — early-20th-century European composers
-- [[jazz-musicians]] — jazz musicians
-- [[music-theory-terms]] — music theory terms
-- [[musicals-part-1]] — musicals
-- [[musicals-part-2]] — musicals
-- [[non-western-classical-music-traditions]] — non-western classical music traditions
+- ✅ [[jazz-musicians]] — jazz musicians
+- ✅ [[music-theory-terms]] — music theory terms
+- ✅ [[musicals-part-1]] — musicals
+- ✅ [[musicals-part-2]] — musicals
+- ✅ [[non-western-classical-music-traditions]] — non-western classical music traditions
 - ✅ [[operas]] — operas
 - ✅ [[piano-sonatas]] — piano sonatas
-- [[pre-1700-composers]] — pre-1700 composers
+- ✅ [[pre-1700-composers]] — pre-1700 composers
 - ✅ [[romantic-era-composers]] — Romantic-era composers
 - ✅ [[works-by-beethoven]] — works by Ludwig van Beethoven
 - ✅ [[works-by-mozart]] — works by Mozart
@@ -327,14 +343,14 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[norse-gods]] — Norse gods
 - ✅ [[trojan-war-heroes]] — Trojan War heroes
 
-## Performance  ·  2/7 built
+## Performance  ·  7/7 built
 
-- [[arias]] — arias
+- ✅ [[arias]] — arias
 - ✅ [[ballets]] — ballets
-- [[ballets-2]] — ballets
-- [[choreographers]] — choreographers
-- [[musicals-part-1]] — musicals
-- [[musicals-part-2]] — musicals
+- ✅ [[ballets-2]] — ballets
+- ✅ [[choreographers]] — choreographers
+- ✅ [[musicals-part-1]] — musicals
+- ✅ [[musicals-part-2]] — musicals
 - ✅ [[operas]] — operas
 
 ## Philosophy  ·  2/2 built
@@ -342,19 +358,19 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[ancient-philosophers]] — ancient philosophers
 - ✅ [[schools-of-western-philosophy]] — schools of Western philosophy
 
-## Popular Culture  ·  2/11 built
+## Popular Culture  ·  11/11 built
 
-- [[classic-american-television-series]] — classic American television series
+- ✅ [[classic-american-television-series]] — classic American television series
 - ✅ [[french-directors]] — French directors
-- [[landmark-20th-century-american-sitcoms]] — landmark 20th-century American sitcoms
-- [[modern-board-games]] — modern board games
-- [[musicals-part-1]] — musicals
-- [[musicals-part-2]] — musicals
-- [[pre-1960s-movies]] — pre-1960s movies
-- [[sandbox-and-open-world-video-games]] — sandbox and open-world video games
-- [[silent-films]] — silent films
+- ✅ [[landmark-20th-century-american-sitcoms]] — landmark 20th-century American sitcoms
+- ✅ [[modern-board-games]] — modern board games
+- ✅ [[musicals-part-1]] — musicals
+- ✅ [[musicals-part-2]] — musicals
+- ✅ [[pre-1960s-movies]] — pre-1960s movies
+- ✅ [[sandbox-and-open-world-video-games]] — sandbox and open-world video games
+- ✅ [[silent-films]] — silent films
 - ✅ [[unique-languages]] — unique languages
-- [[video-game-series]] — video game series
+- ✅ [[video-game-series]] — video game series
 
 ## Religion  ·  9/9 built
 
