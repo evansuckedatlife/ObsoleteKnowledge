@@ -1,6 +1,6 @@
 # ObsoleteKnowledge — Master Index
 
-The full catalogue of **187 topics** (NAQT cross-lists some, so 211 entries appear across the categories below), the scope this vault grows into. Live links (**115 built**) have a list MOC and member nodes; everything else is a **dangling link — the frontier**, scoped but unwritten. Open the graph view to watch the frontier light up as unresolved nodes.
+The full catalogue of **187 topics** (NAQT cross-lists some, so 211 entries appear across the categories below), the scope this vault grows into. Live links (**116 built**) have a list MOC and member nodes; everything else is a **dangling link — the frontier**, scoped but unwritten. Open the graph view to watch the frontier light up as unresolved nodes.
 
 ## Built so far — Mythology & Belief
 
@@ -116,6 +116,7 @@ The first subject branch. Each links to its list MOC.
 - [[works-by-dostoevsky]] — works by Fyodor Dostoevsky
 - [[works-by-irish-authors]] — works by Irish authors
 - [[works-by-leonardo-da-vinci]] — works by Leonardo da Vinci
+- [[works-by-beethoven]] — works by Ludwig van Beethoven
 - [[works-by-mozart]] — works by Mozart
 - [[works-of-russian-short-fiction]] — works of Russian short fiction
 - [[works-of-horror-fiction]] — works of horror fiction
@@ -242,7 +243,7 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[quintuples]] — quintuples
 - ✅ [[worlds-fairs]] — world's fairs
 
-## Music and Auditory Art  ·  3/15 built
+## Music and Auditory Art  ·  4/15 built
 
 - [[20th-century-composers]] — 20th-century composers
 - [[american-composers]] — American composers
@@ -257,7 +258,7 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[piano-sonatas]] — piano sonatas
 - [[pre-1700-composers]] — pre-1700 composers
 - [[romantic-era-composers]] — Romantic-era composers
-- [[works-by-beethoven]] — works by Ludwig van Beethoven
+- ✅ [[works-by-beethoven]] — works by Ludwig van Beethoven
 - ✅ [[works-by-mozart]] — works by Mozart
 
 ## Mythology  ·  8/8 built
