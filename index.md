@@ -1,6 +1,6 @@
 # ObsoleteKnowledge — Master Index
 
-The full catalogue of **187 topics** (NAQT cross-lists some, so 211 entries appear across the categories below), the scope this vault grows into. Live links (**137 built**) have a list MOC and member nodes; everything else is a **dangling link — the frontier**, scoped but unwritten. Open the graph view to watch the frontier light up as unresolved nodes.
+The full catalogue of **187 topics** (NAQT cross-lists some, so 211 entries appear across the categories below), the scope this vault grows into. Live links (**154 built**) have a list MOC and member nodes; everything else is a **dangling link — the frontier**, scoped but unwritten. Open the graph view to watch the frontier light up as unresolved nodes.
 
 ## Built so far — Mythology & Belief
 
@@ -17,7 +17,10 @@ The first subject branch. Each links to its list MOC.
 - [[african-american-authors]] — African-American authors
 - [[african-american-civil-rights-leaders]] — African-American civil rights leaders
 - [[american-composers]] — American composers
+- [[american-murders-and-murderers]] — American murders and murderers
 - [[american-plays]] — American plays
+- [[american-third-parties]] — American third parties
+- [[american-warships]] — American warships
 - [[arthurian-characters]] — Arthurian characters
 - [[asian-rivers]] — Asian rivers
 - [[biblical-sayings]] — Biblical sayings
@@ -26,6 +29,7 @@ The first subject branch. Each links to its list MOC.
 - [[british-prime-ministers]] — British prime ministers
 - [[charles-dickens-characters-not-protagonists]] — Charles Dickens characters who aren’t protagonists
 - [[charles-dickens-novels]] — Charles Dickens novels
+- [[civil-war-battles]] — Civil War battles
 - [[dutch-paintings]] — Dutch paintings
 - [[egyptian-deities]] — Egyptian deities
 - [[french-directors]] — French directors
@@ -39,12 +43,14 @@ The first subject branch. Each links to its list MOC.
 - [[jewish-american-authors]] — Jewish-American authors
 - [[latin-american-authors]] — Latin American authors
 - [[mexican-leaders]] — Mexican leaders
+- [[napoleonic-battles]] — Napoleonic battles
 - [[new-testament-characters]] — New Testament characters
 - [[new-york-yankees]] — New York Yankees
 - [[nobel-prize-winners-in-medicine]] — Nobel Prize winners in physiology or medicine
 - [[norse-gods]] — Norse gods
 - [[north-american-rivers]] — North American rivers
 - [[olympics]] — Olympics
+- [[revolutionary-war-battles]] — Revolutionary War battles
 - [[revolutionary-war-generals]] — Revolutionary War generals
 - [[roman-emperors]] — Roman emperors
 - [[romantic-era-composers]] — Romantic-era composers
@@ -54,6 +60,7 @@ The first subject branch. Each links to its list MOC.
 - [[shakespearean-villains]] — Shakespearean villains
 - [[south-american-political-leaders]] — South American political leaders
 - [[trojan-war-heroes]] — Trojan War heroes
+- [[world-war-ii-battles]] — World War II battles
 - [[accents-and-dialects-of-english]] — accents and dialects of English
 - [[active-volcanoes]] — active volcanoes
 - [[ancient-greek-plays]] — ancient Greek plays
@@ -63,10 +70,13 @@ The first subject branch. Each links to its list MOC.
 - [[archaeological-sites]] — archaeological sites
 - [[architects]] — architects
 - [[art-museums]] — art museums
+- [[assassinations]] — assassinations
 - [[authors-of-speculative-fiction]] — authors of speculative fiction
 - [[aviators]] — aviators
 - [[ballets]] — ballets
 - [[baroque-painters]] — baroque painters
+- [[battles-of-the-ancient-world]] — battles of the ancient world
+- [[world-war-ii-pacific-campaigns]] — campaigns in the Pacific Theater of World War II
 - [[hebrew-bible-characters]] — characters in the Hebrew Bible
 - [[chemical-elements]] — chemical elements
 - [[chemistry-lab-techniques]] — chemistry lab techniques
@@ -84,6 +94,7 @@ The first subject branch. Each links to its list MOC.
 - [[early-20th-century-european-composers]] — early-20th-century European composers
 - [[economic-concepts]] — economic concepts
 - [[economists]] — economists
+- [[elections]] — elections
 - [[enzymes]] — enzymes
 - [[explorers]] — explorers
 - [[feminists]] — feminists
@@ -95,7 +106,10 @@ The first subject branch. Each links to its list MOC.
 - [[calculus-ideas]] — ideas from calculus
 - [[kings-of-france]] — kings of France
 - [[linguists]] — linguists
+- [[massacres]] — massacres
 - [[mathematicians]] — mathematicians
+- [[medieval-battles]] — medieval battles
+- [[modern-speeches]] — modern speeches
 - [[modernist-authors]] — modernist authors
 - [[moons]] — moons
 - [[mortal-women-in-greek-myth]] — mortal women in Greek myth
@@ -111,6 +125,8 @@ The first subject branch. Each links to its list MOC.
 - [[plot-twists]] — plot twists
 - [[popes]] — popes
 - [[postmodern-authors]] — postmodern authors
+- [[presidential-inaugurations]] — presidential inaugurations
+- [[presidential-scandals]] — presidential scandals
 - [[programming-terms]] — programming terms
 - [[psychological-experiments]] — psychological experiments and studies
 - [[psychologists]] — psychologists
@@ -130,6 +146,7 @@ The first subject branch. Each links to its list MOC.
 - [[techniques-in-biotechnology]] — techniques in biotechnology
 - [[tennis-players]] — tennis players
 - [[translations]] — translations and translators
+- [[treaties]] — treaties
 - [[computation-types]] — types of computation problems
 - [[unique-languages]] — unique languages
 - [[vice-presidents-who-never-became-president]] — vice presidents who never became president
@@ -156,29 +173,29 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[north-american-rivers]] — North American rivers
 - ✅ [[western-european-rivers]] — western European rivers
 
-## History  ·  24/58 built
+## History  ·  41/58 built
 
 - ✅ [[20th-century-african-leaders]] — 20th-century African leaders
 - ✅ [[20th-century-middle-eastern-leaders]] — 20th-century Middle Eastern leaders
 - ✅ [[african-american-civil-rights-leaders]] — African-American civil rights leaders
-- [[american-murders-and-murderers]] — American murders and murderers
-- [[american-third-parties]] — American third parties
-- [[american-warships]] — American warships
+- ✅ [[american-murders-and-murderers]] — American murders and murderers
+- ✅ [[american-third-parties]] — American third parties
+- ✅ [[american-warships]] — American warships
 - [[ancient-empires]] — ancient empires of the Mediterranean and Near East
 - [[ancient-greek-places]] — ancient Greek places
 - ✅ [[archaeological-sites]] — archaeological sites
-- [[assassinations]] — assassinations
+- ✅ [[assassinations]] — assassinations
 - ✅ [[aviators]] — aviators
-- [[battles-of-the-ancient-world]] — battles of the ancient world
+- ✅ [[battles-of-the-ancient-world]] — battles of the ancient world
 - ✅ [[black-american-legislators]] — Black American legislators
 - ✅ [[british-monarchs]] — British monarchs
 - ✅ [[british-prime-ministers]] — British prime ministers
 - [[british-reform-movements]] — British reform movements
-- [[world-war-ii-pacific-campaigns]] — campaigns in the Pacific Theater of World War II
+- ✅ [[world-war-ii-pacific-campaigns]] — campaigns in the Pacific Theater of World War II
 - [[chinese-dynasties]] — Chinese dynasties
-- [[civil-war-battles]] — Civil War battles
+- ✅ [[civil-war-battles]] — Civil War battles
 - [[countries-once-known-by-different-names]] — countries once known by different names
-- [[elections]] — elections
+- ✅ [[elections]] — elections
 - [[european-royal-families]] — European royal families
 - ✅ [[explorers]] — explorers
 - ✅ [[feminists]] — feminists
@@ -187,20 +204,20 @@ The first subject branch. Each links to its list MOC.
 - [[indigenous-peoples]] — indigenous peoples
 - ✅ [[kings-of-france]] — kings of France
 - [[magazines-from-american-history]] — magazines from American history
-- [[massacres]] — massacres
-- [[medieval-battles]] — medieval battles
+- ✅ [[massacres]] — massacres
+- ✅ [[medieval-battles]] — medieval battles
 - [[medieval-islamic-dynasties]] — medieval Islamic dynasties
 - ✅ [[mexican-leaders]] — Mexican leaders
-- [[modern-speeches]] — modern speeches
-- [[napoleonic-battles]] — Napoleonic battles
+- ✅ [[modern-speeches]] — modern speeches
+- ✅ [[napoleonic-battles]] — Napoleonic battles
 - [[native-american-peoples]] — Native American peoples
 - ✅ [[people-from-the-french-revolution]] — people from the French Revolution
 - [[peoples-of-the-early-middle-ages]] — peoples of the early Middle Ages
 - [[plagues-and-pandemics]] — plagues and pandemics
 - ✅ [[popes]] — popes
-- [[presidential-inaugurations]] — presidential inaugurations
-- [[presidential-scandals]] — presidential scandals
-- [[revolutionary-war-battles]] — Revolutionary War battles
+- ✅ [[presidential-inaugurations]] — presidential inaugurations
+- ✅ [[presidential-scandals]] — presidential scandals
+- ✅ [[revolutionary-war-battles]] — Revolutionary War battles
 - ✅ [[revolutionary-war-generals]] — Revolutionary War generals
 - ✅ [[roman-emperors]] — Roman emperors
 - ✅ [[russian-tsars]] — Russian tsars
@@ -212,9 +229,9 @@ The first subject branch. Each links to its list MOC.
 - [[supreme-court-cases-2]] — Supreme Court cases
 - [[supreme-court-cases-concerned-with-african-americans]] — Supreme Court cases concerned with African-Americans
 - [[supreme-court-cases-involving-lgbt-rights]] — Supreme Court cases involving LGBT+ rights
-- [[treaties]] — treaties
+- ✅ [[treaties]] — treaties
 - ✅ [[vice-presidents-who-never-became-president]] — vice presidents who never became president
-- [[world-war-ii-battles]] — World War II battles
+- ✅ [[world-war-ii-battles]] — World War II battles
 - ✅ [[worlds-fairs]] — world's fairs
 
 ## Literature  ·  27/27 built
