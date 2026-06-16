@@ -20,7 +20,7 @@ Rules that never bend: original content only (no NAQT prose), one node per entit
 
 **Legend:** ⭐ = Tier-1 Cornerstone (deep treatment). All Phase-0 hub nodes are Tier 1.
 
-**Scope:** 187 unique NAQT topics (89 built, 31 ⭐ Tier-1) + 23 hub nodes (all Tier 1).
+**Scope:** 187 unique NAQT topics (112 built, 31 ⭐ Tier-1) + 23 hub nodes (all Tier 1).
 
 ---
 
@@ -113,31 +113,31 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [x] [[statements-about-prime-numbers]] — statements about prime numbers
 - [x] [[computation-types]] — types of computation problems
 
-## Phase 5 — Literature  (`concepts/literature/`)  ·  0/23 built
+## Phase 5 — Literature  (`concepts/literature/`)  ·  22/23 built
 
-- [ ] [[20th-century-newbery-medal-winners]] — 20th-century Newbery Medal winners
-- [ ] [[african-american-authors]] — African-American authors
-- [ ] [[american-plays]] — American plays
-- [ ] [[ancient-greek-plays]] — ancient Greek plays
-- [ ] [[authors-of-speculative-fiction]] — authors of speculative fiction
-- [ ] [[charles-dickens-characters-not-protagonists]] — Charles Dickens characters who aren’t protagonists
-- [ ] [[charles-dickens-novels]] — Charles Dickens novels
-- [ ] [[japanese-authors]] — Japanese authors
-- [ ] [[jewish-american-authors]] — Jewish-American authors
-- [ ] [[latin-american-authors]] — Latin American authors
-- [ ] ⭐ [[modernist-authors]] — modernist authors
-- [ ] [[non-shakespeare-classical-english-dramas]] — non-Shakespeare classical English dramas
-- [ ] [[plot-twists]] — plot twists
-- [ ] [[postmodern-authors]] — postmodern authors
-- [ ] [[shakespearean-speeches]] — Shakespearean speeches, monologues, and soliloquies
-- [ ] ⭐ [[shakespearean-villains]] — Shakespearean villains
-- [ ] ⭐ [[short-story-authors]] — short story authors
+- [x] [[20th-century-newbery-medal-winners]] — 20th-century Newbery Medal winners
+- [x] [[african-american-authors]] — African-American authors
+- [x] [[american-plays]] — American plays
+- [x] [[ancient-greek-plays]] — ancient Greek plays
+- [x] [[authors-of-speculative-fiction]] — authors of speculative fiction
+- [x] [[charles-dickens-characters-not-protagonists]] — Charles Dickens characters who aren’t protagonists
+- [x] [[charles-dickens-novels]] — Charles Dickens novels
+- [x] [[japanese-authors]] — Japanese authors
+- [x] [[jewish-american-authors]] — Jewish-American authors
+- [x] [[latin-american-authors]] — Latin American authors
+- [x] ⭐ [[modernist-authors]] — modernist authors
+- [x] [[non-shakespeare-classical-english-dramas]] — non-Shakespeare classical English dramas
+- [x] [[plot-twists]] — plot twists
+- [x] [[postmodern-authors]] — postmodern authors
+- [x] [[shakespearean-speeches]] — Shakespearean speeches, monologues, and soliloquies
+- [x] ⭐ [[shakespearean-villains]] — Shakespearean villains
+- [x] ⭐ [[short-story-authors]] — short story authors
 - [ ] [[translations]] — translations and translators
-- [ ] [[works-by-dostoevsky]] — works by Fyodor Dostoevsky
-- [ ] [[works-by-irish-authors]] — works by Irish authors
-- [ ] [[works-of-horror-fiction]] — works of horror fiction
-- [ ] [[works-of-mystery-and-detective-fiction]] — works of mystery and detective fiction
-- [ ] [[works-of-russian-short-fiction]] — works of Russian short fiction
+- [x] [[works-by-dostoevsky]] — works by Fyodor Dostoevsky
+- [x] [[works-by-irish-authors]] — works by Irish authors
+- [x] [[works-of-horror-fiction]] — works of horror fiction
+- [x] [[works-of-mystery-and-detective-fiction]] — works of mystery and detective fiction
+- [x] [[works-of-russian-short-fiction]] — works of Russian short fiction
 
 ## Phase 6 — History  (`concepts/history/`)  ·  3/54 built
 
@@ -196,7 +196,7 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [ ] ⭐ [[world-war-ii-battles]] — World War II battles
 - [x] [[worlds-fairs]] — world's fairs
 
-## Phase 7 — Music and Auditory Art  (`concepts/music/`)  ·  0/15 built
+## Phase 7 — Music and Auditory Art  (`concepts/music/`)  ·  1/15 built
 
 - [ ] [[20th-century-composers]] — 20th-century composers
 - [ ] [[american-composers]] — American composers
@@ -207,7 +207,7 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [ ] [[musicals-part-1]] — musicals
 - [ ] [[musicals-part-2]] — musicals
 - [ ] [[non-western-classical-music-traditions]] — non-western classical music traditions
-- [ ] ⭐ [[operas]] — operas
+- [x] ⭐ [[operas]] — operas
 - [ ] [[piano-sonatas]] — piano sonatas
 - [ ] [[pre-1700-composers]] — pre-1700 composers
 - [ ] ⭐ [[romantic-era-composers]] — Romantic-era composers

@@ -1,19 +1,24 @@
 # ObsoleteKnowledge — Master Index
 
-The full catalogue of **187 topics** (NAQT cross-lists some, so 211 entries appear across the categories below), the scope this vault grows into. Live links (**89 built**) have a list MOC and member nodes; everything else is a **dangling link — the frontier**, scoped but unwritten. Open the graph view to watch the frontier light up as unresolved nodes.
+The full catalogue of **187 topics** (NAQT cross-lists some, so 211 entries appear across the categories below), the scope this vault grows into. Live links (**112 built**) have a list MOC and member nodes; everything else is a **dangling link — the frontier**, scoped but unwritten. Open the graph view to watch the frontier light up as unresolved nodes.
 
 ## Built so far — Mythology & Belief
 
 The first subject branch. Each links to its list MOC.
 
+- [[20th-century-newbery-medal-winners]] — 20th-century Newbery Medal winners
 - [[20th-century-paintings]] — 20th-century paintings
 - [[20th-century-physicists]] — 20th-century physicists
 - [[21st-century-quarterbacks]] — 21st-century quarterbacks
 - [[african-bodies-of-water]] — African bodies of water
+- [[african-american-authors]] — African-American authors
+- [[american-plays]] — American plays
 - [[arthurian-characters]] — Arthurian characters
 - [[asian-rivers]] — Asian rivers
 - [[biblical-sayings]] — Biblical sayings
 - [[british-monarchs]] — British monarchs
+- [[charles-dickens-characters-not-protagonists]] — Charles Dickens characters who aren’t protagonists
+- [[charles-dickens-novels]] — Charles Dickens novels
 - [[dutch-paintings]] — Dutch paintings
 - [[egyptian-deities]] — Egyptian deities
 - [[french-directors]] — French directors
@@ -21,8 +26,11 @@ The first subject branch. Each links to its list MOC.
 - [[greek-mythological-monsters]] — Greek mythological monsters
 - [[hindu-heroes]] — Hindu gods and heroes
 - [[hockey-hall-of-famers]] — Hockey Hall of Famers
+- [[japanese-authors]] — Japanese authors
 - [[jewish-holidays]] — Jewish holidays
 - [[jewish-lifecycle-events]] — Jewish lifecycle events
+- [[jewish-american-authors]] — Jewish-American authors
+- [[latin-american-authors]] — Latin American authors
 - [[new-testament-characters]] — New Testament characters
 - [[new-york-yankees]] — New York Yankees
 - [[nobel-prize-winners-in-medicine]] — Nobel Prize winners in physiology or medicine
@@ -30,15 +38,19 @@ The first subject branch. Each links to its list MOC.
 - [[north-american-rivers]] — North American rivers
 - [[olympics]] — Olympics
 - [[roman-emperors]] — Roman emperors
+- [[shakespearean-speeches]] — Shakespearean speeches, monologues, and soliloquies
+- [[shakespearean-villains]] — Shakespearean villains
 - [[trojan-war-heroes]] — Trojan War heroes
 - [[accents-and-dialects-of-english]] — accents and dialects of English
 - [[active-volcanoes]] — active volcanoes
+- [[ancient-greek-plays]] — ancient Greek plays
 - [[ancient-philosophers]] — ancient philosophers
 - [[phyla]] — animal phyla
 - [[anthropologists]] — anthropologists
 - [[archaeological-sites]] — archaeological sites
 - [[architects]] — architects
 - [[art-museums]] — art museums
+- [[authors-of-speculative-fiction]] — authors of speculative fiction
 - [[ballets]] — ballets
 - [[baroque-painters]] — baroque painters
 - [[hebrew-bible-characters]] — characters in the Hebrew Bible
@@ -66,14 +78,19 @@ The first subject branch. Each links to its list MOC.
 - [[calculus-ideas]] — ideas from calculus
 - [[linguists]] — linguists
 - [[mathematicians]] — mathematicians
+- [[modernist-authors]] — modernist authors
 - [[moons]] — moons
 - [[mortal-women-in-greek-myth]] — mortal women in Greek myth
 - [[mountains]] — mountains
 - [[new-year-celebrations]] — new-year celebrations
+- [[non-shakespeare-classical-english-dramas]] — non-Shakespeare classical English dramas
+- [[operas]] — operas
 - [[organelles]] — organelles
 - [[organic-reactions]] — organic reactions
 - [[photography-pioneers]] — photography pioneers
+- [[plot-twists]] — plot twists
 - [[popes]] — popes
+- [[postmodern-authors]] — postmodern authors
 - [[programming-terms]] — programming terms
 - [[psychological-experiments]] — psychological experiments and studies
 - [[psychologists]] — psychologists
@@ -85,6 +102,7 @@ The first subject branch. Each links to its list MOC.
 - [[scientific-experiments]] — scientific experiments
 - [[scientific-scales]] — scientific scales
 - [[sculptors]] — sculptors
+- [[short-story-authors]] — short story authors
 - [[skyscrapers]] — skyscrapers
 - [[space-missions]] — space missions
 - [[statements-about-prime-numbers]] — statements about prime numbers
@@ -93,7 +111,12 @@ The first subject branch. Each links to its list MOC.
 - [[computation-types]] — types of computation problems
 - [[unique-languages]] — unique languages
 - [[western-european-rivers]] — western European rivers
+- [[works-by-dostoevsky]] — works by Fyodor Dostoevsky
+- [[works-by-irish-authors]] — works by Irish authors
 - [[works-by-leonardo-da-vinci]] — works by Leonardo da Vinci
+- [[works-of-russian-short-fiction]] — works of Russian short fiction
+- [[works-of-horror-fiction]] — works of horror fiction
+- [[works-of-mystery-and-detective-fiction]] — works of mystery and detective fiction
 - [[worlds-fairs]] — world's fairs
 
 ## Full catalogue (by NAQT category)
@@ -169,35 +192,35 @@ The first subject branch. Each links to its list MOC.
 - [[world-war-ii-battles]] — World War II battles
 - ✅ [[worlds-fairs]] — world's fairs
 
-## Literature  ·  4/27 built
+## Literature  ·  26/27 built
 
-- [[20th-century-newbery-medal-winners]] — 20th-century Newbery Medal winners
-- [[african-american-authors]] — African-American authors
-- [[american-plays]] — American plays
-- [[ancient-greek-plays]] — ancient Greek plays
-- [[authors-of-speculative-fiction]] — authors of speculative fiction
+- ✅ [[20th-century-newbery-medal-winners]] — 20th-century Newbery Medal winners
+- ✅ [[african-american-authors]] — African-American authors
+- ✅ [[american-plays]] — American plays
+- ✅ [[ancient-greek-plays]] — ancient Greek plays
+- ✅ [[authors-of-speculative-fiction]] — authors of speculative fiction
 - ✅ [[biblical-sayings]] — Biblical sayings
 - ✅ [[hebrew-bible-characters]] — characters in the Hebrew Bible
-- [[charles-dickens-characters-not-protagonists]] — Charles Dickens characters who aren’t protagonists
-- [[charles-dickens-novels]] — Charles Dickens novels
-- [[japanese-authors]] — Japanese authors
-- [[jewish-american-authors]] — Jewish-American authors
-- [[latin-american-authors]] — Latin American authors
-- [[modernist-authors]] — modernist authors
+- ✅ [[charles-dickens-characters-not-protagonists]] — Charles Dickens characters who aren’t protagonists
+- ✅ [[charles-dickens-novels]] — Charles Dickens novels
+- ✅ [[japanese-authors]] — Japanese authors
+- ✅ [[jewish-american-authors]] — Jewish-American authors
+- ✅ [[latin-american-authors]] — Latin American authors
+- ✅ [[modernist-authors]] — modernist authors
 - ✅ [[new-testament-characters]] — New Testament characters
-- [[non-shakespeare-classical-english-dramas]] — non-Shakespeare classical English dramas
-- [[plot-twists]] — plot twists
-- [[postmodern-authors]] — postmodern authors
+- ✅ [[non-shakespeare-classical-english-dramas]] — non-Shakespeare classical English dramas
+- ✅ [[plot-twists]] — plot twists
+- ✅ [[postmodern-authors]] — postmodern authors
 - ✅ [[religious-texts]] — religious texts
-- [[shakespearean-speeches]] — Shakespearean speeches, monologues, and soliloquies
-- [[shakespearean-villains]] — Shakespearean villains
-- [[short-story-authors]] — short story authors
+- ✅ [[shakespearean-speeches]] — Shakespearean speeches, monologues, and soliloquies
+- ✅ [[shakespearean-villains]] — Shakespearean villains
+- ✅ [[short-story-authors]] — short story authors
 - [[translations]] — translations and translators
-- [[works-by-dostoevsky]] — works by Fyodor Dostoevsky
-- [[works-by-irish-authors]] — works by Irish authors
-- [[works-of-horror-fiction]] — works of horror fiction
-- [[works-of-mystery-and-detective-fiction]] — works of mystery and detective fiction
-- [[works-of-russian-short-fiction]] — works of Russian short fiction
+- ✅ [[works-by-dostoevsky]] — works by Fyodor Dostoevsky
+- ✅ [[works-by-irish-authors]] — works by Irish authors
+- ✅ [[works-of-horror-fiction]] — works of horror fiction
+- ✅ [[works-of-mystery-and-detective-fiction]] — works of mystery and detective fiction
+- ✅ [[works-of-russian-short-fiction]] — works of Russian short fiction
 
 ## Mathematics  ·  6/6 built
 
@@ -216,7 +239,7 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[quintuples]] — quintuples
 - ✅ [[worlds-fairs]] — world's fairs
 
-## Music and Auditory Art  ·  0/15 built
+## Music and Auditory Art  ·  1/15 built
 
 - [[20th-century-composers]] — 20th-century composers
 - [[american-composers]] — American composers
@@ -227,7 +250,7 @@ The first subject branch. Each links to its list MOC.
 - [[musicals-part-1]] — musicals
 - [[musicals-part-2]] — musicals
 - [[non-western-classical-music-traditions]] — non-western classical music traditions
-- [[operas]] — operas
+- ✅ [[operas]] — operas
 - [[piano-sonatas]] — piano sonatas
 - [[pre-1700-composers]] — pre-1700 composers
 - [[romantic-era-composers]] — Romantic-era composers
@@ -245,7 +268,7 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[norse-gods]] — Norse gods
 - ✅ [[trojan-war-heroes]] — Trojan War heroes
 
-## Performance  ·  1/7 built
+## Performance  ·  2/7 built
 
 - [[arias]] — arias
 - ✅ [[ballets]] — ballets
@@ -253,7 +276,7 @@ The first subject branch. Each links to its list MOC.
 - [[choreographers]] — choreographers
 - [[musicals-part-1]] — musicals
 - [[musicals-part-2]] — musicals
-- [[operas]] — operas
+- ✅ [[operas]] — operas
 
 ## Philosophy  ·  2/2 built
 
