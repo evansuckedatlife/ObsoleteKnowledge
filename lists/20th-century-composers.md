@@ -4,28 +4,28 @@ category: music
 read: false
 ---
 
-# 20th-Century Composers
+# 20th-century composers
 
-A collection of the most influential classical composers of the 20th century who revolutionized musical structure, tonality, and composition.
+The 20th-century composers most worth knowing for quiz bowl.
 
 ## nodes
 
-- [[igor-stravinsky|Igor Stravinsky]] — Russian modernist composer of *The Rite of Spring* and pioneer of polytonality and neoclassicism.
-- [[arnold-schoenberg|Arnold Schoenberg]] — Austrian pioneer of atonality and developer of the twelve-tone serial technique.
-- [[benjamin-britten|Benjamin Britten]] — English composer of *Peter Grimes* and *The Young Person's Guide to the Orchestra*.
-- [[aaron-copland|Aaron Copland]] — Populist American composer of *Appalachian Spring* and *Fanfare for the Common Man*.
-- [[sergei-prokofiev|Sergei Prokofiev]] — Soviet Russian composer of *Peter and the Wolf* and the ballet *Romeo and Juliet*.
-- [[dmitri-shostakovich|Dmitri Shostakovich]] — Soviet Russian composer of 15 symphonies who walked a tightrope under Stalin's regime.
-- [[bela-bartok|Béla Bartók]] — Hungarian ethnomusicologist and composer of *Concerto for Orchestra*.
-- [[charles-ives|Charles Ives]] — American modernist pioneer of polytonality who worked in the insurance industry.
-- [[maurice-ravel|Maurice Ravel]] — Meticulous French composer and master orchestrator of *Boléro*.
-- [[george-gershwin|George Gershwin]] — American composer who fused classical music with jazz in *Rhapsody in Blue*.
-- [[john-cage|John Cage]] — American avant-garde composer of the silent work *4'33"* and inventor of the prepared piano.
-- [[sergei-rachmaninoff|Sergei Rachmaninoff]] — Russian late-Romantic virtuoso pianist and composer of *Piano Concerto No. 2*.
+- [[aaron-copland|Aaron Copland]] — Aaron Copland (1900–1990) was an American composer often referred to as the "Dean of American Composers." He is celebrated for…
+- [[arnold-schoenberg|Arnold Schoenberg]] — Arnold Schoenberg (1874–1951) was an Austrian-born composer, music theorist, and painter who was one of the most radical and…
+- [[benjamin-britten|Benjamin Britten]] — Benjamin Britten (1913–1976) was the preeminent English composer of the 20th century, revitalizing British opera and choral music.
+- [[bela-bartok|Béla Bartók]] — Béla Bartók (1881–1945) was a Hungarian composer, pianist, and ethnomusicologist who was one of the most influential figures…
+- [[charles-ives|Charles Ives]] — Charles Ives (1874–1954) was an American modernist composer who is now recognized as one of the first American composers of…
+- [[dmitri-shostakovich|Dmitri Shostakovich]] — Dmitri Shostakovich (1906–1975) was a Soviet Russian composer and pianist who was one of the most celebrated and scrutinized…
+- [[george-gershwin|George Gershwin]] — George Gershwin (1898–1937) was a monumental American composer and pianist who successfully bridged the gap between popular…
+- [[igor-stravinsky|Igor Stravinsky]] — Igor Stravinsky (1882–1971) was a Russian-born composer, pianist, and conductor widely considered one of the most influential…
+- [[john-cage|John Cage]] — John Cage (1912–1992) was an American composer, music theorist, philosopher, and artist who was a leading figure of the…
+- [[maurice-ravel|Maurice Ravel]] — Maurice Ravel (1875–1937) was a French composer, pianist, and conductor who is widely regarded as one of France's greatest…
+- [[sergei-prokofiev|Sergei Prokofiev]] — Sergei Prokofiev (1891–1953) was a Soviet and Russian composer, pianist, and conductor who was one of the major creators of…
+- [[sergei-rachmaninoff|Sergei Rachmaninoff]] — Sergei Rachmaninoff (1873–1943) was a Russian composer, virtuoso pianist, and conductor who was one of the last great…
 
 ## progress
 
-Live read-status for this list (requires the **Bases** core plugin).
+Live read-status for this list (requires the **Bases** core plugin). Flip a node's `read` from its footer toggle and it moves here.
 
 ```base
 filters:

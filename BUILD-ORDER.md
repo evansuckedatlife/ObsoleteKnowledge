@@ -20,7 +20,7 @@ Rules that never bend: original content only (no NAQT prose), one node per entit
 
 **Legend:** ⭐ = Tier-1 Cornerstone (deep treatment). All Phase-0 hub nodes are Tier 1.
 
-**Scope:** 187 unique NAQT topics (119 built, 31 ⭐ Tier-1) + 23 hub nodes (all Tier 1).
+**Scope:** 187 unique NAQT topics (137 built, 31 ⭐ Tier-1) + 23 hub nodes (all Tier 1).
 
 ---
 
@@ -139,22 +139,22 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [x] [[works-of-mystery-and-detective-fiction]] — works of mystery and detective fiction
 - [x] [[works-of-russian-short-fiction]] — works of Russian short fiction
 
-## Phase 6 — History  (`concepts/history/`)  ·  3/54 built
+## Phase 6 — History  (`concepts/history/`)  ·  20/54 built
 
-- [ ] [[20th-century-african-leaders]] — 20th-century African leaders
-- [ ] [[20th-century-middle-eastern-leaders]] — 20th-century Middle Eastern leaders
-- [ ] [[african-american-civil-rights-leaders]] — African-American civil rights leaders
+- [x] [[20th-century-african-leaders]] — 20th-century African leaders
+- [x] [[20th-century-middle-eastern-leaders]] — 20th-century Middle Eastern leaders
+- [x] [[african-american-civil-rights-leaders]] — African-American civil rights leaders
 - [ ] [[american-murders-and-murderers]] — American murders and murderers
 - [ ] [[american-third-parties]] — American third parties
 - [ ] [[american-warships]] — American warships
 - [ ] ⭐ [[ancient-empires]] — ancient empires of the Mediterranean and Near East
 - [ ] [[ancient-greek-places]] — ancient Greek places
 - [ ] ⭐ [[assassinations]] — assassinations
-- [ ] [[aviators]] — aviators
+- [x] [[aviators]] — aviators
 - [ ] [[battles-of-the-ancient-world]] — battles of the ancient world
-- [ ] [[black-american-legislators]] — Black American legislators
+- [x] [[black-american-legislators]] — Black American legislators
 - [x] ⭐ [[british-monarchs]] — British monarchs
-- [ ] [[british-prime-ministers]] — British prime ministers
+- [x] [[british-prime-ministers]] — British prime ministers
 - [ ] [[british-reform-movements]] — British reform movements
 - [ ] [[world-war-ii-pacific-campaigns]] — campaigns in the Pacific Theater of World War II
 - [ ] ⭐ [[chinese-dynasties]] — Chinese dynasties
@@ -162,46 +162,46 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [ ] [[countries-once-known-by-different-names]] — countries once known by different names
 - [ ] ⭐ [[elections]] — elections
 - [ ] [[european-royal-families]] — European royal families
-- [ ] [[explorers]] — explorers
-- [ ] [[feminists]] — feminists
+- [x] [[explorers]] — explorers
+- [x] [[feminists]] — feminists
 - [ ] [[historical-fashions]] — historical fashions
 - [ ] [[indigenous-peoples]] — indigenous peoples
-- [ ] [[kings-of-france]] — kings of France
+- [x] [[kings-of-france]] — kings of France
 - [ ] [[magazines-from-american-history]] — magazines from American history
 - [ ] ⭐ [[massacres]] — massacres
 - [ ] [[medieval-battles]] — medieval battles
 - [ ] [[medieval-islamic-dynasties]] — medieval Islamic dynasties
-- [ ] [[mexican-leaders]] — Mexican leaders
+- [x] [[mexican-leaders]] — Mexican leaders
 - [ ] [[modern-speeches]] — modern speeches
 - [ ] [[napoleonic-battles]] — Napoleonic battles
 - [ ] [[native-american-peoples]] — Native American peoples
-- [ ] [[people-from-the-french-revolution]] — people from the French Revolution
+- [x] [[people-from-the-french-revolution]] — people from the French Revolution
 - [ ] [[peoples-of-the-early-middle-ages]] — peoples of the early Middle Ages
 - [ ] [[plagues-and-pandemics]] — plagues and pandemics
 - [ ] [[presidential-inaugurations]] — presidential inaugurations
 - [ ] [[presidential-scandals]] — presidential scandals
 - [ ] [[revolutionary-war-battles]] — Revolutionary War battles
-- [ ] [[revolutionary-war-generals]] — Revolutionary War generals
+- [x] [[revolutionary-war-generals]] — Revolutionary War generals
 - [x] ⭐ [[roman-emperors]] — Roman emperors
-- [ ] ⭐ [[russian-tsars]] — Russian tsars
-- [ ] [[secretaries-of-state]] — Secretaries of State
-- [ ] [[south-american-political-leaders]] — South American political leaders
-- [ ] [[spies]] — spies
+- [x] ⭐ [[russian-tsars]] — Russian tsars
+- [x] [[secretaries-of-state]] — Secretaries of State
+- [x] [[south-american-political-leaders]] — South American political leaders
+- [x] [[spies]] — spies
 - [ ] ⭐ [[supreme-court-cases]] — Supreme Court cases
 - [ ] [[supreme-court-cases-2]] — Supreme Court cases
 - [ ] [[supreme-court-cases-concerned-with-african-americans]] — Supreme Court cases concerned with African-Americans
 - [ ] [[supreme-court-cases-involving-lgbt-rights]] — Supreme Court cases involving LGBT+ rights
 - [ ] ⭐ [[treaties]] — treaties
-- [ ] [[vice-presidents-who-never-became-president]] — vice presidents who never became president
+- [x] [[vice-presidents-who-never-became-president]] — vice presidents who never became president
 - [ ] ⭐ [[world-war-ii-battles]] — World War II battles
 - [x] [[worlds-fairs]] — world's fairs
 
-## Phase 7 — Music and Auditory Art  (`concepts/music/`)  ·  7/15 built
+## Phase 7 — Music and Auditory Art  (`concepts/music/`)  ·  8/15 built
 
 - [x] [[20th-century-composers]] — 20th-century composers
 - [x] [[american-composers]] — American composers
 - [ ] [[arias]] — arias
-- [ ] [[early-20th-century-european-composers]] — early-20th-century European composers
+- [x] [[early-20th-century-european-composers]] — early-20th-century European composers
 - [ ] [[jazz-musicians]] — jazz musicians
 - [ ] [[music-theory-terms]] — music theory terms
 - [ ] [[musicals-part-1]] — musicals
