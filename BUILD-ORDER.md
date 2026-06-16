@@ -20,7 +20,7 @@ Rules that never bend: original content only (no NAQT prose), one node per entit
 
 **Legend:** ⭐ = Tier-1 Cornerstone (deep treatment). All Phase-0 hub nodes are Tier 1.
 
-**Scope:** 187 unique NAQT topics (57 built, 31 ⭐ Tier-1) + 23 hub nodes (all Tier 1).
+**Scope:** 187 unique NAQT topics (73 built, 31 ⭐ Tier-1) + 23 hub nodes (all Tier 1).
 
 ---
 
@@ -106,13 +106,12 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 
 ## Phase 4 — Mathematics  (`concepts/mathematics/`)  ·  6/6 built
 
-- [x] [[classifications-of-functions]] — classifications of mathematical functions 
-- [x] [[geometric-curves]] — geometric curves 
-- [x] ⭐ [[calculus-ideas]] — ideas from calculus 
-- [x] ⭐ [[mathematicians]] — mathematicians 
-- [x] [[statements-about-prime-numbers]] — statements about prime numbers 
-- [x] [[computation-types]] — types of computation problems 
-
+- [x] [[classifications-of-functions]] — classifications of mathematical functions
+- [x] [[geometric-curves]] — geometric curves
+- [x] ⭐ [[calculus-ideas]] — ideas from calculus
+- [x] ⭐ [[mathematicians]] — mathematicians
+- [x] [[statements-about-prime-numbers]] — statements about prime numbers
+- [x] [[computation-types]] — types of computation problems
 
 ## Phase 5 — Literature  (`concepts/literature/`)  ·  0/23 built
 
@@ -215,9 +214,9 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [ ] ⭐ [[works-by-beethoven]] — works by Ludwig van Beethoven
 - [ ] ⭐ [[works-by-mozart]] — works by Mozart
 
-## Phase 8 — Performance  (`concepts/performance/`)  ·  0/3 built
+## Phase 8 — Performance  (`concepts/performance/`)  ·  1/3 built
 
-- [ ] [[ballets]] — ballets
+- [x] [[ballets]] — ballets
 - [ ] [[ballets-2]] — ballets
 - [ ] [[choreographers]] — choreographers
 
@@ -244,17 +243,17 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [x] [[north-american-rivers]] — North American rivers
 - [x] [[western-european-rivers]] — western European rivers
 
-## Phase 11 — Social Science  (`concepts/social-science/`)  ·  0/9 built
+## Phase 11 — Social Science  (`concepts/social-science/`)  ·  9/9 built
 
-- [ ] [[accents-and-dialects-of-english]] — accents and dialects of English
-- [ ] [[anthropologists]] — anthropologists
-- [ ] [[archaeological-sites]] — archaeological sites
-- [ ] ⭐ [[economic-concepts]] — economic concepts
-- [ ] [[economists]] — economists
-- [ ] [[linguists]] — linguists
-- [ ] [[psychological-experiments]] — psychological experiments and studies
-- [ ] ⭐ [[psychologists]] — psychologists
-- [ ] [[unique-languages]] — unique languages
+- [x] [[accents-and-dialects-of-english]] — accents and dialects of English
+- [x] [[anthropologists]] — anthropologists
+- [x] [[archaeological-sites]] — archaeological sites
+- [x] ⭐ [[economic-concepts]] — economic concepts
+- [x] [[economists]] — economists
+- [x] [[linguists]] — linguists
+- [x] [[psychological-experiments]] — psychological experiments and studies
+- [x] ⭐ [[psychologists]] — psychologists
+- [x] [[unique-languages]] — unique languages
 
 ## Phase 12 — Philosophy  (`concepts/philosophy/`)  ·  2/2 built
 
@@ -271,14 +270,14 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [ ] [[silent-films]] — silent films
 - [ ] [[video-game-series]] — video game series
 
-## Phase 14 — Sports  (`concepts/sports/`)  ·  0/6 built
+## Phase 14 — Sports  (`concepts/sports/`)  ·  6/6 built
 
-- [ ] [[21st-century-quarterbacks]] — 21st-century quarterbacks
-- [ ] [[golfers]] — golfers
-- [ ] [[hockey-hall-of-famers]] — Hockey Hall of Famers
-- [ ] [[new-york-yankees]] — New York Yankees
-- [ ] [[olympics]] — Olympics
-- [ ] [[tennis-players]] — tennis players
+- [x] [[21st-century-quarterbacks]] — 21st-century quarterbacks
+- [x] [[golfers]] — golfers
+- [x] [[hockey-hall-of-famers]] — Hockey Hall of Famers
+- [x] [[new-york-yankees]] — New York Yankees
+- [x] [[olympics]] — Olympics
+- [x] [[tennis-players]] — tennis players
 
 ## Phase 15 — Miscellaneous  (`concepts/misc/`)  ·  0/4 built
 

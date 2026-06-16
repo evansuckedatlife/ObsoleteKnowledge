@@ -1,12 +1,13 @@
 # ObsoleteKnowledge — Master Index
 
-The full catalogue of **187 topics** (NAQT cross-lists some, so 211 entries appear across the categories below), the scope this vault grows into. Live links (**57 built**) have a list MOC and member nodes; everything else is a **dangling link — the frontier**, scoped but unwritten. Open the graph view to watch the frontier light up as unresolved nodes.
+The full catalogue of **187 topics** (NAQT cross-lists some, so 211 entries appear across the categories below), the scope this vault grows into. Live links (**73 built**) have a list MOC and member nodes; everything else is a **dangling link — the frontier**, scoped but unwritten. Open the graph view to watch the frontier light up as unresolved nodes.
 
 ## Built so far — Mythology & Belief
 
 The first subject branch. Each links to its list MOC.
 
 - [[20th-century-physicists]] — 20th-century physicists
+- [[21st-century-quarterbacks]] — 21st-century quarterbacks
 - [[african-bodies-of-water]] — African bodies of water
 - [[arthurian-characters]] — Arthurian characters
 - [[asian-rivers]] — Asian rivers
@@ -16,17 +17,24 @@ The first subject branch. Each links to its list MOC.
 - [[greek-heroes]] — Greek heroes
 - [[greek-mythological-monsters]] — Greek mythological monsters
 - [[hindu-heroes]] — Hindu gods and heroes
+- [[hockey-hall-of-famers]] — Hockey Hall of Famers
 - [[jewish-holidays]] — Jewish holidays
 - [[jewish-lifecycle-events]] — Jewish lifecycle events
 - [[new-testament-characters]] — New Testament characters
+- [[new-york-yankees]] — New York Yankees
 - [[nobel-prize-winners-in-medicine]] — Nobel Prize winners in physiology or medicine
 - [[norse-gods]] — Norse gods
 - [[north-american-rivers]] — North American rivers
+- [[olympics]] — Olympics
 - [[roman-emperors]] — Roman emperors
 - [[trojan-war-heroes]] — Trojan War heroes
+- [[accents-and-dialects-of-english]] — accents and dialects of English
 - [[active-volcanoes]] — active volcanoes
 - [[ancient-philosophers]] — ancient philosophers
 - [[phyla]] — animal phyla
+- [[anthropologists]] — anthropologists
+- [[archaeological-sites]] — archaeological sites
+- [[ballets]] — ballets
 - [[hebrew-bible-characters]] — characters in the Hebrew Bible
 - [[chemical-elements]] — chemical elements
 - [[chemistry-lab-techniques]] — chemistry lab techniques
@@ -38,12 +46,16 @@ The first subject branch. Each links to its list MOC.
 - [[deserts]] — deserts
 - [[plant-distinctions]] — distinctions among types of plants
 - [[dwarf-planets-comets-and-asteroids]] — dwarf planets, comets, and asteroids
+- [[economic-concepts]] — economic concepts
+- [[economists]] — economists
 - [[enzymes]] — enzymes
 - [[founders-of-religious-traditions]] — founders of religious traditions
 - [[functional-groups]] — functional groups
 - [[geologic-time-periods]] — geologic time periods
 - [[geometric-curves]] — geometric curves
+- [[golfers]] — golfers
 - [[calculus-ideas]] — ideas from calculus
+- [[linguists]] — linguists
 - [[mathematicians]] — mathematicians
 - [[moons]] — moons
 - [[mortal-women-in-greek-myth]] — mortal women in Greek myth
@@ -52,6 +64,8 @@ The first subject branch. Each links to its list MOC.
 - [[organic-reactions]] — organic reactions
 - [[popes]] — popes
 - [[programming-terms]] — programming terms
+- [[psychological-experiments]] — psychological experiments and studies
+- [[psychologists]] — psychologists
 - [[religious-texts]] — religious texts
 - [[rocket-scientists]] — rocket scientists
 - [[rocks-and-minerals]] — rocks and minerals
@@ -61,7 +75,9 @@ The first subject branch. Each links to its list MOC.
 - [[space-missions]] — space missions
 - [[statements-about-prime-numbers]] — statements about prime numbers
 - [[techniques-in-biotechnology]] — techniques in biotechnology
+- [[tennis-players]] — tennis players
 - [[computation-types]] — types of computation problems
+- [[unique-languages]] — unique languages
 - [[western-european-rivers]] — western European rivers
 
 ## Full catalogue (by NAQT category)
@@ -76,7 +92,7 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[north-american-rivers]] — North American rivers
 - ✅ [[western-european-rivers]] — western European rivers
 
-## History  ·  5/58 built
+## History  ·  6/58 built
 
 - [[20th-century-african-leaders]] — 20th-century African leaders
 - [[20th-century-middle-eastern-leaders]] — 20th-century Middle Eastern leaders
@@ -86,7 +102,7 @@ The first subject branch. Each links to its list MOC.
 - [[american-warships]] — American warships
 - [[ancient-empires]] — ancient empires of the Mediterranean and Near East
 - [[ancient-greek-places]] — ancient Greek places
-- [[archaeological-sites]] — archaeological sites
+- ✅ [[archaeological-sites]] — archaeological sites
 - [[assassinations]] — assassinations
 - [[aviators]] — aviators
 - [[battles-of-the-ancient-world]] — battles of the ancient world
@@ -213,10 +229,10 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[norse-gods]] — Norse gods
 - ✅ [[trojan-war-heroes]] — Trojan War heroes
 
-## Performance  ·  0/7 built
+## Performance  ·  1/7 built
 
 - [[arias]] — arias
-- [[ballets]] — ballets
+- ✅ [[ballets]] — ballets
 - [[ballets-2]] — ballets
 - [[choreographers]] — choreographers
 - [[musicals-part-1]] — musicals
@@ -228,7 +244,7 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[ancient-philosophers]] — ancient philosophers
 - ✅ [[schools-of-western-philosophy]] — schools of Western philosophy
 
-## Popular Culture  ·  0/11 built
+## Popular Culture  ·  1/11 built
 
 - [[classic-american-television-series]] — classic American television series
 - [[french-directors]] — French directors
@@ -239,7 +255,7 @@ The first subject branch. Each links to its list MOC.
 - [[pre-1960s-movies]] — pre-1960s movies
 - [[sandbox-and-open-world-video-games]] — sandbox and open-world video games
 - [[silent-films]] — silent films
-- [[unique-languages]] — unique languages
+- ✅ [[unique-languages]] — unique languages
 - [[video-game-series]] — video game series
 
 ## Religion  ·  9/9 built
@@ -287,26 +303,26 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[techniques-in-biotechnology]] — techniques in biotechnology
 - ✅ [[computation-types]] — types of computation problems
 
-## Social Science  ·  0/9 built
+## Social Science  ·  9/9 built
 
-- [[accents-and-dialects-of-english]] — accents and dialects of English
-- [[anthropologists]] — anthropologists
-- [[archaeological-sites]] — archaeological sites
-- [[economic-concepts]] — economic concepts
-- [[economists]] — economists
-- [[linguists]] — linguists
-- [[psychological-experiments]] — psychological experiments and studies
-- [[psychologists]] — psychologists
-- [[unique-languages]] — unique languages
+- ✅ [[accents-and-dialects-of-english]] — accents and dialects of English
+- ✅ [[anthropologists]] — anthropologists
+- ✅ [[archaeological-sites]] — archaeological sites
+- ✅ [[economic-concepts]] — economic concepts
+- ✅ [[economists]] — economists
+- ✅ [[linguists]] — linguists
+- ✅ [[psychological-experiments]] — psychological experiments and studies
+- ✅ [[psychologists]] — psychologists
+- ✅ [[unique-languages]] — unique languages
 
-## Sports  ·  0/6 built
+## Sports  ·  6/6 built
 
-- [[21st-century-quarterbacks]] — 21st-century quarterbacks
-- [[golfers]] — golfers
-- [[hockey-hall-of-famers]] — Hockey Hall of Famers
-- [[new-york-yankees]] — New York Yankees
-- [[olympics]] — Olympics
-- [[tennis-players]] — tennis players
+- ✅ [[21st-century-quarterbacks]] — 21st-century quarterbacks
+- ✅ [[golfers]] — golfers
+- ✅ [[hockey-hall-of-famers]] — Hockey Hall of Famers
+- ✅ [[new-york-yankees]] — New York Yankees
+- ✅ [[olympics]] — Olympics
+- ✅ [[tennis-players]] — tennis players
 
 ## Visual Art  ·  0/11 built
 

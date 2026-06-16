@@ -1,0 +1,49 @@
+---
+type: list
+category: sports
+read: false
+---
+
+# golfers
+
+The golfers most worth knowing for quiz bowl.
+
+## nodes
+
+- [[arnold-palmer|Arnold Palmer]] — Arnold Palmer, known as "The King," was an American professional golfer whose charismatic personality and attacking style made…
+- [[ben-hogan|Ben Hogan]] — Ben Hogan was an American professional golfer whose technical precision and fierce competitiveness made him one of the sport's…
+- [[bobby-jones|Bobby Jones]] — Bobby Jones was an American amateur golfer whose dominance in the 1920s and early 1930s established golf as a major spectator…
+- [[byron-nelson|Byron Nelson]] — Byron Nelson was an American professional golfer whose extraordinary dominance in the early 1940s, including an unmatched…
+- [[gary-player|Gary Player]] — Gary Player, known as "The Black Knight" for his signature black attire, is a South African professional golfer who won 9…
+- [[gene-sarazen|Gene Sarazen]] — Gene Sarazen (born Eugenio Saraceni) was an Italian-American professional golfer who won 7 major championships and established…
+- [[jack-nicklaus|Jack Nicklaus]] — Jack Nicklaus, known as "The Golden Bear," is an American professional golfer who won 18 major championships—the most by any…
+- [[jordan-spieth|Jordan Spieth]] — Jordan Spieth is an American professional golfer who won 3 major championships and emerged as one of the sport's brightest…
+- [[lee-trevino|Lee Trevino]] — Lee Trevino, nicknamed "The Merry Mex," is a Mexican-American professional golfer who won 6 major championships and…
+- [[phil-mickelson|Phil Mickelson]] — Phil Mickelson, nicknamed "Lefty," is an American professional golfer who won 6 major championships as one of Tiger Woods's…
+- [[rory-mcilroy|Rory McIlroy]] — Rory McIlroy is a Northern Irish professional golfer who won 4 major championships and emerged as one of the sport's dominant…
+- [[sam-snead|Sam Snead]] — Sam Snead, nicknamed "Slammin' Sam," was an American professional golfer with one of the longest competitive careers in golf…
+- [[tiger-woods|Tiger Woods]] — Tiger Woods is an American professional golfer whose 15 major championship victories and revolutionary playing style…
+- [[tom-watson|Tom Watson]] — Tom Watson is an American professional golfer who won 8 major championships and emerged as one of golf's dominant players from…
+- [[walter-hagen|Walter Hagen]] — Walter Hagen, known as "The Haig," was an American professional golfer who won 11 major championships and became the first…
+
+## progress
+
+Live read-status for this list (requires the **Bases** core plugin). Flip a node's `read` from its footer toggle and it moves here.
+
+```base
+filters:
+  and:
+    - file.hasLink(this.file)
+views:
+  - type: table
+    name: Progress
+    order:
+      - file.name
+      - read
+      - type
+    sort:
+      - property: read
+        direction: ASC
+      - property: file.name
+        direction: ASC
+```
