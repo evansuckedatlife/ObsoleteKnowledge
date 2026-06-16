@@ -20,7 +20,7 @@ Rules that never bend: original content only (no NAQT prose), one node per entit
 
 **Legend:** ⭐ = Tier-1 Cornerstone (deep treatment). All Phase-0 hub nodes are Tier 1.
 
-**Scope:** 187 unique NAQT topics (112 built, 31 ⭐ Tier-1) + 23 hub nodes (all Tier 1).
+**Scope:** 187 unique NAQT topics (115 built, 31 ⭐ Tier-1) + 23 hub nodes (all Tier 1).
 
 ---
 
@@ -113,7 +113,7 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [x] [[statements-about-prime-numbers]] — statements about prime numbers
 - [x] [[computation-types]] — types of computation problems
 
-## Phase 5 — Literature  (`concepts/literature/`)  ·  22/23 built
+## Phase 5 — Literature  (`concepts/literature/`)  ·  23/23 built
 
 - [x] [[20th-century-newbery-medal-winners]] — 20th-century Newbery Medal winners
 - [x] [[african-american-authors]] — African-American authors
@@ -132,7 +132,7 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [x] [[shakespearean-speeches]] — Shakespearean speeches, monologues, and soliloquies
 - [x] ⭐ [[shakespearean-villains]] — Shakespearean villains
 - [x] ⭐ [[short-story-authors]] — short story authors
-- [ ] [[translations]] — translations and translators
+- [x] [[translations]] — translations and translators
 - [x] [[works-by-dostoevsky]] — works by Fyodor Dostoevsky
 - [x] [[works-by-irish-authors]] — works by Irish authors
 - [x] [[works-of-horror-fiction]] — works of horror fiction
@@ -196,7 +196,7 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [ ] ⭐ [[world-war-ii-battles]] — World War II battles
 - [x] [[worlds-fairs]] — world's fairs
 
-## Phase 7 — Music and Auditory Art  (`concepts/music/`)  ·  1/15 built
+## Phase 7 — Music and Auditory Art  (`concepts/music/`)  ·  3/15 built
 
 - [ ] [[20th-century-composers]] — 20th-century composers
 - [ ] [[american-composers]] — American composers
@@ -208,11 +208,11 @@ Single nodes, not lists. The Greek Olympian gods especially are referenced by do
 - [ ] [[musicals-part-2]] — musicals
 - [ ] [[non-western-classical-music-traditions]] — non-western classical music traditions
 - [x] ⭐ [[operas]] — operas
-- [ ] [[piano-sonatas]] — piano sonatas
+- [x] [[piano-sonatas]] — piano sonatas
 - [ ] [[pre-1700-composers]] — pre-1700 composers
 - [ ] ⭐ [[romantic-era-composers]] — Romantic-era composers
 - [ ] ⭐ [[works-by-beethoven]] — works by Ludwig van Beethoven
-- [ ] ⭐ [[works-by-mozart]] — works by Mozart
+- [x] ⭐ [[works-by-mozart]] — works by Mozart
 
 ## Phase 8 — Performance  (`concepts/performance/`)  ·  1/3 built
 
