@@ -1,6 +1,6 @@
 # ObsoleteKnowledge — Master Index
 
-The full catalogue of **187 topics** (NAQT cross-lists some, so 211 entries appear across the categories below), the scope this vault grows into. Live links (**118 built**) have a list MOC and member nodes; everything else is a **dangling link — the frontier**, scoped but unwritten. Open the graph view to watch the frontier light up as unresolved nodes.
+The full catalogue of **187 topics** (NAQT cross-lists some, so 211 entries appear across the categories below), the scope this vault grows into. Live links (**119 built**) have a list MOC and member nodes; everything else is a **dangling link — the frontier**, scoped but unwritten. Open the graph view to watch the frontier light up as unresolved nodes.
 
 ## Built so far — Mythology & Belief
 
@@ -13,6 +13,7 @@ The first subject branch. Each links to its list MOC.
 - [[21st-century-quarterbacks]] — 21st-century quarterbacks
 - [[african-bodies-of-water]] — African bodies of water
 - [[african-american-authors]] — African-American authors
+- [[american-composers]] — American composers
 - [[american-plays]] — American plays
 - [[arthurian-characters]] — Arthurian characters
 - [[asian-rivers]] — Asian rivers
@@ -245,10 +246,10 @@ The first subject branch. Each links to its list MOC.
 - ✅ [[quintuples]] — quintuples
 - ✅ [[worlds-fairs]] — world's fairs
 
-## Music and Auditory Art  ·  6/15 built
+## Music and Auditory Art  ·  7/15 built
 
 - ✅ [[20th-century-composers]] — 20th-century composers
-- [[american-composers]] — American composers
+- ✅ [[american-composers]] — American composers
 - [[arias]] — arias
 - [[early-20th-century-european-composers]] — early-20th-century European composers
 - [[jazz-musicians]] — jazz musicians

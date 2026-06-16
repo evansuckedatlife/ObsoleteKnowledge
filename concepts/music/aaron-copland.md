@@ -36,4 +36,4 @@ Aaron Copland (1900–1990) was an American composer often referred to as the "D
 
 ---
 
-Lists: [[20th-century-composers]] · Mark read: `INPUT[toggle:read]`
+Lists: [[20th-century-composers]] · [[american-composers]] · Mark read: `INPUT[toggle:read]`

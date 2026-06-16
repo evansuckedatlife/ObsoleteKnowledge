@@ -46,4 +46,4 @@ Gershwin was a key figure of the Roaring Twenties, capturing the energy of New Y
 
 ---
 
-Lists: [[20th-century-composers]] · Mark read: `INPUT[toggle:read]`
+Lists: [[20th-century-composers]] · [[american-composers]] · Mark read: `INPUT[toggle:read]`
