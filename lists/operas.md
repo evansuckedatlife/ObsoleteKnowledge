@@ -4,26 +4,26 @@ category: music
 read: false
 ---
 
-# Operas
+# operas
 
-The landmark dramatic and comic operas of the Western classical canon, from the High Classical era to the early twentieth century.
+The operas most worth knowing for quiz bowl.
 
 ## nodes
 
-- [[aida|Aida]] — Radamès and the captive Ethiopian princess Aida are buried alive in ancient Egypt.
-- [[boris-godunov|Boris Godunov]] — The guilt-ridden Tsar Boris is tormented by Dmitry's murder and the False Dmitry's rebellion.
-- [[carmen|Carmen]] — The soldier Don José is seduced by the gypsy cigarette girl Carmen, leading to tragedy in Seville.
-- [[don-giovanni|Don Giovanni]] — Leporello keeps a catalogue of the libertine Don Giovanni's conquests before he is dragged to Hell.
-- [[la-boheme|La bohème]] — The seamstress Mimì and the poet Rodolfo fall in love but are separated by poverty and consumption in Paris.
-- [[madama-butterfly|Madama Butterfly]] — Cio-Cio-San raising the child Dolore commits suicide after US Lieutenant Pinkerton abandons her.
-- [[salome|Salome]] — Salome performs the Dance of the Seven Veils for Herod to demand Jokanaan's severed head.
-- [[the-barber-of-seville|The Barber of Seville]] — Figaro helps Count Almaviva woo Rosina and escape her elderly guardian Doctor Bartolo.
-- [[the-marriage-of-figaro|The Marriage of Figaro]] — The servants Figaro and Susanna outwit Count Almaviva's attempt to assert the droit du seigneur.
-- [[william-tell|William Tell]] — The Swiss patriot William Tell is forced by governor Gessler to shoot an apple off his son's head.
+- [[aida|Aida]] — Giuseppe Verdi's Aida (1871) is a grand opera in four acts set in ancient Egypt during a conflict with Ethiopia.
+- [[boris-godunov|Boris Godunov]] — Modest Mussorgsky's Boris Godunov (1874) is a monumental Russian opera based on Alexander Pushkin's historical drama and…
+- [[carmen|Carmen]] — Georges Bizet's Carmen (1875) is a four-act French opera that stands as one of the most popular and frequently performed works…
+- [[don-giovanni|Don Giovanni]] — Wolfgang Amadeus Mozart's Don Giovanni (1787) is a two-act opera formally classified as a dramma giocoso (a blend of comedy…
+- [[la-boheme|La bohème]] — Giacomo Puccini's La bohème (1896) is a four-act Italian opera that stands as one of the most beloved and frequently performed…
+- [[madama-butterfly|Madama Butterfly]] — Giacomo Puccini's Madama Butterfly (1904) is a tragic three-act Italian opera set in Nagasaki, Japan.
+- [[salome|Salome]] — Richard Strauss's Salome (1905) is a shocking, highly influential one-act German opera.
+- [[the-barber-of-seville|The Barber of Seville]] — Gioachino Rossini's The Barber of Seville (1816) is a two-act opera buffa (comic opera) that stands as a masterpiece of the…
+- [[the-marriage-of-figaro|The Marriage of Figaro]] — Wolfgang Amadeus Mozart's The Marriage of Figaro (1786) is a four-act opera buffa (comic opera) widely considered one of the…
+- [[william-tell|William Tell]] — Gioachino Rossini's William Tell (1829) is a four-act French grand opera based on Friedrich Schiller's play Wilhelm Tell.
 
 ## progress
 
-Live read-status for this list (requires the **Bases** core plugin).
+Live read-status for this list (requires the **Bases** core plugin). Flip a node's `read` from its footer toggle and it moves here.
 
 ```base
 filters:

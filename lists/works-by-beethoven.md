@@ -4,26 +4,26 @@ category: music
 read: false
 ---
 
-# Works by Beethoven
+# works by Ludwig van Beethoven
 
-The landmark symphonies, concertos, sonatas, and choral works of Ludwig van Beethoven, which bridged the Classical and Romantic eras.
+The works by Ludwig van Beethoven most worth knowing for quiz bowl.
 
 ## nodes
 
-- [[appassionata-sonata|Appassionata Sonata]] — Piano Sonata No. 23 in F minor, marked by its intense dramatic sweep and stormy finale.
-- [[fidelio|Fidelio]] — Beethoven's only opera, depicting Leonore's rescue of her husband Florestan under the guise of the guard Fidelio.
-- [[missa-solemnis|Missa solemnis]] — A massive, deeply personal setting of the Catholic Mass ordinary in D major.
-- [[moonlight-sonata|Moonlight Sonata]] — Piano Sonata No. 14 in C-sharp minor, famous for its dreamlike Adagio sostenuto movement.
-- [[piano-concerto-no-5-beethoven|Piano Concerto No. 5 ("Emperor")]] — Beethoven's final completed piano concerto, celebrated for its heroic E-flat major grandeur.
-- [[symphony-no-3-beethoven|Symphony No. 3 ("Eroica")]] — The revolutionary symphony originally dedicated to Napoleon, marking the birth of musical Romanticism.
-- [[symphony-no-5-beethoven|Symphony No. 5 in C minor]] — Famous for its iconic four-note fate motif and journey from minor to major.
-- [[symphony-no-6-beethoven|Symphony No. 6 ("Pastoral")]] — A program symphony depicting rural nature, flowing water, birdcalls, and a thunderstorm.
-- [[symphony-no-9-beethoven|Symphony No. 9 ("Choral")]] — Beethoven's final symphony, introducing vocal soloists and chorus to sing the Ode to Joy.
-- [[wellingtons-victory|Wellington's Victory]] — A highly popular battle symphony commemorating the British victory at Vitoria.
+- [[appassionata-sonata|Appassionata Sonata]] — Ludwig van Beethoven's Piano Sonata No.
+- [[fidelio|Fidelio]] — Fidelio, Op.
+- [[missa-solemnis|Missa solemnis]] — Ludwig van Beethoven's Missa solemnis in D major, Op.
+- [[moonlight-sonata|Moonlight Sonata]] — Ludwig van Beethoven's Piano Sonata No.
+- [[piano-concerto-no-5-beethoven|Piano Concerto No. 5 in E-flat major]] — Ludwig van Beethoven's Piano Concerto No.
+- [[symphony-no-3-beethoven|Symphony No. 3 in E-flat major]] — Ludwig van Beethoven's Symphony No.
+- [[symphony-no-5-beethoven|Symphony No. 5 in C minor]] — Ludwig van Beethoven's Symphony No.
+- [[symphony-no-6-beethoven|Symphony No. 6 in F major]] — Ludwig van Beethoven's Symphony No.
+- [[symphony-no-9-beethoven|Symphony No. 9 in D minor]] — Ludwig van Beethoven's Symphony No.
+- [[wellingtons-victory|Wellington's Victory]] — Ludwig van Beethoven's Wellington's Victory, or the Battle of Vitoria, Op.
 
 ## progress
 
-Live read-status for this list (requires the **Bases** core plugin).
+Live read-status for this list (requires the **Bases** core plugin). Flip a node's `read` from its footer toggle and it moves here.
 
 ```base
 filters:
