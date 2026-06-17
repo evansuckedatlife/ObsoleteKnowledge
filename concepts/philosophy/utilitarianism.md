@@ -2,8 +2,10 @@
 type: concept
 category: philosophy
 defines: [Utilitarianism, Utilitarian]
-related: ["[[jeremy-bentham]]", "[[john-stuart-mill]]", "[[happiness]]", "[[ethics]]"]
+related: ["[[jeremy-bentham]]", "[[john-stuart-mill]]", "[[happiness]]", "[[ethics]]", "[[enlightenment]]", "[[industrial-revolution]]"]
+requires: []
 lists: ["[[schools-of-western-philosophy]]"]
+tour_order: 0
 read: false
 ---
 
@@ -47,6 +49,18 @@ Utilitarianism emerged during industrialisation and political reform, offering a
 ## see also
 
 - [[john-stuart-mill]] · [[ethics]] · [[deontology]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

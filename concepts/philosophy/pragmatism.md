@@ -2,12 +2,21 @@
 type: concept
 category: philosophy
 defines: [Pragmatism, Pragmatist]
-related: ["[[charles-peirce]]", "[[william-james]]", "[[john-dewey]]", "[[truth]]", "[[action]]"]
+related: ["[[charles-peirce]]", "[[william-james]]", "[[john-dewey]]", "[[truth]]", "[[action]]", "[[enlightenment]]"]
+requires: ["[[empiricism]]"]
 lists: ["[[schools-of-western-philosophy]]"]
+tour_order: 1
 read: false
 ---
 
 # Pragmatism
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -47,6 +56,18 @@ Pragmatism emerged in late-19th-century America as a response to abstract Europe
 ## see also
 
 - [[empiricism]] · [[john-dewey]] · [[charles-peirce]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

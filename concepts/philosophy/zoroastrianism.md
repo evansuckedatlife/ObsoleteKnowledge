@@ -2,8 +2,10 @@
 type: concept
 category: philosophy
 defines: [Zoroastrianism, Zoroastrian]
-related: ["[[zoroaster]]", "[[dualism]]", "[[good-and-evil]]", "[[monotheism]]", "[[eschatology]]", "[[zoroastrian-cosmology]]"]
+related: ["[[zoroaster]]", "[[dualism]]", "[[good-and-evil]]", "[[monotheism]]", "[[eschatology]]", "[[zoroastrian-cosmology]]", "[[christianity]]", "[[iran]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +39,18 @@ read: false
 ## see also
 
 - [[monotheism]] · [[dualism]] · [[eschatology]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

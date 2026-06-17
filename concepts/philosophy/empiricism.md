@@ -3,7 +3,9 @@ type: concept
 category: philosophy
 defines: [Empiricism, Empiricist]
 related: ["[[john-locke]]", "[[david-hume]]", "[[sense-experience]]", "[[induction]]"]
+requires: []
 lists: ["[[schools-of-western-philosophy]]"]
+tour_order: 0
 read: false
 ---
 
@@ -47,6 +49,18 @@ Empiricism crystallised as a reaction against rationalism's confidence in deduct
 ## see also
 
 - [[rationalism]] · [[kant]] · [[induction]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

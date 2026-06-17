@@ -2,12 +2,21 @@
 type: concept
 category: philosophy
 defines: [Rationalism, Rationalist]
-related: ["[[descartes]]", "[[leibniz]]", "[[spinoza]]", "[[reason]]", "[[innate-ideas]]"]
+related: ["[[descartes]]", "[[leibniz]]", "[[spinoza]]", "[[reason]]", "[[innate-ideas]]", "[[enlightenment]]", "[[galileo-galilei]]"]
+requires: ["[[descartes]]"]
 lists: ["[[schools-of-western-philosophy]]"]
+tour_order: 1
 read: false
 ---
 
 # Rationalism
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -47,6 +56,18 @@ Rationalism emerged as a response to medieval scholasticism's over-reliance on a
 ## see also
 
 - [[empiricism]] · [[kant]] · [[descartes]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

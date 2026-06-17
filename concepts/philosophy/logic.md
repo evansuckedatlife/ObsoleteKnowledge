@@ -2,12 +2,21 @@
 type: concept
 category: philosophy
 defines: [Logic, Formal Logic]
-related: ["[[aristotle]]", "[[syllogism]]", "[[deductive-reasoning]]", "[[inductive-reasoning]]", "[[law-of-non-contradiction]]", "[[philosophy]]"]
+related: ["[[aristotle]]", "[[syllogism]]", "[[deductive-reasoning]]", "[[inductive-reasoning]]", "[[law-of-non-contradiction]]", "[[philosophy]]", "[[ancient-greece]]"]
+requires: ["[[aristotle]]"]
 lists: []
+tour_order: 4
 read: false
 ---
 
 # Logic
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +49,18 @@ read: false
 ## see also
 
 - [[aristotle]] · [[syllogism]] · [[fallacy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

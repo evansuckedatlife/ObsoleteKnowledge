@@ -2,8 +2,10 @@
 type: concept
 category: philosophy
 defines: [Skepticism, Skeptical]
-related: ["[[pyrrho]]", "[[carneades]]", "[[knowledge]]", "[[certainty]]"]
+related: ["[[pyrrho]]", "[[carneades]]", "[[knowledge]]", "[[certainty]]", "[[ancient-greece]]"]
+requires: []
 lists: ["[[schools-of-western-philosophy]]"]
+tour_order: 0
 read: false
 ---
 
@@ -47,6 +49,18 @@ Skepticism addresses a fundamental tension: we crave certainty and systematic kn
 ## see also
 
 - [[stoicism]] · [[empiricism]] · [[rationalism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

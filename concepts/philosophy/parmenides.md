@@ -2,12 +2,21 @@
 type: person
 category: philosophy
 defines: [Parmenides, Parmenidean]
-related: ["[[heraclitus]]", "[[zeno-of-elea]]", "[[being-and-nothingness]]", "[[pre-socratic-philosophy]]"]
+related: ["[[heraclitus]]", "[[zeno-of-elea]]", "[[being-and-nothingness]]", "[[pre-socratic-philosophy]]", "[[ancient-greece]]"]
+requires: ["[[pre-socratic-philosophy]]"]
 lists: ["[[ancient-philosophers]]"]
+tour_order: 1
 read: false
 ---
 
 # Parmenides
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -55,6 +64,18 @@ Parmenides stands at the birth of logic and metaphysics. By arguing that reason 
 ## see also
 
 - [[heraclitus]] · [[zeno-of-elea]] · [[pre-socratic-philosophy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

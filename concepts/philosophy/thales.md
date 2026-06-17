@@ -2,8 +2,10 @@
 type: person
 category: philosophy
 defines: [Thales of Miletus, Thales]
-related: ["[[pre-socratic-philosophy]]", "[[natural-philosophy]]", "[[water-element]]", "[[milesian-school]]"]
+related: ["[[pre-socratic-philosophy]]", "[[natural-philosophy]]", "[[water-element]]", "[[milesian-school]]", "[[ancient-greece]]"]
+requires: []
 lists: ["[[ancient-philosophers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -55,6 +57,18 @@ Thales represents the birth of rational inquiry into nature. By asking "What is 
 ## see also
 
 - [[pre-socratic-philosophy]] · [[milesian-school]] · [[natural-philosophy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

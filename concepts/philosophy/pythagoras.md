@@ -3,11 +3,20 @@ type: person
 category: philosophy
 defines: [Pythagoras, Pythagoreanism]
 related: ["[[pythagorean-theorem]]", "[[number-theory]]", "[[pre-socratic-philosophy]]", "[[orphism]]"]
+requires: ["[[pre-socratic-philosophy]]"]
 lists: ["[[ancient-philosophers]]", "[[mathematicians]]"]
+tour_order: 1
 read: false
 ---
 
 # Pythagoras
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -56,6 +65,18 @@ Pythagoras represents the merger of rationalism and mysticism—the idea that re
 ## see also
 
 - [[plato]] · [[pythagorean-theorem]] · [[pre-socratic-philosophy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

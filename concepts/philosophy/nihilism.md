@@ -2,8 +2,10 @@
 type: concept
 category: philosophy
 defines: [Nihilism]
-related: ["[[friedrich-nietzsche]]", "[[meaning]]", "[[morality]]", "[[existentialism]]", "[[absurdism]]", "[[will-to-power]]"]
+related: ["[[friedrich-nietzsche]]", "[[meaning]]", "[[morality]]", "[[existentialism]]", "[[absurdism]]", "[[will-to-power]]", "[[modernism]]", "[[fyodor-dostoevsky]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +40,18 @@ read: false
 ## see also
 
 - [[friedrich-nietzsche]] · [[existentialism]] · [[absurdism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

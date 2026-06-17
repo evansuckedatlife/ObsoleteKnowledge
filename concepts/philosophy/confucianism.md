@@ -3,7 +3,9 @@ type: concept
 category: philosophy
 defines: [Confucianism, Confucian]
 related: ["[[confucius]]", "[[mencius]]", "[[ritual]]", "[[virtue]]", "[[filial-piety]]", "[[virtue-ethics]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -58,6 +60,18 @@ Confucianism is more than a school of philosophy; it is a comprehensive civiliza
 ## see also
 
 - [[confucius]] · [[mencius]] · [[virtue-ethics]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

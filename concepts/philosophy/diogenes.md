@@ -2,12 +2,21 @@
 type: person
 category: philosophy
 defines: [Diogenes of Sinope, Cynicism, Cynic]
-related: ["[[cynicism]]", "[[antisthenes]]", "[[alexander-the-great]]", "[[virtue-ethics]]"]
+related: ["[[cynicism]]", "[[antisthenes]]", "[[alexander-the-great]]", "[[virtue-ethics]]", "[[ancient-greece]]"]
+requires: ["[[socrates]]"]
 lists: ["[[ancient-philosophers]]"]
+tour_order: 2
 read: false
 ---
 
 # Diogenes of Sinope
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -54,6 +63,18 @@ Diogenes represents philosophy as lived practice, not mere doctrine. His deliber
 ## see also
 
 - [[cynicism]] · [[antisthenes]] · [[stoicism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

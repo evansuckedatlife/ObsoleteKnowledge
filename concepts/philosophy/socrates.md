@@ -2,12 +2,21 @@
 type: person
 category: philosophy
 defines: [Socrates, Socratic method]
-related: ["[[plato]]", "[[aristotle]]", "[[xenophon]]", "[[athens]]"]
+related: ["[[plato]]", "[[aristotle]]", "[[xenophon]]", "[[athens]]", "[[ancient-greece]]"]
+requires: ["[[pre-socratic-philosophy]]"]
 lists: ["[[ancient-philosophers]]"]
+tour_order: 1
 read: false
 ---
 
 # Socrates
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -49,6 +58,18 @@ Socrates represents the birth of moral philosophy in the Western tradition. His 
 ## see also
 
 - [[plato]] · [[aristotle]] · [[xenophon]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

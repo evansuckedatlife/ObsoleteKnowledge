@@ -2,8 +2,10 @@
 type: concept
 category: philosophy
 defines: [Existentialism, Existentialist]
-related: ["[[jean-paul-sartre]]", "[[albert-camus]]", "[[martin-heidegger]]", "[[freedom]]", "[[authenticity]]"]
+related: ["[[jean-paul-sartre]]", "[[albert-camus]]", "[[martin-heidegger]]", "[[freedom]]", "[[authenticity]]", "[[modernism]]", "[[fyodor-dostoevsky]]"]
+requires: []
 lists: ["[[schools-of-western-philosophy]]"]
+tour_order: 0
 read: false
 ---
 
@@ -48,6 +50,18 @@ Existentialism emerged in post-war Europe confronting totalitarianism, genocide,
 ## see also
 
 - [[jean-paul-sartre]] · [[albert-camus]] · [[phenomenology]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

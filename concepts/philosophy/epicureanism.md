@@ -2,12 +2,21 @@
 type: concept
 category: philosophy
 defines: [Epicureanism, Epicurean]
-related: ["[[epicurus]]", "[[pleasure]]", "[[tranquility]]", "[[stoicism]]"]
+related: ["[[epicurus]]", "[[pleasure]]", "[[tranquility]]", "[[stoicism]]", "[[ancient-greece]]"]
+requires: ["[[epicurus]]"]
 lists: ["[[schools-of-western-philosophy]]"]
+tour_order: 1
 read: false
 ---
 
 # Epicureanism
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -47,6 +56,18 @@ Epicureanism was a countercultural philosophy in a hierarchical world obsessed w
 ## see also
 
 - [[stoicism]] · [[pleasure]] · [[epicurus]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

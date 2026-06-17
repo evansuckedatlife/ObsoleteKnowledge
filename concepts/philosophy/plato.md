@@ -2,12 +2,21 @@
 type: person
 category: philosophy
 defines: [Plato, Platonism]
-related: ["[[socrates]]", "[[aristotle]]", "[[the-republic]]", "[[theory-of-forms]]"]
+related: ["[[socrates]]", "[[aristotle]]", "[[the-republic]]", "[[theory-of-forms]]", "[[ancient-greece]]", "[[athens]]"]
+requires: ["[[socrates]]"]
 lists: ["[[ancient-philosophers]]"]
+tour_order: 2
 read: false
 ---
 
 # Plato
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -54,6 +63,18 @@ Plato stands at the crossroads of Western intellectual history. His theory of tr
 ## see also
 
 - [[socrates]] · [[aristotle]] · [[the-republic]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

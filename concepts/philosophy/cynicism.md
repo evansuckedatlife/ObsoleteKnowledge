@@ -2,12 +2,21 @@
 type: concept
 category: philosophy
 defines: [Cynicism, Cynic]
-related: ["[[diogenes]]", "[[virtue]]", "[[stoicism]]", "[[simplicity]]", "[[social-convention]]"]
+related: ["[[diogenes]]", "[[virtue]]", "[[stoicism]]", "[[simplicity]]", "[[social-convention]]", "[[ancient-greece]]"]
+requires: ["[[socrates]]"]
 lists: []
+tour_order: 2
 read: false
 ---
 
 # Cynicism
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -37,6 +46,18 @@ read: false
 ## see also
 
 - [[diogenes]] · [[stoicism]] · [[virtue]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

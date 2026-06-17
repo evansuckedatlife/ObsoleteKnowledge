@@ -2,8 +2,10 @@
 type: concept
 category: philosophy
 defines: [Consciousness, Phenomenal Consciousness]
-related: ["[[mind-body-problem]]", "[[dualism]]", "[[qualia]]", "[[philosophy-of-mind]]", "[[descartes]]", "[[panpsychism]]"]
+related: ["[[mind-body-problem]]", "[[dualism]]", "[[qualia]]", "[[philosophy-of-mind]]", "[[descartes]]", "[[panpsychism]]", "[[quantum-mechanics]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +42,18 @@ read: false
 ## see also
 
 - [[mind-body-problem]] · [[qualia]] · [[dualism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

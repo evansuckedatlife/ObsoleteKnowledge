@@ -2,8 +2,10 @@
 type: concept
 category: philosophy
 defines: [Stoicism, Stoic]
-related: ["[[marcus-aurelius]]", "[[epictetus]]", "[[virtue]]", "[[reason]]"]
+related: ["[[marcus-aurelius]]", "[[epictetus]]", "[[virtue]]", "[[reason]]", "[[ancient-greece]]", "[[roman-empire]]"]
+requires: []
 lists: ["[[schools-of-western-philosophy]]"]
+tour_order: 0
 read: false
 ---
 
@@ -47,6 +49,18 @@ Stoicism emerged as a response to the loss of Greek city-state autonomy after Al
 ## see also
 
 - [[epicureanism]] · [[cynicism]] · [[neoplatonism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

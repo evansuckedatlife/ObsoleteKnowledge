@@ -2,12 +2,21 @@
 type: concept
 category: philosophy
 defines: [Virtue Ethics, Virtue]
-related: ["[[aristotle]]", "[[virtue]]", "[[eudaimonia]]", "[[moral-philosophy]]", "[[stoicism]]", "[[confucianism]]", "[[alasdair-macintyre]]"]
+related: ["[[aristotle]]", "[[virtue]]", "[[eudaimonia]]", "[[moral-philosophy]]", "[[stoicism]]", "[[confucianism]]", "[[alasdair-macintyre]]", "[[ancient-greece]]"]
+requires: ["[[aristotle]]"]
 lists: []
+tour_order: 4
 read: false
 ---
 
 # Virtue Ethics
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +48,18 @@ read: false
 ## see also
 
 - [[aristotle]] · [[stoicism]] · [[confucianism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

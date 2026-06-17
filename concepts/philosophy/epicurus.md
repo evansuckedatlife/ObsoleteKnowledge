@@ -2,8 +2,10 @@
 type: person
 category: philosophy
 defines: [Epicurus, Epicureanism]
-related: ["[[stoicism]]", "[[atomism]]", "[[pleasure-and-pain]]", "[[lucretius]]"]
+related: ["[[stoicism]]", "[[atomism]]", "[[pleasure-and-pain]]", "[[lucretius]]", "[[ancient-greece]]"]
+requires: []
 lists: ["[[ancient-philosophers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -55,6 +57,18 @@ Epicurus represents a distinct ethical tradition: the pursuit of tranquility and
 ## see also
 
 - [[stoicism]] · [[atomism]] · [[lucretius]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

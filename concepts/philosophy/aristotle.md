@@ -2,12 +2,21 @@
 type: person
 category: philosophy
 defines: [Aristotle, Aristotelianism]
-related: ["[[plato]]", "[[socrates]]", "[[logic]]", "[[metaphysics]]", "[[alexander-the-great]]"]
+related: ["[[plato]]", "[[socrates]]", "[[logic]]", "[[metaphysics]]", "[[alexander-the-great]]", "[[ancient-greece]]"]
+requires: ["[[plato]]"]
 lists: ["[[ancient-philosophers]]"]
+tour_order: 3
 read: false
 ---
 
 # Aristotle
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -56,6 +65,18 @@ Aristotle is the most systematizing mind in ancient philosophy. His logic, metap
 ## see also
 
 - [[plato]] · [[socrates]] · [[logic]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

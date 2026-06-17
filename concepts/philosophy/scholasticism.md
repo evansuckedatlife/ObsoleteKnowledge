@@ -2,12 +2,21 @@
 type: concept
 category: philosophy
 defines: [Scholasticism, Scholastic]
-related: ["[[thomas-aquinas]]", "[[aristotle]]", "[[theology]]", "[[reason-and-faith]]"]
+related: ["[[thomas-aquinas]]", "[[aristotle]]", "[[theology]]", "[[reason-and-faith]]", "[[renaissance]]"]
+requires: ["[[aristotle]]", "[[christianity]]"]
 lists: ["[[schools-of-western-philosophy]]"]
+tour_order: 4
 read: false
 ---
 
 # Scholasticism
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -47,6 +56,18 @@ Scholasticism emerged at a cultural hinge: the medieval West had lost and then r
 ## see also
 
 - [[thomas-aquinas]] · [[william-of-ockham]] · [[platonism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

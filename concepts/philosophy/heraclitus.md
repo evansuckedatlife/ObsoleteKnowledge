@@ -2,12 +2,21 @@
 type: person
 category: philosophy
 defines: [Heraclitus, Heraclitean]
-related: ["[[parmenides]]", "[[flux-and-permanence]]", "[[pre-socratic-philosophy]]", "[[logos]]"]
+related: ["[[parmenides]]", "[[flux-and-permanence]]", "[[pre-socratic-philosophy]]", "[[logos]]", "[[ancient-greece]]"]
+requires: ["[[pre-socratic-philosophy]]"]
 lists: ["[[ancient-philosophers]]"]
+tour_order: 1
 read: false
 ---
 
 # Heraclitus
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -54,6 +63,18 @@ Heraclitus anticipated modern process philosophy and quantum mechanics with his 
 ## see also
 
 - [[parmenides]] · [[pre-socratic-philosophy]] · [[logos]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

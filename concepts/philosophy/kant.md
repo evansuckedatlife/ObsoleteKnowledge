@@ -4,11 +4,20 @@ category: philosophy
 defines: [Immanuel Kant, Kant]
 aliases: [immanuel-kant]
 related: ["[[critiques-of-pure-reason]]", "[[categorical-imperative]]", "[[deontological-ethics]]", "[[transcendental-idealism]]", "[[enlightenment]]", "[[david-hume]]"]
+requires: ["[[empiricism]]", "[[rationalism]]"]
 lists: []
+tour_order: 2
 read: false
 ---
 
 # Immanuel Kant
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -64,6 +73,18 @@ Kant is the watershed in modern European philosophy. Before Kant, rationalist an
 ## see also
 
 - [[david-hume]] · [[categorical-imperative]] · [[transcendental-idealism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

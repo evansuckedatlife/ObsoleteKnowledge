@@ -2,8 +2,10 @@
 type: concept
 category: philosophy
 defines: [Pre-Socratic Philosophy, Pre-Socratic Thought]
-related: ["[[heraclitus]]", "[[parmenides]]", "[[pythagoras]]", "[[thales]]", "[[zeno-of-elea]]", "[[socrates]]", "[[logic]]", "[[metaphysics]]"]
+related: ["[[heraclitus]]", "[[parmenides]]", "[[pythagoras]]", "[[thales]]", "[[zeno-of-elea]]", "[[socrates]]", "[[logic]]", "[[metaphysics]]", "[[ancient-greece]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +41,18 @@ Pre-Socratic philosophy encompasses the Greek natural philosophers active before
 ## see also
 
 - [[socrates]] · [[plato]] · [[aristotle]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

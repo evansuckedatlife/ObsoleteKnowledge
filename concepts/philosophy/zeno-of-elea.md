@@ -2,12 +2,21 @@
 type: person
 category: philosophy
 defines: [Zeno of Elea, Zeno's paradoxes]
-related: ["[[parmenides]]", "[[aristotle]]", "[[motion-and-change]]", "[[infinity]]"]
+related: ["[[parmenides]]", "[[aristotle]]", "[[motion-and-change]]", "[[infinity]]", "[[ancient-greece]]"]
+requires: ["[[parmenides]]"]
 lists: ["[[ancient-philosophers]]"]
+tour_order: 2
 read: false
 ---
 
 # Zeno of Elea
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -54,6 +63,18 @@ Zeno's paradoxes exemplify philosophy's power to reveal hidden contradictions in
 ## see also
 
 - [[parmenides]] · [[aristotle]] · [[motion-and-change]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

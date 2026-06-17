@@ -3,12 +3,21 @@ type: person
 category: philosophy
 defines: [René Descartes, Descartes, Rene Descartes]
 aliases: [rene-descartes]
-related: ["[[cogito-ergo-sum]]", "[[dualism]]", "[[rationalism]]", "[[method-of-doubt]]", "[[mind-body-problem]]", "[[god]]"]
+related: ["[[cogito-ergo-sum]]", "[[dualism]]", "[[rationalism]]", "[[method-of-doubt]]", "[[mind-body-problem]]", "[[god]]", "[[calculus]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
 # René Descartes
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -41,6 +50,18 @@ read: false
 ## see also
 
 - [[cogito-ergo-sum]] · [[dualism]] · [[rationalism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

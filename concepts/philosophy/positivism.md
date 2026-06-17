@@ -2,12 +2,21 @@
 type: concept
 category: philosophy
 defines: [Positivism, Logical positivism, Logical empiricism, Positivist]
-related: ["[[auguste-comte]]", "[[ludwig-wittgenstein]]", "[[empiricism]]", "[[science]]", "[[verification]]"]
+related: ["[[auguste-comte]]", "[[ludwig-wittgenstein]]", "[[empiricism]]", "[[science]]", "[[verification]]", "[[enlightenment]]", "[[industrial-revolution]]"]
+requires: ["[[empiricism]]"]
 lists: ["[[schools-of-western-philosophy]]"]
+tour_order: 1
 read: false
 ---
 
 # Positivism
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -47,6 +56,18 @@ Logical positivism emerged in 1920s Vienna as an attempt to place philosophy on 
 ## see also
 
 - [[empiricism]] · [[falsifiability]] · [[analytic-philosophy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 
