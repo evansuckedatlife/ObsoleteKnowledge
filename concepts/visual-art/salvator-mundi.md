@@ -3,15 +3,22 @@ type: work
 category: visual-art
 defines:
   - Salvator Mundi
-related:
-  - "[[leonardo-da-vinci]]"
-  - "[[jesus]]"
+related: ["[[leonardo-da-vinci]]", "[[jesus]]"]
+requires: ["[[leonardo-da-vinci]]"]
 lists:
   - "[[works-by-leonardo-da-vinci]]"
+tour_order: 2
 read: false
 ---
 
 # Salvator Mundi
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -37,6 +44,18 @@ read: false
 ## see also
 
 - [[the-last-supper]] · [[virgin-of-the-rocks]] · [[the-virgin-and-child-with-st-anne]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

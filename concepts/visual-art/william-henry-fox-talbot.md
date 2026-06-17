@@ -3,7 +3,9 @@ type: person
 category: visual-art
 defines: ["William Henry Fox Talbot", "Fox Talbot"]
 related: ["[[louis-daguerre]]", "[[nicephore-niepce]]", "[[eadweard-muybridge]]"]
+requires: []
 lists: ["[[photography-pioneers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ read: false
 ## see also
 
 - [[louis-daguerre]] · [[nicephore-niepce]] · [[ansel-adams]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

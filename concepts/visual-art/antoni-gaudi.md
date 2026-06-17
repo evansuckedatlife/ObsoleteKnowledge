@@ -3,7 +3,9 @@ type: person
 category: visual-art
 defines: ["Antoni Gaudí"]
 related: ["[[frank-lloyd-wright]]", "[[modernisme]]"]
+requires: []
 lists: ["[[architects]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ read: false
 ## see also
 
 - [[frank-lloyd-wright]] · [[le-corbusier]] · [[frank-gehry]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

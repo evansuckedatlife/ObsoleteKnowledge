@@ -3,13 +3,11 @@ type: concept
 category: visual-art
 defines:
   - Surrealism
-related:
-  - "[[salvador-dali]]"
-  - "[[andre-breton]]"
-  - "[[max-ernst]]"
-  - "[[dada]]"
+related: ["[[salvador-dali]]", "[[andre-breton]]", "[[max-ernst]]", "[[dada]]"]
+requires: []
 lists:
   - "[[early-20th-century-art-movements]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[dada]] · [[abstract-expressionism]] · [[de-stijl]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

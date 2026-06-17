@@ -4,13 +4,11 @@ category: visual-art
 defines:
   - Hermitage
   - State Hermitage Museum
-related:
-  - "[[russian-imperial-collection]]"
-  - "[[saint-petersburg]]"
-  - "[[catherine-the-great]]"
-  - "[[rembrandt]]"
+related: ["[[russian-imperial-collection]]", "[[saint-petersburg]]", "[[catherine-the-great]]", "[[rembrandt]]"]
+requires: []
 lists:
   - "[[art-museums]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ The *Hermitage* in Saint Petersburg, housed in the Winter Palace and adjacent bu
 ## see also
 
 - [[the-louvre]] · [[museo-del-prado]] · [[rijksmuseum]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,8 +2,10 @@
 type: concept
 category: visual-art
 defines: [Marble]
-related: ["[[sculpture]]", "[[michelangelo]]", "[[ancient-greece]]", "[[ancient-rome]]", "[[carrara-marble]]", "[[carving]]", "[[classical-sculpture]]", "[[pentelicon-marble]]", "[[durability-in-art]]"]
+related: ["[[sculpture]]", "[[michelangelo]]", "[[ancient-greece]]", "[[ancient-rome]]", "[[carrara-marble]]", "[[carving]]", "[[classical-sculpture]]", "[[pentelicon-marble]]", "[[durability-in-art]]", "[[rome]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +42,18 @@ Marble is a metamorphic rock formed from limestone under intense heat and pressu
 ## see also
 
 - [[sculpture]] · [[michelangelo]] · [[ancient-greek-art]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

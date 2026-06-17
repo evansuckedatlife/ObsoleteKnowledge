@@ -4,13 +4,11 @@ category: visual-art
 defines:
   - Frédéric-Auguste Bartholdi
   - Bartholdi
-related:
-  - "[[statue-of-liberty]]"
-  - "[[french-sculpture]]"
-  - "[[monumental-sculpture]]"
-  - "[[liberty-enlightening-the-world]]"
+related: ["[[statue-of-liberty]]", "[[french-sculpture]]", "[[monumental-sculpture]]", "[[liberty-enlightening-the-world]]"]
+requires: []
 lists:
   - "[[sculptors]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[french]] · [[borglum]] · [[rodin]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

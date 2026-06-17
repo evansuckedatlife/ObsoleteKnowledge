@@ -3,7 +3,9 @@ type: person
 category: visual-art
 defines: ["Zaha Hadid"]
 related: ["[[frank-gehry]]", "[[deconstruction]]", "[[parametric-design]]"]
+requires: []
 lists: ["[[architects]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[frank-gehry]] · [[i-m-pei]] · [[rem-koolhaas]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

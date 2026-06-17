@@ -3,7 +3,9 @@ type: person
 category: visual-art
 defines: ["Eadweard Muybridge", "Edward James Muggeridge"]
 related: ["[[ansel-adams]]", "[[alfred-stieglitz]]", "[[henri-cartier-bresson]]"]
+requires: []
 lists: ["[[photography-pioneers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -29,6 +31,18 @@ read: false
 ## see also
 
 - [[alfred-stieglitz]] · [[ansel-adams]] · [[henri-cartier-bresson]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

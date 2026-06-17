@@ -2,15 +2,22 @@
 type: work
 category: visual-art
 defines: ["The Night Watch", "The Militia Company of Captain Banning Cocq"]
-related:
-  - "[[rembrandt]]"
-  - "[[dutch-golden-age]]"
+related: ["[[rembrandt]]", "[[dutch-golden-age]]"]
+requires: ["[[rembrandt]]"]
 lists:
   - "[[dutch-paintings]]"
+tour_order: 1
 read: false
 ---
 
 # The Night Watch
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +42,18 @@ read: false
 ## see also
 
 - [[girl-with-a-pearl-earring]] · [[the-anatomy-lesson-of-dr-tulp]] · [[the-milkmaid]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

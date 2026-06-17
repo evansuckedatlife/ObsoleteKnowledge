@@ -4,13 +4,11 @@ category: visual-art
 defines:
   - Auguste Rodin
   - Rodin
-related:
-  - "[[the-thinker]]"
-  - "[[the-gates-of-hell]]"
-  - "[[camille-claudel]]"
-  - "[[michelangelo]]"
+related: ["[[the-thinker]]", "[[the-gates-of-hell]]", "[[camille-claudel]]", "[[michelangelo]]"]
+requires: []
 lists:
   - "[[sculptors]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[michelangelo]] · [[bernini]] · [[brancusi]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

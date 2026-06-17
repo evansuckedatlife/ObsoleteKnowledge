@@ -2,15 +2,22 @@
 type: work
 category: visual-art
 defines: ["The Milkmaid"]
-related:
-  - "[[vermeer]]"
-  - "[[dutch-golden-age]]"
+related: ["[[vermeer]]", "[[dutch-golden-age]]"]
+requires: ["[[johannes-vermeer]]"]
 lists:
   - "[[dutch-paintings]]"
+tour_order: 1
 read: false
 ---
 
 # The Milkmaid
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +42,18 @@ Vermeer's *The Milkmaid*, painted circa 1658–1660, shows a domestic servant po
 ## see also
 
 - [[girl-with-a-pearl-earring]] · [[view-of-delft]] · [[the-night-watch]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

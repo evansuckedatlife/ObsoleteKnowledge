@@ -2,11 +2,11 @@
 type: person
 category: visual-art
 defines: ["Claire Denis"]
-related:
-  - "[[chocolat]]"
-  - "beau-travail"
+related: ["[[chocolat]]", "[[beau-travail]]"]
+requires: []
 lists:
   - "[[french-directors]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +36,18 @@ read: false
 ## see also
 
 - [[agnes-varda]] · [[robert-bresson]] · [[jean-luc-godard]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,13 +4,11 @@ category: visual-art
 defines:
   - Phidias
   - Pheidias
-related:
-  - "[[parthenon]]"
-  - "[[ancient-greece]]"
-  - "[[statue-of-zeus]]"
-  - "[[athena-parthenos]]"
+related: ["[[parthenon]]", "[[ancient-greece]]", "[[statue-of-zeus]]", "[[athena-parthenos]]", "[[athens]]"]
+requires: []
 lists:
   - "[[sculptors]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[parthenon]] · [[donatello]] · [[michelangelo]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

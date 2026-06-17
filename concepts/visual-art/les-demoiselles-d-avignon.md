@@ -4,16 +4,22 @@ category: visual-art
 defines:
   - Les Demoiselles d'Avignon
   - The Young Ladies of Avignon
-related:
-  - "[[pablo-picasso]]"
-  - "[[cubism]]"
-  - "[[modernism]]"
+related: ["[[pablo-picasso]]", "[[cubism]]", "[[modernism]]", "[[france]]", "[[paris]]"]
+requires: ["[[pablo-picasso]]"]
 lists:
   - "[[20th-century-paintings]]"
+tour_order: 2
 read: false
 ---
 
 # Les Demoiselles d'Avignon
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[guernica]] · [[the-persistence-of-memory]] · [[nighthawks]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

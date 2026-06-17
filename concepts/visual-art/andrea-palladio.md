@@ -3,11 +3,20 @@ type: person
 category: visual-art
 defines: ["Andrea Palladio"]
 related: ["[[renaissance]]", "[[baroque]]", "[[classical-architecture]]", "[[villa-architecture]]"]
+requires: ["[[italian-renaissance]]"]
 lists: ["[[architects]]"]
+tour_order: 1
 read: false
 ---
 
 # Andrea Palladio
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[christopher-wren]] · [[filippo-brunelleschi]] · [[classical-architecture]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,12 +3,11 @@ type: place
 category: visual-art
 defines:
   - Home Insurance Building
-related:
-  - "[[louis-sullivan]]"
-  - "[[chicago]]"
-  - "[[steel-frame-construction]]"
+related: ["[[louis-sullivan]]", "[[chicago]]", "[[steel-frame-construction]]"]
+requires: []
 lists:
   - "[[skyscrapers]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +35,18 @@ The *Home Insurance Building* is a ten-story office building completed in 1885 i
 ## see also
 
 - [[empire-state-building]] · [[willis-tower]] · [[burj-khalifa]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

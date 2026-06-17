@@ -2,12 +2,21 @@
 type: person
 category: visual-art
 defines: ["Man Ray", "Emmanuel Radnitzky"]
-related: ["[[alfred-stieglitz]]", "[[eadweard-muybridge]]", "[[henri-cartier-bresson]]"]
+related: ["[[alfred-stieglitz]]", "[[eadweard-muybridge]]", "[[henri-cartier-bresson]]", "[[france]]", "[[world-war-i]]"]
+requires: ["[[surrealism]]"]
 lists: ["[[photography-pioneers]]"]
+tour_order: 1
 read: false
 ---
 
 # Man Ray
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -30,6 +39,18 @@ read: false
 ## see also
 
 - [[alfred-stieglitz]] · [[eadweard-muybridge]] · [[henri-cartier-bresson]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

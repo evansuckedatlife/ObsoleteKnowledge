@@ -4,12 +4,11 @@ category: visual-art
 defines:
   - Willis Tower
   - Sears Tower
-related:
-  - "[[skidmore-owings-merrill]]"
-  - "[[chicago]]"
-  - "[[postmodernism]]"
+related: ["[[skidmore-owings-merrill]]", "[[chicago]]", "[[postmodernism]]"]
+requires: []
 lists:
   - "[[skyscrapers]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ The *Willis Tower* (formerly the Sears Tower) is a 110-story skyscraper complete
 ## see also
 
 - [[empire-state-building]] · [[burj-khalifa]] · [[shanghai-tower]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,16 +4,22 @@ category: visual-art
 defines:
   - Virgin of the Rocks
   - Madonna of the Rocks
-related:
-  - "[[leonardo-da-vinci]]"
-  - "[[jesus]]"
-  - "[[mary-mother-of-jesus]]"
+related: ["[[leonardo-da-vinci]]", "[[jesus]]", "[[mary-mother-of-jesus]]"]
+requires: ["[[leonardo-da-vinci]]"]
 lists:
   - "[[works-by-leonardo-da-vinci]]"
+tour_order: 2
 read: false
 ---
 
 # Virgin of the Rocks
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ read: false
 ## see also
 
 - [[the-last-supper]] · [[the-virgin-and-child-with-st-anne]] · [[lady-with-an-ermine]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

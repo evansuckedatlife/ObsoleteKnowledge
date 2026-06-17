@@ -2,12 +2,21 @@
 type: person
 category: visual-art
 defines: ["Le Corbusier", "Charles-Édouard Jeanneret"]
-related: ["[[frank-lloyd-wright]]", "[[mies-van-der-rohe]]", "[[walter-gropius]]", "[[brutalism]]"]
+related: ["[[frank-lloyd-wright]]", "[[mies-van-der-rohe]]", "[[walter-gropius]]", "[[brutalism]]", "[[industrial-revolution]]", "[[france]]"]
+requires: ["[[modernism]]"]
 lists: ["[[architects]]"]
+tour_order: 1
 read: false
 ---
 
 # Le Corbusier
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[frank-lloyd-wright]] · [[mies-van-der-rohe]] · [[walter-gropius]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

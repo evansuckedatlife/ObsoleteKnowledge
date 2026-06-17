@@ -2,15 +2,22 @@
 type: person
 category: visual-art
 defines: ["Louis Lumière", "Auguste Lumière"]
-related:
-  - "[[cinematographe]]"
-  - "arrival-of-a-train"
+related: ["[[cinematographe]]", "[[arrival-of-a-train]]", "[[france]]"]
+requires: ["[[industrial-revolution]]"]
 lists:
   - "[[french-directors]]"
+tour_order: 1
 read: false
 ---
 
 # Louis Lumière
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +43,18 @@ read: false
 ## see also
 
 - [[georges-melies]] · [[charlie-chaplin]] · [[david-wark-griffith]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

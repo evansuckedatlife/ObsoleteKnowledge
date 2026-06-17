@@ -4,12 +4,11 @@ category: visual-art
 defines:
   - Museum of Modern Art
   - MoMA
-related:
-  - "[[modern-art]]"
-  - "[[abstract-expressionism]]"
-  - "[[photographic-canon]]"
+related: ["[[modern-art]]", "[[abstract-expressionism]]", "[[photographic-canon]]", "[[modernism]]"]
+requires: []
 lists:
   - "[[art-museums]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[guggenheim]] · [[the-louvre]] · [[tate-modern]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

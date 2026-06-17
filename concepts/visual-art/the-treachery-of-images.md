@@ -4,12 +4,11 @@ category: visual-art
 defines:
   - The Treachery of Images
   - La Trahison des images
-related:
-  - "[[rene-magritte]]"
-  - "[[surrealism]]"
-  - "[[semiotics]]"
+related: ["[[rene-magritte]]", "[[surrealism]]", "[[semiotics]]"]
+requires: []
 lists:
   - "[[20th-century-paintings]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[the-persistence-of-memory]] · [[black-square]] · [[les-demoiselles-d-avignon]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

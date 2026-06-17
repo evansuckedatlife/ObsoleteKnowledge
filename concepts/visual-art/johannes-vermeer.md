@@ -2,8 +2,10 @@
 type: person
 category: visual-art
 defines: [Johannes Vermeer, Jan Vermeer]
-related: ["[[rembrandt-van-rijn]]", "[[franz-hals]]", "[[judith-leyster]]", "[[baroque-painters]]"]
+related: ["[[rembrandt-van-rijn]]", "[[franz-hals]]", "[[judith-leyster]]", "[[baroque-painters]]", "[[dutch-golden-age]]"]
+requires: []
 lists: ["[[baroque-painters]]"]
+tour_order: 0
 read: false
 aliases: [vermeer]
 ---
@@ -33,6 +35,18 @@ aliases: [vermeer]
 ## see also
 
 - [[rembrandt-van-rijn]] · [[judith-leyster]] · [[franz-hals]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

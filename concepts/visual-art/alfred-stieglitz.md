@@ -3,7 +3,9 @@ type: person
 category: visual-art
 defines: ["Alfred Stieglitz"]
 related: ["[[ansel-adams]]", "[[eadweard-muybridge]]", "[[henri-cartier-bresson]]", "[[dorothea-lange]]"]
+requires: []
 lists: ["[[photography-pioneers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ read: false
 ## see also
 
 - [[ansel-adams]] · [[henri-cartier-bresson]] · [[dorothea-lange]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

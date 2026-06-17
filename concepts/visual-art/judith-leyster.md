@@ -2,8 +2,10 @@
 type: person
 category: visual-art
 defines: [Judith Leyster]
-related: ["[[frans-hals]]", "[[artemisia-gentileschi]]", "[[baroque-painters]]"]
+related: ["[[frans-hals]]", "[[artemisia-gentileschi]]", "[[baroque-painters]]", "[[dutch-golden-age]]"]
+requires: []
 lists: ["[[baroque-painters]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[frans-hals]] · [[artemisia-gentileschi]] · [[rembrandt-van-rijn]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

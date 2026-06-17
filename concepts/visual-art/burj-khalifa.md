@@ -4,12 +4,11 @@ category: visual-art
 defines:
   - Burj Khalifa
   - Burj Dubai
-related:
-  - "[[adrian-smith]]"
-  - "[[dubai]]"
-  - "[[modern-architecture]]"
+related: ["[[adrian-smith]]", "[[dubai]]", "[[modern-architecture]]"]
+requires: []
 lists:
   - "[[skyscrapers]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ The *Burj Khalifa* is a 828-meter (2,717-foot) supertall skyscraper completed in
 ## see also
 
 - [[willis-tower]] · [[shanghai-tower]] · [[taipei-101]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

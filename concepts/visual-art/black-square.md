@@ -3,12 +3,11 @@ type: work
 category: visual-art
 defines:
   - Black Square
-related:
-  - "[[kazimir-malevich]]"
-  - "[[suprematism]]"
-  - "[[abstract-art]]"
+related: ["[[kazimir-malevich]]", "[[suprematism]]", "[[abstract-art]]"]
+requires: []
 lists:
   - "[[20th-century-paintings]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[composition-with-red-blue-and-yellow]] · [[the-persistence-of-memory]] · [[guernica]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

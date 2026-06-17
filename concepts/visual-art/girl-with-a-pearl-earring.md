@@ -2,11 +2,11 @@
 type: work
 category: visual-art
 defines: ["Girl with a Pearl Earring"]
-related:
-  - "[[vermeer]]"
-  - "[[dutch-golden-age]]"
+related: ["[[vermeer]]", "[[dutch-golden-age]]"]
+requires: []
 lists:
   - "[[dutch-paintings]]"
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +35,18 @@ Johannes Vermeer's circa 1665 *Girl with a Pearl Earring* depicts an unknown you
 ## see also
 
 - [[the-milkmaid]] · [[view-of-delft]] · [[the-night-watch]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

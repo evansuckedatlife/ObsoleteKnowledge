@@ -2,15 +2,22 @@
 type: work
 category: visual-art
 defines: ["Self-Portrait with Two Circles"]
-related:
-  - "[[rembrandt]]"
-  - "[[dutch-golden-age]]"
+related: ["[[rembrandt]]", "[[dutch-golden-age]]"]
+requires: ["[[rembrandt]]"]
 lists:
   - "[[dutch-paintings]]"
+tour_order: 1
 read: false
 ---
 
 # Self-Portrait with Two Circles
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +41,18 @@ Rembrandt's *Self-Portrait with Two Circles*, painted in 1665 near the end of hi
 ## see also
 
 - [[the-night-watch]] · [[the-anatomy-lesson-of-dr-tulp]] · [[girl-with-a-pearl-earring]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

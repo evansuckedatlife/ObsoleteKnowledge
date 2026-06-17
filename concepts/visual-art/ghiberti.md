@@ -4,17 +4,22 @@ category: visual-art
 defines:
   - Lorenzo Ghiberti
   - Ghiberti
-related:
-  - "[[baptistry-doors]]"
-  - "[[florence-cathedral]]"
-  - "[[renaissance-art]]"
-  - "[[donatello]]"
+related: ["[[baptistry-doors]]", "[[florence-cathedral]]", "[[renaissance-art]]", "[[donatello]]"]
+requires: ["[[italian-renaissance]]"]
 lists:
   - "[[sculptors]]"
+tour_order: 1
 read: false
 ---
 
 # Lorenzo Ghiberti
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +44,18 @@ read: false
 ## see also
 
 - [[donatello]] · [[michelangelo]] · [[bernini]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

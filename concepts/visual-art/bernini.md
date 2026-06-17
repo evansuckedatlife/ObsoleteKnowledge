@@ -4,13 +4,11 @@ category: visual-art
 defines:
   - Gian Lorenzo Bernini
   - Bernini
-related:
-  - "[[apollo-and-daphne]]"
-  - "[[david-sculpture]]"
-  - "[[st-peters-basilica]]"
-  - "[[baroque-art]]"
+related: ["[[apollo-and-daphne]]", "[[david-sculpture]]", "[[st-peters-basilica]]", "[[baroque-art]]"]
+requires: []
 lists:
   - "[[sculptors]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[michelangelo]] · [[rodin]] · [[donatello]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

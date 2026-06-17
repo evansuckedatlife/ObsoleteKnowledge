@@ -4,16 +4,22 @@ category: visual-art
 defines:
   - Mona Lisa
   - La Gioconda
-related:
-  - "[[leonardo-da-vinci]]"
-  - "[[renaissance]]"
-  - "[[portraiture]]"
+related: ["[[leonardo-da-vinci]]", "[[renaissance]]", "[[portraiture]]", "[[italy]]"]
+requires: ["[[leonardo-da-vinci]]"]
 lists:
   - "[[works-by-leonardo-da-vinci]]"
+tour_order: 2
 read: false
 ---
 
 # Mona Lisa
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ The *Mona Lisa* is Leonardo's most celebrated portrait, painted circa 1503–151
 ## see also
 
 - [[the-last-supper]] · [[vitruvian-man]] · [[lady-with-an-ermine]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

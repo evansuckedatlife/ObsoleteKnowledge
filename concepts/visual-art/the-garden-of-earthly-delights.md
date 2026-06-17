@@ -2,11 +2,11 @@
 type: work
 category: visual-art
 defines: ["The Garden of Earthly Delights"]
-related:
-  - "[[hieronymus-bosch]]"
-  - "[[northern-renaissance]]"
+related: ["[[hieronymus-bosch]]", "[[northern-renaissance]]"]
+requires: []
 lists:
   - "[[dutch-paintings]]"
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +34,18 @@ Hieronymus Bosch's monumental triptych *The Garden of Earthly Delights*, painted
 ## see also
 
 - [[the-hay-wain]] · [[the-temptation-of-saint-anthony]] · [[the-arnolfini-portrait]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,15 +4,22 @@ category: visual-art
 defines:
   - Lady with an Ermine
   - Portrait of Cecilia Gallerani
-related:
-  - "[[leonardo-da-vinci]]"
-  - "[[renaissance-portraiture]]"
+related: ["[[leonardo-da-vinci]]", "[[renaissance-portraiture]]", "[[italy]]"]
+requires: ["[[leonardo-da-vinci]]"]
 lists:
   - "[[works-by-leonardo-da-vinci]]"
+tour_order: 2
 read: false
 ---
 
 # Lady with an Ermine
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +45,18 @@ read: false
 ## see also
 
 - [[mona-lisa]] · [[vitruvian-man]] · [[virgin-of-the-rocks]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

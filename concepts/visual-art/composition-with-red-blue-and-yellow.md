@@ -4,12 +4,11 @@ category: visual-art
 defines:
   - Composition with Red, Blue and Yellow
   - Composition with Red Blue and Yellow
-related:
-  - "[[piet-mondrian]]"
-  - "[[de-stijl]]"
-  - "[[abstract-art]]"
+related: ["[[piet-mondrian]]", "[[de-stijl]]", "[[abstract-art]]"]
+requires: []
 lists:
   - "[[20th-century-paintings]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[the-persistence-of-memory]] · [[black-square]] · [[nighthawks]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

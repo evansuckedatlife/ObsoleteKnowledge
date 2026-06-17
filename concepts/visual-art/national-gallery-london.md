@@ -4,13 +4,11 @@ category: visual-art
 defines:
   - National Gallery
   - National Gallery, London
-related:
-  - "[[italian-renaissance]]"
-  - "[[dutch-golden-age]]"
-  - "[[london]]"
-  - "[[vermeer]]"
+related: ["[[italian-renaissance]]", "[[dutch-golden-age]]", "[[london]]", "[[vermeer]]", "[[england]]"]
+requires: []
 lists:
   - "[[art-museums]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ The *National Gallery* in London, founded in 1824, preserves one of the world's 
 ## see also
 
 - [[uffizi-gallery]] · [[rijksmuseum]] · [[tate-modern]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

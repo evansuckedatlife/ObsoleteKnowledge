@@ -3,13 +3,11 @@ type: concept
 category: visual-art
 defines:
   - Constructivism
-related:
-  - "[[kazimir-malevich]]"
-  - "[[alexander-rodchenko]]"
-  - "[[el-lissitzky]]"
-  - "[[cubism]]"
+related: ["[[kazimir-malevich]]", "[[alexander-rodchenko]]", "[[el-lissitzky]]", "[[cubism]]"]
+requires: []
 lists:
   - "[[early-20th-century-art-movements]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[de-stijl]] · [[bauhaus]] · [[cubism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

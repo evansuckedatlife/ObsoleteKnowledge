@@ -4,17 +4,22 @@ category: visual-art
 defines:
   - Donatello
   - Donato di Niccolò
-related:
-  - "[[david-sculpture]]"
-  - "[[saint-george]]"
-  - "[[florence-cathedral]]"
-  - "[[renaissance-art]]"
+related: ["[[david-sculpture]]", "[[saint-george]]", "[[florence-cathedral]]", "[[renaissance-art]]"]
+requires: ["[[italian-renaissance]]"]
 lists:
   - "[[sculptors]]"
+tour_order: 1
 read: false
 ---
 
 # Donatello
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +44,18 @@ read: false
 ## see also
 
 - [[michelangelo]] · [[bernini]] · [[ghiberti]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

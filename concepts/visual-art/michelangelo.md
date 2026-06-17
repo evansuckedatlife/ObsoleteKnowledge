@@ -4,17 +4,22 @@ category: visual-art
 defines:
   - Michelangelo
   - Michelangelo Buonarroti
-related:
-  - "[[david]]"
-  - "[[sistine-chapel]]"
-  - "[[leonardo-da-vinci]]"
-  - "[[donatello]]"
+related: ["[[david]]", "[[sistine-chapel]]", "[[leonardo-da-vinci]]", "[[donatello]]", "[[italy]]", "[[renaissance]]", "[[christianity]]"]
+requires: ["[[italian-renaissance]]"]
 lists:
   - "[[sculptors]]"
+tour_order: 1
 read: false
 ---
 
 # Michelangelo
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -69,6 +74,18 @@ Michelangelo achieved in his lifetime something almost no artist does: he was re
 ## see also
 
 - [[donatello]] · [[bernini]] · [[leonardo-da-vinci]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

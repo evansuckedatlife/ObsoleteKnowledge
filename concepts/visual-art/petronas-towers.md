@@ -4,12 +4,11 @@ category: visual-art
 defines:
   - Petronas Twin Towers
   - Petronas Towers
-related:
-  - "[[cesar-pelli]]"
-  - "[[kuala-lumpur]]"
-  - "[[postmodernism]]"
+related: ["[[cesar-pelli]]", "[[kuala-lumpur]]", "[[postmodernism]]"]
+requires: []
 lists:
   - "[[skyscrapers]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ The *Petronas Twin Towers* are a pair of 88-story skyscrapers completed in 1998 
 ## see also
 
 - [[taipei-101]] · [[burj-khalifa]] · [[shanghai-tower]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

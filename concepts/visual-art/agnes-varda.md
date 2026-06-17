@@ -2,11 +2,11 @@
 type: person
 category: visual-art
 defines: ["Agnès Varda"]
-related:
-  - "[[vagabond]]"
-  - "cleo-from-5-to-7"
+related: ["[[vagabond]]", "[[cleo-from-5-to-7]]"]
+requires: []
 lists:
   - "[[french-directors]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +36,18 @@ read: false
 ## see also
 
 - [[jean-luc-godard]] · [[alain-resnais]] · [[robert-bresson]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

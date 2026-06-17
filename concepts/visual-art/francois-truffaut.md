@@ -2,11 +2,11 @@
 type: person
 category: visual-art
 defines: ["François Truffaut"]
-related:
-  - "[[jean-luc-godard]]"
-  - "[[nouvelle-vague]]"
+related: ["[[jean-luc-godard]]", "[[nouvelle-vague]]"]
+requires: []
 lists:
   - "[[french-directors]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +36,18 @@ read: false
 ## see also
 
 - [[jean-luc-godard]] · [[agnes-varda]] · [[jacques-demy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

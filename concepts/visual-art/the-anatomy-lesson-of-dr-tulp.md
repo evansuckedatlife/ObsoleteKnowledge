@@ -2,15 +2,22 @@
 type: work
 category: visual-art
 defines: ["The Anatomy Lesson of Dr. Tulp"]
-related:
-  - "[[rembrandt]]"
-  - "[[dutch-golden-age]]"
+related: ["[[rembrandt]]", "[[dutch-golden-age]]"]
+requires: ["[[rembrandt]]"]
 lists:
   - "[[dutch-paintings]]"
+tour_order: 1
 read: false
 ---
 
 # The Anatomy Lesson of Dr. Tulp
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +42,18 @@ Rembrandt's 1632 *The Anatomy Lesson of Dr. Tulp* depicts the celebrated Amsterd
 ## see also
 
 - [[the-night-watch]] · [[girl-with-a-pearl-earring]] · [[view-of-delft]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,12 +2,21 @@
 type: person
 category: visual-art
 defines: ["Nicéphore Niépce", "Joseph Nicéphore Niépce"]
-related: ["[[louis-daguerre]]", "[[william-henry-fox-talbot]]"]
+related: ["[[louis-daguerre]]", "[[william-henry-fox-talbot]]", "[[france]]"]
+requires: ["[[industrial-revolution]]"]
 lists: ["[[photography-pioneers]]"]
+tour_order: 1
 read: false
 ---
 
 # Nicéphore Niépce
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -30,6 +39,18 @@ read: false
 ## see also
 
 - [[louis-daguerre]] · [[william-henry-fox-talbot]] · [[ansel-adams]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

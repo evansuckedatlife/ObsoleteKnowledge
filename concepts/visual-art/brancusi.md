@@ -4,13 +4,11 @@ category: visual-art
 defines:
   - Constantin Brancusi
   - Brancusi
-related:
-  - "[[bird-in-space]]"
-  - "[[modernist-sculpture]]"
-  - "[[abstraction]]"
-  - "[[rodin]]"
+related: ["[[bird-in-space]]", "[[modernist-sculpture]]", "[[abstraction]]", "[[rodin]]"]
+requires: []
 lists:
   - "[[sculptors]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[rodin]] · [[borglum]] · [[moore]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

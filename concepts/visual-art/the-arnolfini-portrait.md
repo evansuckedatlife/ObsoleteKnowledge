@@ -2,11 +2,11 @@
 type: work
 category: visual-art
 defines: ["The Arnolfini Portrait", "The Arnolfini Wedding"]
-related:
-  - "[[jan-van-eyck]]"
-  - "[[flemish-renaissance]]"
+related: ["[[jan-van-eyck]]", "[[flemish-renaissance]]"]
+requires: []
 lists:
   - "[[dutch-paintings]]"
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +34,18 @@ Jan van Eyck's 1434 *The Arnolfini Portrait* depicts a wealthy merchant and his 
 ## see also
 
 - [[the-garden-of-earthly-delights]] · [[the-hunters-in-the-snow]] · [[the-night-watch]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

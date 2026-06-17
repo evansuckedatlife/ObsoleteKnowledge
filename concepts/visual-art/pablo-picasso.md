@@ -2,12 +2,21 @@
 type: person
 category: visual-art
 defines: [Pablo Picasso, Picasso]
-related: ["[[cubism]]", "[[guernica]]", "[[les-demoiselles-d-avignon]]", "[[the-weeping-woman]]", "[[african-art]]", "[[modernism]]", "[[joan-miró]]", "[[henri-matisse]]", "[[pablo-picasso-blue-period]]", "[[analytical-cubism]]"]
+related: ["[[cubism]]", "[[guernica]]", "[[les-demoiselles-d-avignon]]", "[[the-weeping-woman]]", "[[african-art]]", "[[modernism]]", "[[joan-miró]]", "[[henri-matisse]]", "[[pablo-picasso-blue-period]]", "[[analytical-cubism]]", "[[spain]]", "[[france]]"]
+requires: ["[[modernism]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Pablo Picasso
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -45,6 +54,18 @@ Picasso's genius lay not in perfecting a single style but in inventing styles wh
 ## see also
 
 - [[henri-matisse]] · [[joan-miró]] · [[salvador-dalí]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

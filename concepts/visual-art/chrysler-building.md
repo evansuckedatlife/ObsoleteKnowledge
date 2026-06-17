@@ -3,12 +3,11 @@ type: place
 category: visual-art
 defines:
   - Chrysler Building
-related:
-  - "[[art-deco]]"
-  - "[[william-van-alen]]"
-  - "[[new-york-city]]"
+related: ["[[art-deco]]", "[[william-van-alen]]", "[[new-york-city]]"]
+requires: []
 lists:
   - "[[skyscrapers]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +35,18 @@ The *Chrysler Building* is a 77-story Art Deco masterpiece completed in 1930 in 
 ## see also
 
 - [[empire-state-building]] · [[one-world-trade-center]] · [[home-insurance-building]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

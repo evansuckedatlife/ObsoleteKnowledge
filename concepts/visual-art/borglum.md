@@ -3,12 +3,11 @@ type: person
 category: visual-art
 defines:
   - Gutzon Borglum
-related:
-  - "[[mount-rushmore]]"
-  - "[[stone-carving]]"
-  - "[[american-monuments]]"
+related: ["[[mount-rushmore]]", "[[stone-carving]]", "[[american-monuments]]"]
+requires: []
 lists:
   - "[[sculptors]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +35,18 @@ read: false
 ## see also
 
 - [[michelangelo]] · [[rodin]] · [[brancusi]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -1,12 +1,24 @@
 ---
 type: event
 category: history
-defines: ["Cold War", "The Cold War"]
-related: ["[[iron-curtain]]", "[[nikita-khrushchev]]", "[[john-f-kennedy]]", "[[cuban-missile-crisis]]", "[[berlin-wall]]", "[[vietnam-war]]", "[[space-race]]", "[[nuclear-deterrence]]", "[[mccarthyism]]", "[[existentialism]]"]
+defines:
+  - Cold War
+  - The Cold War
+related:
+  - "[[iron-curtain]]"
+  - "[[nikita-khrushchev]]"
+  - "[[john-f-kennedy]]"
+  - "[[cuban-missile-crisis]]"
+  - "[[berlin-wall]]"
+  - "[[vietnam-war]]"
+  - "[[space-race]]"
+  - "[[nuclear-deterrence]]"
+  - "[[mccarthyism]]"
+  - "[[existentialism]]"
 requires: []
 lists: []
 tour_order: 0
-read: false
+read: true
 ---
 
 # Cold War

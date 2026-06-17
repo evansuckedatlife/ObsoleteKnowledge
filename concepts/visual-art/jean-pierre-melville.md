@@ -2,11 +2,11 @@
 type: person
 category: visual-art
 defines: ["Jean-Pierre Melville"]
-related:
-  - "[[the-samurai]]"
-  - "bob-le-flambeur"
+related: ["[[the-samurai]]", "[[bob-le-flambeur]]"]
+requires: []
 lists:
   - "[[french-directors]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +36,18 @@ read: false
 ## see also
 
 - [[jean-luc-godard]] · [[francois-truffaut]] · [[jacques-tati]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

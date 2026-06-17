@@ -2,11 +2,11 @@
 type: person
 category: visual-art
 defines: ["Georges Méliès"]
-related:
-  - "[[a-trip-to-the-moon]]"
-  - "cinema-origins"
+related: ["[[a-trip-to-the-moon]]", "[[cinema-origins]]"]
+requires: []
 lists:
   - "[[french-directors]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +36,18 @@ read: false
 ## see also
 
 - [[lumiere-brothers]] · [[charlie-chaplin]] · [[david-wark-griffith]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

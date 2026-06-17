@@ -3,11 +3,20 @@ type: concept
 category: visual-art
 defines: [German Expressionism]
 related: ["[[expressionism]]", "[[modernism]]", "[[die-bruecke]]", "[[der-blaue-reiter]]", "[[ernst-ludwig-kirchner]]", "[[emile-nolde]]", "[[egon-schiele]]", "[[edvard-munch]]", "[[distortion-in-art]]", "[[emotion-over-representation]]"]
+requires: ["[[expressionism]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # German Expressionism
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +49,18 @@ German Expressionism (early twentieth century, circa 1905–1930) was an avant-g
 ## see also
 
 - [[expressionism]] · [[modernism]] · [[cubism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,12 +4,11 @@ category: visual-art
 defines:
   - One World Trade Center
   - Freedom Tower
-related:
-  - "[[david-childs]]"
-  - "[[new-york-city]]"
-  - "[[september-11]]"
+related: ["[[david-childs]]", "[[new-york-city]]", "[[september-11]]"]
+requires: []
 lists:
   - "[[skyscrapers]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[empire-state-building]] · [[chrysler-building]] · [[willis-tower]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

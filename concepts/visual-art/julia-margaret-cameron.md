@@ -2,8 +2,10 @@
 type: person
 category: visual-art
 defines: ["Julia Margaret Cameron"]
-related: ["[[alfred-stieglitz]]", "[[william-henry-fox-talbot]]"]
+related: ["[[alfred-stieglitz]]", "[[william-henry-fox-talbot]]", "[[england]]"]
+requires: []
 lists: ["[[photography-pioneers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -29,6 +31,18 @@ read: false
 ## see also
 
 - [[william-henry-fox-talbot]] · [[alfred-stieglitz]] · [[ansel-adams]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

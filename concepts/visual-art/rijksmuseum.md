@@ -3,13 +3,11 @@ type: place
 category: visual-art
 defines:
   - Rijksmuseum
-related:
-  - "[[dutch-golden-age]]"
-  - "[[rembrandt]]"
-  - "[[vermeer]]"
-  - "[[amsterdam]]"
+related: ["[[dutch-golden-age]]", "[[rembrandt]]", "[[vermeer]]", "[[amsterdam]]"]
+requires: []
 lists:
   - "[[art-museums]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ The *Rijksmuseum* in Amsterdam, the Netherlands' national art museum, was founde
 ## see also
 
 - [[hermitage]] · [[the-louvre]] · [[national-gallery-london]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

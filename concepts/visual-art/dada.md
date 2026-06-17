@@ -4,13 +4,11 @@ category: visual-art
 defines:
   - Dada
   - Dadaism
-related:
-  - "[[hugo-ball]]"
-  - "[[marcel-duchamp]]"
-  - "[[hannah-hoch]]"
-  - "[[expressionism]]"
+related: ["[[hugo-ball]]", "[[marcel-duchamp]]", "[[hannah-hoch]]", "[[expressionism]]"]
+requires: []
 lists:
   - "[[early-20th-century-art-movements]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[surrealism]] · [[expressionism]] · [[constructivism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

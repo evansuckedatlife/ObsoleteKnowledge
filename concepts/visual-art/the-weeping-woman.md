@@ -4,16 +4,22 @@ category: visual-art
 defines:
   - The Weeping Woman
   - Weeping Woman
-related:
-  - "[[pablo-picasso]]"
-  - "[[cubism]]"
-  - "[[spanish-civil-war]]"
+related: ["[[pablo-picasso]]", "[[cubism]]", "[[spanish-civil-war]]"]
+requires: ["[[pablo-picasso]]"]
 lists:
   - "[[20th-century-paintings]]"
+tour_order: 2
 read: false
 ---
 
 # The Weeping Woman
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[guernica]] · [[the-persistence-of-memory]] · [[les-demoiselles-d-avignon]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

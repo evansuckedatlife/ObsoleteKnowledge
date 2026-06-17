@@ -3,12 +3,11 @@ type: place
 category: visual-art
 defines:
   - Empire State Building
-related:
-  - "[[art-deco]]"
-  - "[[new-york-city]]"
-  - "[[louis-sullivan]]"
+related: ["[[art-deco]]", "[[new-york-city]]", "[[louis-sullivan]]"]
+requires: []
 lists:
   - "[[skyscrapers]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +35,18 @@ The *Empire State Building* is a 102-story Art Deco skyscraper completed in 1931
 ## see also
 
 - [[chrysler-building]] · [[one-world-trade-center]] · [[willis-tower]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,16 +3,22 @@ type: work
 category: visual-art
 defines:
   - Nighthawks
-related:
-  - "[[edward-hopper]]"
-  - "[[american-realism]]"
-  - "[[urban-isolation]]"
+related: ["[[edward-hopper]]", "[[american-realism]]", "[[urban-isolation]]"]
+requires: ["[[modernism]]"]
 lists:
   - "[[20th-century-paintings]]"
+tour_order: 1
 read: false
 ---
 
 # Nighthawks
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +42,18 @@ read: false
 ## see also
 
 - [[american-gothic]] · [[guernica]] · [[the-weeping-woman]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

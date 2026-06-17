@@ -2,11 +2,11 @@
 type: work
 category: visual-art
 defines: ["The Hunters in the Snow", "Hunters in the Snow"]
-related:
-  - "[[pieter-bruegel-the-elder]]"
-  - "[[flemish-renaissance]]"
+related: ["[[pieter-bruegel-the-elder]]", "[[flemish-renaissance]]"]
+requires: []
 lists:
   - "[[dutch-paintings]]"
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +34,18 @@ Pieter Bruegel the Elder's 1565 *Hunters in the Snow* depicts a winter landscape
 ## see also
 
 - [[the-garden-of-earthly-delights]] · [[the-arnolfini-portrait]] · [[the-night-watch]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

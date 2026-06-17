@@ -2,15 +2,22 @@
 type: work
 category: visual-art
 defines: ["View of Delft"]
-related:
-  - "[[vermeer]]"
-  - "[[dutch-golden-age]]"
+related: ["[[vermeer]]", "[[dutch-golden-age]]"]
+requires: ["[[johannes-vermeer]]"]
 lists:
   - "[[dutch-paintings]]"
+tour_order: 1
 read: false
 ---
 
 # View of Delft
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +42,18 @@ Vermeer's *View of Delft*, painted circa 1660–1661, is his only known cityscap
 ## see also
 
 - [[girl-with-a-pearl-earring]] · [[the-milkmaid]] · [[the-anatomy-lesson-of-dr-tulp]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

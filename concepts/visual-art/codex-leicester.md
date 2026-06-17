@@ -4,16 +4,22 @@ category: visual-art
 defines:
   - Codex Leicester
   - Codex Hammer
-related:
-  - "[[leonardo-da-vinci]]"
-  - "[[scientific-illustration]]"
-  - "[[engineering-drawings]]"
+related: ["[[leonardo-da-vinci]]", "[[scientific-illustration]]", "[[engineering-drawings]]"]
+requires: ["[[leonardo-da-vinci]]"]
 lists:
   - "[[works-by-leonardo-da-vinci]]"
+tour_order: 2
 read: false
 ---
 
 # Codex Leicester
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ The *Codex Leicester* is a 36-page scientific and technical notebook compiled by
 ## see also
 
 - [[mona-lisa]] · [[vitruvian-man]] · [[the-last-supper]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

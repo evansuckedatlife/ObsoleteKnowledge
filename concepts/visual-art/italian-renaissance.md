@@ -3,7 +3,9 @@ type: concept
 category: visual-art
 defines: [Italian Renaissance]
 related: ["[[leonardo-da-vinci]]", "[[michelangelo]]", "[[raphael]]", "[[botticelli]]", "[[florence]]", "[[perspective]]", "[[humanism]]", "[[classical-art]]", "[[the-renaissance]]", "[[medici-family]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +43,18 @@ The Italian Renaissance (fourteenth to sixteenth centuries) was a cultural and a
 ## see also
 
 - [[leonardo-da-vinci]] · [[michelangelo]] · [[raphael]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

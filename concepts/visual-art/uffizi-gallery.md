@@ -4,13 +4,11 @@ category: visual-art
 defines:
   - Uffizi Gallery
   - Uffizi
-related:
-  - "[[italian-renaissance]]"
-  - "[[florence]]"
-  - "[[medici-family]]"
-  - "[[botticelli]]"
+related: ["[[italian-renaissance]]", "[[florence]]", "[[medici-family]]", "[[botticelli]]"]
+requires: []
 lists:
   - "[[art-museums]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ The *Uffizi Gallery* in Florence is one of the world's oldest and most revered a
 ## see also
 
 - [[museo-del-prado]] · [[the-louvre]] · [[national-gallery-london]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

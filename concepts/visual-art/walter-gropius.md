@@ -3,7 +3,9 @@ type: person
 category: visual-art
 defines: [Walter Gropius]
 related: ["[[bauhaus]]", "[[modernism]]", "[[functionalism]]", "[[architecture]]", "[[kandinsky]]", "[[paul-klee]]", "[[László-Moholy-Nagy]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +38,18 @@ read: false
 ## see also
 
 - [[bauhaus]] · [[modernism]] · [[functionalism]] · [[kandinsky]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,16 +3,22 @@ type: work
 category: visual-art
 defines:
   - Vitruvian Man
-related:
-  - "[[leonardo-da-vinci]]"
-  - "[[human-anatomy]]"
-  - "[[golden-ratio]]"
+related: ["[[leonardo-da-vinci]]", "[[human-anatomy]]", "[[golden-ratio]]"]
+requires: ["[[leonardo-da-vinci]]"]
 lists:
   - "[[works-by-leonardo-da-vinci]]"
+tour_order: 2
 read: false
 ---
 
 # Vitruvian Man
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[mona-lisa]] · [[the-last-supper]] · [[lady-with-an-ermine]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,12 +3,11 @@ type: place
 category: visual-art
 defines:
   - Flatiron Building
-related:
-  - "[[daniel-burnham]]"
-  - "[[new-york-city]]"
-  - "[[beaux-arts]]"
+related: ["[[daniel-burnham]]", "[[new-york-city]]", "[[beaux-arts]]"]
+requires: []
 lists:
   - "[[skyscrapers]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +35,18 @@ The *Flatiron Building* is a 22-story triangular office building completed in 19
 ## see also
 
 - [[empire-state-building]] · [[chrysler-building]] · [[home-insurance-building]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,12 +3,11 @@ type: place
 category: visual-art
 defines:
   - Taipei 101
-related:
-  - "[[c-y-lee]]"
-  - "[[taiwan]]"
-  - "[[modern-architecture]]"
+related: ["[[c-y-lee]]", "[[taiwan]]", "[[modern-architecture]]"]
+requires: []
 lists:
   - "[[skyscrapers]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +35,18 @@ read: false
 ## see also
 
 - [[petronas-towers]] · [[burj-khalifa]] · [[shanghai-tower]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

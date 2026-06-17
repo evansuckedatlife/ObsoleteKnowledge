@@ -2,11 +2,11 @@
 type: person
 category: visual-art
 defines: ["Jacques Demy"]
-related:
-  - "[[the-umbrellas-of-cherbourg]]"
-  - "lola"
+related: ["[[the-umbrellas-of-cherbourg]]", "[[lola]]"]
+requires: []
 lists:
   - "[[french-directors]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +36,18 @@ read: false
 ## see also
 
 - [[francois-truffaut]] · [[agnes-varda]] · [[jean-luc-godard]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

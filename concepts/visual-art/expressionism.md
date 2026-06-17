@@ -4,13 +4,11 @@ category: visual-art
 defines:
   - Expressionism
   - German Expressionism
-related:
-  - "[[die-brucke]]"
-  - "[[der-blaue-reiter]]"
-  - "[[edvard-munch]]"
-  - "[[fauvism]]"
+related: ["[[die-brucke]]", "[[der-blaue-reiter]]", "[[edvard-munch]]", "[[fauvism]]"]
+requires: []
 lists:
   - "[[early-20th-century-art-movements]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[die-brucke]] · [[der-blaue-reiter]] · [[dada]] · [[fauvism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

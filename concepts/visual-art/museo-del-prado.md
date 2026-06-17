@@ -4,13 +4,11 @@ category: visual-art
 defines:
   - Prado
   - Museo del Prado
-related:
-  - "[[spanish-painting]]"
-  - "[[velazquez]]"
-  - "[[goya]]"
-  - "[[bosch]]"
+related: ["[[spanish-painting]]", "[[velazquez]]", "[[goya]]", "[[bosch]]", "[[spain]]"]
+requires: []
 lists:
   - "[[art-museums]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ The *Prado*, Spain's national art museum in Madrid, opened in 1819 and showcases
 ## see also
 
 - [[the-louvre]] · [[uffizi-gallery]] · [[hermitage]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

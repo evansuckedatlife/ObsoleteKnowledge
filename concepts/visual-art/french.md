@@ -4,13 +4,11 @@ category: visual-art
 defines:
   - Daniel Chester French
   - French
-related:
-  - "[[statue-of-the-republic]]"
-  - "[[lincoln-memorial]]"
-  - "[[american-sculpture]]"
-  - "[[beaux-arts]]"
+related: ["[[statue-of-the-republic]]", "[[lincoln-memorial]]", "[[american-sculpture]]", "[[beaux-arts]]"]
+requires: []
 lists:
   - "[[sculptors]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[borglum]] · [[bartholdi]] · [[rodin]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

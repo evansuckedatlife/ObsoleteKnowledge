@@ -2,12 +2,21 @@
 type: person
 category: visual-art
 defines: [Leonardo da Vinci, Leonardo]
-related: ["[[michelangelo]]", "[[the-last-supper]]", "[[mona-lisa]]", "[[vitruvian-man]]", "[[virgin-of-the-rocks]]", "[[italian-renaissance]]", "[[sfumato]]", "[[renaissance-anatomy]]", "[[engineering]]", "[[the-renaissance]]"]
+related: ["[[michelangelo]]", "[[the-last-supper]]", "[[mona-lisa]]", "[[vitruvian-man]]", "[[virgin-of-the-rocks]]", "[[italian-renaissance]]", "[[sfumato]]", "[[renaissance-anatomy]]", "[[engineering]]", "[[the-renaissance]]", "[[italy]]", "[[renaissance]]"]
+requires: ["[[italian-renaissance]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Leonardo da Vinci
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -45,6 +54,18 @@ Leonardo embodied the Renaissance belief that art and knowledge were inseparable
 ## see also
 
 - [[michelangelo]] · [[raphael]] · [[botticelli]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

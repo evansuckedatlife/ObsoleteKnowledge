@@ -4,12 +4,11 @@ category: visual-art
 defines:
   - Metropolitan Museum of Art
   - The Met
-related:
-  - "[[american-art-collecting]]"
-  - "[[egyptian-antiquities]]"
-  - "[[armor-and-weapons]]"
+related: ["[[american-art-collecting]]", "[[egyptian-antiquities]]", "[[armor-and-weapons]]"]
+requires: []
 lists:
   - "[[art-museums]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ The *Metropolitan Museum of Art*, located on Fifth Avenue in New York City, is o
 ## see also
 
 - [[the-louvre]] · [[moma]] · [[guggenheim]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

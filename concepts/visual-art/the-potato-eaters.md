@@ -2,11 +2,11 @@
 type: work
 category: visual-art
 defines: ["The Potato Eaters"]
-related:
-  - "[[vincent-van-gogh]]"
-  - "[[post-impressionism]]"
+related: ["[[vincent-van-gogh]]", "[[post-impressionism]]"]
+requires: []
 lists:
   - "[[dutch-paintings]]"
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +35,18 @@ Vincent van Gogh's 1885 *The Potato Eaters*, painted in Nuenen in northern Braba
 ## see also
 
 - [[the-night-watch]] · [[the-milkmaid]] · [[girl-with-a-pearl-earring]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,12 +3,11 @@ type: place
 category: visual-art
 defines:
   - Shanghai Tower
-related:
-  - "[[gensler]]"
-  - "[[shanghai]]"
-  - "[[modern-architecture]]"
+related: ["[[gensler]]", "[[shanghai]]", "[[modern-architecture]]"]
+requires: []
 lists:
   - "[[skyscrapers]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +35,18 @@ The *Shanghai Tower* is a 128-story supertall skyscraper completed in 2015 in Sh
 ## see also
 
 - [[burj-khalifa]] · [[taipei-101]] · [[petronas-towers]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

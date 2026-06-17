@@ -2,12 +2,21 @@
 type: person
 category: visual-art
 defines: ["Louis Daguerre", "Louis-Jacques-Mandé Daguerre"]
-related: ["[[nicephore-niepce]]", "[[william-henry-fox-talbot]]"]
+related: ["[[nicephore-niepce]]", "[[william-henry-fox-talbot]]", "[[france]]"]
+requires: ["[[industrial-revolution]]"]
 lists: ["[[photography-pioneers]]"]
+tour_order: 1
 read: false
 ---
 
 # Louis Daguerre
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[nicephore-niepce]] · [[william-henry-fox-talbot]] · [[ansel-adams]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

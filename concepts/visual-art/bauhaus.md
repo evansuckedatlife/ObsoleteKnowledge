@@ -3,13 +3,11 @@ type: concept
 category: visual-art
 defines:
   - Bauhaus
-related:
-  - "[[walter-gropius]]"
-  - "[[paul-klee]]"
-  - "[[wassily-kandinsky]]"
-  - "[[constructivism]]"
+related: ["[[walter-gropius]]", "[[paul-klee]]", "[[wassily-kandinsky]]", "[[constructivism]]"]
+requires: []
 lists:
   - "[[early-20th-century-art-movements]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[de-stijl]] · [[constructivism]] · [[abstract-expressionism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

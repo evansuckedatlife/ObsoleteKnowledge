@@ -3,11 +3,11 @@ type: work
 category: visual-art
 defines:
   - The Persistence of Memory
-related:
-  - "[[salvador-dali]]"
-  - "[[surrealism]]"
+related: ["[[salvador-dali]]", "[[surrealism]]"]
+requires: []
 lists:
   - "[[20th-century-paintings]]"
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +35,18 @@ read: false
 ## see also
 
 - [[guernica]] · [[les-demoiselles-d-avignon]] · [[the-weeping-woman]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

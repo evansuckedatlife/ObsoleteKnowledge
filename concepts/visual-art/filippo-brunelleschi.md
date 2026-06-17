@@ -3,11 +3,20 @@ type: person
 category: visual-art
 defines: ["Filippo Brunelleschi", "Brunelleschi"]
 related: ["[[renaissance]]", "[[leonardo-da-vinci]]", "[[florence-cathedral]]"]
+requires: ["[[italian-renaissance]]"]
 lists: ["[[architects]]"]
+tour_order: 1
 read: false
 ---
 
 # Filippo Brunelleschi
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[leonardo-da-vinci]] · [[christopher-wren]] · [[andrea-palladio]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

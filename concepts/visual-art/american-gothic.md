@@ -3,12 +3,11 @@ type: work
 category: visual-art
 defines:
   - American Gothic
-related:
-  - "[[grant-wood]]"
-  - "[[american-regionalism]]"
-  - "[[american-realism]]"
+related: ["[[grant-wood]]", "[[american-regionalism]]", "[[american-realism]]"]
+requires: []
 lists:
   - "[[20th-century-paintings]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +35,18 @@ read: false
 ## see also
 
 - [[nighthawks]] · [[campbell-soup-cans]] · [[guernica]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

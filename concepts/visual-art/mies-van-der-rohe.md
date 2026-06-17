@@ -2,12 +2,21 @@
 type: person
 category: visual-art
 defines: ["Mies van der Rohe", "Ludwig Mies van der Rohe"]
-related: ["[[le-corbusier]]", "[[walter-gropius]]", "[[frank-lloyd-wright]]", "[[bauhaus]]"]
+related: ["[[le-corbusier]]", "[[walter-gropius]]", "[[frank-lloyd-wright]]", "[[bauhaus]]", "[[germany]]"]
+requires: ["[[modernism]]"]
 lists: ["[[architects]]"]
+tour_order: 1
 read: false
 ---
 
 # Mies van der Rohe
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[le-corbusier]] · [[walter-gropius]] · [[frank-lloyd-wright]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

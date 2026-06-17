@@ -4,16 +4,22 @@ category: visual-art
 defines:
   - The Virgin and Child with St. Anne
   - Virgin and Child with St. Anne
-related:
-  - "[[leonardo-da-vinci]]"
-  - "[[jesus]]"
-  - "[[mary-mother-of-jesus]]"
+related: ["[[leonardo-da-vinci]]", "[[jesus]]", "[[mary-mother-of-jesus]]"]
+requires: ["[[leonardo-da-vinci]]"]
 lists:
   - "[[works-by-leonardo-da-vinci]]"
+tour_order: 2
 read: false
 ---
 
 # The Virgin and Child with St. Anne
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ read: false
 ## see also
 
 - [[mona-lisa]] · [[the-last-supper]] · [[virgin-of-the-rocks]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

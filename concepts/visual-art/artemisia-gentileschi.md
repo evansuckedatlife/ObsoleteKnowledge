@@ -3,7 +3,9 @@ type: person
 category: visual-art
 defines: [Artemisia Gentileschi]
 related: ["[[caravaggio]]", "[[judith-leyster]]", "[[baroque-painters]]"]
+requires: []
 lists: ["[[baroque-painters]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[caravaggio]] · [[judith-leyster]] · [[rembrandt-van-rijn]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

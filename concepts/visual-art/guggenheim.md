@@ -4,13 +4,11 @@ category: visual-art
 defines:
   - Guggenheim
   - Solomon R. Guggenheim Museum
-related:
-  - "[[frank-lloyd-wright]]"
-  - "[[modern-art-architecture]]"
-  - "[[abstract-art]]"
-  - "[[new-york-city]]"
+related: ["[[frank-lloyd-wright]]", "[[modern-art-architecture]]", "[[abstract-art]]", "[[new-york-city]]"]
+requires: []
 lists:
   - "[[art-museums]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ The *Solomon R. Guggenheim Museum* on Fifth Avenue in New York, completed in 195
 ## see also
 
 - [[moma]] · [[tate-modern]] · [[metropolitan-museum-of-art]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

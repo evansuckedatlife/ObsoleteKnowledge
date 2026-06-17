@@ -5,13 +5,11 @@ defines:
   - Cubism
   - Analytical Cubism
   - Synthetic Cubism
-related:
-  - "[[pablo-picasso]]"
-  - "[[georges-braque]]"
-  - "[[juan-gris]]"
-  - "[[modernism]]"
+related: ["[[pablo-picasso]]", "[[georges-braque]]", "[[juan-gris]]", "[[modernism]]"]
+requires: []
 lists:
   - "[[early-20th-century-art-movements]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ read: false
 ## see also
 
 - [[fauvism]] · [[futurism]] · [[constructivism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

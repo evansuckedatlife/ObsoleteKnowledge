@@ -4,12 +4,11 @@ category: visual-art
 defines:
   - De Stijl
   - The Style
-related:
-  - "[[piet-mondrian]]"
-  - "[[theo-van-doesburg]]"
-  - "[[constructivism]]"
+related: ["[[piet-mondrian]]", "[[theo-van-doesburg]]", "[[constructivism]]"]
+requires: []
 lists:
   - "[[early-20th-century-art-movements]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[bauhaus]] · [[constructivism]] · [[abstract-expressionism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

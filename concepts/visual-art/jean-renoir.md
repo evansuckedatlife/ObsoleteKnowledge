@@ -2,11 +2,11 @@
 type: person
 category: visual-art
 defines: ["Jean Renoir"]
-related:
-  - "[[grand-illusion]]"
-  - "la-regle-du-jeu"
+related: ["[[grand-illusion]]", "[[la-regle-du-jeu]]"]
+requires: []
 lists:
   - "[[french-directors]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +36,18 @@ read: false
 ## see also
 
 - [[robert-bresson]] · [[jacques-demy]] · [[agnes-varda]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

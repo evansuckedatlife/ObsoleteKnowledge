@@ -3,16 +3,22 @@ type: work
 category: visual-art
 defines:
   - The Last Supper
-related:
-  - "[[leonardo-da-vinci]]"
-  - "[[jesus]]"
-  - "[[renaissance]]"
+related: ["[[leonardo-da-vinci]]", "[[jesus]]", "[[renaissance]]"]
+requires: ["[[leonardo-da-vinci]]"]
 lists:
   - "[[works-by-leonardo-da-vinci]]"
+tour_order: 2
 read: false
 ---
 
 # The Last Supper
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[mona-lisa]] · [[vitruvian-man]] · [[virgin-of-the-rocks]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

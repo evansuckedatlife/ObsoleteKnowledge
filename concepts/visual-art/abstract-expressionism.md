@@ -4,13 +4,11 @@ category: visual-art
 defines:
   - Abstract Expressionism
   - Action Painting
-related:
-  - "[[jackson-pollock]]"
-  - "[[mark-rothko]]"
-  - "[[willem-de-kooning]]"
-  - "[[surrealism]]"
+related: ["[[jackson-pollock]]", "[[mark-rothko]]", "[[willem-de-kooning]]", "[[surrealism]]"]
+requires: []
 lists:
   - "[[early-20th-century-art-movements]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[surrealism]] · [[de-stijl]] · [[bauhaus]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

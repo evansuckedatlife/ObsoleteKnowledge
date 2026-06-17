@@ -3,12 +3,11 @@ type: work
 category: visual-art
 defines:
   - Guernica
-related:
-  - "[[pablo-picasso]]"
-  - "[[spanish-civil-war]]"
-  - "[[cubism]]"
+related: ["[[pablo-picasso]]", "[[spanish-civil-war]]", "[[cubism]]"]
+requires: []
 lists:
   - "[[20th-century-paintings]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[les-demoiselles-d-avignon]] · [[the-persistence-of-memory]] · [[nighthawks]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

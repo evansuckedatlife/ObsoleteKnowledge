@@ -3,7 +3,9 @@ type: person
 category: visual-art
 defines: ["Dorothea Lange"]
 related: ["[[henri-cartier-bresson]]", "[[alfred-stieglitz]]", "[[walker-evans]]"]
+requires: []
 lists: ["[[photography-pioneers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ read: false
 ## see also
 
 - [[walker-evans]] · [[henri-cartier-bresson]] · [[alfred-stieglitz]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: person
 category: visual-art
 defines: ["I. M. Pei"]
 related: ["[[mies-van-der-rohe]]", "[[le-corbusier]]", "[[modernism]]"]
+requires: []
 lists: ["[[architects]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[mies-van-der-rohe]] · [[frank-gehry]] · [[le-corbusier]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

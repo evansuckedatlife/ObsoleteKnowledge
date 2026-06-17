@@ -3,12 +3,11 @@ type: concept
 category: visual-art
 defines:
   - Futurism
-related:
-  - "[[filippo-tommaso-marinetti]]"
-  - "[[umberto-boccioni]]"
-  - "[[cubism]]"
+related: ["[[filippo-tommaso-marinetti]]", "[[umberto-boccioni]]", "[[cubism]]"]
+requires: []
 lists:
   - "[[early-20th-century-art-movements]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[cubism]] · [[constructivism]] · [[dada]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

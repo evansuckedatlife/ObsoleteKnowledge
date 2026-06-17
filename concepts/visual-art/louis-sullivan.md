@@ -3,11 +3,20 @@ type: person
 category: visual-art
 defines: ["Louis Sullivan"]
 related: ["[[frank-lloyd-wright]]", "[[art-nouveau]]", "[[chicago-school]]"]
+requires: ["[[modernism]]"]
 lists: ["[[architects]]"]
+tour_order: 1
 read: false
 ---
 
 # Louis Sullivan
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[frank-lloyd-wright]] · [[christopher-wren]] · [[le-corbusier]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,11 +2,11 @@
 type: person
 category: visual-art
 defines: ["Robert Bresson"]
-related:
-  - "[[jean-renoir]]"
-  - "[[pickpocket]]"
+related: ["[[jean-renoir]]", "[[pickpocket]]"]
+requires: []
 lists:
   - "[[french-directors]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +36,18 @@ read: false
 ## see also
 
 - [[robert-bresson]] · [[agnes-varda]] · [[jean-renoir]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

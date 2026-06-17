@@ -2,12 +2,11 @@
 type: person
 category: visual-art
 defines: ["Jean-Luc Godard"]
-related:
-  - "[[francois-truffaut]]"
-  - "[[nouvelle-vague]]"
-  - "breathless"
+related: ["[[francois-truffaut]]", "[[nouvelle-vague]]", "[[breathless]]"]
+requires: []
 lists:
   - "[[french-directors]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[francois-truffaut]] · [[agnes-varda]] · [[jean-pierre-melville]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,8 +2,10 @@
 type: person
 category: visual-art
 defines: [Nicolas Poussin]
-related: ["[[peter-paul-rubens]]", "[[diego-velazquez]]", "[[baroque-painters]]"]
+related: ["[[peter-paul-rubens]]", "[[diego-velazquez]]", "[[baroque-painters]]", "[[france]]", "[[italy]]"]
+requires: []
 lists: ["[[baroque-painters]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[peter-paul-rubens]] · [[diego-velazquez]] · [[rembrandt-van-rijn]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

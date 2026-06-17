@@ -3,7 +3,9 @@ type: person
 category: visual-art
 defines: ["Henri Cartier-Bresson"]
 related: ["[[alfred-stieglitz]]", "[[dorothea-lange]]", "[[ansel-adams]]"]
+requires: []
 lists: ["[[photography-pioneers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ read: false
 ## see also
 
 - [[alfred-stieglitz]] · [[dorothea-lange]] · [[ansel-adams]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

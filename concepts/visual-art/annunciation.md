@@ -4,12 +4,11 @@ category: visual-art
 defines:
   - Annunciation
   - Leonardo's Annunciation
-related:
-  - "[[leonardo-da-vinci]]"
-  - "[[mary-mother-of-jesus]]"
-  - "[[gabriel-archangel]]"
+related: ["[[leonardo-da-vinci]]", "[[mary-mother-of-jesus]]", "[[gabriel-archangel]]"]
+requires: []
 lists:
   - "[[works-by-leonardo-da-vinci]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ Leonardo's *Annunciation*, painted circa 1472–1475 in Florence, depicts the an
 ## see also
 
 - [[the-last-supper]] · [[virgin-of-the-rocks]] · [[the-virgin-and-child-with-st-anne]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

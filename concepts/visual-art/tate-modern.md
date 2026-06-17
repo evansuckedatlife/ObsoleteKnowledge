@@ -3,13 +3,11 @@ type: place
 category: visual-art
 defines:
   - Tate Modern
-related:
-  - "[[modern-and-contemporary-art]]"
-  - "[[london]]"
-  - "[[industrial-repurposing]]"
-  - "[[abstract-expressionism]]"
+related: ["[[modern-and-contemporary-art]]", "[[london]]", "[[industrial-repurposing]]", "[[abstract-expressionism]]"]
+requires: []
 lists:
   - "[[art-museums]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[moma]] · [[guggenheim]] · [[national-gallery-london]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

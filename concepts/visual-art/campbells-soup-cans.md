@@ -3,12 +3,11 @@ type: work
 category: visual-art
 defines:
   - Campbell's Soup Cans
-related:
-  - "[[andy-warhol]]"
-  - "[[pop-art]]"
-  - "[[consumerism]]"
+related: ["[[andy-warhol]]", "[[pop-art]]", "[[consumerism]]"]
+requires: []
 lists:
   - "[[20th-century-paintings]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[american-gothic]] · [[nighthawks]] · [[the-persistence-of-memory]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

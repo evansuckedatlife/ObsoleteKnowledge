@@ -4,6 +4,7 @@ category: visual-art
 defines: [Rembrandt, Rembrandt van Rijn]
 related: ["[[caravaggio]]", "[[frans-hals]]", "[[diego-velazquez]]", "[[baroque-painters]]"]
 lists: ["[[baroque-painters]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +34,18 @@ read: false
 ## see also
 
 - [[caravaggio]] · [[frans-hals]] · [[diego-velazquez]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

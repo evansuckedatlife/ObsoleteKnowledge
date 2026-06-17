@@ -2,8 +2,10 @@
 type: person
 category: visual-art
 defines: [Peter Paul Rubens, Rubens]
-related: ["[[nicolas-poussin]]", "[[anthony-van-dyck]]", "[[diego-velazquez]]", "[[baroque-painters]]"]
+related: ["[[nicolas-poussin]]", "[[anthony-van-dyck]]", "[[diego-velazquez]]", "[[baroque-painters]]", "[[christianity]]"]
+requires: []
 lists: ["[[baroque-painters]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[nicolas-poussin]] · [[anthony-van-dyck]] · [[diego-velazquez]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

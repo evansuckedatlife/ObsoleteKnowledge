@@ -3,7 +3,9 @@ type: person
 category: visual-art
 defines: ["Frank Gehry"]
 related: ["[[antoni-gaudi]]", "[[deconstruction]]", "[[zaha-hadid]]"]
+requires: []
 lists: ["[[architects]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[zaha-hadid]] · [[antoni-gaudi]] · [[i-m-pei]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

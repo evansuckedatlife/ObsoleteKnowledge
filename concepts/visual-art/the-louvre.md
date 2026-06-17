@@ -4,13 +4,11 @@ category: visual-art
 defines:
   - Louvre
   - Musée du Louvre
-related:
-  - "[[mona-lisa]]"
-  - "[[venus-de-milo]]"
-  - "[[winged-victory]]"
-  - "[[french-neoclassicism]]"
+related: ["[[mona-lisa]]", "[[venus-de-milo]]", "[[winged-victory]]", "[[french-neoclassicism]]"]
+requires: []
 lists:
   - "[[art-museums]]"
+tour_order: 0
 read: false
 aliases: [louvre]
 ---
@@ -40,6 +38,18 @@ The *Louvre* is the world's largest art museum by floor area, located in Paris a
 ## see also
 
 - [[metropolitan-museum-of-art]] · [[prado]] · [[uffizi-gallery]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,12 +4,11 @@ category: visual-art
 defines:
   - Fauvism
   - Fauve
-related:
-  - "[[henri-matisse]]"
-  - "[[andre-derain]]"
-  - "[[cubism]]"
+related: ["[[henri-matisse]]", "[[andre-derain]]", "[[cubism]]"]
+requires: []
 lists:
   - "[[early-20th-century-art-movements]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[cubism]] · [[expressionism]] · [[de-stijl]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

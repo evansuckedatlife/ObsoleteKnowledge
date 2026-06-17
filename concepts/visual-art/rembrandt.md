@@ -4,7 +4,9 @@ category: visual-art
 defines: [Rembrandt, Rembrandt van Rijn]
 aliases: [rembrandt-van-rijn]
 related: ["[[the-night-watch]]", "[[the-anatomy-lesson-of-dr-tulp]]", "[[self-portrait-with-two-circles]]", "[[baroque]]", "[[dutch-golden-age]]", "[[chiaroscuro]]", "[[jewish-amsterdam]]", "[[Frans-hals]]", "[[caravaggio]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +43,18 @@ Rembrandt (Rembrandt Harmenszoon van Rijn, 1606–1669) was a Dutch painter, etc
 ## see also
 
 - [[Frans-hals]] · [[vermeer]] · [[caravaggio]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 
