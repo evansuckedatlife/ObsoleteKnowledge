@@ -3,8 +3,8 @@ type: term
 category: mathematics
 defines:
   - NP
-  - "NP (complexity class)"
-  - "Nondeterministic polynomial time"
+  - NP (complexity class)
+  - Nondeterministic polynomial time
 related:
   - "[[p-complexity-class]]"
   - "[[np-complete]]"
@@ -12,7 +12,7 @@ related:
   - "[[decision-problem]]"
   - "[[time-complexity]]"
 lists: []
-read: false
+read: true
 ---
 
 # NP (Complexity Class)

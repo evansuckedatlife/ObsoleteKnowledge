@@ -9,7 +9,7 @@ related:
   - "[[p-complexity-class]]"
   - "[[decision-problem]]"
 lists: []
-read: false
+read: true
 ---
 
 # NP-Complete
