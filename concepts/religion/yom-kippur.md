@@ -12,9 +12,11 @@ read: false
 # Yom Kippur
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[judaism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -42,6 +44,12 @@ Yom Kippur, the *Day of Atonement*, is the holiest day in the Jewish calendar, f
 ## see also
 
 - [[rosh-hashanah]] · [[high-holy-days]] · [[judaism]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

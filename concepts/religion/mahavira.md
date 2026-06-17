@@ -12,9 +12,11 @@ read: false
 # Mahavira
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[jainism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -42,6 +44,12 @@ Mahavira, meaning "great hero," was the 24th and final *Tirthankara* (ford-maker
 ## see also
 
 - [[siddhartha-gautama]] · [[confucius]] · [[zoroaster]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

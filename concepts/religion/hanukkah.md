@@ -12,9 +12,11 @@ read: false
 # Hanukkah
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[judaism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -42,6 +44,12 @@ Hanukkah, the *Festival of Lights*, is an eight-day celebration beginning on the
 ## see also
 
 - [[maccabees]] · [[second-temple]] · [[judaism]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

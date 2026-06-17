@@ -12,9 +12,11 @@ read: false
 # Samson
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[hebrew-bible]] · [[judaism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -42,6 +44,12 @@ read: false
 ## see also
 
 - [[jacob]] · [[david]] · [[samuel]] · [[elijah]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -12,9 +12,11 @@ read: false
 # Jacob
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[hebrew-bible]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -44,6 +46,12 @@ The grandson of *Abraham* and son of *Isaac*, Jacob is remembered as the patriar
 ## see also
 
 - [[abraham]] · [[moses]] · [[david]] · [[samuel]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

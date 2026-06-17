@@ -1,21 +1,26 @@
 ---
 type: text
 category: religion
-defines: [Torah, Pentateuch, Written Law]
-related: ["[[judaism]]", "[[moses]]", "[[talmud]]", "[[hebrew-bible-characters]]", "[[shavuot]]", "[[ark-of-the-covenant]]"]
-requires: ["[[judaism]]"]
+defines:
+  - Torah
+  - Pentateuch
+  - Written Law
+related:
+  - "[[judaism]]"
+  - "[[moses]]"
+  - "[[talmud]]"
+  - "[[hebrew-bible-characters]]"
+  - "[[shavuot]]"
+  - "[[ark-of-the-covenant]]"
+requires:
+  - "[[judaism]]"
 lists: []
 tour_order: 1
-read: false
+read: true
 ---
 
 # Torah
 
-
-<!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[judaism]]
-<!-- /foundations -->
 
 ## summary
 
@@ -55,6 +60,12 @@ The Torah's role in Jewish practice extends far beyond textual study: it is cere
 ## see also
 
 - [[talmud]] · [[moses]] · [[judaism]] · [[shavuot]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

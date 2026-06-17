@@ -12,9 +12,11 @@ read: false
 # Moses
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[judaism]] · [[abraham]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -62,6 +64,12 @@ Moses stands at the intersection of history, theology, and legend. The historica
 ## see also
 
 - [[abraham]] · [[jacob]] · [[joshua]] · [[david]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -12,9 +12,11 @@ read: false
 # Passover
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[judaism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -43,6 +45,12 @@ Passover, known in Hebrew as *Pesach*, is an eight-day festival beginning on the
 ## see also
 
 - [[exodus]] · [[moses]] · [[seder]] · [[judaism]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

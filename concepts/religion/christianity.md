@@ -12,9 +12,11 @@ read: false
 # Christianity
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[judaism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -71,6 +73,12 @@ Christianity has been the dominant religious and cultural force in the West for 
 ## see also
 
 - [[jesus]] · [[gospels]] · [[virgin-mary]] · [[paul]] · [[judaism]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -12,9 +12,11 @@ read: false
 # Clement VII
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[christianity]] · [[roman-empire]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -40,6 +42,12 @@ Reigning as pope from 1523 to 1534, **Clement VII** (born Giulio de' Medici) had
 ## see also
 
 - [[leo-x]] · [[julius-ii]] · [[alexander-vi]] · [[boniface-viii]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

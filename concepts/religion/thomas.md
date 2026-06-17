@@ -12,9 +12,11 @@ read: false
 # Thomas
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[jesus]] · [[christianity]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -42,6 +44,12 @@ One of the twelve apostles of Jesus, best known for his skepticism about the *Re
 ## see also
 
 - [[peter]] · [[john-the-apostle]] · [[gospels]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

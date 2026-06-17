@@ -12,9 +12,11 @@ read: false
 # Innocent III
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[christianity]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -56,6 +58,12 @@ Innocent III's reign represents the medieval ideal of the *Res Publica Christian
 ## see also
 
 - [[gregory-vii]] · [[urban-ii]] · [[boniface-viii]] · [[alexander-vi]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

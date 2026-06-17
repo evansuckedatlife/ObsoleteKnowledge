@@ -12,9 +12,11 @@ read: false
 # Virgin Mary
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[jesus]] · [[christianity]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -41,6 +43,12 @@ The mother of **Jesus**, revered in Christian tradition as the *Virgin Mary* bec
 ## see also
 
 - [[john-the-apostle]] · [[mary-magdalene]] · [[joseph]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

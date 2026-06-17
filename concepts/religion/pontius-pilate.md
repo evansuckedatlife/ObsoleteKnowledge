@@ -12,9 +12,11 @@ read: false
 # Pontius Pilate
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[jesus]] · [[christianity]] · [[roman-empire]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -42,6 +44,12 @@ The Roman prefect of Judea who presided over Jesus's trial and ultimately author
 ## see also
 
 - [[jesus]] · [[peter]] · [[paul]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

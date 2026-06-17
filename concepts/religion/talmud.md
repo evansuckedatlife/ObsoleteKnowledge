@@ -1,21 +1,22 @@
 ---
 type: text
 category: religion
-defines: [Talmud]
-related: ["[[torah]]", "[[moses]]"]
-requires: ["[[judaism]]", "[[torah]]"]
-lists: ["[[religious-texts]]"]
+defines:
+  - Talmud
+related:
+  - "[[torah]]"
+  - "[[moses]]"
+requires:
+  - "[[judaism]]"
+  - "[[torah]]"
+lists:
+  - "[[religious-texts]]"
 tour_order: 2
-read: false
+read: true
 ---
 
 # Talmud
 
-
-<!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[judaism]] · [[torah]]
-<!-- /foundations -->
 
 ## summary
 
@@ -41,6 +42,12 @@ The *Talmud* is a vast body of Jewish law, theology, and commentary compiled ove
 ## see also
 
 - [[torah]] · [[hadith]] · [[apocrypha]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

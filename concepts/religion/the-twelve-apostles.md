@@ -12,9 +12,11 @@ read: false
 # The Twelve Apostles
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[jesus]] · [[christianity]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -43,6 +45,12 @@ The Twelve Apostles were the disciples chosen by Jesus to be his closest followe
 ## see also
 
 - [[peter]] · [[john-the-apostle]] · [[judas-iscariot]] · [[gospels]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

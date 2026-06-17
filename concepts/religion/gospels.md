@@ -12,9 +12,11 @@ read: false
 # Gospels
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[jesus]] · [[christianity]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -62,6 +64,12 @@ The Gospels occupy a unique position: they are simultaneously documents of early
 ## see also
 
 - [[jesus]] · [[crucifixion]] · [[peter]] · [[paul]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -12,9 +12,11 @@ read: false
 # Qur'an
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[islam]] · [[muhammad]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -41,6 +43,12 @@ The *Qur'an* is the central religious text of *Islam*, believed by Muslims to be
 ## see also
 
 - [[hadith]] · [[talmud]] · [[bible]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

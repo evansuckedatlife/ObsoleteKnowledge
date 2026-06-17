@@ -12,9 +12,11 @@ read: false
 # Kaddish
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[judaism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -41,6 +43,12 @@ The Kaddish is a prayer of sanctification and praise for God recited in Aramaic 
 ## see also
 
 - [[judaism]] · [[jewish-mourning]] · [[prayer]] · [[hebrew-prayer-book]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

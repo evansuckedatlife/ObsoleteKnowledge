@@ -1,21 +1,21 @@
 ---
 type: phrase
 category: religion
-defines: [a land of milk and honey]
-related: ["[[exodus]]", "[[moses]]"]
-requires: ["[[hebrew-bible]]"]
-lists: ["[[biblical-sayings]]"]
+defines:
+  - a land of milk and honey
+related:
+  - "[[exodus]]"
+  - "[[moses]]"
+requires:
+  - "[[hebrew-bible]]"
+lists:
+  - "[[biblical-sayings]]"
 tour_order: 2
-read: false
+read: true
 ---
 
 # a land of milk and honey
 
-
-<!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[hebrew-bible]]
-<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +39,12 @@ This phrase describes the Promised Land—Canaan—that God promised to give the
 ## see also
 
 - [[sweat-of-your-brow]] · [[golden-calf]] · [[writing-on-the-wall]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

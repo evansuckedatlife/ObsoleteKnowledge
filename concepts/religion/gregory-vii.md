@@ -12,9 +12,11 @@ read: false
 # Gregory VII
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[christianity]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -40,6 +42,12 @@ Reigning as pope from 1073 to 1085, **Gregory VII** (originally named Hildebrand
 ## see also
 
 - [[gregory-i]] · [[urban-ii]] · [[innocent-iii]] · [[boniface-viii]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

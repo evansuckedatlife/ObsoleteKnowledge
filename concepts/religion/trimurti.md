@@ -12,9 +12,11 @@ read: false
 # Trimurti
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[hinduism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -40,6 +42,12 @@ The Trimurti is the triple deity of supreme divinity in Hinduism, in which the c
 ## see also
 
 - [[brahma]] · [[vishnu]] · [[shiva]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

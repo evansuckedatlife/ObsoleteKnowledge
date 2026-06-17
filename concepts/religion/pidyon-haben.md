@@ -12,9 +12,11 @@ read: false
 # Pidyon ha-ben
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[judaism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -42,6 +44,12 @@ Pidyon ha-ben (redemption of the firstborn) is a ceremony in which the parents o
 ## see also
 
 - [[brit-milah]] · [[bar-bat-mitzvah]] · [[jewish-marriage]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

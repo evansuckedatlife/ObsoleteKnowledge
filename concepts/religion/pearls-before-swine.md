@@ -12,9 +12,11 @@ read: false
 # pearls before swine
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[gospels]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -39,6 +41,12 @@ This phrase comes from Jesus' teaching in the Sermon on the Mount, warning again
 ## see also
 
 - [[ye-of-little-faith]] · [[good-samaritan]] · [[writing-on-the-wall]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

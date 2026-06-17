@@ -12,9 +12,11 @@ read: false
 # Shavuot
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[judaism]] · [[torah]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -41,6 +43,12 @@ Shavuot, the *Feast of Weeks*, is a two-day festival occurring fifty days after 
 ## see also
 
 - [[torah]] · [[passover]] · [[judaism]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

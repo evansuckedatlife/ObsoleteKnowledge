@@ -12,9 +12,11 @@ read: false
 # Hebrew Bible
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[judaism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -43,6 +45,12 @@ The Hebrew Bible, also known as the *Tanakh* (an acronym for its three divisions
 ## see also
 
 - [[torah]] · [[moses]] · [[david]] · [[judaism]] · [[christianity]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

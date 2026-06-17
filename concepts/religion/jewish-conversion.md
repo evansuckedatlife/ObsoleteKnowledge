@@ -12,9 +12,11 @@ read: false
 # Jewish conversion
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[judaism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -43,6 +45,12 @@ Jewish conversion (*giyur*) is the formal process by which a non-Jew becomes a m
 ## see also
 
 - [[judaism]] · [[brit-milah]] · [[jewish-baby-naming]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

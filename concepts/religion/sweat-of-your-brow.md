@@ -12,9 +12,11 @@ read: false
 # the sweat of your brow
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[hebrew-bible]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -39,6 +41,12 @@ This phrase comes from *Genesis*, where God condemns Adam to labor as punishment
 ## see also
 
 - [[golden-calf]] · [[good-samaritan]] · [[ye-of-little-faith]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

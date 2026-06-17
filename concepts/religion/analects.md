@@ -12,9 +12,11 @@ read: false
 # Analects
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[confucianism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -40,6 +42,12 @@ The *Analects* is a collection of sayings and conversations attributed to *Confu
 ## see also
 
 - [[confucianism]] · [[taoism]] · [[yijing]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -12,9 +12,11 @@ read: false
 # Paul
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[jesus]] · [[christianity]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -42,6 +44,12 @@ Originally **Saul of Tarsus**, a persecutor of early Christians who underwent a 
 ## see also
 
 - [[peter]] · [[john-the-apostle]] · [[gospels]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

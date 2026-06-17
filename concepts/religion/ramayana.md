@@ -12,9 +12,11 @@ read: false
 # Ramayana
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[hinduism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -39,6 +41,12 @@ The Ramayana is one of the two major Sanskrit epics of ancient India, alongside 
 ## see also
 
 - [[mahabharata]] · [[bhagavad-gita]] · [[vedas]] · [[upanishads]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

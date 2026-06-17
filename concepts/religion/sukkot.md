@@ -12,9 +12,11 @@ read: false
 # Sukkot
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[judaism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -43,6 +45,12 @@ Sukkot, the *Feast of Tabernacles*, is a seven-day festival beginning on the 15t
 ## see also
 
 - [[passover]] · [[shavuot]] · [[judaism]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

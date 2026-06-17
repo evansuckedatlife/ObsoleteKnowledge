@@ -12,9 +12,11 @@ read: false
 # Temple in Jerusalem
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[judaism]] · [[hebrew-bible]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -42,6 +44,12 @@ The Temple in Jerusalem refers to successive sanctuaries built on the Temple Mou
 ## see also
 
 - [[solomon]] · [[judaism]] · [[tisha-bav]] · [[hanukkah]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

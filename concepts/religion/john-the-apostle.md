@@ -12,9 +12,11 @@ read: false
 # John the Apostle
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[jesus]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -43,6 +45,12 @@ One of Jesus's twelve apostles and traditionally credited with authoring the *Go
 ## see also
 
 - [[peter]] · [[paul]] · [[gospel-of-john]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

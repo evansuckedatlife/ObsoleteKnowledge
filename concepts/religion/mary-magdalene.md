@@ -12,9 +12,11 @@ read: false
 # Mary Magdalene
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[jesus]] · [[christianity]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -42,6 +44,12 @@ A devoted follower of Jesus often identified as the *first witness to the Resurr
 ## see also
 
 - [[virgin-mary]] · [[peter]] · [[john-the-apostle]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

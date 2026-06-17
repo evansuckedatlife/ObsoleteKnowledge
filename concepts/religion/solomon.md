@@ -12,9 +12,11 @@ read: false
 # Solomon
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[judaism]] · [[hebrew-bible]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -44,6 +46,12 @@ read: false
 ## see also
 
 - [[david]] · [[jacob]] · [[moses]] · [[samuel]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -12,9 +12,11 @@ read: false
 # Gregory I
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[christianity]] · [[roman-empire]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -54,6 +56,12 @@ Gregory I's papacy was pivotal in shaping the character of medieval Western Chri
 ## see also
 
 - [[leo-i]] · [[gregory-vii]] · [[urban-ii]] · [[innocent-iii]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

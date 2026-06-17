@@ -12,9 +12,11 @@ read: false
 # fire and brimstone
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[judaism]] · [[christianity]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -39,6 +41,12 @@ This phrase describes divine destruction and damnation, rooted in the destructio
 ## see also
 
 - [[sweat-of-your-brow]] · [[writing-on-the-wall]] · [[golden-calf]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

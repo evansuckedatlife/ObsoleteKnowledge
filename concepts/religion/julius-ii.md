@@ -12,9 +12,11 @@ read: false
 # Julius II
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[christianity]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -55,6 +57,12 @@ Julius II's papacy defined the secularized power of the Renaissance Church. By p
 ## see also
 
 - [[alexander-vi]] · [[leo-x]] · [[clement-vii]] · [[urban-ii]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

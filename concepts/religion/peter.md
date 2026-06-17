@@ -12,9 +12,11 @@ read: false
 # Peter
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[jesus]] · [[christianity]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -63,6 +65,12 @@ Peter's journey from impulsive fisherman to rock of the church exemplifies a cen
 ## see also
 
 - [[john-the-apostle]] · [[paul]] · [[crucifixion]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

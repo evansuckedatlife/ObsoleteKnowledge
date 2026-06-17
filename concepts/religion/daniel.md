@@ -12,9 +12,11 @@ read: false
 # Daniel
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[hebrew-bible]] · [[judaism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -43,6 +45,12 @@ read: false
 ## see also
 
 - [[moses]] · [[elijah]] · [[jacob]] · [[samuel]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

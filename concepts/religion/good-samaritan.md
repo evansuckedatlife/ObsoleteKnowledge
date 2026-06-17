@@ -12,9 +12,11 @@ read: false
 # Good Samaritan
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[jesus]] · [[christianity]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -39,6 +41,12 @@ The Good Samaritan is a parable told by Jesus about a Samaritan who stops to hel
 ## see also
 
 - [[ye-of-little-faith]] · [[pearls-before-swine]] · [[sweat-of-your-brow]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

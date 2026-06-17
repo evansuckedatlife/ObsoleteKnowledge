@@ -12,9 +12,11 @@ read: false
 # Jewish marriage
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[judaism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -43,6 +45,12 @@ Jewish marriage (*kiddushin*) is a covenant between two partners sanctified by J
 ## see also
 
 - [[ketubah]] · [[jewish-divorce]] · [[jewish-mourning]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

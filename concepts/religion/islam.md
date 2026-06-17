@@ -12,9 +12,11 @@ read: false
 # Islam
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[judaism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -62,6 +64,12 @@ Islam has been foundational to the political, cultural, and intellectual life of
 ## see also
 
 - [[muhammad]] · [[quran]] · [[mecca]] · [[judaism]] · [[christianity]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

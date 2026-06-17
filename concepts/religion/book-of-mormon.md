@@ -12,9 +12,11 @@ read: false
 # Book of Mormon
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[christianity]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -40,6 +42,12 @@ The *Book of Mormon* is a sacred text of *The Church of Jesus Christ of Latter-d
 ## see also
 
 - [[quran]] · [[bible]] · [[apocrypha]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -1,12 +1,19 @@
 ---
 type: concept
 category: religion
-defines: [Judaism]
-related: ["[[torah]]", "[[abraham]]", "[[moses]]", "[[temple-in-jerusalem]]", "[[talmud]]", "[[exodus]]"]
+defines:
+  - Judaism
+related:
+  - "[[torah]]"
+  - "[[abraham]]"
+  - "[[moses]]"
+  - "[[temple-in-jerusalem]]"
+  - "[[talmud]]"
+  - "[[exodus]]"
 requires: []
 lists: []
 tour_order: 0
-read: false
+read: true
 ---
 
 # Judaism
@@ -51,6 +58,12 @@ Judaism's resilience and adaptability—surviving exile, persecution, and diaspo
 ## see also
 
 - [[torah]] · [[talmud]] · [[moses]] · [[temple-in-jerusalem]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

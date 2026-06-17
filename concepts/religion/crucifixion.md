@@ -12,9 +12,11 @@ read: false
 # Crucifixion
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[jesus]] · [[christianity]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -63,6 +65,12 @@ The crucifixion of Jesus is the hinge event of Christian theology and Western hi
 ## see also
 
 - [[jesus]] · [[gospels]] · [[pontius-pilate]] · [[john-the-apostle]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

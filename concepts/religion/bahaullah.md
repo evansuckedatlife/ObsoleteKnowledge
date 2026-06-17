@@ -12,9 +12,11 @@ read: false
 # Baháʼu'lláh
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[islam]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -43,6 +45,12 @@ Baháʼu'lláh (1817–1892), born Mirza Husayn-Ali, was the founder of the *Bah
 ## see also
 
 - [[joseph-smith]] · [[mary-baker-eddy]] · [[jesus]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

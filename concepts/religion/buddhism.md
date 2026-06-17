@@ -57,6 +57,12 @@ Buddhism's rise and eventual decline in India yet flourishing in Asia represents
 
 - [[siddhartha-gautama]] · [[upanishads]] · [[vedas]] · [[mahavira]]
 
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
+
 <!-- footer -->
 
 ---

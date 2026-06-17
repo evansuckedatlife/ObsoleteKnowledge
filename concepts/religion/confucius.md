@@ -38,6 +38,12 @@ Confucius was a Chinese philosopher and teacher whose ideas about proper conduct
 
 - [[siddhartha-gautama]] · [[zoroaster]] · [[mahavira]]
 
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
+
 <!-- footer -->
 
 ---

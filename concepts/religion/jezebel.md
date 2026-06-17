@@ -12,9 +12,11 @@ read: false
 # Jezebel
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[hebrew-bible]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -38,6 +40,12 @@ Jezebel was a wicked queen of Israel, wife of King Ahab, who opposed the prophet
 ## see also
 
 - [[fire-and-brimstone]] · [[sweat-of-your-brow]] · [[writing-on-the-wall]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

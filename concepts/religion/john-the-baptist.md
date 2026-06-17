@@ -12,9 +12,11 @@ read: false
 # John the Baptist
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[jesus]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -42,6 +44,12 @@ A Jewish preacher who baptized people as a sign of repentance and is best known 
 ## see also
 
 - [[jesus]] · [[peter]] · [[gospels]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

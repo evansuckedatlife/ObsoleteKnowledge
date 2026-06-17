@@ -12,9 +12,11 @@ read: false
 # Jewish death and burial
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[judaism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -42,6 +44,12 @@ Jewish death and burial practices reflect values of dignity, simplicity, and res
 ## see also
 
 - [[jewish-mourning]] · [[kaddish]] · [[jewish-marriage]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

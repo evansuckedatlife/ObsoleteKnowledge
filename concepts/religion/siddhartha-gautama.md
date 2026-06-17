@@ -12,9 +12,11 @@ read: false
 # Siddhartha Gautama
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[buddhism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -42,6 +44,12 @@ Siddhartha Gautama, known as *the Buddha* ("the Awakened One"), was the founder 
 ## see also
 
 - [[mahavira]] · [[confucius]] · [[zoroaster]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

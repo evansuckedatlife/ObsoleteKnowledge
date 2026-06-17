@@ -12,9 +12,11 @@ read: false
 # Brit milah
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[judaism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -43,6 +45,12 @@ Brit milah is the *circumcision ceremony* that welcomes a newborn Jewish boy int
 ## see also
 
 - [[jewish-baby-naming]] · [[bar-bat-mitzvah]] · [[jewish-marriage]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

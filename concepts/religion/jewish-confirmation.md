@@ -12,9 +12,11 @@ read: false
 # Jewish confirmation
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[judaism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -43,6 +45,12 @@ Jewish confirmation is a ceremony reaffirming religious commitment and Jewish id
 ## see also
 
 - [[bar-bat-mitzvah]] · [[jewish-marriage]] · [[shavuot]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

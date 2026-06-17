@@ -12,9 +12,11 @@ read: false
 # John Paul II
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[christianity]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -39,6 +41,12 @@ Reigning as pope from 1978 to 2005, **John Paul II** (born Karol Wojtyła) was t
 ## see also
 
 - [[leo-x]] · [[clement-vii]] · [[gregory-i]] · [[peter]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

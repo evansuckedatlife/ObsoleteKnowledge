@@ -12,9 +12,11 @@ read: false
 # Mary Baker Eddy
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[christianity]] · [[christian-science]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -42,6 +44,12 @@ Mary Baker Eddy (1821–1910) was the founding figure of *Christian Science*, a 
 ## see also
 
 - [[joseph-smith]] · [[bahaullah]] · [[jesus]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

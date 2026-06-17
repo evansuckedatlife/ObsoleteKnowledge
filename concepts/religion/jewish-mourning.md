@@ -12,9 +12,11 @@ read: false
 # Jewish mourning
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[judaism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -42,6 +44,12 @@ Jewish mourning is a structured system of rituals and practices honoring the dec
 ## see also
 
 - [[jewish-death]] · [[kaddish]] · [[judaism]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

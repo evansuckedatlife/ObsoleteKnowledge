@@ -12,9 +12,11 @@ read: false
 # ye of little faith
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[jesus]] · [[christianity]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -39,6 +41,12 @@ This phrase, spoken by Jesus to his followers, expresses disappointment or gentl
 ## see also
 
 - [[good-samaritan]] · [[pearls-before-swine]] · [[behemoth]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

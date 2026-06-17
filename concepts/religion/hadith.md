@@ -12,9 +12,11 @@ read: false
 # Hadith
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[islam]] · [[muhammad]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -40,6 +42,12 @@ The *Hadith* is a collection of reports documenting the sayings, deeds, and appr
 ## see also
 
 - [[quran]] · [[talmud]] · [[apocrypha]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

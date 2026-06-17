@@ -12,9 +12,11 @@ read: false
 # Second Temple
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[judaism]] · [[hebrew-bible]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -42,6 +44,12 @@ The Second Temple Period (c. 516 BCE–70 CE) refers to the era when a reconstru
 ## see also
 
 - [[temple-in-jerusalem]] · [[judaism]] · [[maccabean-revolt]] · [[hebrew-bible]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

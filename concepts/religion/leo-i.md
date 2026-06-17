@@ -12,9 +12,11 @@ read: false
 # Leo I
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[christianity]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -37,6 +39,12 @@ Reigning as pope from 440 to 461, **Leo I** was a key figure in establishing the
 ## see also
 
 - [[gregory-i]] · [[urban-ii]] · [[innocent-iii]] · [[boniface-viii]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

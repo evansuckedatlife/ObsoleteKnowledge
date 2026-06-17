@@ -12,9 +12,11 @@ read: false
 # Jewish baby naming
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[judaism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -42,6 +44,12 @@ Jewish baby naming refers to the ceremonies that formally welcome a newborn into
 ## see also
 
 - [[brit-milah]] · [[bar-bat-mitzvah]] · [[jewish-marriage]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

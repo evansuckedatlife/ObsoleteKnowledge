@@ -12,9 +12,11 @@ read: false
 # golden calf
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[exodus]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -39,6 +41,12 @@ The golden calf is an idol made by the Israelites while Moses was receiving the 
 ## see also
 
 - [[sweat-of-your-brow]] · [[fire-and-brimstone]] · [[land-of-milk-and-honey]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

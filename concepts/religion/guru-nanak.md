@@ -12,9 +12,11 @@ read: false
 # Guru Nanak
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[hinduism]] · [[islam]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -42,6 +44,12 @@ Guru Nanak (1469–1539) was the founding guru of *Sikhism*, a monotheistic reli
 ## see also
 
 - [[muhammad]] · [[siddhartha-gautama]] · [[confucius]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -12,9 +12,11 @@ read: false
 # Ketubah
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[judaism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -41,6 +43,12 @@ The Ketubah is a Jewish marriage contract signed before the wedding ceremony tha
 ## see also
 
 - [[jewish-marriage]] · [[judaism]] · [[hebrew]] · [[jewish-law]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -12,9 +12,11 @@ read: false
 # Judas Iscariot
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[jesus]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -42,6 +44,12 @@ One of the twelve apostles of Jesus who became notorious for *betraying Jesus to
 ## see also
 
 - [[peter]] · [[john-the-apostle]] · [[gospels]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

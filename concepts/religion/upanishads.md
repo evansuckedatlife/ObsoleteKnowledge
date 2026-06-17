@@ -12,9 +12,11 @@ read: false
 # Upanishads
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[hinduism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -41,6 +43,12 @@ The *Upanishads* are a collection of philosophical texts forming the foundation 
 ## see also
 
 - [[vedas]] · [[bhagavad-gita]] · [[tao-te-ching]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

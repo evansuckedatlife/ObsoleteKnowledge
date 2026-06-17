@@ -1,21 +1,27 @@
 ---
 type: event
 category: religion
-defines: [Exodus, The Exodus, Book of Exodus]
-related: ["[[moses]]", "[[pharaoh]]", "[[passover]]", "[[judaism]]", "[[torah]]", "[[golden-calf]]", "[[land-of-milk-and-honey]]"]
-requires: ["[[judaism]]"]
+defines:
+  - Exodus
+  - The Exodus
+  - Book of Exodus
+related:
+  - "[[moses]]"
+  - "[[pharaoh]]"
+  - "[[passover]]"
+  - "[[judaism]]"
+  - "[[torah]]"
+  - "[[golden-calf]]"
+  - "[[land-of-milk-and-honey]]"
+requires:
+  - "[[judaism]]"
 lists: []
 tour_order: 1
-read: false
+read: true
 ---
 
 # Exodus
 
-
-<!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[judaism]]
-<!-- /foundations -->
 
 ## summary
 
@@ -43,6 +49,12 @@ The Exodus is the founding myth-history of the Israelites, recounting their depa
 ## see also
 
 - [[moses]] · [[judaism]] · [[torah]] · [[passover]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

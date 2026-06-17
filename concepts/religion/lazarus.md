@@ -12,9 +12,11 @@ read: false
 # Lazarus
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[jesus]] · [[christianity]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -42,6 +44,12 @@ A friend of Jesus from the village of Bethany who died and was *raised from the 
 ## see also
 
 - [[jesus]] · [[mary-magdalene]] · [[crucifixion]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

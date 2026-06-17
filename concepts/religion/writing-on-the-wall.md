@@ -12,9 +12,11 @@ read: false
 # the writing on the wall
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[hebrew-bible]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -39,6 +41,12 @@ This phrase comes from *Daniel*, where mysterious writing appears on a palace wa
 ## see also
 
 - [[fire-and-brimstone]] · [[behemoth]] · [[good-samaritan]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

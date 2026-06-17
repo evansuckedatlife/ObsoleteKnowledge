@@ -12,9 +12,11 @@ read: false
 # Bhagavad Gita
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[hinduism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -42,6 +44,12 @@ The *Bhagavad Gita* is a 700-verse philosophical dialogue embedded within the ep
 ## see also
 
 - [[upanishads]] · [[vedas]] · [[tao-te-ching]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

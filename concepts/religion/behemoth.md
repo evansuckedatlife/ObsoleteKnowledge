@@ -1,21 +1,20 @@
 ---
 type: phrase
 category: religion
-defines: [Behemoth]
-related: ["[[book-of-job]]"]
-requires: ["[[hebrew-bible]]"]
-lists: ["[[biblical-sayings]]"]
+defines:
+  - Behemoth
+related:
+  - "[[book-of-job]]"
+requires:
+  - "[[hebrew-bible]]"
+lists:
+  - "[[biblical-sayings]]"
 tour_order: 2
-read: false
+read: true
 ---
 
 # Behemoth
 
-
-<!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[hebrew-bible]]
-<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +37,12 @@ Behemoth is an enormous, powerful creature described in the Book of Job as an ex
 ## see also
 
 - [[writing-on-the-wall]] · [[ye-of-little-faith]] · [[golden-calf]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

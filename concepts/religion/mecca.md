@@ -12,9 +12,11 @@ read: false
 # Mecca
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[islam]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -41,6 +43,12 @@ Mecca is the holiest city in Islam, located in western Saudi Arabia, and the bir
 ## see also
 
 - [[islam]] · [[hajj]] · [[muhammed]] · [[saudi-arabia]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

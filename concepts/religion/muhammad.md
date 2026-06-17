@@ -12,9 +12,11 @@ read: false
 # Muhammad
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[islam]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -45,6 +47,12 @@ Muhammad was the founding prophet of *Islam*, a religion that emerged in 7th-cen
 ## see also
 
 - [[abraham]] · [[jesus]] · [[guru-nanak]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

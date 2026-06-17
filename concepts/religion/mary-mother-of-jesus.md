@@ -12,9 +12,11 @@ read: false
 # Mary, Mother of Jesus
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[jesus]] · [[christianity]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -44,6 +46,12 @@ Mary is the mother of Jesus, revered in Christian tradition as the Virgin Mary b
 ## see also
 
 - [[jesus]] · [[virgin-mary]] · [[joseph]] · [[gospels]] · [[crucifixion]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

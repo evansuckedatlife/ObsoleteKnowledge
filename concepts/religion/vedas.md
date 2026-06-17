@@ -12,9 +12,11 @@ read: false
 # Vedas
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[hinduism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -60,6 +62,12 @@ The Vedas occupy a unique position in world religions: they are simultaneously t
 ## see also
 
 - [[upanishads]] · [[bhagavad-gita]] · [[tao-te-ching]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

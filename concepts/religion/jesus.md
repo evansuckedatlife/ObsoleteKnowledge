@@ -12,9 +12,11 @@ read: false
 # Jesus
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[judaism]] · [[roman-empire]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -58,6 +60,12 @@ No figure in Western history has generated more theological interpretation, arti
 ## see also
 
 - [[gospels]] · [[crucifixion]] · [[peter]] · [[paul]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -12,9 +12,11 @@ read: false
 # Apocrypha
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[hebrew-bible]] · [[judaism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -40,6 +42,12 @@ The *Apocrypha* is a collection of religious texts written between the Hebrew Bi
 ## see also
 
 - [[hebrew-bible]] · [[quran]] · [[talmud]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

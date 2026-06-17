@@ -12,9 +12,11 @@ read: false
 # Mahabharata
 
 
+
 <!-- foundations -->
-> [!note]+ Foundations — read these first
-> [[hinduism]]
+```dataviewjs
+dv.view("_dv/foundations")
+```
 <!-- /foundations -->
 
 ## summary
@@ -40,6 +42,12 @@ The Mahabharata is one of the two major Sanskrit epics of ancient India, the oth
 ## see also
 
 - [[ramayana]] · [[bhagavad-gita]] · [[vedas]] · [[upanishads]]
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 
