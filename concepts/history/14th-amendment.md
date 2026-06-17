@@ -4,11 +4,20 @@ category: history
 defines: [Fourteenth Amendment, "14th Amendment"]
 aliases: [fourteenth-amendment, "14th Amendment"]
 related: ["[[united-states-constitution]]", "[[reconstruction-era]]", "[[equal-protection]]", "[[due-process]]", "[[brown-v-board-of-education]]", "[[civil-rights-act-of-1964]]", "[[voting-rights-act-of-1965]]", "[[civil-rights-movement]]"]
+requires: ["[[united-states-constitution]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Fourteenth Amendment
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -54,6 +63,18 @@ The Fourteenth Amendment is arguably the most consequential constitutional amend
 ## see also
 
 - [[united-states-constitution]] · [[bill-of-rights]] · [[equal-protection]] · [[brown-v-board-of-education]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

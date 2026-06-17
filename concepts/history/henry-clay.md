@@ -3,7 +3,9 @@ type: person
 category: history
 defines: [Henry Clay]
 related: ["[[andrew-jackson]]", "[[daniel-webster]]", "[[john-c-calhoun]]", "[[missouri-compromise]]", "[[compromise-of-1850]]", "[[american-system]]", "[[war-of-1812]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +39,18 @@ read: false
 ## see also
 
 - [[andrew-jackson]] · [[daniel-webster]] · [[john-c-calhoun]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

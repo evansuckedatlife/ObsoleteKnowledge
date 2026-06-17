@@ -4,16 +4,22 @@ category: history
 defines:
   - "Youngstown Sheet & Tube Co. v. Sawyer"
   - "Steel Seizure Case"
-related:
-  - "[[korean-war]]"
-  - "[[harry-truman]]"
-  - "[[separation-of-powers]]"
+related: ["[[korean-war]]", "[[harry-truman]]", "[[separation-of-powers]]"]
+requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-2]]"
+tour_order: 1
 read: false
 ---
 
 # Youngstown Sheet & Tube Co. v. Sawyer
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ read: false
 ## see also
 
 - [[marbury-v-madison]] · [[united-states-v-nixon]] · [[bush-v-gore]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Battle of Thermopylae]
 related: ["[[leonidas]]", "[[xerxes]]", "[[persian-wars]]"]
+requires: []
 lists: ["[[battles-of-the-ancient-world]]"]
+tour_order: 0
 read: false
 aliases: [thermopylae]
 ---
@@ -35,6 +37,18 @@ The *Battle of Thermopylae* (480 BC) saw a small Greek coalition led by Spartan 
 ## see also
 
 - [[marathon]] · [[salamis]] · [[plataea]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

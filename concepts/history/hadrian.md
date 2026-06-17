@@ -2,8 +2,10 @@
 type: person
 category: history
 defines: [Hadrian, Publius Aelius Hadrianus Augustus]
-related: ["[[trajan]]", "[[antoninus-pius]]", "[[hadrians-wall]]", "[[antinous]]"]
+related: ["[[trajan]]", "[[antoninus-pius]]", "[[hadrians-wall]]", "[[antinous]]", "[[rome]]"]
+requires: []
 lists: ["[[roman-emperors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -29,6 +31,18 @@ Hadrian was a Roman emperor who ruled from AD 117 to 138, known as the third of 
 ## see also
 
 - [[trajan]] · [[marcus-aurelius]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

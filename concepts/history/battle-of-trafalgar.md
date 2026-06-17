@@ -3,13 +3,11 @@ type: event
 category: history
 defines:
   - Battle of Trafalgar
-related:
-  - "[[napoleon-bonaparte]]"
-  - "[[nelson-horatio]]"
-  - "[[british-navy]]"
-  - "[[spanish-armada]]"
+related: ["[[napoleon-bonaparte]]", "[[nelson-horatio]]", "[[british-navy]]", "[[spanish-armada]]", "[[england]]", "[[france]]"]
+requires: []
 lists:
   - "[[napoleonic-battles]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ The naval Battle of Trafalgar on October 21, 1805, off the coast of Spain, was f
 ## see also
 
 - [[battle-of-waterloo]] · [[battle-of-austerlitz]] · [[battle-of-borodino]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,8 +2,10 @@
 type: person
 category: history
 defines: [Augustus, Octavian, Gaius Octavius, Augustus Caesar]
-related: ["[[julius-caesar]]", "[[mark-antony]]", "[[tiberius]]", "[[battle-of-actium]]"]
+related: ["[[julius-caesar]]", "[[mark-antony]]", "[[tiberius]]", "[[battle-of-actium]]", "[[rome]]"]
+requires: []
 lists: ["[[roman-emperors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ Augustus was the first emperor of the Roman Empire, ruling from 27 BC until his 
 ## see also
 
 - [[tiberius]] · [[caligula]] · [[claudius]] · [[nero]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

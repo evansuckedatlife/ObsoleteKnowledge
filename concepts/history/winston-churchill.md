@@ -2,17 +2,22 @@
 type: person
 category: history
 defines: [Winston Churchill]
-related:
-  - "[[world-war-ii]]"
-  - "[[british-empire]]"
-  - "[[cold-war]]"
-  - "[[nazi-germany]]"
+related: ["[[world-war-ii]]", "[[british-empire]]", "[[cold-war]]", "[[nazi-germany]]"]
+requires: ["[[world-war-ii]]"]
 lists:
   - "[[british-prime-ministers]]"
+tour_order: 1
 read: false
 ---
 
 # Winston Churchill
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -37,6 +42,18 @@ read: false
 ## see also
 
 - [[clement-attlee]] · [[margaret-thatcher]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

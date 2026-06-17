@@ -2,12 +2,21 @@
 type: event
 category: history
 defines: [Battle of Kursk, Kursk Salient]
-related: ["[[operation-barbarossa]]", "[[soviet-union]]", "[[nazi-germany]]", "[[eastern-front]]", "[[world-war-ii]]"]
+related: ["[[operation-barbarossa]]", "[[soviet-union]]", "[[nazi-germany]]", "[[eastern-front]]", "[[world-war-ii]]", "[[germany]]"]
+requires: ["[[world-war-ii]]"]
 lists: ["[[world-war-ii-battles]]"]
+tour_order: 1
 read: false
 ---
 
 # Battle of Kursk
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -46,6 +55,18 @@ Kursk was the Eastern Front's climactic tank battle—the moment Germany's offen
 ## see also
 
 - [[battle-of-stalingrad]] · [[operation-barbarossa]] · [[battle-of-berlin]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

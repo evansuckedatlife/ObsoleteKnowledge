@@ -3,11 +3,20 @@ type: event
 category: history
 defines: ["FDR's First Inauguration", "Franklin Delano Roosevelt Inauguration 1933"]
 related: ["[[franklin-delano-roosevelt]]", "[[great-depression]]", "[[new-deal]]"]
+requires: ["[[great-depression]]"]
 lists: ["[[presidential-inaugurations]]"]
+tour_order: 1
 read: false
 ---
 
 # FDR's First Inauguration
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ read: false
 ## see also
 
 - [[theodore-roosevelt-inauguration]] · [[jfk-inauguration]] · [[reagan-inauguration]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

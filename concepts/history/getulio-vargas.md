@@ -3,11 +3,11 @@ type: person
 category: history
 defines:
   - "Getúlio Vargas"
-related:
-  - "[[juan-peron]]"
-  - "[[pedro-ii-of-brazil]]"
+related: ["[[juan-peron]]", "[[pedro-ii-of-brazil]]"]
+requires: []
 lists:
   - "[[south-american-political-leaders]]"
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +35,18 @@ read: false
 ## see also
 
 - [[juan-peron]] · [[salvador-allende]] · [[augusto-pinochet]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

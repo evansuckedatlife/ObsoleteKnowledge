@@ -2,12 +2,21 @@
 type: event
 category: history
 defines: [Battle of the Atlantic]
-related: ["[[world-war-ii]]", "[[naval-warfare]]", "[[united-kingdom]]", "[[nazi-germany]]", "[[united-states]]"]
+related: ["[[world-war-ii]]", "[[naval-warfare]]", "[[united-kingdom]]", "[[nazi-germany]]", "[[united-states]]", "[[england]]"]
+requires: ["[[world-war-ii]]"]
 lists: ["[[world-war-ii-battles]]"]
+tour_order: 1
 read: false
 ---
 
 # Battle of the Atlantic
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -51,6 +60,18 @@ The Battle of the Atlantic was World War II's longest continuous campaign and Br
 ## see also
 
 - [[world-war-ii]] · [[naval-warfare]] · [[enigma-machine]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

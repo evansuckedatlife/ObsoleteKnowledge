@@ -3,18 +3,22 @@ type: person
 category: history
 defines:
   - Henry Kissinger
-related:
-  - "[[richard-nixon]]"
-  - "[[detente]]"
-  - "[[vietnam-war]]"
-  - "[[opening-to-china]]"
-  - "[[realpolitik]]"
+related: ["[[richard-nixon]]", "[[detente]]", "[[vietnam-war]]", "[[opening-to-china]]", "[[realpolitik]]"]
+requires: ["[[cold-war]]"]
 lists:
   - "[[secretaries-of-state]]"
+tour_order: 1
 read: false
 ---
 
 # Henry Kissinger
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +43,18 @@ read: false
 ## see also
 
 - [[dean-acheson]] · [[madeleine-albright]] · [[george-marshall]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

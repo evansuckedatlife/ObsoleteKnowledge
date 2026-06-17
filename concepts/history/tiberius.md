@@ -2,8 +2,10 @@
 type: person
 category: history
 defines: [Tiberius, Tiberius Caesar Augustus, Tiberius Claudius Nero]
-related: ["[[augustus]]", "[[caligula]]", "[[sejanus]]", "[[jesus]]"]
+related: ["[[augustus]]", "[[caligula]]", "[[sejanus]]", "[[jesus]]", "[[rome]]"]
+requires: []
 lists: ["[[roman-emperors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ Tiberius was the second Roman emperor, ruling from AD 14 to 37. The stepson of A
 ## see also
 
 - [[augustus]] · [[caligula]] · [[claudius]] · [[nero]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

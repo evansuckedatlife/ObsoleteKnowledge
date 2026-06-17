@@ -3,12 +3,11 @@ type: person
 category: history
 defines:
   - Wiley Post
-related:
-  - "[[howard-hughes]]"
-  - "[[charles-lindbergh]]"
-  - "[[amelia-earhart]]"
+related: ["[[howard-hughes]]", "[[charles-lindbergh]]", "[[amelia-earhart]]"]
+requires: []
 lists:
   - "[[aviators]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[howard-hughes]] · [[amelia-earhart]] · [[charles-lindbergh]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

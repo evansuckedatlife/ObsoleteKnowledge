@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Al-Andalus, Islamic Spain, Muslim Iberia]
 related: ["[[islam]]", "[[umayyad-caliphate]]", "[[reconquista]]", "[[medieval-spain]]", "[[jewish-golden-age]]", "[[islamic-civilization]]", "[[arab-conquest]]", "[[isabella-and-ferdinand]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -69,6 +71,18 @@ Al-Andalus represents one of history's most significant and consequential civili
 ## see also
 
 - [[reconquista]] · [[medieval-spain]] · [[jewish-golden-age]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

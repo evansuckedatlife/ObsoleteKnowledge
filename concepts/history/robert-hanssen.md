@@ -3,12 +3,11 @@ type: person
 category: history
 defines:
   - Robert Hanssen
-related:
-  - "[[cold-war]]"
-  - "[[fbi]]"
-  - "[[soviet-intelligence]]"
+related: ["[[cold-war]]", "[[fbi]]", "[[soviet-intelligence]]"]
+requires: []
 lists:
   - "[[spies]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[aldrich-ames]] · [[kim-philby]] · [[the-cambridge-five]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

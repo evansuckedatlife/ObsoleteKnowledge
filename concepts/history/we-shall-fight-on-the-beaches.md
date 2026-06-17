@@ -2,12 +2,21 @@
 type: event
 category: history
 defines: ["We Shall Fight on the Beaches", Churchill's defiance speech]
-related: ["[[winston-churchill]]", "[[world-war-ii]]", "[[battle-of-britain]]"]
+related: ["[[winston-churchill]]", "[[world-war-ii]]", "[[battle-of-britain]]", "[[england]]"]
+requires: ["[[world-war-ii]]"]
 lists: ["[[modern-speeches]]"]
+tour_order: 1
 read: false
 ---
 
 # We Shall Fight on the Beaches
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ Winston Churchill's defiant address to Parliament on *June 4, 1940*, delivered a
 ## see also
 
 - [[i-have-a-dream]] · [[gettysburg-address]] · [[ich-bin-ein-berliner]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

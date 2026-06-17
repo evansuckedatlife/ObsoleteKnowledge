@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Election of 2000, "2000 US presidential election"]
 related: ["[[george-w-bush]]", "[[al-gore]]", "[[supreme-court]]", "[[florida-recount]]", "[[hanging-chads]]"]
+requires: []
 lists: ["[[elections]]"]
+tour_order: 0
 read: false
 ---
 
@@ -47,6 +49,18 @@ The 2000 election crystallized anxieties about the American electoral system's a
 ## see also
 
 - [[election-of-1968]] · [[election-of-1876]] · [[election-of-1824]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,13 +4,11 @@ category: history
 defines:
   - Francis I
   - François Ier
-related:
-  - "[[renaissance]]"
-  - "[[holy-roman-empire]]"
-  - "[[charles-v]]"
-  - "[[italian-wars]]"
+related: ["[[renaissance]]", "[[holy-roman-empire]]", "[[charles-v]]", "[[italian-wars]]", "[[france]]"]
+requires: []
 lists:
   - "[[kings-of-france]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[louis-xiv]] · [[charlemagne]] · [[louis-ix]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

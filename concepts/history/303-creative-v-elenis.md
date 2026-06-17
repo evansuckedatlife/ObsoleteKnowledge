@@ -2,16 +2,22 @@
 type: event
 category: history
 defines: ["303 Creative v. Elenis"]
-related:
-  - "[[masterpiece-cakeshop-v-colorado]]"
-  - "[[religious-freedom]]"
-  - "[[public-accommodation]]"
+related: ["[[masterpiece-cakeshop-v-colorado]]", "[[religious-freedom]]", "[[public-accommodation]]"]
+requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-involving-lgbt-rights]]"
+tour_order: 1
 read: false
 ---
 
 # 303 Creative v. Elenis
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[masterpiece-cakeshop-v-colorado]] · [[religious-freedom]] · [[obergefell-v-hodges]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: event
 category: history
 defines: [Princeton, Battle of Princeton]
 related: ["[[george-washington]]", "[[american-revolution]]", "[[british-army]]"]
+requires: ["[[american-revolution]]"]
 lists: ["[[revolutionary-war-battles]]"]
+tour_order: 1
 read: false
 ---
 
 # Princeton
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ On *January 3, 1777*, George Washington's Continental Army routed a British forc
 ## see also
 
 - [[battle-of-trenton]] · [[saratoga]] · [[morristown]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

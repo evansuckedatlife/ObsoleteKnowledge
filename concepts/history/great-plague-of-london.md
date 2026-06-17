@@ -5,12 +5,11 @@ defines:
   - Great Plague of London
   - Great Plague of 1665
   - London Plague
-related:
-  - "[[black-death]]"
-  - "[[plague-of-london-1603]]"
-  - "[[great-fire-of-london]]"
+related: ["[[black-death]]", "[[plague-of-london-1603]]", "[[great-fire-of-london]]", "[[england]]"]
+requires: []
 lists:
   - "[[plagues-and-pandemics]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +40,18 @@ The *Great Plague of London* was a major outbreak of bubonic plague in 1665–16
 ## see also
 
 - [[black-death]] · [[plague-of-justinian]] · [[third-plague-pandemic]] · [[spanish-flu]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

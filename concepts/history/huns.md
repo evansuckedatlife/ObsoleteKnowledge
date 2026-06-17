@@ -4,13 +4,11 @@ category: history
 defines:
   - Huns
   - Hunnic
-related:
-  - "[[attila]]"
-  - "[[roman-empire]]"
-  - "[[gothic]]"
-  - "[[central-asia]]"
+related: ["[[attila]]", "[[roman-empire]]", "[[gothic]]", "[[central-asia]]"]
+requires: []
 lists:
   - "[[peoples-of-the-early-middle-ages]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ The *Huns* were a nomadic people from Central Asia whose invasions under *Attila
 ## see also
 
 - [[attila]] · [[ostrogoths]] · [[visigoths]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

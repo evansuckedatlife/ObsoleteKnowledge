@@ -2,8 +2,10 @@
 type: person
 category: history
 defines: [Caligula, Gaius Caesar Augustus Germanicus, Gaius]
-related: ["[[tiberius]]", "[[claudius]]", "[[incitatus]]"]
+related: ["[[tiberius]]", "[[claudius]]", "[[incitatus]]", "[[rome]]"]
+requires: []
 lists: ["[[roman-emperors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Caligula was the third Roman emperor, ruling from AD 37 until his assassination 
 ## see also
 
 - [[augustus]] · [[tiberius]] · [[claudius]] · [[nero]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

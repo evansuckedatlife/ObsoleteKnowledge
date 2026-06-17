@@ -5,19 +5,21 @@ defines:
   - Nazi Germany
   - Nazi Regime
   - Third Reich
-related:
-  - "[[adolf-hitler]]"
-  - "[[world-war-ii]]"
-  - "[[holocaust]]"
-  - "[[weimar-republic]]"
-  - "[[soviet-union]]"
-  - "[[fascism]]"
-  - "[[the-blitzkrieg]]"
+related: ["[[adolf-hitler]]", "[[world-war-ii]]", "[[holocaust]]", "[[weimar-republic]]", "[[soviet-union]]", "[[fascism]]", "[[the-blitzkrieg]]"]
+requires: ["[[world-war-ii]]"]
 lists: []
+tour_order: 1
 read: true
 ---
 
 # Nazi Germany
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -77,6 +79,18 @@ Nazi Germany epitomizes totalitarianism, the marriage of modern technology and i
 ## see also
 
 - [[world-war-ii]] · [[holocaust]] · [[fascism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

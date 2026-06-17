@@ -2,12 +2,21 @@
 type: person
 category: history
 defines: [Douglas MacArthur]
-related: ["[[world-war-ii]]", "[[korean-war]]", "[[harry-s-truman]]", "[[imperial-japan]]", "[[philippines]]", "[[atomic-bomb]]"]
+related: ["[[world-war-ii]]", "[[korean-war]]", "[[harry-s-truman]]", "[[imperial-japan]]", "[[philippines]]", "[[atomic-bomb]]", "[[japan]]"]
+requires: ["[[world-war-ii]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Douglas MacArthur
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -37,6 +46,18 @@ read: false
 ## see also
 
 - [[harry-s-truman]] · [[imperial-japan]] · [[korean-war]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

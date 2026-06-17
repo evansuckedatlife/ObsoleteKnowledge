@@ -3,11 +3,20 @@ type: event
 category: history
 defines: [Long Island, Battle of Long Island]
 related: ["[[george-washington]]", "[[william-howe]]", "[[new-york-city]]"]
+requires: ["[[american-revolution]]"]
 lists: ["[[revolutionary-war-battles]]"]
+tour_order: 1
 read: false
 ---
 
 # Long Island
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ On *August 27, 1776*, the first major engagement of the Revolutionary War saw Br
 ## see also
 
 - [[battle-of-trenton]] · [[saratoga]] · [[bunker-hill]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: person
 category: history
 defines: ["Woodrow Wilson"]
 related: ["[[theodore-roosevelt]]", "[[world-war-i]]", "[[league-of-nations]]", "[[treaty-of-versailles]]", "[[american-neutrality]]", "[[progressive-movement]]"]
+requires: ["[[world-war-i]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Woodrow Wilson
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[theodore-roosevelt]] · [[league-of-nations]] · [[treaty-of-versailles]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -5,10 +5,11 @@ defines:
   - "Eva Perón"
   - "Evita"
   - "María Eva Ibarguren"
-related:
-  - "[[juan-peron]]"
+related: ["[[juan-peron]]"]
+requires: []
 lists:
   - "[[south-american-political-leaders]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +37,18 @@ read: false
 ## see also
 
 - [[juan-peron]] · [[salvador-allende]] · [[hugo-chavez]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

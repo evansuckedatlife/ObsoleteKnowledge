@@ -2,8 +2,10 @@
 type: event
 category: history
 defines: [Qing Dynasty]
-related: ["[[ming-dynasty]]", "[[manchu-people]]", "[[kangxi-emperor]]", "[[opium-wars]]", "[[mandate-of-heaven]]"]
+related: ["[[ming-dynasty]]", "[[manchu-people]]", "[[kangxi-emperor]]", "[[opium-wars]]", "[[mandate-of-heaven]]", "[[china]]"]
+requires: []
 lists: ["[[chinese-dynasties]]"]
+tour_order: 0
 read: false
 ---
 
@@ -77,6 +79,18 @@ The Qing Dynasty embodied a fundamental paradox: successful cultural conquest (t
 ## see also
 
 - [[ming-dynasty]] · [[yuan-dynasty]] · [[song-dynasty]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

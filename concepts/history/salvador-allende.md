@@ -4,12 +4,11 @@ category: history
 defines:
   - "Salvador Allende"
   - "Salvador Gossens Allende"
-related:
-  - "[[augusto-pinochet]]"
-  - "[[juan-peron]]"
-  - "[[hugo-chavez]]"
+related: ["[[augusto-pinochet]]", "[[juan-peron]]", "[[hugo-chavez]]"]
+requires: []
 lists:
   - "[[south-american-political-leaders]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[augusto-pinochet]] · [[juan-peron]] · [[hugo-chavez]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

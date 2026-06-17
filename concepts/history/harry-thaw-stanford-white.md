@@ -2,13 +2,11 @@
 type: event
 category: history
 defines: [Harry Thaw murder, Thaw-White case]
-related:
-  - "[[harry-thaw]]"
-  - "[[stanford-white]]"
-  - "[[evelyn-nesbit]]"
-  - "[[gilded-age-scandal]]"
+related: ["[[harry-thaw]]", "[[stanford-white]]", "[[evelyn-nesbit]]", "[[gilded-age-scandal]]"]
+requires: []
 lists:
   - "[[american-murders-and-murderers]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ In June 1906, wealthy rail heir *Harry Thaw* shot and killed renowned architect 
 ## see also
 
 - [[lizzie-borden]] · [[hall-mills-case]] · [[sam-sheppard-case]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

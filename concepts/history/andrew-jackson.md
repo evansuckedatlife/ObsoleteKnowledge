@@ -3,7 +3,9 @@ type: person
 category: history
 defines: [Andrew Jackson]
 related: ["[[jacksonian-democracy]]", "[[indian-removal-act]]", "[[trail-of-tears]]", "[[nullification-crisis]]", "[[second-bank-of-the-united-states]]", "[[spoils-system]]", "[[election-of-1824]]", "[[corrupt-bargain]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +39,18 @@ Andrew Jackson (1767–1845) was the 7th President of the United States and the 
 ## see also
 
 - [[john-quincy-adams]] · [[henry-clay]] · [[martin-van-buren]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

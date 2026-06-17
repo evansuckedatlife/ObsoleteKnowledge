@@ -3,12 +3,11 @@ type: event
 category: history
 defines:
   - Battle of Tarawa
-related:
-  - "[[battle-of-guadalcanal]]"
-  - "[[united-states-marine-corps]]"
-  - "[[gilbert-islands]]"
+related: ["[[battle-of-guadalcanal]]", "[[united-states-marine-corps]]", "[[gilbert-islands]]"]
+requires: []
 lists:
   - "[[world-war-ii-pacific-campaigns]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ Fought November 20–23, 1943, the Battle of Tarawa was the first major amphibio
 ## see also
 
 - [[battle-of-guadalcanal]] · [[battle-of-saipan]] · [[battle-of-iwo-jima]] · [[battle-of-okinawa]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,16 +2,22 @@
 type: event
 category: history
 defines: ["Hollingsworth v. Perry"]
-related:
-  - "[[proposition-8]]"
-  - "[[obergefell-v-hodges]]"
-  - "[[standing-doctrine]]"
+related: ["[[proposition-8]]", "[[obergefell-v-hodges]]", "[[standing-doctrine]]"]
+requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-involving-lgbt-rights]]"
+tour_order: 1
 read: false
 ---
 
 # Hollingsworth v. Perry
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[obergefell-v-hodges]] · [[proposition-8]] · [[standing-doctrine]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

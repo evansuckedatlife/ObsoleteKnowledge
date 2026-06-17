@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["Ich bin ein Berliner", JFK's Berlin speech]
 related: ["[[john-f-kennedy]]", "[[cold-war]]", "[[berlin-wall]]"]
+requires: []
 lists: ["[[modern-speeches]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ President John F. Kennedy's speech delivered in West Berlin on *June 26, 1963*, 
 ## see also
 
 - [[i-have-a-dream]] · [[tear-down-this-wall]] · [[we-shall-fight-on-the-beaches]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

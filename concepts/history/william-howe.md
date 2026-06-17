@@ -3,11 +3,20 @@ type: person
 category: history
 defines: ["William Howe"]
 related: ["[[george-washington]]", "[[charles-cornwallis]]", "[[american-revolution]]", "[[new-york-campaign]]", "[[philadelphia-campaign]]"]
+requires: ["[[american-revolution]]"]
 lists: ["[[revolutionary-war-generals]]"]
+tour_order: 1
 read: false
 ---
 
 # William Howe
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[george-washington]] · [[charles-cornwallis]] · [[nathanael-greene]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

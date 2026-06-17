@@ -3,11 +3,20 @@ type: person
 category: history
 defines: [Alexander Hamilton]
 related: ["[[george-washington]]", "[[thomas-jefferson]]", "[[aaron-burr]]", "[[federalist-papers]]", "[[american-revolution]]", "[[u-s-constitution]]", "[[duel-of-hamilton-and-burr]]"]
+requires: ["[[american-revolution]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Alexander Hamilton
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -37,6 +46,18 @@ read: false
 ## see also
 
 - [[george-washington]] · [[thomas-jefferson]] · [[aaron-burr]] · [[james-madison]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

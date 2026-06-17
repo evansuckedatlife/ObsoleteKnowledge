@@ -3,12 +3,11 @@ type: event
 category: history
 defines:
   - Battle of Leyte Gulf
-related:
-  - "[[battle-of-midway]]"
-  - "[[douglas-macarthur]]"
-  - "[[philippines]]"
+related: ["[[battle-of-midway]]", "[[douglas-macarthur]]", "[[philippines]]", "[[japan]]"]
+requires: []
 lists:
   - "[[world-war-ii-pacific-campaigns]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ Fought October 23–26, 1944 in the waters around the Philippine island of Leyte
 ## see also
 
 - [[battle-of-midway]] · [[battle-of-guadalcanal]] · [[battle-of-iwo-jima]] · [[battle-of-okinawa]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

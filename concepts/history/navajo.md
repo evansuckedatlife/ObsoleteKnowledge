@@ -9,6 +9,7 @@ related:
   - "[[long-walk]]"
 lists:
   - "[[native-american-peoples]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +37,18 @@ The *Navajo* (Diné, meaning "the People") are the largest federally recognized 
 ## see also
 
 - [[cherokee]] · [[iroquois]] · [[pueblo]] · [[apache]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

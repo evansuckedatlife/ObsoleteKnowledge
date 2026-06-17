@@ -3,11 +3,20 @@ type: event
 category: history
 defines: [Bunker Hill, Battle of Bunker Hill]
 related: ["[[american-revolution]]", "[[william-howe]]", "[[israel-putnam]]"]
+requires: ["[[american-revolution]]"]
 lists: ["[[revolutionary-war-battles]]"]
+tour_order: 1
 read: false
 ---
 
 # Bunker Hill
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ On *June 17, 1775*, American militia fortified *Breed's Hill* (near Bunker Hill)
 ## see also
 
 - [[lexington-and-concord]] · [[saratoga]] · [[yorktown]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

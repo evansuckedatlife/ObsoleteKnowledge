@@ -3,14 +3,11 @@ type: person
 category: history
 defines:
   - Dean Acheson
-related:
-  - "[[harry-s-truman]]"
-  - "[[cold-war]]"
-  - "[[nato-expansion]]"
-  - "[[korean-war]]"
-  - "[[domino-theory]]"
+related: ["[[harry-s-truman]]", "[[cold-war]]", "[[nato-expansion]]", "[[korean-war]]", "[[domino-theory]]"]
+requires: []
 lists:
   - "[[secretaries-of-state]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +36,18 @@ read: false
 ## see also
 
 - [[george-marshall]] · [[henry-kissinger]] · [[cordell-hull]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

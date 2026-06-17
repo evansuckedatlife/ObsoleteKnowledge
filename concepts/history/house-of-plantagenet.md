@@ -2,14 +2,11 @@
 type: concept
 category: history
 defines: ["House of Plantagenet", "Plantagenet Dynasty"]
-related:
-  - "[[king-henry-iii]]"
-  - "[[king-edward-i]]"
-  - "[[king-richard-the-lionheart]]"
-  - "[[king-john]]"
-  - "[[wars-of-roses]]"
+related: ["[[king-henry-iii]]", "[[king-edward-i]]", "[[king-richard-the-lionheart]]", "[[king-john]]", "[[wars-of-roses]]", "[[england]]"]
+requires: []
 lists:
   - "[[european-royal-families]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +38,18 @@ The **House of Plantagenet** ruled England from 1154 to 1485, the longest-reigni
 ## see also
 
 - [[house-of-tudor]] · [[house-of-stuart]] · [[house-of-valois]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

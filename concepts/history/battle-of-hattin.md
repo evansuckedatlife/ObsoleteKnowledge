@@ -4,18 +4,22 @@ category: history
 defines:
   - Battle of Hattin
   - Hattin
-related:
-  - "[[saladin]]"
-  - "[[crusades]]"
-  - "[[kingdom-of-jerusalem]]"
-  - "[[richard-the-lionheart]]"
-  - "[[islamic-restoration]]"
+related: ["[[saladin]]", "[[crusades]]", "[[kingdom-of-jerusalem]]", "[[richard-the-lionheart]]", "[[islamic-restoration]]", "[[islam]]"]
+requires: ["[[crusades]]"]
 lists:
   - "[[medieval-battles]]"
+tour_order: 1
 read: false
 ---
 
 # Battle of Hattin
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -41,6 +45,18 @@ The *Battle of Hattin* was fought on 4 July 1187 in the Levant, where *Saladin*'
 ## see also
 
 - [[battle-of-tours]] · [[battle-of-manzikert]] · [[siege-of-acre]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

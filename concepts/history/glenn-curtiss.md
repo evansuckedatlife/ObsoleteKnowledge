@@ -4,11 +4,11 @@ category: history
 defines:
   - Glenn Curtiss
   - Glenn Hammond Curtiss
-related:
-  - "[[wright-brothers]]"
-  - "[[charles-lindbergh]]"
+related: ["[[wright-brothers]]", "[[charles-lindbergh]]"]
+requires: []
 lists:
   - "[[aviators]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +36,18 @@ read: false
 ## see also
 
 - [[wright-brothers]] · [[charles-lindbergh]] · [[jimmy-doolittle]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

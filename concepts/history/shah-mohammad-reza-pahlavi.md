@@ -3,7 +3,9 @@ type: person
 category: history
 defines: ["Mohammad Reza Pahlavi", "The Shah", "Shah Mohammad Reza Pahlavi"]
 related: ["[[iran]]", "[[ayatollah-khomeini]]", "[[islamic-revolution]]", "[[white-revolution]]"]
+requires: []
 lists: ["[[20th-century-middle-eastern-leaders]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[ayatollah-khomeini]] · [[anwar-sadat]] · [[saddam-hussein]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

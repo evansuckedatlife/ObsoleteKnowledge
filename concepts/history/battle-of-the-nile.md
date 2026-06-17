@@ -4,13 +4,11 @@ category: history
 defines:
   - Battle of the Nile
   - Battle of Aboukir Bay
-related:
-  - "[[napoleon-bonaparte]]"
-  - "[[nelson-horatio]]"
-  - "[[british-navy]]"
-  - "[[egyptian-campaign]]"
+related: ["[[napoleon-bonaparte]]", "[[nelson-horatio]]", "[[british-navy]]", "[[egyptian-campaign]]", "[[egypt]]"]
+requires: []
 lists:
   - "[[napoleonic-battles]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ The Battle of the Nile (also called the Battle of Aboukir Bay) on August 1, 1798
 ## see also
 
 - [[battle-of-trafalgar]] · [[battle-of-austerlitz]] · [[battle-of-waterloo]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

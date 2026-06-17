@@ -3,11 +3,20 @@ type: person
 category: history
 defines: [John Lewis, John Robert Lewis]
 related: ["[[united-states-house]]", "[[sit-in-movement]]", "[[selma-montgomery-march]]", "[[civil-rights-movement]]"]
+requires: ["[[civil-rights-movement]]"]
 lists: ["[[african-american-civil-rights-leaders]]", "[[black-american-legislators]]"]
+tour_order: 1
 read: false
 ---
 
 # John Lewis
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[charles-rangel]] · [[barbara-jordan]] · [[shirley-chisholm]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

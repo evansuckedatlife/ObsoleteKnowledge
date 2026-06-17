@@ -4,16 +4,22 @@ category: history
 defines:
   - "Dred Scott v. Sandford"
   - Dred Scott decision
-related:
-  - "[[slavery]]"
-  - "[[missouri-compromise]]"
-  - "[[secession]]"
+related: ["[[slavery]]", "[[missouri-compromise]]", "[[secession]]"]
+requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-concerned-with-african-americans]]"
+tour_order: 1
 read: false
 ---
 
 # Dred Scott v. Sandford
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ read: false
 ## see also
 
 - [[plessy-v-ferguson]] · [[brown-v-board-of-education]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

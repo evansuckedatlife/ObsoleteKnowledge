@@ -5,12 +5,11 @@ defines:
   - Antonine Plague
   - Plague of Galen
   - Antonine Plague of Smallpox
-related:
-  - "[[roman-empire]]"
-  - "[[marcus-aurelius]]"
-  - "[[plague-of-justinian]]"
+related: ["[[roman-empire]]", "[[marcus-aurelius]]", "[[plague-of-justinian]]"]
+requires: []
 lists:
   - "[[plagues-and-pandemics]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +40,18 @@ The *Antonine Plague* was a pandemic that ravaged the Roman Empire between 165 a
 ## see also
 
 - [[plague-of-justinian]] · [[black-death]] · [[smallpox-in-the-americas]] · [[third-plague-pandemic]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

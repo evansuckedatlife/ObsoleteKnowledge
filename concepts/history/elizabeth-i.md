@@ -2,8 +2,10 @@
 type: person
 category: history
 defines: [Elizabeth I, the Virgin Queen, Gloriana, Good Queen Bess]
-related: ["[[henry-viii]]", "[[mary-queen-of-scots]]", "[[spanish-armada]]", "[[house-of-tudor]]"]
+related: ["[[henry-viii]]", "[[mary-queen-of-scots]]", "[[spanish-armada]]", "[[house-of-tudor]]", "[[england]]"]
+requires: []
 lists: ["[[british-monarchs]]"]
+tour_order: 0
 read: false
 ---
 
@@ -29,6 +31,18 @@ Elizabeth I was Queen of England and Ireland from 1558 to 1603, the last Tudor m
 ## see also
 
 - [[henry-viii]] · [[james-i]] · [[charles-i]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

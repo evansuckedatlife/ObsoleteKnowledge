@@ -3,11 +3,20 @@ type: person
 category: history
 defines: ["Ulysses S. Grant", "Grant"]
 related: ["[[american-civil-war]]", "[[robert-e-lee]]", "[[abraham-lincoln]]", "[[reconstruction-era]]", "[[battle-of-appomattox]]"]
+requires: ["[[american-civil-war]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Ulysses S. Grant
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ read: false
 ## see also
 
 - [[robert-e-lee]] · [[abraham-lincoln]] · [[american-civil-war]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,8 +2,10 @@
 type: person
 category: history
 defines: [Constantine the Great, Constantine I, Flavius Valerius Constantinus]
-related: ["[[diocletian]]", "[[battle-of-the-milvian-bridge]]", "[[edict-of-milan]]", "[[council-of-nicaea]]"]
+related: ["[[diocletian]]", "[[battle-of-the-milvian-bridge]]", "[[edict-of-milan]]", "[[council-of-nicaea]]", "[[christianity]]", "[[rome]]"]
+requires: []
 lists: ["[[roman-emperors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Constantine the Great was a Roman emperor who ruled from AD 306 to 337. He emerg
 ## see also
 
 - [[diocletian]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

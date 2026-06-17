@@ -3,12 +3,11 @@ type: event
 category: history
 defines:
   - Battle of Marengo
-related:
-  - "[[napoleon-bonaparte]]"
-  - "[[austria-hungary]]"
-  - "[[italian-campaigns]]"
+related: ["[[napoleon-bonaparte]]", "[[austria-hungary]]", "[[italian-campaigns]]", "[[france]]"]
+requires: []
 lists:
   - "[[napoleonic-battles]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ The Battle of Marengo on June 14, 1800, was one of Napoleon's most celebrated ea
 ## see also
 
 - [[battle-of-austerlitz]] · [[battle-of-jena-auerstedt]] · [[battle-of-wagram]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: concept
 category: history
 defines: ["Women's Social and Political Union", "WSPU", "Suffragettes"]
 related: ["[[emmeline-pankhurst]]", "[[elizabeth-cady-stanton]]", "[[susan-b-anthony]]", "[[chartism]]", "[[british-abolitionism]]"]
+requires: []
 lists: ["[[british-reform-movements]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The **Women's Social and Political Union** (WSPU), founded by *Emmeline Pankhurs
 ## see also
 
 - [[emmeline-pankhurst]] · [[elizabeth-cady-stanton]] · [[susan-b-anthony]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["Sand Creek", "Sand Creek Massacre"]
 related: ["[[cheyenne]]", "[[arapaho]]", "[[colorado-territory]]", "[[indian-wars]]", "[[john-m-chivington]]"]
+requires: []
 lists: ["[[massacres]]"]
+tour_order: 0
 read: false
 ---
 
@@ -55,6 +57,18 @@ Sand Creek was not a random act but part of a systematic campaign to clear the G
 ## see also
 
 - [[wounded-knee]] · [[boston-massacre]] · [[st-bartholomews-day-massacre]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

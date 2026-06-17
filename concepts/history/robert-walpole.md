@@ -2,12 +2,11 @@
 type: person
 category: history
 defines: [Robert Walpole, 1st Earl of Orford]
-related:
-  - "[[george-i]]"
-  - "[[whig-party]]"
-  - "[[british-parliament]]"
+related: ["[[george-i]]", "[[whig-party]]", "[[british-parliament]]", "[[england]]"]
+requires: []
 lists:
   - "[[british-prime-ministers]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +35,18 @@ read: false
 ## see also
 
 - [[william-pitt-the-younger]] · [[robert-peel]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

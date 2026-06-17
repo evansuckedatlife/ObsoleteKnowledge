@@ -4,12 +4,11 @@ category: history
 defines:
   - Almoravid Dynasty
   - Almoravids
-related:
-  - "[[almohad-caliphate]]"
-  - "[[al-andalus]]"
-  - "[[umayyad-caliphate]]"
+related: ["[[almohad-caliphate]]", "[[al-andalus]]", "[[umayyad-caliphate]]"]
+requires: []
 lists:
   - "[[medieval-islamic-dynasties]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ The *Almoravid Dynasty* (1056–1147 CE) was a Berber military movement that eme
 ## see also
 
 - [[almohad-caliphate]] · [[al-andalus]] · [[ayyubid-dynasty]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

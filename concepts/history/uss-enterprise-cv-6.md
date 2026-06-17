@@ -5,17 +5,22 @@ defines:
   - USS Enterprise
   - USS Enterprise (CV-6)
   - Big E
-related:
-  - "[[aircraft-carrier]]"
-  - "[[world-war-ii]]"
-  - "[[pearl-harbor]]"
-  - "[[battle-of-midway]]"
+related: ["[[aircraft-carrier]]", "[[world-war-ii]]", "[[pearl-harbor]]", "[[battle-of-midway]]"]
+requires: ["[[world-war-ii]]"]
 lists:
   - "[[american-warships]]"
+tour_order: 1
 read: false
 ---
 
 # USS Enterprise (CV-6)
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +45,18 @@ read: false
 ## see also
 
 - [[uss-arizona]] · [[uss-missouri]] · [[uss-nautilus]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

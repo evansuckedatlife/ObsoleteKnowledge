@@ -6,12 +6,11 @@ defines:
   - Haile Selassie I
   - Ras Tafari Makonnen
   - Tafari Makonnen
-related:
-  - "[[ethiopia]]"
-  - "[[league-of-nations]]"
-  - "[[rastafarianism]]"
+related: ["[[ethiopia]]", "[[league-of-nations]]", "[[rastafarianism]]"]
+requires: []
 lists:
   - "[[20th-century-african-leaders]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +40,18 @@ read: false
 ## see also
 
 - [[kwame-nkrumah]] · [[julius-nyerere]] · [[gamal-abdel-nasser]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

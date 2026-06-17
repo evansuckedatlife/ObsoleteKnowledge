@@ -4,12 +4,14 @@ category: geography
 defines:
   - Congo River
   - Congo
-related: ["[[nile-river]]", "[[lake-tanganyika]]"]
+related:
+  - "[[nile-river]]"
+  - "[[lake-tanganyika]]"
 requires: []
 lists:
   - "[[african-bodies-of-water]]"
 tour_order: 0
-read: false
+read: true
 ---
 
 # Congo River

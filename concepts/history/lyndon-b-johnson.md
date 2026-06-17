@@ -3,7 +3,9 @@ type: person
 category: history
 defines: ["Lyndon B. Johnson", "LBJ"]
 related: ["[[john-f-kennedy]]", "[[great-society]]", "[[civil-rights-act-of-1964]]", "[[voting-rights-act]]", "[[vietnam-war]]", "[[martin-luther-king-jr]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[john-f-kennedy]] · [[martin-luther-king-jr]] · [[vietnam-war]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

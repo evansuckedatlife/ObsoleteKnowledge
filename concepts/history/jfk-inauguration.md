@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["JFK's Inauguration", "John F. Kennedy Inauguration 1961"]
 related: ["[[john-f-kennedy]]", "[[cold-war]]", "[[berlin-wall]]"]
+requires: []
 lists: ["[[presidential-inaugurations]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[fdr-first-inauguration]] · [[reagan-inauguration]] · [[obama-first-inauguration]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

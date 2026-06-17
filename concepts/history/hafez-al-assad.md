@@ -3,7 +3,9 @@ type: person
 category: history
 defines: ["Hafez al-Assad", "Hafez al-Asad", "Hafez Assad"]
 related: ["[[syria]]", "[[baath-party]]", "[[arab-israeli-conflict]]", "[[lebanese-civil-war]]", "[[saddam-hussein]]"]
+requires: []
 lists: ["[[20th-century-middle-eastern-leaders]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[saddam-hussein]] · [[ayatollah-khomeini]] · [[anwar-sadat]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

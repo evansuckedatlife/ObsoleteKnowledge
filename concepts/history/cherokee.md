@@ -4,12 +4,11 @@ category: history
 defines:
   - Cherokee
   - Cherokee Nation
-related:
-  - "[[native-american-peoples]]"
-  - "[[trail-of-tears]]"
-  - "[[andrew-jackson]]"
+related: ["[[native-american-peoples]]", "[[trail-of-tears]]", "[[andrew-jackson]]"]
+requires: []
 lists:
   - "[[native-american-peoples]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ The *Cherokee* are one of the largest Native American nations, originally occupy
 ## see also
 
 - [[lakota-sioux]] · [[navajo]] · [[iroquois]] · [[apache]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

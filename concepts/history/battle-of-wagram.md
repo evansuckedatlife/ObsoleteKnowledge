@@ -3,12 +3,11 @@ type: event
 category: history
 defines:
   - Battle of Wagram
-related:
-  - "[[napoleon-bonaparte]]"
-  - "[[austria-hungary]]"
-  - "[[archduke-charles-of-austria]]"
+related: ["[[napoleon-bonaparte]]", "[[austria-hungary]]", "[[archduke-charles-of-austria]]", "[[france]]"]
+requires: []
 lists:
   - "[[napoleonic-battles]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ The Battle of Wagram on July 5–6, 1809, was Napoleon's hard-fought victory ove
 ## see also
 
 - [[battle-of-waterloo]] · [[battle-of-austerlitz]] · [[battle-of-jena-auerstedt]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

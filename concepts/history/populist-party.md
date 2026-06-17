@@ -4,12 +4,11 @@ category: history
 defines:
   - Populist Party
   - People's Party
-related:
-  - "[[william-jennings-bryan]]"
-  - "[[american-third-parties]]"
-  - "[[1896-u-s-presidential-election]]"
+related: ["[[william-jennings-bryan]]", "[[american-third-parties]]", "[[1896-u-s-presidential-election]]"]
+requires: []
 lists:
   - "[[american-third-parties]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ The Populist Party, also known as the People's Party, emerged in the 1890s as a 
 ## see also
 
 - [[bull-moose-party]] · [[progressive-era]] · [[1892-u-s-presidential-election]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

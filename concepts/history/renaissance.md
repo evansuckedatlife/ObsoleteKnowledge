@@ -2,8 +2,10 @@
 type: event
 category: history
 defines: ["Renaissance"]
-related: ["[[leonardo-da-vinci]]", "[[michelangelo]]", "[[dante-alighieri]]", "[[petrarch]]", "[[humanisme]]", "[[medici-family]]", "[[florence]]"]
+related: ["[[leonardo-da-vinci]]", "[[michelangelo]]", "[[dante-alighieri]]", "[[petrarch]]", "[[humanisme]]", "[[medici-family]]", "[[florence]]", "[[italian-renaissance]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -59,6 +61,18 @@ The Renaissance was the cultural bridge between the medieval and modern worlds. 
 ## see also
 
 - [[leonardo-da-vinci]] · [[michelangelo]] · [[dante-alighieri]] · [[petrarch]] · [[medici-family]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,11 +4,11 @@ category: history
 defines:
   - Cheyenne
   - Tsitsistas
-related:
-  - "[[native-american-peoples]]"
-  - "[[little-bighorn]]"
+related: ["[[native-american-peoples]]", "[[little-bighorn]]"]
+requires: []
 lists:
   - "[[native-american-peoples]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +36,18 @@ The *Cheyenne* (Tsitsistas, meaning "the People") are a Great Plains and Mountai
 ## see also
 
 - [[lakota-sioux]] · [[comanche]] · [[apache]] · [[iroquois]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

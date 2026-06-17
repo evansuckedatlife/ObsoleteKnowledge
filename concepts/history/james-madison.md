@@ -3,11 +3,20 @@ type: person
 category: history
 defines: [James Madison]
 related: ["[[united-states-constitution]]", "[[bill-of-rights]]", "[[federalist-papers]]", "[[war-of-1812]]", "[[virginia-plan]]", "[[marbury-v-madison]]", "[[louisiana-purchase]]", "[[separation-of-church-and-state]]"]
+requires: ["[[american-revolution]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # James Madison
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +47,18 @@ James Madison (1751–1836) was the fourth President of the United States and th
 ## see also
 
 - [[thomas-jefferson]] · [[james-monroe]] · [[george-washington]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

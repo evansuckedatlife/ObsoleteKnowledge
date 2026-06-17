@@ -3,13 +3,11 @@ type: place
 category: history
 defines:
   - USS Maine
-related:
-  - "[[spanish-american-war]]"
-  - "[[cuba]]"
-  - "[[battleship-era]]"
-  - "[[remember-the-maine]]"
+related: ["[[spanish-american-war]]", "[[cuba]]", "[[battleship-era]]", "[[remember-the-maine]]"]
+requires: []
 lists:
   - "[[american-warships]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[uss-constitution]] · [[uss-monitor]] · [[spanish-american-war]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

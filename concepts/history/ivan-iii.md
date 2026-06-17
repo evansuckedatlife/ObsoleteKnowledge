@@ -3,7 +3,9 @@ type: person
 category: history
 defines: ["Ivan III", "Ivan the Great"]
 related: ["[[moscow-principality]]", "[[ivan-iv]]", "[[ottoman-empire]]", "[[moscow-kremlin]]", "[[golden-horde]]"]
+requires: []
 lists: ["[[russian-tsars]]"]
+tour_order: 0
 read: false
 ---
 
@@ -54,6 +56,18 @@ Ivan III deserves ranking with *Peter the Great* and *Catherine the Great* as a 
 ## see also
 
 - [[ivan-iv]] · [[peter-i]] · [[catherine-ii]] · [[alexander-i]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

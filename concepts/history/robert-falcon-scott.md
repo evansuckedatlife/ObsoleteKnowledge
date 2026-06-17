@@ -2,8 +2,10 @@
 type: person
 category: history
 defines: [Robert Falcon Scott]
-related: ["[[antarctic-exploration]]", "[[roald-amundsen]]", "[[south-pole]]", "[[world-war-i]]"]
+related: ["[[antarctic-exploration]]", "[[roald-amundsen]]", "[[south-pole]]", "[[world-war-i]]", "[[antarctica]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +37,18 @@ read: false
 ## see also
 
 - [[roald-amundsen]] · [[antarctic-exploration]] · [[terra-nova-expedition]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

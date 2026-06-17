@@ -4,13 +4,11 @@ category: history
 defines:
   - Olympia
   - Olympic
-related:
-  - "[[zeus]]"
-  - "[[olympic-games]]"
-  - "[[phidias]]"
-  - "[[pausanias]]"
+related: ["[[zeus]]", "[[olympic-games]]", "[[phidias]]", "[[pausanias]]", "[[ancient-greece]]"]
+requires: []
 lists:
   - "[[ancient-greek-places]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[delphi]] · [[athens]] · [[sparta]] · [[corinth]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,13 +4,11 @@ category: history
 defines:
   - Louis XIII
   - Louis the Just
-related:
-  - "[[henry-iv]]"
-  - "[[richelieu]]"
-  - "[[louis-xiv]]"
-  - "[[thirty-years-war]]"
+related: ["[[henry-iv]]", "[[richelieu]]", "[[louis-xiv]]", "[[thirty-years-war]]", "[[france]]"]
+requires: []
 lists:
   - "[[kings-of-france]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[henry-iv]] · [[louis-xiv]] · [[richelieu]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

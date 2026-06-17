@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Assassination of Abraham Lincoln, Lincoln assassination]
 related: ["[[john-wilkes-booth]]", "[[american-civil-war]]", "[[reconstruction-era]]", "[[andrew-johnson]]"]
+requires: []
 lists: ["[[assassinations]]"]
+tour_order: 0
 read: false
 ---
 
@@ -43,6 +45,18 @@ Lincoln's assassination stands as a watershed moment in American memory and poli
 ## see also
 
 - [[assassination-of-james-garfield]] · [[assassination-of-william-mckinley]] · [[john-wilkes-booth]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

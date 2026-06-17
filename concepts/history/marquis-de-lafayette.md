@@ -5,15 +5,21 @@ defines:
   - Lafayette
   - Marquis de Lafayette
   - Gilbert du Motier
-related:
-  - "[[french-revolution]]"
-  - "[[louis-xvi]]"
-  - "[[american-revolution]]"
+related: ["[[french-revolution]]", "[[louis-xvi]]", "[[american-revolution]]", "[[france]]"]
+requires: ["[[american-revolution]]"]
 lists: ["[[revolutionary-war-generals]]", "[[people-from-the-french-revolution]]"]
+tour_order: 1
 read: false
 ---
 
 # Marquis de Lafayette
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ read: false
 ## see also
 
 - [[louis-xvi]] · [[robespierre]] · [[mirabeau]] · [[napoleon-bonaparte]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

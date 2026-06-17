@@ -3,11 +3,20 @@ type: event
 category: history
 defines: [Battle of Gettysburg, Gettysburg]
 related: ["[[american-civil-war]]", "[[robert-e-lee]]", "[[george-meade]]", "[[union-army]]", "[[confederate-army]]"]
+requires: ["[[american-civil-war]]"]
 lists: ["[[civil-war-battles]]"]
+tour_order: 1
 read: false
 ---
 
 # Battle of Gettysburg
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -48,6 +57,18 @@ Gettysburg stands as the hinge upon which the Civil War turned. Before it, the C
 ## see also
 
 - [[battle-of-antietam]] · [[battle-of-shiloh]] · [[battle-of-vicksburg]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

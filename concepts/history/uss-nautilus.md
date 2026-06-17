@@ -4,17 +4,22 @@ category: history
 defines:
   - USS Nautilus
   - USS Nautilus (SSN-571)
-related:
-  - "[[nuclear-submarine]]"
-  - "[[cold-war]]"
-  - "[[submarine-warfare]]"
-  - "[[north-pole]]"
+related: ["[[nuclear-submarine]]", "[[cold-war]]", "[[submarine-warfare]]", "[[north-pole]]"]
+requires: ["[[cold-war]]"]
 lists:
   - "[[american-warships]]"
+tour_order: 1
 read: false
 ---
 
 # USS Nautilus
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +44,18 @@ read: false
 ## see also
 
 - [[uss-enterprise-cv-6]] · [[uss-missouri]] · [[uss-indianapolis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

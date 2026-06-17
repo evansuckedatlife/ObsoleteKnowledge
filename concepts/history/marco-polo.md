@@ -2,8 +2,10 @@
 type: person
 category: history
 defines: [Marco Polo]
-related: ["[[kublai-khan]]", "[[zheng-he]]", "[[mongol-empire]]"]
+related: ["[[kublai-khan]]", "[[zheng-he]]", "[[mongol-empire]]", "[[china]]"]
+requires: []
 lists: ["[[explorers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[christopher-columbus]] · [[magellan]] · [[vasco-da-gama]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

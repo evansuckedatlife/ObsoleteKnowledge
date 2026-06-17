@@ -3,11 +3,20 @@ type: person
 category: history
 defines: ["Anthony Wayne", "Mad Anthony Wayne"]
 related: ["[[george-washington]]", "[[american-revolution]]", "[[valley-forge]]", "[[battle-of-stony-point]]", "[[american-frontier]]"]
+requires: ["[[american-revolution]]"]
 lists: ["[[revolutionary-war-generals]]"]
+tour_order: 1
 read: false
 ---
 
 # Anthony Wayne
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[george-washington]] · [[nathanael-greene]] · [[henry-knox]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

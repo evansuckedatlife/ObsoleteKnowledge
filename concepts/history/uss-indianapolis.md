@@ -4,17 +4,22 @@ category: history
 defines:
   - USS Indianapolis
   - USS Indianapolis (CA-35)
-related:
-  - "[[world-war-ii]]"
-  - "[[atomic-bomb]]"
-  - "[[shark-attack]]"
-  - "[[pacific-war]]"
+related: ["[[world-war-ii]]", "[[atomic-bomb]]", "[[shark-attack]]", "[[pacific-war]]"]
+requires: ["[[world-war-ii]]"]
 lists:
   - "[[american-warships]]"
+tour_order: 1
 read: false
 ---
 
 # USS Indianapolis
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +44,18 @@ read: false
 ## see also
 
 - [[uss-enterprise-cv-6]] · [[uss-nautilus]] · [[uss-constellation]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

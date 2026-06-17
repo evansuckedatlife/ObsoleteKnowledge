@@ -3,11 +3,20 @@ type: event
 category: history
 defines: [Battle of Shiloh, Shiloh]
 related: ["[[american-civil-war]]", "[[albert-sidney-johnston]]", "[[ulysses-grant]]", "[[don-carlos-buell]]", "[[western-theater]]"]
+requires: ["[[american-civil-war]]"]
 lists: ["[[civil-war-battles]]"]
+tour_order: 1
 read: false
 ---
 
 # Battle of Shiloh
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -46,6 +55,18 @@ Shiloh was the first battle to demonstrate the horrific potential of massed infa
 ## see also
 
 - [[battle-of-gettysburg]] · [[battle-of-vicksburg]] · [[battle-of-antietam]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

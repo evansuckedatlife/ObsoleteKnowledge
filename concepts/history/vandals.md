@@ -4,13 +4,11 @@ category: history
 defines:
   - Vandals
   - Vandal
-related:
-  - "[[gaiseric]]"
-  - "[[roman-empire]]"
-  - "[[north-africa]]"
-  - "[[mediterranean]]"
+related: ["[[gaiseric]]", "[[roman-empire]]", "[[north-africa]]", "[[mediterranean]]", "[[rome]]"]
+requires: []
 lists:
   - "[[peoples-of-the-early-middle-ages]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ The *Vandals* were a Germanic people who established a powerful naval kingdom in
 ## see also
 
 - [[visigoths]] · [[ostrogoths]] · [[gaiseric]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: concept
 category: history
 defines: [Harlem Renaissance]
 related: ["[[langston-hughes]]", "[[zora-neale-hurston]]", "[[claude-mckay]]", "[[duke-ellington]]", "[[new-york-city]]", "[[african-american-culture]]", "[[jazz]]", "[[1920s]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +43,18 @@ The *Harlem Renaissance* was a cultural and intellectual awakening of African Am
 ## see also
 
 - [[langston-hughes]] · [[zora-neale-hurston]] · [[duke-ellington]] · [[harlem]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

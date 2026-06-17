@@ -4,12 +4,11 @@ category: history
 defines:
   - Julius Nyerere
   - Julius Kambarage Nyerere
-related:
-  - "[[tanzania]]"
-  - "[[ujamaa]]"
-  - "[[kwame-nkrumah]]"
+related: ["[[tanzania]]", "[[ujamaa]]", "[[kwame-nkrumah]]"]
+requires: []
 lists:
   - "[[20th-century-african-leaders]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[kwame-nkrumah]] · [[jomo-kenyatta]] · [[nelson-mandela]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

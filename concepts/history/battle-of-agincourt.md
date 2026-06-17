@@ -4,14 +4,11 @@ category: history
 defines:
   - Battle of Agincourt
   - Agincourt
-related:
-  - "[[hundred-years-war]]"
-  - "[[henry-v]]"
-  - "[[joan-of-arc]]"
-  - "[[longbow]]"
-  - "[[medieval-warfare]]"
+related: ["[[hundred-years-war]]", "[[henry-v]]", "[[joan-of-arc]]", "[[longbow]]", "[[medieval-warfare]]", "[[england]]", "[[france]]"]
+requires: []
 lists:
   - "[[medieval-battles]]"
+tour_order: 0
 read: false
 aliases: [agincourt]
 ---
@@ -42,6 +39,18 @@ The *Battle of Agincourt* was fought on 25 October 1415 in northern France durin
 ## see also
 
 - [[battle-of-hastings]] · [[battle-of-crécy]] · [[bosworth-field]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,18 +4,10 @@ category: history
 defines:
   - World War II
   - The Second World War
-related:
-  - "[[hitler]]"
-  - "[[benito-mussolini]]"
-  - "[[franklin-d-roosevelt]]"
-  - "[[winston-churchill]]"
-  - "[[the-holocaust]]"
-  - "[[hiroshima-and-nagasaki]]"
-  - "[[d-day]]"
-  - "[[pearl-harbor]]"
-  - "[[the-atomic-bomb]]"
-  - "[[the-cold-war]]"
+related: ["[[hitler]]", "[[benito-mussolini]]", "[[franklin-d-roosevelt]]", "[[winston-churchill]]", "[[the-holocaust]]", "[[hiroshima-and-nagasaki]]", "[[d-day]]", "[[pearl-harbor]]", "[[the-atomic-bomb]]", "[[the-cold-war]]"]
+requires: []
 lists: []
+tour_order: 0
 read: true
 ---
 
@@ -71,6 +63,18 @@ World War II crystallized the horrors of total war and industrial genocide, shat
 ## see also
 
 - [[world-war-i]] · [[the-cold-war]] · [[the-holocaust]] · [[the-atomic-bomb]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: person
 category: history
 defines: [John Cabot, Giovanni Caboto, Jean Cabot]
 related: ["[[christopher-columbus]]", "[[henry-vii]]", "[[age-of-exploration]]"]
+requires: []
 lists: ["[[explorers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[marco-polo]] · [[christopher-columbus]] · [[henry-hudson]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

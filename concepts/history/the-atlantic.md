@@ -3,7 +3,9 @@ type: work
 category: history
 defines: ["The Atlantic", "The Atlantic Monthly"]
 related: ["[[american-intellectual-history]]", "[[literary-magazines]]", "[[political-discourse]]"]
+requires: []
 lists: ["[[magazines-from-american-history]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[harpers-magazine]] · [[the-new-yorker]] · [[time-magazine]] · [[national-geographic]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

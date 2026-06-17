@@ -2,16 +2,22 @@
 type: event
 category: history
 defines: ["Bostock v. Clayton County"]
-related:
-  - "[[title-vii]]"
-  - "[[employment-discrimination]]"
-  - "[[obergefell-v-hodges]]"
+related: ["[[title-vii]]", "[[employment-discrimination]]", "[[obergefell-v-hodges]]"]
+requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-involving-lgbt-rights]]"
+tour_order: 1
 read: false
 ---
 
 # Bostock v. Clayton County
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[title-vii]] · [[obergefell-v-hodges]] · [[303-creative-v-elenis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

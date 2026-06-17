@@ -3,11 +3,20 @@ type: event
 category: history
 defines: ["Mapp v. Ohio", "1961"]
 related: ["[[exclusionary-rule]]", "[[fourth-amendment]]", "[[search-and-seizure]]", "[[due-process]]"]
+requires: ["[[united-states-constitution]]"]
 lists: ["[[supreme-court-cases]]"]
+tour_order: 1
 read: false
 ---
 
 # Mapp v. Ohio
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -63,6 +72,18 @@ Mapp v. Ohio represents a crucial moment in American criminal procedure: the ass
 ## see also
 
 - [[miranda-v-arizona]] · [[gideon-v-wainwright]] · [[schenck-v-united-states]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

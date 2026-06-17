@@ -5,13 +5,11 @@ defines:
   - Clovis
   - Clovis I
   - Klovis
-related:
-  - "[[frankish-empire]]"
-  - "[[merovingian-dynasty]]"
-  - "[[roman-gaul]]"
-  - "[[christianity-medieval-europe]]"
+related: ["[[frankish-empire]]", "[[merovingian-dynasty]]", "[[roman-gaul]]", "[[christianity-medieval-europe]]", "[[christianity]]", "[[france]]"]
+requires: []
 lists:
   - "[[kings-of-france]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ read: false
 ## see also
 
 - [[charlemagne]] · [[louis-ix]] · [[philip-ii-augustus]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

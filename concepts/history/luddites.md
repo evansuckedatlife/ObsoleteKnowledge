@@ -3,7 +3,9 @@ type: concept
 category: history
 defines: ["Luddites", "Luddism"]
 related: ["[[industrial-revolution]]", "[[chartism]]", "[[factory-acts-movement]]", "[[peterloo]]", "[[british-abolitionism]]"]
+requires: []
 lists: ["[[british-reform-movements]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The **Luddites** were textile workers in the Midlands and North of England who, 
 ## see also
 
 - [[chartism]] · [[factory-acts-movement]] · [[industrial-revolution]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

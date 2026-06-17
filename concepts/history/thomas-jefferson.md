@@ -4,18 +4,22 @@ category: history
 defines:
   - Thomas Jefferson
   - Monticello
-related:
-  - "[[james-madison]]"
-  - "[[louisiana-purchase]]"
-  - "[[embargo-act]]"
-  - "[[lewis-and-clark-expedition]]"
-  - "[[james-monroe]]"
+related: ["[[james-madison]]", "[[louisiana-purchase]]", "[[embargo-act]]", "[[lewis-and-clark-expedition]]", "[[james-monroe]]"]
+requires: ["[[american-revolution]]"]
 lists:
   - "[[secretaries-of-state]]"
+tour_order: 1
 read: false
 ---
 
 # Thomas Jefferson
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -57,6 +61,18 @@ Jefferson embodied the Age of Enlightenment's confidence that reason, education,
 ## see also
 
 - [[james-madison]] · [[james-monroe]] · [[john-quincy-adams]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

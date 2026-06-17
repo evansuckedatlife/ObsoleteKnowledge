@@ -4,16 +4,22 @@ category: history
 defines:
   - Kwame Nkrumah
   - Kwame Francis Kwaw Ngonere Nkrumah
-related:
-  - "[[ghana]]"
-  - "[[pan-africanism]]"
-  - "[[julius-nyerere]]"
+related: ["[[ghana]]", "[[pan-africanism]]", "[[julius-nyerere]]"]
+requires: ["[[british-empire]]"]
 lists:
   - "[[20th-century-african-leaders]]"
+tour_order: 1
 read: false
 ---
 
 # Kwame Nkrumah
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ read: false
 ## see also
 
 - [[julius-nyerere]] · [[nelson-mandela]] · [[gamal-abdel-nasser]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

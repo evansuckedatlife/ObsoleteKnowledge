@@ -6,13 +6,11 @@ defines:
   - Anglo-Saxons
   - Angles
   - Saxons
-related:
-  - "[[britain]]"
-  - "[[anglo-saxon-period]]"
-  - "[[germanic-peoples]]"
-  - "[[heptarchy]]"
+related: ["[[britain]]", "[[anglo-saxon-period]]", "[[germanic-peoples]]", "[[heptarchy]]"]
+requires: []
 lists:
   - "[[peoples-of-the-early-middle-ages]]"
+tour_order: 0
 read: false
 ---
 
@@ -43,6 +41,18 @@ The *Angles* and *Saxons* were Germanic peoples who migrated to Britain in the 5
 ## see also
 
 - [[visigoths]] · [[franks]] · [[alfred-the-great]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

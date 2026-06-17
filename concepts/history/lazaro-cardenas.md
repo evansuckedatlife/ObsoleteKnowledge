@@ -3,7 +3,9 @@ type: person
 category: history
 defines: ["Lázaro Cárdenas"]
 related: ["[[mexican-revolution]]", "[[emiliano-zapata]]", "[[benito-juarez]]"]
+requires: []
 lists: ["[[mexican-leaders]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[emiliano-zapata]] · [[benito-juarez]] · [[francisco-madero]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,12 +3,11 @@ type: concept
 category: history
 defines:
   - Free Soil Party
-related:
-  - "[[slavery-expansion-debate]]"
-  - "[[martin-van-buren]]"
-  - "[[american-third-parties]]"
+related: ["[[slavery-expansion-debate]]", "[[martin-van-buren]]", "[[american-third-parties]]"]
+requires: []
 lists:
   - "[[american-third-parties]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ The Free Soil Party was a short-lived antislavery political movement of the 1848
 ## see also
 
 - [[know-nothing-party]] · [[liberty-party]] · [[whig-party]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

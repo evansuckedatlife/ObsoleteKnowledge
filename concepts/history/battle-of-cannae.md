@@ -2,8 +2,10 @@
 type: event
 category: history
 defines: [Battle of Cannae]
-related: ["[[hannibal]]", "[[scipio-africanus]]", "[[second-punic-war]]"]
+related: ["[[hannibal]]", "[[scipio-africanus]]", "[[second-punic-war]]", "[[rome]]"]
+requires: []
 lists: ["[[battles-of-the-ancient-world]]"]
+tour_order: 0
 read: false
 aliases: [cannae]
 ---
@@ -35,6 +37,18 @@ The *Battle of Cannae* (216 BC) was the most catastrophic Roman military defeat 
 ## see also
 
 - [[zama]] · [[trebia]] · [[lake-trasimene]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

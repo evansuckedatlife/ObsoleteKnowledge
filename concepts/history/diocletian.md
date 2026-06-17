@@ -2,8 +2,10 @@
 type: person
 category: history
 defines: [Diocletian, Gaius Aurelius Valerius Diocletianus]
-related: ["[[maximian]]", "[[constantine-the-great]]", "[[tetrarchy]]", "[[diocletianic-persecution]]"]
+related: ["[[maximian]]", "[[constantine-the-great]]", "[[tetrarchy]]", "[[diocletianic-persecution]]", "[[rome]]"]
+requires: []
 lists: ["[[roman-emperors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -29,6 +31,18 @@ Diocletian was a Roman emperor who ruled from AD 284 to 305. Coming to power and
 ## see also
 
 - [[constantine-the-great]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

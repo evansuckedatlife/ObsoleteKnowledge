@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Election of 1968, "1968 US presidential election"]
 related: ["[[richard-nixon]]", "[[hubert-humphrey]]", "[[george-wallace]]", "[[vietnamwar]]", "[[civil-rights-backlash]]"]
+requires: []
 lists: ["[[elections]]"]
+tour_order: 0
 read: false
 ---
 
@@ -46,6 +48,18 @@ The 1968 election marked the final rupture of the New Deal Coalition. The civil 
 ## see also
 
 - [[election-of-1948]] · [[election-of-1960]] · [[election-of-2000]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

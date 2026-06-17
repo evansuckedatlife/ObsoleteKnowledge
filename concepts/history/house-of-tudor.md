@@ -2,14 +2,11 @@
 type: concept
 category: history
 defines: ["House of Tudor", "Tudor Dynasty"]
-related:
-  - "[[henry-viii]]"
-  - "[[elizabeth-i]]"
-  - "[[english-reformation]]"
-  - "[[spanish-armada]]"
-  - "[[wars-of-roses]]"
+related: ["[[henry-viii]]", "[[elizabeth-i]]", "[[english-reformation]]", "[[spanish-armada]]", "[[wars-of-roses]]", "[[england]]"]
+requires: []
 lists:
   - "[[european-royal-families]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +38,18 @@ The **House of Tudor** ruled England from 1485 to 1603, emerging from the chaos 
 ## see also
 
 - [[house-of-stuart]] · [[house-of-plantagenet]] · [[house-of-valois]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

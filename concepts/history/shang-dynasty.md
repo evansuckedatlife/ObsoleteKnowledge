@@ -2,8 +2,10 @@
 type: event
 category: history
 defines: [Shang Dynasty]
-related: ["[[oracle-bones]]", "[[yellow-river]]", "[[bronze-age]]", "[[zhou-dynasty]]"]
+related: ["[[oracle-bones]]", "[[yellow-river]]", "[[bronze-age]]", "[[zhou-dynasty]]", "[[china]]"]
+requires: []
 lists: ["[[chinese-dynasties]]"]
+tour_order: 0
 read: false
 ---
 
@@ -56,6 +58,18 @@ The Shang Dynasty marks the threshold between prehistory and recorded history in
 ## see also
 
 - [[zhou-dynasty]] · [[qin-dynasty]] · [[han-dynasty]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

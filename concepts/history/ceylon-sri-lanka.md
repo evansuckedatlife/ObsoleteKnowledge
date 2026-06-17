@@ -2,13 +2,11 @@
 type: place
 category: history
 defines: ["Ceylon", "Sri Lanka"]
-related:
-  - "[[british-raj]]"
-  - "[[sinhalese-people]]"
-  - "[[tamil-minorities-in-sri-lanka]]"
-  - "[[colombo]]"
+related: ["[[british-raj]]", "[[sinhalese-people]]", "[[tamil-minorities-in-sri-lanka]]", "[[colombo]]", "[[india]]", "[[buddhism]]"]
+requires: []
 lists:
   - "[[countries-once-known-by-different-names]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[persia-iran]] · [[burma-myanmar]] · [[gold-coast-ghana]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: person
 category: history
 defines: ["Ferdinand Magellan"]
 related: ["[[age-of-exploration]]", "[[circumnavigation]]", "[[spice-trade]]", "[[juan-sebastian-el-cano]]", "[[treaty-of-tordesillas]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[age-of-exploration]] · [[circumnavigation]] · [[spice-trade]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["Whiskey Ring", "Whiskey Rebellion", "whiskey scandal"]
 related: ["[[ulysses-s-grant]]", "[[treasury-department]]", "[[benjamin-bristow]]"]
+requires: []
 lists: ["[[presidential-scandals]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The *Whiskey Ring* was a nationwide conspiracy of distillers, government revenue
 ## see also
 
 - [[teapot-dome]] · [[credit-mobilier]] · [[watergate]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

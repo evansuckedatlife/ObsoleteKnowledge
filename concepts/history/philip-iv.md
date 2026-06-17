@@ -5,13 +5,11 @@ defines:
   - Philip IV
   - Philip the Fair
   - Philippe le Bel
-related:
-  - "[[papal-authority]]"
-  - "[[templar-order]]"
-  - "[[capetian-dynasty]]"
-  - "[[medieval-france]]"
+related: ["[[papal-authority]]", "[[templar-order]]", "[[capetian-dynasty]]", "[[medieval-france]]", "[[france]]"]
+requires: []
 lists:
   - "[[kings-of-france]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ read: false
 ## see also
 
 - [[louis-ix]] · [[philip-ii-augustus]] · [[louis-xiv]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

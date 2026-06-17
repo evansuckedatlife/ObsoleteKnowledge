@@ -2,8 +2,10 @@
 type: person
 category: history
 defines: [Marcus Aurelius, Marcus Aurelius Antoninus]
-related: ["[[lucius-verus]]", "[[commodus]]", "[[meditations]]"]
+related: ["[[lucius-verus]]", "[[commodus]]", "[[meditations]]", "[[rome]]"]
+requires: []
 lists: ["[[roman-emperors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Marcus Aurelius was a Roman emperor who ruled from AD 161 to 180, often consider
 ## see also
 
 - [[trajan]] · [[hadrian]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

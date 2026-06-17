@@ -2,8 +2,10 @@
 type: event
 category: history
 defines: ["Peterloo", "Peterloo Massacre"]
-related: ["[[british-reform-movement]]", "[[manchester]]", "[[henry-hunt]]", "[[british-military]]", "[[1819]]"]
+related: ["[[british-reform-movement]]", "[[manchester]]", "[[henry-hunt]]", "[[british-military]]", "[[1819]]", "[[england]]"]
+requires: []
 lists: ["[[massacres]]"]
+tour_order: 0
 read: false
 ---
 
@@ -55,6 +57,18 @@ Peterloo occurred at the intersection of post-Napoleonic anxiety, industrial soc
 ## see also
 
 - [[jallianwala-bagh]] · [[boston-massacre]] · [[my-lai]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

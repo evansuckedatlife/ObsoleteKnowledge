@@ -3,11 +3,20 @@ type: person
 category: history
 defines: ["Henry Knox"]
 related: ["[[george-washington]]", "[[american-revolution]]", "[[continental-army]]", "[[artillery]]", "[[yorktown-campaign]]"]
+requires: ["[[american-revolution]]"]
 lists: ["[[revolutionary-war-generals]]"]
+tour_order: 1
 read: false
 ---
 
 # Henry Knox
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[george-washington]] · [[nathanael-greene]] · [[yorktown-campaign]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

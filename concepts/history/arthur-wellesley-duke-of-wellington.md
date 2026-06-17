@@ -2,12 +2,11 @@
 type: person
 category: history
 defines: [Arthur Wellesley, Duke of Wellington]
-related:
-  - "[[napoleonic-wars]]"
-  - "[[peninsula-war]]"
-  - "[[george-iv]]"
+related: ["[[napoleonic-wars]]", "[[peninsula-war]]", "[[george-iv]]"]
+requires: []
 lists:
   - "[[british-prime-ministers]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +35,18 @@ read: false
 ## see also
 
 - [[william-pitt-the-younger]] · [[robert-peel]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

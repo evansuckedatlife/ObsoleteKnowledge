@@ -2,8 +2,10 @@
 type: person
 category: history
 defines: [Henry VIII]
-related: ["[[catherine-of-aragon]]", "[[anne-boleyn]]", "[[thomas-cromwell]]", "[[english-reformation]]", "[[house-of-tudor]]"]
+related: ["[[catherine-of-aragon]]", "[[anne-boleyn]]", "[[thomas-cromwell]]", "[[english-reformation]]", "[[house-of-tudor]]", "[[england]]"]
+requires: []
 lists: ["[[british-monarchs]]"]
+tour_order: 0
 read: false
 ---
 
@@ -29,6 +31,18 @@ Henry VIII was King of England from 1509 to 1547. He is best known for initiatin
 ## see also
 
 - [[elizabeth-i]] · [[james-i]] · [[charles-i]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

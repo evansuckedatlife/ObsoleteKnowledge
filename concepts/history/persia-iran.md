@@ -2,13 +2,11 @@
 type: place
 category: history
 defines: ["Persia", "Iran"]
-related:
-  - "[[parthian-empire]]"
-  - "[[sassanid-empire]]"
-  - "[[safavid-empire]]"
-  - "[[islamic-revolution]]"
+related: ["[[parthian-empire]]", "[[sassanid-empire]]", "[[safavid-empire]]", "[[islamic-revolution]]"]
+requires: []
 lists:
   - "[[countries-once-known-by-different-names]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[siam-thailand]] · [[ceylon-sri-lanka]] · [[rhodesia-zimbabwe]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

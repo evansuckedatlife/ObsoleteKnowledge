@@ -3,7 +3,9 @@ type: work
 category: history
 defines: ["Life", "Life Magazine"]
 related: ["[[henry-luce]]", "[[magazine-photography]]", "[[american-visual-culture]]"]
+requires: []
 lists: ["[[magazines-from-american-history]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[time-magazine]] · [[national-geographic]] · [[the-saturday-evening-post]] · [[the-new-yorker]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

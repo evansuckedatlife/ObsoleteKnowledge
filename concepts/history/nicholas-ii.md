@@ -3,11 +3,20 @@ type: person
 category: history
 defines: ["Nicholas II"]
 related: ["[[alexander-iii]]", "[[russian-revolution-1917]]", "[[russo-japanese-war]]", "[[october-manifesto-1905]]", "[[romanov-dynasty]]"]
+requires: ["[[russian-revolution]]"]
 lists: ["[[russian-tsars]]"]
+tour_order: 1
 read: false
 ---
 
 # Nicholas II
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -57,6 +66,18 @@ Nicholas II is a tragic figure—not evil, but fatally unsuited to power during 
 ## see also
 
 - [[alexander-ii]] · [[alexander-iii]] · [[ivan-iv]] · [[peter-i]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

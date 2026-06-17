@@ -3,13 +3,11 @@ type: person
 category: history
 defines:
   - Judith Butler
-related:
-  - "[[gender]]"
-  - "[[queer-theory]]"
-  - "[[performativity]]"
-  - "[[philosophy]]"
+related: ["[[gender]]", "[[queer-theory]]", "[[performativity]]", "[[philosophy]]"]
+requires: []
 lists:
   - "[[feminists]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[simone-de-beauvoir]] · [[bell-hooks]] · [[germaine-greer]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

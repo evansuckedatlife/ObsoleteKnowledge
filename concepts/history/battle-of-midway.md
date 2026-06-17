@@ -3,12 +3,11 @@ type: event
 category: history
 defines:
   - Battle of Midway
-related:
-  - "[[attack-on-pearl-harbor]]"
-  - "[[battle-of-the-coral-sea]]"
-  - "[[imperial-japanese-navy]]"
+related: ["[[attack-on-pearl-harbor]]", "[[battle-of-the-coral-sea]]", "[[imperial-japanese-navy]]", "[[japan]]"]
+requires: []
 lists:
   - "[[world-war-ii-pacific-campaigns]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ Fought June 4–7, 1942, the Battle of Midway stands as the turning point of the
 ## see also
 
 - [[attack-on-pearl-harbor]] · [[battle-of-the-coral-sea]] · [[battle-of-guadalcanal]] · [[battle-of-leyte-gulf]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

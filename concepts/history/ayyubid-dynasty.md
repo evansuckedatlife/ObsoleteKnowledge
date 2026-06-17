@@ -5,16 +5,22 @@ defines:
   - Ayyubid Dynasty
   - Ayyubids
   - Saladin
-related:
-  - "[[fatimid-caliphate]]"
-  - "[[mamluk-sultanate]]"
-  - "[[crusades]]"
+related: ["[[fatimid-caliphate]]", "[[mamluk-sultanate]]", "[[crusades]]", "[[islam]]"]
+requires: ["[[crusades]]"]
 lists:
   - "[[medieval-islamic-dynasties]]"
+tour_order: 1
 read: false
 ---
 
 # Ayyubid Dynasty
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ The *Ayyubid Dynasty* (1169–1260 CE) was a Kurdish military clan founded by *S
 ## see also
 
 - [[fatimid-caliphate]] · [[mamluk-sultanate]] · [[crusades]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

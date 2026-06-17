@@ -2,8 +2,10 @@
 type: person
 category: history
 defines: [Ferdinand Magellan, Fernão de Magalhães]
-related: ["[[christopher-columbus]]", "[[age-of-exploration]]", "[[philippines]]"]
+related: ["[[christopher-columbus]]", "[[age-of-exploration]]", "[[philippines]]", "[[spain]]"]
+requires: []
 lists: ["[[explorers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[marco-polo]] · [[christopher-columbus]] · [[vasco-da-gama]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

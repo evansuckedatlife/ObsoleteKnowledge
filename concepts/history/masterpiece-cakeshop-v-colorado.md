@@ -2,16 +2,22 @@
 type: event
 category: history
 defines: ["Masterpiece Cakeshop v. Colorado"]
-related:
-  - "[[religious-freedom]]"
-  - "[[public-accommodation]]"
-  - "[[obergefell-v-hodges]]"
+related: ["[[religious-freedom]]", "[[public-accommodation]]", "[[obergefell-v-hodges]]"]
+requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-involving-lgbt-rights]]"
+tour_order: 1
 read: false
 ---
 
 # Masterpiece Cakeshop v. Colorado
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[religious-freedom]] · [[public-accommodation]] · [[303-creative-v-elenis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

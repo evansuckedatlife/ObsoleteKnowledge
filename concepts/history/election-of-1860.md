@@ -3,11 +3,20 @@ type: event
 category: history
 defines: [Election of 1860, "1860 US presidential election"]
 related: ["[[abraham-lincoln]]", "[[stephen-douglas]]", "[[john-breckinridge]]", "[[john-bell]]", "[[american-civil-war]]", "[[secession-crisis]]"]
+requires: ["[[american-civil-war]]"]
 lists: ["[[elections]]"]
+tour_order: 1
 read: false
 ---
 
 # Election of 1860
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -46,6 +55,18 @@ The 1860 election crystallized the nation's three-decade struggle over slavery's
 ## see also
 
 - [[election-of-1824]] · [[election-of-1876]] · [[election-of-1912]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

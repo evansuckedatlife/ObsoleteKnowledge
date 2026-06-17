@@ -3,12 +3,11 @@ type: event
 category: history
 defines:
   - "United States v. Nixon"
-related:
-  - "[[watergate-scandal]]"
-  - "[[richard-nixon]]"
-  - "[[executive-privilege]]"
+related: ["[[watergate-scandal]]", "[[richard-nixon]]", "[[executive-privilege]]"]
+requires: []
 lists:
   - "[[supreme-court-cases-2]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[youngstown-sheet-tube-co-v-sawyer]] · [[marbury-v-madison]] · [[bush-v-gore]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

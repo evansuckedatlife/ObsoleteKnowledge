@@ -3,10 +3,11 @@ type: place
 category: history
 defines:
   - Comanche
-related:
-  - "[[native-american-peoples]]"
+related: ["[[native-american-peoples]]"]
+requires: []
 lists:
   - "[[native-american-peoples]]"
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +35,18 @@ The *Comanche* are a Great Plains and Southwest nation, historically inhabiting 
 ## see also
 
 - [[lakota-sioux]] · [[cheyenne]] · [[apache]] · [[navajo]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

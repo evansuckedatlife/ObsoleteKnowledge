@@ -3,7 +3,9 @@ type: person
 category: history
 defines: ["Michael Romanov", "Mikhail Romanov"]
 related: ["[[boris-godunov]]", "[[time-of-troubles]]", "[[romanov-dynasty]]", "[[peter-i]]", "[[russian-empire]]"]
+requires: []
 lists: ["[[russian-tsars]]"]
+tour_order: 0
 read: false
 ---
 
@@ -55,6 +57,18 @@ Michael Romanov was not a great tsar in the mold of Peter or Catherine, yet he w
 ## see also
 
 - [[ivan-iv]] · [[boris-godunov]] · [[peter-i]] · [[catherine-ii]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

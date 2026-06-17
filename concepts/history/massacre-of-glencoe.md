@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["Massacre of Glencoe", "Glencoe Massacre"]
 related: ["[[scotland]]", "[[clan-system]]", "[[jacobite-rising]]", "[[highland-clearances]]", "[[william-ii]]"]
+requires: []
 lists: ["[[massacres]]"]
+tour_order: 0
 read: false
 ---
 
@@ -56,6 +58,18 @@ The Massacre of Glencoe exemplifies the brutal logic of statecraft in early mode
 ## see also
 
 - [[boston-massacre]] · [[st-bartholomews-day-massacre]] · [[peterloo]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

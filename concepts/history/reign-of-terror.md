@@ -3,11 +3,20 @@ type: event
 category: history
 defines: ["Reign of Terror"]
 related: ["[[robespierre]]", "[[french-revolution]]", "[[committee-of-public-safety]]", "[[jacobins]]", "[[danton]]", "[[marat]]", "[[thermidor]]"]
+requires: ["[[french-revolution]]"]
 lists: []
+tour_order: 2
 read: false
 ---
 
 # Reign of Terror
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -59,6 +68,18 @@ The Reign of Terror is history's paradigm for revolutionary self-destruction: th
 ## see also
 
 - [[robespierre]] · [[danton]] · [[marat]] · [[french-revolution]] · [[thermidor]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

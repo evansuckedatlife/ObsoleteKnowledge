@@ -3,11 +3,20 @@ type: event
 category: history
 defines: ["Washington's First Inauguration", "George Washington Inauguration 1789"]
 related: ["[[george-washington]]", "[[united-states-constitution]]", "[[federal-government-united-states]]"]
+requires: ["[[american-revolution]]"]
 lists: ["[[presidential-inaugurations]]"]
+tour_order: 1
 read: false
 ---
 
 # Washington's First Inauguration
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ read: false
 ## see also
 
 - [[jefferson-first-inauguration]] · [[lincoln-first-inauguration]] · [[fdr-first-inauguration]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,12 +4,11 @@ category: history
 defines:
   - Ghaznavid Dynasty
   - Ghaznavid Empire
-related:
-  - "[[seljuk-empire]]"
-  - "[[abbasid-caliphate]]"
-  - "[[mughal-empire]]"
+related: ["[[seljuk-empire]]", "[[abbasid-caliphate]]", "[[mughal-empire]]", "[[islam]]"]
+requires: []
 lists:
   - "[[medieval-islamic-dynasties]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ The *Ghaznavid Dynasty* (977–1186 CE) was a Turkish military empire centered i
 ## see also
 
 - [[seljuk-empire]] · [[abbasid-caliphate]] · [[mughal-empire]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

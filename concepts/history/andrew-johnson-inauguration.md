@@ -3,11 +3,20 @@ type: event
 category: history
 defines: ["Andrew Johnson's Inauguration", "Andrew Johnson Inauguration 1865"]
 related: ["[[andrew-johnson]]", "[[reconstruction]]", "[[thomas-jefferson]]"]
+requires: ["[[american-civil-war]]"]
 lists: ["[[presidential-inaugurations]]"]
+tour_order: 1
 read: false
 ---
 
 # Andrew Johnson's Inauguration
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ read: false
 ## see also
 
 - [[lincoln-second-inauguration]] · [[benjamin-harrison-inauguration]] · [[william-mckinley-inauguration]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: person
 category: history
 defines: ["Saddam Hussein", "Saddam Hussein al-Tikriti"]
 related: ["[[iraq]]", "[[baath-party]]", "[[iran-iraq-war]]", "[[gulf-war]]", "[[ayatollah-khomeini]]"]
+requires: []
 lists: ["[[20th-century-middle-eastern-leaders]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[ayatollah-khomeini]] · [[hafez-al-assad]] · [[king-faisal]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

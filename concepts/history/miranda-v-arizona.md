@@ -3,11 +3,20 @@ type: event
 category: history
 defines: ["Miranda v. Arizona", "1966"]
 related: ["[[fifth-amendment]]", "[[self-incrimination]]", "[[criminal-procedure]]", "[[miranda-rights]]"]
+requires: ["[[united-states-constitution]]"]
 lists: ["[[supreme-court-cases]]"]
+tour_order: 1
 read: false
 ---
 
 # Miranda v. Arizona
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -68,6 +77,18 @@ Miranda v. Arizona exemplifies the Supreme Court's effort to constitutionalize c
 ## see also
 
 - [[gideon-v-wainwright]] · [[mapp-v-ohio]] · [[schenck-v-united-states]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,12 +2,11 @@
 type: event
 category: history
 defines: [Lindbergh kidnapping, Lindbergh case]
-related:
-  - "[[charles-lindbergh]]"
-  - "[[bruno-hauptmann]]"
-  - "[[new-jersey-criminal-law]]"
+related: ["[[charles-lindbergh]]", "[[bruno-hauptmann]]", "[[new-jersey-criminal-law]]"]
+requires: []
 lists:
   - "[[american-murders-and-murderers]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ In March 1932, the 20-month-old son of aviator *Charles Lindbergh* was abducted 
 ## see also
 
 - [[leopold-and-loeb]] · [[black-dahlia]] · [[sam-sheppard-case]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,11 @@ type: place
 category: history
 defines:
   - Seminole
-related:
-  - "[[native-american-peoples]]"
-  - "[[seminole-wars]]"
+related: ["[[native-american-peoples]]", "[[seminole-wars]]"]
+requires: []
 lists:
   - "[[native-american-peoples]]"
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +35,18 @@ The *Seminole* are a Southeast nation formed in the 18th century from Creek and 
 ## see also
 
 - [[cherokee]] · [[iroquois]] · [[navajo]] · [[nez-perce]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

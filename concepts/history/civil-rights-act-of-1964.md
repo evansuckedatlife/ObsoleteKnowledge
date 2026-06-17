@@ -3,11 +3,20 @@ type: text
 category: history
 defines: [Civil Rights Act of 1964]
 related: ["[[martin-luther-king-jr]]", "[[lyndon-b-johnson]]", "[[civil-rights-movement]]", "[[segregation]]", "[[voting-rights-act-of-1965]]", "[[equal-employment-opportunity-commission]]", "[[united-states]]"]
+requires: ["[[civil-rights-movement]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Civil Rights Act of 1964
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -41,6 +50,18 @@ The *Civil Rights Act of 1964* was a landmark federal law passed by the United S
 ## see also
 
 - [[martin-luther-king-jr]] · [[lyndon-b-johnson]] · [[civil-rights-movement]] · [[voting-rights-act-of-1965]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

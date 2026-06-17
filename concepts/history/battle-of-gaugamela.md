@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Battle of Gaugamela]
 related: ["[[alexander-the-great]]", "[[darius-iii]]", "[[macedonian-conquest]]"]
+requires: []
 lists: ["[[battles-of-the-ancient-world]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The *Battle of Gaugamela* (331 BC) was the definitive clash between *Alexander t
 ## see also
 
 - [[issus]] · [[babylon]] · [[persepolis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

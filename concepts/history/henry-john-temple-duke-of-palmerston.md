@@ -2,13 +2,11 @@
 type: person
 category: history
 defines: [Henry John Temple, 3rd Viscount Palmerston]
-related:
-  - "[[liberal-party]]"
-  - "[[british-foreign-policy]]"
-  - "[[crimean-war]]"
-  - "[[victorian-era]]"
+related: ["[[liberal-party]]", "[[british-foreign-policy]]", "[[crimean-war]]", "[[victorian-era]]", "[[england]]"]
+requires: []
 lists:
   - "[[british-prime-ministers]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +35,18 @@ read: false
 ## see also
 
 - [[william-ewart-gladstone]] · [[benjamin-disraeli]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: event
 category: history
 defines: [Fort Sumter, Sumter]
 related: ["[[american-civil-war]]", "[[abraham-lincoln]]", "[[jefferson-davis]]", "[[confederate-states-of-america]]", "[[south-carolina]]"]
+requires: ["[[american-civil-war]]"]
 lists: ["[[civil-war-battles]]"]
+tour_order: 1
 read: false
 ---
 
 # Fort Sumter
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -47,6 +56,18 @@ Fort Sumter transformed a constitutional crisis into a shooting war. The fort's 
 ## see also
 
 - [[first-bull-run]] · [[battle-of-antietam]] · [[battle-of-gettysburg]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

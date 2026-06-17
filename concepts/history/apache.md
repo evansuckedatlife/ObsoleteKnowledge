@@ -3,11 +3,11 @@ type: place
 category: history
 defines:
   - Apache
-related:
-  - "[[native-american-peoples]]"
-  - "[[geronimo]]"
+related: ["[[native-american-peoples]]", "[[geronimo]]"]
+requires: []
 lists:
   - "[[native-american-peoples]]"
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +35,18 @@ The *Apache* are a southwestern Athabaskan people traditionally inhabiting Arizo
 ## see also
 
 - [[navajo]] · [[pueblo]] · [[comanche]] · [[seminole]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

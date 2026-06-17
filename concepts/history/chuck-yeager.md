@@ -4,11 +4,11 @@ category: history
 defines:
   - Chuck Yeager
   - Charles Elwood Yeager
-related:
-  - "[[jimmy-doolittle]]"
-  - "[[howard-hughes]]"
+related: ["[[jimmy-doolittle]]", "[[howard-hughes]]"]
+requires: []
 lists:
   - "[[aviators]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +36,18 @@ read: false
 ## see also
 
 - [[jimmy-doolittle]] · [[howard-hughes]] · [[wiley-post]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

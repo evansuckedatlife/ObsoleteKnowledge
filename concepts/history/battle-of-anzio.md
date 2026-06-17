@@ -2,12 +2,21 @@
 type: event
 category: history
 defines: [Battle of Anzio, Anzio Beachhead, Operation Shingle]
-related: ["[[italy-campaign]]", "[[world-war-ii]]", "[[western-allies]]", "[[nazi-germany]]", "[[mediterranean-theater]]"]
+related: ["[[italy-campaign]]", "[[world-war-ii]]", "[[western-allies]]", "[[nazi-germany]]", "[[mediterranean-theater]]", "[[italy]]"]
+requires: ["[[world-war-ii]]"]
 lists: ["[[world-war-ii-battles]]"]
+tour_order: 1
 read: false
 ---
 
 # Battle of Anzio
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -46,6 +55,18 @@ Anzio was meant to be a war-winning maneuver but became a cautionary tale: surpr
 ## see also
 
 - [[battle-of-monte-cassino]] · [[battle-of-normandy]] · [[italy-campaign]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

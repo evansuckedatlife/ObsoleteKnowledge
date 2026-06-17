@@ -3,11 +3,20 @@ type: person
 category: history
 defines: [John Adams]
 related: ["[[american-revolution]]", "[[declaration-of-independence]]", "[[alien-and-sedition-acts]]", "[[undeclared-quasi-war]]", "[[treaty-of-paris-1783]]", "[[constitution-convention]]", "[[election-of-1800]]", "[[federalist-papers]]"]
+requires: ["[[american-revolution]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # John Adams
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +48,18 @@ John Adams (1735–1826) was the second President of the United States and a pri
 ## see also
 
 - [[thomas-jefferson]] · [[george-washington]] · [[james-madison]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

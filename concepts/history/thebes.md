@@ -4,13 +4,11 @@ category: history
 defines:
   - Thebes
   - Theban
-related:
-  - "[[epaminondas]]"
-  - "[[oedipus]]"
-  - "[[athens]]"
-  - "[[sparta]]"
+related: ["[[epaminondas]]", "[[oedipus]]", "[[athens]]", "[[sparta]]", "[[ancient-greece]]"]
+requires: []
 lists:
   - "[[ancient-greek-places]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ read: false
 ## see also
 
 - [[athens]] · [[sparta]] · [[corinth]] · [[delphi]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

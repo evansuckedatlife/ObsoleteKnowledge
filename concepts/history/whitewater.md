@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Whitewater, "Whitewater scandal", "Whitewater controversy"]
 related: ["[[bill-clinton]]", "[[hillary-clinton]]", "[[kenneth-starr]]"]
+requires: []
 lists: ["[[presidential-scandals]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[watergate]] · [[the-lewinsky-scandal]] · [[iran-contra]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

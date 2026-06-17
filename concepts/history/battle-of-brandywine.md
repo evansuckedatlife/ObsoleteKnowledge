@@ -3,11 +3,20 @@ type: event
 category: history
 defines: [Brandywine, Battle of Brandywine]
 related: ["[[george-washington]]", "[[william-howe]]", "[[pennsylvania]]"]
+requires: ["[[american-revolution]]"]
 lists: ["[[revolutionary-war-battles]]"]
+tour_order: 1
 read: false
 ---
 
 # Brandywine
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ On *September 11, 1777*, British general William Howe outmaneuvered George Washi
 ## see also
 
 - [[battle-of-trenton]] · [[saratoga]] · [[battle-of-yorktown]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

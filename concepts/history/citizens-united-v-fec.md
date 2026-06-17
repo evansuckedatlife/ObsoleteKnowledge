@@ -3,16 +3,22 @@ type: event
 category: history
 defines:
   - "Citizens United v. Federal Election Commission"
-related:
-  - "[[first-amendment]]"
-  - "[[campaign-finance]]"
-  - "[[corporate-personhood]]"
+related: ["[[first-amendment]]", "[[campaign-finance]]", "[[corporate-personhood]]"]
+requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-2]]"
+tour_order: 1
 read: false
 ---
 
 # Citizens United v. FEC
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[new-york-times-co-v-sullivan]] · [[tinker-v-des-moines]] · [[bush-v-gore]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

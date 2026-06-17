@@ -4,11 +4,11 @@ category: history
 defines:
   - Burt Rutan
   - Elbert Leander Rutan
-related:
-  - "[[chuck-yeager]]"
-  - "[[howard-hughes]]"
+related: ["[[chuck-yeager]]", "[[howard-hughes]]", "[[nasa]]"]
+requires: []
 lists:
   - "[[aviators]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +36,18 @@ read: false
 ## see also
 
 - [[chuck-yeager]] · [[howard-hughes]] · [[jimmy-doolittle]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

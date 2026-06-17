@@ -3,13 +3,11 @@ type: person
 category: history
 defines:
   - Betty Friedan
-related:
-  - "[[the-feminine-mystique]]"
-  - "[[womens-liberation]]"
-  - "[[national-organization-for-women]]"
-  - "[[second-wave-feminism]]"
+related: ["[[the-feminine-mystique]]", "[[womens-liberation]]", "[[national-organization-for-women]]", "[[second-wave-feminism]]", "[[modernism]]"]
+requires: []
 lists:
   - "[[feminists]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[simone-de-beauvoir]] · [[gloria-steinem]] · [[bell-hooks]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,13 +4,11 @@ category: history
 defines:
   - Ostrogoths
   - Ostrogothic
-related:
-  - "[[theodoric]]"
-  - "[[visigoths]]"
-  - "[[huns]]"
-  - "[[byzantine-empire]]"
+related: ["[[theodoric]]", "[[visigoths]]", "[[huns]]", "[[byzantine-empire]]", "[[rome]]"]
+requires: []
 lists:
   - "[[peoples-of-the-early-middle-ages]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ The *Ostrogoths* were the eastern branch of the Gothic peoples, ruled by *Theodo
 ## see also
 
 - [[visigoths]] · [[theodoric]] · [[vandals]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

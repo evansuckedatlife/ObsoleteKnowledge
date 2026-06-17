@@ -2,8 +2,10 @@
 type: place
 category: history
 defines: [Mongol Empire, Mongols, Great Khan]
-related: ["[[genghis-khan]]", "[[kublai-khan]]", "[[pax-mongolica]]", "[[silk-road]]"]
+related: ["[[genghis-khan]]", "[[kublai-khan]]", "[[pax-mongolica]]", "[[silk-road]]", "[[china]]"]
+requires: []
 lists: ["[[ancient-empires]]"]
+tour_order: 0
 read: false
 ---
 
@@ -57,6 +59,18 @@ The Mongol Empire is paradoxical: it was history's most militarily efficient emp
 ## see also
 
 - [[roman-empire]] · [[achaemenid-empire]] · [[macedonian-empire]] · [[carthaginian-empire]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

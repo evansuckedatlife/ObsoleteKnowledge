@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["Cold War", "The Cold War"]
 related: ["[[iron-curtain]]", "[[nikita-khrushchev]]", "[[john-f-kennedy]]", "[[cuban-missile-crisis]]", "[[berlin-wall]]", "[[vietnam-war]]", "[[space-race]]", "[[nuclear-deterrence]]", "[[mccarthyism]]", "[[existentialism]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -65,6 +67,18 @@ The Cold War defined the second half of the 20th century: it shaped politics, ar
 ## see also
 
 - [[world-war-ii]] · [[vietnam-war]] · [[space-race]] · [[cuban-missile-crisis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

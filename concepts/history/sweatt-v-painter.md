@@ -4,16 +4,22 @@ category: history
 defines:
   - "Sweatt v. Painter"
   - Sweatt decision
-related:
-  - "[[separate-but-equal]]"
-  - "[[brown-v-board-of-education]]"
-  - "[[plessy-v-ferguson]]"
+related: ["[[separate-but-equal]]", "[[brown-v-board-of-education]]", "[[plessy-v-ferguson]]"]
+requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-concerned-with-african-americans]]"
+tour_order: 1
 read: false
 ---
 
 # Sweatt v. Painter
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ read: false
 ## see also
 
 - [[plessy-v-ferguson]] · [[brown-v-board-of-education]] · [[mclaurin-v-oklahoma]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

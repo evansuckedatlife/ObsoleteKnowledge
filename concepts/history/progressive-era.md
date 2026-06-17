@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["Progressive Era", "Progressivism", "The Progressive Era"]
 related: ["[[theodore-roosevelt]]", "[[woodrow-wilson]]", "[[ida-tarbell]]", "[[upton-sinclair]]", "[[muckraking]]", "[[trust-busting]]", "[[conservation-movement]]", "[[women-suffrage]]", "[[trust-busting]]", "[[antitrust-law]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -71,6 +73,18 @@ The Progressive Era represents American liberalism's optimistic phase: the belie
 ## see also
 
 - [[theodore-roosevelt]] · [[woodrow-wilson]] · [[muckraking]] · [[women-suffrage]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

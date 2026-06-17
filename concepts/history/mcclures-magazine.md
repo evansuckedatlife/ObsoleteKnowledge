@@ -3,7 +3,9 @@ type: work
 category: history
 defines: ["McClure's Magazine", "McClures Magazine"]
 related: ["[[muckraking-journalism]]", "[[progressive-era]]", "[[investigative-journalism]]"]
+requires: []
 lists: ["[[magazines-from-american-history]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[the-saturday-evening-post]] · [[harpers-magazine]] · [[the-atlantic]] · [[national-geographic]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

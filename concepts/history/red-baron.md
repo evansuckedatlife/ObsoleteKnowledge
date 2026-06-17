@@ -4,15 +4,22 @@ category: history
 defines:
   - Red Baron
   - Manfred von Richthofen
-related:
-  - "[[eddie-rickenbacker]]"
-  - "[[jimmy-doolittle]]"
+related: ["[[eddie-rickenbacker]]", "[[jimmy-doolittle]]"]
+requires: ["[[world-war-i]]"]
 lists:
   - "[[aviators]]"
+tour_order: 1
 read: false
 ---
 
 # Red Baron
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +43,18 @@ read: false
 ## see also
 
 - [[eddie-rickenbacker]] · [[jimmy-doolittle]] · [[howard-hughes]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

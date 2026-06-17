@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Battle of Marathon]
 related: ["[[themistocles]]", "[[persian-wars]]", "[[ancient-greece]]"]
+requires: []
 lists: ["[[battles-of-the-ancient-world]]"]
+tour_order: 0
 read: false
 aliases: [marathon]
 ---
@@ -34,6 +36,18 @@ The *Battle of Marathon* (490 BC) was a pivotal clash between the Athenian and E
 ## see also
 
 - [[thermopylae]] · [[salamis]] · [[plataea]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

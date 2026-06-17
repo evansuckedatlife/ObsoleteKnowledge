@@ -5,12 +5,11 @@ defines:
   - Peruke
   - Periwig
   - Powdered wig
-related:
-  - "[[louis-xiv]]"
-  - "[[george-iii]]"
-  - "[[bustle]]"
+related: ["[[louis-xiv]]", "[[george-iii]]", "[[bustle]]"]
+requires: []
 lists:
   - "[[historical-fashions]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ The *peruke* (or *periwig*), a full-bottomed wig made of human or animal hair an
 ## see also
 
 - [[louis-xiv]] · [[george-iii]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

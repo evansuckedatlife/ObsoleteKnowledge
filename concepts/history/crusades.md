@@ -2,8 +2,10 @@
 type: event
 category: history
 defines: [Crusades, Crusading Movement]
-related: ["[[jerusalem]]", "[[saladin]]", "[[richard-the-lionheart]]", "[[islam]]", "[[byzantine-empire]]", "[[medieval-europe]]", "[[christian-theology]]", "[[muslim-world]]"]
+related: ["[[jerusalem]]", "[[saladin]]", "[[richard-the-lionheart]]", "[[islam]]", "[[byzantine-empire]]", "[[medieval-europe]]", "[[christian-theology]]", "[[muslim-world]]", "[[christianity]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -69,6 +71,18 @@ The Crusades represent one of history's most consequential religious conflicts, 
 ## see also
 
 - [[jerusalem]] · [[saladin]] · [[richard-the-lionheart]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,8 +2,10 @@
 type: person
 category: history
 defines: [Trajan, Imperator Caesar Nerva Trajanus Divi Nervae filius Augustus]
-related: ["[[hadrian]]", "[[nerva]]", "[[trajans-column]]", "[[dacian-wars]]"]
+related: ["[[hadrian]]", "[[nerva]]", "[[trajans-column]]", "[[dacian-wars]]", "[[rome]]"]
+requires: []
 lists: ["[[roman-emperors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Trajan was a Roman emperor who ruled from AD 98 to 117. As the second of the "Fi
 ## see also
 
 - [[hadrian]] · [[marcus-aurelius]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,13 +3,11 @@ type: person
 category: history
 defines:
   - Simone de Beauvoir
-related:
-  - "[[jean-paul-sartre]]"
-  - "[[existentialism]]"
-  - "[[gender]]"
-  - "[[philosophy]]"
+related: ["[[jean-paul-sartre]]", "[[existentialism]]", "[[gender]]", "[[philosophy]]"]
+requires: []
 lists:
   - "[[feminists]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[betty-friedan]] · [[gloria-steinem]] · [[judith-butler]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

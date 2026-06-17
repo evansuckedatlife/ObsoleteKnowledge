@@ -3,11 +3,20 @@ type: event
 category: history
 defines: ["Lincoln's Second Inauguration", "Abraham Lincoln Inauguration 1865"]
 related: ["[[abraham-lincoln]]", "[[american-civil-war]]", "[[reconstruction]]"]
+requires: ["[[american-civil-war]]"]
 lists: ["[[presidential-inaugurations]]"]
+tour_order: 1
 read: false
 ---
 
 # Lincoln's Second Inauguration
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ read: false
 ## see also
 
 - [[lincoln-first-inauguration]] · [[andrew-johnson-inauguration]] · [[theodore-roosevelt-inauguration]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

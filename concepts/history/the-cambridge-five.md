@@ -4,13 +4,11 @@ category: history
 defines:
   - The Cambridge Five
   - Cambridge Spy Ring
-related:
-  - "[[kim-philby]]"
-  - "[[donald-maclean]]"
-  - "[[soviet-intelligence]]"
-  - "[[british-intelligence]]"
+related: ["[[kim-philby]]", "[[donald-maclean]]", "[[soviet-intelligence]]", "[[british-intelligence]]"]
+requires: []
 lists:
   - "[[spies]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[kim-philby]] · [[donald-maclean]] · [[aldrich-ames]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

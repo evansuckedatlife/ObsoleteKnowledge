@@ -5,12 +5,11 @@ defines:
   - Léopold Senghor
   - Leopold Sedar Senghor
   - Léopold Sedar Senghor
-related:
-  - "[[senegal]]"
-  - "[[negritude]]"
-  - "[[french-west-africa]]"
+related: ["[[senegal]]", "[[negritude]]", "[[french-west-africa]]"]
+requires: []
 lists:
   - "[[20th-century-african-leaders]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ read: false
 ## see also
 
 - [[julius-nyerere]] · [[kwame-nkrumah]] · [[nelson-mandela]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

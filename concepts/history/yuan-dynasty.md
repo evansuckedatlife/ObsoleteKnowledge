@@ -2,8 +2,10 @@
 type: event
 category: history
 defines: [Yuan Dynasty]
-related: ["[[song-dynasty]]", "[[mongol-empire]]", "[[kublai-khan]]", "[[ming-dynasty]]", "[[marco-polo]]", "[[genghis-khan]]"]
+related: ["[[song-dynasty]]", "[[mongol-empire]]", "[[kublai-khan]]", "[[ming-dynasty]]", "[[marco-polo]]", "[[genghis-khan]]", "[[china]]"]
+requires: []
 lists: ["[[chinese-dynasties]]"]
+tour_order: 0
 read: false
 ---
 
@@ -70,6 +72,18 @@ The Yuan Dynasty exemplifies both the power and the limits of conquest-based emp
 ## see also
 
 - [[song-dynasty]] · [[ming-dynasty]] · [[qing-dynasty]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

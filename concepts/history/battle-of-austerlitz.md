@@ -4,12 +4,11 @@ category: history
 defines:
   - Battle of Austerlitz
   - Battle of the Three Emperors
-related:
-  - "[[napoleon-bonaparte]]"
-  - "[[austria-hungary]]"
-  - "[[russian-empire]]"
+related: ["[[napoleon-bonaparte]]", "[[austria-hungary]]", "[[russian-empire]]", "[[france]]"]
+requires: []
 lists:
   - "[[napoleonic-battles]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ The Battle of Austerlitz on December 2, 1805, was one of Napoleon's greatest tac
 ## see also
 
 - [[battle-of-waterloo]] · [[battle-of-jena-auerstedt]] · [[battle-of-wagram]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

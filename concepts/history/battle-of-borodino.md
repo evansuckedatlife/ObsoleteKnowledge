@@ -3,13 +3,11 @@ type: event
 category: history
 defines:
   - Battle of Borodino
-related:
-  - "[[napoleon-bonaparte]]"
-  - "[[russian-empire]]"
-  - "[[kutuzov-mikhail]]"
-  - "[[moscow-campaign]]"
+related: ["[[napoleon-bonaparte]]", "[[russian-empire]]", "[[kutuzov-mikhail]]", "[[moscow-campaign]]", "[[france]]"]
+requires: []
 lists:
   - "[[napoleonic-battles]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ The Battle of Borodino on September 7, 1812, was the largest and bloodiest engag
 ## see also
 
 - [[battle-of-waterloo]] · [[battle-of-austerlitz]] · [[battle-of-friedland]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

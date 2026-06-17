@@ -2,8 +2,10 @@
 type: event
 category: history
 defines: [Battle of Pharsalus]
-related: ["[[julius-caesar]]", "[[pompey]]", "[[roman-civil-war]]"]
+related: ["[[julius-caesar]]", "[[pompey]]", "[[roman-civil-war]]", "[[rome]]"]
+requires: []
 lists: ["[[battles-of-the-ancient-world]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The *Battle of Pharsalus* (48 BC) was the decisive engagement of the Roman Civil
 ## see also
 
 - [[julius-caesar]] · [[pompey]] · [[battle-of-actium]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

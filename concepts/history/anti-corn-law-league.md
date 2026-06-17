@@ -3,7 +3,9 @@ type: concept
 category: history
 defines: ["Anti-Corn Law League", "Anti-Corn Law agitation"]
 related: ["[[corn-laws]]", "[[robert-peel]]", "[[free-trade]]", "[[chartism]]", "[[great-reform-act-of-1832]]"]
+requires: []
 lists: ["[[british-reform-movements]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The **Anti-Corn Law League** (1839–1846) was a mass political movement that su
 ## see also
 
 - [[chartism]] · [[robert-peel]] · [[great-reform-act-of-1832]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

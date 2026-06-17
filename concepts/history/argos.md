@@ -4,13 +4,11 @@ category: history
 defines:
   - Argos
   - Argive
-related:
-  - "[[diomedes]]"
-  - "[[agamemnon]]"
-  - "[[heracles]]"
-  - "[[danaus]]"
+related: ["[[diomedes]]", "[[agamemnon]]", "[[heracles]]", "[[danaus]]"]
+requires: []
 lists:
   - "[[ancient-greek-places]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[mycenae]] · [[sparta]] · [[corinth]] · [[thebes]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

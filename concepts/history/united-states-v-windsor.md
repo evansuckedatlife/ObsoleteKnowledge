@@ -2,16 +2,22 @@
 type: event
 category: history
 defines: ["United States v. Windsor"]
-related:
-  - "[[defense-of-marriage-act]]"
-  - "[[obergefell-v-hodges]]"
-  - "[[lawrence-v-texas]]"
+related: ["[[defense-of-marriage-act]]", "[[obergefell-v-hodges]]", "[[lawrence-v-texas]]"]
+requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-involving-lgbt-rights]]"
+tour_order: 1
 read: false
 ---
 
 # United States v. Windsor
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[obergefell-v-hodges]] · [[defense-of-marriage-act]] · [[lawrence-v-texas]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

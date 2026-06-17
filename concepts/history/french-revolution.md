@@ -2,12 +2,21 @@
 type: event
 category: history
 defines: ["French Revolution"]
-related: ["[[robespierre]]", "[[danton]]", "[[marat]]", "[[marie-antoinette]]", "[[reign-of-terror]]", "[[napoleon-bonaparte]]", "[[declaration-of-the-rights-of-man-and-citizen]]"]
+related: ["[[robespierre]]", "[[danton]]", "[[marat]]", "[[marie-antoinette]]", "[[reign-of-terror]]", "[[napoleon-bonaparte]]", "[[declaration-of-the-rights-of-man-and-citizen]]", "[[france]]"]
+requires: ["[[enlightenment]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # French Revolution
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -52,6 +61,18 @@ The French Revolution was history's first sustained attempt to rebuild society f
 ## see also
 
 - [[robespierre]] · [[danton]] · [[marat]] · [[marie-antoinette]] · [[napoleon-bonaparte]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

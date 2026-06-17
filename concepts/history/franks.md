@@ -4,13 +4,11 @@ category: history
 defines:
   - Franks
   - Frankish
-related:
-  - "[[charlemagne]]"
-  - "[[merovingian]]"
-  - "[[carolingian]]"
-  - "[[gaul]]"
+related: ["[[charlemagne]]", "[[merovingian]]", "[[carolingian]]", "[[gaul]]"]
+requires: []
 lists:
   - "[[peoples-of-the-early-middle-ages]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ The *Franks* were a Germanic people who rose from the Rhine frontier to become t
 ## see also
 
 - [[charlemagne]] · [[ostrogoths]] · [[visigoths]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

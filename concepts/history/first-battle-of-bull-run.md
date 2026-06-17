@@ -3,11 +3,20 @@ type: event
 category: history
 defines: [First Battle of Bull Run, First Manassas, Bull Run]
 related: ["[[american-civil-war]]", "[[pierre-beauregard]]", "[[irvin-mcdowell]]", "[[confederate-army]]", "[[union-army]]"]
+requires: ["[[american-civil-war]]"]
 lists: ["[[civil-war-battles]]"]
+tour_order: 1
 read: false
 ---
 
 # First Battle of Bull Run
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -46,6 +55,18 @@ Bull Run became a symbol of the Union's unreadiness and the Confederacy's fighti
 ## see also
 
 - [[battle-of-gettysburg]] · [[battle-of-antietam]] · [[battle-of-shiloh]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

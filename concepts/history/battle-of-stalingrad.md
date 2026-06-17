@@ -3,11 +3,20 @@ type: event
 category: history
 defines: [Battle of Stalingrad, Stalingrad]
 related: ["[[operation-barbarossa]]", "[[soviet-union]]", "[[nazi-germany]]", "[[world-war-ii]]", "[[eastern-front]]"]
+requires: ["[[world-war-ii]]"]
 lists: ["[[world-war-ii-battles]]"]
+tour_order: 1
 read: false
 ---
 
 # Battle of Stalingrad
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -46,6 +55,18 @@ Stalingrad represents the moment the Second World War's trajectory fundamentally
 ## see also
 
 - [[battle-of-kursk]] · [[battle-of-britain]] · [[operation-barbarossa]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

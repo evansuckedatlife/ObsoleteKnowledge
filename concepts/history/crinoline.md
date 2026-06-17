@@ -3,13 +3,11 @@ type: practice
 category: history
 defines:
   - Crinoline
-related:
-  - "[[farthingale]]"
-  - "[[corset]]"
-  - "[[bustle]]"
-  - "[[victoria]]"
+related: ["[[farthingale]]", "[[corset]]", "[[bustle]]", "[[victoria]]"]
+requires: []
 lists:
   - "[[historical-fashions]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ The *crinoline* is a stiffened petticoat or hoop skirt made of horsehair fabric 
 ## see also
 
 - [[farthingale]] · [[corset]] · [[bustle]] · [[victoria]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

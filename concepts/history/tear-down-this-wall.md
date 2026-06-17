@@ -3,11 +3,20 @@ type: event
 category: history
 defines: ["Tear Down This Wall", Reagan's Cold War challenge]
 related: ["[[ronald-reagan]]", "[[cold-war]]", "[[soviet-union]]", "[[berlin-wall]]"]
+requires: ["[[cold-war]]"]
 lists: ["[[modern-speeches]]"]
+tour_order: 1
 read: false
 ---
 
 # Tear Down This Wall
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ Ronald Reagan's speech at the Brandenburg Gate on *June 12, 1987*, issued a dire
 ## see also
 
 - [[ich-bin-ein-berliner]] · [[we-shall-fight-on-the-beaches]] · [[i-have-a-dream]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

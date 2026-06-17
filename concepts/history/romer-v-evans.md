@@ -2,16 +2,22 @@
 type: event
 category: history
 defines: ["Romer v. Evans"]
-related:
-  - "[[equal-protection]]"
-  - "[[lawrence-v-texas]]"
-  - "[[colorado-amendment-2]]"
+related: ["[[equal-protection]]", "[[lawrence-v-texas]]", "[[colorado-amendment-2]]"]
+requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-involving-lgbt-rights]]"
+tour_order: 1
 read: false
 ---
 
 # Romer v. Evans
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[lawrence-v-texas]] · [[equal-protection]] · [[obergefell-v-hodges]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

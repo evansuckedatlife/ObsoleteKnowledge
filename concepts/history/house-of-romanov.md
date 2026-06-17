@@ -2,14 +2,11 @@
 type: concept
 category: history
 defines: ["House of Romanov", "Romanov Dynasty", "House of Rurik"]
-related:
-  - "[[peter-the-great]]"
-  - "[[catherine-the-great]]"
-  - "[[russian-empire]]"
-  - "[[nicholas-ii]]"
-  - "[[russian-revolution]]"
+related: ["[[peter-the-great]]", "[[catherine-the-great]]", "[[russian-empire]]", "[[nicholas-ii]]", "[[russian-revolution]]"]
+requires: []
 lists:
   - "[[european-royal-families]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +38,18 @@ The **House of Romanov** ruled Russia for over three centuries (1613–1918), tr
 ## see also
 
 - [[house-of-habsburg]] · [[house-of-hohenzollern]] · [[house-of-bourbon]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

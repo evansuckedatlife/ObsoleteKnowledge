@@ -3,11 +3,20 @@ type: event
 category: history
 defines: [Battle of Antietam, Sharpsburg]
 related: ["[[american-civil-war]]", "[[robert-e-lee]]", "[[george-mcclellan]]", "[[emancipation-proclamation]]"]
+requires: ["[[american-civil-war]]"]
 lists: ["[[civil-war-battles]]"]
+tour_order: 1
 read: false
 ---
 
 # Battle of Antietam
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -45,6 +54,18 @@ Though neither army achieved a decisive tactical victory, Antietam fundamentally
 ## see also
 
 - [[battle-of-gettysburg]] · [[battle-of-shiloh]] · [[first-bull-run]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

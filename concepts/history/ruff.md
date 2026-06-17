@@ -3,12 +3,11 @@ type: practice
 category: history
 defines:
   - Ruff
-related:
-  - "[[codpiece]]"
-  - "[[farthingale]]"
-  - "[[elizabeth-i]]"
+related: ["[[codpiece]]", "[[farthingale]]", "[[elizabeth-i]]"]
+requires: []
 lists:
   - "[[historical-fashions]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ The *ruff* is an elaborate circular or standing collar made of stiffened linen, 
 ## see also
 
 - [[elizabeth-i]] · [[farthingale]] · [[codpiece]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

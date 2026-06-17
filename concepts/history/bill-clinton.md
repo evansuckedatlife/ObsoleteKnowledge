@@ -3,7 +3,9 @@ type: person
 category: history
 defines: [Bill Clinton]
 related: ["[[the-lewinsky-scandal]]", "[[impeachment-of-bill-clinton]]", "[[nafta]]", "[[end-of-cold-war]]", "[[rwanda-genocide]]", "[[kosovo-intervention]]", "[[1990s-prosperity]]", "[[welfare-reform]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +39,18 @@ Bill Clinton (born 1946) was the 42nd President of the United States, serving fr
 ## see also
 
 - [[george-h-w-bush]] · [[george-w-bush]] · [[george-washington]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

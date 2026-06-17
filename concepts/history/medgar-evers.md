@@ -4,17 +4,22 @@ category: history
 defines:
   - Medgar Evers
   - Medgar Wiley Evers
-related:
-  - "[[martin-luther-king-jr]]"
-  - "[[rosa-parks]]"
-  - "[[john-lewis]]"
-  - "[[naacp]]"
+related: ["[[martin-luther-king-jr]]", "[[rosa-parks]]", "[[john-lewis]]", "[[naacp]]"]
+requires: ["[[civil-rights-movement]]"]
 lists:
   - "[[african-american-civil-rights-leaders]]"
+tour_order: 1
 read: false
 ---
 
 # Medgar Evers
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +45,18 @@ read: false
 ## see also
 
 - [[martin-luther-king-jr]] · [[rosa-parks]] · [[john-lewis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

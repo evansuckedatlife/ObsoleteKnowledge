@@ -4,13 +4,11 @@ category: history
 defines:
   - Lombards
   - Lombard
-related:
-  - "[[theodoric]]"
-  - "[[ostrogoths]]"
-  - "[[italy]]"
-  - "[[charlemagne]]"
+related: ["[[theodoric]]", "[[ostrogoths]]", "[[italy]]", "[[charlemagne]]"]
+requires: []
 lists:
   - "[[peoples-of-the-early-middle-ages]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ The *Lombards* were a Germanic people who invaded and settled northern Italy in 
 ## see also
 
 - [[ostrogoths]] · [[visigoths]] · [[charlemagne]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

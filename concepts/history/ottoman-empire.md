@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Ottoman Empire]
 related: ["[[mehmed-ii]]", "[[suleiman-the-magnificent]]", "[[fall-of-constantinople]]", "[[byzantine-empire]]", "[[the-crusades]]", "[[the-silk-road]]", "[[austro-hungarian-empire]]", "[[russian-empire]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -57,6 +59,18 @@ The Ottoman Empire represents one of history's most consequential political proj
 ## see also
 
 - [[byzantine-empire]] · [[austro-hungarian-empire]] · [[russian-empire]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

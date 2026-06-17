@@ -3,13 +3,11 @@ type: person
 category: history
 defines:
   - Emmeline Pankhurst
-related:
-  - "[[suffrage]]"
-  - "[[womens-rights]]"
-  - "[[british-politics]]"
-  - "[[civil-disobedience]]"
+related: ["[[suffrage]]", "[[womens-rights]]", "[[british-politics]]", "[[civil-disobedience]]", "[[england]]"]
+requires: []
 lists:
   - "[[feminists]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[susan-b-anthony]] · [[gloria-steinem]] · [[margaret-sanger]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

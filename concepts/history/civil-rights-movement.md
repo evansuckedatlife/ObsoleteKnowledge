@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["Civil Rights Movement", "The Civil Rights Movement"]
 related: ["[[martin-luther-king-jr]]", "[[rosa-parks]]", "[[malcolm-x]]", "[[lyndon-b-johnson]]", "[[civil-rights-act-of-1964]]", "[[voting-rights-act-of-1965]]", "[[desegregation]]", "[[nonviolence]]", "[[great-depression]]", "[[black-power]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -71,6 +73,18 @@ The Civil Rights Movement stands as one of the twentieth century's defining mora
 ## see also
 
 - [[martin-luther-king-jr]] · [[malcolm-x]] · [[desegregation]] · [[voting-rights-act-of-1965]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

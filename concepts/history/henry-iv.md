@@ -5,13 +5,11 @@ defines:
   - Henry IV
   - Henri IV
   - Henry of Navarre
-related:
-  - "[[french-wars-of-religion]]"
-  - "[[louis-xiii]]"
-  - "[[bourbon-dynasty]]"
-  - "[[edict-of-nantes]]"
+related: ["[[french-wars-of-religion]]", "[[louis-xiii]]", "[[bourbon-dynasty]]", "[[edict-of-nantes]]", "[[france]]"]
+requires: []
 lists:
   - "[[kings-of-france]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ read: false
 ## see also
 
 - [[louis-xiii]] · [[louis-xiv]] · [[charles-v]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

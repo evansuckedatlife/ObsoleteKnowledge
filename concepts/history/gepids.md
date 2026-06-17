@@ -4,13 +4,11 @@ category: history
 defines:
   - Gepids
   - Gepid
-related:
-  - "[[huns]]"
-  - "[[ostrogoths]]"
-  - "[[pannonia]]"
-  - "[[theodoric]]"
+related: ["[[huns]]", "[[ostrogoths]]", "[[pannonia]]", "[[theodoric]]"]
+requires: []
 lists:
   - "[[peoples-of-the-early-middle-ages]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ The *Gepids* were a Germanic people closely related to the *Goths* who initially
 ## see also
 
 - [[ostrogoths]] · [[huns]] · [[visigoths]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

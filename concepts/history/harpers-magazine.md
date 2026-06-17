@@ -3,7 +3,9 @@ type: work
 category: history
 defines: ["Harper's Magazine", "Harpers Magazine"]
 related: ["[[american-journalism]]", "[[literary-magazines]]", "[[social-commentary]]"]
+requires: []
 lists: ["[[magazines-from-american-history]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[the-atlantic]] · [[the-new-yorker]] · [[national-geographic]] · [[the-saturday-evening-post]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

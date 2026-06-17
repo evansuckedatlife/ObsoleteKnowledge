@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Assassination of Archduke Franz Ferdinand, Franz Ferdinand assassination]
 related: ["[[archduke-franz-ferdinand]]", "[[gavrilo-princip]]", "[[world-war-i]]", "[[austro-hungarian-empire]]", "[[black-hand]]"]
+requires: []
 lists: ["[[assassinations]]"]
+tour_order: 0
 read: false
 ---
 
@@ -49,6 +51,18 @@ The assassination of Franz Ferdinand holds a unique place in historical consciou
 ## see also
 
 - [[assassination-of-julius-caesar]] · [[assassination-of-abraham-lincoln]] · [[archduke-franz-ferdinand]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,12 +3,11 @@ type: person
 category: history
 defines:
   - John C. Calhoun
-related:
-  - "[[andrew-jackson]]"
-  - "[[james-k-polk]]"
-  - "[[nullification-crisis]]"
+related: ["[[andrew-jackson]]", "[[james-k-polk]]", "[[nullification-crisis]]"]
+requires: []
 lists:
   - "[[vice-presidents-who-never-became-president]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[aaron-burr]] · [[hubert-humphrey]] · [[dan-quayle]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

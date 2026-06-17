@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Election of 1960, "1960 US presidential election"]
 related: ["[[john-f-kennedy]]", "[[richard-nixon]]", "[[cold-war]]", "[[television-debate]]", "[[civil-rights]]"]
+requires: []
 lists: ["[[elections]]"]
+tour_order: 0
 read: false
 ---
 
@@ -47,6 +49,18 @@ The 1960 election was a watershed for American political communication. Televisi
 ## see also
 
 - [[election-of-1932]] · [[election-of-1948]] · [[election-of-1968]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

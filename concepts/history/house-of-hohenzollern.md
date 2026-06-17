@@ -2,14 +2,11 @@
 type: concept
 category: history
 defines: ["House of Hohenzollern", "Hohenzollern Dynasty"]
-related:
-  - "[[prussian-empire]]"
-  - "[[frederick-the-great]]"
-  - "[[german-empire]]"
-  - "[[kaiser-wilhelm-ii]]"
-  - "[[bismarck]]"
+related: ["[[prussian-empire]]", "[[frederick-the-great]]", "[[german-empire]]", "[[kaiser-wilhelm-ii]]", "[[bismarck]]", "[[germany]]"]
+requires: []
 lists:
   - "[[european-royal-families]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +38,18 @@ The **House of Hohenzollern** rose from minor German nobility to rule Prussia an
 ## see also
 
 - [[house-of-habsburg]] · [[house-of-bourbon]] · [[house-of-romanov]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

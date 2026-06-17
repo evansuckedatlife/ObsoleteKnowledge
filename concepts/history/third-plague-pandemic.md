@@ -5,12 +5,11 @@ defines:
   - Third Plague Pandemic
   - Modern Plague Pandemic
   - Pneumonic Plague Pandemic
-related:
-  - "[[black-death]]"
-  - "[[plague-of-justinian]]"
-  - "[[plague-rat-flea]]"
+related: ["[[black-death]]", "[[plague-of-justinian]]", "[[plague-rat-flea]]"]
+requires: []
 lists:
   - "[[plagues-and-pandemics]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +40,18 @@ The *Third Plague Pandemic* was a global resurgence of bubonic plague that began
 ## see also
 
 - [[black-death]] · [[plague-of-justinian]] · [[spanish-flu]] · [[cholera-pandemics]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

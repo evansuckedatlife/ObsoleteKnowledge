@@ -3,7 +3,9 @@ type: place
 category: history
 defines: [Macedonian Empire, Alexander the Great, Hellenistic Empire]
 related: ["[[alexander-the-great]]", "[[philip-ii]]", "[[hellenistic-period]]", "[[achaemenid-empire]]"]
+requires: []
 lists: ["[[ancient-empires]]"]
+tour_order: 0
 read: false
 ---
 
@@ -51,6 +53,18 @@ Alexander's empire is a paradox: it was the fastest and geographically largest c
 ## see also
 
 - [[achaemenid-empire]] · [[roman-empire]] · [[mauryan-empire]] · [[carthaginian-empire]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

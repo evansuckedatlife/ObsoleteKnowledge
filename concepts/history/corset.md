@@ -3,12 +3,11 @@ type: practice
 category: history
 defines:
   - Corset
-related:
-  - "[[farthingale]]"
-  - "[[bustle]]"
-  - "[[crinoline]]"
+related: ["[[farthingale]]", "[[bustle]]", "[[crinoline]]"]
+requires: []
 lists:
   - "[[historical-fashions]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ The *corset* is a rigid undergarment designed to shape the torso, particularly t
 ## see also
 
 - [[farthingale]] · [[bustle]] · [[crinoline]] · [[flapper-dress]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

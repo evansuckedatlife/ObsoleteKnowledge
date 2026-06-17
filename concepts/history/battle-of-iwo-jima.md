@@ -3,12 +3,11 @@ type: event
 category: history
 defines:
   - Battle of Iwo Jima
-related:
-  - "[[douglas-macarthur]]"
-  - "[[united-states-marine-corps]]"
-  - "[[japan-world-war-ii]]"
+related: ["[[douglas-macarthur]]", "[[united-states-marine-corps]]", "[[japan-world-war-ii]]", "[[japan]]"]
+requires: []
 lists:
   - "[[world-war-ii-pacific-campaigns]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ Fought February–March 1945, the Battle of Iwo Jima saw American forces assault
 ## see also
 
 - [[battle-of-guadalcanal]] · [[battle-of-leyte-gulf]] · [[battle-of-okinawa]] · [[battle-of-saipan]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

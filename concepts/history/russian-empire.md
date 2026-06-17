@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Russian Empire]
 related: ["[[peter-i]]", "[[catherine-ii]]", "[[alexander-i]]", "[[nicholas-i]]", "[[alexander-ii]]", "[[ottoman-empire]]", "[[austro-hungarian-empire]]", "[[the-romanov-dynasty]]", "[[russian-revolution]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -63,6 +65,18 @@ The Russian Empire stands as a paradox in history: a vast, culturally rich autoc
 ## see also
 
 - [[peter-i]] · [[catherine-ii]] · [[otto-von-bismarck]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

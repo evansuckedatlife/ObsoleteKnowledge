@@ -2,8 +2,10 @@
 type: person
 category: history
 defines: ["David Ben-Gurion", "David Gruen"]
-related: ["[[israel]]", "[[zionism]]", "[[arab-israeli-conflict]]", "[[golda-meir]]"]
+related: ["[[israel]]", "[[zionism]]", "[[arab-israeli-conflict]]", "[[golda-meir]]", "[[judaism]]"]
+requires: []
 lists: ["[[20th-century-middle-eastern-leaders]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[golda-meir]] · [[anwar-sadat]] · [[yasser-arafat]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

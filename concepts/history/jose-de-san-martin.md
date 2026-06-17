@@ -3,12 +3,11 @@ type: person
 category: history
 defines:
   - "José de San Martín"
-related:
-  - "[[simon-bolivar]]"
-  - "[[bernardo-ohiggins]]"
-  - "[[pedro-ii-of-brazil]]"
+related: ["[[simon-bolivar]]", "[[bernardo-ohiggins]]", "[[pedro-ii-of-brazil]]"]
+requires: []
 lists:
   - "[[south-american-political-leaders]]"
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +34,18 @@ read: false
 ## see also
 
 - [[simon-bolivar]] · [[bernardo-ohiggins]] · [[pedro-ii-of-brazil]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

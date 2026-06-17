@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Teapot Dome, Teapot Dome scandal]
 related: ["[[warren-g-harding]]", "[[albert-b-fall]]", "[[harry-sinclair]]"]
+requires: []
 lists: ["[[presidential-scandals]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[watergate]] · [[whiskey-ring]] · [[iran-contra]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

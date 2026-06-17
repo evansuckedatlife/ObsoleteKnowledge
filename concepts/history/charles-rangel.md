@@ -3,7 +3,9 @@ type: person
 category: history
 defines: [Charles Rangel, "Charles Bernard Rangel"]
 related: ["[[united-states-house]]", "[[harlem-new-york]]", "[[house-ways-and-means-committee]]"]
+requires: []
 lists: ["[[black-american-legislators]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[adam-clayton-powell-jr]] · [[john-lewis]] · [[barbara-jordan]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

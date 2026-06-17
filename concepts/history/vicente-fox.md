@@ -3,7 +3,9 @@ type: person
 category: history
 defines: [Vicente Fox]
 related: ["[[mexico-elections]]", "[[pri-mexico]]", "[[pan-mexico]]"]
+requires: []
 lists: ["[[mexican-leaders]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[pri-mexico]] · [[pan-mexico]] · [[mexico-elections]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

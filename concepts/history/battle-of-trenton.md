@@ -3,11 +3,20 @@ type: event
 category: history
 defines: [Trenton, Battle of Trenton]
 related: ["[[george-washington]]", "[[american-revolution]]", "[[hessian-soldiers]]"]
+requires: ["[[american-revolution]]"]
 lists: ["[[revolutionary-war-battles]]"]
+tour_order: 1
 read: false
 ---
 
 # Trenton
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ On *December 26, 1776*, after a devastating campaign and retreat across New Jers
 ## see also
 
 - [[battle-of-princeton]] · [[saratoga]] · [[battle-of-yorktown]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

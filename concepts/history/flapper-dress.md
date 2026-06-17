@@ -4,11 +4,11 @@ category: history
 defines:
   - Flapper dress
   - Flapper
-related:
-  - "[[corset]]"
-  - "[[roaring-twenties]]"
+related: ["[[corset]]", "[[roaring-twenties]]"]
+requires: []
 lists:
   - "[[historical-fashions]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +38,18 @@ The *flapper dress* is a loose, straight, knee-length or shorter dress worn prim
 ## see also
 
 - [[corset]] · [[zoot-suit]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

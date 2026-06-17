@@ -2,13 +2,11 @@
 type: person
 category: history
 defines: [Margaret Thatcher]
-related:
-  - "[[conservative-party]]"
-  - "[[cold-war]]"
-  - "[[falkland-islands-war]]"
-  - "[[trade-union-movement]]"
+related: ["[[conservative-party]]", "[[cold-war]]", "[[falkland-islands-war]]", "[[trade-union-movement]]"]
+requires: []
 lists:
   - "[[british-prime-ministers]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +35,18 @@ read: false
 ## see also
 
 - [[winston-churchill]] · [[tony-blair]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

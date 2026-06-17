@@ -4,11 +4,11 @@ category: history
 defines:
   - Walter Mondale
   - Walter Frederick Mondale
-related:
-  - "[[jimmy-carter]]"
-  - "[[ronald-reagan]]"
+related: ["[[jimmy-carter]]", "[[ronald-reagan]]"]
+requires: []
 lists:
   - "[[vice-presidents-who-never-became-president]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +38,18 @@ read: false
 ## see also
 
 - [[dick-cheney]] · [[hannibal-hamlin]] · [[adlai-stevenson-sr]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

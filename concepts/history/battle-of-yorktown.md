@@ -3,12 +3,21 @@ type: event
 category: history
 defines: [Yorktown, Battle of Yorktown, Siege of Yorktown]
 related: ["[[george-washington]]", "[[lord-cornwallis]]", "[[american-revolution]]"]
+requires: ["[[american-revolution]]"]
 lists: ["[[revolutionary-war-battles]]"]
+tour_order: 1
 read: false
 aliases: [yorktown]
 ---
 
 # Yorktown
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ In *September-October 1781*, American and French forces under George Washington 
 ## see also
 
 - [[bunker-hill]] · [[saratoga]] · [[battle-of-trenton]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

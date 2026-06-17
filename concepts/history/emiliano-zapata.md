@@ -3,11 +3,20 @@ type: person
 category: history
 defines: [Emiliano Zapata]
 related: ["[[mexican-revolution]]", "[[porfirio-diaz]]", "[[pancho-villa]]"]
+requires: ["[[mexican-revolution]]"]
 lists: ["[[mexican-leaders]]"]
+tour_order: 1
 read: false
 ---
 
 # Emiliano Zapata
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[pancho-villa]] · [[francisco-madero]] · [[lázaro-cardenas]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

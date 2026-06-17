@@ -3,7 +3,9 @@ type: place
 category: history
 defines: [Akkadian Empire, Akkad, Akkadian]
 related: ["[[mesopotamia]]", "[[sargon-of-akkad]]", "[[sumeria]]", "[[babylonian-empire]]"]
+requires: []
 lists: ["[[ancient-empires]]"]
+tour_order: 0
 read: false
 ---
 
@@ -47,6 +49,18 @@ The Akkadian Empire marks the pivot point in human history from *city-state* to 
 ## see also
 
 - [[babylonian-empire]] · [[assyrian-empire]] · [[hittite-empire]] · [[mauryan-empire]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,16 +4,22 @@ category: history
 defines:
   - Mirabeau
   - Honoré-Gabriel Riqueti
-related:
-  - "[[french-revolution]]"
-  - "[[louis-xvi]]"
-  - "[[estates-general]]"
+related: ["[[french-revolution]]", "[[louis-xvi]]", "[[estates-general]]"]
+requires: ["[[french-revolution]]"]
 lists:
   - "[[people-from-the-french-revolution]]"
+tour_order: 2
 read: false
 ---
 
 # Mirabeau
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ read: false
 ## see also
 
 - [[louis-xvi]] · [[marquis-de-lafayette]] · [[robespierre]] · [[danton]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

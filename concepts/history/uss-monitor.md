@@ -4,17 +4,22 @@ category: history
 defines:
   - USS Monitor
   - Monitor
-related:
-  - "[[css-virginia]]"
-  - "[[american-civil-war]]"
-  - "[[ironclad-warships]]"
-  - "[[hampton-roads]]"
+related: ["[[css-virginia]]", "[[american-civil-war]]", "[[ironclad-warships]]", "[[hampton-roads]]"]
+requires: ["[[american-civil-war]]"]
 lists:
   - "[[american-warships]]"
+tour_order: 1
 read: false
 ---
 
 # USS Monitor
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +44,18 @@ read: false
 ## see also
 
 - [[css-virginia]] · [[uss-constitution]] · [[uss-maine]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: concept
 category: history
 defines: ["Levellers", "Leveller movement"]
 related: ["[[english-civil-war]]", "[[oliver-cromwell]]", "[[thomas-hobbes]]", "[[republicanism]]", "[[chartism]]"]
+requires: []
 lists: ["[[british-reform-movements]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The **Levellers** were a radical democratic and egalitarian movement in England 
 ## see also
 
 - [[english-civil-war]] · [[olivier-cromwell]] · [[republicanism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

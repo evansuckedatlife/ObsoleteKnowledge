@@ -4,13 +4,11 @@ category: history
 defines:
   - Suebi
   - Suebic
-related:
-  - "[[germanic-peoples]]"
-  - "[[iberian-peninsula]]"
-  - "[[visigoths]]"
-  - "[[gaul]]"
+related: ["[[germanic-peoples]]", "[[iberian-peninsula]]", "[[visigoths]]", "[[gaul]]"]
+requires: []
 lists:
   - "[[peoples-of-the-early-middle-ages]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ The *Suebi* were a Germanic people who invaded the Iberian Peninsula in the 5th 
 ## see also
 
 - [[visigoths]] · [[vandals]] · [[ostrogoths]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

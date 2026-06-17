@@ -3,11 +3,20 @@ type: person
 category: history
 defines: ["Franklin Delano Roosevelt", "FDR"]
 related: ["[[theodore-roosevelt]]", "[[winston-churchill]]", "[[joseph-stalin]]", "[[harry-truman]]", "[[eleanor-roosevelt]]", "[[the-great-depression]]", "[[the-new-deal]]", "[[world-war-ii]]", "[[the-cold-war]]"]
+requires: ["[[great-depression]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Franklin Delano Roosevelt
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -56,6 +65,18 @@ Franklin Roosevelt stands as one of the transformative figures in American histo
 ## see also
 
 - [[theodore-roosevelt]] · [[harry-truman]] · [[winston-churchill]] · [[the-new-deal]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

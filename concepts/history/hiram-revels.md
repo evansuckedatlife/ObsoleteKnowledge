@@ -3,11 +3,20 @@ type: person
 category: history
 defines: [Hiram Revels]
 related: ["[[reconstruction-era]]", "[[united-states-senate]]", "[[mississippi]]"]
+requires: ["[[reconstruction-era]]"]
 lists: ["[[black-american-legislators]]"]
+tour_order: 2
 read: false
 ---
 
 # Hiram Revels
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[blanche-bruce]] · [[adam-clayton-powell-jr]] · [[barbara-jordan]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

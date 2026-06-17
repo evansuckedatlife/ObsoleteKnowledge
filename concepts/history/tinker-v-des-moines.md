@@ -3,16 +3,22 @@ type: event
 category: history
 defines:
   - "Tinker v. Des Moines Independent Community School District"
-related:
-  - "[[first-amendment]]"
-  - "[[student-rights]]"
-  - "[[vietnam-war]]"
+related: ["[[first-amendment]]", "[[student-rights]]", "[[vietnam-war]]"]
+requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-2]]"
+tour_order: 1
 read: false
 ---
 
 # Tinker v. Des Moines
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[new-york-times-co-v-sullivan]] · [[citizens-united-v-fec]] · [[marbury-v-madison]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

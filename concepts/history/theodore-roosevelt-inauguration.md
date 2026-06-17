@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["Theodore Roosevelt's Inauguration", "Theodore Roosevelt Inauguration 1905"]
 related: ["[[theodore-roosevelt]]", "[[american-imperialism]]", "[[progressive-era]]"]
+requires: []
 lists: ["[[presidential-inaugurations]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[william-henry-harrison-inauguration]] · [[william-mckinley-inauguration]] · [[fdr-first-inauguration]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

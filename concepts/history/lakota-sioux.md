@@ -5,12 +5,11 @@ defines:
   - Lakota
   - Sioux
   - Dakota
-related:
-  - "[[native-american-peoples]]"
-  - "[[sitting-bull]]"
-  - "[[little-bighorn]]"
+related: ["[[native-american-peoples]]", "[[sitting-bull]]", "[[little-bighorn]]"]
+requires: []
 lists:
   - "[[native-american-peoples]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ The *Lakota* (Sioux) are a Great Plains nation originally spanning the Dakotas, 
 ## see also
 
 - [[cherokee]] · [[navajo]] · [[cheyenne]] · [[comanche]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

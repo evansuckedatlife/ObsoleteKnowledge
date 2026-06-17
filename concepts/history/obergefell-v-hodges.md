@@ -2,16 +2,22 @@
 type: event
 category: history
 defines: ["Obergefell v. Hodges"]
-related:
-  - "[[lawrence-v-texas]]"
-  - "[[united-states-v-windsor]]"
-  - "[[same-sex-marriage]]"
+related: ["[[lawrence-v-texas]]", "[[united-states-v-windsor]]", "[[same-sex-marriage]]"]
+requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-involving-lgbt-rights]]"
+tour_order: 1
 read: false
 ---
 
 # Obergefell v. Hodges
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[lawrence-v-texas]] · [[united-states-v-windsor]] · [[masterpiece-cakeshop-v-colorado]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

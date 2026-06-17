@@ -3,7 +3,9 @@ type: place
 category: history
 defines: [Mesopotamia]
 related: ["[[sumer]]", "[[akkad]]", "[[babylon]]", "[[assyria]]", "[[hammurabi]]", "[[cuneiform]]", "[[ancient-agriculture]]", "[[writing-systems]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -75,6 +77,18 @@ Mesopotamia was where human civilization itself began: where writing was invente
 ## see also
 
 - [[sumer]] · [[babylon]] · [[hammurabi]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

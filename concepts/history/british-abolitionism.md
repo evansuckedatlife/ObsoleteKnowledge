@@ -3,11 +3,20 @@ type: concept
 category: history
 defines: ["British Abolitionism", "Anti-slavery movement in Britain"]
 related: ["[[great-reform-act-of-1832]]", "[[anti-corn-law-league]]", "[[slavery-abolition-act-1833]]", "[[william-wilberforce]]", "[[chartism]]"]
+requires: ["[[british-empire]]"]
 lists: ["[[british-reform-movements]]"]
+tour_order: 1
 read: false
 ---
 
 # British Abolitionism
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[great-reform-act-of-1832]] · [[anti-corn-law-league]] · [[chartism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

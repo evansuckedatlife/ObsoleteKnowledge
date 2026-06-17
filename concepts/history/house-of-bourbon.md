@@ -2,14 +2,11 @@
 type: concept
 category: history
 defines: ["House of Bourbon", "Bourbon Dynasty"]
-related:
-  - "[[louis-xiv]]"
-  - "[[french-absolute-monarchy]]"
-  - "[[spanish-empire]]"
-  - "[[war-of-spanish-succession]]"
-  - "[[marie-antoinette]]"
+related: ["[[louis-xiv]]", "[[french-absolute-monarchy]]", "[[spanish-empire]]", "[[war-of-spanish-succession]]", "[[marie-antoinette]]", "[[france]]", "[[spain]]"]
+requires: []
 lists:
   - "[[european-royal-families]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +38,18 @@ The **House of Bourbon** rose to power in France in 1589 and became Europe's gre
 ## see also
 
 - [[house-of-habsburg]] · [[house-of-hohenzollern]] · [[house-of-tudor]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

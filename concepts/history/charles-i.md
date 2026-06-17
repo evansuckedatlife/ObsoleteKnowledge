@@ -2,8 +2,10 @@
 type: person
 category: history
 defines: [Charles I]
-related: ["[[james-i]]", "[[oliver-cromwell]]", "[[english-civil-war]]", "[[house-of-stuart]]"]
+related: ["[[james-i]]", "[[oliver-cromwell]]", "[[english-civil-war]]", "[[house-of-stuart]]", "[[england]]"]
+requires: []
 lists: ["[[british-monarchs]]"]
+tour_order: 0
 read: false
 ---
 
@@ -29,6 +31,18 @@ Charles I was King of England, Scotland, and Ireland from 1625 until his executi
 ## see also
 
 - [[henry-viii]] · [[elizabeth-i]] · [[james-i]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

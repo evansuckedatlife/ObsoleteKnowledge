@@ -3,15 +3,22 @@ type: event
 category: history
 defines:
   - "Wickard v. Filburn"
-related:
-  - "[[new-deal]]"
-  - "[[commerce-clause]]"
+related: ["[[new-deal]]", "[[commerce-clause]]"]
+requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-2]]"
+tour_order: 1
 read: false
 ---
 
 # Wickard v. Filburn
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -37,6 +44,18 @@ read: false
 ## see also
 
 - [[marbury-v-madison]] · [[mcculloch-v-maryland]] · [[gibbons-v-ogden]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Soviet Union, USSR]
 related: ["[[lenin]]", "[[stalin]]", "[[russian-revolution]]", "[[cold-war]]", "[[world-war-ii]]", "[[russian-empire]]", "[[marxism]]", "[[collectivization]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -69,6 +71,18 @@ The Soviet Union embodied the 20th century's grand ideological experiment: an at
 ## see also
 
 - [[russian-revolution]] · [[cold-war]] · [[lenin]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

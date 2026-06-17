@@ -5,17 +5,22 @@ defines:
   - Malcolm X
   - Malcolm Little
   - el-Hajj Malik el-Shabazz
-related:
-  - "[[martin-luther-king-jr]]"
-  - "[[nation-of-islam]]"
-  - "[[elijah-muhammad]]"
-  - "[[booker-t-washington]]"
+related: ["[[martin-luther-king-jr]]", "[[nation-of-islam]]", "[[elijah-muhammad]]", "[[booker-t-washington]]", "[[islam]]"]
+requires: ["[[civil-rights-movement]]"]
 lists:
   - "[[african-american-civil-rights-leaders]]"
+tour_order: 1
 read: false
 ---
 
 # Malcolm X
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -41,6 +46,18 @@ read: false
 ## see also
 
 - [[martin-luther-king-jr]] · [[booker-t-washington]] · [[w-e-b-du-bois]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

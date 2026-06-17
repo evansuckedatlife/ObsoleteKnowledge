@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["Mexican Revolution"]
 related: ["[[porfirio-diaz]]", "[[emilio-zapata]]", "[[pancho-villa]]", "[[benito-juarez]]", "[[constitution-of-1917]]", "[[land-reform]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -59,6 +61,18 @@ The Mexican Revolution was Latin America's first major social upheaval, precedin
 ## see also
 
 - [[emilio-zapata]] · [[pancho-villa]] · [[porfirio-diaz]] · [[diego-rivera]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

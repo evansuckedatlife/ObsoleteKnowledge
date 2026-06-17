@@ -2,8 +2,10 @@
 type: event
 category: history
 defines: [Battle of Zama]
-related: ["[[scipio-africanus]]", "[[hannibal]]", "[[second-punic-war]]"]
+related: ["[[scipio-africanus]]", "[[hannibal]]", "[[second-punic-war]]", "[[rome]]"]
+requires: []
 lists: ["[[battles-of-the-ancient-world]]"]
+tour_order: 0
 read: false
 aliases: [zama]
 ---
@@ -35,6 +37,18 @@ The *Battle of Zama* (202 BC) saw the Roman general *Scipio Africanus* decisivel
 ## see also
 
 - [[cannae]] · [[lake-trasimene]] · [[trebia]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

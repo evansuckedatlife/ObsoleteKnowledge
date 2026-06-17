@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["American Civil War"]
 related: ["[[abraham-lincoln]]", "[[ulysses-s-grant]]", "[[robert-e-lee]]", "[[gettysburg-address]]", "[[emancipation-proclamation]]", "[[confederate-states-of-america]]", "[[reconstruction-era]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -58,6 +60,18 @@ The Civil War was a test of whether a democratic republic could survive internal
 ## see also
 
 - [[abraham-lincoln]] · [[ulysses-s-grant]] · [[robert-e-lee]] · [[gettysburg-address]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

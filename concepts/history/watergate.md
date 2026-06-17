@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Watergate, Watergate scandal]
 related: ["[[richard-nixon]]", "[[gerald-ford]]", "[[deep-throat]]"]
+requires: []
 lists: ["[[presidential-scandals]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[teapot-dome]] · [[iran-contra]] · [[the-lewinsky-scandal]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["American Revolution"]
 related: ["[[george-washington]]", "[[thomas-jefferson]]", "[[benjamin-franklin]]", "[[declaration-of-independence]]", "[[continental-congress]]", "[[boston-tea-party]]", "[[treaty-of-paris]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -52,6 +54,18 @@ The American Revolution stands as the first successful colonial independence mov
 ## see also
 
 - [[george-washington]] · [[thomas-jefferson]] · [[benjamin-franklin]] · [[declaration-of-independence]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

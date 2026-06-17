@@ -3,7 +3,9 @@ type: concept
 category: history
 defines: [Women's Rights, Women's Liberation]
 related: ["[[suffrage]]", "[[feminism]]", "[[seneca-falls-convention]]", "[[elizabeth-cady-stanton]]", "[[susan-b-anthony]]", "[[nineteenth-amendment]]", "[[equal-rights-amendment]]", "[[title-ix]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 aliases: [womens-liberation, womens-rights-movement]
 ---
@@ -43,6 +45,18 @@ aliases: [womens-liberation, womens-rights-movement]
 ## see also
 
 - [[suffrage]] · [[feminism]] · [[elizabeth-cady-stanton]] · [[susan-b-anthony]] · [[nineteenth-amendment]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

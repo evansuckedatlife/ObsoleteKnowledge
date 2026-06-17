@@ -4,13 +4,11 @@ category: history
 defines:
   - Battle of Waterloo
   - Waterloo
-related:
-  - "[[napoleon-bonaparte]]"
-  - "[[coalition-wars]]"
-  - "[[duke-of-wellington]]"
-  - "[[hundred-days]]"
+related: ["[[napoleon-bonaparte]]", "[[coalition-wars]]", "[[duke-of-wellington]]", "[[hundred-days]]", "[[france]]", "[[england]]"]
+requires: []
 lists:
   - "[[napoleonic-battles]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ The decisive defeat of Napoleon on June 18, 1815, near the village of Waterloo i
 ## see also
 
 - [[battle-of-borodino]] · [[battle-of-austerlitz]] · [[battle-of-jena-auerstedt]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

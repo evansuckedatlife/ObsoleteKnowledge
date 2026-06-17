@@ -5,11 +5,11 @@ defines:
   - Roma
   - Romani
   - Gypsies
-related:
-  - "[[europe]]"
-  - "[[diaspora]]"
+related: ["[[europe]]", "[[diaspora]]"]
+requires: []
 lists:
   - "[[indigenous-peoples]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +39,18 @@ The *Roma* (sometimes called *Romani* or *Gypsies*, the latter now considered a 
 ## see also
 
 - [[quechua]] · [[yanomami]] · [[indigenous-peoples]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

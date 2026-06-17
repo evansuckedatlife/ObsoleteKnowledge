@@ -4,12 +4,10 @@ category: history
 defines:
   - W.E.B. Du Bois
   - William Edward Burghardt Du Bois
-related:
-  - "[[booker-t-washington]]"
-  - "[[marcus-garvey]]"
-  - "[[malcolm-x]]"
-  - "[[martin-luther-king-jr]]"
+related: ["[[booker-t-washington]]", "[[marcus-garvey]]", "[[malcolm-x]]", "[[martin-luther-king-jr]]"]
+requires: []
 lists: ["[[african-american-authors]]", "[[african-american-civil-rights-leaders]]"]
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[booker-t-washington]] · [[marcus-garvey]] · [[martin-luther-king-jr]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

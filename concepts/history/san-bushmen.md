@@ -5,11 +5,11 @@ defines:
   - San
   - Bushmen
   - San people
-related:
-  - "[[southern-africa]]"
-  - "[[rock-art]]"
+related: ["[[southern-africa]]", "[[rock-art]]"]
+requires: []
 lists:
   - "[[indigenous-peoples]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +39,18 @@ The *San*, historically called *Bushmen*, are the indigenous hunter-gatherer peo
 ## see also
 
 - [[ainu]] · [[maasai]] · [[indigenous-peoples]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

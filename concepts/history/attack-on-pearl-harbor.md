@@ -4,16 +4,22 @@ category: history
 defines:
   - Attack on Pearl Harbor
   - Pearl Harbor
-related:
-  - "[[franklin-d-roosevelt]]"
-  - "[[united-states-entry-into-world-war-ii]]"
-  - "[[imperial-japanese-navy]]"
+related: ["[[franklin-d-roosevelt]]", "[[united-states-entry-into-world-war-ii]]", "[[imperial-japanese-navy]]", "[[japan]]"]
+requires: ["[[world-war-ii]]"]
 lists:
   - "[[world-war-ii-pacific-campaigns]]"
+tour_order: 1
 read: false
 ---
 
 # Attack on Pearl Harbor
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +46,18 @@ On December 7, 1941, the Japanese Imperial Navy launched a surprise attack on th
 ## see also
 
 - [[battle-of-midway]] · [[battle-of-the-coral-sea]] · [[battle-of-leyte-gulf]] · [[battle-of-guadalcanal]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

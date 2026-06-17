@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Assassination of Martin Luther King Jr., King assassination, MLK assassination]
 related: ["[[martin-luther-king-jr]]", "[[james-earl-ray]]", "[[civil-rights-movement]]", "[[memphis-tennessee]]"]
+requires: []
 lists: ["[[assassinations]]"]
+tour_order: 0
 read: false
 ---
 
@@ -49,6 +51,18 @@ King's assassination stands as the definitive moment when the Civil Rights Movem
 ## see also
 
 - [[assassination-of-abraham-lincoln]] · [[assassination-of-gandhi]] · [[martin-luther-king-jr]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

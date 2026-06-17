@@ -5,16 +5,22 @@ defines:
   - Julius Rosenberg
   - Ethel Rosenberg
   - The Rosenbergs
-related:
-  - "[[cold-war]]"
-  - "[[soviet-intelligence]]"
-  - "[[nuclear-espionage]]"
+related: ["[[cold-war]]", "[[soviet-intelligence]]", "[[nuclear-espionage]]"]
+requires: ["[[cold-war]]"]
 lists:
   - "[[spies]]"
+tour_order: 1
 read: false
 ---
 
 # Julius and Ethel Rosenberg
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ read: false
 ## see also
 
 - [[klaus-fuchs]] · [[aldrich-ames]] · [[robert-hanssen]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

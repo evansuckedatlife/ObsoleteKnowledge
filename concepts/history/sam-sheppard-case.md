@@ -2,13 +2,11 @@
 type: event
 category: history
 defines: [Sam Sheppard case, Sheppard murder case]
-related:
-  - "[[sam-sheppard]]"
-  - "[[marilyn-sheppard]]"
-  - "[[cleveland-1950s]]"
-  - "[[wrongful-conviction]]"
+related: ["[[sam-sheppard]]", "[[marilyn-sheppard]]", "[[cleveland-1950s]]", "[[wrongful-conviction]]"]
+requires: []
 lists:
   - "[[american-murders-and-murderers]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ In July 1954, *Marilyn Sheppard*, the pregnant wife of osteopathic surgeon *Sam 
 ## see also
 
 - [[lizzie-borden]] · [[sacco-and-vanzetti]] · [[hall-mills-case]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

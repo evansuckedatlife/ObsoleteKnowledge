@@ -3,11 +3,20 @@ type: concept
 category: history
 defines: [New Deal]
 related: ["[[franklin-d-roosevelt]]", "[[great-depression]]", "[[social-security]]", "[[works-progress-administration]]", "[[american-political-economy]]", "[[executive-power]]", "[[united-states-congress]]"]
+requires: ["[[great-depression]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # New Deal
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -47,6 +56,18 @@ The New Deal was Franklin Delano Roosevelt's (FDR) comprehensive program of fede
 ## see also
 
 - [[franklin-d-roosevelt]] · [[great-depression]] · [[social-security]] · [[executive-power]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

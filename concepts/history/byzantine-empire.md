@@ -2,8 +2,10 @@
 type: event
 category: history
 defines: [Byzantine Empire, Eastern Roman Empire]
-related: ["[[justinian-i]]", "[[constantine-the-great]]", "[[hagia-sophia]]", "[[fall-of-constantinople]]", "[[eastern-orthodox-church]]", "[[icon-painting]]", "[[greek-fire]]", "[[the-crusades]]"]
+related: ["[[justinian-i]]", "[[constantine-the-great]]", "[[hagia-sophia]]", "[[fall-of-constantinople]]", "[[eastern-orthodox-church]]", "[[icon-painting]]", "[[greek-fire]]", "[[the-crusades]]", "[[rome]]", "[[christianity]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -56,6 +58,18 @@ Byzantium occupies a paradoxical place in Western memory: often overshadowed by 
 ## see also
 
 - [[roman-empire]] · [[ottoman-empire]] · [[eastern-orthodox-church]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

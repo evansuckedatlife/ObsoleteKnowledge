@@ -3,11 +3,20 @@ type: person
 category: history
 defines: ["Horatio Gates"]
 related: ["[[george-washington]]", "[[nathanael-greene]]", "[[saratoga-campaign]]", "[[american-revolution]]", "[[john-stark]]"]
+requires: ["[[american-revolution]]"]
 lists: ["[[revolutionary-war-generals]]"]
+tour_order: 1
 read: false
 ---
 
 # Horatio Gates
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[george-washington]] · [[nathanael-greene]] · [[benedict-arnold]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

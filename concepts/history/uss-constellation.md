@@ -4,13 +4,11 @@ category: history
 defines:
   - USS Constellation
   - USS Constellation (CV-64)
-related:
-  - "[[aircraft-carrier]]"
-  - "[[cold-war]]"
-  - "[[kitty-hawk-class]]"
-  - "[[vietnam-war]]"
+related: ["[[aircraft-carrier]]", "[[cold-war]]", "[[kitty-hawk-class]]", "[[vietnam-war]]"]
+requires: []
 lists:
   - "[[american-warships]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[uss-enterprise-cv-6]] · [[uss-missouri]] · [[uss-nautilus]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

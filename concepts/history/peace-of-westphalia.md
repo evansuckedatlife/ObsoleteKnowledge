@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Peace of Westphalia, Westphalian Treaties]
 related: ["[[thirty-years-war]]", "[[holy-roman-empire]]", "[[france]]", "[[sweden]]", "[[nation-state]]"]
+requires: []
 lists: ["[[treaties]]"]
+tour_order: 0
 read: false
 ---
 
@@ -52,6 +54,18 @@ The Peace of Westphalia marks the death of medieval Christendom and the birth of
 ## see also
 
 - [[treaty-of-versailles]] · [[treaty-of-paris-1783]] · [[congress-of-vienna]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: event
 category: history
 defines: ["Boston Massacre"]
 related: ["[[american-revolution]]", "[[samuel-adams]]", "[[john-adams]]", "[[british-occupation-of-boston]]", "[[tensions-before-independence]]"]
+requires: ["[[american-revolution]]"]
 lists: ["[[massacres]]"]
+tour_order: 1
 read: false
 ---
 
 # Boston Massacre
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -51,6 +60,18 @@ The Boston Massacre exemplifies how a single episode of violence can be transfor
 ## see also
 
 - [[lexington-and-concord]] · [[stamp-act-crisis]] · [[tea-act]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

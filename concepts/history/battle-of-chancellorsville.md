@@ -3,11 +3,20 @@ type: event
 category: history
 defines: [Battle of Chancellorsville, Chancellorsville]
 related: ["[[american-civil-war]]", "[[robert-e-lee]]", "[[joseph-hooker]]", "[[thomas-jackson]]", "[[virginia]]"]
+requires: ["[[american-civil-war]]"]
 lists: ["[[civil-war-battles]]"]
+tour_order: 1
 read: false
 ---
 
 # Battle of Chancellorsville
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -46,6 +55,18 @@ Chancellorsville was the apex of Lee's offensive genius—a maneuver of almost r
 ## see also
 
 - [[battle-of-gettysburg]] · [[battle-of-fredericksburg]] · [[battle-of-antietam]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

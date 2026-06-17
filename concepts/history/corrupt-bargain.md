@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["Corrupt Bargain", "corrupt bargain of 1824"]
 related: ["[[john-quincy-adams]]", "[[henry-clay]]", "[[andrew-jackson]]"]
+requires: []
 lists: ["[[presidential-scandals]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The *Corrupt Bargain* of *1824* refers to the alleged secret deal between *John 
 ## see also
 
 - [[watergate]] · [[teapot-dome]] · [[iran-contra]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

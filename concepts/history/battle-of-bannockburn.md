@@ -4,14 +4,11 @@ category: history
 defines:
   - Battle of Bannockburn
   - Bannockburn
-related:
-  - "[[robert-the-bruce]]"
-  - "[[scottish-independence]]"
-  - "[[english-feudalism]]"
-  - "[[edward-ii]]"
-  - "[[medieval-scotland]]"
+related: ["[[robert-the-bruce]]", "[[scottish-independence]]", "[[english-feudalism]]", "[[edward-ii]]", "[[medieval-scotland]]", "[[scotland]]"]
+requires: []
 lists:
   - "[[medieval-battles]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +38,18 @@ The *Battle of Bannockburn* was fought on 23–24 June 1314 near Stirling in Sco
 ## see also
 
 - [[battle-of-hastings]] · [[battle-of-stamford-bridge]] · [[battle-of-bosworth-field]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

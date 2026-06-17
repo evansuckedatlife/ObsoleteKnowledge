@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["Lewinsky scandal", "Clinton scandal", "Clinton-Lewinsky scandal"]
 related: ["[[bill-clinton]]", "[[monica-lewinsky]]", "[[kenneth-starr]]"]
+requires: []
 lists: ["[[presidential-scandals]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ The *Lewinsky scandal* erupted when President *Bill Clinton*'s sexual relationsh
 ## see also
 
 - [[watergate]] · [[whitewater]] · [[iran-contra]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

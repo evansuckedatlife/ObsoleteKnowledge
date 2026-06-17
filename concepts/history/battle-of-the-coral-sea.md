@@ -3,12 +3,11 @@ type: event
 category: history
 defines:
   - Battle of the Coral Sea
-related:
-  - "[[battle-of-midway]]"
-  - "[[attack-on-pearl-harbor]]"
-  - "[[imperial-japanese-navy]]"
+related: ["[[battle-of-midway]]", "[[attack-on-pearl-harbor]]", "[[imperial-japanese-navy]]", "[[australia]]"]
+requires: []
 lists:
   - "[[world-war-ii-pacific-campaigns]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ Fought in May 1942 between American and Japanese naval forces in the Coral Sea e
 ## see also
 
 - [[battle-of-midway]] · [[attack-on-pearl-harbor]] · [[battle-of-guadalcanal]] · [[battle-of-leyte-gulf]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

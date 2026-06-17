@@ -3,11 +3,11 @@ type: practice
 category: history
 defines:
   - Codpiece
-related:
-  - "[[ruff]]"
-  - "[[farthingale]]"
+related: ["[[ruff]]", "[[farthingale]]"]
+requires: []
 lists:
   - "[[historical-fashions]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +37,18 @@ The *codpiece* is a covering or protrusion added to the front of men's breeches 
 ## see also
 
 - [[ruff]] · [[farthingale]] · [[henry-viii]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Election of 1932, "1932 US presidential election"]
 related: ["[[franklin-d-roosevelt]]", "[[herbert-hoover]]", "[[great-depression]]", "[[new-deal]]", "[[democratic-realignment]]"]
+requires: []
 lists: ["[[elections]]"]
+tour_order: 0
 read: false
 ---
 
@@ -46,6 +48,18 @@ The 1932 election represented a sea-change in American political faith. The 1920
 ## see also
 
 - [[election-of-1912]] · [[election-of-1948]] · [[election-of-1960]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

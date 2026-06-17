@@ -2,13 +2,11 @@
 type: place
 category: history
 defines: ["Gold Coast", "Ghana"]
-related:
-  - "[[british-west-africa]]"
-  - "[[kwame-nkrumah]]"
-  - "[[asante-empire]]"
-  - "[[pan-africanism]]"
+related: ["[[british-west-africa]]", "[[kwame-nkrumah]]", "[[asante-empire]]", "[[pan-africanism]]"]
+requires: []
 lists:
   - "[[countries-once-known-by-different-names]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[ceylon-sri-lanka]] · [[rhodesia-zimbabwe]] · [[abyssinia-ethiopia]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

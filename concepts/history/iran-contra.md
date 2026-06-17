@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["Iran-Contra", "Iran-Contra affair"]
 related: ["[[ronald-reagan]]", "[[oliver-north]]", "[[john-poindexter]]", "[[iran-iraq-war]]"]
+requires: []
 lists: ["[[presidential-scandals]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ The *Iran-Contra* affair was a covert operation during the *Reagan* administrati
 ## see also
 
 - [[watergate]] · [[teapot-dome]] · [[the-lewinsky-scandal]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

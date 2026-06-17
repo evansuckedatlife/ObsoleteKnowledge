@@ -3,11 +3,20 @@ type: person
 category: history
 defines: [Robert E. Lee, Robert Edward Lee]
 related: ["[[ulysses-s-grant]]", "[[american-civil-war]]", "[[confederate-states-of-america]]", "[[battle-of-gettysburg]]", "[[appomattox-court-house]]", "[[virginia]]"]
+requires: ["[[american-civil-war]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Robert E. Lee
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -37,6 +46,18 @@ read: false
 ## see also
 
 - [[ulysses-s-grant]] · [[thomas-stonewall-jackson]] · [[james-longstreet]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

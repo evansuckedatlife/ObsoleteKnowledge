@@ -3,7 +3,9 @@ type: person
 category: history
 defines: ["Anwar Sadat", "Muhammad Anwar el-Sadat"]
 related: ["[[egypt]]", "[[gamal-abdel-nasser]]", "[[arab-israeli-conflict]]", "[[camp-david-accords]]", "[[suez-crisis]]"]
+requires: []
 lists: ["[[20th-century-middle-eastern-leaders]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[gamal-abdel-nasser]] · [[hafez-al-assad]] · [[yasser-arafat]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

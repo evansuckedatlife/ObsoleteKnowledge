@@ -4,12 +4,11 @@ category: history
 defines:
   - Seljuk Empire
   - Great Seljuks
-related:
-  - "[[abbasid-caliphate]]"
-  - "[[crusades]]"
-  - "[[ghaznavid-dynasty]]"
+related: ["[[abbasid-caliphate]]", "[[crusades]]", "[[ghaznavid-dynasty]]", "[[islam]]"]
+requires: []
 lists:
   - "[[medieval-islamic-dynasties]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ The *Seljuk Empire* (1037–1194 CE) was a Turkish dynasty descended from the *O
 ## see also
 
 - [[abbasid-caliphate]] · [[ghaznavid-dynasty]] · [[ayyubid-dynasty]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Treaty of Guadalupe Hidalgo, Guadalupe Hidalgo Treaty]
 related: ["[[mexican-american-war]]", "[[united-states]]", "[[mexico]]", "[[manifest-destiny]]", "[[westward-expansion]]"]
+requires: []
 lists: ["[[treaties]]"]
+tour_order: 0
 read: false
 ---
 
@@ -52,6 +54,18 @@ The Treaty of Guadalupe Hidalgo is a defining moment in U.S. continental expansi
 ## see also
 
 - [[treaty-of-versailles]] · [[treaty-of-paris-1783]] · [[peace-of-westphalia]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: person
 category: history
 defines: ["Golda Meir", "Goldie Mabovitch"]
 related: ["[[israel]]", "[[david-ben-gurion]]", "[[arab-israeli-conflict]]", "[[yom-kippur-war]]"]
+requires: []
 lists: ["[[20th-century-middle-eastern-leaders]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[david-ben-gurion]] · [[anwar-sadat]] · [[hafez-al-assad]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

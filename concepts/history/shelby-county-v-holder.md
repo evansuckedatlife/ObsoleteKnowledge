@@ -4,16 +4,22 @@ category: history
 defines:
   - "Shelby County v. Holder"
   - Shelby County decision
-related:
-  - "[[voting-rights-act]]"
-  - "[[section-5]]"
-  - "[[voter-suppression]]"
+related: ["[[voting-rights-act]]", "[[section-5]]", "[[voter-suppression]]"]
+requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-concerned-with-african-americans]]"
+tour_order: 1
 read: false
 ---
 
 # Shelby County v. Holder
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ read: false
 ## see also
 
 - [[voting-rights-act]] · [[brown-v-board-of-education]] · [[plessy-v-ferguson]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

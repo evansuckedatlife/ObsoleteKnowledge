@@ -2,13 +2,11 @@
 type: person
 category: history
 defines: [Robert Peel, 2nd Baronet]
-related:
-  - "[[tory-party]]"
-  - "[[corn-laws]]"
-  - "[[conservative-party]]"
-  - "[[potato-famine]]"
+related: ["[[tory-party]]", "[[corn-laws]]", "[[conservative-party]]", "[[potato-famine]]", "[[england]]"]
+requires: []
 lists:
   - "[[british-prime-ministers]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +35,18 @@ read: false
 ## see also
 
 - [[william-pitt-the-younger]] · [[benjamin-disraeli]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

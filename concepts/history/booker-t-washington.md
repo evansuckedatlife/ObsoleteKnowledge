@@ -4,12 +4,11 @@ category: history
 defines:
   - Booker T. Washington
   - Booker Taliaferro Washington
-related:
-  - "[[w-e-b-du-bois]]"
-  - "[[tuskegee-university]]"
-  - "[[malcolm-x]]"
+related: ["[[w-e-b-du-bois]]", "[[tuskegee-university]]", "[[malcolm-x]]"]
+requires: []
 lists:
   - "[[african-american-civil-rights-leaders]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[w-e-b-du-bois]] · [[martin-luther-king-jr]] · [[malcolm-x]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

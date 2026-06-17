@@ -4,18 +4,22 @@ category: history
 defines:
   - Battle of Manzikert
   - Manzikert
-related:
-  - "[[byzantine-empire]]"
-  - "[[seljuk-turks]]"
-  - "[[alp-arslan]]"
-  - "[[east-west-schism]]"
-  - "[[crusades]]"
+related: ["[[byzantine-empire]]", "[[seljuk-turks]]", "[[alp-arslan]]", "[[east-west-schism]]", "[[crusades]]"]
+requires: ["[[byzantine-empire]]"]
 lists:
   - "[[medieval-battles]]"
+tour_order: 1
 read: false
 ---
 
 # Battle of Manzikert
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -41,6 +45,18 @@ The *Battle of Manzikert* was fought on 26 August 1071 in eastern Anatolia (mode
 ## see also
 
 - [[battle-of-tours]] · [[battle-of-hattin]] · [[fall-of-constantinople]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

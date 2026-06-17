@@ -3,11 +3,20 @@ type: person
 category: history
 defines: [Abraham Lincoln]
 related: ["[[american-civil-war]]", "[[emancipation-proclamation]]", "[[assassination-of-abraham-lincoln]]", "[[gettysburg-address]]", "[[reconstruction-era]]", "[[frederick-douglass]]", "[[united-states-constitution]]", "[[13th-amendment]]"]
+requires: ["[[american-civil-war]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Abraham Lincoln
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -54,6 +63,18 @@ Lincoln's assassination and the void it left are inseparable from his towering l
 ## see also
 
 - [[john-f-kennedy]] · [[thomas-jefferson]] · [[george-washington]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

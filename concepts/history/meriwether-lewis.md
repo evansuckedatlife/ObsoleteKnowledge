@@ -3,7 +3,9 @@ type: person
 category: history
 defines: [Meriwether Lewis]
 related: ["[[william-clark]]", "[[thomas-jefferson]]", "[[louisiana-purchase]]"]
+requires: []
 lists: ["[[explorers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[william-clark]] · [[thomas-jefferson]] · [[sacagawea]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

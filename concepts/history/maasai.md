@@ -4,11 +4,11 @@ category: history
 defines:
   - Maasai
   - Masai
-related:
-  - "[[east-africa]]"
-  - "[[pastoral-cultures]]"
+related: ["[[east-africa]]", "[[pastoral-cultures]]"]
+requires: []
 lists:
   - "[[indigenous-peoples]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +38,18 @@ The *Maasai* are a Nilotic pastoralist people of East Africa inhabiting the semi
 ## see also
 
 - [[san-bushmen]] · [[quechua]] · [[indigenous-peoples]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

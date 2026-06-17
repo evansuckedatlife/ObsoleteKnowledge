@@ -3,7 +3,9 @@ type: person
 category: history
 defines: [William I, William the Conqueror, William the Bastard, Guillaume le Conquérant]
 related: ["[[battle-of-hastings]]", "[[harold-godwinson]]", "[[domesday-book]]", "[[house-of-normandy]]"]
+requires: []
 lists: ["[[british-monarchs]]"]
+tour_order: 0
 read: false
 ---
 
@@ -29,6 +31,18 @@ William I, also known as William the Conqueror, was the first Norman king of Eng
 ## see also
 
 - [[henry-ii]] · [[richard-i]] · [[king-john]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

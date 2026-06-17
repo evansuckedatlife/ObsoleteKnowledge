@@ -3,7 +3,9 @@ type: person
 category: history
 defines: ["Catherine II", "Catherine the Great"]
 related: ["[[peter-i]]", "[[frederick-the-great]]", "[[russian-empire]]", "[[enlightenment]]", "[[russo-turkish-wars]]"]
+requires: []
 lists: ["[[russian-tsars]]"]
+tour_order: 0
 read: false
 ---
 
@@ -54,6 +56,18 @@ Catherine the Great represents enlightened absolutism at its apex: she spoke the
 ## see also
 
 - [[peter-i]] · [[ivan-iv]] · [[alexander-i]] · [[nicholas-i]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

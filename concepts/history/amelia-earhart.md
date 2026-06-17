@@ -3,12 +3,11 @@ type: person
 category: history
 defines:
   - Amelia Earhart
-related:
-  - "[[charles-lindbergh]]"
-  - "[[wiley-post]]"
-  - "[[bessie-coleman]]"
+related: ["[[charles-lindbergh]]", "[[wiley-post]]", "[[bessie-coleman]]"]
+requires: []
 lists:
   - "[[aviators]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[charles-lindbergh]] · [[wiley-post]] · [[bessie-coleman]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

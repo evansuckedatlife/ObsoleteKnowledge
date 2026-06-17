@@ -3,7 +3,9 @@ type: person
 category: history
 defines: ["King Faisal", "Faisal ibn Abdulaziz Al Saud", "King Faisal I", "Faisal I of Iraq"]
 related: ["[[saudi-arabia]]", "[[oil-politics]]", "[[arab-israeli-conflict]]", "[[opec]]"]
+requires: []
 lists: ["[[20th-century-middle-eastern-leaders]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[anwar-sadat]] · [[saddam-hussein]] · [[hafez-al-assad]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

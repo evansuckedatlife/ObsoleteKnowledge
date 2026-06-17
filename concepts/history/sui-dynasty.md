@@ -2,8 +2,10 @@
 type: event
 category: history
 defines: [Sui Dynasty]
-related: ["[[southern-northern-dynasties]]", "[[yang-jian]]", "[[grand-canal]]", "[[tang-dynasty]]", "[[buddhism-in-china]]"]
+related: ["[[southern-northern-dynasties]]", "[[yang-jian]]", "[[grand-canal]]", "[[tang-dynasty]]", "[[buddhism-in-china]]", "[[china]]", "[[buddhism]]"]
+requires: []
 lists: ["[[chinese-dynasties]]"]
+tour_order: 0
 read: false
 ---
 
@@ -68,6 +70,18 @@ The Sui Dynasty illustrates a recurring pattern in Chinese history: a brief, tra
 ## see also
 
 - [[southern-northern-dynasties]] · [[tang-dynasty]] · [[song-dynasty]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

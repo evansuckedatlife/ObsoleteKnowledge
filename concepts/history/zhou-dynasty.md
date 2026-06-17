@@ -2,8 +2,10 @@
 type: event
 category: history
 defines: [Zhou Dynasty]
-related: ["[[shang-dynasty]]", "[[mandate-of-heaven]]", "[[spring-and-autumn-period]]", "[[warring-states-period]]", "[[confucius]]"]
+related: ["[[shang-dynasty]]", "[[mandate-of-heaven]]", "[[spring-and-autumn-period]]", "[[warring-states-period]]", "[[confucius]]", "[[china]]"]
+requires: []
 lists: ["[[chinese-dynasties]]"]
+tour_order: 0
 read: false
 ---
 
@@ -59,6 +61,18 @@ The Zhou Dynasty paradoxically peaked intellectually during its political declin
 ## see also
 
 - [[shang-dynasty]] · [[qin-dynasty]] · [[han-dynasty]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

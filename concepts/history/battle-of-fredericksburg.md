@@ -3,11 +3,20 @@ type: event
 category: history
 defines: [Battle of Fredericksburg, Fredericksburg]
 related: ["[[american-civil-war]]", "[[robert-e-lee]]", "[[ambrose-burnside]]", "[[virginia]]"]
+requires: ["[[american-civil-war]]"]
 lists: ["[[civil-war-battles]]"]
+tour_order: 1
 read: false
 ---
 
 # Battle of Fredericksburg
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -46,6 +55,18 @@ Fredericksburg was a triumphant moment for Lee and the Confederacy—one of the 
 ## see also
 
 - [[battle-of-gettysburg]] · [[battle-of-antietam]] · [[battle-of-chancellorsville]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

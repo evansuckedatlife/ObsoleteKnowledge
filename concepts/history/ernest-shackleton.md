@@ -3,7 +3,9 @@ type: person
 category: history
 defines: [Ernest Shackleton, Ernest Henry Shackleton]
 related: ["[[roald-amundsen]]", "[[robert-falcon-scott]]", "[[antarctica]]"]
+requires: []
 lists: ["[[explorers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[roald-amundsen]] · [[robert-falcon-scott]] · [[james-cook]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

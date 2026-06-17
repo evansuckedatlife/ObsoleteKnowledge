@@ -4,10 +4,11 @@ category: history
 defines:
   - Pueblo
   - Pueblo peoples
-related:
-  - "[[native-american-peoples]]"
+related: ["[[native-american-peoples]]"]
+requires: []
 lists:
   - "[[native-american-peoples]]"
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +34,18 @@ The *Pueblo* peoples are a diverse group of Southwestern sedentary cultures inha
 ## see also
 
 - [[navajo]] · [[apache]] · [[comanche]] · [[seminole]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

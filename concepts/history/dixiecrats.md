@@ -4,13 +4,11 @@ category: history
 defines:
   - Dixiecrats
   - States' Rights Democratic Party
-related:
-  - "[[strom-thurmond]]"
-  - "[[1948-u-s-presidential-election]]"
-  - "[[american-third-parties]]"
-  - "[[jim-crow-laws]]"
+related: ["[[strom-thurmond]]", "[[1948-u-s-presidential-election]]", "[[american-third-parties]]", "[[jim-crow-laws]]"]
+requires: []
 lists:
   - "[[american-third-parties]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ The Dixiecrats, formally the States' Rights Democratic Party, were Southern Demo
 ## see also
 
 - [[bull-moose-party]] · [[southern-strategy]] · [[1948-u-s-presidential-election]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

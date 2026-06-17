@@ -2,12 +2,21 @@
 type: event
 category: history
 defines: ["I Have a Dream", MLK's Dream speech]
-related: ["[[martin-luther-king-jr]]", "[[civil-rights-movement]]", "[[march-on-washington]]"]
+related: ["[[martin-luther-king-jr]]", "[[civil-rights-movement]]", "[[march-on-washington]]", "[[christianity]]"]
+requires: ["[[civil-rights-movement]]"]
 lists: ["[[modern-speeches]]"]
+tour_order: 1
 read: false
 ---
 
 # I Have a Dream
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ Martin Luther King Jr.'s defining oration delivered during the 1963 March on Was
 ## see also
 
 - [[gettysburg-address]] · [[we-shall-fight-on-the-beaches]] · [[mandela-i-am-prepared-to-die]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

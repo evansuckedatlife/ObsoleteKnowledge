@@ -3,11 +3,20 @@ type: person
 category: history
 defines: ["P.B.S. Pinchback", "Pinckney Benton Stewart Pinchback"]
 related: ["[[reconstruction-era]]", "[[louisiana]]", "[[governor]]"]
+requires: ["[[reconstruction-era]]"]
 lists: ["[[black-american-legislators]]"]
+tour_order: 2
 read: false
 ---
 
 # P.B.S. Pinchback
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[hiram-revels]] · [[blanche-bruce]] · [[robert-smalls]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -5,11 +5,11 @@ defines:
   - Quechua
   - Quichua
   - Kichwa
-related:
-  - "[[andes]]"
-  - "[[inca-empire]]"
+related: ["[[andes]]", "[[inca-empire]]"]
+requires: []
 lists:
   - "[[indigenous-peoples]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +39,18 @@ The *Quechua* are the largest indigenous people of South America, inhabiting the
 ## see also
 
 - [[maasai]] · [[roma]] · [[indigenous-peoples]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

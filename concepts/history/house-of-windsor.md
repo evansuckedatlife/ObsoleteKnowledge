@@ -2,14 +2,11 @@
 type: concept
 category: history
 defines: ["House of Windsor", "Windsor Dynasty"]
-related:
-  - "[[george-v]]"
-  - "[[edward-viii]]"
-  - "[[elizabeth-ii]]"
-  - "[[george-vi]]"
-  - "[[british-empire]]"
+related: ["[[george-v]]", "[[edward-viii]]", "[[elizabeth-ii]]", "[[george-vi]]", "[[british-empire]]", "[[england]]"]
+requires: []
 lists:
   - "[[european-royal-families]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +38,18 @@ The **House of Windsor** has ruled the United Kingdom and the Commonwealth since
 ## see also
 
 - [[house-of-hanover]] · [[house-of-stuart]] · [[house-of-tudor]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

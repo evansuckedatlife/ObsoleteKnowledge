@@ -3,7 +3,9 @@ type: person
 category: history
 defines: ["Agustín de Iturbide"]
 related: ["[[mexican-independence]]", "[[miguel-hidalgo]]", "[[spanish-conquest-of-mexico]]"]
+requires: []
 lists: ["[[mexican-leaders]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[miguel-hidalgo]] · [[benito-juarez]] · [[antonio-lopez-de-santa-anna]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -5,16 +5,22 @@ defines:
   - "Brown v. Board of Education"
   - Brown decision
   - Brown II
-related:
-  - "[[plessy-v-ferguson]]"
-  - "[[desegregation]]"
-  - "[[civil-rights-movement]]"
+related: ["[[plessy-v-ferguson]]", "[[desegregation]]", "[[civil-rights-movement]]"]
+requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-concerned-with-african-americans]]"
+tour_order: 1
 read: false
 ---
 
 # Brown v. Board of Education
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -57,6 +63,18 @@ read: false
 ## see also
 
 - [[plessy-v-ferguson]] · [[shelby-county-v-holder]] · [[loving-v-virginia]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,13 +2,11 @@
 type: event
 category: history
 defines: [Manson Family murders, Manson murders]
-related:
-  - "[[charles-manson]]"
-  - "[[sharon-tate]]"
-  - "[[1960s-counterculture]]"
-  - "[[cults-in-america]]"
+related: ["[[charles-manson]]", "[[sharon-tate]]", "[[1960s-counterculture]]", "[[cults-in-america]]"]
+requires: []
 lists:
   - "[[american-murders-and-murderers]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ In August 1969, members of a cult led by *Charles Manson* committed a series of 
 ## see also
 
 - [[leopold-and-loeb]] · [[black-dahlia]] · [[clutter-family-murders]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

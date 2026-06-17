@@ -6,11 +6,11 @@ defines:
   - Saami
   - Sami
   - Lapps
-related:
-  - "[[scandinavia]]"
-  - "[[reindeer-herding]]"
+related: ["[[scandinavia]]", "[[reindeer-herding]]"]
+requires: []
 lists:
   - "[[indigenous-peoples]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +40,18 @@ The *Sámi* are the indigenous people of northern Scandinavia and the Kola Penin
 ## see also
 
 - [[ainu]] · [[inuit]] · [[indigenous-peoples]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -5,16 +5,22 @@ defines:
   - Saint-Just
   - Louis-Antoine de Saint-Just
   - "Saint Just"
-related:
-  - "[[robespierre]]"
-  - "[[french-revolution]]"
-  - "[[reign-of-terror]]"
+related: ["[[robespierre]]", "[[french-revolution]]", "[[reign-of-terror]]"]
+requires: ["[[french-revolution]]"]
 lists:
   - "[[people-from-the-french-revolution]]"
+tour_order: 2
 read: false
 ---
 
 # Saint-Just
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +46,18 @@ read: false
 ## see also
 
 - [[robespierre]] · [[danton]] · [[marat]] · [[louis-xvi]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

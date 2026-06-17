@@ -5,13 +5,11 @@ defines:
   - Louis IX
   - Saint Louis
   - Louis the Pious
-related:
-  - "[[crusades]]"
-  - "[[medieval-france]]"
-  - "[[papal-authority]]"
-  - "[[canonization]]"
+related: ["[[crusades]]", "[[medieval-france]]", "[[papal-authority]]", "[[canonization]]"]
+requires: []
 lists:
   - "[[kings-of-france]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ read: false
 ## see also
 
 - [[philip-ii-augustus]] · [[louis-xiv]] · [[charlemagne]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: event
 category: history
 defines: [Four Freedoms, FDR's freedom speech]
 related: ["[[franklin-delano-roosevelt]]", "[[world-war-ii]]", "[[lend-lease]]"]
+requires: ["[[world-war-ii]]"]
 lists: ["[[modern-speeches]]"]
+tour_order: 1
 read: false
 ---
 
 # Four Freedoms
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ Franklin D. Roosevelt's address to Congress on *January 6, 1941*, articulated fo
 ## see also
 
 - [[gettysburg-address]] · [[i-have-a-dream]] · [[we-shall-fight-on-the-beaches]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

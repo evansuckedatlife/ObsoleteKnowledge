@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["Industrial Revolution", "The Industrial Revolution"]
 related: ["[[steam-engine]]", "[[james-watt]]", "[[richard-arkwright]]", "[[adam-smith]]", "[[capitalism]]", "[[textile-industry]]", "[[factory-system]]", "[[marxism]]", "[[charles-dickens]]", "[[urbanization]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -71,6 +73,18 @@ The Industrial Revolution is the hinge of modernity. It created industrial capit
 ## see also
 
 - [[capitalism]] · [[marxism]] · [[charles-dickens]] · [[labor-movement]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

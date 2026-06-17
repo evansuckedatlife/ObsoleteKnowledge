@@ -4,16 +4,22 @@ category: history
 defines:
   - "Heart of Atlanta Motel v. United States"
   - Heart of Atlanta decision
-related:
-  - "[[civil-rights-act-of-1964]]"
-  - "[[commerce-clause]]"
-  - "[[public-accommodations]]"
+related: ["[[civil-rights-act-of-1964]]", "[[commerce-clause]]", "[[public-accommodations]]"]
+requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-concerned-with-african-americans]]"
+tour_order: 1
 read: false
 ---
 
 # Heart of Atlanta Motel v. United States
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ read: false
 ## see also
 
 - [[civil-rights-act-of-1964]] · [[loving-v-virginia]] · [[brown-v-board-of-education]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,16 +3,22 @@ type: event
 category: history
 defines:
   - "New York Times Co. v. Sullivan"
-related:
-  - "[[first-amendment]]"
-  - "[[libel-law]]"
-  - "[[civil-rights-movement]]"
+related: ["[[first-amendment]]", "[[libel-law]]", "[[civil-rights-movement]]"]
+requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-2]]"
+tour_order: 1
 read: false
 ---
 
 # New York Times Co. v. Sullivan
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[marbury-v-madison]] · [[tinker-v-des-moines]] · [[citizens-united-v-fec]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

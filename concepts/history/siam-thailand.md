@@ -2,12 +2,11 @@
 type: place
 category: history
 defines: ["Siam", "Thailand"]
-related:
-  - "[[ayutthaya-kingdom]]"
-  - "[[chakri-dynasty]]"
-  - "[[french-indochina]]"
+related: ["[[ayutthaya-kingdom]]", "[[chakri-dynasty]]", "[[french-indochina]]"]
+requires: []
 lists:
   - "[[countries-once-known-by-different-names]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[ceylon-sri-lanka]] · [[burma-myanmar]] · [[gold-coast-ghana]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

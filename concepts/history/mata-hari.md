@@ -4,16 +4,22 @@ category: history
 defines:
   - Mata Hari
   - Margaretha Geertruida Zelle
-related:
-  - "[[world-war-i]]"
-  - "[[french-intelligence]]"
-  - "[[german-intelligence]]"
+related: ["[[world-war-i]]", "[[french-intelligence]]", "[[german-intelligence]]"]
+requires: ["[[world-war-i]]"]
 lists:
   - "[[spies]]"
+tour_order: 1
 read: false
 ---
 
 # Mata Hari
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[belle-boyd]] · [[the-cambridge-five]] · [[virginia-hall]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

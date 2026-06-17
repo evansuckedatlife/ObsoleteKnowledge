@@ -3,13 +3,11 @@ type: practice
 category: history
 defines:
   - Farthingale
-related:
-  - "[[corset]]"
-  - "[[ruff]]"
-  - "[[crinoline]]"
-  - "[[elizabeth-i]]"
+related: ["[[corset]]", "[[ruff]]", "[[crinoline]]", "[[elizabeth-i]]"]
+requires: []
 lists:
   - "[[historical-fashions]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ The *farthingale* is a hooped or structured petticoat that creates a distinctive
 ## see also
 
 - [[corset]] · [[elizabeth-i]] · [[ruff]] · [[crinoline]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

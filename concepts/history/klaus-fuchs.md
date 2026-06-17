@@ -3,17 +3,22 @@ type: person
 category: history
 defines:
   - Klaus Fuchs
-related:
-  - "[[cold-war]]"
-  - "[[soviet-intelligence]]"
-  - "[[nuclear-espionage]]"
-  - "[[julius-and-ethel-rosenberg]]"
+related: ["[[cold-war]]", "[[soviet-intelligence]]", "[[nuclear-espionage]]", "[[julius-and-ethel-rosenberg]]"]
+requires: ["[[cold-war]]"]
 lists:
   - "[[spies]]"
+tour_order: 1
 read: false
 ---
 
 # Klaus Fuchs
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +44,18 @@ read: false
 ## see also
 
 - [[julius-and-ethel-rosenberg]] · [[aldrich-ames]] · [[the-cambridge-five]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

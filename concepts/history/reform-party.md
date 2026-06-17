@@ -4,12 +4,11 @@ category: history
 defines:
   - Reform Party
   - Reform Party of the United States of America
-related:
-  - "[[ross-perot]]"
-  - "[[1992-u-s-presidential-election]]"
-  - "[[american-third-parties]]"
+related: ["[[ross-perot]]", "[[1992-u-s-presidential-election]]", "[[american-third-parties]]"]
+requires: []
 lists:
   - "[[american-third-parties]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ The Reform Party, founded by Texas billionaire Ross Perot in 1995, was a centris
 ## see also
 
 - [[bull-moose-party]] · [[libertarian-party]] · [[1996-u-s-presidential-election]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

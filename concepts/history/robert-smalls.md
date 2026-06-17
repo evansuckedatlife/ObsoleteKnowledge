@@ -3,11 +3,20 @@ type: person
 category: history
 defines: [Robert Smalls]
 related: ["[[reconstruction-era]]", "[[south-carolina]]", "[[united-states-congress]]", "[[civil-war]]"]
+requires: ["[[american-civil-war]]"]
 lists: ["[[black-american-legislators]]"]
+tour_order: 1
 read: false
 ---
 
 # Robert Smalls
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[hiram-revels]] · [[blanche-bruce]] · [[p-b-s-pinchback]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

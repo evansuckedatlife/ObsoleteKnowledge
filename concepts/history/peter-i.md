@@ -3,7 +3,9 @@ type: person
 category: history
 defines: ["Peter I", "Peter the Great"]
 related: ["[[ivan-iv]]", "[[catherine-ii]]", "[[great-northern-war]]", "[[saint-petersburg]]", "[[westernization-russia]]"]
+requires: []
 lists: ["[[russian-tsars]]"]
+tour_order: 0
 read: false
 ---
 
@@ -52,6 +54,18 @@ Peter the Great embodies the *enlightened absolutist* archetype: he willed Russi
 ## see also
 
 - [[catherine-ii]] · [[ivan-iv]] · [[alexander-i]] · [[nicholas-i]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: event
 category: history
 defines: ["Gideon v. Wainwright", "1963"]
 related: ["[[right-to-counsel]]", "[[sixth-amendment]]", "[[criminal-procedure]]", "[[due-process]]"]
+requires: ["[[united-states-constitution]]"]
 lists: ["[[supreme-court-cases]]"]
+tour_order: 1
 read: false
 ---
 
 # Gideon v. Wainwright
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -65,6 +74,18 @@ Gideon v. Wainwright is a foundational case on the right to counsel and on const
 ## see also
 
 - [[miranda-v-arizona]] · [[mapp-v-ohio]] · [[schenck-v-united-states]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

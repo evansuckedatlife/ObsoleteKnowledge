@@ -4,13 +4,11 @@ category: history
 defines:
   - Mycenae
   - Mycenaean
-related:
-  - "[[agamemnon]]"
-  - "[[helen-of-troy]]"
-  - "[[trojan-war]]"
-  - "[[bronze-age]]"
+related: ["[[agamemnon]]", "[[helen-of-troy]]", "[[trojan-war]]", "[[bronze-age]]", "[[ancient-greece]]"]
+requires: []
 lists:
   - "[[ancient-greek-places]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[sparta]] · [[athens]] · [[corinth]] · [[argos]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,8 +2,10 @@
 type: event
 category: history
 defines: [Qin Dynasty]
-related: ["[[zhou-dynasty]]", "[[warring-states-period]]", "[[qin-shi-huang]]", "[[great-wall-of-china]]", "[[terra-cotta-army]]", "[[han-dynasty]]"]
+related: ["[[zhou-dynasty]]", "[[warring-states-period]]", "[[qin-shi-huang]]", "[[great-wall-of-china]]", "[[terra-cotta-army]]", "[[han-dynasty]]", "[[china]]"]
+requires: []
 lists: ["[[chinese-dynasties]]"]
+tour_order: 0
 read: false
 ---
 
@@ -61,6 +63,18 @@ The Qin Dynasty was transformative but unsustainable. Its brief reign proved tha
 ## see also
 
 - [[zhou-dynasty]] · [[han-dynasty]] · [[tang-dynasty]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

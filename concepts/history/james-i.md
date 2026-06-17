@@ -2,8 +2,10 @@
 type: person
 category: history
 defines: [James I, James VI of Scotland, James VI and I]
-related: ["[[elizabeth-i]]", "[[charles-i]]", "[[gunpowder-plot]]", "[[house-of-stuart]]"]
+related: ["[[elizabeth-i]]", "[[charles-i]]", "[[gunpowder-plot]]", "[[house-of-stuart]]", "[[england]]"]
+requires: []
 lists: ["[[british-monarchs]]"]
+tour_order: 0
 read: false
 ---
 
@@ -29,6 +31,18 @@ James I (r. 1603–1625) was King of England and Ireland, having already ruled S
 ## see also
 
 - [[henry-viii]] · [[elizabeth-i]] · [[charles-i]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

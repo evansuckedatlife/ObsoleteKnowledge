@@ -2,8 +2,10 @@
 type: place
 category: history
 defines: [Roman Empire, Rome, Imperium Romanum]
-related: ["[[julius-caesar]]", "[[augustus]]", "[[republic-of-rome]]", "[[gladiatorial-games]]"]
+related: ["[[julius-caesar]]", "[[augustus]]", "[[republic-of-rome]]", "[[gladiatorial-games]]", "[[rome]]"]
+requires: []
 lists: ["[[ancient-empires]]"]
+tour_order: 0
 read: false
 ---
 
@@ -57,6 +59,18 @@ Rome represents the synthesis of Greek philosophy, Near Eastern administration (
 ## see also
 
 - [[achaemenid-empire]] · [[macedonian-empire]] · [[mauryan-empire]] · [[mongol-empire]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

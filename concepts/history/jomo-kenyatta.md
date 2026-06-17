@@ -4,16 +4,22 @@ category: history
 defines:
   - Jomo Kenyatta
   - Kamau wa Ngengi
-related:
-  - "[[kenya]]"
-  - "[[mau-mau-rebellion]]"
-  - "[[julius-nyerere]]"
+related: ["[[kenya]]", "[[mau-mau-rebellion]]", "[[julius-nyerere]]"]
+requires: ["[[british-empire]]"]
 lists:
   - "[[20th-century-african-leaders]]"
+tour_order: 1
 read: false
 ---
 
 # Jomo Kenyatta
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ read: false
 ## see also
 
 - [[julius-nyerere]] · [[kwame-nkrumah]] · [[julius-nyerere]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -5,18 +5,22 @@ defines:
   - Martin Luther King Jr.
   - MLK
   - Dr. Martin Luther King
-related:
-  - "[[malcolm-x]]"
-  - "[[rosa-parks]]"
-  - "[[john-lewis]]"
-  - "[[medgar-evers]]"
-  - "[[james-meredith]]"
+related: ["[[malcolm-x]]", "[[rosa-parks]]", "[[john-lewis]]", "[[medgar-evers]]", "[[james-meredith]]", "[[christianity]]"]
+requires: ["[[civil-rights-movement]]"]
 lists:
   - "[[african-american-civil-rights-leaders]]"
+tour_order: 1
 read: false
 ---
 
 # Martin Luther King Jr.
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -57,6 +61,18 @@ King's achievement was to transform the civil rights movement from a legal and p
 ## see also
 
 - [[rosa-parks]] · [[malcolm-x]] · [[john-lewis]] · [[medgar-evers]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

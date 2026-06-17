@@ -3,11 +3,20 @@ type: event
 category: history
 defines: ["Jallianwala Bagh", "Amritsar Massacre", "Jallianwala Bagh Massacre"]
 related: ["[[british-india]]", "[[rowlatt-acts]]", "[[reginald-dyer]]", "[[punjab]]", "[[indian-independence-movement]]"]
+requires: ["[[british-empire]]"]
 lists: ["[[massacres]]"]
+tour_order: 1
 read: false
 ---
 
 # Jallianwala Bagh
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -56,6 +65,18 @@ Jallianwala Bagh stands as a watershed moment in the history of decolonization. 
 ## see also
 
 - [[nanjing-massacre]] · [[peterloo]] · [[katyn]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

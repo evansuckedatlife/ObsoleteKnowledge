@@ -2,8 +2,10 @@
 type: event
 category: history
 defines: [Song Dynasty]
-related: ["[[tang-dynasty]]", "[[yuan-dynasty]]", "[[neo-confucianism]]", "[[five-dynasties-ten-kingdoms]]", "[[gunpowder]]", "[[printing-press]]"]
+related: ["[[tang-dynasty]]", "[[yuan-dynasty]]", "[[neo-confucianism]]", "[[five-dynasties-ten-kingdoms]]", "[[gunpowder]]", "[[printing-press]]", "[[china]]", "[[confucianism]]", "[[buddhism]]"]
+requires: []
 lists: ["[[chinese-dynasties]]"]
+tour_order: 0
 read: false
 ---
 
@@ -69,6 +71,18 @@ The Song Dynasty embodied a paradox: military weakness coupled with intellectual
 ## see also
 
 - [[tang-dynasty]] · [[yuan-dynasty]] · [[ming-dynasty]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

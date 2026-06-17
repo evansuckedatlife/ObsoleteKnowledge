@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Election of 1948, "1948 US presidential election"]
 related: ["[[harry-truman]]", "[[thomas-dewey]]", "[[strom-thurmond]]", "[[henry-wallace]]", "[[upset-victory]]"]
+requires: []
 lists: ["[[elections]]"]
+tour_order: 0
 read: false
 ---
 
@@ -47,6 +49,18 @@ The 1948 election was a vindication of popular will over elite consensus. The pr
 ## see also
 
 - [[election-of-1932]] · [[election-of-1960]] · [[election-of-1968]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -5,14 +5,11 @@ defines:
   - Battle of Tours
   - Tours
   - Battle of Poitiers
-related:
-  - "[[umayyad-caliphate]]"
-  - "[[frankish-empire]]"
-  - "[[charles-martel]]"
-  - "[[islamic-expansion]]"
-  - "[[early-medieval-europe]]"
+related: ["[[umayyad-caliphate]]", "[[frankish-empire]]", "[[charles-martel]]", "[[islamic-expansion]]", "[[early-medieval-europe]]", "[[france]]", "[[islam]]"]
+requires: []
 lists:
   - "[[medieval-battles]]"
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +39,18 @@ The *Battle of Tours* was fought in 732 CE between the Frankish forces of *Charl
 ## see also
 
 - [[battle-of-hastings]] · [[battle-of-manzikert]] · [[crusades]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

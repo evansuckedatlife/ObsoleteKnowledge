@@ -5,18 +5,22 @@ defines:
   - Fall of Constantinople
   - Conquest of Constantinople
   - Constantinople 1453
-related:
-  - "[[byzantine-empire]]"
-  - "[[ottoman-empire]]"
-  - "[[mehmed-ii]]"
-  - "[[constantine-xi]]"
-  - "[[eastern-orthodox-church]]"
+related: ["[[byzantine-empire]]", "[[ottoman-empire]]", "[[mehmed-ii]]", "[[constantine-xi]]", "[[eastern-orthodox-church]]"]
+requires: ["[[ottoman-empire]]"]
 lists:
   - "[[medieval-battles]]"
+tour_order: 1
 read: false
 ---
 
 # Fall of Constantinople
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -42,6 +46,18 @@ The *Fall of Constantinople* on 29 May 1453 marked the final collapse of the *By
 ## see also
 
 - [[battle-of-manzikert]] · [[crusades]] · [[ottoman-expansion]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

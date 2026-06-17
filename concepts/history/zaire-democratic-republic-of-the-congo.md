@@ -2,14 +2,11 @@
 type: place
 category: history
 defines: ["Zaire", "Democratic Republic of the Congo"]
-related:
-  - "[[congo-free-state]]"
-  - "[[belgian-congo]]"
-  - "[[congo-crisis]]"
-  - "[[mobutu-sese-seko]]"
-  - "[[congo-river]]"
+related: ["[[congo-free-state]]", "[[belgian-congo]]", "[[congo-crisis]]", "[[mobutu-sese-seko]]", "[[congo-river]]"]
+requires: []
 lists:
   - "[[countries-once-known-by-different-names]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +36,18 @@ The *Democratic Republic of the Congo* underwent a dramatic renaming to *Zaire* 
 ## see also
 
 - [[rhodesia-zimbabwe]] · [[abyssinia-ethiopia]] · [[dahomey-benin]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

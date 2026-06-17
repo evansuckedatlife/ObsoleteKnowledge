@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["Great Depression", "The Great Depression"]
 related: ["[[franklin-d-roosevelt]]", "[[new-deal]]", "[[stock-market-crash]]", "[[bank-failures]]", "[[dust-bowl]]", "[[john-maynard-keynes]]", "[[keynesianeconomics]]", "[[brother-can-you-spare-a-dime]]", "[[john-steinbeck]]", "[[the-grapes-of-wrath]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -65,6 +67,18 @@ The Great Depression was a watershed in modern history. It demonstrated that mar
 ## see also
 
 - [[world-war-ii]] · [[new-deal]] · [[john-maynard-keynes]] · [[2008-financial-crisis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

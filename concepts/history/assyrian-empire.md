@@ -3,7 +3,9 @@ type: place
 category: history
 defines: [Assyrian Empire, Assyria, Neo-Assyrian Empire]
 related: ["[[mesopotamia]]", "[[ashurnasirpal-ii]]", "[[sennacherib]]", "[[tigris-river]]"]
+requires: []
 lists: ["[[ancient-empires]]"]
+tour_order: 0
 read: false
 ---
 
@@ -47,6 +49,18 @@ Assyria stands as the archetype of the military-industrial empire: power through
 ## see also
 
 - [[babylonian-empire]] · [[akkadian-empire]] · [[achaemenid-empire]] · [[roman-empire]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

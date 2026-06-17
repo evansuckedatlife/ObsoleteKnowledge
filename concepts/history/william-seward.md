@@ -4,18 +4,22 @@ category: history
 defines:
   - William Seward
   - William Henry Seward
-related:
-  - "[[abraham-lincoln]]"
-  - "[[alaska-purchase]]"
-  - "[[american-civil-war]]"
-  - "[[emancipation-proclamation]]"
-  - "[[reconstruction-era]]"
+related: ["[[abraham-lincoln]]", "[[alaska-purchase]]", "[[american-civil-war]]", "[[emancipation-proclamation]]", "[[reconstruction-era]]"]
+requires: ["[[american-civil-war]]"]
 lists:
   - "[[secretaries-of-state]]"
+tour_order: 1
 read: false
 ---
 
 # William Seward
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +44,18 @@ read: false
 ## see also
 
 - [[daniel-webster]] · [[john-hay]] · [[cordell-hull]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

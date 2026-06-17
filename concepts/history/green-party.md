@@ -4,13 +4,11 @@ category: history
 defines:
   - Green Party
   - Green Party of the United States
-related:
-  - "[[ralph-nader]]"
-  - "[[2000-u-s-presidential-election]]"
-  - "[[american-third-parties]]"
-  - "[[environmentalism]]"
+related: ["[[ralph-nader]]", "[[2000-u-s-presidential-election]]", "[[american-third-parties]]", "[[environmentalism]]"]
+requires: []
 lists:
   - "[[american-third-parties]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ The Green Party of the United States, founded in 1991 and formally chartered in 
 ## see also
 
 - [[libertarian-party]] · [[reform-party]] · [[2016-u-s-presidential-election]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

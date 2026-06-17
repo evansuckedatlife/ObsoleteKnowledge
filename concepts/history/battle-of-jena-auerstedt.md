@@ -5,12 +5,11 @@ defines:
   - Battle of Jena-Auerstedt
   - Battle of Jena
   - Battle of Auerstedt
-related:
-  - "[[napoleon-bonaparte]]"
-  - "[[prussia]]"
-  - "[[frederick-william-iii]]"
+related: ["[[napoleon-bonaparte]]", "[[prussia]]", "[[frederick-william-iii]]", "[[france]]"]
+requires: []
 lists:
   - "[[napoleonic-battles]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +40,18 @@ The Battle of Jena-Auerstedt on October 14, 1806, was actually two simultaneous 
 ## see also
 
 - [[battle-of-austerlitz]] · [[battle-of-waterloo]] · [[battle-of-wagram]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

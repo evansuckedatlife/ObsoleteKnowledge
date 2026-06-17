@@ -2,12 +2,21 @@
 type: event
 category: history
 defines: [Battle of Britain]
-related: ["[[nazi-germany]]", "[[united-kingdom]]", "[[world-war-ii]]", "[[luftwaffe]]", "[[royal-air-force]]"]
+related: ["[[nazi-germany]]", "[[united-kingdom]]", "[[world-war-ii]]", "[[luftwaffe]]", "[[royal-air-force]]", "[[england]]", "[[germany]]"]
+requires: ["[[world-war-ii]]"]
 lists: ["[[world-war-ii-battles]]"]
+tour_order: 1
 read: false
 ---
 
 # Battle of Britain
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -46,6 +55,18 @@ The Battle of Britain was the first major defeat of Nazi Germany and shattered t
 ## see also
 
 - [[battle-of-normandy]] · [[battle-of-el-alamein]] · [[operation-barbarossa]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

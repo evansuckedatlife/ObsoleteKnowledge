@@ -2,8 +2,10 @@
 type: person
 category: history
 defines: [Claudius, Tiberius Claudius Caesar Augustus Germanicus]
-related: ["[[caligula]]", "[[nero]]", "[[agrippina-the-younger]]", "[[messalina]]"]
+related: ["[[caligula]]", "[[nero]]", "[[agrippina-the-younger]]", "[[messalina]]", "[[rome]]"]
+requires: []
 lists: ["[[roman-emperors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Claudius was the fourth Roman emperor, ruling from AD 41 to 54. Afflicted with a
 ## see also
 
 - [[augustus]] · [[tiberius]] · [[caligula]] · [[nero]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

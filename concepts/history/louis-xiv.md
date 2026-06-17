@@ -5,13 +5,11 @@ defines:
   - Louis XIV
   - The Sun King
   - Louis the Great
-related:
-  - "[[versailles]]"
-  - "[[louis-xiii]]"
-  - "[[colbert]]"
-  - "[[felix]]"
+related: ["[[versailles]]", "[[louis-xiii]]", "[[colbert]]", "[[felix]]", "[[france]]"]
+requires: []
 lists:
   - "[[kings-of-france]]"
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +40,18 @@ read: false
 ## see also
 
 - [[louis-xiii]] · [[louis-xv]] · [[louis-xvi]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

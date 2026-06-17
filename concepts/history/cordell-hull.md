@@ -3,18 +3,22 @@ type: person
 category: history
 defines:
   - Cordell Hull
-related:
-  - "[[franklin-d-roosevelt]]"
-  - "[[world-war-ii]]"
-  - "[[united-nations]]"
-  - "[[reciprocal-trade-agreements]]"
-  - "[[good-neighbor-policy]]"
+related: ["[[franklin-d-roosevelt]]", "[[world-war-ii]]", "[[united-nations]]", "[[reciprocal-trade-agreements]]", "[[good-neighbor-policy]]"]
+requires: ["[[world-war-ii]]"]
 lists:
   - "[[secretaries-of-state]]"
+tour_order: 1
 read: false
 ---
 
 # Cordell Hull
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +43,18 @@ read: false
 ## see also
 
 - [[john-hay]] · [[george-marshall]] · [[dean-acheson]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,11 +4,11 @@ category: history
 defines:
   - Dan Quayle
   - James Danforth Quayle
-related:
-  - "[[george-h-w-bush]]"
-  - "[[bill-clinton]]"
+related: ["[[george-h-w-bush]]", "[[bill-clinton]]"]
+requires: []
 lists:
   - "[[vice-presidents-who-never-became-president]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +37,18 @@ read: false
 ## see also
 
 - [[spiro-agnew]] · [[al-gore]] · [[dick-cheney]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

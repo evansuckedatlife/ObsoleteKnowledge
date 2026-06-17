@@ -2,17 +2,22 @@
 type: person
 category: history
 defines: [Benjamin Disraeli, 1st Earl of Beaconsfield]
-related:
-  - "[[conservative-party]]"
-  - "[[victoria]]"
-  - "[[suez-canal]]"
-  - "[[jewish-history]]"
+related: ["[[conservative-party]]", "[[victoria]]", "[[suez-canal]]", "[[jewish-history]]"]
+requires: ["[[british-empire]]"]
 lists:
   - "[[british-prime-ministers]]"
+tour_order: 1
 read: false
 ---
 
 # Benjamin Disraeli
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -37,6 +42,18 @@ read: false
 ## see also
 
 - [[william-ewart-gladstone]] · [[henry-john-temple-duke-of-palmerston]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: person
 category: history
 defines: [Shirley Chisholm, "Shirley Anita Chisholm"]
 related: ["[[united-states-house]]", "[[brooklyn-new-york]]", "[[feminist-movement]]", "[[1972-presidential-election]]"]
+requires: ["[[civil-rights-movement]]"]
 lists: ["[[african-american-civil-rights-leaders]]", "[[black-american-legislators]]"]
+tour_order: 1
 read: false
 ---
 
 # Shirley Chisholm
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[barbara-jordan]] · [[shirley-chisholm]] · [[john-lewis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

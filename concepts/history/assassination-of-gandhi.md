@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Assassination of Mohandas Gandhi, Gandhi assassination, Mahatma Gandhi assassination]
 related: ["[[mohandas-gandhi]]", "[[nathuram-godse]]", "[[india-independence]]", "[[hindu-nationalism]]"]
+requires: []
 lists: ["[[assassinations]]"]
+tour_order: 0
 read: false
 ---
 
@@ -49,6 +51,18 @@ Gandhi's assassination represents a tragic irony: the man who had wielded nonvio
 ## see also
 
 - [[assassination-of-martin-luther-king-jr]] · [[assassination-of-julius-caesar]] · [[mohandas-gandhi]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

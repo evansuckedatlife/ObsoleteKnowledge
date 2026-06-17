@@ -4,11 +4,11 @@ category: history
 defines:
   - Ainu
   - Aynu
-related:
-  - "[[japan]]"
-  - "[[hokkaido]]"
+related: ["[[japan]]", "[[hokkaido]]"]
+requires: []
 lists:
   - "[[indigenous-peoples]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +38,18 @@ The *Ainu* are the indigenous people of Hokkaido and surrounding islands in what
 ## see also
 
 - [[māori]] · [[san-bushmen]] · [[indigenous-peoples]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

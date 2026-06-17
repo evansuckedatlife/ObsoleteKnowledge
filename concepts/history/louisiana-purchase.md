@@ -2,8 +2,10 @@
 type: event
 category: history
 defines: [Louisiana Purchase]
-related: ["[[thomas-jefferson]]", "[[james-madison]]", "[[napoleon-bonaparte]]", "[[expansion-of-the-united-states]]", "[[manifest-destiny]]", "[[lewis-and-clark-expedition]]", "[[united-states-constitution]]", "[[federalism]]"]
+related: ["[[thomas-jefferson]]", "[[james-madison]]", "[[napoleon-bonaparte]]", "[[expansion-of-the-united-states]]", "[[manifest-destiny]]", "[[lewis-and-clark-expedition]]", "[[united-states-constitution]]", "[[federalism]]", "[[france]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +41,18 @@ The Louisiana Purchase was the 1803 acquisition by the United States of the vast
 ## see also
 
 - [[thomas-jefferson]] · [[lewis-and-clark-expedition]] · [[expansion-of-the-united-states]] · [[manifest-destiny]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

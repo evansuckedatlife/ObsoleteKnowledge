@@ -3,16 +3,22 @@ type: event
 category: history
 defines:
   - "Engel v. Vitale"
-related:
-  - "[[first-amendment]]"
-  - "[[establishment-clause]]"
-  - "[[separation-of-church-and-state]]"
+related: ["[[first-amendment]]", "[[establishment-clause]]", "[[separation-of-church-and-state]]"]
+requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-2]]"
+tour_order: 1
 read: false
 ---
 
 # Engel v. Vitale
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[new-york-times-co-v-sullivan]] · [[tinker-v-des-moines]] · [[citizens-united-v-fec]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

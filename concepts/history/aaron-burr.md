@@ -3,16 +3,22 @@ type: person
 category: history
 defines:
   - Aaron Burr
-related:
-  - "[[thomas-jefferson]]"
-  - "[[alexander-hamilton]]"
-  - "[[james-madison]]"
+related: ["[[thomas-jefferson]]", "[[alexander-hamilton]]", "[[james-madison]]"]
+requires: ["[[american-revolution]]"]
 lists:
   - "[[vice-presidents-who-never-became-president]]"
+tour_order: 1
 read: false
 ---
 
 # Aaron Burr
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ read: false
 ## see also
 
 - [[john-c-calhoun]] · [[hubert-humphrey]] · [[spiro-agnew]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,12 +4,11 @@ category: history
 defines:
   - Patrice Lumumba
   - Patrice Émery Lumumba
-related:
-  - "[[congo]]"
-  - "[[congo-crisis]]"
-  - "[[belgian-congo]]"
+related: ["[[congo]]", "[[congo-crisis]]", "[[belgian-congo]]"]
+requires: []
 lists:
   - "[[20th-century-african-leaders]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[kwame-nkrumah]] · [[jomo-kenyatta]] · [[julius-nyerere]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,11 +4,11 @@ category: history
 defines:
   - "Pedro II of Brazil"
   - "Dom Pedro II"
-related:
-  - "[[getulio-vargas]]"
-  - "[[juan-peron]]"
+related: ["[[getulio-vargas]]", "[[juan-peron]]"]
+requires: []
 lists:
   - "[[south-american-political-leaders]]"
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +35,18 @@ read: false
 ## see also
 
 - [[getulio-vargas]] · [[juan-peron]] · [[simon-bolivar]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

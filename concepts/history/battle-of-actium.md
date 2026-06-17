@@ -2,8 +2,10 @@
 type: event
 category: history
 defines: [Battle of Actium]
-related: ["[[octavian]]", "[[mark-antony]]", "[[cleopatra]]"]
+related: ["[[octavian]]", "[[mark-antony]]", "[[cleopatra]]", "[[rome]]"]
+requires: []
 lists: ["[[battles-of-the-ancient-world]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The *Battle of Actium* (31 BC) was a decisive naval battle off the Greek coast w
 ## see also
 
 - [[philippi]] · [[battle-of-the-nile]] · [[augustus]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

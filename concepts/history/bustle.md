@@ -3,12 +3,11 @@ type: practice
 category: history
 defines:
   - Bustle
-related:
-  - "[[crinoline]]"
-  - "[[corset]]"
-  - "[[victoria]]"
+related: ["[[crinoline]]", "[[corset]]", "[[victoria]]"]
+requires: []
 lists:
   - "[[historical-fashions]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ The *bustle* is a framework of steel hoops, petticoats, or padding worn beneath 
 ## see also
 
 - [[crinoline]] · [[corset]] · [[victoria]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

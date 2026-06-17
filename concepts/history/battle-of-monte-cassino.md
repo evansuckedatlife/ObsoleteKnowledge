@@ -2,13 +2,22 @@
 type: event
 category: history
 defines: [Battle of Monte Cassino, Monte Cassino]
-related: ["[[italy-campaign]]", "[[world-war-ii]]", "[[western-allies]]", "[[nazi-germany]]", "[[gustav-line]]"]
+related: ["[[italy-campaign]]", "[[world-war-ii]]", "[[western-allies]]", "[[nazi-germany]]", "[[gustav-line]]", "[[italy]]", "[[germany]]"]
+requires: ["[[world-war-ii]]"]
 lists: ["[[world-war-ii-battles]]"]
+tour_order: 1
 read: false
 aliases: [monte-cassino]
 ---
 
 # Battle of Monte Cassino
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -47,6 +56,18 @@ Monte Cassino became the symbol of the Italian campaign's grinding, high-casualt
 ## see also
 
 - [[battle-of-anzio]] · [[italy-campaign]] · [[battle-of-normandy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

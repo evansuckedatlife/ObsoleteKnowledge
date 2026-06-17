@@ -3,7 +3,9 @@ type: work
 category: history
 defines: ["Ladies' Home Journal", "Lady's Home Journal"]
 related: ["[[women-and-magazines]]", "[[american-domesticity]]", "[[consumer-culture]]"]
+requires: []
 lists: ["[[magazines-from-american-history]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[the-saturday-evening-post]] · [[life-magazine]] · [[time-magazine]] · [[readers-digest]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

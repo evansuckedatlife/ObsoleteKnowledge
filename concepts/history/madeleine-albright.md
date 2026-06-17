@@ -3,14 +3,11 @@ type: person
 category: history
 defines:
   - Madeleine Albright
-related:
-  - "[[bill-clinton]]"
-  - "[[nato-expansion-1990s]]"
-  - "[[bosnian-war]]"
-  - "[[kosovo-war]]"
-  - "[[post-cold-war-order]]"
+related: ["[[bill-clinton]]", "[[nato-expansion-1990s]]", "[[bosnian-war]]", "[[kosovo-war]]", "[[post-cold-war-order]]"]
+requires: []
 lists:
   - "[[secretaries-of-state]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +36,18 @@ read: false
 ## see also
 
 - [[henry-kissinger]] · [[dean-acheson]] · [[george-marshall]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

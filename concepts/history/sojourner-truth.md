@@ -4,13 +4,11 @@ category: history
 defines:
   - Sojourner Truth
   - Isabella Baumfree
-related:
-  - "[[slavery]]"
-  - "[[womens-rights]]"
-  - "[[abolitionism]]"
-  - "[[elizabeth-cady-stanton]]"
+related: ["[[slavery]]", "[[womens-rights]]", "[[abolitionism]]", "[[elizabeth-cady-stanton]]"]
+requires: []
 lists:
   - "[[feminists]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[susan-b-anthony]] · [[elizabeth-cady-stanton]] · [[harriet-tubman]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

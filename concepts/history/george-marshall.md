@@ -4,18 +4,22 @@ category: history
 defines:
   - George Marshall
   - George C. Marshall
-related:
-  - "[[harry-s-truman]]"
-  - "[[marshall-plan]]"
-  - "[[cold-war]]"
-  - "[[nato]]"
-  - "[[korean-war]]"
+related: ["[[harry-s-truman]]", "[[marshall-plan]]", "[[cold-war]]", "[[nato]]", "[[korean-war]]"]
+requires: ["[[world-war-ii]]"]
 lists:
   - "[[secretaries-of-state]]"
+tour_order: 1
 read: false
 ---
 
 # George Marshall
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +44,18 @@ read: false
 ## see also
 
 - [[cordell-hull]] · [[dean-acheson]] · [[john-hay]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

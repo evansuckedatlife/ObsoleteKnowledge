@@ -3,12 +3,11 @@ type: person
 category: history
 defines:
   - Howard Hughes
-related:
-  - "[[chuck-yeager]]"
-  - "[[wiley-post]]"
-  - "[[jimmy-doolittle]]"
+related: ["[[chuck-yeager]]", "[[wiley-post]]", "[[jimmy-doolittle]]"]
+requires: []
 lists:
   - "[[aviators]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[chuck-yeager]] · [[wiley-post]] · [[charles-lindbergh]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

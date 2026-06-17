@@ -3,16 +3,22 @@ type: person
 category: history
 defines:
   - Nathan Hale
-related:
-  - "[[american-revolution]]"
-  - "[[george-washington]]"
-  - "[[british-intelligence]]"
+related: ["[[american-revolution]]", "[[george-washington]]", "[[british-intelligence]]"]
+requires: ["[[american-revolution]]"]
 lists:
   - "[[spies]]"
+tour_order: 1
 read: false
 ---
 
 # Nathan Hale
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -37,6 +43,18 @@ read: false
 ## see also
 
 - [[virginia-hall]] · [[belle-boyd]] · [[benedict-arnold]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

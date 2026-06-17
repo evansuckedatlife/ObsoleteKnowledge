@@ -3,11 +3,20 @@ type: event
 category: history
 defines: ["My Lai", "My Lai Massacre"]
 related: ["[[vietnam-war]]", "[[william-calley]]", "[[u-s-military-crimes]]", "[[operation-wheeler-wallowa]]", "[[war-crimes-tribunal]]"]
+requires: ["[[vietnam-war]]"]
 lists: ["[[massacres]]"]
+tour_order: 1
 read: false
 ---
 
 # My Lai
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -56,6 +65,18 @@ My Lai crystallized American doubts about the Vietnam War. The massacre itself, 
 ## see also
 
 - [[nanjing-massacre]] · [[katyn]] · [[jallianwala-bagh]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: event
 category: history
 defines: ["Manhattan Project", "The Manhattan Project"]
 related: ["[[j-robert-oppenheimer]]", "[[enrico-fermi]]", "[[leo-szilard]]", "[[albert-einstein]]", "[[nuclear-fission]]", "[[hiroshima-and-nagasaki]]", "[[nuclear-weapons]]", "[[theoretical-physics]]", "[[world-war-ii]]", "[[trinity-test]]"]
+requires: ["[[world-war-ii]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Manhattan Project
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -65,6 +74,18 @@ The Manhattan Project represents a watershed in science, technology, and power. 
 ## see also
 
 - [[world-war-ii]] · [[hiroshima-and-nagasaki]] · [[nuclear-weapons]] · [[j-robert-oppenheimer]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

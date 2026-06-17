@@ -4,12 +4,11 @@ category: history
 defines:
   - Rashidun Caliphate
   - Rightly Guided Caliphates
-related:
-  - "[[umayyad-caliphate]]"
-  - "[[abbasid-caliphate]]"
-  - "[[muhammad]]"
+related: ["[[umayyad-caliphate]]", "[[abbasid-caliphate]]", "[[muhammad]]", "[[islam]]"]
+requires: []
 lists:
   - "[[medieval-islamic-dynasties]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ The *Rashidun Caliphate* (632–661 CE) comprises the first four Islamic caliphs
 ## see also
 
 - [[umayyad-caliphate]] · [[abbasid-caliphate]] · [[fatimid-caliphate]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

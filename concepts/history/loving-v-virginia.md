@@ -4,16 +4,22 @@ category: history
 defines:
   - "Loving v. Virginia"
   - Loving decision
-related:
-  - "[[miscegenation-laws]]"
-  - "[[civil-rights-movement]]"
-  - "[[14th-amendment]]"
+related: ["[[miscegenation-laws]]", "[[civil-rights-movement]]", "[[14th-amendment]]"]
+requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-concerned-with-african-americans]]"
+tour_order: 1
 read: false
 ---
 
 # Loving v. Virginia
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ read: false
 ## see also
 
 - [[brown-v-board-of-education]] · [[heart-of-atlanta-motel-v-united-states]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

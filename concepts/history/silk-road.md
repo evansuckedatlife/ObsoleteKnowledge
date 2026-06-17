@@ -2,8 +2,10 @@
 type: concept
 category: history
 defines: [Silk Road, Silk Routes]
-related: ["[[trade]]", "[[merchants]]", "[[tang-dynasty]]", "[[ottoman-empire]]", "[[venetian-republic]]", "[[buddhism]]", "[[islam]]", "[[Marco-Polo]]"]
+related: ["[[trade]]", "[[merchants]]", "[[tang-dynasty]]", "[[ottoman-empire]]", "[[venetian-republic]]", "[[buddhism]]", "[[islam]]", "[[Marco-Polo]]", "[[china]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -69,6 +71,18 @@ The Silk Road was far more than a trade route; it was the nervous system of the 
 ## see also
 
 - [[ottoman-empire]] · [[tang-dynasty]] · [[venetian-republic]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

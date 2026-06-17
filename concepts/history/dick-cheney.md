@@ -4,12 +4,11 @@ category: history
 defines:
   - Dick Cheney
   - Richard Bruce Cheney
-related:
-  - "[[george-w-bush]]"
-  - "[[9-11-attacks]]"
-  - "[[iraq-war]]"
+related: ["[[george-w-bush]]", "[[9-11-attacks]]", "[[iraq-war]]"]
+requires: []
 lists:
   - "[[vice-presidents-who-never-became-president]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[al-gore]] · [[walter-mondale]] · [[hannibal-hamlin]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

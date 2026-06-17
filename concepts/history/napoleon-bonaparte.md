@@ -4,16 +4,22 @@ category: history
 defines:
   - Napoleon Bonaparte
   - Napoleon
-related:
-  - "[[french-revolution]]"
-  - "[[reign-of-terror]]"
-  - "[[louis-xvi]]"
+related: ["[[french-revolution]]", "[[reign-of-terror]]", "[[louis-xvi]]", "[[france]]"]
+requires: ["[[french-revolution]]"]
 lists:
   - "[[people-from-the-french-revolution]]"
+tour_order: 2
 read: false
 ---
 
 # Napoleon Bonaparte
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -57,6 +63,18 @@ Napoleon is history's supreme example of the revolutionary who becomes the tyran
 ## see also
 
 - [[robespierre]] · [[danton]] · [[louis-xvi]] · [[marquis-de-lafayette]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

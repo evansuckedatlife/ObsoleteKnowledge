@@ -3,17 +3,22 @@ type: person
 category: history
 defines:
   - Mary Wollstonecraft
-related:
-  - "[[voltaire]]"
-  - "[[jean-jacques-rousseau]]"
-  - "[[womens-rights]]"
-  - "[[enlightenment]]"
+related: ["[[voltaire]]", "[[jean-jacques-rousseau]]", "[[womens-rights]]", "[[enlightenment]]"]
+requires: ["[[enlightenment]]"]
 lists:
   - "[[feminists]]"
+tour_order: 1
 read: false
 ---
 
 # Mary Wollstonecraft
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +44,18 @@ read: false
 ## see also
 
 - [[susan-b-anthony]] · [[simone-de-beauvoir]] · [[betty-friedan]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

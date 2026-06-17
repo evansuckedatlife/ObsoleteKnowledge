@@ -4,12 +4,11 @@ category: history
 defines:
   - Know-Nothing Party
   - American Party
-related:
-  - "[[nativism-american-history]]"
-  - "[[american-third-parties]]"
-  - "[[james-buchanan]]"
+related: ["[[nativism-american-history]]", "[[american-third-parties]]", "[[james-buchanan]]"]
+requires: []
 lists:
   - "[[american-third-parties]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ The Know-Nothing Party, officially the American Party, was a nativist political 
 ## see also
 
 - [[free-soil-party]] · [[whig-party]] · [[nativism-american-history]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

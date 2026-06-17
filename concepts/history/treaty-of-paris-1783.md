@@ -2,12 +2,21 @@
 type: event
 category: history
 defines: [Treaty of Paris (1783), American Independence Treaty]
-related: ["[[american-revolution]]", "[[george-washington]]", "[[benjamin-franklin]]", "[[british-empire]]", "[[united-states]]"]
+related: ["[[american-revolution]]", "[[george-washington]]", "[[benjamin-franklin]]", "[[british-empire]]", "[[united-states]]", "[[france]]"]
+requires: ["[[american-revolution]]"]
 lists: ["[[treaties]]"]
+tour_order: 1
 read: false
 ---
 
 # Treaty of Paris (1783)
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -52,6 +61,18 @@ The Treaty of Paris 1783 is a watershed in modern history: it validated the Amer
 ## see also
 
 - [[peace-of-westphalia]] · [[treaty-of-versailles]] · [[congress-of-vienna]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

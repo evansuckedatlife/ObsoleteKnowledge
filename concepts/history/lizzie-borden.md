@@ -2,11 +2,11 @@
 type: event
 category: history
 defines: [Lizzie Borden, Fall River murders]
-related:
-  - "[[19th-century-american-crime]]"
-  - "[[massachusetts-criminal-law]]"
+related: ["[[19th-century-american-crime]]", "[[massachusetts-criminal-law]]"]
+requires: []
 lists:
   - "[[american-murders-and-murderers]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +36,18 @@ In August 1892, two people were killed with an axe in their Fall River, Massachu
 ## see also
 
 - [[sacco-and-vanzetti]] · [[hall-mills-case]] · [[sam-sheppard-case]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

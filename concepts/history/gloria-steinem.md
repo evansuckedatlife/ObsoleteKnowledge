@@ -3,13 +3,11 @@ type: person
 category: history
 defines:
   - Gloria Steinem
-related:
-  - "[[ms-magazine]]"
-  - "[[womens-liberation]]"
-  - "[[reproductive-rights]]"
-  - "[[second-wave-feminism]]"
+related: ["[[ms-magazine]]", "[[womens-liberation]]", "[[reproductive-rights]]", "[[second-wave-feminism]]"]
+requires: []
 lists:
   - "[[feminists]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[betty-friedan]] · [[bell-hooks]] · [[germaine-greer]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

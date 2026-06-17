@@ -3,7 +3,9 @@ type: person
 category: history
 defines: ["Alexander III"]
 related: ["[[alexander-ii]]", "[[nicholas-ii]]", "[[counter-reforms-1880s]]", "[[russian-empire]]", "[[official-nationality]]"]
+requires: []
 lists: ["[[russian-tsars]]"]
+tour_order: 0
 read: false
 ---
 
@@ -56,6 +58,18 @@ Alexander III perfected the model of autocratic reaction that Nicholas I had beg
 ## see also
 
 - [[alexander-ii]] · [[nicholas-ii]] · [[ivan-iv]] · [[nicholas-i]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

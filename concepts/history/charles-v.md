@@ -2,8 +2,10 @@
 type: person
 category: history
 defines: [Charles V, Charles I of Spain, Holy Roman Emperor]
-related: ["[[francis-i-of-france]]", "[[martin-luther]]", "[[protestant-reformation]]", "[[holy-roman-empire]]", "[[habsburg-dynasty]]", "[[spanish-empire]]", "[[ottoman-empire]]"]
+related: ["[[francis-i-of-france]]", "[[martin-luther]]", "[[protestant-reformation]]", "[[holy-roman-empire]]", "[[habsburg-dynasty]]", "[[spanish-empire]]", "[[ottoman-empire]]", "[[christianity]]", "[[spain]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +39,18 @@ read: false
 ## see also
 
 - [[francis-i-of-france]] · [[martin-luther]] · [[philip-ii-of-spain]] · [[habsburg-dynasty]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Congress of Vienna]
 related: ["[[napoleon-bonaparte]]", "[[metternich]]", "[[alexander-i]]", "[[the-napoleonic-wars]]", "[[conservatism]]", "[[balance-of-power]]", "[[concert-of-europe]]", "[[british-empire]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -63,6 +65,18 @@ The Congress of Vienna was a watershed moment in the history of diplomacy and in
 ## see also
 
 - [[napoleon-bonaparte]] · [[metternich]] · [[the-napoleonic-wars]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

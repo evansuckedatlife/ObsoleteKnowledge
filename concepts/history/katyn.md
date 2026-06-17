@@ -3,11 +3,20 @@ type: event
 category: history
 defines: ["Katyn", "Katyn Massacre"]
 related: ["[[soviet-union]]", "[[secret-police]]", "[[world-war-ii]]", "[[poland]]", "[[stalin]]"]
+requires: ["[[world-war-ii]]"]
 lists: ["[[massacres]]"]
+tour_order: 1
 read: false
 ---
 
 # Katyn
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -55,6 +64,18 @@ Katyn exemplifies Stalin's use of mass murder as a tool of state policy and demo
 ## see also
 
 - [[my-lai]] · [[nanjing-massacre]] · [[jallianwala-bagh]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

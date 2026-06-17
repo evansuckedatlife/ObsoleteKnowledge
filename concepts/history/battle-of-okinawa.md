@@ -3,12 +3,11 @@ type: event
 category: history
 defines:
   - Battle of Okinawa
-related:
-  - "[[battle-of-iwo-jima]]"
-  - "[[united-states-marine-corps]]"
-  - "[[atomic-bomb]]"
+related: ["[[battle-of-iwo-jima]]", "[[united-states-marine-corps]]", "[[atomic-bomb]]", "[[japan]]"]
+requires: []
 lists:
   - "[[world-war-ii-pacific-campaigns]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ The longest and costliest of the Pacific island campaigns, Okinawa (April–June
 ## see also
 
 - [[battle-of-iwo-jima]] · [[battle-of-saipan]] · [[battle-of-leyte-gulf]] · [[battle-of-guadalcanal]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

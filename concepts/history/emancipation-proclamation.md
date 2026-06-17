@@ -3,11 +3,20 @@ type: text
 category: history
 defines: [Emancipation Proclamation]
 related: ["[[abraham-lincoln]]", "[[american-civil-war]]", "[[slavery-in-the-united-states]]", "[[reconstruction-era]]", "[[13th-amendment]]", "[[united-states-constitution]]", "[[gettysburg-address]]"]
+requires: ["[[american-civil-war]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Emancipation Proclamation
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +45,18 @@ The Emancipation Proclamation was an executive order issued by President *Abraha
 ## see also
 
 - [[abraham-lincoln]] · [[american-civil-war]] · [[reconstruction-era]] · [[13th-amendment]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

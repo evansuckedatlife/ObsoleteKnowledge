@@ -2,12 +2,11 @@
 type: event
 category: history
 defines: [Black Dahlia, Black Dahlia murder]
-related:
-  - "[[elizabeth-short]]"
-  - "[[los-angeles-1940s]]"
-  - "[[unsolved-crimes]]"
+related: ["[[elizabeth-short]]", "[[los-angeles-1940s]]", "[[unsolved-crimes]]"]
+requires: []
 lists:
   - "[[american-murders-and-murderers]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ In January 1947, the mutilated body of 22-year-old *Elizabeth Short*, an aspirin
 ## see also
 
 - [[lindbergh-kidnapping]] · [[sam-sheppard-case]] · [[hall-mills-case]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

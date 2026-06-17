@@ -3,11 +3,20 @@ type: event
 category: history
 defines: ["Operation Barbarossa", Barbarossa]
 related: ["[[world-war-ii]]", "[[nazi-germany]]", "[[soviet-union]]", "[[eastern-front]]", "[[adolf-hitler]]"]
+requires: ["[[world-war-ii]]"]
 lists: ["[[world-war-ii-battles]]"]
+tour_order: 1
 read: false
 ---
 
 # Operation Barbarossa
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -51,6 +60,18 @@ Operation Barbarossa was the war's pivotal campaign—the moment Germany's fate 
 ## see also
 
 - [[battle-of-stalingrad]] · [[battle-of-kursk]] · [[world-war-ii]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

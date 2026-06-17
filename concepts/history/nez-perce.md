@@ -5,10 +5,11 @@ defines:
   - Nez Perce
   - Nez Percé
   - Nimíipuu
-related:
-  - "[[native-american-peoples]]"
+related: ["[[native-american-peoples]]"]
+requires: []
 lists:
   - "[[native-american-peoples]]"
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +36,18 @@ The *Nez Perce* (Nimíipuu, "the People") are a Plateau nation historically inha
 ## see also
 
 - [[cherokee]] · [[lakota-sioux]] · [[cheyenne]] · [[apache]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

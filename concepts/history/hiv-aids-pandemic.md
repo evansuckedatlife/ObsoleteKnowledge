@@ -5,12 +5,11 @@ defines:
   - HIV/AIDS Pandemic
   - AIDS Epidemic
   - HIV Pandemic
-related:
-  - "[[virology]]"
-  - "[[antiretroviral-therapy]]"
-  - "[[public-health-policy]]"
+related: ["[[virology]]", "[[antiretroviral-therapy]]", "[[public-health-policy]]"]
+requires: []
 lists:
   - "[[plagues-and-pandemics]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +40,18 @@ The *HIV/AIDS pandemic* emerged in the early 1980s as a global health crisis, ki
 ## see also
 
 - [[spanish-flu]] · [[covid-19-pandemic]] · [[cholera-pandemics]] · [[black-death]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

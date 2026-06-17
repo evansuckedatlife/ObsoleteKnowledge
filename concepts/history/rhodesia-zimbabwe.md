@@ -2,13 +2,11 @@
 type: place
 category: history
 defines: ["Rhodesia", "Zimbabwe"]
-related:
-  - "[[cecil-rhodes]]"
-  - "[[british-south-africa-company]]"
-  - "[[zimbabwean-bush-war]]"
-  - "[[robert-mugabe]]"
+related: ["[[cecil-rhodes]]", "[[british-south-africa-company]]", "[[zimbabwean-bush-war]]", "[[robert-mugabe]]"]
+requires: []
 lists:
   - "[[countries-once-known-by-different-names]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[gold-coast-ghana]] · [[abyssinia-ethiopia]] · [[dahomey-benin]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

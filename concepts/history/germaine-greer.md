@@ -3,13 +3,11 @@ type: person
 category: history
 defines:
   - Germaine Greer
-related:
-  - "[[the-female-eunuch]]"
-  - "[[second-wave-feminism]]"
-  - "[[sexuality]]"
-  - "[[womens-liberation]]"
+related: ["[[the-female-eunuch]]", "[[second-wave-feminism]]", "[[sexuality]]", "[[womens-liberation]]"]
+requires: []
 lists:
   - "[[feminists]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[gloria-steinem]] · [[betty-friedan]] · [[simone-de-beauvoir]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

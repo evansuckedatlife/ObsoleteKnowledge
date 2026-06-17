@@ -3,7 +3,9 @@ type: person
 category: history
 defines: [Richard I, Richard the Lionheart, Richard Coeur de Lion]
 related: ["[[henry-ii]]", "[[king-john]]", "[[saladin]]", "[[third-crusade]]"]
+requires: []
 lists: ["[[british-monarchs]]"]
+tour_order: 0
 read: false
 ---
 
@@ -29,6 +31,18 @@ Richard I, widely known as Richard the Lionheart, was King of England from 1189 
 ## see also
 
 - [[william-i]] · [[henry-ii]] · [[king-john]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

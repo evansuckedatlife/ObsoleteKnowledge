@@ -3,7 +3,9 @@ type: person
 category: history
 defines: [Victoria, Queen Victoria, Alexandrina Victoria]
 related: ["[[prince-albert]]", "[[benjamin-disraeli]]", "[[william-gladstone]]", "[[house-of-hanover]]"]
+requires: []
 lists: ["[[british-monarchs]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Victoria was Queen of the United Kingdom of Great Britain and Ireland from 1837 
 ## see also
 
 - [[george-iii]] · [[victoria]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

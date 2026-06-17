@@ -3,13 +3,11 @@ type: person
 category: history
 defines:
   - Elizabeth Cady Stanton
-related:
-  - "[[susan-b-anthony]]"
-  - "[[seneca-falls-convention]]"
-  - "[[womens-rights]]"
-  - "[[abolitionism]]"
+related: ["[[susan-b-anthony]]", "[[seneca-falls-convention]]", "[[womens-rights]]", "[[abolitionism]]"]
+requires: []
 lists:
   - "[[feminists]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[susan-b-anthony]] · [[sojourner-truth]] · [[lucy-stone]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

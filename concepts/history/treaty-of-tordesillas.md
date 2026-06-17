@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Treaty of Tordesillas, Tordesillas Treaty]
 related: ["[[age-of-exploration]]", "[[christopher-columbus]]", "[[portugal]]", "[[spain]]", "[[colonialism]]"]
+requires: []
 lists: ["[[treaties]]"]
+tour_order: 0
 read: false
 ---
 
@@ -52,6 +54,18 @@ The Treaty of Tordesillas epitomises the Age of Exploration's hubris: two Cathol
 ## see also
 
 - [[treaty-of-versailles]] · [[treaty-of-paris-1783]] · [[congress-of-vienna]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

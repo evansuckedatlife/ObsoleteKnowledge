@@ -5,11 +5,11 @@ defines:
   - Wright Brothers
   - Orville Wright
   - Wilbur Wright
-related:
-  - "[[glenn-curtiss]]"
-  - "[[charles-lindbergh]]"
+related: ["[[glenn-curtiss]]", "[[charles-lindbergh]]"]
+requires: []
 lists:
   - "[[aviators]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +38,18 @@ read: false
 ## see also
 
 - [[glenn-curtiss]] · [[charles-lindbergh]] · [[amelia-earhart]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

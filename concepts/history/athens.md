@@ -4,14 +4,11 @@ category: history
 defines:
   - Athens
   - Athenian
-related:
-  - "[[sparta]]"
-  - "[[democracy]]"
-  - "[[pericles]]"
-  - "[[socrates]]"
-  - "[[plato]]"
+related: ["[[sparta]]", "[[democracy]]", "[[pericles]]", "[[socrates]]", "[[plato]]", "[[ancient-greece]]"]
+requires: []
 lists:
   - "[[ancient-greek-places]]"
+tour_order: 0
 read: false
 ---
 
@@ -64,6 +61,18 @@ Athens' invention of democracy was less a gift to humanity than a solution to in
 ## see also
 
 - [[sparta]] · [[thebes]] · [[corinth]] · [[delphi]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

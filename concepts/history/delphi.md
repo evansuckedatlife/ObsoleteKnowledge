@@ -4,13 +4,11 @@ category: history
 defines:
   - Delphi
   - Delphic
-related:
-  - "[[apollo]]"
-  - "[[python]]"
-  - "[[oracle]]"
-  - "[[amphictyonic-league]]"
+related: ["[[apollo]]", "[[python]]", "[[oracle]]", "[[amphictyonic-league]]", "[[ancient-greece]]"]
+requires: []
 lists:
   - "[[ancient-greek-places]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[olympia]] · [[athens]] · [[sparta]] · [[thebes]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

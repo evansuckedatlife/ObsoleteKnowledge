@@ -5,12 +5,11 @@ defines:
   - Idi Amin
   - Idi Amin Dada
   - Idi Amin Dada Oumee
-related:
-  - "[[uganda]]"
-  - "[[ugandan-dictatorship]]"
-  - "[[julius-nyerere]]"
+related: ["[[uganda]]", "[[ugandan-dictatorship]]", "[[julius-nyerere]]"]
+requires: []
 lists:
   - "[[20th-century-african-leaders]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[robert-mugabe]] · [[julius-nyerere]] · [[nelson-mandela]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

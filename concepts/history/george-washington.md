@@ -3,11 +3,20 @@ type: person
 category: history
 defines: ["George Washington"]
 related: ["[[nathanael-greene]]", "[[marquis-de-lafayette]]", "[[henry-knox]]", "[[baron-von-steuben]]", "[[continental-army]]", "[[american-revolution]]"]
+requires: ["[[american-revolution]]"]
 lists: ["[[revolutionary-war-generals]]"]
+tour_order: 1
 read: false
 ---
 
 # George Washington
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -46,6 +55,18 @@ Washington's greatness lay not in tactical brilliance (he lost more battles than
 ## see also
 
 - [[nathanael-greene]] · [[marquis-de-lafayette]] · [[henry-knox]] · [[baron-von-steuben]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

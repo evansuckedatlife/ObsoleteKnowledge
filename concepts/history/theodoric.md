@@ -2,8 +2,10 @@
 type: person
 category: history
 defines: [Theodoric, Theodoric the Great, Theodoric of the Ostrogoths]
-related: ["[[ostrogoth]]", "[[roman-empire]]", "[[byzantine-empire]]", "[[zeno]]", "[[barbarian-invasions]]", "[[boethius]]", "[[italy]]"]
+related: ["[[ostrogoth]]", "[[roman-empire]]", "[[byzantine-empire]]", "[[zeno]]", "[[barbarian-invasions]]", "[[boethius]]", "[[italy]]", "[[rome]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +40,18 @@ read: false
 ## see also
 
 - [[ostrogoth]] · [[zeno]] · [[boethius]] · [[odoacer]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

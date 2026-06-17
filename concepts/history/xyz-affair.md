@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["XYZ Affair", "X.Y.Z. Affair", "French diplomatic crisis"]
 related: ["[[john-adams]]", "[[charles-maurice-de-talleyrand]]", "[[quasi-war]]"]
+requires: []
 lists: ["[[presidential-scandals]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The *XYZ Affair* was a diplomatic scandal of *1797–1798* in which French diplo
 ## see also
 
 - [[watergate]] · [[iran-contra]] · [[teapot-dome]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

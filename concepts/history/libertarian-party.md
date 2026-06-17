@@ -3,12 +3,11 @@ type: concept
 category: history
 defines:
   - Libertarian Party
-related:
-  - "[[american-third-parties]]"
-  - "[[libertarianism]]"
-  - "[[david-koch]]"
+related: ["[[american-third-parties]]", "[[libertarianism]]", "[[david-koch]]"]
+requires: []
 lists:
   - "[[american-third-parties]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ The Libertarian Party, founded in 1971, is the longest-standing active third par
 ## see also
 
 - [[green-party]] · [[reform-party]] · [[socialism-in-america]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

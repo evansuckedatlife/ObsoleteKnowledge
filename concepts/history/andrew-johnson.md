@@ -3,11 +3,20 @@ type: person
 category: history
 defines: [Andrew Johnson]
 related: ["[[reconstruction-era]]", "[[impeachment-of-andrew-johnson]]", "[[14th-amendment]]", "[[reconstruction-acts]]", "[[freedmen-bureau]]", "[[abraham-lincoln]]", "[[radical-republicans]]", "[[andrew-johnson-inauguration]]"]
+requires: ["[[american-civil-war]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Andrew Johnson
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -37,6 +46,18 @@ Andrew Johnson (1808–1875) was the 17th President of the United States, ascend
 ## see also
 
 - [[ulysses-s-grant]] · [[abraham-lincoln]] · [[william-seward]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

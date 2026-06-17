@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Coalition Wars, French Revolutionary Wars]
 related: ["[[french-revolution]]", "[[napoleon-bonaparte]]", "[[marie-antoinette]]", "[[great-britain]]", "[[austria]]", "[[russia]]", "[[revolutionary-warfare]]", "[[the-napoleonic-wars]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -68,6 +70,18 @@ The Coalition Wars represent the violent intersection of the French Revolution's
 ## see also
 
 - [[french-revolution]] · [[napoleon-bonaparte]] · [[the-napoleonic-wars]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

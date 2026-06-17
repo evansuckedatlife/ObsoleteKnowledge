@@ -3,11 +3,20 @@ type: event
 category: history
 defines: [Election of 1876, "1876 US presidential election"]
 related: ["[[rutherford-hayes]]", "[[samuel-tilden]]", "[[reconstruction-era]]", "[[compromise-of-1877]]", "[[electoral-commission]]"]
+requires: ["[[reconstruction-era]]"]
 lists: ["[[elections]]"]
+tour_order: 2
 read: false
 ---
 
 # Election of 1876
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -46,6 +55,18 @@ The 1876 election exposed the fragility of Reconstruction-era democracy in the S
 ## see also
 
 - [[election-of-1860]] · [[election-of-1912]] · [[election-of-1948]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

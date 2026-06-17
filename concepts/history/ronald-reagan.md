@@ -3,7 +3,9 @@ type: person
 category: history
 defines: [Ronald Reagan]
 related: ["[[reaganomics]]", "[[cold-war-end]]", "[[soviet-union-collapse]]", "[[iran-contra]]", "[[star-wars-program]]", "[[reagan-doctrine]]", "[[morning-in-america]]", "[[tear-down-this-wall]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +39,18 @@ Ronald Reagan (1911–2004) was the 40th President of the United States, serving
 ## see also
 
 - [[jimmy-carter]] · [[george-h-w-bush]] · [[richard-nixon]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

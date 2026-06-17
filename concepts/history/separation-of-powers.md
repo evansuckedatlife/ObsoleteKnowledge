@@ -3,11 +3,20 @@ type: concept
 category: history
 defines: [Separation of Powers]
 related: ["[[united-states-constitution]]", "[[checks-and-balances]]", "[[executive-branch]]", "[[legislative-branch]]", "[[judicial-branch]]", "[[montesquieu]]", "[[federalist-papers]]", "[[united-states-supreme-court]]"]
+requires: ["[[united-states-constitution]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Separation of Powers
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -56,6 +65,18 @@ Separation of powers is more than a constitutional structure—it is a foundatio
 ## see also
 
 - [[united-states-constitution]] · [[checks-and-balances]] · [[federalist-papers]] · [[montesquieu]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

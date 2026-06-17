@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Assassination of John F. Kennedy, JFK assassination, Kennedy assassination]
 related: ["[[lee-harvey-oswald]]", "[[john-f-kennedy]]", "[[warren-commission]]", "[[cold-war]]"]
+requires: []
 lists: ["[[assassinations]]"]
+tour_order: 0
 read: false
 ---
 
@@ -48,6 +50,18 @@ The Kennedy assassination is perhaps the defining example of how a single violen
 ## see also
 
 - [[assassination-of-abraham-lincoln]] · [[assassination-of-william-mckinley]] · [[john-f-kennedy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

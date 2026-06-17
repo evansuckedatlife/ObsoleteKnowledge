@@ -4,11 +4,11 @@ category: history
 defines:
   - Yanomami
   - Yanomama
-related:
-  - "[[amazon-rainforest]]"
-  - "[[indigenous-conflict]]"
+related: ["[[amazon-rainforest]]", "[[indigenous-conflict]]"]
+requires: []
 lists:
   - "[[indigenous-peoples]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +38,18 @@ The *Yanomami* are an indigenous people of the Amazon rainforest inhabiting terr
 ## see also
 
 - [[roma]] · [[maasai]] · [[indigenous-peoples]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

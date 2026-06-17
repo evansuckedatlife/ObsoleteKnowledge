@@ -2,8 +2,10 @@
 type: person
 category: history
 defines: ["Ayatollah Khomeini", "Ruhollah Khomeini", "Ayatollah Ruhollah Khomeini"]
-related: ["[[iran]]", "[[islamic-revolution]]", "[[shia-islam]]", "[[shah-mohammad-reza-pahlavi]]"]
+related: ["[[iran]]", "[[islamic-revolution]]", "[[shia-islam]]", "[[shah-mohammad-reza-pahlavi]]", "[[islam]]"]
+requires: []
 lists: ["[[20th-century-middle-eastern-leaders]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[shah-mohammad-reza-pahlavi]] · [[saddam-hussein]] · [[hafez-al-assad]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

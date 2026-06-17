@@ -3,7 +3,9 @@ type: place
 category: history
 defines: [Hittite Empire, Hatti, Hittites]
 related: ["[[mursili-ii]]", "[[ramesses-ii]]", "[[egypt]]", "[[battle-of-kadesh]]"]
+requires: []
 lists: ["[[ancient-empires]]"]
+tour_order: 0
 read: false
 ---
 
@@ -57,6 +59,18 @@ The Hittites occupy a crucial but often-overlooked position in ancient history a
 ## see also
 
 - [[achaemenid-empire]] · [[assyrian-empire]] · [[roman-empire]] · [[egyptiean-empire]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

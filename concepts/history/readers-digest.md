@@ -3,7 +3,9 @@ type: work
 category: history
 defines: ["Reader's Digest"]
 related: ["[[american-mass-media]]", "[[magazine-publishing]]", "[[popular-culture]]"]
+requires: []
 lists: ["[[magazines-from-american-history]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[life-magazine]] · [[time-magazine]] · [[national-geographic]] · [[the-saturday-evening-post]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

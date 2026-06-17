@@ -2,8 +2,10 @@
 type: event
 category: history
 defines: ["St. Bartholomew's Day Massacre", "Massacre of St. Bartholomew's Day"]
-related: ["[[huguenots]]", "[[catherine-de-medici]]", "[[french-wars-of-religion]]", "[[charles-ix]]", "[[henry-of-navarre]]"]
+related: ["[[huguenots]]", "[[catherine-de-medici]]", "[[french-wars-of-religion]]", "[[charles-ix]]", "[[henry-of-navarre]]", "[[france]]"]
+requires: []
 lists: ["[[massacres]]"]
+tour_order: 0
 read: false
 ---
 
@@ -51,6 +53,18 @@ St. Bartholomew's Day stands as one of early modern Europe's worst atrocities of
 ## see also
 
 - [[massacre-of-glencoe]] · [[wounded-knee]] · [[jallianwala-bagh]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

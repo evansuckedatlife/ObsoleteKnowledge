@@ -4,11 +4,11 @@ category: history
 defines:
   - "Bernardo O'Higgins"
   - "Bernardo O'Higgins Riquelme"
-related:
-  - "[[jose-de-san-martin]]"
-  - "[[simon-bolivar]]"
+related: ["[[jose-de-san-martin]]", "[[simon-bolivar]]"]
+requires: []
 lists:
   - "[[south-american-political-leaders]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +36,18 @@ read: false
 ## see also
 
 - [[jose-de-san-martin]] · [[simon-bolivar]] · [[juan-peron]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

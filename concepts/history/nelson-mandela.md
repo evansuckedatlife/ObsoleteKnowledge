@@ -5,12 +5,11 @@ defines:
   - Nelson Mandela
   - Madiba
   - Nelson Rolihlahla Mandela
-related:
-  - "[[apartheid]]"
-  - "[[f-w-de-klerk]]"
-  - "[[south-africa]]"
+related: ["[[apartheid]]", "[[f-w-de-klerk]]", "[[south-africa]]"]
+requires: []
 lists:
   - "[[20th-century-african-leaders]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ read: false
 ## see also
 
 - [[kwame-nkrumah]] · [[jomo-kenyatta]] · [[julius-nyerere]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

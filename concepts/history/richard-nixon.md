@@ -3,7 +3,9 @@ type: person
 category: history
 defines: [Richard Nixon]
 related: ["[[watergate]]", "[[resignation-of-richard-nixon]]", "[[vietnam-war]]", "[[detente]]", "[[opening-to-china]]", "[[silent-majority]]", "[[enemies-list]]", "[[united-states-v-nixon]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +40,18 @@ Richard Nixon (1913–1994) was the 37th President of the United States, serving
 ## see also
 
 - [[gerald-ford]] · [[lyndon-b-johnson]] · [[dwight-eisenhower]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

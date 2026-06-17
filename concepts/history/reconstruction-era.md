@@ -3,11 +3,20 @@ type: event
 category: history
 defines: ["Reconstruction"]
 related: ["[[abraham-lincoln]]", "[[andrew-johnson]]", "[[ulysses-s-grant]]", "[[14th-amendment]]", "[[radical-republicans]]", "[[ku-klux-klan]]", "[[american-civil-war]]"]
+requires: ["[[american-civil-war]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Reconstruction Era
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -59,6 +68,18 @@ Reconstruction was the nation's first and, until the Civil Rights era, its most 
 ## see also
 
 - [[andrew-johnson]] · [[ulysses-s-grant]] · [[hiram-revels]] · [[ku-klux-klan]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

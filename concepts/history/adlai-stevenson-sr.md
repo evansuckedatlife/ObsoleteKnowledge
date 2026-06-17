@@ -4,11 +4,11 @@ category: history
 defines:
   - Adlai Stevenson Sr.
   - Adlai Ewing Stevenson
-related:
-  - "[[grover-cleveland]]"
-  - "[[william-mckinley]]"
+related: ["[[grover-cleveland]]", "[[william-mckinley]]"]
+requires: []
 lists:
   - "[[vice-presidents-who-never-became-president]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +38,18 @@ read: false
 ## see also
 
 - [[hannibal-hamlin]] · [[aaron-burr]] · [[dick-cheney]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

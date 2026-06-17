@@ -4,12 +4,11 @@ category: history
 defines:
   - "Hugo Chávez"
   - "Hugo Rafael Chávez Frías"
-related:
-  - "[[salvador-allende]]"
-  - "[[juan-peron]]"
-  - "[[augusto-pinochet]]"
+related: ["[[salvador-allende]]", "[[juan-peron]]", "[[augusto-pinochet]]"]
+requires: []
 lists:
   - "[[south-american-political-leaders]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[salvador-allende]] · [[juan-peron]] · [[augusto-pinochet]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

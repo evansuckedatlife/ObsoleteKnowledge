@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Camp David Accords, Camp David Agreement]
 related: ["[[arab-israeli-conflict]]", "[[anwar-sadat]]", "[[menachem-begin]]", "[[jimmy-carter]]", "[[israel]]", "[[egypt]]"]
+requires: []
 lists: ["[[treaties]]"]
+tour_order: 0
 read: false
 ---
 
@@ -55,6 +57,18 @@ The Camp David Accords represent both a triumph and a failure of Middle Eastern 
 ## see also
 
 - [[treaty-of-versailles]] · [[treaty-of-paris-1783]] · [[peace-of-westphalia]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

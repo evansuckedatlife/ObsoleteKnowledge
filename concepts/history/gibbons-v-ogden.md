@@ -3,11 +3,20 @@ type: event
 category: history
 defines: ["Gibbons v. Ogden", "1824"]
 related: ["[[interstate-commerce]]", "[[federal-commerce-power]]", "[[steamship-monopoly]]", "[[john-marshall]]"]
+requires: ["[[united-states-constitution]]"]
 lists: ["[[supreme-court-cases]]"]
+tour_order: 1
 read: false
 ---
 
 # Gibbons v. Ogden
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -58,6 +67,18 @@ Gibbons v. Ogden is the Constitutional greenlight for the federal economic state
 ## see also
 
 - [[marbury-v-madison]] · [[mcculloch-v-maryland]] · [[lochner-v-new-york]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Battle of Plataea]
 related: ["[[pausanias]]", "[[mardonius]]", "[[persian-wars]]"]
+requires: []
 lists: ["[[battles-of-the-ancient-world]]"]
+tour_order: 0
 read: false
 aliases: [plataea]
 ---
@@ -35,6 +37,18 @@ The *Battle of Plataea* (479 BC) was the final major land engagement of the Pers
 ## see also
 
 - [[marathon]] · [[thermopylae]] · [[salamis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

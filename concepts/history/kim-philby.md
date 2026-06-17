@@ -5,17 +5,22 @@ defines:
   - Kim Philby
   - Harold Adrian Russell Philby
   - H.A.R. Philby
-related:
-  - "[[cold-war]]"
-  - "[[british-intelligence]]"
-  - "[[soviet-intelligence]]"
-  - "[[the-cambridge-five]]"
+related: ["[[cold-war]]", "[[british-intelligence]]", "[[soviet-intelligence]]", "[[the-cambridge-five]]"]
+requires: ["[[cold-war]]"]
 lists:
   - "[[spies]]"
+tour_order: 1
 read: false
 ---
 
 # Kim Philby
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -41,6 +46,18 @@ read: false
 ## see also
 
 - [[the-cambridge-five]] · [[aldrich-ames]] · [[donald-maclean]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

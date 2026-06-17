@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Assassination of Anwar Sadat, Sadat assassination]
 related: ["[[anwar-sadat]]", "[[egyptian-islamic-jihad]]", "[[camp-david-accords]]", "[[egypt-israel-relations]]"]
+requires: []
 lists: ["[[assassinations]]"]
+tour_order: 0
 read: false
 ---
 
@@ -50,6 +52,18 @@ Sadat's assassination marks a critical inflection point in Middle Eastern histor
 ## see also
 
 - [[assassination-of-julius-caesar]] · [[assassination-of-martin-luther-king-jr]] · [[anwar-sadat]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

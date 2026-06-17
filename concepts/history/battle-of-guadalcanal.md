@@ -3,12 +3,11 @@ type: event
 category: history
 defines:
   - Battle of Guadalcanal
-related:
-  - "[[battle-of-midway]]"
-  - "[[douglas-macarthur]]"
-  - "imperial-japanese-army"
+related: ["[[battle-of-midway]]", "[[douglas-macarthur]]", "[[imperial-japanese-army]]", "[[japan]]"]
+requires: []
 lists:
   - "[[world-war-ii-pacific-campaigns]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ Fought August 1942 to February 1943, Guadalcanal was the first major ground offe
 ## see also
 
 - [[battle-of-midway]] · [[battle-of-the-coral-sea]] · [[battle-of-leyte-gulf]] · [[battle-of-iwo-jima]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

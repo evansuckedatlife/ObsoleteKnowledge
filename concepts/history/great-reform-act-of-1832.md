@@ -2,8 +2,10 @@
 type: event
 category: history
 defines: ["Great Reform Act of 1832", "Reform Act of 1832"]
-related: ["[[chartism]]", "[[peterloo]]", "[[british-abolitionism]]", "[[william-ewart-gladstone]]", "[[robert-peel]]"]
+related: ["[[chartism]]", "[[peterloo]]", "[[british-abolitionism]]", "[[william-ewart-gladstone]]", "[[robert-peel]]", "[[england]]"]
+requires: []
 lists: ["[[british-reform-movements]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The **Great Reform Act of 1832** fundamentally restructured British electoral re
 ## see also
 
 - [[chartism]] · [[peterloo]] · [[british-abolitionism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

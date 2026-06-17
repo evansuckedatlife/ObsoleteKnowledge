@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["Space Race", "The Space Race"]
 related: ["[[yuri-gagarin]]", "[[neil-armstrong]]", "[[wernher-von-braun]]", "[[john-f-kennedy]]", "[[nasa]]", "[[sputnik]]", "[[apollo-11]]", "[[cold-war]]", "[[rocket-science]]", "[[science-fiction]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -65,6 +67,18 @@ The Space Race was the Cold War's most visible competition, translating nuclear-
 ## see also
 
 - [[cold-war]] · [[apollo-11]] · [[yuri-gagarin]] · [[science-fiction]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

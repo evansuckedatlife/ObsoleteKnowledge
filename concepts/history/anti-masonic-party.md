@@ -3,12 +3,11 @@ type: concept
 category: history
 defines:
   - Anti-Masonic Party
-related:
-  - "[[william-henry-harrison]]"
-  - "[[american-third-parties]]"
-  - "[[1832-u-s-presidential-election]]"
+related: ["[[william-henry-harrison]]", "[[american-third-parties]]", "[[1832-u-s-presidential-election]]"]
+requires: []
 lists:
   - "[[american-third-parties]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ The Anti-Masonic Party was an early U.S. third party of the 1828–1834 era, for
 ## see also
 
 - [[free-soil-party]] · [[know-nothing-party]] · [[1832-u-s-presidential-election]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

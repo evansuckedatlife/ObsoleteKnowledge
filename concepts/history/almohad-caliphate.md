@@ -5,12 +5,11 @@ defines:
   - Almohad Caliphate
   - Almohads
   - Muwahhidun
-related:
-  - "[[almoravid-dynasty]]"
-  - "[[al-andalus]]"
-  - "[[mamluk-sultanate]]"
+related: ["[[almoravid-dynasty]]", "[[al-andalus]]", "[[mamluk-sultanate]]"]
+requires: []
 lists:
   - "[[medieval-islamic-dynasties]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ The *Almohad Caliphate* (1121–1269 CE) was a North African Berber dynasty that
 ## see also
 
 - [[almoravid-dynasty]] · [[al-andalus]] · [[ayyubid-dynasty]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

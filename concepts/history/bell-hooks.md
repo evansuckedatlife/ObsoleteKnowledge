@@ -4,13 +4,11 @@ category: history
 defines:
   - bell hooks
   - Gloria Jean Watkins
-related:
-  - "[[race]]"
-  - "[[class]]"
-  - "[[intersectionality]]"
-  - "[[critical-pedagogy]]"
+related: ["[[race]]", "[[class]]", "[[intersectionality]]", "[[critical-pedagogy]]", "[[modernism]]"]
+requires: []
 lists:
   - "[[feminists]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[gloria-steinem]] · [[simone-de-beauvoir]] · [[judith-butler]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: place
 category: history
 defines: [Achaemenid Empire, Achaemenid Persian Empire, Persian Empire]
 related: ["[[cyrus-the-great]]", "[[darius-i]]", "[[xerxes-i]]", "[[zoroastrianism]]"]
+requires: []
 lists: ["[[ancient-empires]]"]
+tour_order: 0
 read: false
 ---
 
@@ -51,6 +53,18 @@ The Achaemenid Empire represents a sophisticated approach to holding diverse peo
 ## see also
 
 - [[macedonian-empire]] · [[roman-empire]] · [[assyrian-empire]] · [[mauryan-empire]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

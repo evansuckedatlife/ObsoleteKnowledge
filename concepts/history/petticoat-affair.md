@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["Petticoat Affair", "Eaton Affair"]
 related: ["[[andrew-jackson]]", "[[peggy-eaton]]", "[[john-henry-eaton]]"]
+requires: []
 lists: ["[[presidential-scandals]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ The *Petticoat Affair* (also called the *Eaton Affair*) was a social scandal dur
 ## see also
 
 - [[watergate]] · [[the-lewinsky-scandal]] · [[whitewater]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

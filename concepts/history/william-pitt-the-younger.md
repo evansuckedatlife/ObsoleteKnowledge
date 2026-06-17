@@ -2,13 +2,11 @@
 type: person
 category: history
 defines: [William Pitt the Younger]
-related:
-  - "[[george-iii]]"
-  - "[[french-revolutionary-wars]]"
-  - "[[napoleonic-wars]]"
-  - "[[tory-party]]"
+related: ["[[george-iii]]", "[[french-revolutionary-wars]]", "[[napoleonic-wars]]", "[[tory-party]]"]
+requires: []
 lists:
   - "[[british-prime-ministers]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +35,18 @@ read: false
 ## see also
 
 - [[robert-peel]] · [[winston-churchill]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

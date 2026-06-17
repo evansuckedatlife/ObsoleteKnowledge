@@ -10,6 +10,7 @@ related:
   - "[[getulio-vargas]]"
 lists:
   - "[[south-american-political-leaders]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +38,18 @@ read: false
 ## see also
 
 - [[salvador-allende]] · [[hugo-chavez]] · [[juan-peron]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

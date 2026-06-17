@@ -4,14 +4,11 @@ category: history
 defines:
   - John Quincy Adams
   - JQA
-related:
-  - "[[james-monroe]]"
-  - "[[monroe-doctrine]]"
-  - "[[treaty-of-ghent]]"
-  - "[[rush-bagot-agreement]]"
-  - "[[florida-cession]]"
+related: ["[[james-monroe]]", "[[monroe-doctrine]]", "[[treaty-of-ghent]]", "[[rush-bagot-agreement]]", "[[florida-cession]]"]
+requires: []
 lists:
   - "[[secretaries-of-state]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +38,18 @@ read: false
 ## see also
 
 - [[thomas-jefferson]] · [[daniel-webster]] · [[james-madison]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

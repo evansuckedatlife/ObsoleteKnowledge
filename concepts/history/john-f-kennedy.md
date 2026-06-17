@@ -3,7 +3,9 @@ type: person
 category: history
 defines: [John F. Kennedy, JFK]
 related: ["[[assassination-of-jfk]]", "[[cuban-missile-crisis]]", "[[bay-of-pigs]]", "[[civil-rights-movement]]", "[[cold-war]]", "[[space-race]]", "[[jfk-inauguration]]", "[[lyndon-b-johnson]]", "[[nikita-khrushchev]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -60,6 +62,18 @@ Kennedy inherited the Cold War and the civil rights crisis; he did not originate
 ## see also
 
 - [[abraham-lincoln]] · [[ronald-reagan]] · [[thomas-jefferson]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

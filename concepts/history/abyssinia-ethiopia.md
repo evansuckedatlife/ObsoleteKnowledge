@@ -2,13 +2,11 @@
 type: place
 category: history
 defines: ["Abyssinia", "Ethiopia"]
-related:
-  - "[[greek-africa]]"
-  - "[[italian-invasion-of-ethiopia]]"
-  - "[[haile-selassie]]"
-  - "[[axumite-empire]]"
+related: ["[[greek-africa]]", "[[italian-invasion-of-ethiopia]]", "[[haile-selassie]]", "[[axumite-empire]]"]
+requires: []
 lists:
   - "[[countries-once-known-by-different-names]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[gold-coast-ghana]] · [[rhodesia-zimbabwe]] · [[dahomey-benin]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

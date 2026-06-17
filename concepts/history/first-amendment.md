@@ -3,11 +3,20 @@ type: concept
 category: history
 defines: [First Amendment]
 related: ["[[united-states-constitution]]", "[[bill-of-rights]]", "[[schenck-v-united-states]]", "[[tinker-v-des-moines]]", "[[engel-v-vitale]]", "[[freedom-of-speech]]", "[[freedom-of-religion]]", "[[freedom-of-the-press]]", "[[civil-rights-movement]]"]
+requires: ["[[united-states-constitution]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # First Amendment
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -53,6 +62,18 @@ The First Amendment is perhaps the most cited and contested part of the Constitu
 ## see also
 
 - [[bill-of-rights]] · [[united-states-constitution]] · [[14th-amendment]] · [[supreme-court]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

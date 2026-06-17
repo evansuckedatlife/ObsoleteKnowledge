@@ -5,13 +5,11 @@ defines:
   - Charlemagne
   - Charles the Great
   - Charles I
-related:
-  - "[[frankish-empire]]"
-  - "[[holy-roman-empire]]"
-  - "[[papal-authority]]"
-  - "[[carolingian-renaissance]]"
+related: ["[[frankish-empire]]", "[[holy-roman-empire]]", "[[papal-authority]]", "[[carolingian-renaissance]]", "[[christianity]]"]
+requires: []
 lists:
   - "[[kings-of-france]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ read: false
 ## see also
 
 - [[frankish-empire]] · [[louis-ix]] · [[louis-xiv]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

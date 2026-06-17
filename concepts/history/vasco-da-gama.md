@@ -3,11 +3,20 @@ type: person
 category: history
 defines: [Vasco da Gama]
 related: ["[[christopher-columbus]]", "[[age-of-exploration]]", "[[portuguese-empire]]"]
+requires: ["[[age-of-exploration]]"]
 lists: ["[[explorers]]"]
+tour_order: 1
 read: false
 ---
 
 # Vasco da Gama
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ read: false
 ## see also
 
 - [[marco-polo]] · [[christopher-columbus]] · [[magellan]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

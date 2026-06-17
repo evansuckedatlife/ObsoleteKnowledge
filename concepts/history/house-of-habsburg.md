@@ -2,14 +2,11 @@
 type: concept
 category: history
 defines: ["House of Habsburg", "House of Hapsburg", "Habsburg Dynasty"]
-related:
-  - "[[holy-roman-empire]]"
-  - "[[austro-hungarian-empire]]"
-  - "[[charles-v]]"
-  - "[[maria-theresa]]"
-  - "[[franz-ferdinand]]"
+related: ["[[holy-roman-empire]]", "[[austro-hungarian-empire]]", "[[charles-v]]", "[[maria-theresa]]", "[[franz-ferdinand]]"]
+requires: []
 lists:
   - "[[european-royal-families]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +38,18 @@ The **House of Habsburg** was one of Europe's most powerful and longest-reigning
 ## see also
 
 - [[house-of-bourbon]] · [[house-of-hohenzollern]] · [[house-of-romanov]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

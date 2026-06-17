@@ -3,7 +3,9 @@ type: person
 category: history
 defines: ["Nicholas I"]
 related: ["[[alexander-i]]", "[[alexander-ii]]", "[[crimean-war]]", "[[decembrist-revolt]]", "[[official-nationality]]"]
+requires: []
 lists: ["[[russian-tsars]]"]
+tour_order: 0
 read: false
 ---
 
@@ -54,6 +56,18 @@ Nicholas I perfected Russian autocratic reaction in the 19th century, building a
 ## see also
 
 - [[alexander-i]] · [[alexander-ii]] · [[ivan-iv]] · [[catherine-ii]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

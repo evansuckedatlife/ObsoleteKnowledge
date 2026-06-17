@@ -3,7 +3,9 @@ type: place
 category: history
 defines: [Austro-Hungarian Empire, Dual Monarchy]
 related: ["[[francis-joseph-i]]", "[[ottoman-empire]]", "[[world-war-i]]", "[[hussite-wars]]", "[[congress-of-vienna]]", "[[habsburg-dynasty]]", "[[serbia]]", "[[romania]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +43,18 @@ The *Austro-Hungarian Empire*, or *Dual Monarchy*, was a multinational state in 
 ## see also
 
 - [[francis-joseph-i]] · [[habsburg-dynasty]] · [[world-war-i]] · [[ottoman-empire]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

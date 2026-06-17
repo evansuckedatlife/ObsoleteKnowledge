@@ -2,8 +2,10 @@
 type: person
 category: history
 defines: [Roald Amundsen]
-related: ["[[robert-falcon-scott]]", "[[south-pole]]", "[[arctic-exploration]]"]
+related: ["[[robert-falcon-scott]]", "[[south-pole]]", "[[arctic-exploration]]", "[[antarctica]]"]
+requires: []
 lists: ["[[explorers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[robert-falcon-scott]] · [[ernest-shackleton]] · [[james-cook]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

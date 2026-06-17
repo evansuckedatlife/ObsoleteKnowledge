@@ -3,16 +3,22 @@ type: person
 category: history
 defines:
   - Marie Antoinette
-related:
-  - "[[louis-xvi]]"
-  - "[[french-revolution]]"
-  - "[[reign-of-terror]]"
+related: ["[[louis-xvi]]", "[[french-revolution]]", "[[reign-of-terror]]", "[[france]]"]
+requires: ["[[french-revolution]]"]
 lists:
   - "[[people-from-the-french-revolution]]"
+tour_order: 2
 read: false
 ---
 
 # Marie Antoinette
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[louis-xvi]] · [[robespierre]] · [[french-revolution]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

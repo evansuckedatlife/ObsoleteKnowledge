@@ -2,14 +2,11 @@
 type: concept
 category: history
 defines: ["House of Stuart", "Stuart Dynasty", "House of Stewart"]
-related:
-  - "[[james-i]]"
-  - "[[charles-i]]"
-  - "[[english-civil-war]]"
-  - "[[glorious-revolution]]"
-  - "[[scotland]]"
+related: ["[[james-i]]", "[[charles-i]]", "[[english-civil-war]]", "[[glorious-revolution]]", "[[scotland]]", "[[england]]"]
+requires: []
 lists:
   - "[[european-royal-families]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +38,18 @@ The **House of Stuart** ruled Scotland from 1371 and inherited the English and I
 ## see also
 
 - [[house-of-tudor]] · [[house-of-hanover]] · [[house-of-plantagenet]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

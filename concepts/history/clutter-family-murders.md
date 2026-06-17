@@ -4,14 +4,11 @@ category: history
 defines:
   - Clutter family murders
   - Clutter murders
-related:
-  - "[[truman-capote]]"
-  - "[[in-cold-blood]]"
-  - "[[richard-hickock]]"
-  - "[[perry-smith]]"
-  - "[[kansas-crime]]"
+related: ["[[truman-capote]]", "[[in-cold-blood]]", "[[richard-hickock]]", "[[perry-smith]]", "[[kansas-crime]]"]
+requires: []
 lists:
   - "[[american-murders-and-murderers]]"
+tour_order: 0
 read: true
 ---
 
@@ -42,6 +39,18 @@ On November 15, 1959, the *Clutter family*—a wealthy, respected Kansas farming
 ## see also
 
 - [[leopold-and-loeb]] · [[manson-family-murders]] · [[black-dahlia]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

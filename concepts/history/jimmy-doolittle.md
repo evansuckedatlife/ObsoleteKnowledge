@@ -4,16 +4,22 @@ category: history
 defines:
   - Jimmy Doolittle
   - James Harold Doolittle
-related:
-  - "[[chuck-yeager]]"
-  - "[[eddie-rickenbacker]]"
-  - "[[howard-hughes]]"
+related: ["[[chuck-yeager]]", "[[eddie-rickenbacker]]", "[[howard-hughes]]"]
+requires: ["[[world-war-ii]]"]
 lists:
   - "[[aviators]]"
+tour_order: 1
 read: false
 ---
 
 # Jimmy Doolittle
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[chuck-yeager]] · [[eddie-rickenbacker]] · [[howard-hughes]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

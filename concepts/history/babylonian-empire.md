@@ -3,7 +3,9 @@ type: place
 category: history
 defines: [Babylonian Empire, Babylon, Babylonia]
 related: ["[[mesopotamia]]", "[[hammurabi]]", "[[nebuchadnezzar-ii]]", "[[code-of-hammurabi]]", "[[akkadian-empire]]"]
+requires: []
 lists: ["[[ancient-empires]]"]
+tour_order: 0
 read: false
 ---
 
@@ -46,6 +48,18 @@ Babylon represents the maturation of Mesopotamian imperial culture. Where Akkad 
 ## see also
 
 - [[akkadian-empire]] · [[assyrian-empire]] · [[achaemenid-empire]] · [[hittite-empire]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

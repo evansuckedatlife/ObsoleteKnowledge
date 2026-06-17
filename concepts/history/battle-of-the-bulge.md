@@ -2,12 +2,21 @@
 type: event
 category: history
 defines: [Battle of the Bulge, Ardennes Offensive]
-related: ["[[world-war-ii]]", "[[western-europe-campaign]]", "[[nazi-germany]]", "[[dwight-eisenhower]]", "[[belgium]]"]
+related: ["[[world-war-ii]]", "[[western-europe-campaign]]", "[[nazi-germany]]", "[[dwight-eisenhower]]", "[[belgium]]", "[[france]]"]
+requires: ["[[world-war-ii]]"]
 lists: ["[[world-war-ii-battles]]"]
+tour_order: 1
 read: false
 ---
 
 # Battle of the Bulge
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -46,6 +55,18 @@ The Battle of the Bulge was Germany's death-rattle gamble—a last throw of the 
 ## see also
 
 - [[battle-of-normandy]] · [[operation-barbarossa]] · [[battle-of-stalingrad]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

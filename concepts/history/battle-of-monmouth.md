@@ -3,11 +3,20 @@ type: event
 category: history
 defines: [Monmouth, Battle of Monmouth]
 related: ["[[george-washington]]", "[[charles-lee]]", "[[henry-knox]]"]
+requires: ["[[american-revolution]]"]
 lists: ["[[revolutionary-war-battles]]"]
+tour_order: 1
 read: false
 ---
 
 # Monmouth
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ On *June 28, 1778*, the Continental Army and British forces clashed at Monmouth 
 ## see also
 
 - [[battle-of-trenton]] · [[battle-of-princeton]] · [[battle-of-yorktown]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

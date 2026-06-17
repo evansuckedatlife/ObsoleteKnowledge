@@ -3,16 +3,22 @@ type: event
 category: history
 defines:
   - "Baker v. Carr"
-related:
-  - "[[voting-rights]]"
-  - "[[apportionment]]"
-  - "[[federal-courts]]"
+related: ["[[voting-rights]]", "[[apportionment]]", "[[federal-courts]]"]
+requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-2]]"
+tour_order: 1
 read: false
 ---
 
 # Baker v. Carr
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[marbury-v-madison]] · [[reynolds-v-sims]] · [[bush-v-gore]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

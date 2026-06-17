@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Election of 1912, "1912 US presidential election"]
 related: ["[[theodore-roosevelt]]", "[[william-howard-taft]]", "[[woodrow-wilson]]", "[[eugene-debs]]", "[[progressive-movement]]", "[[progressive-party]]"]
+requires: []
 lists: ["[[elections]]"]
+tour_order: 0
 read: false
 ---
 
@@ -46,6 +48,18 @@ The 1912 election was a referendum on the pace of progressivism. Taft, though co
 ## see also
 
 - [[election-of-1876]] · [[election-of-1932]] · [[election-of-1948]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,16 +3,22 @@ type: person
 category: history
 defines:
   - Virginia Hall
-related:
-  - "[[world-war-ii]]"
-  - "[[oss]]"
-  - "[[french-resistance]]"
+related: ["[[world-war-ii]]", "[[oss]]", "[[french-resistance]]"]
+requires: ["[[world-war-ii]]"]
 lists:
   - "[[spies]]"
+tour_order: 1
 read: false
 ---
 
 # Virginia Hall
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -37,6 +43,18 @@ read: false
 ## see also
 
 - [[mata-hari]] · [[belle-boyd]] · [[nathan-hale]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

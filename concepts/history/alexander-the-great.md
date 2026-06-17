@@ -3,7 +3,9 @@ type: person
 category: history
 defines: [Alexander the Great, Alexander III of Macedon]
 related: ["[[philip-ii-of-macedon]]", "[[aristotle]]", "[[darius-iii]]", "[[bucephalus]]", "[[macedonian-empire]]", "[[battle-of-issus]]", "[[battle-of-gaugamela]]", "[[hellenism]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -64,6 +66,18 @@ Alexander stands at the threshold between the ancient world and the medieval. Hi
 ## see also
 
 - [[philip-ii-of-macedon]] · [[aristotle]] · [[darius-iii]] · [[ptolemy-i]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

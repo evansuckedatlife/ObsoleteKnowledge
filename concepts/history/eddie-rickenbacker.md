@@ -4,15 +4,22 @@ category: history
 defines:
   - Eddie Rickenbacker
   - Edward Rickenbacker
-related:
-  - "[[red-baron]]"
-  - "[[jimmy-doolittle]]"
+related: ["[[red-baron]]", "[[jimmy-doolittle]]"]
+requires: ["[[world-war-i]]"]
 lists:
   - "[[aviators]]"
+tour_order: 1
 read: false
 ---
 
 # Eddie Rickenbacker
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +43,18 @@ read: false
 ## see also
 
 - [[red-baron]] · [[jimmy-doolittle]] · [[charles-lindbergh]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

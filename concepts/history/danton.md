@@ -4,17 +4,22 @@ category: history
 defines:
   - Danton
   - Georges Danton
-related:
-  - "[[french-revolution]]"
-  - "[[robespierre]]"
-  - "[[reign-of-terror]]"
-  - "[[saint-just]]"
+related: ["[[french-revolution]]", "[[robespierre]]", "[[reign-of-terror]]", "[[saint-just]]"]
+requires: ["[[french-revolution]]"]
 lists:
   - "[[people-from-the-french-revolution]]"
+tour_order: 2
 read: false
 ---
 
 # Danton
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -41,6 +46,18 @@ read: false
 ## see also
 
 - [[robespierre]] · [[saint-just]] · [[marat]] · [[louis-xvi]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

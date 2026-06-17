@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["Cross of Gold", Bryan's populist speech]
 related: ["[[william-jennings-bryan]]", "[[populism]]", "[[1896-election]]"]
+requires: []
 lists: ["[[modern-speeches]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ William Jennings Bryan's electrifying address at the 1896 Democratic National Co
 ## see also
 
 - [[i-have-a-dream]] · [[gettysburg-address]] · [[four-freedoms]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

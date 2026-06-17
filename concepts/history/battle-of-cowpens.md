@@ -3,11 +3,20 @@ type: event
 category: history
 defines: [Cowpens, Battle of Cowpens]
 related: ["[[daniel-morgan]]", "[[banastre-tarleton]]", "[[american-revolution]]"]
+requires: ["[[american-revolution]]"]
 lists: ["[[revolutionary-war-battles]]"]
+tour_order: 1
 read: false
 ---
 
 # Cowpens
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ On *January 17, 1781*, American general *Daniel Morgan* defeated British cavalry
 ## see also
 
 - [[battle-of-yorktown]] · [[guilford-courthouse]] · [[battle-of-camden]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

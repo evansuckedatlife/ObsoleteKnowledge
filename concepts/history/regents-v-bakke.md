@@ -5,16 +5,22 @@ defines:
   - "Regents of the University of California v. Bakke"
   - Bakke decision
   - affirmative action
-related:
-  - "[[affirmative-action]]"
-  - "[[equal-protection]]"
-  - "[[14th-amendment]]"
+related: ["[[affirmative-action]]", "[[equal-protection]]", "[[14th-amendment]]"]
+requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-concerned-with-african-americans]]"
+tour_order: 1
 read: false
 ---
 
 # Regents v. Bakke
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +46,18 @@ read: false
 ## see also
 
 - [[grutter-v-bollinger]] · [[brown-v-board-of-education]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

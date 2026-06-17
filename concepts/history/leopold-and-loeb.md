@@ -2,13 +2,11 @@
 type: event
 category: history
 defines: [Leopold and Loeb, Leopold-Loeb case]
-related:
-  - "[[nathan-leopold]]"
-  - "[[richard-loeb]]"
-  - "[[clarence-darrow]]"
-  - "[[1920s-chicago]]"
+related: ["[[nathan-leopold]]", "[[richard-loeb]]", "[[clarence-darrow]]", "[[1920s-chicago]]"]
+requires: []
 lists:
   - "[[american-murders-and-murderers]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ In 1924, two wealthy Chicago teenagers, *Nathan Leopold* and *Richard Loeb*, mur
 ## see also
 
 - [[lindbergh-kidnapping]] · [[black-dahlia]] · [[clutter-family-murders]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

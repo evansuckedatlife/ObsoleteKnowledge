@@ -3,7 +3,9 @@ type: text
 category: history
 defines: [United States Constitution]
 related: ["[[separation-of-powers]]", "[[first-amendment]]", "[[14th-amendment]]", "[[bill-of-rights]]", "[[supreme-court]]", "[[checks-and-balances]]", "[[federalism]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -51,6 +53,18 @@ The Constitution is the foundational legal and political document that shaped Am
 ## see also
 
 - [[bill-of-rights]] · [[first-amendment]] · [[14th-amendment]] · [[separation-of-powers]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

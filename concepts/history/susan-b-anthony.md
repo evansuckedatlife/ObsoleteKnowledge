@@ -3,13 +3,11 @@ type: person
 category: history
 defines:
   - Susan B. Anthony
-related:
-  - "[[elizabeth-cady-stanton]]"
-  - "[[suffrage]]"
-  - "[[womens-rights]]"
-  - "[[temperance-movement]]"
+related: ["[[elizabeth-cady-stanton]]", "[[suffrage]]", "[[womens-rights]]", "[[temperance-movement]]"]
+requires: []
 lists:
   - "[[feminists]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[elizabeth-cady-stanton]] · [[sojourner-truth]] · [[emmeline-pankhurst]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

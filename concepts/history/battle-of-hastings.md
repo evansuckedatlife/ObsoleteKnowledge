@@ -4,14 +4,11 @@ category: history
 defines:
   - Battle of Hastings
   - Hastings
-related:
-  - "[[norman-conquest]]"
-  - "[[william-the-conqueror]]"
-  - "[[harold-godwinson]]"
-  - "[[anglo-saxon-england]]"
-  - "[[medieval-feudalism]]"
+related: ["[[norman-conquest]]", "[[william-the-conqueror]]", "[[harold-godwinson]]", "[[anglo-saxon-england]]", "[[medieval-feudalism]]", "[[england]]"]
+requires: []
 lists:
   - "[[medieval-battles]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +38,18 @@ The *Battle of Hastings* was fought on 14 October 1066 in southeastern England, 
 ## see also
 
 - [[battle-of-stamford-bridge]] · [[agincourt]] · [[bosworth-field]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

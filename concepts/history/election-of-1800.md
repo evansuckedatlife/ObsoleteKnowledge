@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Election of 1800, "1800 US presidential election"]
 related: ["[[thomas-jefferson]]", "[[john-adams]]", "[[alexander-hamilton]]", "[[federalist-party]]", "[[democratic-republican-party]]"]
+requires: []
 lists: ["[[elections]]"]
+tour_order: 0
 read: false
 ---
 
@@ -47,6 +49,18 @@ The 1800 election's peaceful outcome proved revolutionary in an era when politic
 ## see also
 
 - [[election-of-1824]] · [[election-of-1860]] · [[election-of-1876]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

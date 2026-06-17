@@ -2,13 +2,11 @@
 type: person
 category: history
 defines: [Clement Attlee]
-related:
-  - "[[labour-party]]"
-  - "[[welfare-state]]"
-  - "[[national-health-service]]"
-  - "[[british-empire]]"
+related: ["[[labour-party]]", "[[welfare-state]]", "[[national-health-service]]", "[[british-empire]]", "[[england]]"]
+requires: []
 lists:
   - "[[british-prime-ministers]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +35,18 @@ read: false
 ## see also
 
 - [[winston-churchill]] · [[tony-blair]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

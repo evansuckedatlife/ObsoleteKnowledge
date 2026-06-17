@@ -5,12 +5,11 @@ defines:
   - Black Death
   - Great Mortality
   - Great Pestilence
-related:
-  - "[[plague-of-justinian]]"
-  - "[[third-plague-pandemic]]"
-  - "[[medieval-europe]]"
+related: ["[[plague-of-justinian]]", "[[third-plague-pandemic]]", "[[medieval-europe]]", "[[england]]", "[[france]]"]
+requires: []
 lists:
   - "[[plagues-and-pandemics]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +40,18 @@ The *Black Death* was a catastrophic pandemic of bubonic plague that swept acros
 ## see also
 
 - [[plague-of-justinian]] · [[third-plague-pandemic]] · [[spanish-flu]] · [[cholera-pandemics]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

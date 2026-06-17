@@ -4,17 +4,22 @@ category: history
 defines:
   - USS Arizona
   - USS Arizona (BB-39)
-related:
-  - "[[pearl-harbor]]"
-  - "[[world-war-ii]]"
-  - "[[battleship]]"
-  - "[[december-7-1941]]"
+related: ["[[pearl-harbor]]", "[[world-war-ii]]", "[[battleship]]", "[[december-7-1941]]"]
+requires: ["[[world-war-ii]]"]
 lists:
   - "[[american-warships]]"
+tour_order: 1
 read: false
 ---
 
 # USS Arizona
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +44,18 @@ read: false
 ## see also
 
 - [[uss-missouri]] · [[uss-enterprise-cv-6]] · [[pearl-harbor]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

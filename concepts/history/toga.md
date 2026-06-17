@@ -3,12 +3,11 @@ type: practice
 category: history
 defines:
   - Toga
-related:
-  - "[[roman-empire]]"
-  - "[[ancient-rome]]"
-  - "[[marcus-aurelius]]"
+related: ["[[roman-empire]]", "[[ancient-rome]]", "[[marcus-aurelius]]", "[[rome]]"]
+requires: []
 lists:
   - "[[historical-fashions]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ The *toga* is a draped woolen garment worn by male Roman citizens as the formal 
 ## see also
 
 - [[roman-empire]] · [[marcus-aurelius]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

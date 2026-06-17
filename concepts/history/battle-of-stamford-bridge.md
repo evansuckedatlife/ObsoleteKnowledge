@@ -4,14 +4,11 @@ category: history
 defines:
   - Battle of Stamford Bridge
   - Stamford Bridge
-related:
-  - "[[harold-godwinson]]"
-  - "[[harold-hardrada]]"
-  - "[[norwegian-vikings]]"
-  - "[[anglo-saxon-england]]"
-  - "[[norman-conquest]]"
+related: ["[[harold-godwinson]]", "[[harold-hardrada]]", "[[norwegian-vikings]]", "[[anglo-saxon-england]]", "[[norman-conquest]]", "[[england]]"]
+requires: []
 lists:
   - "[[medieval-battles]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +38,18 @@ The *Battle of Stamford Bridge* was fought on 25 September 1066 in Yorkshire, En
 ## see also
 
 - [[battle-of-hastings]] · [[battle-of-bannockburn]] · [[battle-of-bosworth-field]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Arab–Israeli Conflict]
 related: ["[[israel]]", "[[palestine]]", "[[zionism]]", "[[world-war-ii]]", "[[united-nations]]", "[[suez-crisis]]", "[[six-day-war]]", "[[yom-kippur-war]]", "[[middle-east]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +42,18 @@ The *Arab–Israeli Conflict* is a prolonged geopolitical and territorial disput
 ## see also
 
 - [[israel]] · [[palestine]] · [[middle-east]] · [[zionism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

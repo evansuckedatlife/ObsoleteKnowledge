@@ -5,12 +5,11 @@ defines:
   - COVID-19 Pandemic
   - Coronavirus Disease 2019
   - SARS-CoV-2 Pandemic
-related:
-  - "[[virology]]"
-  - "[[pandemic-response]]"
-  - "[[public-health-policy]]"
+related: ["[[virology]]", "[[pandemic-response]]", "[[public-health-policy]]"]
+requires: []
 lists:
   - "[[plagues-and-pandemics]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +40,18 @@ The *COVID-19 pandemic* began in late 2019 in Wuhan, China, when a novel coronav
 ## see also
 
 - [[spanish-flu]] · [[hiv-aids-pandemic]] · [[cholera-pandemics]] · [[plague-of-justinian]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

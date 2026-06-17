@@ -5,10 +5,11 @@ defines:
   - Iroquois
   - Haudenosaunee
   - Hodenosaunee
-related:
-  - "[[native-american-peoples]]"
+related: ["[[native-american-peoples]]"]
+requires: []
 lists:
   - "[[native-american-peoples]]"
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +36,18 @@ The *Iroquois* (Haudenosaunee or Hodenosaunee, meaning "People of the Longhouse"
 ## see also
 
 - [[cherokee]] · [[lakota-sioux]] · [[navajo]] · [[seminole]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

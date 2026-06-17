@@ -2,8 +2,10 @@
 type: event
 category: history
 defines: [British Empire]
-related: ["[[victoria]]", "[[elizabeth-i]]", "[[george-iii]]", "[[william-ewart-gladstone]]", "[[benjamin-disraeli]]", "[[industrial-revolution]]", "[[the-napoleonic-wars]]", "[[age-of-exploration]]"]
+related: ["[[victoria]]", "[[elizabeth-i]]", "[[george-iii]]", "[[william-ewart-gladstone]]", "[[benjamin-disraeli]]", "[[industrial-revolution]]", "[[the-napoleonic-wars]]", "[[age-of-exploration]]", "[[england]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -69,6 +71,18 @@ The British Empire was the defining power of the 18th, 19th, and early 20th cent
 ## see also
 
 - [[victoria]] · [[industrial-revolution]] · [[world-war-ii]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

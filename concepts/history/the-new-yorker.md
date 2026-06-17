@@ -2,8 +2,10 @@
 type: work
 category: history
 defines: ["The New Yorker", "New Yorker"]
-related: ["[[harold-ross]]", "[[literary-magazines]]", "[[american-humor-and-satire]]"]
+related: ["[[harold-ross]]", "[[literary-magazines]]", "[[american-humor-and-satire]]", "[[modernism]]"]
+requires: []
 lists: ["[[magazines-from-american-history]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[time-magazine]] · [[the-saturday-evening-post]] · [[harpers-magazine]] · [[the-atlantic]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

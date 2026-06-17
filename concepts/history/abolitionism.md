@@ -3,7 +3,9 @@ type: concept
 category: history
 defines: [Abolitionism, Abolition Movement]
 related: ["[[slavery-in-the-united-states]]", "[[african-american-history]]", "[[william-lloyd-garrison]]", "[[frederick-douglass]]", "[[john-brown]]", "[[american-civil-war]]", "[[13th-amendment]]", "[[emancipation-proclamation]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -50,6 +52,18 @@ Abolitionism was the social and political movement to abolish slavery in the Uni
 ## see also
 
 - [[slavery-in-the-united-states]] · [[frederick-douglass]] · [[american-civil-war]] · [[13th-amendment]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

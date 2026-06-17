@@ -1,10 +1,17 @@
 ---
 type: person
 category: mathematics
-defines: [Alan Turing, Turing]
-related: ["[[turing-machine]]", "[[halting-problem]]", "[[decision-problem]]", "[[kurt-godel]]"]
-lists: ["[[mathematicians]]"]
-read: false
+defines:
+  - Alan Turing
+  - Turing
+related:
+  - "[[turing-machine]]"
+  - "[[halting-problem]]"
+  - "[[decision-problem]]"
+  - "[[kurt-godel]]"
+lists:
+  - "[[mathematicians]]"
+read: true
 ---
 
 # Alan Turing

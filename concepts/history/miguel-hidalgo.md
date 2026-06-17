@@ -3,7 +3,9 @@ type: person
 category: history
 defines: [Miguel Hidalgo]
 related: ["[[mexican-independence]]", "[[agustin-de-iturbide]]", "[[new-spain]]"]
+requires: []
 lists: ["[[mexican-leaders]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[agustin-de-iturbide]] · [[benito-juarez]] · [[antonio-lopez-de-santa-anna]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

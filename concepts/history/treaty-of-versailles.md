@@ -2,12 +2,21 @@
 type: event
 category: history
 defines: [Treaty of Versailles, Versailles Treaty]
-related: ["[[world-war-i]]", "[[woodrow-wilson]]", "[[weimar-republic]]", "[[league-of-nations]]", "[[reparations]]"]
+related: ["[[world-war-i]]", "[[woodrow-wilson]]", "[[weimar-republic]]", "[[league-of-nations]]", "[[reparations]]", "[[germany]]"]
+requires: ["[[world-war-i]]"]
 lists: ["[[treaties]]"]
+tour_order: 1
 read: false
 ---
 
 # Treaty of Versailles
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -51,6 +60,18 @@ The Treaty of Versailles represents the tension between punishment and stability
 ## see also
 
 - [[peace-of-westphalia]] · [[treaty-of-paris-1783]] · [[congress-of-vienna]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

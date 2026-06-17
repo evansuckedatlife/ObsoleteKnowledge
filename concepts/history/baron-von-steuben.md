@@ -3,11 +3,20 @@ type: person
 category: history
 defines: ["Baron von Steuben", "Friedrich von Steuben", "Friedrich Wilhelm von Steuben"]
 related: ["[[george-washington]]", "[[valley-forge]]", "[[continental-army]]", "[[american-revolution]]", "[[prussian-army]]"]
+requires: ["[[american-revolution]]"]
 lists: ["[[revolutionary-war-generals]]"]
+tour_order: 1
 read: false
 ---
 
 # Baron von Steuben
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[george-washington]] · [[henry-knox]] · [[valley-forge]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

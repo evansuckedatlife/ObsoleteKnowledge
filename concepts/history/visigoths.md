@@ -4,13 +4,11 @@ category: history
 defines:
   - Visigoths
   - Visigothic
-related:
-  - "[[alaric]]"
-  - "[[ostrogoths]]"
-  - "[[roman-empire]]"
-  - "[[iberian-peninsula]]"
+related: ["[[alaric]]", "[[ostrogoths]]", "[[roman-empire]]", "[[iberian-peninsula]]", "[[rome]]"]
+requires: []
 lists:
   - "[[peoples-of-the-early-middle-ages]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ The *Visigoths* were a Germanic people who became the dominant power in the Iber
 ## see also
 
 - [[ostrogoths]] · [[vandals]] · [[franks]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: event
 category: history
 defines: ["Lincoln's First Inauguration", "Abraham Lincoln Inauguration 1861"]
 related: ["[[abraham-lincoln]]", "[[american-civil-war]]", "[[secession-crisis]]"]
+requires: ["[[american-civil-war]]"]
 lists: ["[[presidential-inaugurations]]"]
+tour_order: 1
 read: false
 ---
 
 # Lincoln's First Inauguration
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ read: false
 ## see also
 
 - [[jefferson-first-inauguration]] · [[lincoln-second-inauguration]] · [[andrew-johnson-inauguration]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

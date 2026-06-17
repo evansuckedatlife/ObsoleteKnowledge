@@ -4,12 +4,11 @@ category: history
 defines:
   - "Simón Bolívar"
   - "El Libertador"
-related:
-  - "[[jose-de-san-martin]]"
-  - "[[juan-peron]]"
-  - "[[bernardo-ohiggins]]"
+related: ["[[jose-de-san-martin]]", "[[juan-peron]]", "[[bernardo-ohiggins]]"]
+requires: []
 lists:
   - "[[south-american-political-leaders]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[jose-de-san-martin]] · [[bernardo-ohiggins]] · [[juan-peron]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

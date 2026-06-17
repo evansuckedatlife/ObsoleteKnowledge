@@ -2,13 +2,11 @@
 type: event
 category: history
 defines: [Hall-Mills case, Hall-Mills murder]
-related:
-  - "[[edward-hall]]"
-  - "[[eleanor-mills]]"
-  - "[[new-jersey-crime]]"
-  - "[[1920s-scandal]]"
+related: ["[[edward-hall]]", "[[eleanor-mills]]", "[[new-jersey-crime]]", "[[1920s-scandal]]"]
+requires: []
 lists:
   - "[[american-murders-and-murderers]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ In September 1922, the bodies of *Reverend Edward Hall* and his lover *Eleanor M
 ## see also
 
 - [[lizzie-borden]] · [[harry-thaw-stanford-white]] · [[sam-sheppard-case]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["William Henry Harrison's Inauguration", "Harrison Inauguration 1841"]
 related: ["[[william-henry-harrison]]", "[[john-tyler]]", "[[whig-party]]"]
+requires: []
 lists: ["[[presidential-inaugurations]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[washington-first-inauguration]] · [[lincoln-first-inauguration]] · [[mckinley-first-inauguration]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

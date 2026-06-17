@@ -4,13 +4,11 @@ category: history
 defines:
   - Bull Moose Party
   - Progressive Party (1912)
-related:
-  - "[[theodore-roosevelt]]"
-  - "[[william-howard-taft]]"
-  - "[[woodrow-wilson]]"
-  - "[[american-third-parties]]"
+related: ["[[theodore-roosevelt]]", "[[william-howard-taft]]", "[[woodrow-wilson]]", "[[american-third-parties]]"]
+requires: []
 lists:
   - "[[american-third-parties]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ The Bull Moose Party, officially the Progressive Party, was a U.S. political par
 ## see also
 
 - [[populist-party]] · [[progressive-era]] · [[1912-u-s-presidential-election]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

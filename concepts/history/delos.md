@@ -4,14 +4,11 @@ category: history
 defines:
   - Delos
   - Delian
-related:
-  - "[[apollo]]"
-  - "[[artemis]]"
-  - "[[leto]]"
-  - "[[delian-league]]"
-  - "[[athena]]"
+related: ["[[apollo]]", "[[artemis]]", "[[leto]]", "[[delian-league]]", "[[athena]]", "[[ancient-greece]]"]
+requires: []
 lists:
   - "[[ancient-greek-places]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +38,18 @@ read: false
 ## see also
 
 - [[athens]] · [[delphi]] · [[olympia]] · [[knossos]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

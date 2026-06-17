@@ -2,8 +2,10 @@
 type: event
 category: history
 defines: [Tang Dynasty]
-related: ["[[han-dynasty]]", "[[song-dynasty]]", "[[silk-road]]", "[[buddhism-in-china]]", "[[tang-poetry]]", "[[li-bai]]", "[[du-fu]]"]
+related: ["[[han-dynasty]]", "[[song-dynasty]]", "[[silk-road]]", "[[buddhism-in-china]]", "[[tang-poetry]]", "[[li-bai]]", "[[du-fu]]", "[[china]]", "[[buddhism]]", "[[confucianism]]"]
+requires: []
 lists: ["[[chinese-dynasties]]"]
+tour_order: 0
 read: false
 ---
 
@@ -64,6 +66,18 @@ The Tang Dynasty represents a high point of cultural self-assurance and openness
 ## see also
 
 - [[han-dynasty]] · [[song-dynasty]] · [[yuan-dynasty]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

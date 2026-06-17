@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Election of 1824, "1824 US presidential election"]
 related: ["[[john-quincy-adams]]", "[[andrew-jackson]]", "[[henry-clay]]", "[[william-crawford]]", "[[house-of-representatives]]"]
+requires: []
 lists: ["[[elections]]"]
+tour_order: 0
 read: false
 ---
 
@@ -46,6 +48,18 @@ The 1824 election crystallized the democratic demand for direct popular will—J
 ## see also
 
 - [[election-of-1800]] · [[election-of-1860]] · [[election-of-1876]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

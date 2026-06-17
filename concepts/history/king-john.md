@@ -2,8 +2,10 @@
 type: person
 category: history
 defines: [John, King John, John Lackland, Jean sans Terre]
-related: ["[[richard-i]]", "[[henry-ii]]", "[[magna-carta]]", "[[barons-war]]"]
+related: ["[[richard-i]]", "[[henry-ii]]", "[[magna-carta]]", "[[barons-war]]", "[[england]]"]
+requires: []
 lists: ["[[british-monarchs]]"]
+tour_order: 0
 read: false
 ---
 
@@ -29,6 +31,18 @@ John was King of England from 1199 until his death in 1216. His reign was marked
 ## see also
 
 - [[william-i]] · [[henry-ii]] · [[richard-i]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

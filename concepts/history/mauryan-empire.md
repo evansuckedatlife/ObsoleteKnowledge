@@ -3,7 +3,9 @@ type: place
 category: history
 defines: [Mauryan Empire, Maurya, Magadha]
 related: ["[[chandragupta-maurya]]", "[[ashoka]]", "[[buddhism]]", "[[india]]"]
+requires: []
 lists: ["[[ancient-empires]]"]
+tour_order: 0
 read: false
 ---
 
@@ -52,6 +54,18 @@ The Mauryan Empire represents a crucial moment in world history: the moment when
 ## see also
 
 - [[achaemenid-empire]] · [[roman-empire]] · [[macedonian-empire]] · [[carthaginian-empire]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

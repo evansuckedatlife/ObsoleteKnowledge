@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Treaty of Utrecht, Utrecht Treaty]
 related: ["[[war-of-spanish-succession]]", "[[british-empire]]", "[[spain]]", "[[france]]", "[[balance-of-power]]"]
+requires: []
 lists: ["[[treaties]]"]
+tour_order: 0
 read: false
 ---
 
@@ -53,6 +55,18 @@ The Treaty of Utrecht is a cornerstone of modern diplomacy and power politics. U
 ## see also
 
 - [[peace-of-westphalia]] · [[treaty-of-paris-1783]] · [[congress-of-vienna]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

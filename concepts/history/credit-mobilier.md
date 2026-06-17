@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["Crédit Mobilier", "Crédit Mobilier scandal", "Credit Mobilier"]
 related: ["[[ulysses-s-grant]]", "[[thomas-c-durant]]", "[[transcontinental-railroad]]"]
+requires: []
 lists: ["[[presidential-scandals]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The *Crédit Mobilier* scandal involved the construction company *Crédit Mobili
 ## see also
 
 - [[teapot-dome]] · [[whiskey-ring]] · [[watergate]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

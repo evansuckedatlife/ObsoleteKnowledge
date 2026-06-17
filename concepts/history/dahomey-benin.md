@@ -2,13 +2,11 @@
 type: place
 category: history
 defines: ["Dahomey", "Benin"]
-related:
-  - "[[dahomey-kingdom]]"
-  - "[[benin-empire]]"
-  - "[[french-west-africa]]"
-  - "[[transatlantic-slave-trade]]"
+related: ["[[dahomey-kingdom]]", "[[benin-empire]]", "[[french-west-africa]]", "[[transatlantic-slave-trade]]"]
+requires: []
 lists:
   - "[[countries-once-known-by-different-names]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[rhodesia-zimbabwe]] · [[gold-coast-ghana]] · [[abyssinia-ethiopia]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

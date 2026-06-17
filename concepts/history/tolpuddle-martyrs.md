@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["Tolpuddle Martyrs", "Martyrs of Tolpuddle"]
 related: ["[[chartism]]", "[[peterloo]]", "[[trade-unions]]", "[[british-abolitionism]]", "[[factory-acts-movement]]"]
+requires: []
 lists: ["[[british-reform-movements]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The **Tolpuddle Martyrs** were six agricultural laborers from the village of Tol
 ## see also
 
 - [[chartism]] · [[peterloo]] · [[factory-acts-movement]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

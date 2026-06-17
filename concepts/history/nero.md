@@ -2,8 +2,10 @@
 type: person
 category: history
 defines: [Nero, Nero Claudius Caesar Augustus Germanicus]
-related: ["[[claudius]]", "[[agrippina-the-younger]]", "[[great-fire-of-rome]]", "[[boudica]]"]
+related: ["[[claudius]]", "[[agrippina-the-younger]]", "[[great-fire-of-rome]]", "[[boudica]]", "[[rome]]"]
+requires: []
 lists: ["[[roman-emperors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ Nero was the fifth Roman emperor and the last of the Julio-Claudian dynasty, rul
 ## see also
 
 - [[augustus]] · [[tiberius]] · [[caligula]] · [[claudius]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

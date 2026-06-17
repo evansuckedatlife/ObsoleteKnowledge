@@ -3,12 +3,11 @@ type: person
 category: history
 defines:
   - Christopher Columbus
-related:
-  - "[[marco-polo]]"
-  - "[[age-of-exploration]]"
-  - "[[conquistadors]]"
+related: ["[[marco-polo]]", "[[age-of-exploration]]", "[[conquistadors]]", "[[spain]]"]
+requires: []
 lists:
   - "[[explorers]]"
+tour_order: 0
 read: false
 ---
 
@@ -55,6 +54,18 @@ Columbus is a figure around whom myth and historical reality clash sharply. In p
 ## see also
 
 - [[marco-polo]] · [[magellan]] · [[vasco-da-gama]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

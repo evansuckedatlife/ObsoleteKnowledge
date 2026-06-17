@@ -4,12 +4,11 @@ category: history
 defines:
   - Fatimid Caliphate
   - Fatimid Dynasty
-related:
-  - "[[abbasid-caliphate]]"
-  - "[[ayyubid-dynasty]]"
-  - "[[mamluk-sultanate]]"
+related: ["[[abbasid-caliphate]]", "[[ayyubid-dynasty]]", "[[mamluk-sultanate]]", "[[islam]]", "[[egypt]]"]
+requires: []
 lists:
   - "[[medieval-islamic-dynasties]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ The *Fatimid Caliphate* (909–1171 CE) was a Shiite dynasty centered in North A
 ## see also
 
 - [[abbasid-caliphate]] · [[ayyubid-dynasty]] · [[mamluk-sultanate]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: work
 category: history
 defines: ["National Geographic", "National Geographic Magazine"]
 related: ["[[exploration-and-discovery]]", "[[scientific-magazines]]", "[[photojournalism]]"]
+requires: []
 lists: ["[[magazines-from-american-history]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[life-magazine]] · [[time-magazine]] · [[the-saturday-evening-post]] · [[readers-digest]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,12 +4,11 @@ category: history
 defines:
   - Al Gore
   - Albert Arnold Gore Jr.
-related:
-  - "[[bill-clinton]]"
-  - "[[george-w-bush]]"
-  - "[[climate-change]]"
+related: ["[[bill-clinton]]", "[[george-w-bush]]", "[[climate-change]]"]
+requires: []
 lists:
   - "[[vice-presidents-who-never-became-president]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[dan-quayle]] · [[dick-cheney]] · [[walter-mondale]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

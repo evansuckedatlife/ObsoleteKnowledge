@@ -3,11 +3,20 @@ type: event
 category: history
 defines: ["Korematsu v. United States", "1944"]
 related: ["[[japanese-american-internment]]", "[[world-war-two]]", "[[civil-liberties]]", "[[strict-scrutiny]]"]
+requires: ["[[united-states-constitution]]"]
 lists: ["[[supreme-court-cases]]"]
+tour_order: 1
 read: false
 ---
 
 # Korematsu v. United States
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -63,6 +72,18 @@ Korematsu v. United States is the Supreme Court's greatest moral failure in the 
 ## see also
 
 - [[schenck-v-united-states]] · [[miranda-v-arizona]] · [[gideon-v-wainwright]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

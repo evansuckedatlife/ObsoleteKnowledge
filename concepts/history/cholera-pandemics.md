@@ -5,12 +5,11 @@ defines:
   - Cholera Pandemics
   - Cholera Epidemics
   - Seven Cholera Pandemics
-related:
-  - "[[john-snow]]"
-  - "[[epidemiology]]"
-  - "[[public-health-history]]"
+related: ["[[john-snow]]", "[[epidemiology]]", "[[public-health-history]]"]
+requires: []
 lists:
   - "[[plagues-and-pandemics]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +40,18 @@ read: false
 ## see also
 
 - [[spanish-flu]] · [[black-death]] · [[hiv-aids-pandemic]] · [[covid-19-pandemic]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

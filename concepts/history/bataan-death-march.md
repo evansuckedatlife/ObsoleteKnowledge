@@ -4,12 +4,11 @@ category: history
 defines:
   - Bataan Death March
   - Bataan Peninsula Campaign
-related:
-  - "[[douglas-macarthur]]"
-  - "[[philippines]]"
-  - "[[imperial-japanese-army]]"
+related: ["[[douglas-macarthur]]", "[[philippines]]", "[[imperial-japanese-army]]", "[[japan]]"]
+requires: []
 lists:
   - "[[world-war-ii-pacific-campaigns]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ Following the fall of the Bataan Peninsula in the Philippines in April 1942, Jap
 ## see also
 
 - [[battle-of-guadalcanal]] · [[battle-of-leyte-gulf]] · [[attack-on-pearl-harbor]] · [[battle-of-saipan]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

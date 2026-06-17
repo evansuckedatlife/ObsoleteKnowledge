@@ -4,17 +4,22 @@ category: history
 defines:
   - USS Constitution
   - Old Ironsides
-related:
-  - "[[barbary-wars]]"
-  - "[[american-naval-history]]"
-  - "[[wooden-warships]]"
-  - "[[war-of-1812]]"
+related: ["[[barbary-wars]]", "[[american-naval-history]]", "[[wooden-warships]]", "[[war-of-1812]]"]
+requires: ["[[american-revolution]]"]
 lists:
   - "[[american-warships]]"
+tour_order: 1
 read: false
 ---
 
 # USS Constitution
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +44,18 @@ read: false
 ## see also
 
 - [[uss-monitor]] · [[uss-maine]] · [[uss-enterprise-cv-6]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

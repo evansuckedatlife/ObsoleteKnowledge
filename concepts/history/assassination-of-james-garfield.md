@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Assassination of James Garfield, Garfield assassination, President Garfield assassination]
 related: ["[[james-a-garfield]]", "[[charles-j-guiteau]]", "[[chester-arthur]]", "[[american-civil-war]]"]
+requires: []
 lists: ["[[assassinations]]"]
+tour_order: 0
 read: false
 ---
 
@@ -50,6 +52,18 @@ Garfield's assassination was as much a commentary on American political institut
 ## see also
 
 - [[assassination-of-abraham-lincoln]] · [[assassination-of-william-mckinley]] · [[james-a-garfield]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

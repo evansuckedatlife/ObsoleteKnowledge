@@ -4,14 +4,11 @@ category: history
 defines:
   - Battle of Bosworth Field
   - Bosworth Field
-related:
-  - "[[richard-iii]]"
-  - "[[henry-vii]]"
-  - "[[wars-of-the-roses]]"
-  - "[[tudor-dynasty]]"
-  - "[[english-succession]]"
+related: ["[[richard-iii]]", "[[henry-vii]]", "[[wars-of-the-roses]]", "[[tudor-dynasty]]", "[[english-succession]]", "[[england]]"]
+requires: []
 lists:
   - "[[medieval-battles]]"
+tour_order: 0
 read: false
 aliases: [bosworth-field]
 ---
@@ -42,6 +39,18 @@ The *Battle of Bosworth Field* was fought on 22 August 1485 in Leicestershire, E
 ## see also
 
 - [[battle-of-hastings]] · [[battle-of-bannockburn]] · [[battle-of-stamford-bridge]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

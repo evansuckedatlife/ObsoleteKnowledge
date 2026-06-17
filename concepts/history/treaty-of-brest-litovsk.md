@@ -3,11 +3,20 @@ type: event
 category: history
 defines: [Treaty of Brest-Litovsk, Treaty of Brest-Litovsk]
 related: ["[[world-war-i]]", "[[russian-empire]]", "[[soviet-union]]", "[[vladimir-lenin]]", "[[german-empire]]"]
+requires: ["[[world-war-i]]"]
 lists: ["[[treaties]]"]
+tour_order: 1
 read: false
 ---
 
 # Treaty of Brest-Litovsk
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -52,6 +61,18 @@ The Treaty of Brest-Litovsk encapsulates the Bolsheviks' ruthless pragmatism: id
 ## see also
 
 - [[treaty-of-versailles]] · [[treaty-of-paris-1783]] · [[peace-of-westphalia]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

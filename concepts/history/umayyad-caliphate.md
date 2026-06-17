@@ -4,12 +4,11 @@ category: history
 defines:
   - Umayyad Caliphate
   - Umayyad Dynasty
-related:
-  - "[[rashidun-caliphate]]"
-  - "[[abbasid-caliphate]]"
-  - "[[al-andalus]]"
+related: ["[[rashidun-caliphate]]", "[[abbasid-caliphate]]", "[[al-andalus]]", "[[islam]]"]
+requires: []
 lists:
   - "[[medieval-islamic-dynasties]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ The *Umayyad Caliphate* (661–750 CE) was the first hereditary Islamic dynasty,
 ## see also
 
 - [[rashidun-caliphate]] · [[abbasid-caliphate]] · [[almoravid-dynasty]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

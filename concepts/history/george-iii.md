@@ -2,12 +2,21 @@
 type: person
 category: history
 defines: [George III, Farmer George]
-related: ["[[american-revolution]]", "[[george-iv]]", "[[house-of-hanover]]"]
+related: ["[[american-revolution]]", "[[george-iv]]", "[[house-of-hanover]]", "[[england]]"]
+requires: ["[[american-revolution]]"]
 lists: ["[[british-monarchs]]"]
+tour_order: 1
 read: false
 ---
 
 # George III
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -29,6 +38,18 @@ George III was King of Great Britain and Ireland from 1760 until his death in 18
 ## see also
 
 - [[george-iii]] · [[victoria]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

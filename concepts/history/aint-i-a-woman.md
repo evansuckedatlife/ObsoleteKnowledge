@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["Ain't I a Woman?", Sojourner Truth's abolitionist testimony]
 related: ["[[sojourner-truth]]", "[[women-s-suffrage]]", "[[abolitionism]]"]
+requires: []
 lists: ["[[modern-speeches]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ Sojourner Truth's extemporaneous speech delivered at an 1851 women's rights conv
 ## see also
 
 - [[i-have-a-dream]] · [[mandela-i-am-prepared-to-die]] · [[four-freedoms]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

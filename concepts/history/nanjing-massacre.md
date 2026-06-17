@@ -2,12 +2,21 @@
 type: event
 category: history
 defines: ["Nanjing Massacre", "Rape of Nanking", "Massacre of Nanking"]
-related: ["[[second-sino-japanese-war]]", "[[imperial-japan]]", "[[world-war-ii]]", "[[china]]", "[[war-crimes]]"]
+related: ["[[second-sino-japanese-war]]", "[[imperial-japan]]", "[[world-war-ii]]", "[[china]]", "[[war-crimes]]", "[[japan]]"]
+requires: ["[[world-war-ii]]"]
 lists: ["[[massacres]]"]
+tour_order: 1
 read: false
 ---
 
 # Nanjing Massacre
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -56,6 +65,18 @@ The Nanjing Massacre exemplifies the dehumanization that occurs in industrialize
 ## see also
 
 - [[my-lai]] · [[katyn]] · [[jallianwala-bagh]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

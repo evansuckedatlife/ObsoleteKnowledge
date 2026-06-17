@@ -3,15 +3,21 @@ type: person
 category: history
 defines:
   - Benedict Arnold
-related:
-  - "[[american-revolution]]"
-  - "[[george-washington]]"
-  - "[[british-intelligence]]"
+related: ["[[american-revolution]]", "[[george-washington]]", "[[british-intelligence]]"]
+requires: ["[[american-revolution]]"]
 lists: ["[[spies]]", "[[revolutionary-war-generals]]"]
+tour_order: 1
 read: false
 ---
 
 # Benedict Arnold
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +42,18 @@ read: false
 ## see also
 
 - [[nathan-hale]] · [[american-revolution]] · [[george-washington]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

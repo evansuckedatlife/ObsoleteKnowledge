@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Treaty of Nanking, Treaty of Nanjing, First Opium War Treaty]
 related: ["[[opium-war]]", "[[british-empire]]", "[[china]]", "[[colonialism]]", "[[hong-kong]]"]
+requires: []
 lists: ["[[treaties]]"]
+tour_order: 0
 read: false
 ---
 
@@ -53,6 +55,18 @@ The Treaty of Nanking is a watershed in Chinese and world history: it marks the 
 ## see also
 
 - [[treaty-of-versailles]] · [[peace-of-westphalia]] · [[congress-of-vienna]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,17 +4,22 @@ category: history
 defines:
   - Marat
   - Jean-Paul Marat
-related:
-  - "[[french-revolution]]"
-  - "[[robespierre]]"
-  - "[[reign-of-terror]]"
-  - "[[charlotte-corday]]"
+related: ["[[french-revolution]]", "[[robespierre]]", "[[reign-of-terror]]", "[[charlotte-corday]]"]
+requires: ["[[french-revolution]]"]
 lists:
   - "[[people-from-the-french-revolution]]"
+tour_order: 2
 read: false
 ---
 
 # Marat
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -41,6 +46,18 @@ read: false
 ## see also
 
 - [[robespierre]] · [[charlotte-corday]] · [[danton]] · [[saint-just]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

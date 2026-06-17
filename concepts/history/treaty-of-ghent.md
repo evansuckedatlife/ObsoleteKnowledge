@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Treaty of Ghent, War of 1812 Treaty]
 related: ["[[war-of-1812]]", "[[united-states]]", "[[british-empire]]", "[[impressment]]", "[[native-americans]]"]
+requires: []
 lists: ["[[treaties]]"]
+tour_order: 0
 read: false
 ---
 
@@ -52,6 +54,18 @@ The Treaty of Ghent is a masterpiece of pragmatic, unambitious peace-making. Bot
 ## see also
 
 - [[treaty-of-versailles]] · [[peace-of-westphalia]] · [[treaty-of-paris-1783]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

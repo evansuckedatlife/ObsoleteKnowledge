@@ -2,12 +2,21 @@
 type: event
 category: history
 defines: ["Blood, Toil, Tears and Sweat", Churchill's first wartime address]
-related: ["[[winston-churchill]]", "[[world-war-ii]]", "[[neville-chamberlain]]"]
+related: ["[[winston-churchill]]", "[[world-war-ii]]", "[[neville-chamberlain]]", "[[england]]"]
+requires: ["[[world-war-ii]]"]
 lists: ["[[modern-speeches]]"]
+tour_order: 1
 read: false
 ---
 
 # Blood, Toil, Tears and Sweat
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ Winston Churchill's maiden address as Prime Minister to Parliament on *May 13, 1
 ## see also
 
 - [[we-shall-fight-on-the-beaches]] · [[gettysburg-address]] · [[tear-down-this-wall]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

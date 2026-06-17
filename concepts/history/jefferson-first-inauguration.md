@@ -3,11 +3,20 @@ type: event
 category: history
 defines: ["Jefferson's First Inauguration", "Thomas Jefferson Inauguration 1801"]
 related: ["[[thomas-jefferson]]", "[[federalist-party]]", "[[republican-party-early]]"]
+requires: ["[[american-revolution]]"]
 lists: ["[[presidential-inaugurations]]"]
+tour_order: 1
 read: false
 ---
 
 # Jefferson's First Inauguration
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ read: false
 ## see also
 
 - [[washington-first-inauguration]] · [[madison-first-inauguration]] · [[monroe-first-inauguration]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

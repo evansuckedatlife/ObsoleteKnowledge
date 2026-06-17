@@ -3,11 +3,20 @@ type: person
 category: history
 defines: ["Pancho Villa", "Doroteo Arango"]
 related: ["[[mexican-revolution]]", "[[porfirio-diaz]]", "[[emiliano-zapata]]"]
+requires: ["[[mexican-revolution]]"]
 lists: ["[[mexican-leaders]]"]
+tour_order: 1
 read: false
 ---
 
 # Pancho Villa
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[emiliano-zapata]] · [[francisco-madero]] · [[venustiano-carranza]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

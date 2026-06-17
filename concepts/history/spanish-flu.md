@@ -6,12 +6,11 @@ defines:
   - 1918 Flu Pandemic
   - H1N1 Influenza
   - Influenza Pandemic of 1918-1919
-related:
-  - "[[world-war-i]]"
-  - "[[pandemic-virology]]"
-  - "[[public-health-history]]"
+related: ["[[world-war-i]]", "[[pandemic-virology]]", "[[public-health-history]]"]
+requires: []
 lists:
   - "[[plagues-and-pandemics]]"
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +41,18 @@ The *Spanish Flu* was a catastrophic global influenza pandemic caused by the H1N
 ## see also
 
 - [[black-death]] · [[covid-19-pandemic]] · [[hiv-aids-pandemic]] · [[cholera-pandemics]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

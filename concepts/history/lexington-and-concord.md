@@ -3,11 +3,20 @@ type: event
 category: history
 defines: [Lexington and Concord, Battle of Lexington and Concord]
 related: ["[[revolutionary-war-american]]", "[[george-washington]]", "[[paul-revere]]"]
+requires: ["[[american-revolution]]"]
 lists: ["[[revolutionary-war-battles]]"]
+tour_order: 1
 read: false
 ---
 
 # Lexington and Concord
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ On *April 19, 1775*, British regulars marched from Boston to seize colonial muni
 ## see also
 
 - [[bunker-hill]] · [[saratoga]] · [[yorktown]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

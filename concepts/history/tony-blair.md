@@ -2,13 +2,11 @@
 type: person
 category: history
 defines: [Tony Blair]
-related:
-  - "[[labour-party]]"
-  - "[[devolution]]"
-  - "[[iraq-war]]"
-  - "[[northern-ireland-peace-process]]"
+related: ["[[labour-party]]", "[[devolution]]", "[[iraq-war]]", "[[northern-ireland-peace-process]]"]
+requires: []
 lists:
   - "[[british-prime-ministers]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +35,18 @@ read: false
 ## see also
 
 - [[clement-attlee]] · [[margaret-thatcher]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

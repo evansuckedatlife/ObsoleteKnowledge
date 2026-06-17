@@ -3,7 +3,9 @@ type: person
 category: history
 defines: ["Alexander I"]
 related: ["[[catherine-ii]]", "[[napoleon]]", "[[congress-of-vienna]]", "[[patriotic-war-1812]]", "[[holy-alliance]]"]
+requires: []
 lists: ["[[russian-tsars]]"]
+tour_order: 0
 read: false
 ---
 
@@ -55,6 +57,18 @@ Alexander I is the paradox of progressive idealism curdled by power and trauma. 
 ## see also
 
 - [[catherine-ii]] · [[nicholas-i]] · [[alexander-ii]] · [[napoleon]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

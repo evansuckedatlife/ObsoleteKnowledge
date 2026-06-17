@@ -3,7 +3,9 @@ type: work
 category: history
 defines: ["Time", "Time Magazine"]
 related: ["[[henry-luce]]", "[[news-media]]", "[[twentieth-century-journalism]]"]
+requires: []
 lists: ["[[magazines-from-american-history]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[life-magazine]] · [[the-new-yorker]] · [[the-saturday-evening-post]] · [[national-geographic]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

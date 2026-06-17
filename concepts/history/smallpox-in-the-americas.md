@@ -6,12 +6,11 @@ defines:
   - Columbian Exchange Pandemic
   - Aztec Plague
   - Smallpox Epidemic Indigenous Americas
-related:
-  - "[[spanish-conquest-of-mexico]]"
-  - "[[aztec-empire]]"
-  - "[[columbian-exchange]]"
+related: ["[[spanish-conquest-of-mexico]]", "[[aztec-empire]]", "[[columbian-exchange]]"]
+requires: []
 lists:
   - "[[plagues-and-pandemics]]"
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +41,18 @@ read: false
 ## see also
 
 - [[antonine-plague]] · [[black-death]] · [[plague-of-justinian]] · [[spanish-flu]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

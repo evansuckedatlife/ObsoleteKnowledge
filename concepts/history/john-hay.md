@@ -3,14 +3,11 @@ type: person
 category: history
 defines:
   - John Hay
-related:
-  - "[[theodore-roosevelt]]"
-  - "[[open-door-policy]]"
-  - "[[panama-canal]]"
-  - "[[boxer-rebellion]]"
-  - "[[russo-japanese-war]]"
+related: ["[[theodore-roosevelt]]", "[[open-door-policy]]", "[[panama-canal]]", "[[boxer-rebellion]]", "[[russo-japanese-war]]"]
+requires: []
 lists:
   - "[[secretaries-of-state]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +36,18 @@ read: false
 ## see also
 
 - [[william-seward]] · [[cordell-hull]] · [[theodore-roosevelt]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Assassination of Julius Caesar, Caesar assassination]
 related: ["[[julius-caesar]]", "[[marcus-brutus]]", "[[roman-republic]]", "[[pompey]]", "[[octavian]]"]
+requires: []
 lists: ["[[assassinations]]"]
+tour_order: 0
 read: false
 ---
 
@@ -50,6 +52,18 @@ The assassination of Caesar is the archetypal political murder: noble-minded men
 ## see also
 
 - [[assassination-of-archduke-franz-ferdinand]] · [[assassination-of-abraham-lincoln]] · [[julius-caesar]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

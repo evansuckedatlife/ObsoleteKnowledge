@@ -3,7 +3,9 @@ type: person
 category: history
 defines: ["Ivan IV", "Ivan the Terrible"]
 related: ["[[peter-i]]", "[[alexander-i]]", "[[moscow-principality]]", "[[oprichnina]]", "[[russo-kazan-war]]"]
+requires: []
 lists: ["[[russian-tsars]]"]
+tour_order: 0
 read: false
 ---
 
@@ -51,6 +53,18 @@ Ivan IV embodies the paradox of early modern absolutism: ruthless centralizer an
 ## see also
 
 - [[peter-i]] · [[catherine-ii]] · [[nicholas-ii]] · [[alexander-ii]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

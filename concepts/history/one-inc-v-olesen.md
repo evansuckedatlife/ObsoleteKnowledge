@@ -2,16 +2,22 @@
 type: event
 category: history
 defines: ["One Inc. v. Olesen"]
-related:
-  - "[[homophile-movement]]"
-  - "[[first-amendment]]"
-  - "[[postal-censorship]]"
+related: ["[[homophile-movement]]", "[[first-amendment]]", "[[postal-censorship]]"]
+requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-involving-lgbt-rights]]"
+tour_order: 1
 read: false
 ---
 
 # One Inc. v. Olesen
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[homophile-movement]] · [[first-amendment]] · [[lawrence-v-texas]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

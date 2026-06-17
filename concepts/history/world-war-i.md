@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["World War I", "The Great War", "First World War"]
 related: ["[[treaty-of-versailles]]", "[[archduke-franz-ferdinand]]", "[[woodrow-wilson]]", "[[wilhelm-ii]]", "[[trench-warfare]]", "[[the-russian-revolution]]", "[[modernism]]", "[[dada]]", "[[wilfred-owen]]", "[[the-lost-generation]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -55,6 +57,18 @@ World War I stands as the fulcrum of modern history. The war industrialized mass
 ## see also
 
 - [[world-war-ii]] · [[cold-war]] · [[treaty-of-versailles]] · [[the-russian-revolution]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

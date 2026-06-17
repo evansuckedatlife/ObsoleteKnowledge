@@ -2,8 +2,10 @@
 type: person
 category: history
 defines: [Zheng He]
-related: ["[[marco-polo]]", "[[ming-dynasty]]", "[[indian-ocean]]"]
+related: ["[[marco-polo]]", "[[ming-dynasty]]", "[[indian-ocean]]", "[[china]]"]
+requires: []
 lists: ["[[explorers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[marco-polo]] · [[christopher-columbus]] · [[james-cook]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

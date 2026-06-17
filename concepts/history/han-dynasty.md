@@ -2,8 +2,10 @@
 type: event
 category: history
 defines: [Han Dynasty]
-related: ["[[qin-dynasty]]", "[[tang-dynasty]]", "[[silk-road]]", "[[confucianism]]", "[[liu-bang]]", "[[legalism]]"]
+related: ["[[qin-dynasty]]", "[[tang-dynasty]]", "[[silk-road]]", "[[confucianism]]", "[[liu-bang]]", "[[legalism]]", "[[china]]"]
+requires: []
 lists: ["[[chinese-dynasties]]"]
+tour_order: 0
 read: false
 ---
 
@@ -62,6 +64,18 @@ The Han Dynasty defined what it meant to be Chinese for centuries afterward. Whi
 ## see also
 
 - [[qin-dynasty]] · [[tang-dynasty]] · [[song-dynasty]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

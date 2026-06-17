@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Assassination of Tsar Alexander II, Alexander II assassination, Tsar Alexander II of Russia assassination]
 related: ["[[alexander-ii-of-russia]]", "[[russian-empire]]", "[[narodnaya-volya]]", "[[russian-nihilism]]"]
+requires: []
 lists: ["[[assassinations]]"]
+tour_order: 0
 read: false
 ---
 
@@ -50,6 +52,18 @@ The assassination of Alexander II exemplifies the paradox of revolutionary viole
 ## see also
 
 - [[assassination-of-julius-caesar]] · [[assassination-of-archduke-franz-ferdinand]] · [[alexander-ii-of-russia]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

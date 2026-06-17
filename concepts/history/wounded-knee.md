@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["Wounded Knee", "Wounded Knee Massacre"]
 related: ["[[sioux]]", "[[lakota]]", "[[native-american-resistance]]", "[[seventh-cavalry]]", "[[ghost-dance]]", "[[sitting-bull]]"]
+requires: []
 lists: ["[[massacres]]"]
+tour_order: 0
 read: false
 ---
 
@@ -51,6 +53,18 @@ Wounded Knee is recognized by historians as a war crime and massacre, though the
 ## see also
 
 - [[sand-creek]] · [[massacre-of-glencoe]] · [[boston-massacre]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,12 +3,11 @@ type: event
 category: history
 defines:
   - Battle of Saipan
-related:
-  - "[[battle-of-iwo-jima]]"
-  - "[[battle-of-okinawa]]"
-  - "[[mariana-islands]]"
+related: ["[[battle-of-iwo-jima]]", "[[battle-of-okinawa]]", "[[mariana-islands]]"]
+requires: []
 lists:
   - "[[world-war-ii-pacific-campaigns]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ Fought June–July 1944 in the Mariana Islands, the Battle of Saipan saw America
 ## see also
 
 - [[battle-of-iwo-jima]] · [[battle-of-okinawa]] · [[battle-of-leyte-gulf]] · [[battle-of-guadalcanal]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

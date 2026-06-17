@@ -4,17 +4,12 @@ category: history
 defines:
   - Knossos
   - Minoan
-related:
-  - "[[minos]]"
-  - "[[minotaur]]"
-  - "[[daedalus]]"
-  - "[[theseus]]"
-  - "[[minoan-civilization]]"
-  - "[[crete]]"
-  - "[[bronze-age-greece]]"
+related: ["[[minos]]", "[[minotaur]]", "[[daedalus]]", "[[theseus]]", "[[minoan-civilization]]", "[[crete]]", "[[bronze-age-greece]]", "[[ancient-greece]]"]
+requires: []
 lists:
   - "[[ancient-greek-places]]"
   - "[[archaeological-sites]]"
+tour_order: 0
 read: false
 ---
 
@@ -45,6 +40,18 @@ read: false
 ## see also
 
 - [[athens]] · [[sparta]] · [[mycenae]] · [[delos]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

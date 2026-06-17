@@ -3,7 +3,9 @@ type: person
 category: history
 defines: ["Boris Godunov"]
 related: ["[[ivan-iv]]", "[[time-of-troubles]]", "[[false-dmitri]]", "[[russian-empire]]", "[[mikhail-romanov]]"]
+requires: []
 lists: ["[[russian-tsars]]"]
+tour_order: 0
 read: false
 ---
 
@@ -56,6 +58,18 @@ Boris Godunov represents the limits of competence in a crisis-ridden system. He 
 ## see also
 
 - [[ivan-iv]] · [[mikhail-romanov]] · [[peter-i]] · [[time-of-troubles]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

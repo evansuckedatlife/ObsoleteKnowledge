@@ -4,12 +4,11 @@ category: history
 defines:
   - "Juan Perón"
   - "Juan Domingo Perón"
-related:
-  - "[[eva-peron]]"
-  - "[[salvador-allende]]"
-  - "[[hugo-chavez]]"
+related: ["[[eva-peron]]", "[[salvador-allende]]", "[[hugo-chavez]]"]
+requires: []
 lists:
   - "[[south-american-political-leaders]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[eva-peron]] · [[salvador-allende]] · [[hugo-chavez]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

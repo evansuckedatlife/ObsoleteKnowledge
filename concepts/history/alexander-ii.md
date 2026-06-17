@@ -3,7 +3,9 @@ type: person
 category: history
 defines: ["Alexander II"]
 related: ["[[nicholas-i]]", "[[crimean-war]]", "[[emancipation-edict-1861]]", "[[russian-reforms-1860s]]", "[[russo-turkish-war-1877]]"]
+requires: []
 lists: ["[[russian-tsars]]"]
+tour_order: 0
 read: false
 ---
 
@@ -56,6 +58,18 @@ Alexander II is the tragic reformer: a monarch who attempted to reconcile autocr
 ## see also
 
 - [[nicholas-i]] · [[alexander-iii]] · [[nicholas-ii]] · [[ivan-iv]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

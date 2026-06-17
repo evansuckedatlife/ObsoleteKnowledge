@@ -4,11 +4,11 @@ category: history
 defines:
   - Māori
   - Maori
-related:
-  - "[[pacific-indigenous-peoples]]"
-  - "[[new-zealand]]"
+related: ["[[pacific-indigenous-peoples]]", "[[new-zealand]]"]
+requires: []
 lists:
   - "[[indigenous-peoples]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +38,18 @@ The *Māori* are the indigenous Polynesian people of New Zealand, with origins t
 ## see also
 
 - [[aboriginal-australians]] · [[pacific-indigenous-peoples]] · [[polynesian-migration]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

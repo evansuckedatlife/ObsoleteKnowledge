@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["Reagan's Inauguration", "Ronald Reagan Inauguration 1981"]
 related: ["[[ronald-reagan]]", "[[cold-war]]", "[[american-conservatism]]"]
+requires: []
 lists: ["[[presidential-inaugurations]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[jfk-inauguration]] · [[jimmy-carter-presidency]] · [[george-h-w-bush-inauguration]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

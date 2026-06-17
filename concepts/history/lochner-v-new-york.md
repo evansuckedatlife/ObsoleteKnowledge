@@ -3,11 +3,20 @@ type: event
 category: history
 defines: ["Lochner v. New York", "1905"]
 related: ["[[substantive-due-process]]", "[[freedom-of-contract]]", "[[police-power]]", "[[labor-law]]"]
+requires: ["[[united-states-constitution]]"]
 lists: ["[[supreme-court-cases]]"]
+tour_order: 1
 read: false
 ---
 
 # Lochner v. New York
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -63,6 +72,18 @@ Lochner v. New York encapsulates a crucial lesson in constitutional law: the Con
 ## see also
 
 - [[marbury-v-madison]] · [[mcculloch-v-maryland]] · [[gibbons-v-ogden]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

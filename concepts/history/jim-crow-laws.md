@@ -3,7 +3,9 @@ type: concept
 category: history
 defines: [Jim Crow Laws]
 related: ["[[reconstruction-era]]", "[[segregation]]", "[[african-american-history]]", "[[civil-rights-movement]]", "[[14th-amendment]]", "[[brown-v-board-of-education]]", "[[voting-rights-act-of-1965]]", "[[systemic-racism]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -55,6 +57,18 @@ Jim Crow laws were state and local statutes enacted primarily in the American So
 ## see also
 
 - [[reconstruction-era]] · [[segregation]] · [[civil-rights-movement]] · [[brown-v-board-of-education]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

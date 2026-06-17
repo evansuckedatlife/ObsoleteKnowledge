@@ -4,12 +4,11 @@ category: history
 defines:
   - Socialist Party of America
   - Socialist Party USA
-related:
-  - "[[eugene-v-debs]]"
-  - "[[american-labor-movement]]"
-  - "[[american-third-parties]]"
+related: ["[[eugene-v-debs]]", "[[american-labor-movement]]", "[[american-third-parties]]"]
+requires: []
 lists:
   - "[[american-third-parties]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ The Socialist Party of America, founded in 1901 and formally established as the 
 ## see also
 
 - [[libertarian-party]] · [[green-party]] · [[populist-party]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

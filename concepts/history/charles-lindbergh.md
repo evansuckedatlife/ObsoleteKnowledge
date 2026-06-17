@@ -4,12 +4,11 @@ category: history
 defines:
   - Charles Lindbergh
   - Lucky Lindy
-related:
-  - "[[wright-brothers]]"
-  - "[[amelia-earhart]]"
-  - "[[wiley-post]]"
+related: ["[[wright-brothers]]", "[[amelia-earhart]]", "[[wiley-post]]"]
+requires: []
 lists:
   - "[[aviators]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[amelia-earhart]] · [[wright-brothers]] · [[howard-hughes]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

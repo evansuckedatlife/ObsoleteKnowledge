@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["Age of Exploration"]
 related: ["[[christopher-columbus]]", "[[vasco-da-gama]]", "[[ferdinand-magellan]]", "[[prince-henry-the-navigator]]", "[[portuguese-empire]]", "[[spanish-empire]]", "[[columbian-exchange]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -59,6 +61,18 @@ The Age of Exploration marked the beginning of European global dominance and the
 ## see also
 
 - [[christopher-columbus]] · [[vasco-da-gama]] · [[ferdinand-magellan]] · [[prince-henry-the-navigator]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

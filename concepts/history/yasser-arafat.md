@@ -3,7 +3,9 @@ type: person
 category: history
 defines: ["Yasser Arafat", "Muhammad Abdel Rahman Abdel Rauf Arafat al-Qudwa al-Husseini"]
 related: ["[[palestinian-liberation-organization]]", "[[palestine]]", "[[arab-israeli-conflict]]", "[[oslo-accords]]"]
+requires: []
 lists: ["[[20th-century-middle-eastern-leaders]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[david-ben-gurion]] · [[golda-meir]] · [[anwar-sadat]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

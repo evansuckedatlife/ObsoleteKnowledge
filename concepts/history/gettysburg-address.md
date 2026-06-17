@@ -3,11 +3,20 @@ type: event
 category: history
 defines: [Gettysburg Address]
 related: ["[[abraham-lincoln]]", "[[american-civil-war]]", "[[battle-of-gettysburg]]"]
+requires: ["[[american-civil-war]]"]
 lists: ["[[modern-speeches]]"]
+tour_order: 1
 read: false
 ---
 
 # Gettysburg Address
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ Abraham Lincoln's brief remarks delivered at the dedication of the Soldiers' Nat
 ## see also
 
 - [[i-have-a-dream]] · [[we-shall-fight-on-the-beaches]] · [[tear-down-this-wall]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

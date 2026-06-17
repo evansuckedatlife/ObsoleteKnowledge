@@ -5,13 +5,11 @@ defines:
   - Philip II
   - Philip Augustus
   - Philip of France
-related:
-  - "[[crusades]]"
-  - "[[richard-the-lionheart]]"
-  - "[[john-of-england]]"
-  - "[[capetian-dynasty]]"
+related: ["[[crusades]]", "[[richard-the-lionheart]]", "[[john-of-england]]", "[[capetian-dynasty]]", "[[france]]"]
+requires: []
 lists:
   - "[[kings-of-france]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ read: false
 ## see also
 
 - [[louis-ix]] · [[louis-xiv]] · [[charlemagne]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

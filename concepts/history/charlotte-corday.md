@@ -4,16 +4,22 @@ category: history
 defines:
   - Charlotte Corday
   - Marie-Charlotte Corday d'Armont
-related:
-  - "[[marat]]"
-  - "[[french-revolution]]"
-  - "[[reign-of-terror]]"
+related: ["[[marat]]", "[[french-revolution]]", "[[reign-of-terror]]"]
+requires: ["[[french-revolution]]"]
 lists:
   - "[[people-from-the-french-revolution]]"
+tour_order: 2
 read: false
 ---
 
 # Charlotte Corday
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ read: false
 ## see also
 
 - [[marat]] · [[robespierre]] · [[danton]] · [[reign-of-terror]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

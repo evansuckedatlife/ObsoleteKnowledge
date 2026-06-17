@@ -5,11 +5,11 @@ defines:
   - Aboriginal Australians
   - Aboriginal peoples of Australia
   - Indigenous Australians
-related:
-  - "[[australia]]"
-  - "[[dot-painting]]"
+related: ["[[australia]]", "[[dot-painting]]"]
+requires: []
 lists:
   - "[[indigenous-peoples]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +39,18 @@ The *Aboriginal Australians* are the indigenous peoples of Australia, with conti
 ## see also
 
 - [[māori]] · [[ainu]] · [[indigenous-peoples]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

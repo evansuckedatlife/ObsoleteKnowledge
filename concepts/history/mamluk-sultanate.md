@@ -4,12 +4,11 @@ category: history
 defines:
   - Mamluk Sultanate
   - Mamluks
-related:
-  - "[[ayyubid-dynasty]]"
-  - "[[ottoman-empire]]"
-  - "[[fatimid-caliphate]]"
+related: ["[[ayyubid-dynasty]]", "[[ottoman-empire]]", "[[fatimid-caliphate]]", "[[islam]]", "[[egypt]]"]
+requires: []
 lists:
   - "[[medieval-islamic-dynasties]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ The *Mamluk Sultanate* (1250–1517 CE) was a unique military state ruled by *ma
 ## see also
 
 - [[ayyubid-dynasty]] · [[ottoman-empire]] · [[fatimid-caliphate]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

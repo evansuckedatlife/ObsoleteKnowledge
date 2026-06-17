@@ -3,11 +3,20 @@ type: event
 category: history
 defines: ["McCulloch v. Maryland", "1819"]
 related: ["[[federal-power]]", "[[implied-powers]]", "[[federalism]]", "[[second-bank-of-the-united-states]]"]
+requires: ["[[united-states-constitution]]"]
 lists: ["[[supreme-court-cases]]"]
+tour_order: 1
 read: false
 ---
 
 # McCulloch v. Maryland
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -56,6 +65,18 @@ McCulloch v. Madison is the constitutional charter of federal dominance. In one 
 ## see also
 
 - [[marbury-v-madison]] · [[gibbons-v-ogden]] · [[lochner-v-new-york]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,14 +2,11 @@
 type: concept
 category: history
 defines: ["House of Valois", "Valois Dynasty"]
-related:
-  - "[[philip-vi]]"
-  - "[[francis-i]]"
-  - "[[hundred-years-war]]"
-  - "[[joan-of-arc]]"
-  - "[[french-renaissance]]"
+related: ["[[philip-vi]]", "[[francis-i]]", "[[hundred-years-war]]", "[[joan-of-arc]]", "[[french-renaissance]]", "[[france]]"]
+requires: []
 lists:
   - "[[european-royal-families]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +38,18 @@ The **House of Valois** ruled France from 1328 to 1589, presiding over some of m
 ## see also
 
 - [[house-of-bourbon]] · [[house-of-plantagenet]] · [[house-of-tudor]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

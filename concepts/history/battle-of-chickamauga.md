@@ -3,11 +3,20 @@ type: event
 category: history
 defines: [Battle of Chickamauga, Chickamauga]
 related: ["[[american-civil-war]]", "[[braxton-bragg]]", "[[william-rosecrans]]", "[[george-thomas]]", "[[chattanooga]]"]
+requires: ["[[american-civil-war]]"]
 lists: ["[[civil-war-battles]]"]
+tour_order: 1
 read: false
 ---
 
 # Battle of Chickamauga
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -46,6 +55,18 @@ Chickamauga was a pyrrhic Confederate victory. Bragg had briefly restored Confed
 ## see also
 
 - [[battle-of-shiloh]] · [[siege-of-vicksburg]] · [[chattanooga-campaign]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

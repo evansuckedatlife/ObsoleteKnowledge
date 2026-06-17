@@ -2,8 +2,10 @@
 type: person
 category: history
 defines: [Julius Caesar, Gaius Julius Caesar, Caesar]
-related: ["[[pompeius]]", "[[cato-the-younger]]", "[[mark-antony]]", "[[cleopatra]]", "[[augustus]]", "[[cicero]]", "[[assassination-of-julius-caesar]]", "[[gallic-wars]]", "[[roman-empire]]"]
+related: ["[[pompeius]]", "[[cato-the-younger]]", "[[mark-antony]]", "[[cleopatra]]", "[[augustus]]", "[[cicero]]", "[[assassination-of-julius-caesar]]", "[[gallic-wars]]", "[[roman-empire]]", "[[rome]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -61,6 +63,18 @@ Julius Caesar represents the pivot point of Western civilization's foundational 
 ## see also
 
 - [[pompeius]] · [[mark-antony]] · [[augustus]] · [[cicero]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

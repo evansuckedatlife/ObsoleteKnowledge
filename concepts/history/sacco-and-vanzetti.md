@@ -2,13 +2,11 @@
 type: event
 category: history
 defines: [Sacco and Vanzetti, Sacco-Vanzetti case]
-related:
-  - "[[nicola-sacco]]"
-  - "[[bartolomeo-vanzetti]]"
-  - "[[anarchism-in-america]]"
-  - "[[1920s-american-politics]]"
+related: ["[[nicola-sacco]]", "[[bartolomeo-vanzetti]]", "[[anarchism-in-america]]", "[[1920s-american-politics]]"]
+requires: []
 lists:
   - "[[american-murders-and-murderers]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ In May 1920, *Nicola Sacco* and *Bartolomeo Vanzetti*, Italian immigrant anarchi
 ## see also
 
 - [[lizzie-borden]] · [[leopold-and-loeb]] · [[sam-sheppard-case]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

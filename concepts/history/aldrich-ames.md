@@ -3,12 +3,11 @@ type: person
 category: history
 defines:
   - Aldrich Ames
-related:
-  - "[[cold-war]]"
-  - "[[cia]]"
-  - "[[soviet-intelligence]]"
+related: ["[[cold-war]]", "[[cia]]", "[[soviet-intelligence]]"]
+requires: []
 lists:
   - "[[spies]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[robert-hanssen]] · [[kim-philby]] · [[the-cambridge-five]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

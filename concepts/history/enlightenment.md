@@ -2,8 +2,10 @@
 type: concept
 category: history
 defines: [The Enlightenment, Age of Reason]
-related: ["[[voltaire]]", "[[jean-jacques-rousseau]]", "[[isaac-newton]]", "[[john-locke]]", "[[immanuel-kant]]", "[[reason]]", "[[philosophy]]", "[[science]]", "[[american-revolution]]", "[[french-revolution]]"]
+related: ["[[voltaire]]", "[[jean-jacques-rousseau]]", "[[isaac-newton]]", "[[john-locke]]", "[[immanuel-kant]]", "[[reason]]", "[[philosophy]]", "[[science]]", "[[american-revolution]]", "[[french-revolution]]", "[[france]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 aliases: [age-of-enlightenment]
 ---
@@ -71,6 +73,18 @@ The Enlightenment was the ideological birth of the modern world. Its insistence 
 ## see also
 
 - [[voltaire]] · [[jean-jacques-rousseau]] · [[john-locke]] · [[isaac-newton]] · [[immanuel-kant]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,8 +2,10 @@
 type: event
 category: history
 defines: [Battle of Teutoburg Forest]
-related: ["[[arminius]]", "[[roman-empire]]", "[[germanicus-caesar]]"]
+related: ["[[arminius]]", "[[roman-empire]]", "[[germanicus-caesar]]", "[[rome]]"]
+requires: []
 lists: ["[[battles-of-the-ancient-world]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The *Battle of Teutoburg Forest* (9 AD) was a catastrophic Roman defeat where Ge
 ## see also
 
 - [[arminius]] · [[roman-germanic-wars]] · [[tacitus]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

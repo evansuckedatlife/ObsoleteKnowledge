@@ -4,13 +4,11 @@ category: history
 defines:
   - Burgundians
   - Burgundian
-related:
-  - "[[franks]]"
-  - "[[roman-empire]]"
-  - "[[gaul]]"
-  - "[[burgundy]]"
+related: ["[[franks]]", "[[roman-empire]]", "[[gaul]]", "[[burgundy]]"]
+requires: []
 lists:
   - "[[peoples-of-the-early-middle-ages]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ The *Burgundians* were a Germanic people who settled in the Rhône valley and ea
 ## see also
 
 - [[franks]] · [[visigoths]] · [[ostrogoths]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

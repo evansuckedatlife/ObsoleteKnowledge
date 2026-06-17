@@ -6,11 +6,11 @@ defines:
   - Inupiat
   - Yupik
   - Kalaallit
-related:
-  - "[[arctic]]"
-  - "[[kayak]]"
+related: ["[[arctic]]", "[[kayak]]"]
+requires: []
 lists:
   - "[[indigenous-peoples]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +40,18 @@ The *Inuit* are the indigenous circumpolar peoples of the Arctic, inhabiting reg
 ## see also
 
 - [[sami]] · [[yanomami]] · [[indigenous-peoples]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

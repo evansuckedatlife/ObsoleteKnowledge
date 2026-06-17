@@ -3,11 +3,20 @@ type: concept
 category: history
 defines: [Equal Protection, Equal Protection Clause]
 related: ["[[14th-amendment]]", "[[united-states-constitution]]", "[[brown-v-board-of-education]]", "[[loving-v-virginia]]", "[[civil-rights-movement]]", "[[racial-discrimination]]", "[[gender-discrimination]]", "[[constitutional-law]]"]
+requires: ["[[united-states-constitution]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Equal Protection
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -52,6 +61,18 @@ The Equal Protection Clause, part of *Section 1* of the Fourteenth Amendment (18
 ## see also
 
 - [[14th-amendment]] · [[united-states-constitution]] · [[brown-v-board-of-education]] · [[civil-rights-movement]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

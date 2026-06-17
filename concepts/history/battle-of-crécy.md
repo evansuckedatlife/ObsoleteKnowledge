@@ -5,14 +5,11 @@ defines:
   - Battle of Crécy
   - Crécy
   - Battle of Crecy
-related:
-  - "[[hundred-years-war]]"
-  - "[[edward-iii]]"
-  - "[[philip-vi]]"
-  - "[[longbow]]"
-  - "[[medieval-feudalism]]"
+related: ["[[hundred-years-war]]", "[[edward-iii]]", "[[philip-vi]]", "[[longbow]]", "[[medieval-feudalism]]", "[[france]]", "[[england]]"]
+requires: []
 lists:
   - "[[medieval-battles]]"
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +39,18 @@ The *Battle of Crécy* was fought on 26 August 1346 in northern France, where *E
 ## see also
 
 - [[battle-of-hastings]] · [[battle-of-agincourt]] · [[battle-of-bannockburn]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,17 +2,22 @@
 type: person
 category: history
 defines: [David Lloyd George]
-related:
-  - "[[liberal-party]]"
-  - "[[world-war-i]]"
-  - "[[irish-independence]]"
-  - "[[treaty-of-versailles]]"
+related: ["[[liberal-party]]", "[[world-war-i]]", "[[irish-independence]]", "[[treaty-of-versailles]]"]
+requires: ["[[world-war-i]]"]
 lists:
   - "[[british-prime-ministers]]"
+tour_order: 1
 read: false
 ---
 
 # David Lloyd George
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -37,6 +42,18 @@ read: false
 ## see also
 
 - [[winston-churchill]] · [[clement-attlee]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

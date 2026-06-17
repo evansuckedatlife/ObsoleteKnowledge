@@ -4,11 +4,10 @@ category: history
 defines:
   - Gamal Abdel Nasser
   - Nasser
-related:
-  - "[[egypt]]"
-  - "[[suez-crisis]]"
-  - "[[arab-nationalism]]"
+related: ["[[egypt]]", "[[suez-crisis]]", "[[arab-nationalism]]"]
+requires: []
 lists: ["[[20th-century-african-leaders]]", "[[20th-century-middle-eastern-leaders]]"]
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[kwame-nkrumah]] · [[julius-nyerere]] · [[haile-selassie]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

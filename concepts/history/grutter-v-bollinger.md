@@ -4,16 +4,22 @@ category: history
 defines:
   - "Grutter v. Bollinger"
   - Grutter decision
-related:
-  - "[[affirmative-action]]"
-  - "[[regents-v-bakke]]"
-  - "[[diversity]]"
+related: ["[[affirmative-action]]", "[[regents-v-bakke]]", "[[diversity]]"]
+requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-concerned-with-african-americans]]"
+tour_order: 1
 read: false
 ---
 
 # Grutter v. Bollinger
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ read: false
 ## see also
 
 - [[regents-v-bakke]] · [[brown-v-board-of-education]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -5,12 +5,11 @@ defines:
   - Abbasid Caliphate
   - Abbasid Dynasty
   - House of Wisdom
-related:
-  - "[[umayyad-caliphate]]"
-  - "[[fatimid-caliphate]]"
-  - "[[seljuk-empire]]"
+related: ["[[umayyad-caliphate]]", "[[fatimid-caliphate]]", "[[seljuk-empire]]"]
+requires: []
 lists:
   - "[[medieval-islamic-dynasties]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ The *Abbasid Caliphate* (750–1258 CE) was the longest-lived Islamic dynasty, f
 ## see also
 
 - [[umayyad-caliphate]] · [[fatimid-caliphate]] · [[seljuk-empire]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

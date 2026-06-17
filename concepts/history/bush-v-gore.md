@@ -10,6 +10,7 @@ related:
   - "[[equal-protection-clause]]"
 lists:
   - "[[supreme-court-cases-2]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +40,18 @@ read: false
 ## see also
 
 - [[marbury-v-madison]] · [[youngstown-sheet-tube-co-v-sawyer]] · [[baker-v-carr]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,16 +3,22 @@ type: person
 category: history
 defines:
   - Hannibal Hamlin
-related:
-  - "[[abraham-lincoln]]"
-  - "[[andrew-johnson]]"
-  - "[[the-american-civil-war]]"
+related: ["[[abraham-lincoln]]", "[[andrew-johnson]]", "[[the-american-civil-war]]"]
+requires: ["[[american-civil-war]]"]
 lists:
   - "[[vice-presidents-who-never-became-president]]"
+tour_order: 1
 read: false
 ---
 
 # Hannibal Hamlin
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[walter-mondale]] · [[adlai-stevenson-sr]] · [[john-c-calhoun]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

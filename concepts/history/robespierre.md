@@ -4,18 +4,22 @@ category: history
 defines:
   - Robespierre
   - Maximilien Robespierre
-related:
-  - "[[french-revolution]]"
-  - "[[reign-of-terror]]"
-  - "[[danton]]"
-  - "[[saint-just]]"
-  - "[[marat]]"
+related: ["[[french-revolution]]", "[[reign-of-terror]]", "[[danton]]", "[[saint-just]]", "[[marat]]"]
+requires: ["[[french-revolution]]"]
 lists:
   - "[[people-from-the-french-revolution]]"
+tour_order: 2
 read: false
 ---
 
 # Robespierre
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -57,6 +61,18 @@ Robespierre's tragedy is that he believed absolutely in the revolution's moral m
 ## see also
 
 - [[danton]] · [[saint-just]] · [[marat]] · [[louis-xvi]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

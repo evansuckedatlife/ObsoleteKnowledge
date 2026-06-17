@@ -3,11 +3,11 @@ type: practice
 category: history
 defines:
   - Zoot suit
-related:
-  - "[[flapper-dress]]"
-  - "[[great-depression]]"
+related: ["[[flapper-dress]]", "[[great-depression]]"]
+requires: []
 lists:
   - "[[historical-fashions]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +36,18 @@ The *zoot suit* is a flashy men's outfit featuring high-waisted, wide-legged, ta
 ## see also
 
 - [[flapper-dress]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

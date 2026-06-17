@@ -2,12 +2,21 @@
 type: event
 category: history
 defines: [Battle of El Alamein, El Alamein]
-related: ["[[north-africa-campaign]]", "[[world-war-ii]]", "[[british-army]]", "[[axis-powers]]", "[[mediterranean-theater]]"]
+related: ["[[north-africa-campaign]]", "[[world-war-ii]]", "[[british-army]]", "[[axis-powers]]", "[[mediterranean-theater]]", "[[egypt]]"]
+requires: ["[[world-war-ii]]"]
 lists: ["[[world-war-ii-battles]]"]
+tour_order: 1
 read: false
 ---
 
 # Battle of El Alamein
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -46,6 +55,18 @@ El Alamein was the Allies' watershed in North Africa—the moment the initiative
 ## see also
 
 - [[operation-barbarossa]] · [[battle-of-normandy]] · [[battle-of-stalingrad]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

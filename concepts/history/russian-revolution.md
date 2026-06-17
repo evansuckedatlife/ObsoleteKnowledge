@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Russian Revolution, October Revolution]
 related: ["[[vladimir-lenin]]", "[[leon-trotsky]]", "[[nicholas-ii]]", "[[bolsheviks]]", "[[russian-empire]]", "[[world-war-i]]", "[[marxism]]", "[[communism]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 aliases: [october-revolution]
 ---
@@ -55,6 +57,18 @@ The Russian Revolution stands as one of history's pivotal watersheds, creating t
 ## see also
 
 - [[vladimir-lenin]] · [[leon-trotsky]] · [[joseph-stalin]] · [[bolsheviks]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

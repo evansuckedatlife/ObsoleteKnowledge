@@ -3,11 +3,20 @@ type: event
 category: history
 defines: [Siege of Vicksburg, Vicksburg]
 related: ["[[american-civil-war]]", "[[ulysses-grant]]", "[[john-pemberton]]", "[[western-theater]]", "[[mississippi-river]]"]
+requires: ["[[american-civil-war]]"]
 lists: ["[[civil-war-battles]]"]
+tour_order: 1
 read: false
 ---
 
 # Siege of Vicksburg
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -46,6 +55,18 @@ Vicksburg broke the Confederacy's back not just militarily but logistically. The
 ## see also
 
 - [[battle-of-gettysburg]] · [[battle-of-shiloh]] · [[western-theater]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,8 +2,10 @@
 type: concept
 category: history
 defines: ["Chartism", "Chartist movement"]
-related: ["[[great-reform-act-of-1832]]", "[[british-abolitionism]]", "[[peterloo]]", "[[factory-acts-movement]]", "[[tolpuddle-martyrs]]"]
+related: ["[[great-reform-act-of-1832]]", "[[british-abolitionism]]", "[[peterloo]]", "[[factory-acts-movement]]", "[[tolpuddle-martyrs]]", "[[england]]"]
+requires: []
 lists: ["[[british-reform-movements]]"]
+tour_order: 0
 read: false
 ---
 
@@ -54,6 +56,18 @@ Chartism was the first time the industrial working class organized as a politica
 ## see also
 
 - [[great-reform-act-of-1832]] · [[tolpuddle-martyrs]] · [[factory-acts-movement]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

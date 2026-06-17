@@ -3,7 +3,9 @@ type: person
 category: history
 defines: ["Adam Clayton Powell Jr."]
 related: ["[[united-states-house]]", "[[harlem-new-york]]", "[[civil-rights-movement]]", "[[abyssinian-baptist-church]]"]
+requires: []
 lists: ["[[black-american-legislators]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[shirley-chisholm]] · [[charles-rangel]] · [[john-lewis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

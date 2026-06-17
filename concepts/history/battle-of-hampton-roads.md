@@ -3,12 +3,21 @@ type: event
 category: history
 defines: [Battle of Hampton Roads, USS Monitor, CSS Virginia, Ironclads]
 related: ["[[american-civil-war]]", "[[naval-warfare]]", "[[ironclad-ships]]", "[[virginia]]"]
+requires: ["[[american-civil-war]]"]
 lists: ["[[civil-war-battles]]"]
+tour_order: 1
 read: false
 aliases: [hampton-roads]
 ---
 
 # Battle of Hampton Roads
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -47,6 +56,18 @@ Hampton Roads marked the death of the wooden warship that had dominated naval wa
 ## see also
 
 - [[american-civil-war]] · [[union-blockade]] · [[ironclad-ships]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

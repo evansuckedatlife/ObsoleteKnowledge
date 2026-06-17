@@ -3,7 +3,9 @@ type: concept
 category: history
 defines: [Dutch Golden Age, Golden Century]
 related: ["[[netherlands]]", "[[dutch-east-india-company]]", "[[rembrandt]]", "[[vermeer]]", "[[treaty-of-westphalia]]", "[[spain]]", "[[trade]]", "[[art]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +43,18 @@ The *Dutch Golden Age* refers to the seventeenth century, when the Dutch Republi
 ## see also
 
 - [[netherlands]] · [[rembrandt]] · [[vermeer]] · [[amsterdam]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

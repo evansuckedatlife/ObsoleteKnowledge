@@ -3,7 +3,9 @@ type: person
 category: history
 defines: [James Cook, Captain Cook]
 related: ["[[age-of-exploration]]", "[[polynesia]]", "[[british-empire]]"]
+requires: []
 lists: ["[[explorers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[marco-polo]] · [[christopher-columbus]] · [[magellan]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

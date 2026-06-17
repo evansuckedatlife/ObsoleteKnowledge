@@ -5,17 +5,22 @@ defines:
   - USS Missouri
   - USS Missouri (BB-63)
   - Mighty Mo
-related:
-  - "[[world-war-ii]]"
-  - "[[japan-surrender]]"
-  - "[[battleship]]"
-  - "[[iowa-class]]"
+related: ["[[world-war-ii]]", "[[japan-surrender]]", "[[battleship]]", "[[iowa-class]]", "[[japan]]"]
+requires: ["[[world-war-ii]]"]
 lists:
   - "[[american-warships]]"
+tour_order: 1
 read: false
 ---
 
 # USS Missouri
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +45,18 @@ read: false
 ## see also
 
 - [[uss-arizona]] · [[uss-enterprise-cv-6]] · [[uss-nautilus]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

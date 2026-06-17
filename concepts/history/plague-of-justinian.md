@@ -4,12 +4,11 @@ category: history
 defines:
   - Plague of Justinian
   - Justinianic Plague
-related:
-  - "[[black-death]]"
-  - "[[byzantine-empire]]"
-  - "[[justinian-i]]"
+related: ["[[black-death]]", "[[byzantine-empire]]", "[[justinian-i]]"]
+requires: []
 lists:
   - "[[plagues-and-pandemics]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ The *Plague of Justinian* was a major bubonic plague pandemic that ravaged the B
 ## see also
 
 - [[black-death]] · [[third-plague-pandemic]] · [[antonine-plague]] · [[smallpox-in-the-americas]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

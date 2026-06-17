@@ -4,16 +4,21 @@ category: history
 defines:
   - Louis XVI
   - Louis-Auguste
-related:
-  - "[[marie-antoinette]]"
-  - "[[french-revolution]]"
-  - "[[louis-xv]]"
-  - "[[reign-of-terror]]"
+related: ["[[marie-antoinette]]", "[[french-revolution]]", "[[louis-xv]]", "[[reign-of-terror]]", "[[france]]"]
+requires: ["[[french-revolution]]"]
 lists: ["[[kings-of-france]]", "[[people-from-the-french-revolution]]"]
+tour_order: 2
 read: false
 ---
 
 # Louis XVI
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +44,18 @@ read: false
 ## see also
 
 - [[louis-xv]] · [[marie-antoinette]] · [[french-revolution]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

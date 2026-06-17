@@ -3,7 +3,9 @@ type: work
 category: history
 defines: ["The Saturday Evening Post", "Saturday Evening Post"]
 related: ["[[norman-rockwell]]", "[[advertising]]", "[[american-culture]]"]
+requires: []
 lists: ["[[magazines-from-american-history]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[time-magazine]] · [[life-magazine]] · [[the-new-yorker]] · [[readers-digest]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,13 +2,11 @@
 type: place
 category: history
 defines: ["Formosa", "Taiwan"]
-related:
-  - "[[portuguese-exploration]]"
-  - "[[qing-dynasty]]"
-  - "[[japanese-occupation-of-taiwan]]"
-  - "[[republic-of-china]]"
+related: ["[[portuguese-exploration]]", "[[qing-dynasty]]", "[[japanese-occupation-of-taiwan]]", "[[republic-of-china]]", "[[china]]"]
+requires: []
 lists:
   - "[[countries-once-known-by-different-names]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[ceylon-sri-lanka]] · [[siam-thailand]] · [[formosa-taiwan]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,8 +2,10 @@
 type: event
 category: history
 defines: [Assassination of Yitzhak Rabin, Rabin assassination, Israeli Prime Minister Rabin assassination]
-related: ["[[yitzhak-rabin]]", "[[israeli-palestinian-conflict]]", "[[oslo-accords]]", "[[israeli-right-wing-extremism]]"]
+related: ["[[yitzhak-rabin]]", "[[israeli-palestinian-conflict]]", "[[oslo-accords]]", "[[israeli-right-wing-extremism]]", "[[israel]]"]
+requires: []
 lists: ["[[assassinations]]"]
+tour_order: 0
 read: false
 ---
 
@@ -50,6 +52,18 @@ Rabin's assassination stands as a singular moment in Middle Eastern history: a l
 ## see also
 
 - [[assassination-of-gandhi]] · [[assassination-of-anwar-sadat]] · [[yitzhak-rabin]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

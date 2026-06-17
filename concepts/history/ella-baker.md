@@ -4,18 +4,22 @@ category: history
 defines:
   - Ella Baker
   - Ella Josephine Baker
-related:
-  - "[[martin-luther-king-jr]]"
-  - "[[rosa-parks]]"
-  - "[[john-lewis]]"
-  - "[[student-nonviolent-coordinating-committee]]"
-  - "[[naacp]]"
+related: ["[[martin-luther-king-jr]]", "[[rosa-parks]]", "[[john-lewis]]", "[[student-nonviolent-coordinating-committee]]", "[[naacp]]"]
+requires: ["[[civil-rights-movement]]"]
 lists:
   - "[[african-american-civil-rights-leaders]]"
+tour_order: 1
 read: false
 ---
 
 # Ella Baker
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -41,6 +45,18 @@ read: false
 ## see also
 
 - [[martin-luther-king-jr]] · [[rosa-parks]] · [[john-lewis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

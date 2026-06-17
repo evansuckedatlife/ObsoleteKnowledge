@@ -3,13 +3,11 @@ type: person
 category: history
 defines:
   - Margaret Sanger
-related:
-  - "[[birth-control]]"
-  - "[[reproductive-rights]]"
-  - "[[womens-liberation]]"
-  - "[[public-health]]"
+related: ["[[birth-control]]", "[[reproductive-rights]]", "[[womens-liberation]]", "[[public-health]]"]
+requires: []
 lists:
   - "[[feminists]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[betty-friedan]] · [[gloria-steinem]] · [[emmeline-pankhurst]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

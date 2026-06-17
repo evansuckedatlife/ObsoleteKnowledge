@@ -3,12 +3,11 @@ type: event
 category: history
 defines:
   - Battle of Friedland
-related:
-  - "[[napoleon-bonaparte]]"
-  - "[[russian-empire]]"
-  - "[[tilsit-treaty]]"
+related: ["[[napoleon-bonaparte]]", "[[russian-empire]]", "[[tilsit-treaty]]", "[[france]]"]
+requires: []
 lists:
   - "[[napoleonic-battles]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ The Battle of Friedland on June 14, 1807, was Napoleon's decisive victory over t
 ## see also
 
 - [[battle-of-jena-auerstedt]] · [[battle-of-austerlitz]] · [[battle-of-borodino]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

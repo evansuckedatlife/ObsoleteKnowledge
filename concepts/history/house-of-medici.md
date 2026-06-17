@@ -2,14 +2,11 @@
 type: concept
 category: history
 defines: ["House of Medici", "Medici Dynasty", "Medici Family"]
-related:
-  - "[[cosimo-de-medici]]"
-  - "[[lorenzo-de-medici]]"
-  - "[[florence]]"
-  - "[[italian-renaissance]]"
-  - "[[michelangelo]]"
+related: ["[[cosimo-de-medici]]", "[[lorenzo-de-medici]]", "[[florence]]", "[[italian-renaissance]]", "[[michelangelo]]", "[[italy]]"]
+requires: []
 lists:
   - "[[european-royal-families]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +38,18 @@ The **House of Medici** rose from merchant banking to become the de facto rulers
 ## see also
 
 - [[house-of-bourbon]] · [[house-of-valois]] · [[house-of-habsburg]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

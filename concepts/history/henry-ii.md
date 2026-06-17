@@ -2,8 +2,10 @@
 type: person
 category: history
 defines: [Henry II, Henry Curtmantle, Henry of Anjou]
-related: ["[[thomas-becket]]", "[[eleanor-of-aquitaine]]", "[[richard-i]]", "[[king-john]]", "[[house-of-plantagenet]]"]
+related: ["[[thomas-becket]]", "[[eleanor-of-aquitaine]]", "[[richard-i]]", "[[king-john]]", "[[house-of-plantagenet]]", "[[england]]", "[[france]]"]
+requires: []
 lists: ["[[british-monarchs]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Henry II was King of England from 1154 to 1189, initiating the Plantagenet dynas
 ## see also
 
 - [[william-i]] · [[richard-i]] · [[king-john]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

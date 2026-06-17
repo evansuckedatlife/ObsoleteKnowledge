@@ -5,17 +5,22 @@ defines:
   - CSS Virginia
   - Merrimack
   - CSS Merrimack
-related:
-  - "[[uss-monitor]]"
-  - "[[american-civil-war]]"
-  - "[[confederate-navy]]"
-  - "[[hampton-roads]]"
+related: ["[[uss-monitor]]", "[[american-civil-war]]", "[[confederate-navy]]", "[[hampton-roads]]"]
+requires: ["[[american-civil-war]]"]
 lists:
   - "[[american-warships]]"
+tour_order: 1
 read: false
 ---
 
 # CSS Virginia
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +45,18 @@ read: false
 ## see also
 
 - [[uss-monitor]] · [[uss-constitution]] · [[uss-maine]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

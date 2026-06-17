@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["I Am Prepared to Die", Mandela's Rivonia Trial statement]
 related: ["[[nelson-mandela]]", "[[apartheid]]", "[[african-national-congress]]"]
+requires: []
 lists: ["[[modern-speeches]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ Nelson Mandela's statement from the dock at the Rivonia Trial on *April 20, 1964
 ## see also
 
 - [[i-have-a-dream]] · [[aint-i-a-woman]] · [[gettysburg-address]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

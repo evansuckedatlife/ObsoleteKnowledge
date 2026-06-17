@@ -3,7 +3,9 @@ type: event
 category: history
 defines: [Battle of Salamis]
 related: ["[[themistocles]]", "[[xerxes]]", "[[persian-wars]]"]
+requires: []
 lists: ["[[battles-of-the-ancient-world]]"]
+tour_order: 0
 read: false
 aliases: [salamis]
 ---
@@ -35,6 +37,18 @@ The *Battle of Salamis* (480 BC) was a decisive naval engagement where the allie
 ## see also
 
 - [[marathon]] · [[thermopylae]] · [[plataea]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

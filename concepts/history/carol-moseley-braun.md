@@ -3,7 +3,9 @@ type: person
 category: history
 defines: [Carol Moseley Braun]
 related: ["[[united-states-senate]]", "[[illinois]]", "[[united-states-ambassador]]"]
+requires: []
 lists: ["[[black-american-legislators]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[barbara-jordan]] · [[shirley-chisholm]] · [[john-lewis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

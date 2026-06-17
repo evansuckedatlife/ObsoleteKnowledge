@@ -5,16 +5,22 @@ defines:
   - "The Civil Rights Cases (1883)"
   - Civil Rights Cases
   - civil rights cases
-related:
-  - "[[14th-amendment]]"
-  - "[[reconstruction]]"
-  - "[[civil-rights-act-of-1875]]"
+related: ["[[14th-amendment]]", "[[reconstruction]]", "[[civil-rights-act-of-1875]]"]
+requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-concerned-with-african-americans]]"
+tour_order: 1
 read: false
 ---
 
 # The Civil Rights Cases (1883)
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +46,18 @@ read: false
 ## see also
 
 - [[plessy-v-ferguson]] · [[heart-of-atlanta-motel-v-united-states]] · [[brown-v-board-of-education]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: concept
 category: history
 defines: ["Factory Acts movement", "Factory reform movement"]
 related: ["[[chartism]]", "[[industrial-revolution]]", "[[luddites]]", "[[tolpuddle-martyrs]]", "[[british-abolitionism]]"]
+requires: []
 lists: ["[[british-reform-movements]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The **Factory Acts movement** was a sustained nineteenth-century campaign to reg
 ## see also
 
 - [[chartism]] · [[industrial-revolution]] · [[tolpuddle-martyrs]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

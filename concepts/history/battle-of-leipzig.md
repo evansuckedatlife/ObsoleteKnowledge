@@ -4,14 +4,11 @@ category: history
 defines:
   - Battle of Leipzig
   - Battle of the Nations
-related:
-  - "[[napoleon-bonaparte]]"
-  - "[[coalition-wars]]"
-  - "[[prussia]]"
-  - "[[russia]]"
-  - "[[austria]]"
+related: ["[[napoleon-bonaparte]]", "[[coalition-wars]]", "[[prussia]]", "[[russia]]", "[[austria]]", "[[france]]"]
+requires: []
 lists:
   - "[[napoleonic-battles]]"
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +39,18 @@ The Battle of Leipzig, fought October 16–19, 1813, was called the "Battle of t
 ## see also
 
 - [[battle-of-borodino]] · [[battle-of-austerlitz]] · [[battle-of-waterloo]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

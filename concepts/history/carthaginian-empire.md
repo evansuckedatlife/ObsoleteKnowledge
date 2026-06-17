@@ -2,8 +2,10 @@
 type: place
 category: history
 defines: [Carthaginian Empire, Carthage, Punic Empire]
-related: ["[[hannibal]]", "[[roman-empire]]", "[[punic-wars]]", "[[phoenicia]]"]
+related: ["[[hannibal]]", "[[roman-empire]]", "[[punic-wars]]", "[[phoenicia]]", "[[rome]]"]
+requires: []
 lists: ["[[ancient-empires]]"]
+tour_order: 0
 read: false
 ---
 
@@ -52,6 +54,18 @@ Carthage embodies a persistent ancient and modern tension: the confrontation bet
 ## see also
 
 - [[roman-empire]] · [[achaemenid-empire]] · [[macedonian-empire]] · [[mauryan-empire]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: event
 category: history
 defines: [Battle of Normandy, D-Day, Normandy Invasion]
 related: ["[[world-war-ii]]", "[[western-europe-campaign]]", "[[dwight-eisenhower]]", "[[operation-overlord]]", "[[france]]"]
+requires: ["[[world-war-ii]]"]
 lists: ["[[world-war-ii-battles]]"]
+tour_order: 1
 read: false
 ---
 
 # Battle of Normandy
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -46,6 +55,18 @@ Normandy stands as the Allies' defining offensive of World War II—the moment i
 ## see also
 
 - [[battle-of-the-bulge]] · [[operation-barbarossa]] · [[battle-of-stalingrad]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

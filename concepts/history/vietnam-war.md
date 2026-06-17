@@ -3,7 +3,9 @@ type: event
 category: history
 defines: ["Vietnam War", "Indochina War"]
 related: ["[[ho-chi-minh]]", "[[lyndon-b-johnson]]", "[[richard-nixon]]", "[[tet-offensive]]", "[[gulf-of-tonkin]]", "[[operation-rolling-thunder]]", "[[anti-war-movement]]", "[[hippie-culture]]", "[[tom-hayden]]", "[[joan-baez]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -65,6 +67,18 @@ Vietnam stands as a turning point in American history. It revealed the limits of
 ## see also
 
 - [[cold-war]] · [[anti-war-movement]] · [[hippie-culture]] · [[lyndon-b-johnson]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: person
 category: history
 defines: [Theodore Roosevelt]
 related: ["[[progressive-era]]", "[[conservation-movement]]", "[[american-imperialism]]", "[[panama-canal]]", "[[trust-busting]]", "[[bull-moose-party]]", "[[roosevelt-corollary]]", "[[square-deal]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +39,18 @@ Theodore Roosevelt (1858–1919) was the 26th President of the United States and
 ## see also
 
 - [[woodrow-wilson]] · [[william-mckinley]] · [[william-howard-taft]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

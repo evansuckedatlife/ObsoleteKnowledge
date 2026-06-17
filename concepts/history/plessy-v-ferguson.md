@@ -4,16 +4,22 @@ category: history
 defines:
   - "Plessy v. Ferguson"
   - "separate but equal"
-related:
-  - "[[jim-crow-laws]]"
-  - "[[dred-scott-v-sandford]]"
-  - "[[reconstruction]]"
+related: ["[[jim-crow-laws]]", "[[dred-scott-v-sandford]]", "[[reconstruction]]"]
+requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-concerned-with-african-americans]]"
+tour_order: 1
 read: false
 ---
 
 # Plessy v. Ferguson
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ read: false
 ## see also
 
 - [[dred-scott-v-sandford]] · [[brown-v-board-of-education]] · [[shelby-county-v-holder]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

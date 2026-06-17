@@ -3,11 +3,20 @@ type: event
 category: history
 defines: ["Schenck v. United States", "1919"]
 related: ["[[free-speech]]", "[[first-amendment]]", "[[clear-and-present-danger]]", "[[sedition-act-of-1918]]"]
+requires: ["[[united-states-constitution]]"]
 lists: ["[[supreme-court-cases]]"]
+tour_order: 1
 read: false
 ---
 
 # Schenck v. United States
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -59,6 +68,18 @@ Schenck v. United States marks the Court's first articulation that the First Ame
 ## see also
 
 - [[miranda-v-arizona]] · [[mapp-v-ohio]] · [[korematsu-v-united-states]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

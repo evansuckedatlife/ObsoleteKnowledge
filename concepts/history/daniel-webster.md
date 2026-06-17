@@ -3,14 +3,11 @@ type: person
 category: history
 defines:
   - Daniel Webster
-related:
-  - "[[henry-clay]]"
-  - "[[john-c-calhoun]]"
-  - "[[compromise-of-1850]]"
-  - "[[webster-ashburton-treaty]]"
-  - "[[nullification-crisis]]"
+related: ["[[henry-clay]]", "[[john-c-calhoun]]", "[[compromise-of-1850]]", "[[webster-ashburton-treaty]]", "[[nullification-crisis]]"]
+requires: []
 lists:
   - "[[secretaries-of-state]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +36,18 @@ read: false
 ## see also
 
 - [[john-quincy-adams]] · [[william-seward]] · [[henry-clay]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,11 +4,11 @@ category: history
 defines:
   - Spiro Agnew
   - Spiro Theodore Agnew
-related:
-  - "[[richard-nixon]]"
-  - "[[watergate]]"
+related: ["[[richard-nixon]]", "[[watergate]]"]
+requires: []
 lists:
   - "[[vice-presidents-who-never-became-president]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +37,18 @@ read: false
 ## see also
 
 - [[hubert-humphrey]] · [[dan-quayle]] · [[al-gore]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

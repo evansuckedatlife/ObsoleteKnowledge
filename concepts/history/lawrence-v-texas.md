@@ -2,16 +2,22 @@
 type: event
 category: history
 defines: ["Lawrence v. Texas"]
-related:
-  - "[[bowers-v-hardwick]]"
-  - "[[obergefell-v-hodges]]"
-  - "[[criminalization-of-homosexuality]]"
+related: ["[[bowers-v-hardwick]]", "[[obergefell-v-hodges]]", "[[criminalization-of-homosexuality]]"]
+requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-involving-lgbt-rights]]"
+tour_order: 1
 read: false
 ---
 
 # Lawrence v. Texas
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[bowers-v-hardwick]] · [[obergefell-v-hodges]] · [[united-states-v-windsor]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

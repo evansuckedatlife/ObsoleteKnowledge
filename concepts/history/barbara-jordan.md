@@ -3,11 +3,20 @@ type: person
 category: history
 defines: [Barbara Jordan]
 related: ["[[united-states-house]]", "[[texas]]", "[[watergate-scandal]]", "[[civil-rights-movement]]"]
+requires: ["[[civil-rights-movement]]"]
 lists: ["[[black-american-legislators]]"]
+tour_order: 1
 read: false
 ---
 
 # Barbara Jordan
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[shirley-chisholm]] · [[john-lewis]] · [[charles-rangel]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 
