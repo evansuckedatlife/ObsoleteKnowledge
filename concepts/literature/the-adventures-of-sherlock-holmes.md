@@ -5,7 +5,7 @@ defines: ["The Adventures of Sherlock Holmes"]
 related:
   - "[[arthur-conan-doyle]]"
   - "[[sherlock-holmes]]"
-  - "[[watson]]"
+  - "[[dr-watson]]"
 lists:
   - "[[works-of-mystery-and-detective-fiction]]"
 read: false
@@ -31,13 +31,13 @@ Arthur Conan Doyle's 1892 collection of twelve short stories featuring detective
 
 - [[arthur-conan-doyle]] — author; these stories made Holmes a cultural phenomenon.
 - [[sherlock-holmes]] — protagonist; these early stories define his character and methods.
-- [[watson]] — narrator and companion; his perspective shapes our understanding of Holmes.
+- [[dr-watson]] — narrator and companion; his perspective shapes our understanding of Holmes.
 - [[detective-fiction]] — foundational to the genre; established conventions used to this day.
 - [[baker-street]] — the setting; Holmes and Watson's residence becomes iconic to detective fiction.
 
 ## see also
 
-- [[sherlock-holmes]] · [[watson]] · [[the-hound-of-the-baskervilles]]
+- [[sherlock-holmes]] · [[dr-watson]] · [[the-hound-of-the-baskervilles]]
 
 <!-- footer -->
 

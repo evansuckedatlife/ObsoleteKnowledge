@@ -3,7 +3,7 @@ type: term
 category: mathematics
 defines:
   - P
-  - "P (complexity class)"
+  - P (complexity class)
   - Polynomial time
 related:
   - "[[np-complexity-class]]"
@@ -11,7 +11,7 @@ related:
   - "[[decision-problem]]"
   - "[[time-complexity]]"
 lists: []
-read: false
+read: true
 ---
 
 # P (Complexity Class)
