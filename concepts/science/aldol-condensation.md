@@ -3,11 +3,20 @@ type: concept
 category: science
 defines: ["Aldol condensation", "aldol reaction", "aldol condensations", "aldol reactions"]
 related: ["[[aldehyde]]", "[[ketone]]", "[[water]]"]
+requires: ["[[aldehyde]]"]
 lists: ["[[organic-reactions]]"]
+tour_order: 3
 read: false
 ---
 
 # Aldol Condensation
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -30,6 +39,18 @@ The aldol condensation is a classic carbon-carbon bond-forming reaction in which
 ## see also
 
 - [[grignard-reaction]] · [[diels-alder-reaction]] · [[nucleophilic-substitution]] · [[elimination-reaction]] · [[electrophilic-addition]] · [[esterification]] · [[friedel-crafts-reaction]] · [[saponification]] · [[ozonolysis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

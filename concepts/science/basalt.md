@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Basalt, mafic]
 related: ["[[feldspar]]", "[[granite]]", "[[igneous-rock]]", "[[metamorphic-rock]]", "[[plagioclase]]"]
+requires: []
 lists: ["[[rocks-and-minerals]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[granite]] · [[quartz]] · [[feldspar]] · [[limestone]] · [[sandstone]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

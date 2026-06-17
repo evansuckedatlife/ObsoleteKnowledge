@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Pterophytes, "pterophytes", ferns, "fern allies"]
 related: ["[[bryophytes]]", "[[gymnosperms]]", "[[xylem]]", "[[vascular-plants]]"]
+requires: []
 lists: ["[[plant-distinctions]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[bryophytes]] · [[gymnosperms]] · [[angiosperms]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

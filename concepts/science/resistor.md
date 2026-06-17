@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Resistor, "ohm resistor"]
 related: ["[[capacitor]]", "[[inductor]]", "[[ohm-law]]", "[[resistive-heating]]"]
+requires: ["[[capacitor]]", "[[inductor]]"]
 lists: ["[[circuit-components]]"]
+tour_order: 1
 read: false
 ---
 
 # Resistor
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +44,18 @@ A **resistor** is a two-terminal passive component that opposes the flow of elec
 ## see also
 
 - [[capacitor]] · [[inductor]] · [[diode]] · [[led]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

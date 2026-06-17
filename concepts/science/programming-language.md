@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Programming language, language]
 related: ["[[compiler]]", "[[type-system]]", "[[object-oriented-programming]]", "[[functional-programming]]"]
+requires: []
 lists: ["[[programming-terms]]"]
+tour_order: 0
 read: false
 ---
 
@@ -58,6 +60,18 @@ The choice of programming language shapes your solution space. A language with s
 ## see also
 
 - [[compiler]] · [[type-system]] · [[object-oriented-programming]] · [[functional-programming]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

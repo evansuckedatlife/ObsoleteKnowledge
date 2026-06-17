@@ -3,7 +3,9 @@ type: concept
 category: science
 defines: ["Diels-Alder reaction", "Diels-Alder reactions"]
 related: ["[[grignard-reaction]]", "[[ketone]]", "[[organic-reactions]]"]
+requires: []
 lists: ["[[organic-reactions]]"]
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +44,18 @@ The Diels-Alder reaction is the classic example of a concerted cycloaddition, de
 ## see also
 
 - [[grignard-reaction]] · [[nucleophilic-substitution]] · [[elimination-reaction]] · [[electrophilic-addition]] · [[esterification]] · [[friedel-crafts-reaction]] · [[aldol-condensation]] · [[saponification]] · [[ozonolysis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

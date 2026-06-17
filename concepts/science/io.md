@@ -3,7 +3,9 @@ type: place
 category: science
 defines: [Io]
 related: ["[[jupiter]]", "[[galilean-moons]]", "[[volcanic-activity]]", "[[europa]]", "[[ganymede]]", "[[callisto]]"]
+requires: []
 lists: ["[[moons]]"]
+tour_order: 0
 read: false
 ---
 
@@ -49,6 +51,18 @@ Io is a masterclass in the power of tidal forces and a stark contrast to the oth
 ## see also
 
 - [[europa]] · [[ganymede]] · [[callisto]] · [[titan]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

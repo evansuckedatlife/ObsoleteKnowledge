@@ -3,11 +3,20 @@ type: event
 category: science
 defines: ["Apollo program", "Project Apollo", "Apollo missions"]
 related: ["[[nasa]]", "[[space-race]]", "[[cold-war]]", "[[sputnik]]", "[[neil-armstrong]]", "[[saturn-v]]", "[[soviet-space-program]]"]
+requires: ["[[nasa]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Apollo Program
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -49,6 +58,18 @@ Apollo stands as one of the most expensive and ambitious undertakings in human h
 ## see also
 
 - [[nasa]] · [[space-race]] · [[saturn-v]] · [[neil-armstrong]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

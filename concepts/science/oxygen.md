@@ -3,7 +3,9 @@ type: element
 category: science
 defines: ["Oxygen", "O"]
 related: ["[[carbon]]", "[[nitrogen]]", "[[hydrogen]]", "[[mercury]]"]
+requires: []
 lists: ["[[chemical-elements]]"]
+tour_order: 0
 read: false
 ---
 
@@ -48,6 +50,18 @@ Oxygen is the life-giving driver of aerobic respiration and chemical oxidation o
 ## see also
 
 - [[helium]] · [[carbon]] · [[nitrogen]] · [[sodium]] · [[iron]] · [[copper]] · [[gold]] · [[mercury]] · [[uranium]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

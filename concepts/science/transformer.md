@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Transformer]
 related: ["[[inductor]]", "[[magnetic-coupling]]", "[[voltage-transformation]]", "[[step-up-down]]"]
+requires: []
 lists: ["[[circuit-components]]"]
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +37,18 @@ A **transformer** is a passive component consisting of two or more inductively c
 ## see also
 
 - [[inductor]] · [[capacitor]] · [[rectifier]] · [[power-supply]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

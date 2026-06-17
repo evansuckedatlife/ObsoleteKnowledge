@@ -3,7 +3,9 @@ type: practice
 category: science
 defines: ["Electrolysis"]
 related: ["[[sodium]]", "[[copper]]", "[[hydrogen]]"]
+requires: []
 lists: ["[[chemistry-lab-techniques]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Electrolysis is a technique that uses a direct electric current (DC) to drive an
 ## see also
 
 - [[chromatography]] · [[distillation]] · [[titration]] · [[calorimetry]] · [[spectroscopy]] · [[filtration]] · [[centrifugation]] · [[recrystallization]] · [[pipetting]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

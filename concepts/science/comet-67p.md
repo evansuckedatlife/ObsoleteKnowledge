@@ -3,11 +3,20 @@ type: place
 category: science
 defines: [67P, Comet 67P, 67P/Churyumov-Gerasimenko]
 related: ["[[comet]]", "[[kuiper-belt]]", "[[rosetta-mission]]"]
+requires: ["[[comet]]"]
 lists: ["[[dwarf-planets-comets-and-asteroids]]"]
+tour_order: 2
 read: false
 ---
 
 # Comet 67P
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -31,6 +40,18 @@ read: false
 ## see also
 
 - [[halley-comet]] · [[hale-bopp]] · [[comet-shoemaker-levy-9]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

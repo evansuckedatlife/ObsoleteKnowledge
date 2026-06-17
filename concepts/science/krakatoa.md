@@ -3,7 +3,9 @@ type: place
 category: science
 defines: ["Krakatoa", "Krakatau", "Anak Krakatau"]
 related: ["[[vesuvius]]", "[[mount-tambora]]", "[[mount-pinatubo]]"]
+requires: []
 lists: ["[[active-volcanoes]]"]
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +44,18 @@ Krakatoa is the quintessential case study of a major volcanic explosion and its 
 ## see also
 
 - [[vesuvius]] · [[mount-tambora]] · [[mount-pinatubo]] · [[mount-pelee]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

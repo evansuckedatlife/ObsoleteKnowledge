@@ -3,7 +3,9 @@ type: species
 category: science
 defines: ["Nematoda", "roundworms"]
 related: ["[[platyhelminthes]]", "[[annelida]]", "[[arthropoda]]"]
+requires: []
 lists: ["[[phyla]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ A highly diverse phylum of unsegmented, cylindrical invertebrates known as round
 ## see also
 
 - [[platyhelminthes]] · [[annelida]] · [[arthropoda]] · [[chordata]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

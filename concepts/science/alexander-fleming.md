@@ -3,7 +3,9 @@ type: person
 category: science
 defines: [Alexander Fleming]
 related: ["[[penicillin]]", "[[antibiotics]]", "[[bacteriology]]"]
+requires: []
 lists: ["[[nobel-prize-winners-in-medicine]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ Scottish bacteriologist who discovered penicillin in 1928 through the chance obs
 ## see also
 
 - [[paul-ehrlich]] · [[robert-koch]] · [[barbara-mcclintock]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

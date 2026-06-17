@@ -3,7 +3,9 @@ type: element
 category: science
 defines: ["Carbon", "C"]
 related: ["[[helium]]", "[[oxygen]]", "[[nitrogen]]", "[[organic-reactions]]"]
+requires: []
 lists: ["[[chemical-elements]]"]
+tour_order: 0
 read: false
 ---
 
@@ -50,6 +52,18 @@ Carbon is the undisputed cornerstone of organic chemistry and biology, earning i
 ## see also
 
 - [[helium]] · [[nitrogen]] · [[oxygen]] · [[sodium]] · [[iron]] · [[copper]] · [[gold]] · [[mercury]] · [[uranium]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

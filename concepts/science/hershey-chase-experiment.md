@@ -3,7 +3,9 @@ type: event
 category: science
 defines: ["Hershey–Chase experiment"]
 related: ["[[dna]]", "[[genetic-material]]", "[[bacteriophage]]", "[[protein]]", "[[radioactive-isotope]]"]
+requires: []
 lists: ["[[scientific-experiments]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ In 1952, *Alfred Hershey* and *Martha Chase* used radioactive isotopes to label 
 ## see also
 
 - [[meselson-stahl-experiment]] · [[mendel-pea-plant-experiments]] · [[miller-urey-experiment]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

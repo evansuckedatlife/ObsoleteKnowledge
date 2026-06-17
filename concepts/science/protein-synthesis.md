@@ -3,11 +3,20 @@ type: term
 category: science
 defines: ["Protein synthesis", Translation, Transcription]
 related: ["[[rna]]", "[[mrna]]", "[[trna]]", "[[ribosome]]", "[[protein]]", "[[dna]]"]
+requires: ["[[ribosome]]"]
 lists: []
+tour_order: 2
 read: false
 ---
 
 # Protein Synthesis
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -66,6 +75,18 @@ Protein synthesis is the central execution of the genetic program. Every cell mu
 ## see also
 
 - [[dna]] · [[rna]] · [[protein]] · [[ribosome]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

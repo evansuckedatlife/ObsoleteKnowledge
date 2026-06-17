@@ -3,11 +3,20 @@ type: concept
 category: science
 defines: ["Amide", "amides"]
 related: ["[[amine]]", "[[carboxylic-acid]]", "[[nitrogen]]"]
+requires: ["[[nitrogen]]"]
 lists: ["[[functional-groups]]"]
+tour_order: 1
 read: false
 ---
 
 # Amide
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -30,6 +39,18 @@ An amide is an organic functional group characterized by a carbonyl carbon atom 
 ## see also
 
 - [[carboxylic-acid]] · [[alcohol]] · [[ether]] · [[aldehyde]] · [[ketone]] · [[ester]] · [[amine]] · [[organic-halide]] · [[thiol]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

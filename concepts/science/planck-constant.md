@@ -3,11 +3,20 @@ type: constant
 category: science
 defines: ["Planck constant", "Planck's constant", "h"]
 related: ["[[photon]]", "[[photoelectric-effect]]", "[[quantization]]", "[[planck-length]]", "[[max-planck]]"]
+requires: ["[[quantum-mechanics]]", "[[photon]]"]
 lists: []
+tour_order: 3
 read: false
 ---
 
 # Planck Constant
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ read: false
 ## see also
 
 - [[photon]] · [[photoelectric-effect]] · [[quantization]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

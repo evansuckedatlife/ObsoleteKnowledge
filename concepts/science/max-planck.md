@@ -3,11 +3,20 @@ type: person
 category: science
 defines: ["Max Planck", "Max Karl Ernst Ludwig Planck"]
 related: ["[[albert-einstein]]", "[[niels-bohr]]"]
+requires: ["[[quantum-mechanics]]"]
 lists: ["[[20th-century-physicists]]"]
+tour_order: 1
 read: false
 ---
 
 # Max Planck
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -29,6 +38,18 @@ A German theoretical physicist, **Max Planck** is widely regarded as the founder
 ## see also
 
 - [[albert-einstein]] · [[niels-bohr]] · [[louis-de-broglie]] · [[werner-heisenberg]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

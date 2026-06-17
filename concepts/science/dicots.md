@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Dicots, "dicots", "dicotyledonous", Dicotyledoneae, "eudicots"]
 related: ["[[monocots]]", "[[angiosperms]]", "[[seed]]", "[[cotyledon]]"]
+requires: ["[[cell]]"]
 lists: ["[[plant-distinctions]]"]
+tour_order: 1
 read: false
 ---
 
 # Dicots
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[monocots]] · [[angiosperms]] · [[cotyledon]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

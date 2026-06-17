@@ -3,7 +3,9 @@ type: event
 category: science
 defines: ["Mendel's pea-plant experiments", "Gregor Mendel's experiments with pea plants"]
 related: ["[[genetics]]", "[[heredity]]", "[[dominant-and-recessive]]", "[[law-of-segregation]]", "[[law-of-independent-assortment]]"]
+requires: []
 lists: ["[[scientific-experiments]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[hershey-chase-experiment]] · [[meselson-stahl-experiment]] · [[miller-urey-experiment]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

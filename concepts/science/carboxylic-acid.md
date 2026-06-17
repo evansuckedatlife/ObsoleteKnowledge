@@ -3,11 +3,20 @@ type: concept
 category: science
 defines: ["Carboxylic Acid", "carboxylic acids"]
 related: ["[[alcohol]]", "[[ester]]", "[[amide]]", "[[amino-acids]]"]
+requires: ["[[carbon]]", "[[oxygen]]"]
 lists: ["[[functional-groups]]"]
+tour_order: 1
 read: false
 ---
 
 # Carboxylic Acid
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -45,6 +54,18 @@ Carboxylic acids are the primary acidic functional group in organic chemistry, s
 ## see also
 
 - [[alcohol]] · [[ether]] · [[aldehyde]] · [[ketone]] · [[ester]] · [[amine]] · [[amide]] · [[organic-halide]] · [[thiol]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

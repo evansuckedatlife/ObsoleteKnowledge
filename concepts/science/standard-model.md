@@ -3,11 +3,20 @@ type: concept
 category: science
 defines: ["Standard Model", "Standard Model of particle physics"]
 related: ["[[quantum-chromodynamics]]", "[[photon]]", "[[quark]]", "[[lepton]]", "[[boson]]", "[[fermion]]", "[[planck-constant]]", "[[bell-inequality]]"]
+requires: ["[[quantum-mechanics]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Standard Model
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -56,6 +65,18 @@ The Standard Model represents the peak of reductionist physics in the late 20th 
 ## see also
 
 - [[quantum-chromodynamics]] · [[photon]] · [[higgs-boson]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

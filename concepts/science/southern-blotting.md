@@ -3,11 +3,20 @@ type: practice
 category: science
 defines: [Southern blotting]
 related: ["[[dna]]", "[[restriction-enzyme]]", "[[gel-electrophoresis]]", "[[northern-blotting]]", "[[western-blotting]]"]
+requires: ["[[dna]]", "[[restriction-enzyme]]", "[[gel-electrophoresis]]"]
 lists: ["[[techniques-in-biotechnology]]"]
+tour_order: 3
 read: false
 ---
 
 # Southern Blotting
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[gel-electrophoresis]] · [[northern-blotting]] · [[western-blotting]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

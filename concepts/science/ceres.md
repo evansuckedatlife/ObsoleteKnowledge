@@ -3,11 +3,20 @@ type: place
 category: science
 defines: [Ceres]
 related: ["[[asteroid-belt]]", "[[dwarf-planet]]", "[[bright-spots]]", "[[orbit]]"]
+requires: ["[[asteroid-belt]]"]
 lists: ["[[dwarf-planets-comets-and-asteroids]]"]
+tour_order: 1
 read: false
 ---
 
 # Ceres
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[pluto]] · [[vesta]] · [[eris]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

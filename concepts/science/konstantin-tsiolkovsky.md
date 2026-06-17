@@ -3,7 +3,9 @@ type: person
 category: science
 defines: [Konstantin Tsiolkovsky, Konstantin Eduardovich Tsiolkovsky, Konstantin Ciołkowski]
 related: ["[[robert-goddard]]", "[[sergei-korolev]]", "[[sputnik]]"]
+requires: []
 lists: ["[[rocket-scientists]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ Russian schoolteacher and visionary (1857–1935) who developed the mathematical
 ## see also
 
 - [[robert-goddard]] · [[sergei-korolev]] · [[wernher-von-braun]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

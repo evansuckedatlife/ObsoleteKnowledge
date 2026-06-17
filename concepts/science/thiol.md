@@ -3,7 +3,9 @@ type: concept
 category: science
 defines: ["Thiol", "mercaptan", "thiols", "mercaptans"]
 related: ["[[alcohol]]", "[[mercury]]", "[[amino-acids]]"]
+requires: []
 lists: ["[[functional-groups]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ A thiol (historically referred to as a mercaptan) is an organosulfur compound co
 ## see also
 
 - [[carboxylic-acid]] · [[alcohol]] · [[ether]] · [[aldehyde]] · [[ketone]] · [[ester]] · [[amine]] · [[amide]] · [[organic-halide]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

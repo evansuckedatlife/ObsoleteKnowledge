@@ -3,11 +3,20 @@ type: concept
 category: science
 defines: ["Esterification", "Fischer esterification", "esterifications"]
 related: ["[[ester]]", "[[carboxylic-acid]]", "[[alcohol]]"]
+requires: ["[[ester]]"]
 lists: ["[[organic-reactions]]"]
+tour_order: 1
 read: false
 ---
 
 # Esterification
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -30,6 +39,18 @@ Esterification is a chemical reaction that synthesizes an ester by reacting an o
 ## see also
 
 - [[grignard-reaction]] · [[diels-alder-reaction]] · [[nucleophilic-substitution]] · [[elimination-reaction]] · [[electrophilic-addition]] · [[friedel-crafts-reaction]] · [[aldol-condensation]] · [[saponification]] · [[ozonolysis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

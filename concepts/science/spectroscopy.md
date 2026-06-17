@@ -3,7 +3,9 @@ type: practice
 category: science
 defines: ["Spectroscopy"]
 related: ["[[chromatography]]", "[[calorimetry]]"]
+requires: []
 lists: ["[[chemistry-lab-techniques]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Spectroscopy is the study of the interaction between electromagnetic radiation a
 ## see also
 
 - [[chromatography]] · [[distillation]] · [[titration]] · [[calorimetry]] · [[filtration]] · [[centrifugation]] · [[recrystallization]] · [[pipetting]] · [[electrolysis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Nucleus]
 related: ["[[dna]]", "[[protein-synthesis]]", "[[cell]]"]
+requires: ["[[cell]]"]
 lists: ["[[organelles]]"]
+tour_order: 1
 read: false
 ---
 
 # Nucleus
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +49,18 @@ The nucleus arose in early eukaryotes and fundamentally distinguishes them from 
 ## see also
 
 - [[nucleolus]] · [[chromatin]] · [[eukaryote]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

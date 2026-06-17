@@ -2,8 +2,10 @@
 type: person
 category: science
 defines: ["Enrico Fermi"]
-related: ["[[albert-einstein]]", "[[paul-dirac]]", "[[richard-feynman]]"]
+related: ["[[albert-einstein]]", "[[paul-dirac]]", "[[richard-feynman]]", "[[manhattan-project]]"]
+requires: []
 lists: ["[[20th-century-physicists]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ An Italian-American physicist, **Enrico Fermi** is widely known as the "architec
 ## see also
 
 - [[paul-dirac]] · [[richard-feynman]] · [[werner-heisenberg]] · [[albert-einstein]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

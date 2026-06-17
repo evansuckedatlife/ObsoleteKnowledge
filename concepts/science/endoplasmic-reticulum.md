@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Endoplasmic reticulum, ER, rough ER, smooth ER]
 related: ["[[ribosome]]", "[[golgi-apparatus]]", "[[protein-synthesis]]"]
+requires: ["[[eukaryote]]"]
 lists: ["[[organelles]]"]
+tour_order: 2
 read: false
 ---
 
 # Endoplasmic reticulum
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +48,18 @@ The ER is the entry point for the secretory pathway, a sophisticated cellular tr
 ## see also
 
 - [[golgi-apparatus]] · [[ribosome]] · [[lysosome]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

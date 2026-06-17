@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Diamond, allotrope]
 related: ["[[carbon]]", "[[corundum]]", "[[mohs-scale]]", "[[igneous-rock]]", "[[gemstone]]"]
+requires: ["[[carbon]]"]
 lists: ["[[rocks-and-minerals]]"]
+tour_order: 1
 read: false
 ---
 
 # Diamond
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ read: false
 ## see also
 
 - [[corundum]] · [[quartz]] · [[feldspar]] · [[granite]] · [[basalt]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: person
 category: science
 defines: [Wernher von Braun, Wernher Magnus Maximilian Freiherr von Braun]
 related: ["[[v-2-rocket]]", "[[oberth]]", "[[sergei-korolev]]", "[[apollo-program]]", "[[theodore-von-karman]]"]
+requires: ["[[nasa]]", "[[v-2-rocket]]"]
 lists: ["[[rocket-scientists]]"]
+tour_order: 2
 read: false
 ---
 
 # Wernher von Braun
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -52,6 +61,18 @@ Von Braun represents the apex of 20th-century rocketry and the profound ambiguit
 ## see also
 
 - [[v-2-rocket]] · [[apollo-program]] · [[sergei-korolev]] · [[theodore-von-karman]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,18 +3,22 @@ type: term
 category: science
 defines:
   - Quark
-related:
-  - "[[fermion]]"
-  - "[[hadron]]"
-  - "[[baryon]]"
-  - "[[meson]]"
-  - "[[quantum-chromodynamics]]"
+related: ["[[fermion]]", "[[hadron]]", "[[baryon]]", "[[meson]]", "[[quantum-chromodynamics]]"]
+requires: ["[[fermion]]", "[[hadron]]", "[[standard-model]]"]
 lists:
   - "[[classes-of-particles]]"
+tour_order: 3
 read: true
 ---
 
 # Quark
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -47,6 +51,18 @@ Quarks represent the deepest level of matter structure accessible to experiment.
 ## see also
 
 - [[lepton]] · [[boson]] · [[gauge-boson]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

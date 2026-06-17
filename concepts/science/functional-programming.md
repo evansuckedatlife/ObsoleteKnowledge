@@ -2,8 +2,10 @@
 type: term
 category: science
 defines: [Functional programming, FP, functional]
-related: ["[[programming-language]]", "[[object-oriented-programming]]", "[[lambda-calculus]]"]
+related: ["[[programming-language]]", "[[object-oriented-programming]]", "[[lambda-calculus]]", "[[logic]]"]
+requires: []
 lists: ["[[programming-terms]]"]
+tour_order: 0
 read: false
 ---
 
@@ -59,6 +61,18 @@ Functional programming is not new—Lisp predates most imperative languages—bu
 ## see also
 
 - [[object-oriented-programming]] · [[programming-language]] · [[lambda-calculus]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

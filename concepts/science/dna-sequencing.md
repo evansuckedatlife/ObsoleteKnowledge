@@ -3,11 +3,20 @@ type: practice
 category: science
 defines: [DNA sequencing, "gene sequencing"]
 related: ["[[dna]]", "[[pcr]]", "[[gel-electrophoresis]]", "[[sanger-sequencing]]", "[[next-generation-sequencing]]"]
+requires: ["[[dna]]"]
 lists: ["[[techniques-in-biotechnology]]"]
+tour_order: 1
 read: false
 ---
 
 # DNA Sequencing
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[pcr]] · [[gel-electrophoresis]] · [[dna]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

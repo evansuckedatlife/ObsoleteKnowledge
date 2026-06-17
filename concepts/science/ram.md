@@ -3,7 +3,9 @@ type: term
 category: science
 defines: ["RAM", "Random-Access Memory", "random-access-memory"]
 related: ["[[computer-memory]]", "[[cpu]]", "[[cache-memory]]", "[[virtual-memory]]", "[[volatile-memory]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +37,18 @@ read: false
 ## see also
 
 - [[cache-memory]] · [[cpu]] · [[volatile-memory]] · [[virtual-memory]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

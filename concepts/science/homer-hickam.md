@@ -3,7 +3,9 @@ type: person
 category: science
 defines: [Homer Hickam, Homer Hadley Hickam Jr.]
 related: ["[[rocket-scientists]]"]
+requires: []
 lists: ["[[rocket-scientists]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ American author, engineer, and former NASA employee (1949–present) who is best
 ## see also
 
 - [[wernher-von-braun]] · [[sputnik]] · [[apollo-program]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: species
 category: science
 defines: ["Arthropoda", "arthropods"]
 related: ["[[mollusca]]", "[[chordata]]", "[[nematoda]]"]
+requires: []
 lists: ["[[phyla]]"]
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +43,18 @@ Arthropods are the undisputed champions of animal diversity and colonization of 
 ## see also
 
 - [[mollusca]] · [[nematoda]] · [[echinodermata]] · [[chordata]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

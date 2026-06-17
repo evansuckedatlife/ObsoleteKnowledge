@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Antibody, immunoglobulin, antibodies]
 related: ["[[antigen]]", "[[b-cell]]", "[[immune-system]]", "[[protein]]"]
+requires: ["[[protein]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Antibody
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ An *antibody* (also *immunoglobulin* or *Ig*) is a Y-shaped protein produced by 
 ## see also
 
 - [[antigen]] · [[b-cell]] · [[immune-system]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

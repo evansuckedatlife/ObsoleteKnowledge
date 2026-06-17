@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [DNA, "deoxyribonucleic acid"]
 related: ["[[rna]]", "[[dna-replication]]", "[[protein-synthesis]]", "[[gene]]", "[[chromosome]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -56,6 +58,18 @@ DNA is the molecule at the heart of molecular biology. Its discovery and structu
 ## see also
 
 - [[rna]] · [[gene]] · [[chromosome]] · [[mutation]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: concept
 category: science
 defines: ["Ester", "esters"]
 related: ["[[carboxylic-acid]]", "[[alcohol]]", "[[organic-reactions]]"]
+requires: []
 lists: ["[[functional-groups]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ An ester is a class of organic compounds derived from an acid (usually a carboxy
 ## see also
 
 - [[carboxylic-acid]] · [[alcohol]] · [[ether]] · [[aldehyde]] · [[ketone]] · [[amine]] · [[amide]] · [[organic-halide]] · [[thiol]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

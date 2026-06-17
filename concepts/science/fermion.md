@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Fermion]
 related: ["[[boson]]", "[[lepton]]", "[[quark]]", "[[standard-model]]"]
+requires: ["[[standard-model]]"]
 lists: ["[[classes-of-particles]]"]
+tour_order: 2
 read: false
 ---
 
 # Fermion
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +49,18 @@ The division between fermions and bosons is among the deepest symmetries in phys
 ## see also
 
 - [[boson]] · [[hadron]] · [[gauge-boson]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

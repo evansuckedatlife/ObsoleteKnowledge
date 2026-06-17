@@ -3,11 +3,20 @@ type: concept
 category: science
 defines: ["Bell inequality", "Bell test", "Bell's theorem"]
 related: ["[[quantum-entanglement]]", "[[quantum-mechanics]]", "[[local-realism]]", "[[john-bell]]"]
+requires: ["[[quantum-mechanics]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Bell Inequality
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[quantum-entanglement]] · [[quantum-mechanics]] · [[local-realism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: practice
 category: science
 defines: ["Titration", "volumetric analysis"]
 related: ["[[chromatography]]", "[[distillation]]"]
+requires: []
 lists: ["[[chemistry-lab-techniques]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Titration is a quantitative chemical analysis method used to determine the unkno
 ## see also
 
 - [[chromatography]] · [[distillation]] · [[calorimetry]] · [[spectroscopy]] · [[filtration]] · [[centrifugation]] · [[recrystallization]] · [[pipetting]] · [[electrolysis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

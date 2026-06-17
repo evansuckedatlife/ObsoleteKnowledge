@@ -3,7 +3,9 @@ type: element
 category: science
 defines: ["Sodium", "Na"]
 related: ["[[potassium]]", "[[chlorine]]", "[[mercury]]"]
+requires: []
 lists: ["[[chemical-elements]]"]
+tour_order: 0
 read: false
 ---
 
@@ -49,6 +51,18 @@ Sodium connects chemistry, geology, biology, and human health. As a free element
 ## see also
 
 - [[helium]] · [[carbon]] · [[nitrogen]] · [[oxygen]] · [[iron]] · [[copper]] · [[gold]] · [[mercury]] · [[uranium]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

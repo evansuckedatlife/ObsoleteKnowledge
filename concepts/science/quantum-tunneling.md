@@ -3,11 +3,20 @@ type: concept
 category: science
 defines: [Quantum tunneling, tunneling]
 related: ["[[wavefunction]]", "[[uncertainty-principle]]", "[[barrier-penetration]]"]
+requires: ["[[wavefunction]]", "[[uncertainty-principle]]", "[[schrodinger-equation]]"]
 lists: ["[[quantum-mechanics-concepts]]"]
+tour_order: 3
 read: false
 ---
 
 # Quantum tunneling
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +49,18 @@ Tunneling results directly from the [[wavefunction]] description: the Schröding
 ## see also
 
 - [[wavefunction]] · [[uncertainty-principle]] · [[schrodinger-equation]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

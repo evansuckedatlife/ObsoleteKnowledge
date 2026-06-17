@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Xylem, xylem, "water transport", "mineral transport"]
 related: ["[[phloem]]", "[[vascular-plants]]", "[[pterophytes]]", "[[gymnosperms]]"]
+requires: ["[[vascular-plants]]"]
 lists: ["[[plant-distinctions]]"]
+tour_order: 1
 read: false
 ---
 
 # Xylem
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[phloem]] · [[vascular-plants]] · [[pterophytes]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

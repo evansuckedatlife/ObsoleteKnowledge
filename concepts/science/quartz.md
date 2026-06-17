@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Quartz, SiO₂]
 related: ["[[feldspar]]", "[[granite]]", "[[sandstone]]", "[[mohs-scale]]", "[[silicate]]"]
+requires: []
 lists: ["[[rocks-and-minerals]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[feldspar]] · [[granite]] · [[sandstone]] · [[diamond]] · [[corundum]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

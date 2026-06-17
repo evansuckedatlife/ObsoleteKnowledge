@@ -3,11 +3,20 @@ type: concept
 category: science
 defines: [Superposition]
 related: ["[[wavefunction]]", "[[measurement]]", "[[quantum-spin]]"]
+requires: ["[[quantum-mechanics]]", "[[wave-particle-duality]]"]
 lists: ["[[quantum-mechanics-concepts]]"]
+tour_order: 2
 read: false
 ---
 
 # Superposition
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +48,18 @@ Superposition is counterintuitive because classical objects seem to occupy one s
 ## see also
 
 - [[wavefunction]] · [[quantum-entanglement]] · [[double-slit-experiment]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

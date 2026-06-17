@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Centriole, centrosome]
 related: ["[[cilia]]", "[[cell-division]]", "[[microtubule]]"]
+requires: ["[[cell]]"]
 lists: ["[[organelles]]"]
+tour_order: 1
 read: false
 ---
 
 # Centriole
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +48,18 @@ Centrioles represent specialized microtubule organizing centers that help animal
 ## see also
 
 - [[cilia]] · [[cell-division]] · [[microtubule]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

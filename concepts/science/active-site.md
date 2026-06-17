@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Active site, binding site]
 related: ["[[catalysis]]", "[[enzyme]]", "[[protein]]", "[[substrate]]", "[[photosynthesis]]"]
+requires: ["[[enzyme]]", "[[protein]]"]
 lists: []
+tour_order: 2
 read: false
 ---
 
 # Active Site
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +44,18 @@ The *active site* of an enzyme is the specific three-dimensional region where su
 ## see also
 
 - [[catalysis]] · [[enzyme]] · [[substrate]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

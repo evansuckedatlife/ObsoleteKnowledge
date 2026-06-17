@@ -3,7 +3,9 @@ type: person
 category: science
 defines: ["Werner Heisenberg", "Werner Karl Heisenberg"]
 related: ["[[niels-bohr]]", "[[albert-einstein]]", "[[erwin-schrodinger]]"]
+requires: []
 lists: ["[[20th-century-physicists]]"]
+tour_order: 0
 read: false
 ---
 
@@ -49,6 +51,18 @@ Heisenberg epitomizes the revolutionary transformation of physics in the early 2
 ## see also
 
 - [[max-planck]] · [[albert-einstein]] · [[niels-bohr]] · [[erwin-schrodinger]] · [[paul-dirac]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: concept
 category: science
 defines: [Comet, cometary]
 related: ["[[asteroid-belt]]", "[[kuiper-belt]]", "[[oort-cloud]]", "[[halley-comet]]", "[[comet-67p]]", "[[comet-shoemaker-levy-9]]"]
+requires: ["[[asteroid-belt]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Comet
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +45,18 @@ A *comet* is an icy body orbiting the Sun, composed of frozen volatiles (water i
 ## see also
 
 - [[asteroid-belt]] · [[kuiper-belt]] · [[halley-comet]] · [[comet-67p]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

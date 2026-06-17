@@ -3,11 +3,20 @@ type: concept
 category: science
 defines: [Uncertainty principle, Heisenberg uncertainty principle]
 related: ["[[werner-heisenberg]]", "[[quantization]]", "[[commutator]]"]
+requires: ["[[quantum-mechanics]]", "[[wave-particle-duality]]"]
 lists: ["[[quantum-mechanics-concepts]]"]
+tour_order: 2
 read: false
 ---
 
 # Uncertainty principle
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +49,18 @@ The *Heisenberg uncertainty principle* states that certain pairs of physical obs
 ## see also
 
 - [[quantization]] · [[wave-particle-duality]] · [[commutator]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

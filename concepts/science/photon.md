@@ -3,11 +3,20 @@ type: particle
 category: science
 defines: [Photon, "light particle"]
 related: ["[[standard-model]]", "[[photoelectric-effect]]", "[[planck-constant]]", "[[wave-particle-duality]]", "[[electromagnetic-radiation]]"]
+requires: ["[[wave-particle-duality]]"]
 lists: []
+tour_order: 2
 read: false
 ---
 
 # Photon
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ A *photon* is the fundamental quantum of electromagnetic radiation—the smalles
 ## see also
 
 - [[photoelectric-effect]] · [[planck-constant]] · [[wave-particle-duality]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

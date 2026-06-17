@@ -3,7 +3,9 @@ type: place
 category: science
 defines: ["Mount Erebus"]
 related: ["[[mount-cotopaxi]]", "[[mauna-loa]]"]
+requires: []
 lists: ["[[active-volcanoes]]"]
+tour_order: 0
 read: false
 ---
 
@@ -29,6 +31,18 @@ Located on Ross Island in Antarctica, **Mount Erebus** is the southernmost activ
 ## see also
 
 - [[mount-cotopaxi]] · [[mauna-loa]] · [[kilauea]] · [[mount-etna]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

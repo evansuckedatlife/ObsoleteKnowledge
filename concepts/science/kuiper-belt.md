@@ -3,7 +3,9 @@ type: place
 category: science
 defines: [Kuiper Belt]
 related: ["[[asteroid-belt]]", "[[pluto]]", "[[comet]]", "[[oort-cloud]]", "[[neptune]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +38,18 @@ The *Kuiper Belt* is a vast region of icy bodies orbiting the Sun beyond Neptune
 ## see also
 
 - [[asteroid-belt]] · [[pluto]] · [[comet]] · [[oort-cloud]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

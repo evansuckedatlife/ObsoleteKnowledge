@@ -3,8 +3,10 @@ type: person
 category: science
 defines: ["Galileo Galilei", Galileo]
 aliases: [galileo]
-related: ["[[jupiter]]", "[[galilean-moons]]", "[[telescope]]", "[[heliocentrism]]", "[[inquisition]]", "[[isaac-newton]]"]
+related: ["[[jupiter]]", "[[galilean-moons]]", "[[telescope]]", "[[heliocentrism]]", "[[inquisition]]", "[[isaac-newton]]", "[[enlightenment]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +39,18 @@ read: false
 ## see also
 
 - [[jupiter]] · [[galilean-moons]] · [[heliocentrism]] · [[telescope]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [SSD, solid state drive, flash storage, NVMe]
 related: ["[[hard-disk-drive]]", "[[pci-express]]", "[[motherboard]]"]
+requires: []
 lists: ["[[computer-components]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ A **solid state drive** (SSD) is a storage device that uses no moving parts, ins
 ## see also
 
 - [[hard-disk-drive]] · [[pci-express]] · [[motherboard]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

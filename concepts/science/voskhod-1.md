@@ -3,11 +3,20 @@ type: event
 category: science
 defines: [Voskhod 1, Voskhod 2]
 related: ["[[soviet-space-program]]", "[[space-race]]", "[[spacewalk]]", "[[alexei-leonov]]"]
+requires: ["[[cold-war]]"]
 lists: ["[[space-missions]]"]
+tour_order: 1
 read: false
 ---
 
 # Voskhod 1
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ The first spacecraft to carry a *multi-person crew*, launched by the *Soviet Uni
 ## see also
 
 - [[vostok-1]] · [[apollo-13]] · [[sputnik-1]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

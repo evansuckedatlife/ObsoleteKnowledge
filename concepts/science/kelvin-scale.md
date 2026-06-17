@@ -3,7 +3,9 @@ type: term
 category: science
 defines: ["Kelvin scale", "absolute temperature scale"]
 related: ["[[celsius-scale]]", "[[fahrenheit-scale]]", "[[temperature]]"]
+requires: []
 lists: ["[[scientific-scales]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The **Kelvin scale** is the SI unit for measuring absolute temperature, starting
 ## see also
 
 - [[celsius-scale]] · [[fahrenheit-scale]] · [[decibel-scale]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

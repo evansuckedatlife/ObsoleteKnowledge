@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Catalysis, catalytic, catalyst]
 related: ["[[active-site]]", "[[enzyme]]", "[[reaction-kinetics]]", "[[thermodynamics]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -50,6 +52,18 @@ Catalysis is one of the pillars of modern civilization. The *Haber-Bosch process
 ## see also
 
 - [[enzyme]] · [[reaction-kinetics]] · [[active-site]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

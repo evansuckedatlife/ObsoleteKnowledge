@@ -3,7 +3,9 @@ type: term
 category: science
 defines: ["pH scale", "pH"]
 related: ["[[acid]]", "[[base]]", "[[hydrogen-ion-concentration]]", "[[logarithmic-scale]]"]
+requires: []
 lists: ["[[scientific-scales]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The **pH scale** measures the acidity or basicity of a solution on a logarithmic
 ## see also
 
 - [[decibel-scale]] · [[richter-scale]] · [[scoville-scale]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

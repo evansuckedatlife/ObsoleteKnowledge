@@ -3,7 +3,9 @@ type: place
 category: science
 defines: ["Mount Tambora", "Tambora"]
 related: ["[[krakatoa]]", "[[mount-pinatubo]]"]
+requires: []
 lists: ["[[active-volcanoes]]"]
+tour_order: 0
 read: false
 ---
 
@@ -29,6 +31,18 @@ An active stratovolcano on the island of Sumbawa in Indonesia, **Mount Tambora**
 ## see also
 
 - [[krakatoa]] · [[vesuvius]] · [[mount-pinatubo]] · [[mount-pelee]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

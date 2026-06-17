@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Cell]
 related: ["[[eukaryote]]", "[[prokaryote]]", "[[nucleus]]", "[[mitochondria]]", "[[cell-membrane]]", "[[dna]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -69,6 +71,18 @@ The cell is the fundamental unit of life. Leeuwenhoek's early microscope observa
 ## see also
 
 - [[eukaryote]] · [[prokaryote]] · [[cell-membrane]] · [[mitochondria]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

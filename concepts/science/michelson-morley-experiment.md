@@ -3,7 +3,9 @@ type: event
 category: science
 defines: ["Michelson–Morley experiment"]
 related: ["[[speed-of-light]]", "[[ether]]", "[[special-relativity]]", "[[interferometer]]"]
+requires: []
 lists: ["[[scientific-experiments]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ In 1887, *Albert Michelson* and *Edward Morley* used an *interferometer* to meas
 ## see also
 
 - [[double-slit-experiment]] · [[rutherford-gold-foil-experiment]] · [[davisson-germer-experiment]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

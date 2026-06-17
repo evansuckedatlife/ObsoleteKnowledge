@@ -3,11 +3,20 @@ type: phenomenon
 category: science
 defines: ["Photoelectric effect", "photoemission"]
 related: ["[[photon]]", "[[planck-constant]]", "[[albert-einstein]]", "[[wave-particle-duality]]", "[[work-function]]"]
+requires: ["[[photon]]", "[[quantum-mechanics]]"]
 lists: []
+tour_order: 3
 read: false
 ---
 
 # Photoelectric Effect
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ The *photoelectric effect* is the emission of electrons from a material when lig
 ## see also
 
 - [[photon]] · [[planck-constant]] · [[wave-particle-duality]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

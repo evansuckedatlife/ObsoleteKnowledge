@@ -3,7 +3,9 @@ type: element
 category: science
 defines: ["Helium", "He"]
 related: ["[[hydrogen]]", "[[neon]]", "[[uranium]]"]
+requires: []
 lists: ["[[chemical-elements]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Helium is a colorless, odorless, tasteless, and chemically inert monatomic gas t
 ## see also
 
 - [[carbon]] · [[nitrogen]] · [[oxygen]] · [[sodium]] · [[iron]] · [[copper]] · [[gold]] · [[mercury]] · [[uranium]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

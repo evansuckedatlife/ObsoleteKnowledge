@@ -3,7 +3,9 @@ type: person
 category: science
 defines: [Robert Koch]
 related: ["[[tuberculosis]]", "[[bacteriology]]", "[[germ-theory]]"]
+requires: []
 lists: ["[[nobel-prize-winners-in-medicine]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ German physician and microbiologist who identified the bacterium *Mycobacterium 
 ## see also
 
 - [[paul-ehrlich]] · [[ronald-ross]] · [[wilhem-einthoven]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

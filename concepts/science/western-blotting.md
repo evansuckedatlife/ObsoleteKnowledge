@@ -3,11 +3,20 @@ type: practice
 category: science
 defines: [Western blotting, "protein blotting"]
 related: ["[[protein]]", "[[southern-blotting]]", "[[northern-blotting]]", "[[gel-electrophoresis]]", "[[antibody]]"]
+requires: ["[[protein]]"]
 lists: ["[[techniques-in-biotechnology]]"]
+tour_order: 1
 read: false
 ---
 
 # Western Blotting
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[southern-blotting]] · [[northern-blotting]] · [[protein]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

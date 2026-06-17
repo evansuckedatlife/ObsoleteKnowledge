@@ -3,7 +3,9 @@ type: concept
 category: science
 defines: ["Ozonolysis", "ozonolyses"]
 related: ["[[oxygen]]", "[[zinc]]", "[[aldehyde]]"]
+requires: []
 lists: ["[[organic-reactions]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Ozonolysis is an organic chemical reaction that uses ozone (O3) to cleave the un
 ## see also
 
 - [[grignard-reaction]] · [[diels-alder-reaction]] · [[nucleophilic-substitution]] · [[elimination-reaction]] · [[electrophilic-addition]] · [[esterification]] · [[friedel-crafts-reaction]] · [[aldol-condensation]] · [[saponification]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

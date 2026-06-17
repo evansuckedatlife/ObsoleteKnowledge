@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Switch, Contact]
 related: ["[[resistor]]", "[[relay]]", "[[logic-gate]]", "[[control-circuit]]"]
+requires: []
 lists: ["[[circuit-components]]"]
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +37,18 @@ A **switch** is a mechanical or electronic component that opens or closes a circ
 ## see also
 
 - [[relay]] · [[diode]] · [[transistor]] · [[resistor]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

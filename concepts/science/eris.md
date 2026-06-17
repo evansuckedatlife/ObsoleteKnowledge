@@ -3,7 +3,9 @@ type: place
 category: science
 defines: [Eris]
 related: ["[[kuiper-belt]]", "[[pluto]]", "[[dwarf-planet]]", "[[makemake]]"]
+requires: []
 lists: ["[[dwarf-planets-comets-and-asteroids]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[pluto]] · [[makemake]] · [[kuiper-belt]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

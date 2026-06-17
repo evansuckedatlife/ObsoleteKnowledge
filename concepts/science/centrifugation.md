@@ -3,7 +3,9 @@ type: practice
 category: science
 defines: ["Centrifugation"]
 related: ["[[filtration]]", "[[uranium]]", "[[nitrogen]]"]
+requires: []
 lists: ["[[chemistry-lab-techniques]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Centrifugation is a laboratory technique that uses centrifugal force to separate
 ## see also
 
 - [[chromatography]] · [[distillation]] · [[titration]] · [[calorimetry]] · [[spectroscopy]] · [[filtration]] · [[recrystallization]] · [[pipetting]] · [[electrolysis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

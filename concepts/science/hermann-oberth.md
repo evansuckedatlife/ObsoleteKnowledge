@@ -3,7 +3,9 @@ type: person
 category: science
 defines: [Hermann Oberth]
 related: ["[[konstantin-tsiolkovsky]]", "[[robert-goddard]]", "[[wernher-von-braun]]", "[[v-2-rocket]]"]
+requires: []
 lists: ["[[rocket-scientists]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ Austro-Hungarian physicist (1894–1989) who published the pioneering treatise *
 ## see also
 
 - [[konstantin-tsiolkovsky]] · [[robert-goddard]] · [[wernher-von-braun]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

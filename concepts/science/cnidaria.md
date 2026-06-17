@@ -3,11 +3,20 @@ type: species
 category: science
 defines: ["Cnidaria", "coelenterates"]
 related: ["[[porifera]]", "[[ctenophora]]"]
+requires: ["[[cell]]"]
 lists: ["[[phyla]]"]
+tour_order: 1
 read: false
 ---
 
 # Cnidaria
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -29,6 +38,18 @@ A phylum of radially symmetrical aquatic animals including jellyfish, corals, se
 ## see also
 
 - [[porifera]] · [[ctenophora]] · [[platyhelminthes]] · [[mollusca]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

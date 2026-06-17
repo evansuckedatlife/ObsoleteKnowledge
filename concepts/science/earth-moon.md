@@ -2,8 +2,10 @@
 type: place
 category: science
 defines: [Earth's Moon, Moon, Luna]
-related: ["[[earth]]", "[[tides]]", "[[galileo-galilei]]"]
+related: ["[[earth]]", "[[tides]]", "[[galileo-galilei]]", "[[space-race]]"]
+requires: []
 lists: ["[[moons]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[io]] · [[titan]] · [[europa]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

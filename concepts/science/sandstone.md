@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Sandstone]
 related: ["[[quartz]]", "[[feldspar]]", "[[sedimentary-rock]]", "[[weathering]]", "[[metamorphic-rock]]"]
+requires: ["[[quartz]]"]
 lists: ["[[rocks-and-minerals]]"]
+tour_order: 1
 read: false
 ---
 
 # Sandstone
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ read: false
 ## see also
 
 - [[quartz]] · [[feldspar]] · [[limestone]] · [[granite]] · [[calcite]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

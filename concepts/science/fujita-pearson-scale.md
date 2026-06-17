@@ -3,7 +3,9 @@ type: term
 category: science
 defines: ["Fujita–Pearson scale", "Enhanced Fujita scale", "EF scale"]
 related: ["[[tornado]]", "[[wind-speed]]", "[[damage-assessment]]", "[[beaufort-wind-force-scale]]"]
+requires: []
 lists: ["[[scientific-scales]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The **Enhanced Fujita scale** (EF scale) rates tornado intensity from EF0 to EF5
 ## see also
 
 - [[saffir-simpson-scale]] · [[beaufort-wind-force-scale]] · [[severe-weather]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

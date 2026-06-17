@@ -3,11 +3,20 @@ type: species
 category: science
 defines: ["Ctenophora", "comb jellies"]
 related: ["[[cnidaria]]", "[[porifera]]"]
+requires: ["[[cell]]"]
 lists: ["[[phyla]]"]
+tour_order: 1
 read: false
 ---
 
 # Ctenophora
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -29,6 +38,18 @@ A phylum of marine invertebrates commonly known as comb jellies, **Ctenophora** 
 ## see also
 
 - [[porifera]] · [[cnidaria]] · [[platyhelminthes]] · [[mollusca]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

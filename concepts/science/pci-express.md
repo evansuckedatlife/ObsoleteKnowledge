@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [PCIe, PCI Express, PCI]
 related: ["[[motherboard]]", "[[graphics-card]]", "[[solid-state-drive]]"]
+requires: []
 lists: ["[[computer-components]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[motherboard]] · [[graphics-card]] · [[solid-state-drive]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

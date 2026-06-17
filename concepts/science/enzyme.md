@@ -3,11 +3,20 @@ type: concept
 category: science
 defines: [Enzyme, catalyst, biological catalyst]
 related: ["[[catalysis]]", "[[active-site]]", "[[protein]]", "[[biochemistry]]", "[[substrate]]", "[[fermentation]]", "[[photosynthesis]]", "[[digestion]]"]
+requires: ["[[protein]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Enzyme
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -56,6 +65,18 @@ Enzymes are among the most sophisticated machines in nature. Their discovery—f
 ## see also
 
 - [[catalysis]] · [[protein]] · [[biochemistry]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: concept
 category: science
 defines: [Devonian Period, Devonian]
 related: ["[[silurian-period]]", "[[carboniferous-period]]", "[[age-of-fishes]]", "[[tetrapods]]", "[[devonian-extinction]]"]
+requires: []
 lists: ["[[geologic-time-periods]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ The **Devonian Period** (419–359 million years ago) is called the *Age of Fish
 ## see also
 
 - [[silurian-period]] · [[carboniferous-period]] · [[age-of-fishes]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

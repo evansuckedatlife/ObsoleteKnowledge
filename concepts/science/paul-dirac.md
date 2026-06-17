@@ -3,11 +3,20 @@ type: person
 category: science
 defines: ["Paul Dirac", "Paul Adrien Maurice Dirac"]
 related: ["[[werner-heisenberg]]", "[[erwin-schrodinger]]", "[[enrico-fermi]]"]
+requires: ["[[quantum-mechanics]]"]
 lists: ["[[20th-century-physicists]]"]
+tour_order: 1
 read: false
 ---
 
 # Paul Dirac
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -31,6 +40,18 @@ An English theoretical physicist, **Paul Dirac** made fundamental contributions 
 ## see also
 
 - [[werner-heisenberg]] · [[erwin-schrodinger]] · [[enrico-fermi]] · [[richard-feynman]] · [[louis-de-broglie]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

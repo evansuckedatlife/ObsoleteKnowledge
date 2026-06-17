@@ -3,11 +3,20 @@ type: term
 category: science
 defines: ["Restriction enzyme", "restriction endonuclease"]
 related: ["[[dna]]", "[[catalysis]]"]
+requires: ["[[dna]]", "[[catalysis]]", "[[enzyme]]"]
 lists: ["[[enzymes]]"]
+tour_order: 2
 read: false
 ---
 
 # Restriction enzyme
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +47,18 @@ Restriction enzymes were essential to modern molecular biology's emergence in th
 ## see also
 
 - [[cas9]] · [[dna-polymerase]] · [[dna]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

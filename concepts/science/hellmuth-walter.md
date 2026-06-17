@@ -3,7 +3,9 @@ type: person
 category: science
 defines: [Hellmuth Walter, Hellmuth Walter Rudolph]
 related: ["[[v-2-rocket]]", "[[wernher-von-braun]]"]
+requires: []
 lists: ["[[rocket-scientists]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ German rocket and propulsion engineer (1900–1980) who pioneered *hydrogen pero
 ## see also
 
 - [[wernher-von-braun]] · [[v-2-rocket]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

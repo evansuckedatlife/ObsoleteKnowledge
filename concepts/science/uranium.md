@@ -2,8 +2,10 @@
 type: element
 category: science
 defines: ["Uranium", "U"]
-related: ["[[helium]]", "[[gold]]", "[[plutonium]]"]
+related: ["[[helium]]", "[[gold]]", "[[plutonium]]", "[[manhattan-project]]"]
+requires: []
 lists: ["[[chemical-elements]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Uranium is a heavy, silvery-white, weakly radioactive actinide metal that is the
 ## see also
 
 - [[helium]] · [[carbon]] · [[nitrogen]] · [[oxygen]] · [[sodium]] · [[iron]] · [[copper]] · [[gold]] · [[mercury]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

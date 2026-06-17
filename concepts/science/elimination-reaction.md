@@ -3,7 +3,9 @@ type: concept
 category: science
 defines: ["Elimination reaction", "elimination reactions", "E1", "E2"]
 related: ["[[nucleophilic-substitution]]", "[[organic-halide]]", "[[potassium]]"]
+requires: []
 lists: ["[[organic-reactions]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ An elimination reaction is a class of organic reactions in which two substituent
 ## see also
 
 - [[grignard-reaction]] · [[diels-alder-reaction]] · [[nucleophilic-substitution]] · [[electrophilic-addition]] · [[esterification]] · [[friedel-crafts-reaction]] · [[aldol-condensation]] · [[saponification]] · [[ozonolysis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

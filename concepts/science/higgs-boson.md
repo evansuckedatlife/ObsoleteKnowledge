@@ -3,7 +3,9 @@ type: concept
 category: science
 defines: [Higgs boson, "Higgs particle", "God particle"]
 related: ["[[standard-model]]", "[[photon]]", "[[quantum-mechanics]]", "[[quantum-chromodynamics]]", "[[planck-constant]]"]
+requires: ["[[standard-model]]", "[[quantum-mechanics]]"]
 lists: []
+tour_order: 2
 read: false
 ---
 
@@ -43,6 +45,18 @@ The Higgs completed the Standard Model, the most successful theory of fundamenta
 ## see also
 
 - [[standard-model]] · [[quantum-mechanics]] · [[photon]] · [[quantum-chromodynamics]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: species
 category: science
 defines: ["Annelida", "segmented worms"]
 related: ["[[mollusca]]", "[[nematoda]]", "[[platyhelminthes]]"]
+requires: []
 lists: ["[[phyla]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ A phylum of invertebrate segmented worms including earthworms, leeches, and mari
 ## see also
 
 - [[platyhelminthes]] · [[nematoda]] · [[mollusca]] · [[arthropoda]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: practice
 category: science
 defines: [gel electrophoresis]
 related: ["[[dna]]", "[[protein]]", "[[pcr]]", "[[dna-sequencing]]"]
+requires: []
 lists: ["[[techniques-in-biotechnology]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[pcr]] · [[dna-sequencing]] · [[western-blotting]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

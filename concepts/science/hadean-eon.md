@@ -3,7 +3,9 @@ type: concept
 category: science
 defines: [Hadean Eon, Hadean]
 related: ["[[archean-eon]]", "[[earth-formation]]", "[[primordial-earth]]"]
+requires: []
 lists: ["[[geologic-time-periods]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The **Hadean Eon** spans Earth's first ~500 million years (4.6–4.1 billion yea
 ## see also
 
 - [[archean-eon]] · [[proterozoic-eon]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

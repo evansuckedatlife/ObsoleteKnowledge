@@ -3,7 +3,9 @@ type: term
 category: science
 defines: ["Richter scale", "Richter magnitude scale", "local magnitude"]
 related: ["[[earthquake]]", "[[seismic-waves]]", "[[moment-magnitude-scale]]", "[[logarithmic-scale]]"]
+requires: []
 lists: ["[[scientific-scales]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The **Richter scale** measures the *local magnitude* of earthquakes, quantifying
 ## see also
 
 - [[decibel-scale]] · [[ph-scale]] · [[scoville-scale]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

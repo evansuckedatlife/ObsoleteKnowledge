@@ -3,7 +3,9 @@ type: place
 category: science
 defines: ["Kilauea"]
 related: ["[[mauna-loa]]", "[[mount-erebus]]"]
+requires: []
 lists: ["[[active-volcanoes]]"]
+tour_order: 0
 read: false
 ---
 
@@ -29,6 +31,18 @@ An active shield volcano located on the southeastern part of the Big Island of H
 ## see also
 
 - [[mauna-loa]] · [[mount-erebus]] · [[mount-saint-helens]] · [[vesuvius]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

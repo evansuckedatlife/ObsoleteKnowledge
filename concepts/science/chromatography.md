@@ -3,7 +3,9 @@ type: practice
 category: science
 defines: ["Chromatography"]
 related: ["[[distillation]]", "[[filtration]]", "[[spectroscopy]]"]
+requires: []
 lists: ["[[chemistry-lab-techniques]]"]
+tour_order: 0
 read: false
 ---
 
@@ -50,6 +52,18 @@ Chromatography is the most powerful and ubiquitous separation method in chemical
 ## see also
 
 - [[distillation]] · [[titration]] · [[calorimetry]] · [[spectroscopy]] · [[filtration]] · [[centrifugation]] · [[recrystallization]] · [[pipetting]] · [[electrolysis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

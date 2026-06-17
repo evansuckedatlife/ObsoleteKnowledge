@@ -3,7 +3,9 @@ type: element
 category: science
 defines: [Hydrogen, "H"]
 related: ["[[water]]", "[[photosynthesis]]", "[[chemical-element]]", "[[atomic-number]]", "[[isotope]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[water]] · [[photosynthesis]] · [[chemical-element]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

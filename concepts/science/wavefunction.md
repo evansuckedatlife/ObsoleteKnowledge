@@ -3,11 +3,20 @@ type: concept
 category: science
 defines: ["Wavefunction", "wave function"]
 related: ["[[schrodinger-equation]]", "[[quantum-operator]]", "[[superposition]]"]
+requires: ["[[quantum-mechanics]]"]
 lists: ["[[quantum-mechanics-concepts]]"]
+tour_order: 1
 read: false
 ---
 
 # Wavefunction
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +49,18 @@ The wavefunction is the central object of quantum mechanics, introduced by Erwin
 ## see also
 
 - [[commutator]] · [[eigenvalue]] · [[hilbert-space]] · [[erwin-schrodinger]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

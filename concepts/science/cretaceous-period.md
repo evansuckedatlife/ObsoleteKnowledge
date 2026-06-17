@@ -2,12 +2,21 @@
 type: concept
 category: science
 defines: [Cretaceous Period, Cretaceous]
-related: ["[[jurassic-period]]", "[[cenozoic-era]]", "[[dinosaurs]]", "[[flowering-plants]]", "[[k-pg-extinction]]"]
+related: ["[[jurassic-period]]", "[[cenozoic-era]]", "[[dinosaurs]]", "[[flowering-plants]]", "[[k-pg-extinction]]", "[[world-war-ii]]"]
+requires: ["[[dinosaurs]]"]
 lists: ["[[geologic-time-periods]]"]
+tour_order: 1
 read: false
 ---
 
 # Cretaceous Period
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +44,18 @@ The **Cretaceous Period** (145–66 million years ago) saw the final flourishing
 ## see also
 
 - [[jurassic-period]] · [[cenozoic-era]] · [[k-pg-extinction]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

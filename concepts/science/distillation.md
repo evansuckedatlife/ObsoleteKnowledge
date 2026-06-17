@@ -3,7 +3,9 @@ type: practice
 category: science
 defines: ["Distillation"]
 related: ["[[chromatography]]", "[[filtration]]", "[[centrifugation]]"]
+requires: []
 lists: ["[[chemistry-lab-techniques]]"]
+tour_order: 0
 read: false
 ---
 
@@ -44,6 +46,18 @@ Distillation is one of the oldest and most economically significant separation p
 ## see also
 
 - [[chromatography]] · [[titration]] · [[calorimetry]] · [[spectroscopy]] · [[filtration]] · [[centrifugation]] · [[recrystallization]] · [[pipetting]] · [[electrolysis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

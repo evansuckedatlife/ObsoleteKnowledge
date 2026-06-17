@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Capacitor]
 related: ["[[resistor]]", "[[dielectric]]", "[[capacitance]]", "[[energy-storage]]"]
+requires: []
 lists: ["[[circuit-components]]"]
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +37,18 @@ A **capacitor** is a two-terminal passive component that stores electrical energ
 ## see also
 
 - [[resistor]] · [[inductor]] · [[diode]] · [[transformer]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

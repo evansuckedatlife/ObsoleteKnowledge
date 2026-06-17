@@ -3,11 +3,20 @@ type: technology
 category: science
 defines: ["V-2 rocket", "V-2", "Vergeltungswaffe 2", "Vengeance Weapon 2"]
 related: ["[[cold-war]]", "[[soviet-space-program]]", "[[nasa]]", "[[sputnik]]", "[[space-race]]"]
+requires: ["[[cold-war]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # V-2 Rocket
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -50,6 +59,18 @@ The V-2 represents a critical juncture: Nazi Germany's technological ambition, w
 ## see also
 
 - [[cold-war]] · [[sputnik]] · [[soviet-space-program]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

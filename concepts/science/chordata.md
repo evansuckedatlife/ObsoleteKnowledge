@@ -3,11 +3,20 @@ type: species
 category: science
 defines: ["Chordata", "chordates"]
 related: ["[[echinodermata]]", "[[arthropoda]]", "[[peter]]"]
+requires: ["[[cell]]"]
 lists: ["[[phyla]]"]
+tour_order: 1
 read: false
 ---
 
 # Chordata
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +49,18 @@ Phylum Chordata represents the lineage that produced the most complex nervous sy
 ## see also
 
 - [[mollusca]] · [[arthropoda]] · [[echinodermata]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

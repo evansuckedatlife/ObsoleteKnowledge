@@ -3,7 +3,9 @@ type: place
 category: science
 defines: [Asteroid Belt]
 related: ["[[jupiter]]", "[[mars]]", "[[comet]]", "[[kuiper-belt]]", "[[ceres]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +38,18 @@ The *Asteroid Belt* is a region of space between the orbits of Mars and Jupiter 
 ## see also
 
 - [[jupiter]] · [[comet]] · [[kuiper-belt]] · [[ceres]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,8 +2,10 @@
 type: event
 category: science
 defines: [Sputnik, "Sputnik 1"]
-related: ["[[space-race]]", "[[cold-war]]", "[[soviet-space-program]]", "[[nasa]]", "[[apollo-program]]"]
+related: ["[[space-race]]", "[[cold-war]]", "[[soviet-space-program]]", "[[nasa]]", "[[apollo-program]]", "[[soviet-union]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -50,6 +52,18 @@ Sputnik's launch was a watershed moment in Cold War history: it proved that the 
 ## see also
 
 - [[space-race]] · [[soviet-space-program]] · [[nasa]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

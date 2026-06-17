@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Cilia, flagella, cilium, flagellum]
 related: ["[[centriole]]", "[[cell-membrane]]", "[[prokaryote]]"]
+requires: ["[[cell]]", "[[protein]]"]
 lists: ["[[organelles]]"]
+tour_order: 1
 read: false
 ---
 
 # Cilia
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +48,18 @@ Cilia and flagella are ancient cell structures, with prokaryotic versions predat
 ## see also
 
 - [[centriole]] · [[cell-membrane]] · [[prokaryote]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

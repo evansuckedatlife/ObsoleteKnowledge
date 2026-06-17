@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Greedy algorithm, greedy]
 related: ["[[algorithm]]", "[[divide-and-conquer]]", "[[dynamic-programming]]", "[[graph-data-structure]]"]
+requires: ["[[algorithm]]"]
 lists: ["[[programming-terms]]"]
+tour_order: 6
 read: false
 ---
 
 # Greedy algorithm
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -56,6 +65,18 @@ Greedy algorithms are a programmer's workhorse: simple to code, fast to execute,
 ## see also
 
 - [[divide-and-conquer]] · [[dynamic-programming]] · [[graph-data-structure]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

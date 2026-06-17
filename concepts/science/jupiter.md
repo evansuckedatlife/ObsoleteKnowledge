@@ -3,7 +3,9 @@ type: place
 category: science
 defines: [Jupiter]
 related: ["[[galilean-moons]]", "[[galileo-galilei]]", "[[nasa]]", "[[great-red-spot]]", "[[asteroid-belt]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +38,18 @@ read: false
 ## see also
 
 - [[galilean-moons]] · [[asteroid-belt]] · [[io]] · [[europa]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

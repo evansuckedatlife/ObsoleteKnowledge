@@ -3,17 +3,22 @@ type: term
 category: science
 defines:
   - Meson
-related:
-  - "[[hadron]]"
-  - "[[quark]]"
-  - "[[baryon]]"
-  - "[[pion]]"
+related: ["[[hadron]]", "[[quark]]", "[[baryon]]", "[[pion]]"]
+requires: ["[[hadron]]", "[[quark]]"]
 lists:
   - "[[classes-of-particles]]"
+tour_order: 4
 read: true
 ---
 
 # Meson
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -46,6 +51,18 @@ Mesons were the first composite particles predicted and observed, historically m
 ## see also
 
 - [[baryon]] · [[quantum-chromodynamics]] · [[weak-force]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: concept
 category: science
 defines: [Triassic Period, Triassic]
 related: ["[[permian-period]]", "[[jurassic-period]]", "[[dinosaurs]]", "[[dinosaur-emergence]]", "[[triassic-extinction]]"]
+requires: []
 lists: ["[[geologic-time-periods]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ The **Triassic Period** (252–201 million years ago) marks the recovery from th
 ## see also
 
 - [[permian-period]] · [[jurassic-period]] · [[dinosaurs]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

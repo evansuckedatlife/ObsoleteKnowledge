@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Graph, graph data structure]
 related: ["[[algorithm]]", "[[tree-data-structure]]", "[[data-structure]]"]
+requires: ["[[algorithm]]"]
 lists: ["[[programming-terms]]"]
+tour_order: 6
 read: false
 ---
 
 # Graph (data structure)
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -54,6 +63,18 @@ Graphs are one of the most versatile data structures in computer science. Almost
 ## see also
 
 - [[tree-data-structure]] · [[algorithm]] · [[big-o-notation]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

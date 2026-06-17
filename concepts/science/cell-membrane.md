@@ -3,11 +3,20 @@ type: term
 category: science
 defines: ["Cell membrane", "Plasma membrane"]
 related: ["[[cell]]", "[[lipid-bilayer]]", "[[transport-protein]]", "[[receptor]]", "[[osmosis]]"]
+requires: ["[[cell]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Cell Membrane
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -64,6 +73,18 @@ The cell membrane is one of life's critical innovations. Its semipermeable natur
 ## see also
 
 - [[cell]] · [[lipid-bilayer]] · [[transport-protein]] · [[receptor]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

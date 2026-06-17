@@ -3,17 +3,22 @@ type: term
 category: science
 defines:
   - Baryon
-related:
-  - "[[hadron]]"
-  - "[[quark]]"
-  - "[[proton]]"
-  - "[[neutron]]"
+related: ["[[hadron]]", "[[quark]]", "[[proton]]", "[[neutron]]"]
+requires: ["[[standard-model]]", "[[quark]]"]
 lists:
   - "[[classes-of-particles]]"
+tour_order: 4
 read: true
 ---
 
 # Baryon
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -46,6 +51,18 @@ Baryons make up the visible universe—protons and neutrons form the nuclei of a
 ## see also
 
 - [[meson]] · [[lepton]] · [[quantum-chromodynamics]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

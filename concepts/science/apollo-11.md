@@ -3,11 +3,20 @@ type: event
 category: science
 defines: [Apollo 11]
 related: ["[[nasa]]", "[[the-moon]]", "[[neil-armstrong]]", "[[lunar-landing]]"]
+requires: ["[[apollo-program]]"]
 lists: ["[[space-missions]]"]
+tour_order: 2
 read: false
 ---
 
 # Apollo 11
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +45,18 @@ The *first* crewed lunar landing, on July 20, 1969, when *Apollo 11* carried *Ne
 ## see also
 
 - [[apollo-13]] · [[vostok-1]] · [[sputnik-1]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

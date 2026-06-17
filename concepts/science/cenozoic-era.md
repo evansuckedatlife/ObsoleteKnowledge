@@ -3,7 +3,9 @@ type: concept
 category: science
 defines: [Cenozoic Era, Cenozoic]
 related: ["[[cretaceous-period]]", "[[mammals]]", "[[human-evolution]]", "[[quaternary-period]]", "[[paleocene-epoch]]"]
+requires: []
 lists: ["[[geologic-time-periods]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ The **Cenozoic Era** (66 million years ago–present) is the "Age of Mammals," s
 ## see also
 
 - [[cretaceous-period]] · [[quaternary-period]] · [[mammals]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

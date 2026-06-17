@@ -3,11 +3,20 @@ type: concept
 category: science
 defines: [Spin, quantum-spin]
 related: ["[[quantization]]", "[[angular-momentum]]", "[[pauli-exclusion-principle]]"]
+requires: ["[[quantization]]", "[[superposition]]"]
 lists: ["[[quantum-mechanics-concepts]]"]
+tour_order: 3
 read: false
 ---
 
 # Spin
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +49,18 @@ Spin emerged from relativistic quantum mechanics (Dirac's equation) and cannot b
 ## see also
 
 - [[quantization]] · [[pauli-exclusion-principle]] · [[angular-momentum]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

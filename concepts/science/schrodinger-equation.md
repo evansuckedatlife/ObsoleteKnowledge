@@ -3,11 +3,20 @@ type: concept
 category: science
 defines: ["Schrödinger equation"]
 related: ["[[wavefunction]]", "[[hamiltonian]]", "[[quantum-operator]]"]
+requires: ["[[wavefunction]]", "[[quantum-operator]]"]
 lists: ["[[quantum-mechanics-concepts]]"]
+tour_order: 2
 read: false
 ---
 
 # Schrödinger equation
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +49,18 @@ Erwin Schrödinger derived this equation in 1926, providing the wave-mechanical 
 ## see also
 
 - [[paul-dirac]] · [[superposition]] · [[quantization]] · [[erwin-schrodinger]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

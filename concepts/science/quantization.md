@@ -3,11 +3,20 @@ type: concept
 category: science
 defines: [Quantization]
 related: ["[[planck-constant]]", "[[schrodinger-equation]]", "[[wavefunction]]"]
+requires: ["[[quantum-mechanics]]"]
 lists: ["[[quantum-mechanics-concepts]]"]
+tour_order: 1
 read: false
 ---
 
 # Quantization
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +49,18 @@ Quantization emerged as the core insight distinguishing quantum from classical m
 ## see also
 
 - [[superposition]] · [[wavefunction]] · [[schrodinger-equation]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: concept
 category: science
 defines: ["Friedel-Crafts reaction", "Friedel-Crafts alkylation", "Friedel-Crafts acylation", "Friedel-Crafts reactions"]
 related: ["[[organic-halide]]", "[[ketone]]", "[[carbon]]"]
+requires: []
 lists: ["[[organic-reactions]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ The Friedel-Crafts reaction is a set of organic reactions developed by Charles F
 ## see also
 
 - [[grignard-reaction]] · [[diels-alder-reaction]] · [[nucleophilic-substitution]] · [[elimination-reaction]] · [[electrophilic-addition]] · [[esterification]] · [[aldol-condensation]] · [[saponification]] · [[ozonolysis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

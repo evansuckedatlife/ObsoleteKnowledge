@@ -2,8 +2,10 @@
 type: place
 category: science
 defines: [Ganymede]
-related: ["[[jupiter]]", "[[galilean-moons]]", "[[subsurface-ocean]]", "[[io]]", "[[europa]]", "[[callisto]]"]
+related: ["[[jupiter]]", "[[galilean-moons]]", "[[subsurface-ocean]]", "[[io]]", "[[europa]]", "[[callisto]]", "[[space-race]]"]
+requires: []
 lists: ["[[moons]]"]
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +37,18 @@ read: false
 ## see also
 
 - [[europa]] · [[io]] · [[callisto]] · [[enceladus]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

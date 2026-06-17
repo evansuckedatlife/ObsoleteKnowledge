@@ -1,0 +1,39 @@
+gauge-boson :: boson;standard-model :: 
+gel-electrophoresis :: protein;amino-acids :: 
+gene-kranz :: apollo-program :: apollo-program;nasa;space-race
+george-gamow :: quantum-mechanics :: 
+gluon :: quark;standard-model :: 
+gold :: element;periodic-table :: 
+golgi-apparatus :: cell;protein-synthesis :: 
+granite :: rock;mineral :: 
+graph-data-structure :: algorithm :: 
+graphics-card :: computer;processor :: 
+greedy-algorithm :: algorithm :: 
+grignard-reaction :: organic-chemistry;nucleophile :: 
+ground :: electricity;circuit :: 
+gymnosperms :: plant;seed :: 
+hadean-eon :: earth;planetary-formation :: 
+hadron :: quark;standard-model :: 
+hale-bopp :: comet;solar-system :: 
+halley-comet :: comet;solar-system :: 
+hard-disk-drive :: computer;digital-storage :: 
+helium :: element;atom :: 
+hellmuth-walter :: rocket-propulsion;world-war-ii :: v-2-rocket;world-war-ii
+hermann-oberth :: rocket-propulsion :: space-race;v-2-rocket;world-war-ii
+hershey-chase-experiment :: dna;phage-genetics :: 
+higgs-boson :: quantum-mechanics;standard-model :: 
+homer-hickam :: nasa;space-exploration :: nasa;space-race;apollo-program
+hubble-space-telescope-servicing :: space-shuttle;nasa :: nasa;space-race
+hydrogen :: element;atom :: 
+inductor :: electricity;electromagnetism :: 
+io :: jupiter;moon :: 
+iron :: element;periodic-table :: 
+james-watson-and-francis-crick :: dna;protein-structure :: 
+jupiter :: planet;solar-system :: 
+jurassic-period :: dinosaur;geological-time :: 
+karl-landsteiner :: immunology;blood-groups :: 
+kelvin-scale :: temperature;measurement :: 
+ketone :: organic-chemistry;carbonyl :: 
+kilauea :: volcano;earth :: 
+konstantin-tsiolkovsky :: rocket-propulsion :: space-race;cold-war;v-2-rocket
+krakatoa :: volcano;earth :: 

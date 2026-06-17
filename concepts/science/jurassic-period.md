@@ -3,7 +3,9 @@ type: concept
 category: science
 defines: [Jurassic Period, Jurassic]
 related: ["[[triassic-period]]", "[[cretaceous-period]]", "[[dinosaurs]]", "[[sauropods]]", "[[theropods]]"]
+requires: []
 lists: ["[[geologic-time-periods]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ The **Jurassic Period** (201–145 million years ago) was the golden age of dino
 ## see also
 
 - [[triassic-period]] · [[cretaceous-period]] · [[dinosaurs]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

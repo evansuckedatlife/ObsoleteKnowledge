@@ -3,7 +3,9 @@ type: place
 category: science
 defines: ["Mount Vesuvius", "Vesuvius"]
 related: ["[[krakatoa]]", "[[mount-pelee]]", "[[mount-saint-helens]]"]
+requires: []
 lists: ["[[active-volcanoes]]"]
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +43,18 @@ Mount Vesuvius is a cornerstone of classical history, archaeology, and the scien
 ## see also
 
 - [[krakatoa]] · [[mount-pelee]] · [[mount-tambora]] · [[mount-etna]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

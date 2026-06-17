@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Compiler, compilation]
 related: ["[[programming-language]]", "[[type-system]]", "[[algorithm]]"]
+requires: ["[[programming-language]]", "[[algorithm]]"]
 lists: ["[[programming-terms]]"]
+tour_order: 6
 read: false
 ---
 
 # Compiler
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -60,6 +69,18 @@ A compiler is the gatekeeper between source code and execution. Understanding ho
 ## see also
 
 - [[programming-language]] · [[type-system]] · [[algorithm]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

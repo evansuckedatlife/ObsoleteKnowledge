@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Cotyledon, seed leaf, cotyledons]
 related: ["[[seed]]", "[[plant-embryo]]", "[[monocot]]", "[[dicot]]", "[[photosynthesis]]"]
+requires: ["[[cell]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Cotyledon
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ A *cotyledon* is the embryonic leaf (or seed leaf) within a seed that serves as 
 ## see also
 
 - [[seed]] · [[monocot]] · [[dicot]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

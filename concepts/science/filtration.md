@@ -3,7 +3,9 @@ type: practice
 category: science
 defines: ["Filtration"]
 related: ["[[chromatography]]", "[[distillation]]", "[[centrifugation]]"]
+requires: []
 lists: ["[[chemistry-lab-techniques]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Filtration is a physical or mechanical laboratory operation used to separate sol
 ## see also
 
 - [[chromatography]] · [[distillation]] · [[titration]] · [[calorimetry]] · [[spectroscopy]] · [[centrifugation]] · [[recrystallization]] · [[pipetting]] · [[electrolysis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

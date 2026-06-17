@@ -3,7 +3,9 @@ type: term
 category: science
 defines: ["Filter Circuit", "electrical filter", "active filter", "passive filter"]
 related: ["[[capacitor]]", "[[inductor]]", "[[resistor]]", "[[frequency]]", "[[signal-processing]]", "[[rectifier]]", "[[power-supply]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +38,18 @@ A **filter circuit** is an electronic circuit that selectively passes signals of
 ## see also
 
 - [[capacitor]] · [[inductor]] · [[power-supply]] · [[signal-processing]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

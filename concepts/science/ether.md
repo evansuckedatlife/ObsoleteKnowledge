@@ -3,7 +3,9 @@ type: concept
 category: science
 defines: ["Ether", "ethers"]
 related: ["[[alcohol]]", "[[ester]]", "[[sodium]]"]
+requires: []
 lists: ["[[functional-groups]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ An ether is a class of organic compounds characterized by an oxygen atom bonded 
 ## see also
 
 - [[carboxylic-acid]] · [[alcohol]] · [[aldehyde]] · [[ketone]] · [[ester]] · [[amine]] · [[amide]] · [[organic-halide]] · [[thiol]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

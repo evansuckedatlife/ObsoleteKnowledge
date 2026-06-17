@@ -3,7 +3,9 @@ type: organization
 category: science
 defines: [NASA, "National Aeronautics and Space Administration"]
 related: ["[[apollo-program]]", "[[space-race]]", "[[cold-war]]", "[[sputnik]]", "[[neil-armstrong]]", "[[saturn-v]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -47,6 +49,18 @@ NASA embodies the intersection of science, engineering, and geopolitics. Founded
 ## see also
 
 - [[apollo-program]] · [[space-race]] · [[saturn-v]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: place
 category: science
 defines: ["Mauna Loa"]
 related: ["[[kilauea]]", "[[mount-erebus]]"]
+requires: []
 lists: ["[[active-volcanoes]]"]
+tour_order: 0
 read: false
 ---
 
@@ -29,6 +31,18 @@ An active basaltic shield volcano on the Big Island of Hawaii, **Mauna Loa** is 
 ## see also
 
 - [[kilauea]] · [[mount-erebus]] · [[mount-cotopaxi]] · [[mount-saint-helens]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

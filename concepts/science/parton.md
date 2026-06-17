@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Parton]
 related: ["[[quark]]", "[[gluon]]", "[[hadron]]", "[[quantum-chromodynamics]]"]
+requires: ["[[quantum-mechanics]]"]
 lists: ["[[classes-of-particles]]"]
+tour_order: 1
 read: false
 ---
 
 # Parton
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +49,18 @@ The parton model emerged from *Bjorken scaling*—the surprising observation tha
 ## see also
 
 - [[quark]] · [[gluon]] · [[hadron]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

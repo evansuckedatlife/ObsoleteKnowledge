@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [GPU, graphics processing unit, graphics card, video card]
 related: ["[[central-processing-unit]]", "[[pci-express]]", "[[motherboard]]", "[[power-supply-unit]]"]
+requires: []
 lists: ["[[computer-components]]"]
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +37,18 @@ A **graphics card** (or GPU, graphics processing unit) is a specialized processo
 ## see also
 
 - [[central-processing-unit]] · [[pci-express]] · [[motherboard]] · [[power-supply-unit]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

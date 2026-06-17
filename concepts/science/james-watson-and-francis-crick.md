@@ -3,7 +3,9 @@ type: person
 category: science
 defines: [James Watson, Francis Crick]
 related: ["[[dna]]", "[[molecular-biology]]", "[[rosalind-franklin]]"]
+requires: []
 lists: ["[[nobel-prize-winners-in-medicine]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ American biologist James Watson and British physicist Francis Crick solved the t
 ## see also
 
 - [[thomas-hunt-morgan]] · [[barbara-mcclintock]] · [[rosalind-franklin]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

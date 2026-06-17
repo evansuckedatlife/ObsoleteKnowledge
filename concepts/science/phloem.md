@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Phloem, phloem, "nutrient transport", "sugar transport"]
 related: ["[[xylem]]", "[[vascular-plants]]", "[[photosynthesis]]", "[[pterophytes]]"]
+requires: []
 lists: ["[[plant-distinctions]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[xylem]] · [[vascular-plants]] · [[photosynthesis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

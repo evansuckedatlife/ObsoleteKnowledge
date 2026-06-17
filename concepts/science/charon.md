@@ -3,7 +3,9 @@ type: place
 category: science
 defines: [Charon]
 related: ["[[pluto]]", "[[kuiper-belt]]", "[[binary-system]]", "[[new-horizons]]"]
+requires: []
 lists: ["[[moons]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[pluto]] · [[triton]] · [[eris]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

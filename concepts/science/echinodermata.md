@@ -3,7 +3,9 @@ type: species
 category: science
 defines: ["Echinodermata", "echinoderms"]
 related: ["[[chordata]]", "[[arthropoda]]"]
+requires: []
 lists: ["[[phyla]]"]
+tour_order: 0
 read: false
 ---
 
@@ -29,6 +31,18 @@ A phylum of marine deuterostomes including starfish, sea urchins, sand dollars, 
 ## see also
 
 - [[mollusca]] · [[arthropoda]] · [[chordata]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

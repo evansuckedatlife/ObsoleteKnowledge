@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Protein]
 related: ["[[amino-acids]]", "[[protein-synthesis]]", "[[ribosome]]", "[[enzyme]]", "[[antibody]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -57,6 +59,18 @@ Proteins are the bridge between genotype (DNA sequence) and phenotype (observabl
 ## see also
 
 - [[amino-acids]] · [[protein-synthesis]] · [[enzyme]] · [[antibody]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

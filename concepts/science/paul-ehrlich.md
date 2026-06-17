@@ -3,7 +3,9 @@ type: person
 category: science
 defines: [Paul Ehrlich]
 related: ["[[chemotherapy]]", "[[immunology]]", "[[syphilis]]"]
+requires: []
 lists: ["[[nobel-prize-winners-in-medicine]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ German physician and biochemist who pioneered chemotherapy—the use of syntheti
 ## see also
 
 - [[robert-koch]] · [[karl-landsteiner]] · [[thomas-hunt-morgan]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

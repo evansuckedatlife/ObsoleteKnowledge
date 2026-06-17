@@ -3,11 +3,20 @@ type: concept
 category: science
 defines: ["Quantum chromodynamics", "QCD", "strong force"]
 related: ["[[standard-model]]", "[[quark]]", "[[gluon]]", "[[color-charge]]"]
+requires: ["[[quantum-mechanics]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Quantum Chromodynamics
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[standard-model]] · [[quark]] · [[gluon]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

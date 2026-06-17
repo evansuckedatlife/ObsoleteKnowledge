@@ -3,7 +3,9 @@ type: concept
 category: science
 defines: [Ordovician Period, Ordovician]
 related: ["[[cambrian-period]]", "[[silurian-period]]", "[[ordovician-radiation]]", "[[ordovician-extinction]]"]
+requires: []
 lists: ["[[geologic-time-periods]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The **Ordovician Period** (485–444 million years ago) saw an explosion of mari
 ## see also
 
 - [[cambrian-period]] · [[silurian-period]] · [[ordovician-extinction]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

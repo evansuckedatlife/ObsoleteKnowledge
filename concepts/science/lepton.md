@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Lepton]
 related: ["[[fermion]]", "[[standard-model]]", "[[electron]]", "[[neutrino]]"]
+requires: ["[[fermion]]", "[[standard-model]]"]
 lists: ["[[classes-of-particles]]"]
+tour_order: 3
 read: false
 ---
 
 # Lepton
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +49,18 @@ Leptons occupy a unique place in the Standard Model as the only *fundamental* ma
 ## see also
 
 - [[baryon]] · [[meson]] · [[hadron]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

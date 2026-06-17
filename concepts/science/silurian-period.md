@@ -3,11 +3,20 @@ type: concept
 category: science
 defines: [Silurian Period, Silurian]
 related: ["[[ordovician-period]]", "[[devonian-period]]", "[[vascular-plants]]", "[[armored-fish]]"]
+requires: ["[[ordovician-period]]", "[[devonian-period]]"]
 lists: ["[[geologic-time-periods]]"]
+tour_order: 1
 read: false
 ---
 
 # Silurian Period
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ The **Silurian Period** (444–419 million years ago) witnessed the colonisation
 ## see also
 
 - [[ordovician-period]] · [[devonian-period]] · [[vascular-plants]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

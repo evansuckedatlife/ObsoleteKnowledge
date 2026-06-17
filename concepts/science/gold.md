@@ -3,7 +3,9 @@ type: element
 category: science
 defines: ["Gold", "Au"]
 related: ["[[copper]]", "[[mercury]]", "[[uranium]]"]
+requires: []
 lists: ["[[chemical-elements]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Gold is a dense, soft, malleable, and highly ductile transition metal with a dis
 ## see also
 
 - [[helium]] · [[carbon]] · [[nitrogen]] · [[oxygen]] · [[sodium]] · [[iron]] · [[copper]] · [[mercury]] · [[uranium]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

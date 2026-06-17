@@ -3,7 +3,9 @@ type: person
 category: science
 defines: [Karl Landsteiner]
 related: ["[[blood-type]]", "[[immunology]]", "[[polio]]"]
+requires: []
 lists: ["[[nobel-prize-winners-in-medicine]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ Austrian-American pathologist and immunologist who discovered the human ABO bloo
 ## see also
 
 - [[paul-ehrlich]] · [[alexander-fleming]] · [[barbara-mcclintock]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

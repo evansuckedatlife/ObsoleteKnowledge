@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Source, "voltage source", "current source"]
 related: ["[[resistor]]", "[[circuit-topology]]", "[[thevenin-equivalent]]", "[[power-delivery]]"]
+requires: []
 lists: ["[[circuit-components]]"]
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +37,18 @@ A **source** is an active circuit element that supplies electrical energy to a c
 ## see also
 
 - [[resistor]] · [[battery]] · [[power-supply]] · [[transformer]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

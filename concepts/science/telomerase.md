@@ -3,11 +3,20 @@ type: term
 category: science
 defines: ["Telomerase"]
 related: ["[[dna]]", "[[dna-replication]]"]
+requires: ["[[dna]]", "[[dna-replication]]", "[[protein]]"]
 lists: ["[[enzymes]]"]
+tour_order: 3
 read: false
 ---
 
 # Telomerase
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +47,18 @@ The end-replication problem arises because DNA polymerase cannot fully replicate
 ## see also
 
 - [[reverse-transcriptase]] · [[dna-polymerase]] · [[dna-replication]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

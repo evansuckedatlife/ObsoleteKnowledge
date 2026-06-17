@@ -3,11 +3,20 @@ type: event
 category: science
 defines: [Apollo 1]
 related: ["[[nasa]]", "[[space-race]]", "[[astronaut-safety]]", "[[gus-grissom]]"]
+requires: ["[[apollo-program]]"]
 lists: ["[[space-missions]]"]
+tour_order: 2
 read: false
 ---
 
 # Apollo 1
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ A crewed Apollo capsule test scheduled for launch on February 21, 1967, that end
 ## see also
 
 - [[apollo-11]] · [[apollo-13]] · [[astronaut-safety]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

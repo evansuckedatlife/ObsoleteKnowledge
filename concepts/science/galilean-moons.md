@@ -3,7 +3,9 @@ type: concept
 category: science
 defines: [Galilean moons]
 related: ["[[jupiter]]", "[[galileo-galilei]]", "[[io]]", "[[europa]]", "[[ganymede]]", "[[callisto]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +38,18 @@ The *Galilean moons* are the four largest satellites of Jupiter—*Io*, *Europa*
 ## see also
 
 - [[jupiter]] · [[io]] · [[europa]] · [[ganymede]] · [[callisto]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

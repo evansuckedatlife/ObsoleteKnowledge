@@ -3,14 +3,11 @@ type: term
 category: science
 defines:
   - Hadron
-related:
-  - "[[quark]]"
-  - "[[gluon]]"
-  - "[[baryon]]"
-  - "[[meson]]"
-  - "[[quantum-chromodynamics]]"
+related: ["[[quark]]", "[[gluon]]", "[[baryon]]", "[[meson]]", "[[quantum-chromodynamics]]"]
+requires: []
 lists:
   - "[[classes-of-particles]]"
+tour_order: 0
 read: true
 ---
 
@@ -47,6 +44,18 @@ Hadrons are the only *quarks* observed in nature—single quarks cannot be isola
 ## see also
 
 - [[parton]] · [[lepton]] · [[fermion]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

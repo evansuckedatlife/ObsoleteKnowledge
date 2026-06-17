@@ -3,7 +3,9 @@ type: concept
 category: science
 defines: ["Electrophilic addition", "electrophilic additions"]
 related: ["[[organic-halide]]", "[[alcohol]]", "[[mercury]]"]
+requires: []
 lists: ["[[organic-reactions]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Electrophilic addition is an organic reaction where a pi bond in an unsaturated 
 ## see also
 
 - [[grignard-reaction]] · [[diels-alder-reaction]] · [[nucleophilic-substitution]] · [[elimination-reaction]] · [[esterification]] · [[friedel-crafts-reaction]] · [[aldol-condensation]] · [[saponification]] · [[ozonolysis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

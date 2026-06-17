@@ -3,11 +3,20 @@ type: term
 category: science
 defines: ["Reverse transcriptase"]
 related: ["[[rna]]", "[[dna]]"]
+requires: ["[[rna]]", "[[dna]]"]
 lists: ["[[enzymes]]"]
+tour_order: 2
 read: false
 ---
 
 # Reverse transcriptase
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +48,18 @@ Reverse transcriptase breaks the central dogma's unidirectional flow—informati
 ## see also
 
 - [[rna-polymerase]] · [[dna-polymerase]] · [[transcription]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

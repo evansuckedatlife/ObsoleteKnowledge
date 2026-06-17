@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [ATP, "adenosine triphosphate"]
 related: ["[[mitochondria]]", "[[photosynthesis]]", "[[cellular-respiration]]", "[[phosphate-bond]]", "[[energy-metabolism]]"]
+requires: ["[[cell]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # ATP
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -66,6 +75,18 @@ ATP is often called the "energy currency" of life, and the metaphor is apt: just
 ## see also
 
 - [[mitochondria]] · [[cellular-respiration]] · [[photosynthesis]] · [[atp-synthase]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

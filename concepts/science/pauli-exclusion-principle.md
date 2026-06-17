@@ -3,11 +3,20 @@ type: concept
 category: science
 defines: ["Pauli exclusion principle"]
 related: ["[[quantum-spin]]", "[[fermion]]", "[[wavefunction]]"]
+requires: ["[[quantum-mechanics]]"]
 lists: ["[[quantum-mechanics-concepts]]"]
+tour_order: 1
 read: false
 ---
 
 # Pauli exclusion principle
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +48,18 @@ Wolfgang Pauli proposed this principle in 1925, initially to explain the structu
 ## see also
 
 - [[quantum-entanglement]] · [[hilbert-space]] · [[erwin-schrodinger]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

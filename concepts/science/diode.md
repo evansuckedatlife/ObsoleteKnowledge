@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Diode, "PN junction"]
 related: ["[[rectifier]]", "[[led]]", "[[junction-voltage]]", "[[forward-bias]]", "[[reverse-bias]]"]
+requires: []
 lists: ["[[circuit-components]]"]
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +37,18 @@ A **diode** is a two-terminal semiconductor device constructed from a *PN juncti
 ## see also
 
 - [[led]] · [[rectifier]] · [[transistor]] · [[capacitor]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

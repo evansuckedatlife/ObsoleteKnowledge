@@ -3,7 +3,9 @@ type: practice
 category: science
 defines: ["Calorimetry"]
 related: ["[[titration]]", "[[spectroscopy]]"]
+requires: []
 lists: ["[[chemistry-lab-techniques]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Calorimetry is a laboratory technique used to measure the amount of heat transfe
 ## see also
 
 - [[chromatography]] · [[distillation]] · [[titration]] · [[spectroscopy]] · [[filtration]] · [[centrifugation]] · [[recrystallization]] · [[pipetting]] · [[electrolysis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

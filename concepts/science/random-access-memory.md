@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [RAM, random access memory, DRAM, SDRAM]
 related: ["[[central-processing-unit]]", "[[motherboard]]", "[[cache-memory]]"]
+requires: []
 lists: ["[[computer-components]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[central-processing-unit]] · [[motherboard]] · [[cache-memory]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

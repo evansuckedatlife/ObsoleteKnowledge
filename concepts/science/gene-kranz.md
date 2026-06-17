@@ -3,7 +3,9 @@ type: person
 category: science
 defines: [Gene Kranz, Eugène Adelin Kranz]
 related: ["[[apollo-program]]", "[[mission-control]]", "[[apollo-13]]"]
+requires: []
 lists: ["[[rocket-scientists]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ American aerospace engineer and flight director (1933–present) who led NASA *M
 ## see also
 
 - [[apollo-program]] · [[apollo-13]] · [[wernher-von-braun]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

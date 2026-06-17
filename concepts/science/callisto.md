@@ -3,11 +3,20 @@ type: place
 category: science
 defines: [Callisto]
 related: ["[[jupiter]]", "[[galilean-moons]]", "[[io]]", "[[europa]]", "[[ganymede]]"]
+requires: ["[[jupiter]]"]
 lists: ["[[moons]]"]
+tour_order: 1
 read: false
 ---
 
 # Callisto
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +44,18 @@ read: false
 ## see also
 
 - [[ganymede]] · [[europa]] · [[io]] · [[enceladus]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

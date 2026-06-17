@@ -3,11 +3,20 @@ type: term
 category: science
 defines: ["Catalase"]
 related: ["[[catalysis]]", "[[enzyme]]"]
+requires: ["[[enzyme]]", "[[protein]]", "[[catalysis]]"]
 lists: ["[[enzymes]]"]
+tour_order: 2
 read: false
 ---
 
 # Catalase
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +45,18 @@ Aerobic respiration inevitably generates hydrogen peroxide as electrons leak fro
 ## see also
 
 - [[atp-synthase]] · [[pepsin]] · [[amylase]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: person
 category: science
 defines: [Robert Goddard, Robert Hutchings Goddard]
 related: ["[[konstantin-tsiolkovsky]]", "[[hermann-oberth]]", "[[wernher-von-braun]]", "[[v-2-rocket]]"]
+requires: []
 lists: ["[[rocket-scientists]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ American physicist and engineer (1882–1945) who pioneered *liquid-fueled rocke
 ## see also
 
 - [[konstantin-tsiolkovsky]] · [[hermann-oberth]] · [[wernher-von-braun]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

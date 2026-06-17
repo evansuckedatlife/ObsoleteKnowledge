@@ -3,11 +3,20 @@ type: practice
 category: science
 defines: [CRISPR, CRISPR/Cas9, "clustered regularly interspaced short palindromic repeats"]
 related: ["[[dna]]", "[[cas9]]", "[[genome-editing]]", "[[molecular-cloning]]", "[[gene-therapy]]"]
+requires: ["[[dna]]", "[[cas9]]", "[[protein]]"]
 lists: ["[[techniques-in-biotechnology]]"]
+tour_order: 2
 read: false
 ---
 
 # CRISPR/Cas9
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[cas9]] · [[genome-editing]] · [[gene-therapy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

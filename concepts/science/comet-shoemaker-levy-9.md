@@ -2,12 +2,21 @@
 type: place
 category: science
 defines: [Shoemaker-Levy 9, Comet Shoemaker-Levy 9]
-related: ["[[comet]]", "[[jupiter]]", ["[[tidal-disruption]]"], "[[impact]]"]
+related: ["[[comet]]", "[[jupiter]]", "[[['[[tidal-disruption]]']]]", "[[impact]]"]
+requires: ["[[comet]]"]
 lists: ["[[dwarf-planets-comets-and-asteroids]]"]
+tour_order: 2
 read: false
 ---
 
 # Comet Shoemaker-Levy 9
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -31,6 +40,18 @@ read: false
 ## see also
 
 - [[halley-comet]] · [[hale-bopp]] · [[comet-67p]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

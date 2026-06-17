@@ -2,8 +2,10 @@
 type: person
 category: science
 defines: [Sergei Korolev, Sergei Pavlovich Korolev]
-related: ["[[konstantin-tsiolkovsky]]", "[[wernher-von-braun]]", "[[sputnik]]", "[[vostok-program]]", "[[apollo-program]]"]
+related: ["[[konstantin-tsiolkovsky]]", "[[wernher-von-braun]]", "[[sputnik]]", "[[vostok-program]]", "[[apollo-program]]", "[[cold-war]]", "[[space-race]]"]
+requires: []
 lists: ["[[rocket-scientists]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ Soviet chief rocket designer (1906–1966) who led the Soviet space program from
 ## see also
 
 - [[konstantin-tsiolkovsky]] · [[wernher-von-braun]] · [[sputnik]] · [[vostok-program]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: person
 category: science
 defines: [Barbara McClintock]
 related: ["[[transposable-elements]]", "[[corn-genetics]]", "[[genetic-regulation]]"]
+requires: ["[[dna]]"]
 lists: ["[[nobel-prize-winners-in-medicine]]"]
+tour_order: 1
 read: false
 ---
 
 # Barbara McClintock
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -31,6 +40,18 @@ American geneticist who discovered transposable elements (jumping genes) in maiz
 ## see also
 
 - [[thomas-hunt-morgan]] · [[james-watson-and-francis-crick]] · [[dna]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: person
 category: science
 defines: [Ronald Ross]
 related: ["[[malaria]]", "[[parasite]]", "[[vector-borne-disease]]"]
+requires: []
 lists: ["[[nobel-prize-winners-in-medicine]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ British physician and parasitologist who identified the *Plasmodium* parasite as
 ## see also
 
 - [[karl-landsteiner]] · [[thomas-hunt-morgan]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

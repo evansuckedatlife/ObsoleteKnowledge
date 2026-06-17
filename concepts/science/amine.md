@@ -3,11 +3,20 @@ type: concept
 category: science
 defines: ["Amine", "amines"]
 related: ["[[amide]]", "[[amino-acids]]", "[[nitrogen]]"]
+requires: ["[[nitrogen]]"]
 lists: ["[[functional-groups]]"]
+tour_order: 1
 read: false
 ---
 
 # Amine
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -30,6 +39,18 @@ An amine is a functional group and class of organic compounds containing a basic
 ## see also
 
 - [[carboxylic-acid]] · [[alcohol]] · [[ether]] · [[aldehyde]] · [[ketone]] · [[ester]] · [[amide]] · [[organic-halide]] · [[thiol]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

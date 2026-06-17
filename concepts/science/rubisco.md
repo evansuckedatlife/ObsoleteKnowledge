@@ -3,11 +3,20 @@ type: term
 category: science
 defines: ["RuBisCO", "Rubisco"]
 related: ["[[photosynthesis]]", "[[calvin-cycle]]"]
+requires: ["[[photosynthesis]]", "[[enzyme]]"]
 lists: ["[[enzymes]]"]
+tour_order: 3
 read: false
 ---
 
 # RuBisCO
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +47,18 @@ RuBisCO is the gateway to the biosphere—nearly all carbon fixation for life on
 ## see also
 
 - [[photosynthesis]] · [[calvin-cycle]] · [[catalase]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

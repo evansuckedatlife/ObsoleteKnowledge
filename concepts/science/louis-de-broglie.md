@@ -3,11 +3,20 @@ type: person
 category: science
 defines: ["Louis de Broglie", "Louis-Victor-Pierre-Raymond de Broglie", "Prince Louis-Victor de Broglie"]
 related: ["[[albert-einstein]]", "[[niels-bohr]]", "[[erwin-schrodinger]]"]
+requires: ["[[quantum-mechanics]]"]
 lists: ["[[20th-century-physicists]]"]
+tour_order: 1
 read: false
 ---
 
 # Louis de Broglie
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -30,6 +39,18 @@ A French physicist and aristocrat, **Louis de Broglie** proposed the radical the
 ## see also
 
 - [[max-planck]] · [[albert-einstein]] · [[niels-bohr]] · [[werner-heisenberg]] · [[erwin-schrodinger]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

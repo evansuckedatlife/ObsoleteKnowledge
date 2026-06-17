@@ -2,8 +2,10 @@
 type: place
 category: science
 defines: [Titan]
-related: ["[[saturn]]", "[[atmosphere]]", "[[methane-cycle]]", "[[enceladus]]", "[[christiaan-huygens]]"]
+related: ["[[saturn]]", "[[atmosphere]]", "[[methane-cycle]]", "[[enceladus]]", "[[christiaan-huygens]]", "[[space-race]]"]
+requires: []
 lists: ["[[moons]]"]
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +37,18 @@ read: false
 ## see also
 
 - [[enceladus]] · [[ganymede]] · [[europa]] · [[io]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

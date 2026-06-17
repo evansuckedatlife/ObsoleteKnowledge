@@ -3,7 +3,9 @@ type: concept
 category: science
 defines: [Permian Period, Permian]
 related: ["[[carboniferous-period]]", "[[triassic-period]]", "[[pangaea]]", "[[synapsids]]", "[[permian-extinction]]"]
+requires: []
 lists: ["[[geologic-time-periods]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ The **Permian Period** (299–252 million years ago) saw *synapsids* rule the la
 ## see also
 
 - [[carboniferous-period]] · [[triassic-period]] · [[permian-extinction]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

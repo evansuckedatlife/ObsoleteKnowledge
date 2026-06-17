@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Corundum, Al₂O₃, ruby, sapphire]
 related: ["[[diamond]]", "[[quartz]]", "[[mohs-scale]]", "[[metamorphic-rock]]", "[[gemstone]]"]
+requires: []
 lists: ["[[rocks-and-minerals]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[diamond]] · [[quartz]] · [[feldspar]] · [[mica]] · [[limestone]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

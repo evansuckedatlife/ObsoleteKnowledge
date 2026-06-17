@@ -3,11 +3,20 @@ type: term
 category: science
 defines: ["ATP synthase"]
 related: ["[[atp]]", "[[photosynthesis]]"]
+requires: ["[[atp]]", "[[enzyme]]", "[[mitochondria]]"]
 lists: ["[[enzymes]]"]
+tour_order: 3
 read: false
 ---
 
 # ATP synthase
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -37,6 +46,18 @@ ATP synthase is arguably the most important enzyme in energy metabolism—it is 
 ## see also
 
 - [[catalase]] · [[atp]] · [[photosynthesis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

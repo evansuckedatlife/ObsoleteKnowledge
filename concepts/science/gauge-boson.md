@@ -4,14 +4,11 @@ category: science
 defines:
   - Gauge boson
   - vector boson
-related:
-  - "[[boson]]"
-  - "[[photon]]"
-  - "[[w-boson]]"
-  - "[[z-boson]]"
-  - "[[gluon]]"
+related: ["[[boson]]", "[[photon]]", "[[w-boson]]", "[[z-boson]]", "[[gluon]]"]
+requires: []
 lists:
   - "[[classes-of-particles]]"
+tour_order: 0
 read: true
 ---
 
@@ -48,6 +45,18 @@ Gauge bosons are the foundation of the Standard Model's force framework. The uni
 ## see also
 
 - [[photon]] · [[gluon]] · [[fermion]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

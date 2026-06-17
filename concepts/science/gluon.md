@@ -3,13 +3,11 @@ type: term
 category: science
 defines:
   - Gluon
-related:
-  - "[[gauge-boson]]"
-  - "[[quark]]"
-  - "[[quantum-chromodynamics]]"
-  - "[[hadron]]"
+related: ["[[gauge-boson]]", "[[quark]]", "[[quantum-chromodynamics]]", "[[hadron]]"]
+requires: []
 lists:
   - "[[classes-of-particles]]"
+tour_order: 0
 read: true
 ---
 
@@ -46,6 +44,18 @@ Gluons are responsible for roughly 99% of the proton's mass through binding ener
 ## see also
 
 - [[quark]] · [[photon]] · [[baryon]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

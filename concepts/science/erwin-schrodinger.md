@@ -3,7 +3,9 @@ type: person
 category: science
 defines: ["Erwin Schrödinger", "Erwin Rudolf Josef Alexander Schrödinger"]
 related: ["[[albert-einstein]]", "[[niels-bohr]]", "[[werner-heisenberg]]"]
+requires: []
 lists: ["[[20th-century-physicists]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ An Austrian-Irish theoretical physicist, **Erwin Schrödinger** developed wave m
 ## see also
 
 - [[albert-einstein]] · [[niels-bohr]] · [[werner-heisenberg]] · [[paul-dirac]] · [[louis-de-broglie]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

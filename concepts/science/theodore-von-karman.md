@@ -3,7 +3,9 @@ type: person
 category: science
 defines: [Theodore von Kármán, Tivadar Mihály Kármán, Theodor von Kármán]
 related: ["[[wernher-von-braun]]", "[[jet-propulsion-laboratory]]"]
+requires: []
 lists: ["[[rocket-scientists]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Hungarian-American aerodynamicist and physicist (1881–1963) who pioneered the 
 ## see also
 
 - [[wernher-von-braun]] · [[jet-propulsion-laboratory]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

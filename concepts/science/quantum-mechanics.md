@@ -3,7 +3,9 @@ type: concept
 category: science
 defines: ["Quantum mechanics", "quantum theory", QM]
 related: ["[[standard-model]]", "[[photon]]", "[[planck-constant]]", "[[photoelectric-effect]]", "[[werner-heisenberg]]", "[[erwin-schrodinger]]", "[[paul-dirac]]", "[[wave-particle-duality]]", "[[superposition]]", "[[quantization]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -57,6 +59,18 @@ Quantum mechanics is perhaps the most successful scientific theory ever: it make
 ## see also
 
 - [[wave-particle-duality]] · [[superposition]] · [[quantization]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

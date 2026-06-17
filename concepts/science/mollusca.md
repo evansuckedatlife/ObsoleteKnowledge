@@ -3,7 +3,9 @@ type: species
 category: science
 defines: ["Mollusca", "mollusks"]
 related: ["[[annelida]]", "[[arthropoda]]"]
+requires: []
 lists: ["[[phyla]]"]
+tour_order: 0
 read: false
 ---
 
@@ -29,6 +31,18 @@ Comprising soft-bodied animals such as snails, clams, squids, and octopuses, **M
 ## see also
 
 - [[annelida]] · [[arthropoda]] · [[echinodermata]] · [[chordata]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [RNA, "ribonucleic acid"]
 related: ["[[dna]]", "[[protein-synthesis]]", "[[rna-polymerase]]", "[[ribosome]]", "[[mrna]]"]
+requires: ["[[dna]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # RNA
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -56,6 +65,18 @@ RNA is at the intersection of information and chemistry. Its discovery that RNA 
 ## see also
 
 - [[dna]] · [[protein-synthesis]] · [[ribosome]] · [[mrna]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

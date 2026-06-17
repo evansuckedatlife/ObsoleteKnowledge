@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Bryophytes, "bryophytes", mosses, liverworts, hornworts]
 related: ["[[pterophytes]]", "[[angiosperms]]", "[[xylem]]", "[[non-vascular-plants]]"]
+requires: []
 lists: ["[[plant-distinctions]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[pterophytes]] · [[gymnosperms]] · [[angiosperms]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

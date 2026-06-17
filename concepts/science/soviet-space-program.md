@@ -3,11 +3,20 @@ type: organization
 category: science
 defines: ["Soviet space program", "Soviet space effort", OKB-1]
 related: ["[[space-race]]", "[[cold-war]]", "[[sputnik]]", "[[apollo-program]]", "[[nasa]]"]
+requires: ["[[space-race]]", "[[cold-war]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Soviet Space Program
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -50,6 +59,18 @@ The Soviet space program embodied Cold War ambition and represented an alternati
 ## see also
 
 - [[space-race]] · [[sputnik]] · [[apollo-program]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

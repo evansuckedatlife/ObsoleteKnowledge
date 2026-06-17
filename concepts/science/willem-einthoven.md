@@ -3,7 +3,9 @@ type: person
 category: science
 defines: [Willem Einthoven]
 related: ["[[ecg]]", "[[electrocardiography]]", "[[cardiac-physiology]]"]
+requires: []
 lists: ["[[nobel-prize-winners-in-medicine]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ Dutch physiologist who invented the string galvanometer and, through it, founded
 ## see also
 
 - [[karl-landsteiner]] · [[ronald-ross]] · [[alexander-fleming]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

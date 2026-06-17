@@ -3,7 +3,9 @@ type: event
 category: science
 defines: [SpaceX CRS-1]
 related: ["[[spacex]]", "[[international-space-station]]", "[[commercial-spaceflight]]", "[[dragon-spacecraft]]"]
+requires: []
 lists: ["[[space-missions]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ The first *Commercial Resupply Services* mission to the *International Space Sta
 ## see also
 
 - [[apollo-soyuz-test-project]] · [[space-shuttle-challenger]] · [[vostok-1]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

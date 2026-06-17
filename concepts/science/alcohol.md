@@ -6,17 +6,22 @@ defines:
   - hydroxyl
   - hydroxyl group
   - alcohols
-related:
-  - "[[carboxylic-acid]]"
-  - "[[ether]]"
-  - "[[ester]]"
-  - "[[aldehyde]]"
+related: ["[[carboxylic-acid]]", "[[ether]]", "[[ester]]", "[[aldehyde]]"]
+requires: ["[[carbon]]"]
 lists:
   - "[[functional-groups]]"
+tour_order: 1
 read: true
 ---
 
 # Alcohol
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -54,6 +59,18 @@ Alcohols are central to organic synthesis, acting as both targets of reduction a
 ## see also
 
 - [[carboxylic-acid]] · [[ether]] · [[aldehyde]] · [[ketone]] · [[ester]] · [[amine]] · [[amide]] · [[organic-halide]] · [[thiol]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

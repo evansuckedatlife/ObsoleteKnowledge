@@ -2,12 +2,21 @@
 type: event
 category: science
 defines: [STS-51-L, Space Shuttle Challenger, Columbia, STS-107]
-related: ["[[nasa]]", "[[space-shuttle-program]]", "[[launch-failure]]", "[[dick-scobee]]"]
+related: ["[[nasa]]", "[[space-shuttle-program]]", "[[launch-failure]]", "[[dick-scobee]]", "[[cold-war]]"]
+requires: ["[[nasa]]"]
 lists: ["[[space-missions]]"]
+tour_order: 1
 read: false
 ---
 
 # Space Shuttle Challenger
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ The Space Shuttle *Challenger* was destroyed 73 seconds after launch on January 
 ## see also
 
 - [[apollo-1]] · [[apollo-13]] · [[spacex-crs-1]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

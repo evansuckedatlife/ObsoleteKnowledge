@@ -3,11 +3,20 @@ type: practice
 category: science
 defines: [ELISA, "enzyme-linked immunosorbent assay"]
 related: ["[[protein]]", "[[antibody]]", "[[antigen]]", "[[immunology]]"]
+requires: ["[[antibody]]", "[[protein]]"]
 lists: ["[[techniques-in-biotechnology]]"]
+tour_order: 2
 read: false
 ---
 
 # ELISA (Enzyme-Linked Immunosorbent Assay)
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[antibody]] · [[antigen]] · [[protein]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

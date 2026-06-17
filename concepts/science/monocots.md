@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Monocots, "monocots", "monocotyledonous", Monocotyledoneae]
 related: ["[[dicots]]", "[[angiosperms]]", "[[seed]]", "[[cotyledon]]"]
+requires: []
 lists: ["[[plant-distinctions]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[dicots]] · [[angiosperms]] · [[cotyledon]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

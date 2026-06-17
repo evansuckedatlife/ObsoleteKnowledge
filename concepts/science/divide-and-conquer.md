@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Divide and conquer, D&C]
 related: ["[[algorithm]]", "[[recursion]]", "[[sorting-algorithm]]", "[[dynamic-programming]]"]
+requires: ["[[algorithm]]"]
 lists: ["[[programming-terms]]"]
+tour_order: 6
 read: false
 ---
 
 # Divide and conquer
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -57,6 +66,18 @@ Divide and conquer is one of the three fundamental algorithm design paradigms, a
 ## see also
 
 - [[recursion]] · [[sorting-algorithm]] · [[big-o-notation]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

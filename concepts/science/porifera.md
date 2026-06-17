@@ -3,7 +3,9 @@ type: species
 category: science
 defines: ["Porifera", "sponges"]
 related: ["[[cnidaria]]", "[[ctenophora]]"]
+requires: []
 lists: ["[[phyla]]"]
+tour_order: 0
 read: false
 ---
 
@@ -29,6 +31,18 @@ An ancient phylum of aquatic multicellular organisms commonly known as sponges, 
 ## see also
 
 - [[cnidaria]] · [[ctenophora]] · [[platyhelminthes]] · [[mollusca]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: practice
 category: science
 defines: [flow cytometry]
 related: ["[[cell]]", "[[fluorescence]]", "[[antibody]]", "[[immunology]]"]
+requires: ["[[cell]]"]
 lists: ["[[techniques-in-biotechnology]]"]
+tour_order: 1
 read: false
 ---
 
 # Flow Cytometry
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[antibody]] · [[fluorescence]] · [[immunology]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: place
 category: science
 defines: [Theia]
 related: ["[[moon-origin]]", "[[giant-impact-hypothesis]]", "[[early-solar-system]]", "[[mars-sized]]"]
+requires: []
 lists: ["[[dwarf-planets-comets-and-asteroids]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[moon]] · [[earth]] · [[mars]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

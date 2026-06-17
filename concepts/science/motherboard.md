@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [motherboard, mainboard]
 related: ["[[central-processing-unit]]", "[[ram]]", "[[pci-express]]", "[[bios]]"]
+requires: []
 lists: ["[[computer-components]]"]
+tour_order: 0
 read: false
 ---
 
@@ -60,6 +62,18 @@ The motherboard is the integrating platform that defines what a computer is: it 
 ## see also
 
 - [[central-processing-unit]] · [[ram]] · [[pci-express]] · [[bios]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

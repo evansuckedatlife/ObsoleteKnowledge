@@ -3,7 +3,9 @@ type: term
 category: science
 defines: ["Fahrenheit scale"]
 related: ["[[celsius-scale]]", "[[kelvin-scale]]", "[[temperature]]"]
+requires: []
 lists: ["[[scientific-scales]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The **Fahrenheit scale** is a temperature scale developed by German physicist *D
 ## see also
 
 - [[celsius-scale]] · [[kelvin-scale]] · [[mohs-scale]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

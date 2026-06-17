@@ -3,11 +3,20 @@ type: term
 category: science
 defines: ["Pepsin"]
 related: ["[[catalysis]]", "[[enzyme]]"]
+requires: ["[[enzyme]]", "[[protein]]"]
 lists: ["[[enzymes]]"]
+tour_order: 2
 read: false
 ---
 
 # Pepsin
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +45,18 @@ Pepsin represents an elegant adaptation to gastric digestion: it functions optim
 ## see also
 
 - [[amylase]] · [[catalase]] · [[atp-synthase]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

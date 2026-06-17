@@ -3,7 +3,9 @@ type: species
 category: science
 defines: ["Platyhelminthes", "flatworms"]
 related: ["[[nematoda]]", "[[annelida]]"]
+requires: []
 lists: ["[[phyla]]"]
+tour_order: 0
 read: false
 ---
 
@@ -29,6 +31,18 @@ A phylum of bilaterally symmetrical, unsegmented invertebrates known as flatworm
 ## see also
 
 - [[nematoda]] · [[annelida]] · [[mollusca]] · [[arthropoda]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

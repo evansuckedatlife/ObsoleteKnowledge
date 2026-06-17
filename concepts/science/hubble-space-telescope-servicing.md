@@ -3,7 +3,9 @@ type: event
 category: science
 defines: [Hubble Space Telescope Servicing Missions]
 related: ["[[nasa]]", "[[hubble-space-telescope]]", "[[space-shuttle-program]]", "[[astronaut-repair]]"]
+requires: []
 lists: ["[[space-missions]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ A series of five *Space Shuttle* missions (1993–2009) to repair, upgrade, and 
 ## see also
 
 - [[spacex-crs-1]] · [[apollo-soyuz-test-project]] · [[apollo-13]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

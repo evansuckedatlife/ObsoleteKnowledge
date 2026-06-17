@@ -3,11 +3,20 @@ type: term
 category: science
 defines: ["Amino acids", "Amino acid"]
 related: ["[[protein]]", "[[protein-synthesis]]", "[[trna]]", "[[peptide-bond]]", "[[enzyme]]"]
+requires: ["[[protein]]", "[[carbon]]", "[[nitrogen]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Amino Acids
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -68,6 +77,18 @@ Amino acids are the alphabet of protein biochemistry. The discovery that protein
 ## see also
 
 - [[protein]] · [[protein-synthesis]] · [[genetic-code]] · [[enzyme]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

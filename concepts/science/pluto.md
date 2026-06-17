@@ -3,7 +3,9 @@ type: place
 category: science
 defines: [Pluto]
 related: ["[[kuiper-belt]]", "[[eris]]", "[[neptune]]", "[[dwarf-planet]]"]
+requires: []
 lists: ["[[dwarf-planets-comets-and-asteroids]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[halley-comet]] · [[ceres]] · [[vesta]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

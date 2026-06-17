@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Dinosaurs, dinosaur, Dinosauria]
 related: ["[[cretaceous-period]]", "[[mesozoic-era]]", "[[extinction-event]]", "[[theropod]]", "[[sauropod]]", "[[ornithischian]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +37,18 @@ read: false
 ## see also
 
 - [[theropod]] · [[sauropod]] · [[ornithischian]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

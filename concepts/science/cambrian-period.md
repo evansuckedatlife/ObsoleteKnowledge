@@ -3,7 +3,9 @@ type: concept
 category: science
 defines: [Cambrian Period, Cambrian]
 related: ["[[proterozoic-eon]]", "[[ordovician-period]]", "[[cambrian-explosion]]", "[[trilobites]]"]
+requires: []
 lists: ["[[geologic-time-periods]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The **Cambrian Period** (541–485 million years ago) marks the beginning of the
 ## see also
 
 - [[ordovician-period]] · [[cambrian-explosion]] · [[trilobites]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

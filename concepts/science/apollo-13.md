@@ -3,11 +3,20 @@ type: event
 category: science
 defines: [Apollo 13]
 related: ["[[nasa]]", "[[the-moon]]", "[[lunar-landing]]", "[[mission-failure-and-recovery]]"]
+requires: ["[[apollo-program]]"]
 lists: ["[[space-missions]]"]
+tour_order: 2
 read: false
 ---
 
 # Apollo 13
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ A crewed lunar mission launched by *NASA* on April 11, 1970, that suffered a cat
 ## see also
 
 - [[apollo-11]] · [[apollo-1]] · [[voskhod-1]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

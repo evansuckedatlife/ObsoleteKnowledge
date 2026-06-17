@@ -3,7 +3,9 @@ type: element
 category: science
 defines: [Potassium, "K"]
 related: ["[[sodium]]", "[[electrolyte]]", "[[ion]]", "[[nerve-transmission]]", "[[muscle-contraction]]", "[[plant-nutrition]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +37,18 @@ read: false
 ## see also
 
 - [[sodium]] · [[electrolyte]] · [[nerve-transmission]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

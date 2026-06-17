@@ -3,11 +3,20 @@ type: practice
 category: science
 defines: [Northern blotting]
 related: ["[[rna]]", "[[southern-blotting]]", "[[western-blotting]]", "[[gel-electrophoresis]]"]
+requires: ["[[rna]]"]
 lists: ["[[techniques-in-biotechnology]]"]
+tour_order: 2
 read: false
 ---
 
 # Northern Blotting
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[southern-blotting]] · [[western-blotting]] · [[rna]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

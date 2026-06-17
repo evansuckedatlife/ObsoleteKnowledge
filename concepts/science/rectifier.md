@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Rectifier, "bridge rectifier", "full-wave rectifier", "half-wave rectifier"]
 related: ["[[diode]]", "[[transformer]]", "[[power-supply]]", "[[ac-to-dc-conversion]]"]
+requires: ["[[diode]]", "[[transformer]]"]
 lists: ["[[circuit-components]]"]
+tour_order: 1
 read: false
 ---
 
 # Rectifier
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +44,18 @@ A **rectifier** is a circuit that converts alternating current (AC) into direct 
 ## see also
 
 - [[diode]] · [[transformer]] · [[power-supply]] · [[capacitor]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

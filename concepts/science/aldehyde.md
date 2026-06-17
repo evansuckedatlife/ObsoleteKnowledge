@@ -3,11 +3,20 @@ type: concept
 category: science
 defines: ["Aldehyde", "aldehydes"]
 related: ["[[ketone]]", "[[alcohol]]", "[[carboxylic-acid]]"]
+requires: ["[[carbon]]", "[[alcohol]]"]
 lists: ["[[functional-groups]]"]
+tour_order: 2
 read: false
 ---
 
 # Aldehyde
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -30,6 +39,18 @@ An aldehyde is an organic compound containing a carbonyl functional group (C=O) 
 ## see also
 
 - [[carboxylic-acid]] · [[alcohol]] · [[ether]] · [[ketone]] · [[ester]] · [[amine]] · [[amide]] · [[organic-halide]] · [[thiol]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

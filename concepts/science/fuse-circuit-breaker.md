@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Fuse, Circuit breaker, Overcurrent protection]
 related: ["[[resistor]]", "[[current-limiting]]", "[[safety-device]]", "[[thermal-design]]"]
+requires: []
 lists: ["[[circuit-components]]"]
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +37,18 @@ read: false
 ## see also
 
 - [[resistor]] · [[source]] · [[transformer]] · [[power-supply]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: term
 category: science
 defines: ["Beaufort wind force scale", "Beaufort scale"]
 related: ["[[wind]]", "[[wind-speed]]", "[[storm]]", "[[hurricane]]"]
+requires: []
 lists: ["[[scientific-scales]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The **Beaufort wind force scale** ranks wind strength from 0 (calm) to 12+ (hurr
 ## see also
 
 - [[saffir-simpson-scale]] · [[fujita-pearson-scale]] · [[mach-number]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

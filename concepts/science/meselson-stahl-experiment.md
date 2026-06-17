@@ -3,11 +3,20 @@ type: event
 category: science
 defines: ["Meselson–Stahl experiment"]
 related: ["[[dna-replication]]", "[[semi-conservative-replication]]", "[[isotope-labeling]]", "[[dna]]", "[[molecular-biology]]"]
+requires: ["[[dna]]", "[[dna-replication]]"]
 lists: ["[[scientific-experiments]]"]
+tour_order: 3
 read: false
 ---
 
 # Meselson–Stahl Experiment
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ In 1958, *Matthew Meselson* and *Franklin Stahl* grew bacteria in a medium conta
 ## see also
 
 - [[hershey-chase-experiment]] · [[mendel-pea-plant-experiments]] · [[miller-urey-experiment]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

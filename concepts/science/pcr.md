@@ -3,11 +3,20 @@ type: practice
 category: science
 defines: [PCR, "polymerase chain reaction"]
 related: ["[[dna]]", "[[dna-polymerase]]", "[[thermal-cycler]]", "[[primer]]"]
+requires: ["[[dna]]", "[[enzyme]]"]
 lists: ["[[techniques-in-biotechnology]]"]
+tour_order: 2
 read: false
 ---
 
 # PCR (Polymerase Chain Reaction)
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ read: false
 ## see also
 
 - [[gel-electrophoresis]] · [[dna-sequencing]] · [[molecular-cloning]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: concept
 category: science
 defines: ["Grignard reaction", "Grignard reagent", "Grignard reagents", "Grignard reactions"]
 related: ["[[organic-halide]]", "[[alcohol]]", "[[ketone]]", "[[aldehyde]]"]
+requires: []
 lists: ["[[organic-reactions]]"]
+tour_order: 0
 read: false
 ---
 
@@ -46,6 +48,18 @@ The Grignard reaction is the premier carbon-carbon bond-forming method in synthe
 ## see also
 
 - [[diels-alder-reaction]] · [[nucleophilic-substitution]] · [[elimination-reaction]] · [[electrophilic-addition]] · [[esterification]] · [[friedel-crafts-reaction]] · [[aldol-condensation]] · [[saponification]] · [[ozonolysis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

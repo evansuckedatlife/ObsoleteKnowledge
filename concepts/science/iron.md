@@ -3,7 +3,9 @@ type: element
 category: science
 defines: ["Iron", "Fe"]
 related: ["[[carbon]]", "[[oxygen]]", "[[nickel]]", "[[copper]]"]
+requires: []
 lists: ["[[chemical-elements]]"]
+tour_order: 0
 read: false
 ---
 
@@ -48,6 +50,18 @@ Iron is the metal that forged modern civilization and powers planetary magnetism
 ## see also
 
 - [[helium]] · [[carbon]] · [[nitrogen]] · [[oxygen]] · [[sodium]] · [[copper]] · [[gold]] · [[mercury]] · [[uranium]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

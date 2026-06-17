@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Inductor, "inductive coil"]
 related: ["[[capacitor]]", "[[magnetic-field]]", "[[inductance]]", "[[transformer]]"]
+requires: []
 lists: ["[[circuit-components]]"]
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +37,18 @@ An **inductor** is a two-terminal passive component that stores electrical energ
 ## see also
 
 - [[capacitor]] · [[transformer]] · [[resistor]] · [[filter-circuit]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: practice
 category: science
 defines: ["Recrystallization", "fractional crystallization"]
 related: ["[[filtration]]", "[[carbon]]"]
+requires: ["[[filtration]]"]
 lists: ["[[chemistry-lab-techniques]]"]
+tour_order: 1
 read: false
 ---
 
 # Recrystallization
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -30,6 +39,18 @@ Recrystallization is a chemical purification technique used to dissolve an impur
 ## see also
 
 - [[chromatography]] · [[distillation]] · [[titration]] · [[calorimetry]] · [[spectroscopy]] · [[filtration]] · [[centrifugation]] · [[pipetting]] · [[electrolysis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

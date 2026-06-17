@@ -3,11 +3,20 @@ type: event
 category: science
 defines: ["Rutherford gold-foil experiment", "Rutherford scattering experiment"]
 related: ["[[nucleus]]", "[[atom]]", "[[alpha-particle]]", "[[atomic-structure]]", "[[rutherford-backscattering]]"]
+requires: ["[[nucleus]]"]
 lists: ["[[scientific-experiments]]"]
+tour_order: 2
 read: false
 ---
 
 # Rutherford Gold-Foil Experiment
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ In 1909, *Ernest Rutherford*, *Hans Geiger*, and *Ernest Marsden* bombarded thin
 ## see also
 
 - [[millikan-oil-drop-experiment]] · [[stern-gerlach-experiment]] · [[davisson-germer-experiment]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

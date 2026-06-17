@@ -3,7 +3,9 @@ type: concept
 category: science
 defines: ["Nucleophilic substitution", "nucleophilic substitutions", "SN1", "SN2"]
 related: ["[[organic-halide]]", "[[elimination-reaction]]", "[[alcohol]]"]
+requires: []
 lists: ["[[organic-reactions]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Nucleophilic substitution is a fundamental class of organic reactions where an e
 ## see also
 
 - [[grignard-reaction]] · [[diels-alder-reaction]] · [[elimination-reaction]] · [[electrophilic-addition]] · [[esterification]] · [[friedel-crafts-reaction]] · [[aldol-condensation]] · [[saponification]] · [[ozonolysis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

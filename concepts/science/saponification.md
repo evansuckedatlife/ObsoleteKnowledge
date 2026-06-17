@@ -3,11 +3,20 @@ type: concept
 category: science
 defines: ["Saponification", "saponifications"]
 related: ["[[ester]]", "[[sodium]]", "[[potassium]]"]
+requires: ["[[ester]]"]
 lists: ["[[organic-reactions]]"]
+tour_order: 1
 read: false
 ---
 
 # Saponification
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -30,6 +39,18 @@ Saponification is an organic chemical reaction that hydrolyzes an ester under ba
 ## see also
 
 - [[grignard-reaction]] · [[diels-alder-reaction]] · [[nucleophilic-substitution]] · [[elimination-reaction]] · [[electrophilic-addition]] · [[esterification]] · [[friedel-crafts-reaction]] · [[aldol-condensation]] · [[ozonolysis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

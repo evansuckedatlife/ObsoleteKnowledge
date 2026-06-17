@@ -3,7 +3,9 @@ type: term
 category: science
 defines: ["Mach number", "Mach"]
 related: ["[[speed-of-sound]]", "[[supersonic]]", "[[aerodynamics]]"]
+requires: []
 lists: ["[[scientific-scales]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[decibel-scale]] · [[richter-scale]] · [[beaufort-wind-force-scale]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

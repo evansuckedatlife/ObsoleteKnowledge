@@ -2,8 +2,10 @@
 type: event
 category: science
 defines: [Sputnik 1, first artificial satellite]
-related: ["[[soviet-space-program]]", "[[space-race]]", "[[artificial-satellite]]", "[[cold-war]]"]
+related: ["[[soviet-space-program]]", "[[space-race]]", "[[artificial-satellite]]", "[[cold-war]]", "[[soviet-union]]"]
+requires: []
 lists: ["[[space-missions]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ The first artificial satellite, launched by the *Soviet Union* on October 4, 195
 ## see also
 
 - [[vostok-1]] · [[apollo-11]] · [[space-race]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

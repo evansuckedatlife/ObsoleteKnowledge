@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Recursion, recursive]
 related: ["[[algorithm]]", "[[divide-and-conquer]]", "[[dynamic-programming]]"]
+requires: ["[[algorithm]]", "[[divide-and-conquer]]"]
 lists: ["[[programming-terms]]"]
+tour_order: 7
 read: false
 ---
 
 # Recursion
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -52,6 +61,18 @@ Recursion is central to computer science education because it embodies two profo
 ## see also
 
 - [[divide-and-conquer]] · [[dynamic-programming]] · [[tree-data-structure]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

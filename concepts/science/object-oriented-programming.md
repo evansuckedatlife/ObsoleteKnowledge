@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Object-oriented programming, OOP, object-oriented]
 related: ["[[programming-language]]", "[[functional-programming]]", "[[type-system]]"]
+requires: []
 lists: ["[[programming-terms]]"]
+tour_order: 0
 read: false
 ---
 
@@ -58,6 +60,18 @@ OOP dominated software engineering for 30+ years and remains the paradigm of cho
 ## see also
 
 - [[functional-programming]] · [[programming-language]] · [[type-system]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Water, "H₂O"]
 related: ["[[hydrogen]]", "[[oxygen]]", "[[photosynthesis]]", "[[polarity]]", "[[hydrogen-bond]]", "[[solvent]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +37,18 @@ read: false
 ## see also
 
 - [[hydrogen]] · [[oxygen]] · [[photosynthesis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

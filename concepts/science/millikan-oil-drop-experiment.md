@@ -3,11 +3,20 @@ type: event
 category: science
 defines: ["Millikan oil-drop experiment", "Robert Millikan experiment"]
 related: ["[[electron]]", "[[charge]]", "[[quantisation]]", "[[electric-field]]"]
+requires: ["[[quantization]]"]
 lists: ["[[scientific-experiments]]"]
+tour_order: 2
 read: false
 ---
 
 # Millikan Oil-Drop Experiment
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ Between 1909 and 1916, *Robert Millikan* sprayed tiny oil droplets into an *elec
 ## see also
 
 - [[rutherford-gold-foil-experiment]] · [[stern-gerlach-experiment]] · [[davisson-germer-experiment]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

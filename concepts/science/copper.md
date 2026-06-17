@@ -3,7 +3,9 @@ type: element
 category: science
 defines: ["Copper", "Cu"]
 related: ["[[iron]]", "[[gold]]", "[[zinc]]"]
+requires: []
 lists: ["[[chemical-elements]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Copper is a soft, malleable, and ductile transition metal with exceptionally hig
 ## see also
 
 - [[helium]] · [[carbon]] · [[nitrogen]] · [[oxygen]] · [[sodium]] · [[iron]] · [[gold]] · [[mercury]] · [[uranium]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: event
 category: science
 defines: ["Davisson–Germer experiment"]
 related: ["[[de-broglie-wavelength]]", "[[wave-particle-duality]]", "[[electron-diffraction]]", "[[crystal-lattice]]"]
+requires: ["[[wave-particle-duality]]"]
 lists: ["[[scientific-experiments]]"]
+tour_order: 2
 read: false
 ---
 
 # Davisson–Germer Experiment
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ In 1927, *Clinton Davisson* and *Lester Germer* fired a beam of electrons at a n
 ## see also
 
 - [[double-slit-experiment]] · [[stern-gerlach-experiment]] · [[michelson-morley-experiment]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

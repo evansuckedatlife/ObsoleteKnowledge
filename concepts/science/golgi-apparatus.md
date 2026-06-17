@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Golgi apparatus, Golgi body]
 related: ["[[endoplasmic-reticulum]]", "[[protein-synthesis]]", "[[lysosome]]"]
+requires: []
 lists: ["[[organelles]]"]
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +41,18 @@ The Golgi apparatus represents a specialization of the secretory pathway, allowi
 ## see also
 
 - [[endoplasmic-reticulum]] · [[lysosome]] · [[vacuole]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

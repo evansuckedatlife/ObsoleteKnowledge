@@ -3,7 +3,9 @@ type: element
 category: science
 defines: ["Mercury", "Hg", "quicksilver"]
 related: ["[[gold]]", "[[oxygen]]", "[[sodium]]"]
+requires: []
 lists: ["[[chemical-elements]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Mercury is a heavy, silvery transition metal that is the only metal that remains
 ## see also
 
 - [[helium]] · [[carbon]] · [[nitrogen]] · [[oxygen]] · [[sodium]] · [[iron]] · [[copper]] · [[gold]] · [[uranium]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

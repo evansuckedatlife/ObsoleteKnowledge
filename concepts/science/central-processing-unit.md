@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [CPU, central processing unit]
 related: ["[[motherboard]]", "[[isa-interface]]", "[[clock-speed]]"]
+requires: ["[[algorithm]]", "[[compiler]]"]
 lists: ["[[computer-components]]"]
+tour_order: 7
 read: false
 ---
 
 # CPU
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +44,18 @@ The **CPU** (central processing unit) is the primary computational engine of a c
 ## see also
 
 - [[motherboard]] · [[ram]] · [[graphics-card]] · [[power-supply-unit]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

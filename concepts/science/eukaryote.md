@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Eukaryote, eukaryotic]
 related: ["[[prokaryote]]", "[[nucleus]]", "[[mitochondria]]", "[[cell]]", "[[dna]]", "[[organelle]]"]
+requires: ["[[cell]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Eukaryote
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -68,6 +77,18 @@ Eukaryotes represent a quantum leap in biological complexity. The compartmentali
 ## see also
 
 - [[prokaryote]] · [[nucleus]] · [[cell]] · [[mitochondria]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

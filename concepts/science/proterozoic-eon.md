@@ -3,7 +3,9 @@ type: concept
 category: science
 defines: [Proterozoic Eon, Proterozoic]
 related: ["[[archean-eon]]", "[[cambrian-period]]", "[[great-oxidation-event]]", "[[snowball-earth]]", "[[multicellular-life]]"]
+requires: []
 lists: ["[[geologic-time-periods]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The **Proterozoic Eon** (2.5 billion–541 million years ago) saw the rise of ox
 ## see also
 
 - [[archean-eon]] · [[cambrian-period]] · [[snowball-earth]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

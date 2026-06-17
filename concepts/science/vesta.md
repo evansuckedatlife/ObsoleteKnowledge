@@ -3,7 +3,9 @@ type: place
 category: science
 defines: [Vesta]
 related: ["[[asteroid-belt]]", "[[ceres]]", "[[basaltic]]", "[[giant-impact]]"]
+requires: []
 lists: ["[[dwarf-planets-comets-and-asteroids]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[ceres]] · [[pluto]] · [[asteroid-belt]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

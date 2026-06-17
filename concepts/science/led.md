@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [LED, "light-emitting diode"]
 related: ["[[diode]]", "[[electroluminescence]]", "[[photon-emission]]", "[[current-limiting]]"]
+requires: []
 lists: ["[[circuit-components]]"]
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +37,18 @@ An **LED** (light-emitting diode) is a semiconductor diode that emits light when
 ## see also
 
 - [[diode]] · [[resistor]] · [[source]] · [[photodiode]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

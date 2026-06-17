@@ -3,11 +3,20 @@ type: concept
 category: science
 defines: ["Operator (quantum mechanics)", "operator"]
 related: ["[[eigenvalue]]", "[[hamiltonian]]", "[[commutator]]"]
+requires: ["[[quantum-mechanics]]"]
 lists: ["[[quantum-mechanics-concepts]]"]
+tour_order: 1
 read: false
 ---
 
 # Operator (quantum mechanics)
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +49,18 @@ Operators formalize the correspondence between mathematical objects (wavefunctio
 ## see also
 
 - [[quantization]] · [[hilbert-space]] · [[werner-heisenberg]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,12 +2,21 @@
 type: person
 category: science
 defines: ["Albert Einstein"]
-related: ["[[max-planck]]", "[[niels-bohr]]", "[[louis-de-broglie]]", "[[werner-heisenberg]]"]
+related: ["[[max-planck]]", "[[niels-bohr]]", "[[louis-de-broglie]]", "[[werner-heisenberg]]", "[[manhattan-project]]", "[[cold-war]]"]
+requires: ["[[quantum-mechanics]]"]
 lists: ["[[20th-century-physicists]]"]
+tour_order: 1
 read: false
 ---
 
 # Albert Einstein
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -46,6 +55,18 @@ Albert Einstein's work dismantled the classical Newtonian framework that had dom
 ## see also
 
 - [[max-planck]] · [[niels-bohr]] · [[louis-de-broglie]] · [[werner-heisenberg]] · [[erwin-schrodinger]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

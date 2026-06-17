@@ -3,11 +3,20 @@ type: term
 category: science
 defines: ["Cas9", "CRISPR-Cas9"]
 related: ["[[crispr]]", "[[dna]]"]
+requires: ["[[dna]]", "[[protein]]"]
 lists: ["[[enzymes]]"]
+tour_order: 1
 read: false
 ---
 
 # Cas9
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +47,18 @@ Cas9 revolutionized genetic engineering by providing a programmable, precise, an
 ## see also
 
 - [[crispr]] · [[restriction-enzyme]] · [[dna]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

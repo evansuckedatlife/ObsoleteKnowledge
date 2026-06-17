@@ -3,11 +3,20 @@ type: concept
 category: science
 defines: ["Bose–Einstein condensate", "BEC"]
 related: ["[[boson]]", "[[quantum-operator]]", "[[superposition]]"]
+requires: ["[[quantum-mechanics]]", "[[boson]]"]
 lists: ["[[quantum-mechanics-concepts]]"]
+tour_order: 3
 read: false
 ---
 
 # Bose–Einstein condensate
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +49,18 @@ Albert Einstein and Satyendra Nath Bose predicted the possibility of this state 
 ## see also
 
 - [[quantization]] · [[fermion]] · [[albert-einstein]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

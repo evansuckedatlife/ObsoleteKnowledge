@@ -3,7 +3,9 @@ type: place
 category: science
 defines: [Hale-Bopp, Comet Hale-Bopp]
 related: ["[[comet]]", "[[oort-cloud]]", "[[naked-eye]]"]
+requires: []
 lists: ["[[dwarf-planets-comets-and-asteroids]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ read: false
 ## see also
 
 - [[halley-comet]] · [[comet-shoemaker-levy-9]] · [[pluto]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

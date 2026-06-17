@@ -3,7 +3,9 @@ type: place
 category: science
 defines: [Deimos]
 related: ["[[mars]]", "[[phobos]]", "[[retrograde-orbit]]"]
+requires: []
 lists: ["[[moons]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[phobos]] · [[earth-moon]] · [[triton]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

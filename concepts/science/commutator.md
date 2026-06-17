@@ -3,12 +3,11 @@ type: concept
 category: science
 defines:
   - Commutator
-related:
-  - "[[quantum-operator]]"
-  - "[[uncertainty-principle]]"
-  - "[[eigenvalue]]"
+related: ["[[quantum-operator]]", "[[uncertainty-principle]]", "[[eigenvalue]]"]
+requires: []
 lists:
   - "[[quantum-mechanics-concepts]]"
+tour_order: 0
 read: true
 ---
 
@@ -45,6 +44,18 @@ Commutators are central to the structure of quantum mechanics, encoding the non-
 ## see also
 
 - [[quantization]] · [[hilbert-space]] · [[werner-heisenberg]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

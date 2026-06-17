@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Op-amp, "operational amplifier"]
 related: ["[[amplifier]]", "[[feedback-control]]", "[[filter-circuit]]", "[[analog-computation]]"]
+requires: []
 lists: ["[[circuit-components]]"]
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +37,18 @@ An **op-amp** (operational amplifier) is an integrated circuit containing a high
 ## see also
 
 - [[resistor]] · [[capacitor]] · [[amplifier]] · [[filter-circuit]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

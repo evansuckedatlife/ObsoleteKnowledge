@@ -3,7 +3,9 @@ type: place
 category: science
 defines: ["Mount Pinatubo"]
 related: ["[[krakatoa]]", "[[mount-tambora]]"]
+requires: []
 lists: ["[[active-volcanoes]]"]
+tour_order: 0
 read: false
 ---
 
@@ -29,6 +31,18 @@ Located on the island of Luzon in the Philippines, **Mount Pinatubo** is an acti
 ## see also
 
 - [[krakatoa]] · [[mount-tambora]] · [[mount-pelee]] · [[mount-saint-helens]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

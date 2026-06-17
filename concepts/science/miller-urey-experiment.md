@@ -3,7 +3,9 @@ type: event
 category: science
 defines: ["Miller–Urey experiment"]
 related: ["[[prebiotic-chemistry]]", "[[amino-acid]]", "[[early-earth-atmosphere]]", "[[abiogenesis]]", "[[organic-chemistry]]"]
+requires: []
 lists: ["[[scientific-experiments]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ In 1952, *Stanley Miller* and *Harold Urey* simulated the *early Earth's atmosph
 ## see also
 
 - [[hershey-chase-experiment]] · [[meselson-stahl-experiment]] · [[mendel-pea-plant-experiments]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

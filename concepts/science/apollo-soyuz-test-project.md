@@ -2,12 +2,21 @@
 type: event
 category: science
 defines: [Apollo-Soyuz Test Project]
-related: ["[[nasa]]", "[[soviet-space-program]]", "[[space-race]]", "[[cold-war-cooperation]]"]
+related: ["[[nasa]]", "[[soviet-space-program]]", "[[space-race]]", "[[cold-war-cooperation]]", "[[cold-war]]"]
+requires: ["[[apollo-program]]", "[[soviet-union]]"]
 lists: ["[[space-missions]]"]
+tour_order: 2
 read: false
 ---
 
 # Apollo-Soyuz Test Project
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ A symbolic crewed space mission flown in July 1975 by the *United States* and *S
 ## see also
 
 - [[apollo-11]] · [[vostok-1]] · [[space-shuttle-challenger]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Algorithm, algo]
 related: ["[[recursion]]", "[[divide-and-conquer]]", "[[greedy-algorithm]]", "[[big-o-notation]]"]
+requires: ["[[logic]]"]
 lists: ["[[programming-terms]]"]
+tour_order: 5
 read: false
 ---
 
 # Algorithm
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -53,6 +62,18 @@ Algorithms are the vocabulary of computer science. Every practical problem—rou
 ## see also
 
 - [[binary-search]] · [[sorting-algorithm]] · [[big-o-notation]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

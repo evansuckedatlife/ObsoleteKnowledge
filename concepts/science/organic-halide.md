@@ -3,7 +3,9 @@ type: concept
 category: science
 defines: ["Organic Halide", "alkyl halide", "haloalkane", "organic halides", "alkyl halides"]
 related: ["[[alcohol]]", "[[ether]]", "[[chlorine]]"]
+requires: []
 lists: ["[[functional-groups]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ An organic halide (commonly called a haloalkane or alkyl halide) is an organic c
 ## see also
 
 - [[carboxylic-acid]] · [[alcohol]] · [[ether]] · [[aldehyde]] · [[ketone]] · [[ester]] · [[amine]] · [[amide]] · [[thiol]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

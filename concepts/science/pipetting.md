@@ -3,7 +3,9 @@ type: practice
 category: science
 defines: ["Pipetting", "pipette"]
 related: ["[[titration]]", "[[chromatography]]"]
+requires: []
 lists: ["[[chemistry-lab-techniques]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Pipetting is a fundamental laboratory technique used to measure and transfer a p
 ## see also
 
 - [[chromatography]] · [[distillation]] · [[titration]] · [[calorimetry]] · [[spectroscopy]] · [[filtration]] · [[centrifugation]] · [[recrystallization]] · [[electrolysis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

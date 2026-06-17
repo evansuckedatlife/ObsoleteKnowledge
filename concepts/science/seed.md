@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Seed, seeds]
 related: ["[[plant]]", "[[cotyledon]]", "[[embryo]]", "[[photosynthesis]]", "[[plant-reproduction]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ A *seed* is the reproductive unit of a flowering plant (angiosperm) or conifer (
 ## see also
 
 - [[cotyledon]] · [[plant]] · [[plant-reproduction]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

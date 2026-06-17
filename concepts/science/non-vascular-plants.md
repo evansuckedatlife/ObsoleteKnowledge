@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Non-vascular plants, "non-vascular plants", "non-vascular", bryophytes]
 related: ["[[vascular-plants]]", "[[bryophytes]]", "[[xylem]]", "[[phloem]]", "[[rhizoid]]"]
+requires: []
 lists: ["[[plant-distinctions]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[vascular-plants]] · [[bryophytes]] · [[pterophytes]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

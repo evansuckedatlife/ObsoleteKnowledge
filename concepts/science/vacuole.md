@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Vacuole]
 related: ["[[chloroplast]]", "[[cell-membrane]]", "[[lysosome]]"]
+requires: ["[[cell]]"]
 lists: ["[[organelles]]"]
+tour_order: 1
 read: false
 ---
 
 # Vacuole
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +48,18 @@ The plant vacuole represents a distinctive cellular adaptation enabling large ce
 ## see also
 
 - [[cell]] · [[chloroplast]] · [[lysosome]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

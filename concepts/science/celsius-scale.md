@@ -3,7 +3,9 @@ type: term
 category: science
 defines: ["Celsius scale", "centigrade scale"]
 related: ["[[kelvin-scale]]", "[[fahrenheit-scale]]", "[[temperature]]"]
+requires: []
 lists: ["[[scientific-scales]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The **Celsius scale** is a practical temperature scale where 0 °C is the freezi
 ## see also
 
 - [[kelvin-scale]] · [[fahrenheit-scale]] · [[richter-scale]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

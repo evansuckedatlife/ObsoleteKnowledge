@@ -3,11 +3,20 @@ type: term
 category: science
 defines: ["RNA polymerase"]
 related: ["[[transcription]]", "[[rna]]"]
+requires: ["[[rna]]", "[[dna]]"]
 lists: ["[[enzymes]]"]
+tour_order: 2
 read: false
 ---
 
 # RNA polymerase
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +49,18 @@ Transcription is the first step of gene expression—converting genetic instruct
 ## see also
 
 - [[dna-polymerase]] · [[reverse-transcriptase]] · [[transcription]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Photosynthesis, photosynthetic]
 related: ["[[chloroplast]]", "[[rubisco]]", "[[catalase]]", "[[water]]", "[[hydrogen]]", "[[active-site]]"]
+requires: ["[[chloroplast]]"]
 lists: []
+tour_order: 2
 read: false
 ---
 
 # Photosynthesis
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -58,6 +67,18 @@ Photosynthesis is a cornerstone of ecology and evolution: it literally transform
 ## see also
 
 - [[chloroplast]] · [[rubisco]] · [[catalase]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: concept
 category: science
 defines: [Carboniferous Period, Carboniferous]
 related: ["[[devonian-period]]", "[[permian-period]]", "[[coal-forests]]", "[[synapsids]]", "[[amphibians]]"]
+requires: ["[[cenozoic-era]]", "[[devonian-period]]"]
 lists: ["[[geologic-time-periods]]"]
+tour_order: 1
 read: false
 ---
 
 # Carboniferous Period
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ The **Carboniferous Period** (359–299 million years ago) was the age of vast s
 ## see also
 
 - [[devonian-period]] · [[permian-period]] · [[synapsids]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

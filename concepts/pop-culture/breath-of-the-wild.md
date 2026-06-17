@@ -9,7 +9,7 @@ related:
   - "[[grand-theft-auto-v]]"
 lists:
   - "[[sandbox-and-open-world-video-games]]"
-read: false
+read: true
 ---
 
 # The Legend of Zelda: Breath of the Wild

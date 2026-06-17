@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Feldspar]
 related: ["[[quartz]]", "[[granite]]", "[[mica]]", "[[silicate]]", "[[mohs-scale]]"]
+requires: []
 lists: ["[[rocks-and-minerals]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[quartz]] · [[granite]] · [[basalt]] · [[mica]] · [[limestone]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

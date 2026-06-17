@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [HDD, hard disk drive, hard drive]
 related: ["[[solid-state-drive]]", "[[motherboard]]", "[[mechanical-storage]]"]
+requires: []
 lists: ["[[computer-components]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ A **hard disk drive** (HDD) is a rotating-platter storage device that uses elect
 ## see also
 
 - [[solid-state-drive]] · [[motherboard]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

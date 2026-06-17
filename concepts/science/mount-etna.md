@@ -3,7 +3,9 @@ type: place
 category: science
 defines: ["Mount Etna", "Etna", "Mongibello"]
 related: ["[[vesuvius]]", "[[zeus]]", "[[typhon]]"]
+requires: []
 lists: ["[[active-volcanoes]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Located on the east coast of Sicily, Italy, **Mount Etna** is the highest active
 ## see also
 
 - [[vesuvius]] · [[mount-cotopaxi]] · [[mount-erebus]] · [[mauna-loa]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: concept
 category: science
 defines: ["Ketone", "ketones"]
 related: ["[[aldehyde]]", "[[alcohol]]", "[[organic-reactions]]"]
+requires: []
 lists: ["[[functional-groups]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ A ketone is an organic compound characterized by a carbonyl functional group (C=
 ## see also
 
 - [[carboxylic-acid]] · [[alcohol]] · [[ether]] · [[aldehyde]] · [[ester]] · [[amine]] · [[amide]] · [[organic-halide]] · [[thiol]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

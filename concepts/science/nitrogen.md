@@ -3,7 +3,9 @@ type: element
 category: science
 defines: ["Nitrogen", "N"]
 related: ["[[carbon]]", "[[oxygen]]", "[[hydrogen]]"]
+requires: []
 lists: ["[[chemical-elements]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Nitrogen is a nonmetallic element that forms a colorless, odorless, tasteless, a
 ## see also
 
 - [[helium]] · [[carbon]] · [[oxygen]] · [[sodium]] · [[iron]] · [[copper]] · [[gold]] · [[mercury]] · [[uranium]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

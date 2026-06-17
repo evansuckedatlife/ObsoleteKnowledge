@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Ribosome]
 related: ["[[protein-synthesis]]", "[[endoplasmic-reticulum]]", "[[nucleus]]"]
+requires: ["[[cell]]"]
 lists: ["[[organelles]]"]
+tour_order: 1
 read: false
 ---
 
 # Ribosome
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +48,18 @@ Ribosomes are ancient cellular structures found in all domains of life, suggesti
 ## see also
 
 - [[nucleus]] · [[endoplasmic-reticulum]] · [[protein-synthesis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

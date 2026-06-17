@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Type system, typing, static typing, dynamic typing]
 related: ["[[programming-language]]", "[[compiler]]", "[[object-oriented-programming]]"]
+requires: []
 lists: ["[[programming-terms]]"]
+tour_order: 0
 read: false
 ---
 
@@ -63,6 +65,18 @@ Type systems are a subtle and powerful tool in programming language design. The 
 ## see also
 
 - [[programming-language]] · [[compiler]] · [[object-oriented-programming]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

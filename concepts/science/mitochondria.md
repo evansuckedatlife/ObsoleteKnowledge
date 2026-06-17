@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Mitochondria, mitochondrion]
 related: ["[[cellular-respiration]]", "[[atp]]", "[[eukaryote]]"]
+requires: ["[[cell]]", "[[eukaryote]]"]
 lists: ["[[organelles]]"]
+tour_order: 2
 read: false
 ---
 
 # Mitochondria
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +48,18 @@ The mitochondrial endosymbiotic event fundamentally transformed eukaryotic life 
 ## see also
 
 - [[cellular-respiration]] · [[atp]] · [[chloroplast]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

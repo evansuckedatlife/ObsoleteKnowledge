@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Vascular plants, "vascular plants", "tracheophytes"]
 related: ["[[non-vascular-plants]]", "[[xylem]]", "[[phloem]]", "[[pterophytes]]", "[[gymnosperms]]", "[[angiosperms]]"]
+requires: []
 lists: ["[[plant-distinctions]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[non-vascular-plants]] · [[pterophytes]] · [[gymnosperms]] · [[angiosperms]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

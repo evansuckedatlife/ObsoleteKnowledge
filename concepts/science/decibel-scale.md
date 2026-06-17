@@ -3,7 +3,9 @@ type: term
 category: science
 defines: ["decibel", "dB"]
 related: ["[[sound-intensity]]", "[[logarithmic-scale]]", "[[acoustic-pressure]]"]
+requires: []
 lists: ["[[scientific-scales]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The **decibel** (dB) is a logarithmic unit measuring the ratio of a physical qua
 ## see also
 
 - [[ph-scale]] · [[richter-scale]] · [[scoville-scale]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

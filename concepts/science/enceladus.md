@@ -2,8 +2,10 @@
 type: place
 category: science
 defines: [Enceladus]
-related: ["[[saturn]]", "[[subsurface-ocean]]", "[[cryovolcanism]]", "[[titan]]", "[[astrobiology]]"]
+related: ["[[saturn]]", "[[subsurface-ocean]]", "[[cryovolcanism]]", "[[titan]]", "[[astrobiology]]", "[[space-race]]"]
+requires: []
 lists: ["[[moons]]"]
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +37,18 @@ read: false
 ## see also
 
 - [[titan]] · [[europa]] · [[ganymede]] · [[triton]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

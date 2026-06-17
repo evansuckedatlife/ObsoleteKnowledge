@@ -3,11 +3,20 @@ type: person
 category: science
 defines: ["Niels Bohr", "Niels Henrik David Bohr"]
 related: ["[[albert-einstein]]", "[[werner-heisenberg]]", "[[erwin-schrodinger]]", "[[max-planck]]"]
+requires: ["[[quantum-mechanics]]"]
 lists: ["[[20th-century-physicists]]"]
+tour_order: 1
 read: false
 ---
 
 # Niels Bohr
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -45,6 +54,18 @@ Niels Bohr was the principal architect and philosopher of the early quantum revo
 ## see also
 
 - [[max-planck]] · [[albert-einstein]] · [[werner-heisenberg]] · [[erwin-schrodinger]] · [[louis-de-broglie]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

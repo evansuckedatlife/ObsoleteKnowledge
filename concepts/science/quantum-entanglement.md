@@ -3,11 +3,20 @@ type: concept
 category: science
 defines: [Quantum entanglement, entanglement]
 related: ["[[superposition]]", "[[wavefunction]]", "[[bell-inequality]]"]
+requires: ["[[quantum-mechanics]]"]
 lists: ["[[quantum-mechanics-concepts]]"]
+tour_order: 1
 read: false
 ---
 
 # Quantum entanglement
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +49,18 @@ Entanglement troubled [[albert-einstein]] and colleagues, who sought hidden vari
 ## see also
 
 - [[superposition]] · [[bell-inequality]] · [[quantum-computing]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

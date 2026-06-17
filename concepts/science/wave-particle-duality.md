@@ -3,11 +3,20 @@ type: concept
 category: science
 defines: [Wave-particle duality]
 related: ["[[double-slit-experiment]]", "[[louis-de-broglie]]", "[[planck-constant]]"]
+requires: ["[[quantum-mechanics]]"]
 lists: ["[[quantum-mechanics-concepts]]"]
+tour_order: 1
 read: false
 ---
 
 # Wave-particle duality
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +49,18 @@ The resolution of 19th-century puzzles—blackbody radiation, [[photoelectric-ef
 ## see also
 
 - [[superposition]] · [[double-slit-experiment]] · [[quantization]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

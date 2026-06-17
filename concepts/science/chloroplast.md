@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Chloroplast]
 related: ["[[photosynthesis]]", "[[mitochondria]]", "[[vacuole]]"]
+requires: ["[[cell]]"]
 lists: ["[[organelles]]"]
+tour_order: 1
 read: false
 ---
 
 # Chloroplast
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +48,18 @@ Chloroplasts represent the primary engine of photosynthesis on Earth, responsibl
 ## see also
 
 - [[photosynthesis]] · [[mitochondria]] · [[vacuole]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

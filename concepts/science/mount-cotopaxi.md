@@ -3,7 +3,9 @@ type: place
 category: science
 defines: ["Mount Cotopaxi", "Cotopaxi"]
 related: ["[[vesuvius]]", "[[mount-erebus]]"]
+requires: []
 lists: ["[[active-volcanoes]]"]
+tour_order: 0
 read: false
 ---
 
@@ -29,6 +31,18 @@ An active stratovolcano located in the Andes Mountains of Ecuador, **Mount Cotop
 ## see also
 
 - [[vesuvius]] · [[mount-erebus]] · [[mauna-loa]] · [[mount-etna]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

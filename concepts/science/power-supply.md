@@ -3,7 +3,9 @@ type: term
 category: science
 defines: ["Power Supply", "PSU", "power-supply unit"]
 related: ["[[electricity]]", "[[voltage]]", "[[current-electricity]]", "[[transformer]]", "[[rectifier]]", "[[motherboard]]", "[[cooling]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +38,18 @@ A **power supply** (or PSU—power supply unit) converts incoming alternating cu
 ## see also
 
 - [[voltage]] · [[electricity]] · [[cooling]] · [[cpu]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

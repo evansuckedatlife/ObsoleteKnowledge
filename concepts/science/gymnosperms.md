@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [Gymnosperms, "gymnosperms", conifers, cycads, ginkgos, gnetophytes]
 related: ["[[pterophytes]]", "[[angiosperms]]", "[[seed]]", "[[monocots]]"]
+requires: []
 lists: ["[[plant-distinctions]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[pterophytes]] · [[angiosperms]] · [[seed]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

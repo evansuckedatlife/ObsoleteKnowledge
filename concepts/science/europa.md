@@ -4,6 +4,7 @@ category: science
 defines: [Europa]
 related: ["[[jupiter]]", "[[galilean-moons]]", "[[subsurface-ocean]]", "[[io]]", "[[ganymede]]", "[[callisto]]"]
 lists: ["[[moons]]"]
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +37,18 @@ read: false
 ## see also
 
 - [[io]] · [[ganymede]] · [[callisto]] · [[enceladus]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

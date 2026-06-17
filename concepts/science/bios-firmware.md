@@ -3,7 +3,9 @@ type: term
 category: science
 defines: [BIOS, firmware, UEFI, CMOS]
 related: ["[[motherboard]]", "[[central-processing-unit]]", "[[power-supply-unit]]"]
+requires: []
 lists: ["[[computer-components]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The **BIOS** (Basic Input/Output System) is firmware—a low-level software prog
 ## see also
 
 - [[motherboard]] · [[central-processing-unit]] · [[power-supply-unit]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

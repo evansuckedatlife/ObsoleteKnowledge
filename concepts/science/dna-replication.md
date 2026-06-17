@@ -3,11 +3,20 @@ type: term
 category: science
 defines: ["DNA replication", "semiconservative replication"]
 related: ["[[dna]]", "[[dna-polymerase]]", "[[cell-cycle]]", "[[mitosis]]", "[[dna-helicase]]"]
+requires: ["[[dna]]", "[[enzyme]]"]
 lists: []
+tour_order: 2
 read: false
 ---
 
 # DNA Replication
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -62,6 +71,18 @@ DNA replication is one of the most accurate and complex processes in the cell. I
 ## see also
 
 - [[dna]] · [[dna-polymerase]] · [[cell-cycle]] · [[mutation]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

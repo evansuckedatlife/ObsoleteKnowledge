@@ -3,7 +3,9 @@ type: term
 category: science
 defines: ["Saffir–Simpson scale", "Saffir-Simpson wind scale"]
 related: ["[[hurricane]]", "[[tropical-cyclone]]", "[[wind-speed]]", "[[beaufort-wind-force-scale]]"]
+requires: []
 lists: ["[[scientific-scales]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The **Saffir–Simpson scale** classifies tropical cyclones (hurricanes) into fi
 ## see also
 
 - [[beaufort-wind-force-scale]] · [[fujita-pearson-scale]] · [[storm-surge]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

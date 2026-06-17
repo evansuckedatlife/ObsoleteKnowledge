@@ -3,7 +3,9 @@ type: person
 category: science
 defines: ["George Gamow", "Georgiy Antonovich Gamov"]
 related: ["[[albert-einstein]]", "[[enrico-fermi]]"]
+requires: []
 lists: ["[[20th-century-physicists]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ A Soviet-American theoretical physicist and cosmologist, **George Gamow** was a 
 ## see also
 
 - [[enrico-fermi]] · [[richard-feynman]] · [[albert-einstein]] · [[max-planck]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

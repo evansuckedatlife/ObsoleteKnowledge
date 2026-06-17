@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Angiosperms, "angiosperms", "flowering plants", "flowering plant"]
 related: ["[[gymnosperms]]", "[[monocots]]", "[[dicots]]", "[[seed]]", "[[flower]]"]
+requires: ["[[photosynthesis]]"]
 lists: ["[[plant-distinctions]]"]
+tour_order: 3
 read: false
 ---
 
 # Angiosperms
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +44,18 @@ read: false
 ## see also
 
 - [[gymnosperms]] · [[monocots]] · [[dicots]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

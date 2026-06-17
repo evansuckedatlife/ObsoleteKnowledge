@@ -3,7 +3,9 @@ type: person
 category: science
 defines: [Thomas Hunt Morgan]
 related: ["[[drosophila]]", "[[genetics]]", "[[chromosome-theory]]"]
+requires: []
 lists: ["[[nobel-prize-winners-in-medicine]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ American biologist and embryologist who founded experimental genetics through hi
 ## see also
 
 - [[barbara-mcclintock]] · [[james-watson-and-francis-crick]] · [[paul-ehrlich]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

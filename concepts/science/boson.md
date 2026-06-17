@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Boson]
 related: ["[[fermion]]", "[[gauge-boson]]", "[[higgs-boson]]", "[[photon]]"]
+requires: ["[[standard-model]]"]
 lists: ["[[classes-of-particles]]"]
+tour_order: 2
 read: false
 ---
 
 # Boson
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +49,18 @@ Bosons are the universe's force-carrying mediators. The photon—a massless boso
 ## see also
 
 - [[fermion]] · [[hadron]] · [[standard-model]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,12 +2,21 @@
 type: person
 category: science
 defines: ["Richard Feynman", "Richard Phillips Feynman"]
-related: ["[[albert-einstein]]", "[[enrico-fermi]]"]
+related: ["[[albert-einstein]]", "[[enrico-fermi]]", "[[cold-war]]", "[[manhattan-project]]"]
+requires: ["[[quantum-mechanics]]", "[[manhattan-project]]"]
 lists: ["[[20th-century-physicists]]"]
+tour_order: 2
 read: false
 ---
 
 # Richard Feynman
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ An American theoretical physicist, **Richard Feynman** was one of the most brill
 ## see also
 
 - [[paul-dirac]] · [[enrico-fermi]] · [[werner-heisenberg]] · [[albert-einstein]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

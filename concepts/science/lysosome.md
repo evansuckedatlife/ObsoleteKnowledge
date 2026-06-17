@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [Lysosome]
 related: ["[[golgi-apparatus]]", "[[cell-membrane]]", "[[vacuole]]"]
+requires: ["[[cell]]"]
 lists: ["[[organelles]]"]
+tour_order: 1
 read: false
 ---
 
 # Lysosome
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +48,18 @@ Lysosomes evolved as eukaryotic cells developed the capacity to regulate intrace
 ## see also
 
 - [[golgi-apparatus]] · [[vacuole]] · [[cell-membrane]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

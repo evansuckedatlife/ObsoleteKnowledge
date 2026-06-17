@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [cooling, thermal management, heatsink, fan, liquid cooling]
 related: ["[[central-processing-unit]]", "[[graphics-card]]", "[[power-supply-unit]]", "[[motherboard]]"]
+requires: ["[[cooling]]"]
 lists: ["[[computer-components]]"]
+tour_order: 1
 read: false
 ---
 
 # Cooling
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ read: false
 ## see also
 
 - [[central-processing-unit]] · [[graphics-card]] · [[power-supply-unit]] · [[motherboard]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

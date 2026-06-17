@@ -3,7 +3,9 @@ type: term
 category: science
 defines: ["Cooling System", "heat dissipation", "thermal management", "heatsink", "liquid cooling"]
 related: ["[[thermodynamics]]", "[[power-supply]]", "[[cpu]]", "[[gpu]]", "[[conduction]]", "[[convection]]", "[[radiation-heat]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +38,18 @@ A **cooling system** (or thermal management system) removes excess heat generate
 ## see also
 
 - [[power-supply]] · [[cpu]] · [[thermodynamics]] · [[convection]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

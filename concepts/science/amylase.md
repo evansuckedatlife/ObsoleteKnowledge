@@ -3,11 +3,20 @@ type: term
 category: science
 defines: ["Amylase"]
 related: ["[[catalysis]]", "[[enzyme]]"]
+requires: ["[[enzyme]]"]
 lists: ["[[enzymes]]"]
+tour_order: 2
 read: false
 ---
 
 # Amylase
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +45,18 @@ Amylase exemplifies dietary enzyme adaptation. Herbivores and omnivores rely on 
 ## see also
 
 - [[pepsin]] · [[catalase]] · [[atp-synthase]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

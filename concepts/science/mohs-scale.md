@@ -3,7 +3,9 @@ type: term
 category: science
 defines: ["Mohs scale", "Mohs hardness scale"]
 related: ["[[mineral]]", "[[hardness]]", "[[crystal-structure]]"]
+requires: []
 lists: ["[[scientific-scales]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The **Mohs scale** ranks minerals by hardness from 1 (softest) to 10 (hardest), 
 ## see also
 
 - [[quartz]] · [[feldspar]] · [[talc]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

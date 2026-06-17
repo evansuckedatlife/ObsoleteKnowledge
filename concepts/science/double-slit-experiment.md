@@ -3,11 +3,20 @@ type: event
 category: science
 defines: ["double-slit experiment", "Thomas Young's double-slit experiment"]
 related: ["[[wave-particle-duality]]", "[[quantum-superposition]]", "[[interference]]", "[[photon]]"]
+requires: ["[[quantum-mechanics]]", "[[photon]]"]
 lists: ["[[scientific-experiments]]"]
+tour_order: 3
 read: false
 ---
 
 # Double-Slit Experiment
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[michelson-morley-experiment]] · [[rutherford-gold-foil-experiment]] · [[stern-gerlach-experiment]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: event
 category: science
 defines: ["Stern–Gerlach experiment"]
 related: ["[[spin]]", "[[angular-momentum]]", "[[quantum-measurement]]", "[[magnetic-field]]", "[[quantisation]]"]
+requires: ["[[quantum-mechanics]]"]
 lists: ["[[scientific-experiments]]"]
+tour_order: 1
 read: false
 ---
 
 # Stern–Gerlach Experiment
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ In 1922, *Otto Stern* and *Walther Gerlach* passed a beam of silver atoms throug
 ## see also
 
 - [[double-slit-experiment]] · [[davisson-germer-experiment]] · [[millikan-oil-drop-experiment]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

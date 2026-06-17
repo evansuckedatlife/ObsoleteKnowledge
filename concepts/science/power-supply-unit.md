@@ -3,11 +3,20 @@ type: term
 category: science
 defines: [PSU, power supply unit, power supply]
 related: ["[[motherboard]]", "[[graphics-card]]", "[[central-processing-unit]]", "[[cooling]]"]
+requires: ["[[power-supply]]"]
 lists: ["[[computer-components]]"]
+tour_order: 1
 read: false
 ---
 
 # Power Supply Unit
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +44,18 @@ A **power supply unit** (PSU) is an electrical component that converts alternati
 ## see also
 
 - [[motherboard]] · [[graphics-card]] · [[central-processing-unit]] · [[cooling]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: concept
 category: science
 defines: [Archean Eon, Archean]
 related: ["[[hadean-eon]]", "[[proterozoic-eon]]", "[[earliest-life]]", "[[stromatolites]]"]
+requires: []
 lists: ["[[geologic-time-periods]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ The **Archean Eon** (4.1–2.5 billion years ago) witnessed the formation of Ear
 ## see also
 
 - [[hadean-eon]] · [[proterozoic-eon]] · [[stromatolites]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

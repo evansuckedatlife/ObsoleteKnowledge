@@ -3,7 +3,9 @@ type: term
 category: science
 defines: ["Pauling scale", "electronegativity scale"]
 related: ["[[electronegativity]]", "[[chemical-bond]]", "[[atom]]", "[[polarity]]"]
+requires: []
 lists: ["[[scientific-scales]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The **Pauling scale** quantifies the *electronegativity* of chemical elements—
 ## see also
 
 - [[periodic-table]] · [[chemical-bonding]] · [[fluorine]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

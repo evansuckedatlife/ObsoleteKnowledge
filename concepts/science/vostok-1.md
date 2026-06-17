@@ -3,11 +3,20 @@ type: event
 category: science
 defines: [Vostok 1, Vostok 6]
 related: ["[[soviet-space-program]]", "[[yuri-gagarin]]", "[[space-race]]", "[[first-human-spaceflight]]"]
+requires: ["[[sputnik]]", "[[cold-war]]"]
 lists: ["[[space-missions]]"]
+tour_order: 1
 read: false
 ---
 
 # Vostok 1
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ The first crewed spaceflight, launched by the *Soviet Union* on April 12, 1961, 
 ## see also
 
 - [[apollo-11]] · [[sputnik-1]] · [[voskhod-1]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

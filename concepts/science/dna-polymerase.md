@@ -3,11 +3,20 @@ type: term
 category: science
 defines: ["DNA polymerase"]
 related: ["[[dna-replication]]", "[[dna]]"]
+requires: ["[[enzyme]]", "[[protein]]", "[[dna]]"]
 lists: ["[[enzymes]]"]
+tour_order: 2
 read: false
 ---
 
 # DNA polymerase
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +49,18 @@ DNA replication demands extraordinary accuracy to preserve genetic fidelity acro
 ## see also
 
 - [[rna-polymerase]] · [[reverse-transcriptase]] · [[telomerase]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 
