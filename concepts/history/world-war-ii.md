@@ -1,10 +1,22 @@
 ---
 type: event
 category: history
-defines: ["World War II", "The Second World War"]
-related: ["[[hitler]]", "[[benito-mussolini]]", "[[franklin-d-roosevelt]]", "[[winston-churchill]]", "[[the-holocaust]]", "[[hiroshima-and-nagasaki]]", "[[d-day]]", "[[pearl-harbor]]", "[[the-atomic-bomb]]", "[[the-cold-war]]"]
+defines:
+  - World War II
+  - The Second World War
+related:
+  - "[[hitler]]"
+  - "[[benito-mussolini]]"
+  - "[[franklin-d-roosevelt]]"
+  - "[[winston-churchill]]"
+  - "[[the-holocaust]]"
+  - "[[hiroshima-and-nagasaki]]"
+  - "[[d-day]]"
+  - "[[pearl-harbor]]"
+  - "[[the-atomic-bomb]]"
+  - "[[the-cold-war]]"
 lists: []
-read: false
+read: true
 ---
 
 # World War II

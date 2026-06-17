@@ -9,7 +9,7 @@ related:
   - "[[jim-thorpe]]"
 lists:
   - "[[olympics]]"
-read: false
+read: true
 ---
 
 # 1912 Summer Olympics

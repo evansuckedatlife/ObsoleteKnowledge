@@ -1,7 +1,8 @@
 ---
 type: work
 category: literature
-defines: ["In Cold Blood"]
+defines:
+  - In Cold Blood
 related:
   - "[[truman-capote]]"
   - "[[true-crime]]"
@@ -9,7 +10,7 @@ related:
   - "[[kansas-murders]]"
 lists:
   - "[[works-of-mystery-and-detective-fiction]]"
-read: false
+read: true
 ---
 
 # In Cold Blood

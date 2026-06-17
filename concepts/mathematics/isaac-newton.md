@@ -5,6 +5,7 @@ defines: [Isaac Newton, Newton]
 related: ["[[calculus]]", "[[laws-of-motion]]", "[[universal-gravitation]]", "[[optics]]", "[[leibniz]]"]
 lists: ["[[mathematicians]]"]
 read: false
+aliases: [newton]
 ---
 
 # Isaac Newton

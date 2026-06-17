@@ -5,6 +5,7 @@ defines: [Gottfried Leibniz, Leibniz, Gottfried Wilhelm Leibniz]
 related: ["[[calculus]]", "[[notation]]", "[[logic]]", "[[monad]]", "[[isaac-newton]]"]
 lists: ["[[mathematicians]]"]
 read: false
+aliases: [leibniz]
 ---
 
 # Gottfried Leibniz

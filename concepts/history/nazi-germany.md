@@ -1,10 +1,20 @@
 ---
 type: event
 category: history
-defines: [Nazi Germany, Nazi Regime, Third Reich]
-related: ["[[adolf-hitler]]", "[[world-war-ii]]", "[[holocaust]]", "[[weimar-republic]]", "[[soviet-union]]", "[[fascism]]", "[[the-blitzkrieg]]"]
+defines:
+  - Nazi Germany
+  - Nazi Regime
+  - Third Reich
+related:
+  - "[[adolf-hitler]]"
+  - "[[world-war-ii]]"
+  - "[[holocaust]]"
+  - "[[weimar-republic]]"
+  - "[[soviet-union]]"
+  - "[[fascism]]"
+  - "[[the-blitzkrieg]]"
 lists: []
-read: false
+read: true
 ---
 
 # Nazi Germany

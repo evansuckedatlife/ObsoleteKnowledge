@@ -5,6 +5,7 @@ defines: [Johannes Vermeer, Jan Vermeer]
 related: ["[[rembrandt-van-rijn]]", "[[franz-hals]]", "[[judith-leyster]]", "[[baroque-painters]]"]
 lists: ["[[baroque-painters]]"]
 read: false
+aliases: [vermeer]
 ---
 
 # Johannes Vermeer

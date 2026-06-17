@@ -11,7 +11,7 @@ related:
   - "[[olympic-games]]"
 lists:
   - "[[olympics]]"
-read: false
+read: true
 ---
 
 # 1936 Summer Olympics

@@ -5,6 +5,7 @@ defines: [Leonhard Euler, Euler]
 related: ["[[graph-theory]]", "[[complex-numbers]]", "[[notation]]", "[[calculus]]", "[[euler-characteristic]]"]
 lists: ["[[mathematicians]]"]
 read: false
+aliases: [euler]
 ---
 
 # Leonhard Euler

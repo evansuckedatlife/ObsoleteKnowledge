@@ -9,7 +9,7 @@ related:
   - "[[baron-de-coubertin]]"
 lists:
   - "[[olympics]]"
-read: false
+read: true
 ---
 
 # 1896 Summer Olympics
