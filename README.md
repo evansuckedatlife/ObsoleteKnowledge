@@ -146,9 +146,9 @@ This vault was **authored and maintained with AI assistance** (Claude). Here's h
 - **Content generation:** AI drafts nodes from open sources, adhering strictly to the sourcing rule above.
 - **Validation:** AI checks wikilink integrity, formatting, and dedup across the graph.
 - **No NAQT prose:** AI is explicitly instructed never to fetch, paste, or paraphrase copyrighted NAQT articles. All content is written originally.
-- **Human review:** All AI-generated content is reviewed by the author for accuracy, originality, and compliance.
+- **Human review:** All AI-generated content is in the process of review by me for accuracy, originality, and compliance.
 
-**You can trust this vault's facts** — they're sourced from general knowledge and open references, not from NAQT or unchecked LLM hallucinations. The use of AI is disclosed here for transparency and good faith.
+**You can trust this vault's facts** — they're sourced from general knowledge and open references, not from NAQT or unchecked LLM hallucinations. The use of AI is disclosed here for transparency and good faith. It would be a tremendous undertaking to accumulate a knowledge-base of this size on such a timeline without heavy assistance from AI.
 
 ### Quick authoring workflow
 
