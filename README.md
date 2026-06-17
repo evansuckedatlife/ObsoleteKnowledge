@@ -2,7 +2,7 @@
 
 A personal **knowledge base of (eventually) everything** — an [Obsidian](https://obsidian.md) vault of small, atomic articles ("nodes") woven into a navigable web, with built-in **read-tracking** for active recall practice.
 
-Scope: **187 topics** from NAQT's *[You Gotta Know](https://www.naqt.com/you-gotta-know/)* series, fully built. ~2,000 nodes across 15 categories. All content is **original prose** sourced from general knowledge — NAQT is used only as a topic map, never ingested.
+Scope: 750,000+ words, ~2,000 nodes spanning **187 topics** across 15 categories.
 
 ---
 
@@ -26,7 +26,7 @@ Click **Code** → **Download ZIP** on this repo, then unzip it.
 3. Click **Open folder as vault** and select the `ObsoleteKnowledge` folder.
 4. When prompted about plugins, click **Enable** (to activate the Bases plugin).
 
-### 3. Install community plugins (optional but recommended)
+### 3. Install community plugins (optional but **highly** recommended)
 
 The vault ships with **Bases** enabled, but to use the **Mark read** toggles in node footers, install **Meta Bind**:
 
@@ -40,8 +40,9 @@ The vault ships with **Bases** enabled, but to use the **Mark read** toggles in 
 - Open **`index.md`** to see all 187 topics.
 - Click any **topic list** (e.g., `[[greek-heroes]]`) to jump to that subject.
 - Open a **node** (e.g., `Achilles`) to read about it.
-- Toggle **"Mark read"** at the bottom of each node to track progress.
+- Toggle **"Mark read"** at the bottom or top of each node to track progress.
 - Open the **Graph view** (**Ctrl/Cmd + G**) to visualize the web of knowledge.
+- Use one of countless **tours** to learn a topic area comprehensively, without lacking prerequisites.
 
 ---
 
@@ -56,6 +57,8 @@ Each entity (person, work, event, place, concept, etc.) is one file in `concepts
 - **connections** — links to related nodes (family, rivals, cause/effect)
 - **see also** — peer nodes worth reading next
 - **read toggle** — mark `true` once you've absorbed it
+- **Foundations** Highly recommended prerequisite nodes will be displayed at the head of each node, only if unread
+- **Priority nodes** These 
 
 ### Lists — maps of content
 
@@ -188,9 +191,9 @@ ObsoleteKnowledge/
 
 ## Why this exists
 
-A personal vault for **recall-based learning**. The goal: broad factual command rewarded by quiz bowl, trivia, and a well-furnished mind. Atomic nodes + wikilinked web + read-tracking = knowledge that sticks.
+A personal vault for **recall-based learning**. The goal: broad factual command rewarded by daily life, trivia, and a well-furnished mind. Atomic nodes + wikilinked web + read-tracking = knowledge that sticks.
 
-Inspired by (but adapted from) [*AbsoluteKnowledge*](https://github.com/kieran-mackle/AbsoluteKnowledge) — the skeleton is the same (Obsidian, YAML, wikilinks, read tracking), but the per-node body is reference material instead of concept-chain teaching.
+Heavily inspired by [*Ray Tan's AbsoluteKnowledge*](https://github.com/101011101)
 
 ---
 
