@@ -4,11 +4,11 @@ category: sports
 defines:
   - 1972 Summer Olympics
   - Munich Olympics
-related:
-  - "[[olympic-games]]"
-  - "[[munich-massacre]]"
+related: ["[[olympic-games]]", "[[munich-massacre]]"]
+requires: []
 lists:
   - "[[olympics]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +38,18 @@ The *1972 Summer Olympics* in Munich, West Germany, were overshadowed by the *Mu
 ## see also
 
 - [[1968-mexico-city-olympics]] · [[1980-moscow-olympics]] · [[1984-los-angeles-olympics]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

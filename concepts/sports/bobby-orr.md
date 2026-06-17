@@ -3,12 +3,11 @@ type: person
 category: sports
 defines:
   - Bobby Orr
-related:
-  - "[[boston-bruins]]"
-  - "[[stanley-cup]]"
-  - "[[defenseman]]"
+related: ["[[boston-bruins]]", "[[stanley-cup]]", "[[defenseman]]"]
+requires: []
 lists:
   - "[[hockey-hall-of-famers]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[wayne-gretzky]] · [[gordie-howe]] · [[mario-lemieux]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

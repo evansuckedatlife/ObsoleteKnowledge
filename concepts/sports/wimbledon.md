@@ -2,14 +2,11 @@
 type: event
 category: sports
 defines: [Wimbledon, The Championships, Wimbledon Championships]
-related:
-  - "[[tennis]]"
-  - "[[roger-federer]]"
-  - "[[serena-williams]]"
-  - "[[rod-laver]]"
-  - "[[arthur-ashe]]"
+related: ["[[tennis]]", "[[roger-federer]]", "[[serena-williams]]", "[[rod-laver]]", "[[arthur-ashe]]", "[[england]]"]
+requires: []
 lists:
   - "[[tennis-grand-slams]]"
+tour_order: 0
 read: false
 ---
 
@@ -71,6 +68,18 @@ Wimbledon occupies a unique cultural position in sports — it is not merely a s
 ## see also
 
 - [[australian-open]] · [[french-open]] · [[us-open]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,12 +4,11 @@ category: sports
 defines:
   - Bobby Hull
   - The Golden Jet
-related:
-  - "[[chicago-blackhawks]]"
-  - "[[stanley-cup]]"
-  - "[[nhl-scoring-records]]"
+related: ["[[chicago-blackhawks]]", "[[stanley-cup]]", "[[nhl-scoring-records]]"]
+requires: []
 lists:
   - "[[hockey-hall-of-famers]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ read: false
 ## see also
 
 - [[mauriçe-richard]] · [[gordie-howe]] · [[wayne-gretzky]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

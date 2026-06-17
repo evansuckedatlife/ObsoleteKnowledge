@@ -4,13 +4,11 @@ category: sports
 defines:
   - Philip Rivers
   - Philip Michael Rivers
-related:
-  - "[[san-diego-chargers]]"
-  - "[[los-angeles-chargers]]"
-  - "[[afl-draft]]"
-  - "[[nfl-draft]]"
+related: ["[[san-diego-chargers]]", "[[los-angeles-chargers]]", "[[afl-draft]]", "[[nfl-draft]]"]
+requires: []
 lists:
   - "[[21st-century-quarterbacks]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ read: false
 ## see also
 
 - [[peyton-manning]] · [[tom-brady]] · [[drew-brees]] · [[ben-roethlisberger]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

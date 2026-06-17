@@ -4,13 +4,11 @@ category: sports
 defines:
   - Aaron Rodgers
   - Aaron Charles Rodgers
-related:
-  - "[[green-bay-packers]]"
-  - "[[super-bowl]]"
-  - "[[nfl-draft]]"
-  - "[[tom-brady]]"
+related: ["[[green-bay-packers]]", "[[super-bowl]]", "[[nfl-draft]]", "[[tom-brady]]"]
+requires: []
 lists:
   - "[[21st-century-quarterbacks]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ read: false
 ## see also
 
 - [[tom-brady]] · [[peyton-manning]] · [[drew-brees]] · [[patrick-mahomes]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

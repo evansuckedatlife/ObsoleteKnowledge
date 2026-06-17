@@ -2,14 +2,11 @@
 type: event
 category: sports
 defines: [Australian Open, Australian Championships, Australian Nationals]
-related:
-  - "[[tennis]]"
-  - "[[roger-federer]]"
-  - "[[serena-williams]]"
-  - "[[novak-djokovic]]"
-  - "[[margaret-smith-court]]"
+related: ["[[tennis]]", "[[roger-federer]]", "[[serena-williams]]", "[[novak-djokovic]]", "[[margaret-smith-court]]"]
+requires: []
 lists:
   - "[[tennis-grand-slams]]"
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +39,18 @@ The Australian Open is one of tennis's four Grand Slam tournaments, held annuall
 ## see also
 
 - [[wimbledon]] · [[french-open]] · [[us-open]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,12 +4,11 @@ category: sports
 defines:
   - Phil Mickelson
   - Lefty
-related:
-  - "[[tiger-woods]]"
-  - "[[rory-mcilroy]]"
-  - "[[tom-watson]]"
+related: ["[[tiger-woods]]", "[[rory-mcilroy]]", "[[tom-watson]]"]
+requires: []
 lists:
   - "[[golfers]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[tiger-woods]] · [[rory-mcilroy]] · [[tom-watson]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,11 +4,11 @@ category: sports
 defines:
   - 1912 Summer Olympics
   - Stockholm Olympics
-related:
-  - "[[olympic-games]]"
-  - "[[jim-thorpe]]"
+related: ["[[olympic-games]]", "[[jim-thorpe]]"]
+requires: []
 lists:
   - "[[olympics]]"
+tour_order: 0
 read: true
 ---
 
@@ -38,6 +38,18 @@ The *1912 Summer Olympics* in Stockholm, Sweden, marked a expansion of the Games
 ## see also
 
 - [[1896-athens-olympics]] · [[1936-berlin-olympics]] · [[1968-mexico-city-olympics]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

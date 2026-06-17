@@ -4,13 +4,11 @@ category: sports
 defines:
   - Alex Rodriguez
   - A-Rod
-related:
-  - "[[derek-jeter]]"
-  - "[[mariano-rivera]]"
-  - "[[aaron-judge]]"
-  - "[[the-new-york-yankees]]"
+related: ["[[derek-jeter]]", "[[mariano-rivera]]", "[[aaron-judge]]", "[[the-new-york-yankees]]"]
+requires: []
 lists:
   - "[[new-york-yankees]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[derek-jeter]] · [[mariano-rivera]] · [[aaron-judge]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

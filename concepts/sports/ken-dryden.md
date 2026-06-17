@@ -3,12 +3,11 @@ type: person
 category: sports
 defines:
   - Ken Dryden
-related:
-  - "[[montreal-canadiens]]"
-  - "[[stanley-cup]]"
-  - "[[goaltender]]"
+related: ["[[montreal-canadiens]]", "[[stanley-cup]]", "[[goaltender]]"]
+requires: []
 lists:
   - "[[hockey-hall-of-famers]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[terry-sawchuk]] · [[vladislav-tretiak]] · [[patrick-roy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

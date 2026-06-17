@@ -4,12 +4,11 @@ category: sports
 defines:
   - Gary Player
   - The Black Knight
-related:
-  - "[[jack-nicklaus]]"
-  - "[[arnold-palmer]]"
-  - "[[tom-watson]]"
+related: ["[[jack-nicklaus]]", "[[arnold-palmer]]", "[[tom-watson]]"]
+requires: []
 lists:
   - "[[golfers]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[jack-nicklaus]] · [[arnold-palmer]] · [[tom-watson]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

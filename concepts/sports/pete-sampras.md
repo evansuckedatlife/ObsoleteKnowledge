@@ -4,12 +4,11 @@ category: sports
 defines:
   - Pete Sampras
   - Peter Sampras
-related:
-  - "[[wimbledon]]"
-  - "[[us-open]]"
-  - "[[grand-slam-tournaments]]"
+related: ["[[wimbledon]]", "[[us-open]]", "[[grand-slam-tournaments]]"]
+requires: []
 lists:
   - "[[tennis-players]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[roger-federer]] · [[andre-agassi]] · [[john-mcenroe]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

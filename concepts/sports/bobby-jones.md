@@ -5,12 +5,11 @@ defines:
   - Bobby Jones
   - Robert Tyre Jones
   - Robert Tyre "Bobby" Jones
-related:
-  - "[[walter-hagen]]"
-  - "[[gene-sarazen]]"
-  - "[[arnold-palmer]]"
+related: ["[[walter-hagen]]", "[[gene-sarazen]]", "[[arnold-palmer]]"]
+requires: []
 lists:
   - "[[golfers]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[walter-hagen]] · [[gene-sarazen]] · [[arnold-palmer]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

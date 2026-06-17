@@ -4,13 +4,11 @@ category: sports
 defines:
   - 1968 Summer Olympics
   - Mexico City Olympics
-related:
-  - "[[olympic-games]]"
-  - "[[tommie-smith]]"
-  - "[[john-carlos]]"
-  - "[[black-power-salute]]"
+related: ["[[olympic-games]]", "[[tommie-smith]]", "[[john-carlos]]", "[[black-power-salute]]"]
+requires: []
 lists:
   - "[[olympics]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ The *1968 Summer Olympics* in Mexico City became a watershed moment when African
 ## see also
 
 - [[1936-berlin-olympics]] · [[1972-munich-olympics]] · [[1980-moscow-olympics]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: event
 category: sports
 defines: ["Super Bowl", NFL championship, professional football championship]
 related: ["[[national-football-league]]", "[[american-football]]", "[[tom-brady]]", "[[peyton-manning]]", "[[joe-montana]]", "[[patrick-mahomes]]", "[[sports-broadcasting]]", "[[television-advertising]]", "[[american-culture]]", "[[professional-sports-leagues]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -64,6 +66,18 @@ The Super Bowl transcends sports; it is an American cultural institution. It gre
 ## see also
 
 - [[tom-brady]] · [[peyton-manning]] · [[patrick-mahomes]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

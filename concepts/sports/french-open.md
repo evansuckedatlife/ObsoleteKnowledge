@@ -4,14 +4,11 @@ category: sports
 defines: [French Open, Roland-Garros, French Championships]
 aliases:
   - roland-garros
-related:
-  - "[[tennis]]"
-  - "[[roger-federer]]"
-  - "[[rafael-nadal]]"
-  - "[[serena-williams]]"
-  - "[[chris-evert]]"
+related: ["[[tennis]]", "[[roger-federer]]", "[[rafael-nadal]]", "[[serena-williams]]", "[[chris-evert]]", "[[france]]", "[[paris]]"]
+requires: []
 lists:
   - "[[tennis-grand-slams]]"
+tour_order: 0
 read: false
 ---
 
@@ -44,6 +41,18 @@ The French Open, officially known as Roland-Garros, is one of tennis's four Gran
 ## see also
 
 - [[wimbledon]] · [[australian-open]] · [[us-open]] · [[rafael-nadal]] · [[chris-evert]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

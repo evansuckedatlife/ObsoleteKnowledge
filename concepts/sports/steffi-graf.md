@@ -3,12 +3,11 @@ type: person
 category: sports
 defines:
   - Steffi Graf
-related:
-  - "[[wimbledon]]"
-  - "[[french-open]]"
-  - "[[martina-navratilova]]"
+related: ["[[wimbledon]]", "[[french-open]]", "[[martina-navratilova]]", "[[germany]]"]
+requires: []
 lists:
   - "[[tennis-players]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[martina-navratilova]] · [[chris-evert]] · [[billie-jean-king]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

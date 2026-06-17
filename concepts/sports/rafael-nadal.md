@@ -4,13 +4,11 @@ category: sports
 defines:
   - Rafael Nadal
   - Rafa Nadal
-related:
-  - "[[french-open]]"
-  - "[[roger-federer]]"
-  - "[[novak-djokovic]]"
-  - "[[wimbledon]]"
+related: ["[[french-open]]", "[[roger-federer]]", "[[novak-djokovic]]", "[[wimbledon]]", "[[spain]]"]
+requires: []
 lists:
   - "[[tennis-players]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[roger-federer]] · [[novak-djokovic]] · [[andre-agassi]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

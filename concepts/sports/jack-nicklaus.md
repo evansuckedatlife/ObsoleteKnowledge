@@ -4,13 +4,11 @@ category: sports
 defines:
   - Jack Nicklaus
   - The Golden Bear
-related:
-  - "[[tiger-woods]]"
-  - "[[arnold-palmer]]"
-  - "[[gary-player]]"
-  - "[[tom-watson]]"
+related: ["[[tiger-woods]]", "[[arnold-palmer]]", "[[gary-player]]", "[[tom-watson]]"]
+requires: []
 lists:
   - "[[golfers]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[tiger-woods]] · [[arnold-palmer]] · [[gary-player]] · [[tom-watson]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -5,12 +5,11 @@ defines:
   - 1936 Summer Olympics
   - Berlin Olympics
   - Nazi Olympics
-related:
-  - "[[jesse-owens]]"
-  - "[[nazi-germany]]"
-  - "[[olympic-games]]"
+related: ["[[jesse-owens]]", "[[nazi-germany]]", "[[olympic-games]]"]
+requires: []
 lists:
   - "[[olympics]]"
+tour_order: 0
 read: true
 ---
 
@@ -40,6 +39,18 @@ The *1936 Summer Olympics* in Berlin were seized by Nazi Germany as propaganda f
 ## see also
 
 - [[1896-athens-olympics]] · [[1912-stockholm-olympics]] · [[1968-mexico-city-olympics]] · [[1972-munich-olympics]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

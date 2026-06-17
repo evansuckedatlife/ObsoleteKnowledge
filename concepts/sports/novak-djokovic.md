@@ -4,13 +4,11 @@ category: sports
 defines:
   - Novak Djokovic
   - Novak Djokovic
-related:
-  - "[[roger-federer]]"
-  - "[[rafael-nadal]]"
-  - "[[australian-open]]"
-  - "[[wimbledon]]"
+related: ["[[roger-federer]]", "[[rafael-nadal]]", "[[australian-open]]", "[[wimbledon]]"]
+requires: []
 lists:
   - "[[tennis-players]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[roger-federer]] · [[rafael-nadal]] · [[pete-sampras]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

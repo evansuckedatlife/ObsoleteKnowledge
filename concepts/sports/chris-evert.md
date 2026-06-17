@@ -4,12 +4,11 @@ category: sports
 defines:
   - Chris Evert
   - Christine Evert Lloyd
-related:
-  - "[[french-open]]"
-  - "[[martina-navratilova]]"
-  - "[[billie-jean-king]]"
+related: ["[[french-open]]", "[[martina-navratilova]]", "[[billie-jean-king]]"]
+requires: []
 lists:
   - "[[tennis-players]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[martina-navratilova]] · [[billie-jean-king]] · [[steffi-graf]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

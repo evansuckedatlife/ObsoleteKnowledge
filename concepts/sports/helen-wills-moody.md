@@ -5,12 +5,11 @@ defines:
   - Helen Wills Moody
   - Helen Wills
   - Helen Roark Wills Moody
-related:
-  - "[[wimbledon]]"
-  - "[[us-open]]"
-  - "[[1920s-sports]]"
+related: ["[[wimbledon]]", "[[us-open]]", "[[1920s-sports]]", "[[united-states]]"]
+requires: []
 lists:
   - "[[tennis-players]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[billie-jean-king]] · [[margaret-smith-court]] · [[chris-evert]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

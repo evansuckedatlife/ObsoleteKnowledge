@@ -4,13 +4,11 @@ category: sports
 defines:
   - Tiger Woods
   - Eldrick Tont Woods
-related:
-  - "[[jack-nicklaus]]"
-  - "[[phil-mickelson]]"
-  - "[[rory-mcilroy]]"
-  - "[[arnold-palmer]]"
+related: ["[[jack-nicklaus]]", "[[phil-mickelson]]", "[[rory-mcilroy]]", "[[arnold-palmer]]"]
+requires: []
 lists:
   - "[[golfers]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ read: false
 ## see also
 
 - [[jack-nicklaus]] · [[phil-mickelson]] · [[rory-mcilroy]] · [[arnold-palmer]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,17 +4,22 @@ category: sports
 defines:
   - Mickey Mantle
   - The Mick
-related:
-  - "[[joe-dimaggio]]"
-  - "[[yogi-berra]]"
-  - "[[derek-jeter]]"
-  - "[[the-new-york-yankees]]"
+related: ["[[joe-dimaggio]]", "[[yogi-berra]]", "[[derek-jeter]]", "[[the-new-york-yankees]]", "[[new-york-city]]"]
+requires: ["[[the-new-york-yankees]]"]
 lists:
   - "[[new-york-yankees]]"
+tour_order: 1
 read: false
 ---
 
 # Mickey Mantle
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +44,18 @@ read: false
 ## see also
 
 - [[joe-dimaggio]] · [[yogi-berra]] · [[derek-jeter]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

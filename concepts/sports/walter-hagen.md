@@ -4,12 +4,11 @@ category: sports
 defines:
   - Walter Hagen
   - The Haig
-related:
-  - "[[bobby-jones]]"
-  - "[[gene-sarazen]]"
-  - "[[arnold-palmer]]"
+related: ["[[bobby-jones]]", "[[gene-sarazen]]", "[[arnold-palmer]]"]
+requires: []
 lists:
   - "[[golfers]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[bobby-jones]] · [[gene-sarazen]] · [[arnold-palmer]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

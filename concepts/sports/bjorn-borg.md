@@ -4,12 +4,11 @@ category: sports
 defines:
   - Björn Borg
   - Bjorn Borg
-related:
-  - "[[wimbledon]]"
-  - "[[french-open]]"
-  - "[[john-mcenroe]]"
+related: ["[[wimbledon]]", "[[french-open]]", "[[john-mcenroe]]"]
+requires: []
 lists:
   - "[[tennis-players]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[john-mcenroe]] · [[pete-sampras]] · [[roger-federer]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

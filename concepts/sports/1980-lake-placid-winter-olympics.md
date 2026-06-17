@@ -4,11 +4,11 @@ category: sports
 defines:
   - 1980 Winter Olympics
   - Lake Placid Winter Olympics
-related:
-  - "[[olympic-games]]"
-  - "[[miracle-on-ice]]"
+related: ["[[olympic-games]]", "[[miracle-on-ice]]"]
+requires: []
 lists:
   - "[[olympics]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +38,18 @@ The *1980 Winter Olympics* in Lake Placid, New York, are remembered for the "Mir
 ## see also
 
 - [[1972-munich-olympics]] · [[1984-los-angeles-winter-olympics]] · [[1968-mexico-city-olympics]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

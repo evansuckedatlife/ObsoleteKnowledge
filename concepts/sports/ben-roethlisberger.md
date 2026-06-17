@@ -4,13 +4,11 @@ category: sports
 defines:
   - Ben Roethlisberger
   - Benjamin Todd Roethlisberger
-related:
-  - "[[pittsburgh-steelers]]"
-  - "[[super-bowl]]"
-  - "[[nfl-draft]]"
-  - "[[2005-nfl-season]]"
+related: ["[[pittsburgh-steelers]]", "[[super-bowl]]", "[[nfl-draft]]", "[[2005-nfl-season]]"]
+requires: []
 lists:
   - "[[21st-century-quarterbacks]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ read: false
 ## see also
 
 - [[tom-brady]] · [[peyton-manning]] · [[drew-brees]] · [[aaron-rodgers]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,12 +3,11 @@ type: person
 category: sports
 defines:
   - Vladislav Tretiak
-related:
-  - "[[soviet-hockey]]"
-  - "[[ice-hockey-olympics]]"
-  - "[[goaltender]]"
+related: ["[[soviet-hockey]]", "[[ice-hockey-olympics]]", "[[goaltender]]", "[[soviet-union]]"]
+requires: []
 lists:
   - "[[hockey-hall-of-famers]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[ken-dryden]] · [[terry-sawchuk]] · [[bobby-orr]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

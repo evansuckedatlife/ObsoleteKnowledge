@@ -3,12 +3,11 @@ type: person
 category: sports
 defines:
   - Venus Williams
-related:
-  - "[[serena-williams]]"
-  - "[[wimbledon]]"
-  - "[[us-open]]"
+related: ["[[serena-williams]]", "[[wimbledon]]", "[[us-open]]"]
+requires: []
 lists:
   - "[[tennis-players]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +35,18 @@ read: false
 ## see also
 
 - [[serena-williams]] · [[steffi-graf]] · [[billie-jean-king]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

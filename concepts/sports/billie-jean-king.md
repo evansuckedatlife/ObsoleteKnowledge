@@ -4,12 +4,11 @@ category: sports
 defines:
   - Billie Jean King
   - Billie Jean Moffitt King
-related:
-  - "[[wimbledon]]"
-  - "[[us-open]]"
-  - "[[tennis-equality]]"
+related: ["[[wimbledon]]", "[[us-open]]", "[[tennis-equality]]", "[[civil-rights-movement]]"]
+requires: []
 lists:
   - "[[tennis-players]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[chris-evert]] · [[martina-navratilova]] · [[margaret-smith-court]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

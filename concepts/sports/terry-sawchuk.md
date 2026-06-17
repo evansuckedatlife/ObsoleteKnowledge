@@ -4,12 +4,11 @@ category: sports
 defines:
   - Terry Sawchuk
   - Ukie
-related:
-  - "[[detroit-red-wings]]"
-  - "[[stanley-cup]]"
-  - "[[goaltender]]"
+related: ["[[detroit-red-wings]]", "[[stanley-cup]]", "[[goaltender]]"]
+requires: []
 lists:
   - "[[hockey-hall-of-famers]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ read: false
 ## see also
 
 - [[ken-dryden]] · [[vladislav-tretiak]] · [[bobby-orr]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

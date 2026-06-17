@@ -2,14 +2,11 @@
 type: event
 category: sports
 defines: [Stanley Cup, Lord Stanley's Cup]
-related:
-  - "[[ice-hockey]]"
-  - "[[wayne-gretzky]]"
-  - "[[bobby-orr]]"
-  - "[[gordie-howe]]"
-  - "[[mario-lemieux]]"
+related: ["[[ice-hockey]]", "[[wayne-gretzky]]", "[[bobby-orr]]", "[[gordie-howe]]", "[[mario-lemieux]]"]
+requires: []
 lists:
   - "[[ice-hockey-championships]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +38,18 @@ The Stanley Cup is ice hockey's most prestigious championship trophy, awarded an
 ## see also
 
 - [[wayne-gretzky]] · [[bobby-orr]] · [[gordie-howe]] · [[mario-lemieux]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

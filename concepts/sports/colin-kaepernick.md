@@ -4,13 +4,11 @@ category: sports
 defines:
   - Colin Kaepernick
   - Colin Randall Kaepernick
-related:
-  - "[[san-francisco-49ers]]"
-  - "[[super-bowl]]"
-  - "[[nfl-protests]]"
-  - "[[2012-nfl-season]]"
+related: ["[[san-francisco-49ers]]", "[[super-bowl]]", "[[nfl-protests]]", "[[2012-nfl-season]]"]
+requires: []
 lists:
   - "[[21st-century-quarterbacks]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ read: false
 ## see also
 
 - [[russell-wilson]] · [[michael-vick]] · [[patrick-mahomes]] · [[tom-brady]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

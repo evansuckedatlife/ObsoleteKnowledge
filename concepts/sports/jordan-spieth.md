@@ -3,12 +3,11 @@ type: person
 category: sports
 defines:
   - Jordan Spieth
-related:
-  - "[[rory-mcilroy]]"
-  - "[[tiger-woods]]"
-  - "[[phil-mickelson]]"
+related: ["[[rory-mcilroy]]", "[[tiger-woods]]", "[[phil-mickelson]]"]
+requires: []
 lists:
   - "[[golfers]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[rory-mcilroy]] · [[tiger-woods]] · [[phil-mickelson]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

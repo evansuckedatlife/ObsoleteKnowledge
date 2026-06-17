@@ -3,12 +3,11 @@ type: person
 category: sports
 defines:
   - Rory McIlroy
-related:
-  - "[[tiger-woods]]"
-  - "[[jordan-spieth]]"
-  - "[[phil-mickelson]]"
+related: ["[[tiger-woods]]", "[[jordan-spieth]]", "[[phil-mickelson]]"]
+requires: []
 lists:
   - "[[golfers]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[tiger-woods]] · [[jordan-spieth]] · [[phil-mickelson]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

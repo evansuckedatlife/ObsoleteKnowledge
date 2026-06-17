@@ -5,17 +5,22 @@ defines:
   - Mariano Rivera
   - Mo
   - The Sandman
-related:
-  - "[[derek-jeter]]"
-  - "[[alex-rodriguez]]"
-  - "[[yogi-berra]]"
-  - "[[the-new-york-yankees]]"
+related: ["[[derek-jeter]]", "[[alex-rodriguez]]", "[[yogi-berra]]", "[[the-new-york-yankees]]", "[[new-york-city]]"]
+requires: ["[[the-new-york-yankees]]"]
 lists:
   - "[[new-york-yankees]]"
+tour_order: 1
 read: false
 ---
 
 # Mariano Rivera
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +45,18 @@ read: false
 ## see also
 
 - [[derek-jeter]] · [[alex-rodriguez]] · [[whitey-ford]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

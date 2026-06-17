@@ -4,13 +4,11 @@ category: sports
 defines:
   - Peyton Manning
   - Peyton Williams Manning
-related:
-  - "[[indianapolis-colts]]"
-  - "[[denver-broncos]]"
-  - "[[tom-brady]]"
-  - "[[super-bowl]]"
+related: ["[[indianapolis-colts]]", "[[denver-broncos]]", "[[tom-brady]]", "[[super-bowl]]"]
+requires: []
 lists:
   - "[[21st-century-quarterbacks]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ read: false
 ## see also
 
 - [[tom-brady]] · [[drew-brees]] · [[aaron-rodgers]] · [[ben-roethlisberger]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

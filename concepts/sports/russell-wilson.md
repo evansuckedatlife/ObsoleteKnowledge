@@ -4,13 +4,11 @@ category: sports
 defines:
   - Russell Wilson
   - Russell Carrington Wilson
-related:
-  - "[[seattle-seahawks]]"
-  - "[[denver-broncos]]"
-  - "[[super-bowl]]"
-  - "[[nfl-draft]]"
+related: ["[[seattle-seahawks]]", "[[denver-broncos]]", "[[super-bowl]]", "[[nfl-draft]]"]
+requires: []
 lists:
   - "[[21st-century-quarterbacks]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ read: false
 ## see also
 
 - [[tom-brady]] · [[peyton-manning]] · [[aaron-rodgers]] · [[patrick-mahomes]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

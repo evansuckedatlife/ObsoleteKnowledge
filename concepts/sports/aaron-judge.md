@@ -4,12 +4,11 @@ category: sports
 defines:
   - Aaron Judge
   - The Slugger
-related:
-  - "[[alex-rodriguez]]"
-  - "[[derek-jeter]]"
-  - "[[the-new-york-yankees]]"
+related: ["[[alex-rodriguez]]", "[[derek-jeter]]", "[[the-new-york-yankees]]"]
+requires: []
 lists:
   - "[[new-york-yankees]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[derek-jeter]] · [[alex-rodriguez]] · [[reggie-jackson]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

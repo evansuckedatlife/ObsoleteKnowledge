@@ -4,12 +4,11 @@ category: sports
 defines:
   - John McEnroe
   - Jean-Marie McEnroe
-related:
-  - "[[bjorn-borg]]"
-  - "[[wimbledon]]"
-  - "[[us-open]]"
+related: ["[[bjorn-borg]]", "[[wimbledon]]", "[[us-open]]", "[[united-states]]"]
+requires: []
 lists:
   - "[[tennis-players]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[bjorn-borg]] · [[pete-sampras]] · [[andre-agassi]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

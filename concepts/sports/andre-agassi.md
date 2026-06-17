@@ -4,12 +4,11 @@ category: sports
 defines:
   - Andre Agassi
   - André Agassi
-related:
-  - "[[pete-sampras]]"
-  - "[[roger-federer]]"
-  - "[[grand-slam-tournaments]]"
+related: ["[[pete-sampras]]", "[[roger-federer]]", "[[grand-slam-tournaments]]"]
+requires: []
 lists:
   - "[[tennis-players]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[pete-sampras]] · [[roger-federer]] · [[john-mcenroe]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

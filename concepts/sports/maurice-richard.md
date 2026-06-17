@@ -4,12 +4,11 @@ category: sports
 defines:
   - Maurice Richard
   - The Rocket
-related:
-  - "[[montreal-canadiens]]"
-  - "[[stanley-cup]]"
-  - "[[nhl-scoring-records]]"
+related: ["[[montreal-canadiens]]", "[[stanley-cup]]", "[[nhl-scoring-records]]"]
+requires: []
 lists:
   - "[[hockey-hall-of-famers]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ read: false
 ## see also
 
 - [[gordie-howe]] · [[bobby-orr]] · [[wayne-gretzky]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

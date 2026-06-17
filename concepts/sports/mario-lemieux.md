@@ -4,12 +4,11 @@ category: sports
 defines:
   - Mario Lemieux
   - The Magnificent One
-related:
-  - "[[pittsburgh-penguins]]"
-  - "[[stanley-cup]]"
-  - "[[nhl-scoring]]"
+related: ["[[pittsburgh-penguins]]", "[[stanley-cup]]", "[[nhl-scoring]]"]
+requires: []
 lists:
   - "[[hockey-hall-of-famers]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ read: false
 ## see also
 
 - [[wayne-gretzky]] · [[gordie-howe]] · [[bobby-orr]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

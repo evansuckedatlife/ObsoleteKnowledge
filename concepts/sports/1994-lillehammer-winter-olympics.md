@@ -4,11 +4,11 @@ category: sports
 defines:
   - 1994 Winter Olympics
   - Lillehammer Winter Olympics
-related:
-  - "[[olympic-games]]"
-  - "[[nancy-kerrigan]]"
+related: ["[[olympic-games]]", "[[nancy-kerrigan]]"]
+requires: []
 lists:
   - "[[olympics]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +38,18 @@ The *1994 Winter Olympics* in Lillehammer, Norway, are remembered for figure ska
 ## see also
 
 - [[1980-lake-placid-winter-olympics]] · [[1984-los-angeles-olympics]] · [[1968-mexico-city-olympics]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

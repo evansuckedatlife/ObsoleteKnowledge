@@ -5,16 +5,22 @@ defines:
   - Don Mattingly
   - Donald Arthur Mattingly
   - The Hit Man
-related:
-  - "[[reggie-jackson]]"
-  - "[[derek-jeter]]"
-  - "[[the-new-york-yankees]]"
+related: ["[[reggie-jackson]]", "[[derek-jeter]]", "[[the-new-york-yankees]]", "[[new-york-city]]"]
+requires: ["[[the-new-york-yankees]]"]
 lists:
   - "[[new-york-yankees]]"
+tour_order: 1
 read: false
 ---
 
 # Don Mattingly
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[reggie-jackson]] · [[derek-jeter]] · [[mariano-rivera]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

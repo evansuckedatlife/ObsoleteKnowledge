@@ -4,13 +4,11 @@ category: sports
 defines:
   - Michael Vick
   - Michael Dwayne Vick
-related:
-  - "[[atlanta-falcons]]"
-  - "[[philadelphia-eagles]]"
-  - "[[nfl-mobile-quarterbacks]]"
-  - "[[2007-nfl-season]]"
+related: ["[[atlanta-falcons]]", "[[philadelphia-eagles]]", "[[nfl-mobile-quarterbacks]]", "[[2007-nfl-season]]"]
+requires: []
 lists:
   - "[[21st-century-quarterbacks]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ read: false
 ## see also
 
 - [[russell-wilson]] · [[cam-newton]] · [[patrick-mahomes]] · [[peyton-manning]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

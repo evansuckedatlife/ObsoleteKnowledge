@@ -6,13 +6,11 @@ defines:
   - George Herman Ruth
   - The Bambino
   - The Sultan of Swat
-related:
-  - "[[lou-gehrig]]"
-  - "[[joe-dimaggio]]"
-  - "[[whitey-ford]]"
-  - "[[the-new-york-yankees]]"
+related: ["[[lou-gehrig]]", "[[joe-dimaggio]]", "[[whitey-ford]]", "[[the-new-york-yankees]]"]
+requires: []
 lists:
   - "[[new-york-yankees]]"
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +40,18 @@ read: false
 ## see also
 
 - [[lou-gehrig]] · [[joe-dimaggio]] · [[mickey-mantle]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

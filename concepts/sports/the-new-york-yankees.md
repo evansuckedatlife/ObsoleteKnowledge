@@ -2,15 +2,11 @@
 type: concept
 category: sports
 defines: [New York Yankees, Yankees, Bronx Bombers]
-related:
-  - "[[tom-brady]]"
-  - "[[babe-ruth]]"
-  - "[[mickey-mantle]]"
-  - "[[joe-dimaggio]]"
-  - "[[lou-gehrig]]"
-  - "[[derek-jeter]]"
+related: ["[[tom-brady]]", "[[babe-ruth]]", "[[mickey-mantle]]", "[[joe-dimaggio]]", "[[lou-gehrig]]", "[[derek-jeter]]", "[[new-york-city]]"]
+requires: []
 lists:
   - "[[baseball-teams]]"
+tour_order: 0
 read: false
 ---
 
@@ -74,6 +70,18 @@ The Yankees occupy a unique position in sports history and American culture — 
 ## see also
 
 - [[babe-ruth]] · [[mickey-mantle]] · [[joe-dimaggio]] · [[derek-jeter]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

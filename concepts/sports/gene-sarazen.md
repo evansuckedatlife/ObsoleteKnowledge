@@ -4,12 +4,11 @@ category: sports
 defines:
   - Gene Sarazen
   - Eugenio Saraceni
-related:
-  - "[[bobby-jones]]"
-  - "[[walter-hagen]]"
-  - "[[ben-hogan]]"
+related: ["[[bobby-jones]]", "[[walter-hagen]]", "[[ben-hogan]]"]
+requires: []
 lists:
   - "[[golfers]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[bobby-jones]] · [[walter-hagen]] · [[ben-hogan]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

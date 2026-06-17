@@ -4,12 +4,11 @@ category: sports
 defines:
   - Arthur Ashe
   - Arthur Robert Ashe Jr.
-related:
-  - "[[wimbledon]]"
-  - "[[us-open]]"
-  - "[[civil-rights-movement]]"
+related: ["[[wimbledon]]", "[[us-open]]", "[[civil-rights-movement]]"]
+requires: []
 lists:
   - "[[tennis-players]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[pete-sampras]] · [[john-mcenroe]] · [[andre-agassi]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -5,17 +5,22 @@ defines:
   - Lou Gehrig
   - Henry Louis Gehrig
   - The Iron Horse
-related:
-  - "[[babe-ruth]]"
-  - "[[joe-dimaggio]]"
-  - "[[mickey-mantle]]"
-  - "[[the-new-york-yankees]]"
+related: ["[[babe-ruth]]", "[[joe-dimaggio]]", "[[mickey-mantle]]", "[[the-new-york-yankees]]", "[[new-york-city]]"]
+requires: ["[[the-new-york-yankees]]"]
 lists:
   - "[[new-york-yankees]]"
+tour_order: 1
 read: false
 ---
 
 # Lou Gehrig
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +44,18 @@ read: false
 ## see also
 
 - [[babe-ruth]] · [[joe-dimaggio]] · [[mickey-mantle]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

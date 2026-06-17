@@ -4,13 +4,11 @@ category: sports
 defines:
   - Arnold Palmer
   - The King
-related:
-  - "[[jack-nicklaus]]"
-  - "[[gary-player]]"
-  - "[[tom-watson]]"
-  - "[[tiger-woods]]"
+related: ["[[jack-nicklaus]]", "[[gary-player]]", "[[tom-watson]]", "[[tiger-woods]]"]
+requires: []
 lists:
   - "[[golfers]]"
+tour_order: 0
 read: false
 ---
 
@@ -70,6 +68,18 @@ Arnold Palmer is the bridge figure between golf's amateur traditions and its mod
 ## see also
 
 - [[jack-nicklaus]] · [[gary-player]] · [[tiger-woods]] · [[bobby-jones]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

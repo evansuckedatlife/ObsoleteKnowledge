@@ -4,13 +4,11 @@ category: sports
 defines:
   - Wayne Gretzky
   - The Great One
-related:
-  - "[[edmonton-oilers]]"
-  - "[[los-angeles-kings]]"
-  - "[[stanley-cup]]"
-  - "[[hockey-scoring-records]]"
+related: ["[[edmonton-oilers]]", "[[los-angeles-kings]]", "[[stanley-cup]]", "[[hockey-scoring-records]]"]
+requires: []
 lists:
   - "[[hockey-hall-of-famers]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ read: false
 ## see also
 
 - [[gordie-howe]] · [[mario-lemieux]] · [[bobby-orr]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,11 +4,11 @@ category: sports
 defines:
   - 1896 Summer Olympics
   - Athens Olympics
-related:
-  - "[[olympic-games]]"
-  - "[[baron-de-coubertin]]"
+related: ["[[olympic-games]]", "[[baron-de-coubertin]]", "[[ancient-greece]]"]
+requires: []
 lists:
   - "[[olympics]]"
+tour_order: 0
 read: true
 ---
 
@@ -38,6 +38,18 @@ The first modern *Olympic Games*, held in Athens, Greece, revived the ancient Gr
 ## see also
 
 - [[1912-stockholm-olympics]] · [[1936-berlin-olympics]] · [[1968-mexico-city-olympics]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

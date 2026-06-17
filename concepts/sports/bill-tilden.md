@@ -4,12 +4,11 @@ category: sports
 defines:
   - Bill Tilden
   - William Tatem Tilden II
-related:
-  - "[[wimbledon]]"
-  - "[[us-open]]"
-  - "[[1920s-sports]]"
+related: ["[[wimbledon]]", "[[us-open]]", "[[1920s-sports]]"]
+requires: []
 lists:
   - "[[tennis-players]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[rod-laver]] · [[pete-sampras]] · [[arthur-ashe]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

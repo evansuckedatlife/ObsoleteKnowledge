@@ -4,11 +4,11 @@ category: sports
 defines:
   - 1996 Summer Olympics
   - Atlanta Olympics
-related:
-  - "[[olympic-games]]"
-  - "[[muhammad-ali]]"
+related: ["[[olympic-games]]", "[[muhammad-ali]]"]
+requires: []
 lists:
   - "[[olympics]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +38,18 @@ The *1996 Summer Olympics* in Atlanta, Georgia, marked the centennial of the mod
 ## see also
 
 - [[1984-los-angeles-olympics]] · [[1980-moscow-olympics]] · [[1968-mexico-city-olympics]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

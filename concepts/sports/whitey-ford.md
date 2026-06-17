@@ -5,13 +5,11 @@ defines:
   - Whitey Ford
   - Edward Charles Ford
   - The Chairman of the Board
-related:
-  - "[[yogi-berra]]"
-  - "[[mickey-mantle]]"
-  - "[[mariano-rivera]]"
-  - "[[the-new-york-yankees]]"
+related: ["[[yogi-berra]]", "[[mickey-mantle]]", "[[mariano-rivera]]", "[[the-new-york-yankees]]"]
+requires: []
 lists:
   - "[[new-york-yankees]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[yogi-berra]] · [[mickey-mantle]] · [[mariano-rivera]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

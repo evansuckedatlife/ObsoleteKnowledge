@@ -4,12 +4,11 @@ category: sports
 defines:
   - Sam Snead
   - Slammin' Sam
-related:
-  - "[[ben-hogan]]"
-  - "[[byron-nelson]]"
-  - "[[arnold-palmer]]"
+related: ["[[ben-hogan]]", "[[byron-nelson]]", "[[arnold-palmer]]"]
+requires: []
 lists:
   - "[[golfers]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[ben-hogan]] · [[byron-nelson]] · [[arnold-palmer]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,12 +4,11 @@ category: sports
 defines:
   - Gordie Howe
   - Mr. Hockey
-related:
-  - "[[detroit-red-wings]]"
-  - "[[stanley-cup]]"
-  - "[[nhl-record]]"
+related: ["[[detroit-red-wings]]", "[[stanley-cup]]", "[[nhl-record]]"]
+requires: []
 lists:
   - "[[hockey-hall-of-famers]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ read: false
 ## see also
 
 - [[wayne-gretzky]] · [[bobby-orr]] · [[mario-lemieux]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

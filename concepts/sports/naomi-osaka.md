@@ -3,12 +3,11 @@ type: person
 category: sports
 defines:
   - Naomi Osaka
-related:
-  - "[[us-open]]"
-  - "[[australian-open]]"
-  - "[[wimbledon]]"
+related: ["[[us-open]]", "[[australian-open]]", "[[wimbledon]]", "[[japan]]"]
+requires: []
 lists:
   - "[[tennis-players]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[serena-williams]] · [[steffi-graf]] · [[chris-evert]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

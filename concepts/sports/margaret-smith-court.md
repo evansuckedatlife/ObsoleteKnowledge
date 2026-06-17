@@ -4,16 +4,22 @@ category: sports
 defines:
   - Margaret Smith Court
   - Margaret Mary Smith Court
-related:
-  - "[[australian-open]]"
-  - "[[billie-jean-king]]"
-  - "[[wimbledon]]"
+related: ["[[australian-open]]", "[[billie-jean-king]]", "[[wimbledon]]", "[[australia]]"]
+requires: ["[[australian-open]]"]
 lists:
   - "[[tennis-players]]"
+tour_order: 1
 read: false
 ---
 
 # Margaret Smith Court
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[billie-jean-king]] · [[chris-evert]] · [[martina-navratilova]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

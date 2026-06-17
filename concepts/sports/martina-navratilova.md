@@ -3,12 +3,11 @@ type: person
 category: sports
 defines:
   - Martina Navratilova
-related:
-  - "[[wimbledon]]"
-  - "[[billie-jean-king]]"
-  - "[[chris-evert]]"
+related: ["[[wimbledon]]", "[[billie-jean-king]]", "[[chris-evert]]"]
+requires: []
 lists:
   - "[[tennis-players]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[chris-evert]] · [[billie-jean-king]] · [[steffi-graf]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

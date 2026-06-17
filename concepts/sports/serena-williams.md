@@ -3,13 +3,11 @@ type: person
 category: sports
 defines:
   - Serena Williams
-related:
-  - "[[venus-williams]]"
-  - "[[wimbledon]]"
-  - "[[us-open]]"
-  - "[[australian-open]]"
+related: ["[[venus-williams]]", "[[wimbledon]]", "[[us-open]]", "[[australian-open]]"]
+requires: []
 lists:
   - "[[tennis-players]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[venus-williams]] · [[steffi-graf]] · [[chris-evert]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

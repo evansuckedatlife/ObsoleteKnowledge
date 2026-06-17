@@ -3,13 +3,11 @@ type: person
 category: sports
 defines:
   - Roger Federer
-related:
-  - "[[wimbledon]]"
-  - "[[grand-slam-tournaments]]"
-  - "[[rafael-nadal]]"
-  - "[[novak-djokovic]]"
+related: ["[[wimbledon]]", "[[grand-slam-tournaments]]", "[[rafael-nadal]]", "[[novak-djokovic]]"]
+requires: []
 lists:
   - "[[tennis-players]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[rafael-nadal]] · [[novak-djokovic]] · [[pete-sampras]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

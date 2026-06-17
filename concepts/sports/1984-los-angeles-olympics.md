@@ -4,12 +4,11 @@ category: sports
 defines:
   - 1984 Summer Olympics
   - Los Angeles Olympics
-related:
-  - "[[olympic-games]]"
-  - "[[soviet-union]]"
-  - "[[cold-war]]"
+related: ["[[olympic-games]]", "[[soviet-union]]", "[[cold-war]]"]
+requires: []
 lists:
   - "[[olympics]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ The *1984 Summer Olympics* in Los Angeles were boycotted by the Soviet Union and
 ## see also
 
 - [[1980-moscow-olympics]] · [[1972-munich-olympics]] · [[1968-mexico-city-olympics]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

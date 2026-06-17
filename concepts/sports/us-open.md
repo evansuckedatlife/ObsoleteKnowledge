@@ -2,16 +2,12 @@
 type: event
 category: sports
 defines: [US Open, United States Open, USGA Open]
-related:
-  - "[[tennis]]"
-  - "[[golf]]"
-  - "[[roger-federer]]"
-  - "[[serena-williams]]"
-  - "[[tiger-woods]]"
-  - "[[jack-nicklaus]]"
+related: ["[[tennis]]", "[[golf]]", "[[roger-federer]]", "[[serena-williams]]", "[[tiger-woods]]", "[[jack-nicklaus]]", "[[united-states]]"]
+requires: []
 lists:
   - "[[tennis-grand-slams]]"
   - "[[golf-major-championships]]"
+tour_order: 0
 read: false
 ---
 
@@ -45,6 +41,18 @@ The US Open is one of the four Grand Slam tennis tournaments and one of golf's f
 ## see also
 
 - [[wimbledon]] · [[french-open]] · [[australian-open]] · [[tiger-woods]] · [[jack-nicklaus]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 
