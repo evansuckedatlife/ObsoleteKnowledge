@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: ["Alexander VI", "Pope Alexander VI", "Rodrigo Borgia", "Rodrigo de Borja"]
 related: ["[[peter]]", "[[julius-ii]]"]
+requires: ["[[christianity]]", "[[roman-empire]]"]
 lists: ["[[popes]]"]
+tour_order: 2
 read: false
 ---
 
 # Alexander VI
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[christianity]] · [[roman-empire]]
+<!-- /foundations -->
 
 ## summary
 

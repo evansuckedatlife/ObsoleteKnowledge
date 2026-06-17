@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: [Lazarus]
 related: ["[[jesus]]", "[[resurrection]]", "[[gospels]]"]
+requires: ["[[jesus]]", "[[christianity]]"]
 lists: ["[[new-testament-characters]]"]
+tour_order: 2
 read: false
 ---
 
 # Lazarus
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[jesus]] · [[christianity]]
+<!-- /foundations -->
 
 ## summary
 

@@ -3,11 +3,19 @@ type: concept
 category: religion
 defines: [Christianity]
 related: ["[[jesus]]", "[[gospels]]", "[[crucifixion]]", "[[virgin-mary]]", "[[the-twelve-apostles]]", "[[resurrection]]", "[[trinity]]", "[[saints]]"]
+requires: ["[[judaism]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Christianity
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[judaism]]
+<!-- /foundations -->
 
 ## summary
 

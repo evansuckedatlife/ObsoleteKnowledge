@@ -3,11 +3,19 @@ type: holiday
 category: religion
 defines: [Sukkot, "Feast of Tabernacles"]
 related: ["[[passover]]", "[[shavuot]]", "[[judaism]]"]
+requires: ["[[judaism]]"]
 lists: ["[[jewish-holidays]]"]
+tour_order: 1
 read: false
 ---
 
 # Sukkot
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[judaism]]
+<!-- /foundations -->
 
 ## summary
 

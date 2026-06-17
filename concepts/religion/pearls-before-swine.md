@@ -3,11 +3,19 @@ type: phrase
 category: religion
 defines: [pearls before swine, casting pearls before swine]
 related: ["[[sermon-on-the-mount]]", "[[jesus]]"]
+requires: ["[[gospels]]"]
 lists: ["[[biblical-sayings]]"]
+tour_order: 3
 read: false
 ---
 
 # pearls before swine
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[gospels]]
+<!-- /foundations -->
 
 ## summary
 

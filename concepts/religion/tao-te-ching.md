@@ -3,11 +3,19 @@ type: text
 category: religion
 defines: ["Tao Te Ching", Daodejing]
 related: ["[[laozi]]"]
+requires: ["[[taoism]]"]
 lists: ["[[religious-texts]]"]
+tour_order: 1
 read: false
 ---
 
 # Tao Te Ching
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[taoism]]
+<!-- /foundations -->
 
 ## summary
 

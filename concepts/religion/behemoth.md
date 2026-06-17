@@ -3,11 +3,19 @@ type: phrase
 category: religion
 defines: [Behemoth]
 related: ["[[book-of-job]]"]
+requires: ["[[hebrew-bible]]"]
 lists: ["[[biblical-sayings]]"]
+tour_order: 2
 read: false
 ---
 
 # Behemoth
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[hebrew-bible]]
+<!-- /foundations -->
 
 ## summary
 

@@ -3,11 +3,19 @@ type: place
 category: religion
 defines: [Temple in Jerusalem, Holy Temple, Beit HaMikdash]
 related: ["[[solomon]]", "[[david]]", "[[tisha-bav]]", "[[hanukkah]]", "[[judaism]]", "[[crucifixion]]", "[[western-wall]]"]
+requires: ["[[judaism]]", "[[hebrew-bible]]"]
 lists: []
+tour_order: 2
 read: false
 ---
 
 # Temple in Jerusalem
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[judaism]] · [[hebrew-bible]]
+<!-- /foundations -->
 
 ## summary
 

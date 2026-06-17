@@ -3,11 +3,19 @@ type: practice
 category: religion
 defines: [Jewish mourning, shiva, aveilut]
 related: ["[[jewish-death]]", "[[kaddish]]", "[[judaism]]"]
+requires: ["[[judaism]]"]
 lists: ["[[jewish-lifecycle-events]]"]
+tour_order: 1
 read: false
 ---
 
 # Jewish mourning
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[judaism]]
+<!-- /foundations -->
 
 ## summary
 

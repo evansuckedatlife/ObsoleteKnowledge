@@ -3,11 +3,19 @@ type: text
 category: religion
 defines: [Analects, Lunyu]
 related: ["[[confucius]]"]
+requires: ["[[confucianism]]"]
 lists: ["[[religious-texts]]"]
+tour_order: 1
 read: false
 ---
 
 # Analects
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[confucianism]]
+<!-- /foundations -->
 
 ## summary
 

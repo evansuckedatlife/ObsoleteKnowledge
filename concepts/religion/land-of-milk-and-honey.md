@@ -3,11 +3,19 @@ type: phrase
 category: religion
 defines: [a land of milk and honey]
 related: ["[[exodus]]", "[[moses]]"]
+requires: ["[[hebrew-bible]]"]
 lists: ["[[biblical-sayings]]"]
+tour_order: 2
 read: false
 ---
 
 # a land of milk and honey
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[hebrew-bible]]
+<!-- /foundations -->
 
 ## summary
 

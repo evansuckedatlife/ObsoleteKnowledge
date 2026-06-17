@@ -3,11 +3,19 @@ type: practice
 category: religion
 defines: [Brit milah, bris, circumcision]
 related: ["[[jewish-baby-naming]]", "[[covenant-of-abraham]]"]
+requires: ["[[judaism]]"]
 lists: ["[[jewish-lifecycle-events]]"]
+tour_order: 1
 read: false
 ---
 
 # Brit milah
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[judaism]]
+<!-- /foundations -->
 
 ## summary
 

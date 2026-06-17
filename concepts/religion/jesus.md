@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: [Jesus, Jesus of Nazareth, Jesus Christ, Yeshua]
 related: ["[[gospels]]", "[[crucifixion]]", "[[john-the-baptist]]", "[[john-the-apostle]]", "[[peter]]", "[[judas-iscariot]]", "[[virgin-mary]]", "[[pontius-pilate]]"]
+requires: ["[[judaism]]", "[[roman-empire]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Jesus
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[judaism]] · [[roman-empire]]
+<!-- /foundations -->
 
 ## summary
 

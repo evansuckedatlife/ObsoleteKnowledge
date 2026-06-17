@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: [Zoroaster, Zarathustra]
 related: ["[[avesta]]"]
+requires: ["[[zoroastrianism]]"]
 lists: ["[[founders-of-religious-traditions]]"]
+tour_order: 1
 read: false
 ---
 
 # Zoroaster
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[zoroastrianism]]
+<!-- /foundations -->
 
 ## summary
 

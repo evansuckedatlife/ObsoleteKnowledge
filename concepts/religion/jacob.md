@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: [Jacob, Israel]
 related: ["[[abraham]]", "[[moses]]", "[[joseph]]"]
+requires: ["[[hebrew-bible]]"]
 lists: ["[[hebrew-bible-characters]]"]
+tour_order: 2
 read: false
 ---
 
 # Jacob
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[hebrew-bible]]
+<!-- /foundations -->
 
 ## summary
 

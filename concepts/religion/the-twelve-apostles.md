@@ -3,11 +3,19 @@ type: concept
 category: religion
 defines: [The Twelve Apostles, The Twelve Disciples]
 related: ["[[jesus]]", "[[peter]]", "[[john-the-apostle]]", "[[judas-iscariot]]", "[[paul]]", "[[gospels]]", "[[acts-of-the-apostles]]"]
+requires: ["[[jesus]]", "[[christianity]]"]
 lists: []
+tour_order: 2
 read: false
 ---
 
 # The Twelve Apostles
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[jesus]] · [[christianity]]
+<!-- /foundations -->
 
 ## summary
 

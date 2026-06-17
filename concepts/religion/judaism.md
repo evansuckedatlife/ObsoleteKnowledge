@@ -3,7 +3,9 @@ type: concept
 category: religion
 defines: [Judaism]
 related: ["[[torah]]", "[[abraham]]", "[[moses]]", "[[temple-in-jerusalem]]", "[[talmud]]", "[[exodus]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 

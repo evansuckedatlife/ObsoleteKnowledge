@@ -3,11 +3,19 @@ type: event
 category: religion
 defines: [Crucifixion, The Crucifixion]
 related: ["[[jesus]]", "[[pontius-pilate]]", "[[judas-iscariot]]", "[[virgin-mary]]", "[[john-the-apostle]]", "[[gospels]]", "[[golgotha]]"]
+requires: ["[[jesus]]", "[[christianity]]"]
 lists: []
+tour_order: 2
 read: false
 ---
 
 # Crucifixion
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[jesus]] · [[christianity]]
+<!-- /foundations -->
 
 ## summary
 

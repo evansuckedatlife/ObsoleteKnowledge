@@ -3,11 +3,19 @@ type: place
 category: religion
 defines: [Mecca, Makkah]
 related: ["[[islam]]", "[[muhammad]]", "[[kaaba]]", "[[hajj]]", "[[hijra]]", "[[saudi-arabia]]"]
+requires: ["[[islam]]"]
 lists: []
+tour_order: 2
 read: false
 ---
 
 # Mecca
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[islam]]
+<!-- /foundations -->
 
 ## summary
 

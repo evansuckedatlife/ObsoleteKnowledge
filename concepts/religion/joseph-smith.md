@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: [Joseph Smith]
 related: ["[[book-of-mormon]]"]
+requires: ["[[christianity]]"]
 lists: ["[[founders-of-religious-traditions]]"]
+tour_order: 2
 read: false
 ---
 
 # Joseph Smith
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[christianity]]
+<!-- /foundations -->
 
 ## summary
 

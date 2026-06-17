@@ -3,11 +3,19 @@ type: concept
 category: religion
 defines: [Trimurti]
 related: ["[[brahma]]", "[[vishnu]]", "[[shiva]]", "[[devi]]", "[[tridevi]]"]
+requires: ["[[hinduism]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Trimurti
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[hinduism]]
+<!-- /foundations -->
 
 ## summary
 

@@ -3,11 +3,19 @@ type: practice
 category: religion
 defines: [Pidyon ha-ben, "redemption of the firstborn"]
 related: ["[[brit-milah]]", "[[bar-bat-mitzvah]]"]
+requires: ["[[judaism]]"]
 lists: ["[[jewish-lifecycle-events]]"]
+tour_order: 1
 read: false
 ---
 
 # Pidyon ha-ben
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[judaism]]
+<!-- /foundations -->
 
 ## summary
 

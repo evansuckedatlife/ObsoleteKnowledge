@@ -3,11 +3,19 @@ type: holiday
 category: religion
 defines: ["Tisha b'Av", "the Ninth of Av"]
 related: ["[[temple-in-jerusalem]]", "[[second-temple]]", "[[judaism]]"]
+requires: ["[[judaism]]", "[[temple-in-jerusalem]]"]
 lists: ["[[jewish-holidays]]"]
+tour_order: 3
 read: false
 ---
 
 # Tisha b'Av
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[judaism]] · [[temple-in-jerusalem]]
+<!-- /foundations -->
 
 ## summary
 

@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: [Mahavira, Vardhamana]
 related: ["[[vedas]]", "[[upanishads]]"]
+requires: ["[[jainism]]"]
 lists: ["[[founders-of-religious-traditions]]"]
+tour_order: 1
 read: false
 ---
 
 # Mahavira
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[jainism]]
+<!-- /foundations -->
 
 ## summary
 

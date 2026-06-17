@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: [Paul, Saul of Tarsus, Saint Paul]
 related: ["[[jesus]]", "[[peter]]", "[[epistles]]"]
+requires: ["[[jesus]]", "[[christianity]]"]
 lists: ["[[new-testament-characters]]"]
+tour_order: 2
 read: false
 ---
 
 # Paul
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[jesus]] · [[christianity]]
+<!-- /foundations -->
 
 ## summary
 

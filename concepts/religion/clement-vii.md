@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: ["Clement VII", "Pope Clement VII", "Giulio de' Medici", "Giulio di Giuliano de' Medici"]
 related: ["[[peter]]", "[[leo-x]]", "[[julius-ii]]"]
+requires: ["[[christianity]]", "[[roman-empire]]"]
 lists: ["[[popes]]"]
+tour_order: 2
 read: false
 ---
 
 # Clement VII
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[christianity]] · [[roman-empire]]
+<!-- /foundations -->
 
 ## summary
 

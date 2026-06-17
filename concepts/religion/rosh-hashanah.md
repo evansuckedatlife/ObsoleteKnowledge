@@ -3,13 +3,21 @@ type: holiday
 category: religion
 defines: [Rosh Hashanah, "Jewish New Year"]
 related: ["[[yom-kippur]]", "[[high-holy-days]]", "[[judaism]]"]
+requires: ["[[judaism]]"]
 lists:
   - "[[jewish-holidays]]"
   - "[[new-year-celebrations]]"
+tour_order: 1
 read: false
 ---
 
 # Rosh Hashanah
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[judaism]]
+<!-- /foundations -->
 
 ## summary
 

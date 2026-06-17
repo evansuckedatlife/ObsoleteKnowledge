@@ -3,11 +3,19 @@ type: text
 category: religion
 defines: [Yijing, "I Ching", "Book of Changes"]
 related: []
+requires: ["[[confucianism]]"]
 lists: ["[[religious-texts]]"]
+tour_order: 1
 read: false
 ---
 
 # Yijing
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[confucianism]]
+<!-- /foundations -->
 
 ## summary
 

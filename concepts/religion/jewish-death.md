@@ -3,11 +3,19 @@ type: practice
 category: religion
 defines: [Jewish death and burial]
 related: ["[[jewish-mourning]]", "[[jewish-marriage]]", "[[kaddish]]"]
+requires: ["[[judaism]]"]
 lists: ["[[jewish-lifecycle-events]]"]
+tour_order: 1
 read: false
 ---
 
 # Jewish death and burial
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[judaism]]
+<!-- /foundations -->
 
 ## summary
 

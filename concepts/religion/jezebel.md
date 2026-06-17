@@ -3,11 +3,19 @@ type: phrase
 category: religion
 defines: [Jezebel]
 related: ["[[elijah]]", "[[1-kings]]"]
+requires: ["[[hebrew-bible]]"]
 lists: ["[[biblical-sayings]]"]
+tour_order: 2
 read: false
 ---
 
 # Jezebel
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[hebrew-bible]]
+<!-- /foundations -->
 
 ## summary
 

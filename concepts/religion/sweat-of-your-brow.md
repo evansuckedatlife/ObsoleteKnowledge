@@ -3,11 +3,19 @@ type: phrase
 category: religion
 defines: [the sweat of your brow]
 related: ["[[genesis]]", "[[adam-and-eve]]"]
+requires: ["[[hebrew-bible]]"]
 lists: ["[[biblical-sayings]]"]
+tour_order: 2
 read: false
 ---
 
 # the sweat of your brow
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[hebrew-bible]]
+<!-- /foundations -->
 
 ## summary
 

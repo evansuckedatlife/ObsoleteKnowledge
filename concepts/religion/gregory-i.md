@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: ["Gregory I", "Saint Gregory the Great", "Pope Gregory I", "Pope Gregory the Great"]
 related: ["[[peter]]", "[[leo-i]]", "[[innocent-iii]]"]
+requires: ["[[christianity]]", "[[roman-empire]]"]
 lists: ["[[popes]]"]
+tour_order: 2
 read: false
 ---
 
 # Gregory I
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[christianity]] · [[roman-empire]]
+<!-- /foundations -->
 
 ## summary
 

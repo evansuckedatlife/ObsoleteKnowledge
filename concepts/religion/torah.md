@@ -3,11 +3,19 @@ type: text
 category: religion
 defines: [Torah, Pentateuch, Written Law]
 related: ["[[judaism]]", "[[moses]]", "[[talmud]]", "[[hebrew-bible-characters]]", "[[shavuot]]", "[[ark-of-the-covenant]]"]
+requires: ["[[judaism]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Torah
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[judaism]]
+<!-- /foundations -->
 
 ## summary
 

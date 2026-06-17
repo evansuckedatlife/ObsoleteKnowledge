@@ -3,11 +3,19 @@ type: text
 category: religion
 defines: [Avesta, "Zend-Avesta"]
 related: ["[[zoroaster]]"]
+requires: ["[[zoroastrianism]]"]
 lists: ["[[religious-texts]]"]
+tour_order: 1
 read: false
 ---
 
 # Avesta
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[zoroastrianism]]
+<!-- /foundations -->
 
 ## summary
 

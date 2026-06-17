@@ -3,11 +3,19 @@ type: holiday
 category: religion
 defines: [Shavuot, "Feast of Weeks"]
 related: ["[[torah]]", "[[passover]]", "[[judaism]]"]
+requires: ["[[judaism]]", "[[torah]]"]
 lists: ["[[jewish-holidays]]"]
+tour_order: 2
 read: false
 ---
 
 # Shavuot
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[judaism]] · [[torah]]
+<!-- /foundations -->
 
 ## summary
 

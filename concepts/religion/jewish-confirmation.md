@@ -3,11 +3,19 @@ type: practice
 category: religion
 defines: [Jewish confirmation]
 related: ["[[bar-bat-mitzvah]]", "[[jewish-marriage]]", "[[shavuot]]"]
+requires: ["[[judaism]]"]
 lists: ["[[jewish-lifecycle-events]]"]
+tour_order: 1
 read: false
 ---
 
 # Jewish confirmation
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[judaism]]
+<!-- /foundations -->
 
 ## summary
 

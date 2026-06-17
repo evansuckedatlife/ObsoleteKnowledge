@@ -3,11 +3,19 @@ type: holiday
 category: religion
 defines: [Yom Kippur, "Day of Atonement"]
 related: ["[[rosh-hashanah]]", "[[high-holy-days]]", "[[judaism]]"]
+requires: ["[[judaism]]"]
 lists: ["[[jewish-holidays]]"]
+tour_order: 1
 read: false
 ---
 
 # Yom Kippur
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[judaism]]
+<!-- /foundations -->
 
 ## summary
 

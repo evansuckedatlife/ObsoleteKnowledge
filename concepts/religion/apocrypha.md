@@ -3,11 +3,19 @@ type: text
 category: religion
 defines: [Apocrypha]
 related: ["[[torah]]", "[[bible]]"]
+requires: ["[[hebrew-bible]]", "[[judaism]]"]
 lists: ["[[religious-texts]]"]
+tour_order: 2
 read: false
 ---
 
 # Apocrypha
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[hebrew-bible]] · [[judaism]]
+<!-- /foundations -->
 
 ## summary
 

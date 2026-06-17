@@ -3,11 +3,19 @@ type: event
 category: religion
 defines: [Second Temple Period, Second Temple Judaism]
 related: ["[[temple-in-jerusalem]]", "[[judaism]]", "[[maccabean-revolt]]", "[[roman-jewish-war]]", "[[hebrew-bible]]", "[[rabbinical-judaism]]", "[[pharisees]]"]
+requires: ["[[judaism]]", "[[hebrew-bible]]"]
 lists: []
+tour_order: 2
 read: false
 ---
 
 # Second Temple
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[judaism]] · [[hebrew-bible]]
+<!-- /foundations -->
 
 ## summary
 

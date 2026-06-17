@@ -3,11 +3,19 @@ type: work
 category: religion
 defines: [Gospels, Canonical Gospels, Four Gospels]
 related: ["[[jesus]]", "[[john-the-apostle]]", "[[peter]]", "[[good-samaritan]]", "[[sermon-on-the-mount]]", "[[synoptic-gospels]]"]
+requires: ["[[jesus]]", "[[christianity]]"]
 lists: []
+tour_order: 2
 read: false
 ---
 
 # Gospels
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[jesus]] · [[christianity]]
+<!-- /foundations -->
 
 ## summary
 

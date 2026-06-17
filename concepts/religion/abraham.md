@@ -3,7 +3,9 @@ type: person
 category: religion
 defines: [Abraham, Abram]
 related: ["[[moses]]", "[[david]]", "[[jesus]]"]
+requires: []
 lists: ["[[founders-of-religious-traditions]]", "[[hebrew-bible-characters]]"]
+tour_order: 0
 read: false
 ---
 

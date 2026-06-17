@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: [Moses]
 related: ["[[abraham]]", "[[jacob]]", "[[aaron]]", "[[joshua]]"]
+requires: ["[[judaism]]", "[[abraham]]"]
 lists: ["[[hebrew-bible-characters]]"]
+tour_order: 1
 read: false
 ---
 
 # Moses
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[judaism]] · [[abraham]]
+<!-- /foundations -->
 
 ## summary
 

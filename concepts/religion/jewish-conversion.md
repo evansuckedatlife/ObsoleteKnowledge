@@ -3,11 +3,19 @@ type: practice
 category: religion
 defines: [Jewish conversion, giyur]
 related: ["[[judaism]]", "[[brit-milah]]", "[[jewish-baby-naming]]"]
+requires: ["[[judaism]]"]
 lists: ["[[jewish-lifecycle-events]]"]
+tour_order: 1
 read: false
 ---
 
 # Jewish conversion
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[judaism]]
+<!-- /foundations -->
 
 ## summary
 

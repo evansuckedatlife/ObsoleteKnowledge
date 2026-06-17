@@ -3,11 +3,19 @@ type: phrase
 category: religion
 defines: [Good Samaritan]
 related: ["[[gospels]]", "[[jesus]]"]
+requires: ["[[jesus]]", "[[christianity]]"]
 lists: ["[[biblical-sayings]]"]
+tour_order: 2
 read: false
 ---
 
 # Good Samaritan
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[jesus]] · [[christianity]]
+<!-- /foundations -->
 
 ## summary
 

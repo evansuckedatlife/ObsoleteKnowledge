@@ -3,11 +3,19 @@ type: holiday
 category: religion
 defines: [Purim]
 related: ["[[esther]]", "[[megillah]]", "[[judaism]]"]
+requires: ["[[judaism]]"]
 lists: ["[[jewish-holidays]]"]
+tour_order: 1
 read: false
 ---
 
 # Purim
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[judaism]]
+<!-- /foundations -->
 
 ## summary
 

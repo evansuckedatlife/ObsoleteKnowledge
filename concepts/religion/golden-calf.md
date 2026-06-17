@@ -3,11 +3,19 @@ type: phrase
 category: religion
 defines: [golden calf]
 related: ["[[exodus]]", "[[moses]]"]
+requires: ["[[exodus]]"]
 lists: ["[[biblical-sayings]]"]
+tour_order: 2
 read: false
 ---
 
 # golden calf
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[exodus]]
+<!-- /foundations -->
 
 ## summary
 

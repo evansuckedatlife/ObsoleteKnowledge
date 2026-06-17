@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: ["Gregory VII", "Pope Gregory VII", "Hildebrand", "Hildebrand of Sovana"]
 related: ["[[peter]]", "[[gregory-i]]", "[[innocent-iii]]"]
+requires: ["[[christianity]]"]
 lists: ["[[popes]]"]
+tour_order: 2
 read: false
 ---
 
 # Gregory VII
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[christianity]]
+<!-- /foundations -->
 
 ## summary
 

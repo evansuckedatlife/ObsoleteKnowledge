@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: [John the Baptist]
 related: ["[[jesus]]", "[[herod]]"]
+requires: ["[[jesus]]"]
 lists: ["[[new-testament-characters]]"]
+tour_order: 2
 read: false
 ---
 
 # John the Baptist
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[jesus]]
+<!-- /foundations -->
 
 ## summary
 

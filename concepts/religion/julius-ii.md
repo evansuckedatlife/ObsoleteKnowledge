@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: ["Julius II", "Pope Julius II", "Giuliano della Rovere", "Warrior Pope"]
 related: ["[[peter]]", "[[alexander-vi]]", "[[leo-x]]", "[[michelangelo]]", "[[raphael]]"]
+requires: ["[[christianity]]"]
 lists: ["[[popes]]"]
+tour_order: 2
 read: false
 ---
 
 # Julius II
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[christianity]]
+<!-- /foundations -->
 
 ## summary
 

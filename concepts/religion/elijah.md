@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: [Elijah, Elijah the Tishbite]
 related: ["[[elisha]]", "[[jezebel]]", "[[baal]]"]
+requires: ["[[hebrew-bible]]", "[[judaism]]"]
 lists: ["[[hebrew-bible-characters]]"]
+tour_order: 2
 read: false
 ---
 
 # Elijah
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[hebrew-bible]] · [[judaism]]
+<!-- /foundations -->
 
 ## summary
 

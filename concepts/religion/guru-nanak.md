@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: [Guru Nanak]
 related: ["[[founders-of-religious-traditions]]"]
+requires: ["[[hinduism]]", "[[islam]]"]
 lists: ["[[founders-of-religious-traditions]]"]
+tour_order: 2
 read: false
 ---
 
 # Guru Nanak
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[hinduism]] · [[islam]]
+<!-- /foundations -->
 
 ## summary
 

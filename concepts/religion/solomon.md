@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: [Solomon, King Solomon]
 related: ["[[david]]", "[[bathsheba]]"]
+requires: ["[[judaism]]", "[[hebrew-bible]]"]
 lists: ["[[hebrew-bible-characters]]"]
+tour_order: 2
 read: false
 ---
 
 # Solomon
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[judaism]] · [[hebrew-bible]]
+<!-- /foundations -->
 
 ## summary
 

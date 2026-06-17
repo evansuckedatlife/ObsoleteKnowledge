@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: ["Innocent III", "Pope Innocent III", "Lothar of Segni"]
 related: ["[[peter]]", "[[gregory-vii]]", "[[king-john]]", "[[boniface-viii]]"]
+requires: ["[[christianity]]"]
 lists: ["[[popes]]"]
+tour_order: 2
 read: false
 ---
 
 # Innocent III
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[christianity]]
+<!-- /foundations -->
 
 ## summary
 

@@ -3,11 +3,19 @@ type: text
 category: religion
 defines: [Talmud]
 related: ["[[torah]]", "[[moses]]"]
+requires: ["[[judaism]]", "[[torah]]"]
 lists: ["[[religious-texts]]"]
+tour_order: 2
 read: false
 ---
 
 # Talmud
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[judaism]] · [[torah]]
+<!-- /foundations -->
 
 ## summary
 

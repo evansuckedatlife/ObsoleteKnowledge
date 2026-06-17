@@ -3,11 +3,19 @@ type: event
 category: religion
 defines: [Exodus, The Exodus, Book of Exodus]
 related: ["[[moses]]", "[[pharaoh]]", "[[passover]]", "[[judaism]]", "[[torah]]", "[[golden-calf]]", "[[land-of-milk-and-honey]]"]
+requires: ["[[judaism]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Exodus
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[judaism]]
+<!-- /foundations -->
 
 ## summary
 

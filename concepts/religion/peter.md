@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: [Peter, Simon, Simon Peter, Saint Peter]
 related: ["[[jesus]]", "[[judas-iscariot]]", "[[paul]]"]
+requires: ["[[jesus]]", "[[christianity]]"]
 lists: ["[[new-testament-characters]]", "[[popes]]"]
+tour_order: 2
 read: false
 ---
 
 # Peter
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[jesus]] · [[christianity]]
+<!-- /foundations -->
 
 ## summary
 

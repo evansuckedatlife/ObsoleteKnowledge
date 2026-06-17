@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: [Mary Baker Eddy]
 related: ["[[christian-science]]"]
+requires: ["[[christianity]]", "[[christian-science]]"]
 lists: ["[[founders-of-religious-traditions]]"]
+tour_order: 2
 read: false
 ---
 
 # Mary Baker Eddy
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[christianity]] · [[christian-science]]
+<!-- /foundations -->
 
 ## summary
 

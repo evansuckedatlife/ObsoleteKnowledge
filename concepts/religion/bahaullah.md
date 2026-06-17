@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: ["Baháʼu'lláh", "Mirza Husayn-Ali"]
 related: ["[[bahai-faith]]"]
+requires: ["[[islam]]"]
 lists: ["[[founders-of-religious-traditions]]"]
+tour_order: 2
 read: false
 ---
 
 # Baháʼu'lláh
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[islam]]
+<!-- /foundations -->
 
 ## summary
 

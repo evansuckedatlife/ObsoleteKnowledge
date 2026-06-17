@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: [Samuel]
 related: ["[[saul]]", "[[david]]", "[[judges]]"]
+requires: ["[[hebrew-bible]]", "[[judaism]]"]
 lists: ["[[hebrew-bible-characters]]"]
+tour_order: 2
 read: false
 ---
 
 # Samuel
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[hebrew-bible]] · [[judaism]]
+<!-- /foundations -->
 
 ## summary
 

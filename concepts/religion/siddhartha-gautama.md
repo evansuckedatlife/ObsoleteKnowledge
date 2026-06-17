@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: [Siddhartha Gautama, the Buddha, Gautama Buddha]
 related: ["[[buddhism]]"]
+requires: ["[[buddhism]]"]
 lists: ["[[founders-of-religious-traditions]]"]
+tour_order: 1
 read: false
 ---
 
 # Siddhartha Gautama
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[buddhism]]
+<!-- /foundations -->
 
 ## summary
 

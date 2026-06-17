@@ -3,11 +3,19 @@ type: practice
 category: religion
 defines: [Jewish marriage, kiddushin]
 related: ["[[ketubah]]", "[[jewish-divorce]]", "[[jewish-mourning]]"]
+requires: ["[[judaism]]"]
 lists: ["[[jewish-lifecycle-events]]"]
+tour_order: 1
 read: false
 ---
 
 # Jewish marriage
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[judaism]]
+<!-- /foundations -->
 
 ## summary
 

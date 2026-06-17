@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: [David, King David]
 related: ["[[samuel]]", "[[goliath]]", "[[bathsheba]]", "[[solomon]]"]
+requires: ["[[hebrew-bible]]", "[[judaism]]"]
 lists: ["[[hebrew-bible-characters]]"]
+tour_order: 2
 read: false
 ---
 
 # David
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[hebrew-bible]] · [[judaism]]
+<!-- /foundations -->
 
 ## summary
 

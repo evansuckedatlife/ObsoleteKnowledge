@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: ["Leo X", "Pope Leo X", "Giovanni de' Medici", "Giovanni di Lorenzo de' Medici"]
 related: ["[[peter]]", "[[julius-ii]]", "[[clement-vii]]"]
+requires: ["[[christianity]]"]
 lists: ["[[popes]]"]
+tour_order: 2
 read: false
 ---
 
 # Leo X
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[christianity]]
+<!-- /foundations -->
 
 ## summary
 

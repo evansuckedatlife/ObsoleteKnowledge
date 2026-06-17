@@ -3,7 +3,9 @@ type: concept
 category: religion
 defines: [Hinduism]
 related: ["[[vedas]]", "[[upanishads]]", "[[bhagavad-gita]]", "[[brahman]]", "[[karma-and-dharma]]", "[[ramayana]]", "[[mahabharata]]", "[[trimurti]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 

@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: [Jonah]
 related: ["[[nineveh]]", "[[repentance]]"]
+requires: ["[[hebrew-bible]]"]
 lists: ["[[hebrew-bible-characters]]"]
+tour_order: 2
 read: false
 ---
 
 # Jonah
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[hebrew-bible]]
+<!-- /foundations -->
 
 ## summary
 

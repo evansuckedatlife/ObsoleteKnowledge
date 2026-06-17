@@ -3,11 +3,19 @@ type: holiday
 category: religion
 defines: [Passover, Pesach]
 related: ["[[exodus]]", "[[moses]]", "[[seder]]", "[[judaism]]"]
+requires: ["[[judaism]]"]
 lists: ["[[jewish-holidays]]"]
+tour_order: 1
 read: false
 ---
 
 # Passover
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[judaism]]
+<!-- /foundations -->
 
 ## summary
 

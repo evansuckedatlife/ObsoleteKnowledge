@@ -3,11 +3,19 @@ type: work
 category: religion
 defines: [Mahabharata, Mahabharat]
 related: ["[[arjuna]]", "[[krishna]]", "[[bhagavad-gita]]", "[[ramayana]]", "[[vyasa]]", "[[kurukshetra-war]]"]
+requires: ["[[hinduism]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Mahabharata
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[hinduism]]
+<!-- /foundations -->
 
 ## summary
 

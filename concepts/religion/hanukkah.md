@@ -3,11 +3,19 @@ type: holiday
 category: religion
 defines: [Hanukkah, "Chanukah", "Festival of Lights"]
 related: ["[[maccabees]]", "[[temple-in-jerusalem]]", "[[judaism]]"]
+requires: ["[[judaism]]"]
 lists: ["[[jewish-holidays]]"]
+tour_order: 1
 read: false
 ---
 
 # Hanukkah
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[judaism]]
+<!-- /foundations -->
 
 ## summary
 

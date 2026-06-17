@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: ["Boniface VIII", "Pope Boniface VIII", "Benedetto Caetani"]
 related: ["[[peter]]", "[[innocent-iii]]"]
+requires: ["[[christianity]]", "[[roman-empire]]"]
 lists: ["[[popes]]"]
+tour_order: 2
 read: false
 ---
 
 # Boniface VIII
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[christianity]] · [[roman-empire]]
+<!-- /foundations -->
 
 ## summary
 

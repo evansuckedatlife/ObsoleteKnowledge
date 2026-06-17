@@ -3,11 +3,19 @@ type: practice
 category: religion
 defines: [Jewish divorce, get]
 related: ["[[jewish-marriage]]", "[[jewish-mourning]]"]
+requires: ["[[judaism]]"]
 lists: ["[[jewish-lifecycle-events]]"]
+tour_order: 1
 read: false
 ---
 
 # Jewish divorce
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[judaism]]
+<!-- /foundations -->
 
 ## summary
 

@@ -3,11 +3,19 @@ type: work
 category: religion
 defines: [Ramayana]
 related: ["[[rama]]", "[[sita]]", "[[hanuman]]", "[[mahabharata]]", "[[valmiki]]", "[[ravana]]"]
+requires: ["[[hinduism]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Ramayana
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[hinduism]]
+<!-- /foundations -->
 
 ## summary
 

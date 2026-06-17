@@ -3,11 +3,19 @@ type: phrase
 category: religion
 defines: [the writing on the wall, the handwriting on the wall]
 related: ["[[book-of-daniel]]", "[[daniel]]"]
+requires: ["[[hebrew-bible]]"]
 lists: ["[[biblical-sayings]]"]
+tour_order: 2
 read: false
 ---
 
 # the writing on the wall
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[hebrew-bible]]
+<!-- /foundations -->
 
 ## summary
 

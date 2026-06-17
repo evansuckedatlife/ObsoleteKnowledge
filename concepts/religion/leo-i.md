@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: ["Leo I", "Saint Leo the Great", "Pope Leo I"]
 related: ["[[peter]]", "[[jesus]]"]
+requires: ["[[christianity]]"]
 lists: ["[[popes]]"]
+tour_order: 2
 read: false
 ---
 
 # Leo I
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[christianity]]
+<!-- /foundations -->
 
 ## summary
 

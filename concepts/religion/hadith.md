@@ -3,11 +3,19 @@ type: text
 category: religion
 defines: [Hadith]
 related: ["[[muhammad]]", "[[quran]]"]
+requires: ["[[islam]]", "[[muhammad]]"]
 lists: ["[[religious-texts]]"]
+tour_order: 3
 read: false
 ---
 
 # Hadith
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[islam]] · [[muhammad]]
+<!-- /foundations -->
 
 ## summary
 

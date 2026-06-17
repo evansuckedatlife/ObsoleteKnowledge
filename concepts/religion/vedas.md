@@ -3,11 +3,19 @@ type: text
 category: religion
 defines: [Vedas]
 related: []
+requires: ["[[hinduism]]"]
 lists: ["[[religious-texts]]"]
+tour_order: 1
 read: false
 ---
 
 # Vedas
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[hinduism]]
+<!-- /foundations -->
 
 ## summary
 

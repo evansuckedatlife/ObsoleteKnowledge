@@ -3,11 +3,19 @@ type: phrase
 category: religion
 defines: [ye of little faith, O ye of little faith]
 related: ["[[gospels]]", "[[jesus]]"]
+requires: ["[[jesus]]", "[[christianity]]"]
 lists: ["[[biblical-sayings]]"]
+tour_order: 2
 read: false
 ---
 
 # ye of little faith
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[jesus]] · [[christianity]]
+<!-- /foundations -->
 
 ## summary
 

@@ -3,11 +3,19 @@ type: text
 category: religion
 defines: ["Bhagavad Gita", "the Gita"]
 related: ["[[krishna]]", "[[arjuna]]", "[[mahabharata]]"]
+requires: ["[[hinduism]]"]
 lists: ["[[religious-texts]]"]
+tour_order: 1
 read: false
 ---
 
 # Bhagavad Gita
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[hinduism]]
+<!-- /foundations -->
 
 ## summary
 

@@ -3,11 +3,19 @@ type: concept
 category: religion
 defines: [Islam]
 related: ["[[muhammad]]", "[[quran]]", "[[mecca]]", "[[five-pillars-of-islam]]", "[[sunni-and-shia]]", "[[al-andalus]]", "[[islamic-golden-age]]", "[[caliphate]]"]
+requires: ["[[judaism]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Islam
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[judaism]]
+<!-- /foundations -->
 
 ## summary
 

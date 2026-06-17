@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: [Thomas, Doubting Thomas]
 related: ["[[jesus]]", "[[resurrection]]", "[[the-twelve-apostles]]"]
+requires: ["[[jesus]]", "[[christianity]]"]
 lists: ["[[new-testament-characters]]"]
+tour_order: 2
 read: false
 ---
 
 # Thomas
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[jesus]] · [[christianity]]
+<!-- /foundations -->
 
 ## summary
 

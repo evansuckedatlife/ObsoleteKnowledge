@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: [Judas Iscariot, Judas]
 related: ["[[jesus]]", "[[peter]]", "[[crucifixion]]"]
+requires: ["[[jesus]]"]
 lists: ["[[new-testament-characters]]"]
+tour_order: 2
 read: false
 ---
 
 # Judas Iscariot
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[jesus]]
+<!-- /foundations -->
 
 ## summary
 

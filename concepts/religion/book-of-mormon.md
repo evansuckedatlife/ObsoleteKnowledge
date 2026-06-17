@@ -3,11 +3,19 @@ type: text
 category: religion
 defines: ["Book of Mormon"]
 related: ["[[joseph-smith]]"]
+requires: ["[[christianity]]"]
 lists: ["[[religious-texts]]"]
+tour_order: 2
 read: false
 ---
 
 # Book of Mormon
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[christianity]]
+<!-- /foundations -->
 
 ## summary
 

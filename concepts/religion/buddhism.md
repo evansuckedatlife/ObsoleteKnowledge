@@ -3,7 +3,9 @@ type: concept
 category: religion
 defines: [Buddhism]
 related: ["[[siddhartha-gautama]]", "[[four-noble-truths]]", "[[noble-eightfold-path]]", "[[upanishads]]", "[[tao-te-ching]]", "[[ashoka]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 

@@ -3,11 +3,19 @@ type: practice
 category: religion
 defines: [Jewish baby naming, "simchat bat", "zeved habat"]
 related: ["[[brit-milah]]", "[[bar-bat-mitzvah]]"]
+requires: ["[[judaism]]"]
 lists: ["[[jewish-lifecycle-events]]"]
+tour_order: 1
 read: false
 ---
 
 # Jewish baby naming
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[judaism]]
+<!-- /foundations -->
 
 ## summary
 

@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: [Mary Magdalene]
 related: ["[[jesus]]", "[[resurrection]]", "[[crucifixion]]"]
+requires: ["[[jesus]]", "[[christianity]]"]
 lists: ["[[new-testament-characters]]"]
+tour_order: 2
 read: false
 ---
 
 # Mary Magdalene
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[jesus]] · [[christianity]]
+<!-- /foundations -->
 
 ## summary
 

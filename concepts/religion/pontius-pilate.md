@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: [Pontius Pilate, Pilate]
 related: ["[[jesus]]", "[[crucifixion]]", "[[herod]]"]
+requires: ["[[jesus]]", "[[christianity]]", "[[roman-empire]]"]
 lists: ["[[new-testament-characters]]"]
+tour_order: 2
 read: false
 ---
 
 # Pontius Pilate
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[jesus]] · [[christianity]] · [[roman-empire]]
+<!-- /foundations -->
 
 ## summary
 

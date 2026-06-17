@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: [John the Apostle, John the Evangelist]
 related: ["[[jesus]]", "[[peter]]", "[[the-twelve-apostles]]"]
+requires: ["[[jesus]]"]
 lists: ["[[new-testament-characters]]"]
+tour_order: 2
 read: false
 ---
 
 # John the Apostle
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[jesus]]
+<!-- /foundations -->
 
 ## summary
 

@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: [Daniel]
 related: ["[[babylon]]", "[[nebuchadnezzar]]"]
+requires: ["[[hebrew-bible]]", "[[judaism]]"]
 lists: ["[[hebrew-bible-characters]]"]
+tour_order: 2
 read: false
 ---
 
 # Daniel
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[hebrew-bible]] · [[judaism]]
+<!-- /foundations -->
 
 ## summary
 

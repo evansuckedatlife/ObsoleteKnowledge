@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: [Muhammad]
 related: ["[[quran]]", "[[hadith]]", "[[abraham]]"]
+requires: ["[[islam]]"]
 lists: ["[[founders-of-religious-traditions]]"]
+tour_order: 2
 read: false
 ---
 
 # Muhammad
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[islam]]
+<!-- /foundations -->
 
 ## summary
 

@@ -3,11 +3,19 @@ type: text
 category: religion
 defines: ["Qur'an", Koran]
 related: ["[[muhammad]]", "[[hadith]]"]
+requires: ["[[islam]]", "[[muhammad]]"]
 lists: ["[[religious-texts]]"]
+tour_order: 3
 read: false
 ---
 
 # Qur'an
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[islam]] · [[muhammad]]
+<!-- /foundations -->
 
 ## summary
 

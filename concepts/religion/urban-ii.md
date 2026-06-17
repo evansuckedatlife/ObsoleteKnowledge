@@ -3,11 +3,19 @@ type: person
 category: religion
 defines: ["Urban II", "Pope Urban II", "Odo of Châtillon", "Odo of Lagery"]
 related: ["[[peter]]", "[[gregory-vii]]", "[[innocent-iii]]"]
+requires: ["[[christianity]]"]
 lists: ["[[popes]]"]
+tour_order: 2
 read: false
 ---
 
 # Urban II
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[christianity]]
+<!-- /foundations -->
 
 ## summary
 

@@ -3,11 +3,19 @@ type: text
 category: religion
 defines: [Upanishads]
 related: ["[[vedas]]"]
+requires: ["[[hinduism]]"]
 lists: ["[[religious-texts]]"]
+tour_order: 1
 read: false
 ---
 
 # Upanishads
+
+
+<!-- foundations -->
+> [!note]+ Foundations — read these first
+> [[hinduism]]
+<!-- /foundations -->
 
 ## summary
 
