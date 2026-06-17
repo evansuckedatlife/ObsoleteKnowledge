@@ -11,21 +11,40 @@ read: false
 
 ## summary
 
-Sodium is a soft, silvery-white, highly reactive alkali metal that belongs to Group 1 of the periodic table. It is abundant on Earth, primarily occurring in the form of rock salt (sodium chloride) in oceans and evaporite deposits. Due to its extreme reactivity, sodium never occurs as a free element in nature and must be stored under mineral oil or inert gas to prevent violent reaction with moisture and oxygen in the air.
+**Sodium** is a soft, silvery-white alkali metal and the sixth most abundant element in Earth's crust. Though highly reactive as a free element—reacting violently with water and oxygen, so it must be stored under mineral oil or inert atmosphere—sodium is ubiquitous in nature as sodium chloride (salt) and in numerous minerals. Physiologically, sodium is essential: it generates cellular electric potentials and maintains osmotic balance in all living organisms, making it one of the most critical elements for life.
 
 ## you gotta know
 
-- *Isolated by Humphry Davy* in 1807 through the electrolysis of molten sodium hydroxide.
-- *Reacts violently with water*, yielding sodium hydroxide and flammable hydrogen gas, which is often ignited by the heat of the reaction.
-- *Produces an intense yellow color in flame tests*, arising from emission at the doublet "D-lines" of the sodium spectrum at approximately 589 nanometers.
-- *Manufactured industrially via the Downs cell*, an electrochemical process that electrolyzes a molten mixture of sodium chloride and calcium chloride.
-- *Generates cellular action potentials* in animals via the sodium-potassium pump, which exchanges three intracellular sodium ions for two extracellular potassium ions.
+### Discovery and Isolation
+- *Isolated by Humphry Davy* in 1807 through electrolysis of molten sodium hydroxide, one of the first elements discovered by electrochemistry.
+- *Atomic number 11*; belongs to Group 1 (alkali metals); electron configuration `[Ne] 3s¹` gives it a single valence electron and a strong tendency to lose it, forming Na⁺.
+
+### Chemical Reactivity and Properties
+- *Reacts violently with water*, yielding sodium hydroxide (NaOH) and hydrogen gas (H₂), which is often ignited by the exothermic heat: `2Na + 2H₂O → 2NaOH + H₂↑`.
+- *Reacts explosively with chlorine gas* to form sodium chloride (the familiar salt); this classic demonstration illustrates the reactivity of alkali metals.
+- *Produces an intense yellow color in flame tests*, emitted at the "sodium doublet" D-lines (589 nm in the yellow region), used to identify sodium in qualitative analysis.
+- *Lower density than water* (~0.97 g/cm³); the only metal that floats on water (if it didn't react so violently, it would bob).
+
+### Industrial and Biological Significance
+- *Manufactured industrially via the Downs cell*, an electrochemical process electrolyzing molten NaCl + CaCl₂ to yield metallic sodium and chlorine gas.
+- *Sodium compounds* (chloride, nitrate, carbonate, sulfate) are among the most important in industry: salt is used in electrolysis, de-icing, and food preservation; sodium hydroxide in soap and detergent manufacture; sodium carbonate in glass production.
+- *Sodium-potassium pump* (Na⁺/K⁺-ATPase): maintains cellular osmotic balance and generates ion gradients that drive action potentials; exchanges three intracellular Na⁺ for two extracellular K⁺, powered by ATP hydrolysis.
+- *Essential nutrient*: sodium ions regulate nerve transmission, muscle contraction, blood pressure, and fluid balance; dietary sodium intake is carefully regulated in mammals.
+
+## context
+
+Sodium connects chemistry, geology, biology, and human health. As a free element, it is a classic example of the periodic table's reactivity trends—the alkali metals lose electrons readily, and sodium sits at the boundary between extreme reactivity and industrial utility. Historically, the isolation of sodium was a triumph of electrochemistry and changed how chemists thought about discovering elements. Industrially, sodium and its compounds are foundational: salt is one of the oldest and most abundant traded commodities, and the Solvay process (ammonia-soda process) revolutionized the manufacture of sodium carbonate, enabling modern detergents and glass. Biologically, sodium is one of the "major ions" alongside potassium, calcium, and chloride; the sodium-potassium pump is a paradigmatic example of ATP-driven active transport. In quiz bowl, sodium appears frequently in the context of periodic trends, the alkali metals, flame tests, and physiological ion balance.
 
 ## connections
 
-- [[potassium]] — a neighboring alkali metal that serves as the primary intracellular counter-ion to sodium.
-- [[chlorine]] — combines with sodium to form sodium chloride (table salt).
-- [[mercury]] — dissolves in mercury to form sodium amalgam, a useful reducing agent in organic synthesis.
+- [[potassium]] — neighboring alkali metal and the osmotic counterpart to sodium in cells; part of the Na⁺/K⁺ pump balance.
+- [[chlorine]] — forms sodium chloride (table salt), the most abundant sodium compound; classic example of ionic bonding between metal and nonmetal.
+- [[mercury]] — forms sodium amalgam (a useful reducing agent in organic synthesis); demonstrates sodium's reducing power.
+- [[alkali-metals]] — sodium is a member of Group 1; shares chemical properties with lithium, potassium, rubidium, cesium.
+- [[sodium-potassium-pump]] — essential cellular protein that maintains ion gradients using sodium and potassium.
+- [[action-potential]] — generated by sodium ion influx across the cell membrane during the depolarization phase.
+- [[electrochemistry]] — sodium is isolated via the Downs cell, an exemplary industrial electrochemical process.
+- [[solvay-process]] — industrial synthesis of sodium carbonate from sodium chloride, ammonia, and limestone.
 
 ## see also
 

@@ -1,10 +1,16 @@
 ---
 type: term
 category: science
-defines: [Gluon]
-related: ["[[gauge-boson]]", "[[quark]]", "[[quantum-chromodynamics]]", "[[hadron]]"]
-lists: ["[[classes-of-particles]]"]
-read: false
+defines:
+  - Gluon
+related:
+  - "[[gauge-boson]]"
+  - "[[quark]]"
+  - "[[quantum-chromodynamics]]"
+  - "[[hadron]]"
+lists:
+  - "[[classes-of-particles]]"
+read: true
 ---
 
 # Gluon

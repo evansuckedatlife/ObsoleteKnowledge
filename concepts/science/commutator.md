@@ -1,10 +1,15 @@
 ---
 type: concept
 category: science
-defines: ["Commutator"]
-related: ["[[quantum-operator]]", "[[uncertainty-principle]]", "[[eigenvalue]]"]
-lists: ["[[quantum-mechanics-concepts]]"]
-read: false
+defines:
+  - Commutator
+related:
+  - "[[quantum-operator]]"
+  - "[[uncertainty-principle]]"
+  - "[[eigenvalue]]"
+lists:
+  - "[[quantum-mechanics-concepts]]"
+read: true
 ---
 
 # Commutator

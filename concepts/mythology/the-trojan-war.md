@@ -12,26 +12,45 @@ aliases: [trojan-war]
 
 ## summary
 
-The Trojan War is the legendary conflict in Greek mythology waged by the Greeks (Achaeans) against the city of Troy. Spurred by the abduction of Helen, queen of Sparta, by the Trojan prince Paris, the war lasted ten years and ended with the complete sack of Troy. It is the central subject of many works of Greek literature, most famously Homer's epics.
+**The Trojan War** is the legendary conflict in Greek mythology between the Greeks (Achaeans) and the city of Troy, precipitated by the abduction of Helen of Sparta by the Trojan prince Paris. The ten-year siege, spanning from the Bronze Age into early Greek historical memory, ended with Troy's destruction via the famous wooden horse—a triumph that paradoxically sowed the seeds of catastrophe for the returning Greeks. This event forms the backdrop for much of Greek literature and mythology, defining the heroic age and establishing paradigms of honor, fate, and divine intervention that would echo through Western culture for millennia.
 
 ## you gotta know
 
-- The war was sparked when the Trojan prince *Paris* abducted *Helen*, the wife of Menelaus, king of Sparta, after Aphrodite promised her to him in the Judgment of Paris.
-- The Greek forces were led by *Agamemnon*, king of Mycenae, who assembled a fleet of a thousand ships to sail to Troy, famously sacrificing his daughter Iphigenia to secure favorable winds.
-- The conflict lasted *ten years*, during which major battles occurred along the Trojan plain, culminating in the duel where the Greek champion *Achilles* killed the Trojan hero *Hector*.
-- The Greeks finally breached the city's walls using the *Trojan Horse*, a massive wooden horse designed by Odysseus and filled with Greek warriors, which the Trojans mistakenly brought inside as an offering.
-- The primary literary source for the war's final year is Homer's *Iliad*, while the aftermath and returns of the heroes are detailed in the *Odyssey* and Virgil's *Aeneid*.
-- The war was closely watched and influenced by the Olympian gods, who took sides: Hera, Athena, and Poseidon aided the Greeks, while Apollo, Aphrodite, and Ares supported the Trojans.
+### Origins and Causes
+- The war began when *Paris* abducted *Helen*, wife of King *Menelaus* of Sparta, after Aphrodite promised her to him in the *Judgment of Paris*—a divine beauty contest among three goddesses.
+- *Menelaus* called upon the oath sworn by Helen's former suitors to defend his claim; this oath bound the Greek kings, particularly *Agamemnon*, to join the expedition.
+- *Agamemnon*, king of Mycenae, assembled the largest Greek fleet ever gathered—traditionally a thousand ships—and commanded the unified Achaean forces.
+
+### The War and Major Events
+- The siege lasted *ten years*, during which both sides built walls and camps across the Trojan plain, with periodic raids into the surrounding countryside.
+- The war's final year is detailed in Homer's *Iliad*: *Achilles*, the greatest Greek warrior, withdrew his forces after *Agamemnon* dishonored him by seizing his war captive, leaving the Greeks nearly defeated.
+- *Hector*, the Trojan champion, killed *Achilles's* beloved companion *Patroclus*; in revenge, Achilles returned to battle and slew Hector in single combat, desecrating his corpse.
+
+### The Fall of Troy
+- The Greeks breached Troy's impregnable walls using the *Trojan Horse*, a massive wooden structure containing hidden warriors and designed by *Odysseus*.
+- The Trojans, believing the horse was a sacred offering, brought it inside the city walls; that night, the Greek soldiers emerged and opened the gates to the waiting army.
+- The city was sacked and burned, its population slaughtered or enslaved, and its wealth plundered; King *Priam* was killed at the altar of Zeus.
+
+### Divine Involvement
+- The gods took active sides: *Athena* and *Poseidon* championed the Greeks, while *Apollo*, *Aphrodite*, and *Ares* supported Troy.
+- Divine figures physically intervened in battles and rescue attempts; for instance, *Poseidon* shielded certain Greeks while *Apollo* guided Trojan arrows.
+
+## context
+
+The Trojan War anchors Greek mythology and Western literature as the defining conflict of the heroic age. It bridges myth and history—no direct archaeological evidence confirms its exact events, yet the Mycenaean civilization did flourish during the Bronze Age, and Troy's location was excavated in the 19th century, showing evidence of ancient destruction. The war became the organizing principle for dozens of myths: the homecomings (*nostoi*) of the heroes, the curse on Agamemnon's family, the founding of Rome (via Aeneas), and the nature of heroism itself. It has been retold in countless works—from Sophocles and Euripides through Virgil to modern retellings—making it perhaps the single most influential myth in the Western tradition. The figures of Achilles, Hector, and Odysseus became templates for the warrior-hero across centuries of literature and art.
 
 ## connections
 
-- [[helen-of-troy]] — the queen whose abduction was the catalyst for the war.
-- [[achilles]] — the greatest Greek warrior, whose rage is the central theme of the *Iliad*.
-- [[hector]] — the Trojan champion and defender of the city, killed by Achilles.
-- [[agamemnon]] — the supreme commander of the Greek forces.
-- [[paris]] — the Trojan prince who abducted Helen and later killed Achilles with a guided arrow.
-- [[the-iliad]] — the epic poem recounting a brief period near the end of the war.
-- [[the-odyssey]] — the epic poem detailing the return of Odysseus after the fall of Troy.
+- [[helen-of-troy]] — the woman whose abduction sparked the war and became the embodiment of beauty and fatality.
+- [[achilles]] — the preeminent Greek warrior whose rage and vulnerability define the heroic ideal.
+- [[hector]] — the noble Trojan defender whose death marks the beginning of Troy's fall.
+- [[agamemnon]] — the supreme commander whose pride and dysfunction foreshadow Greek disaster upon their return.
+- [[paris]] — the Trojan prince whose judgment and choice set the machinery of war in motion.
+- [[odysseus]] — the strategist who conceived the Trojan Horse and whose return home structures the *Odyssey*.
+- [[the-iliad]] — Homer's epic chronicling the final year and emotional core of the war.
+- [[the-odyssey]] — Homer's epic detailing the arduous homecomings of the Greek heroes.
+- [[the-aeneid]] — Virgil's Roman retelling that follows Aeneas's escape and destiny.
+- [[homer]] — the poet to whom both foundational epics are attributed.
 
 ## see also
 

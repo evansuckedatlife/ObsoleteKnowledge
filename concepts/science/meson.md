@@ -1,10 +1,16 @@
 ---
 type: term
 category: science
-defines: [Meson]
-related: ["[[hadron]]", "[[quark]]", "[[baryon]]", "[[pion]]"]
-lists: ["[[classes-of-particles]]"]
-read: false
+defines:
+  - Meson
+related:
+  - "[[hadron]]"
+  - "[[quark]]"
+  - "[[baryon]]"
+  - "[[pion]]"
+lists:
+  - "[[classes-of-particles]]"
+read: true
 ---
 
 # Meson

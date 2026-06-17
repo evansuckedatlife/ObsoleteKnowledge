@@ -1,10 +1,17 @@
 ---
 type: term
 category: science
-defines: [Quark]
-related: ["[[fermion]]", "[[hadron]]", "[[baryon]]", "[[meson]]", "[[quantum-chromodynamics]]"]
-lists: ["[[classes-of-particles]]"]
-read: false
+defines:
+  - Quark
+related:
+  - "[[fermion]]"
+  - "[[hadron]]"
+  - "[[baryon]]"
+  - "[[meson]]"
+  - "[[quantum-chromodynamics]]"
+lists:
+  - "[[classes-of-particles]]"
+read: true
 ---
 
 # Quark

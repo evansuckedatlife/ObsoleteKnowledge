@@ -11,27 +11,41 @@ read: false
 
 ## summary
 
-Jesus, also known as Jesus of Nazareth or Jesus Christ, is the central figure of Christianity, which teaches him to be the Son of God and the awaited Messiah prophesied in the Hebrew Bible. Active as a Jewish preacher and healer in first-century Judaea, his teachings on love, repentance, and the kingdom of God gathered a large following. His execution by crucifixion under Pontius Pilate and his subsequent resurrection form the theological foundation of the Christian faith.
+**Jesus**, also known as Jesus of Nazareth or Jesus Christ, is the central figure of Christianity and one of the most influential figures in human history. Understood by Christians as the Son of God and the Messiah prophesied in the Hebrew Bible, he was an itinerant Jewish preacher and healer active in first-century Judaea. His teachings on love, repentance, forgiveness, and the coming kingdom of God gathered a devoted following and challenged the religious and political establishment. His execution by crucifixion under the Roman governor *Pontius Pilate* and the Christian belief in his resurrection form the theological core of Christianity. For nearly two thousand years, his life has been the subject of intense theological reflection, artistic creation, and historical scrutiny, making him central to Western civilization.
 
 ## you gotta know
 
-- He was born to the *Virgin Mary* in Bethlehem during the reign of Herod the Great, and grew up in Nazareth.
-- His public ministry began when he was baptized by *John the Baptist* in the River Jordan, after which he selected *twelve apostles* to follow him.
-- His teachings are heavily preserved in the New Testament *Gospels* (Matthew, Mark, Luke, and John), featuring famous discourses like the *Sermon on the Mount* (which includes the Beatitudes and the Lord's Prayer) and parables like the *Good Samaritan*.
-- He performed numerous miracles, including walking on water, feeding five thousand people with five loaves and two fish, and raising *Lazarus* from the dead.
-- He was betrayed by his apostle *Judas Iscariot* for thirty pieces of silver, arrested in the Garden of Gethsemane, and denied three times by *Peter*.
-- He was condemned to death by the Roman governor *Pontius Pilate* and executed via *crucifixion*, with Christians believing he rose from the dead three days later.
+### Life and Ministry
+- Born to *Virgin Mary* in Bethlehem during Herod the Great's reign; grew up in Nazareth and spoke Aramaic.
+- His public ministry began with baptism by *John the Baptist* in the River Jordan, where he was proclaimed the Messiah.
+- He selected *twelve apostles* (disciples) to follow him, with *Peter*, *James*, and *John* forming an inner circle.
+
+### Teachings and Miracles
+- His teachings are preserved in the New Testament *Gospels* (Matthew, Mark, Luke, John) and include the *Sermon on the Mount* (with the Beatitudes and Lord's Prayer).
+- Famous parables include the *Good Samaritan*, the *Prodigal Son*, and the *Sower*, using everyday imagery to convey spiritual truths.
+- He performed miracles including walking on water, feeding five thousand with five loaves and two fish, healing the sick, and raising *Lazarus* from the dead.
+
+### Passion and Resurrection
+- *Judas Iscariot*, one of his apostles, betrayed him for thirty pieces of silver; Jesus was arrested in the Garden of Gethsemane.
+- *Peter* denied knowing him three times during the trial, as Jesus had predicted.
+- He was condemned to death by *Pontius Pilate* and executed by *crucifixion* at Golgotha; Christians believe he rose from the dead three days later.
+
+## context
+
+No figure in Western history has generated more theological interpretation, artistic representation, and historical debate than Jesus. The *Gospels*, written decades after his death, blend eyewitness testimony, theological interpretation, and symbolic language, making the historical Jesus a subject of intense scholarly disagreement. Yet regardless of theological belief, his ethical teachings (the *Golden Rule*, love of enemy, care for the poor) have become foundational to Western moral philosophy. The split between Judaism and Christianity originated in differing interpretations of Jesus's identity and mission: Jewish authorities rejected his claims to Messiahship, while his followers came to see him as divine. In quiz bowl and culture, he appears as the intersection of history and theology, ancient Judaism and nascent Christianity, political challenge and spiritual authority.
 
 ## connections
 
-- [[gospels]] — the four canonical records of his life and teachings.
-- [[crucifixion]] — the manner of his death under Roman rule.
-- [[john-the-baptist]] — the prophet who baptized him and declared him the Messiah.
-- [[john-the-apostle]] — his apostle who was present at his crucifixion.
-- [[peter]] — his chief apostle, who denied him but became the leader of his disciples.
-- [[judas-iscariot]] — the disciple who betrayed him to the Jewish authorities.
-- [[virgin-mary]] — his mother, who stood at the foot of his cross.
-- [[pontius-pilate]] — the Roman governor of Judaea who ordered his execution.
+- [[gospels]] — the four canonical records of his life, teachings, and redemptive mission.
+- [[crucifixion]] — the Roman method of execution through which he was put to death.
+- [[john-the-baptist]] — the prophet who baptized him and declared him the coming Messiah.
+- [[peter]] — his chief apostle, who denied him but became the leader of the post-Resurrection church.
+- [[judas-iscariot]] — the apostle whose betrayal led to Jesus's arrest and execution.
+- [[virgin-mary]] — his mother, present at his crucifixion and in early Christian tradition.
+- [[pontius-pilate]] — the Roman governor of Judaea who ordered his crucifixion.
+- [[john-the-apostle]] — the beloved disciple entrusted with Mary's care at the cross.
+- [[paul]] — the Pharisee who initially persecuted Christians but became the apostle to the Gentiles and theologian of Jesus's death and resurrection.
+- [[judaism]] — the religious tradition into which Jesus was born and against which early Christianity defined itself.
 
 ## see also
 

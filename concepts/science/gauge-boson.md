@@ -1,10 +1,18 @@
 ---
 type: term
 category: science
-defines: [Gauge boson, vector boson]
-related: ["[[boson]]", "[[photon]]", "[[w-boson]]", "[[z-boson]]", "[[gluon]]"]
-lists: ["[[classes-of-particles]]"]
-read: false
+defines:
+  - Gauge boson
+  - vector boson
+related:
+  - "[[boson]]"
+  - "[[photon]]"
+  - "[[w-boson]]"
+  - "[[z-boson]]"
+  - "[[gluon]]"
+lists:
+  - "[[classes-of-particles]]"
+read: true
 ---
 
 # Gauge boson

@@ -1,10 +1,17 @@
 ---
 type: term
 category: science
-defines: [Hadron]
-related: ["[[quark]]", "[[gluon]]", "[[baryon]]", "[[meson]]", "[[quantum-chromodynamics]]"]
-lists: ["[[classes-of-particles]]"]
-read: false
+defines:
+  - Hadron
+related:
+  - "[[quark]]"
+  - "[[gluon]]"
+  - "[[baryon]]"
+  - "[[meson]]"
+  - "[[quantum-chromodynamics]]"
+lists:
+  - "[[classes-of-particles]]"
+read: true
 ---
 
 # Hadron

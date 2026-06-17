@@ -1,10 +1,16 @@
 ---
 type: term
 category: science
-defines: [Baryon]
-related: ["[[hadron]]", "[[quark]]", "[[proton]]", "[[neutron]]"]
-lists: ["[[classes-of-particles]]"]
-read: false
+defines:
+  - Baryon
+related:
+  - "[[hadron]]"
+  - "[[quark]]"
+  - "[[proton]]"
+  - "[[neutron]]"
+lists:
+  - "[[classes-of-particles]]"
+read: true
 ---
 
 # Baryon
