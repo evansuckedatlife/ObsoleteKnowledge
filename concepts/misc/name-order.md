@@ -5,11 +5,11 @@ defines:
   - Name order
   - Family name placement
   - Surname convention
-related:
-  - "[[cultural-naming-conventions]]"
-  - "[[geography]]"
+related: ["[[cultural-naming-conventions]]", "[[geography]]"]
+requires: []
 lists:
   - "[[common-mistakes-2]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +37,18 @@ read: false
 ## see also
 
 - [[cultural-conventions]] · [[international-naming]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

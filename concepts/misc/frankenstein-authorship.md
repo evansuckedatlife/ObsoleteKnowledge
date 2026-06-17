@@ -4,11 +4,11 @@ category: misc
 defines:
   - Frankenstein authorship myth
   - Victor Frankenstein vs the creature
-related:
-  - "[[mary-shelley]]"
-  - "[[gothic-literature]]"
+related: ["[[mary-shelley]]", "[[gothic-literature]]"]
+requires: []
 lists:
   - "[[common-mistakes]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +36,18 @@ A widespread misconception holds that *Frankenstein* refers to the monster itsel
 ## see also
 
 - [[gothic-literature]] · [[mary-shelley]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

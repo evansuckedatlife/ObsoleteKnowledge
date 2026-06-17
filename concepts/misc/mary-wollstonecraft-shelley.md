@@ -5,12 +5,11 @@ defines:
   - Mary Wollstonecraft Shelley
   - Mary Shelley
   - Mary Godwin
-related:
-  - "[[mary-wollstonecraft]]"
-  - "[[percy-bysshe-shelley]]"
-  - "[[frankenstein]]"
+related: ["[[mary-wollstonecraft]]", "[[percy-bysshe-shelley]]", "[[frankenstein]]"]
+requires: []
 lists:
   - "[[common-mistakes]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ Mary Wollstonecraft Shelley is often confused with or conflated with her mother,
 ## see also
 
 - [[mary-wollstonecraft]] · [[percy-bysshe-shelley]] · [[frankenstein]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

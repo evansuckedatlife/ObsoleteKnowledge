@@ -4,16 +4,22 @@ category: misc
 defines:
   - 1962 Seattle World's Fair
   - Century 21 Exposition
-related:
-  - "[[space-needle]]"
-  - "[[space-age]]"
-  - "[[monorail]]"
+related: ["[[space-needle]]", "[[space-age]]", "[[monorail]]"]
+requires: ["[[1851-great-exhibition-london]]"]
 lists:
   - "[[worlds-fairs]]"
+tour_order: 2
 read: false
 ---
 
 # 1962 Seattle World's Fair (Century 21 Exposition)
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ The 1962 Seattle World's Fair, officially titled *Century 21 Exposition*, celebr
 ## see also
 
 - [[1939-new-york-worlds-fair]] · [[1964-new-york-worlds-fair]] · [[1967-montreal-expo-67]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

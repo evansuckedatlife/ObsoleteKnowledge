@@ -4,16 +4,22 @@ category: misc
 defines:
   - 1900 Exposition Universelle
   - Paris World's Fair 1900
-related:
-  - "[[belle-epoque]]"
-  - "[[art-nouveau]]"
-  - "[[1889-paris-worlds-fair]]"
+related: ["[[belle-epoque]]", "[[art-nouveau]]", "[[1889-paris-worlds-fair]]"]
+requires: ["[[1851-great-exhibition-london]]"]
 lists:
   - "[[worlds-fairs]]"
+tour_order: 2
 read: false
 ---
 
 # 1900 Paris Exposition Universelle
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ The 1900 Paris Exposition Universelle, held from April to November, was the seco
 ## see also
 
 - [[1889-paris-worlds-fair]] · [[1893-chicago-worlds-fair]] · [[1904-st-louis-worlds-fair]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

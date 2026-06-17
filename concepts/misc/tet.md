@@ -5,12 +5,11 @@ defines:
   - Tết
   - Tết Nguyên Đán
   - Vietnamese New Year
-related:
-  - "[[chinese-new-year]]"
-  - "[[lunar-calendar]]"
-  - "[[vietnam]]"
+related: ["[[chinese-new-year]]", "[[lunar-calendar]]", "[[vietnam]]"]
+requires: []
 lists:
   - "[[new-year-celebrations]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ read: false
 ## see also
 
 - [[chinese-new-year]] · [[nowruz]] · [[shogatsu]] · [[songkran]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

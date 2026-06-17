@@ -4,16 +4,22 @@ category: misc
 defines:
   - 1939 New York World's Fair
   - 1939-1940 New York World's Fair
-related:
-  - "[[great-depression]]"
-  - "[[futurism]]"
-  - "[[trylon-and-perisphere]]"
+related: ["[[great-depression]]", "[[futurism]]", "[[trylon-and-perisphere]]"]
+requires: ["[[1851-great-exhibition-london]]"]
 lists:
   - "[[worlds-fairs]]"
+tour_order: 2
 read: false
 ---
 
 # 1939 New York World's Fair
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ The 1939 New York World's Fair, held in *Flushing Meadows, Queens*, was a celebr
 ## see also
 
 - [[1904-st-louis-worlds-fair]] · [[1962-seattle-worlds-fair]] · [[1964-new-york-worlds-fair]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

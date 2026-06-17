@@ -4,12 +4,11 @@ category: misc
 defines:
   - Five Pillars of Islam
   - Pillars of Islam
-related:
-  - "[[islam]]"
-  - "[[muhammadism]]"
-  - "[[quran]]"
+related: ["[[islam]]", "[[muhammadism]]", "[[quran]]"]
+requires: []
 lists:
   - "[[quintuples]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ The *Five Pillars of Islam* are the foundational religious obligations for all M
 ## see also
 
 - [[islam]] · [[quran]] · [[shariah]] · [[ramadan]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,12 +4,11 @@ category: misc
 defines:
   - Cinque Ports
   - Five Ports
-related:
-  - "[[england]]"
-  - "[[medieval-england]]"
-  - "[[english-coast]]"
+related: ["[[england]]", "[[medieval-england]]", "[[english-coast]]"]
+requires: []
 lists:
   - "[[quintuples]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ The *Cinque Ports* (French for "five ports") are a historic maritime confederati
 ## see also
 
 - [[england]] · [[medieval-england]] · [[english-channel]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

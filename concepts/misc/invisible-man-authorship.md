@@ -5,12 +5,11 @@ defines:
   - The Invisible Man
   - H.G. Wells The Invisible Man
   - Invisible Man Ralph Ellison
-related:
-  - "[[h-g-wells]]"
-  - "[[ralph-ellison]]"
-  - "[[science-fiction]]"
+related: ["[[h-g-wells]]", "[[ralph-ellison]]", "[[science-fiction]]"]
+requires: []
 lists:
   - "[[common-mistakes]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ Two major novels titled *The Invisible Man* or *Invisible Man* exist by differen
 ## see also
 
 - [[h-g-wells]] · [[ralph-ellison]] · [[science-fiction]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

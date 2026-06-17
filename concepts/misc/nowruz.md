@@ -5,13 +5,11 @@ defines:
   - Nowruz
   - Nowroz
   - Persian New Year
-related:
-  - "[[zoroastrianism]]"
-  - "[[iranian-culture]]"
-  - "[[spring-equinox]]"
-  - "[[chinese-new-year]]"
+related: ["[[zoroastrianism]]", "[[iranian-culture]]", "[[spring-equinox]]", "[[chinese-new-year]]"]
+requires: []
 lists:
   - "[[new-year-celebrations]]"
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +40,18 @@ read: false
 ## see also
 
 - [[chinese-new-year]] · [[tet]] · [[zoroastrianism]] · [[spring-equinox]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

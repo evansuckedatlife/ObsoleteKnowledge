@@ -4,13 +4,11 @@ category: misc
 defines:
   - Five Good Emperors
   - Antonine emperors
-related:
-  - "[[roman-empire]]"
-  - "[[rome]]"
-  - "[[second-century]]"
-  - "[[marcus-aurelius]]"
+related: ["[[roman-empire]]", "[[rome]]", "[[second-century]]", "[[marcus-aurelius]]"]
+requires: []
 lists:
   - "[[quintuples]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ The *Five Good Emperors* were five successive Roman emperors of the second centu
 ## see also
 
 - [[marcus-aurelius]] · [[roman-empire]] · [[stoicism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

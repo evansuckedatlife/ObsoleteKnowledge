@@ -4,16 +4,22 @@ category: misc
 defines:
   - 1970 Osaka Exposition
   - Expo 70
-related:
-  - "[[japan-postwar-recovery]]"
-  - "[[space-age]]"
-  - "[[kenzo-tange]]"
+related: ["[[japan-postwar-recovery]]", "[[space-age]]", "[[kenzo-tange]]"]
+requires: ["[[1851-great-exhibition-london]]"]
 lists:
   - "[[worlds-fairs]]"
+tour_order: 2
 read: false
 ---
 
 # 1970 Osaka Exposition (Expo 70)
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ Expo 70 in Osaka was the first world's fair held in Asia, marking Japan's emerge
 ## see also
 
 - [[1967-montreal-expo-67]] · [[1962-seattle-worlds-fair]] · [[1958-brussels-exposition]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

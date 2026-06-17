@@ -5,12 +5,11 @@ defines:
   - Primates
   - Primates definition
   - Humans as primates
-related:
-  - "[[evolutionary-biology]]"
-  - "[[apes]]"
-  - "[[taxonomy]]"
+related: ["[[evolutionary-biology]]", "[[apes]]", "[[taxonomy]]"]
+requires: []
 lists:
   - "[[common-mistakes]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ A persistent misconception distinguishes primates from humans, treating humans a
 ## see also
 
 - [[evolutionary-biology]] · [[apes]] · [[taxonomy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

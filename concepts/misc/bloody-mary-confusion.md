@@ -5,12 +5,11 @@ defines:
   - Bloody Mary confusion
   - Mary I of England
   - Mary, Queen of Scots
-related:
-  - "[[mary-i-of-england]]"
-  - "[[mary-queen-of-scots]]"
-  - "[[tudor-dynasty]]"
+related: ["[[mary-i-of-england]]", "[[mary-queen-of-scots]]", "[[tudor-dynasty]]"]
+requires: []
 lists:
   - "[[common-mistakes]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ A frequent conflation mistakes *Mary I of England* with *Mary, Queen of Scots* o
 ## see also
 
 - [[mary-i-of-england]] · [[mary-queen-of-scots]] · [[tudor-dynasty]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

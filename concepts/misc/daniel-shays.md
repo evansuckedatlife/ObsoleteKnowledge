@@ -4,12 +4,11 @@ category: misc
 defines:
   - Daniel Shays
   - Shays' Rebellion
-related:
-  - "[[american-revolution]]"
-  - "[[articles-of-confederation]]"
-  - "[[massachusetts-history]]"
+related: ["[[american-revolution]]", "[[articles-of-confederation]]", "[[massachusetts-history]]"]
+requires: []
 lists:
   - "[[common-mistakes-2]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[american-revolution]] · [[articles-of-confederation]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

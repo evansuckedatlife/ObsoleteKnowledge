@@ -4,16 +4,22 @@ category: misc
 defines:
   - Holy Roman Empire
   - German Empire
-related:
-  - "[[charlemagne]]"
-  - "[[ottoman-empire]]"
-  - "[[germany]]"
+related: ["[[charlemagne]]", "[[ottoman-empire]]", "[[germany]]"]
+requires: ["[[roman-empire]]"]
 lists:
   - "[[common-mistakes]]"
+tour_order: 1
 read: false
 ---
 
 # Holy Roman Empire
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -37,6 +43,18 @@ A persistent misconception portrays the Holy Roman Empire as a continuous monoli
 ## see also
 
 - [[charlemagne]] · [[germany]] · [[ottoman-empire]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

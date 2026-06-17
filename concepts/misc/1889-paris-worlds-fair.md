@@ -4,16 +4,22 @@ category: misc
 defines:
   - 1889 Paris Exposition Universelle
   - Exposition Universelle
-related:
-  - "[[gustave-eiffel]]"
-  - "[[belle-epoque]]"
-  - "[[1851-great-exhibition-london]]"
+related: ["[[gustave-eiffel]]", "[[belle-epoque]]", "[[1851-great-exhibition-london]]"]
+requires: ["[[1851-great-exhibition-london]]"]
 lists:
   - "[[worlds-fairs]]"
+tour_order: 2
 read: false
 ---
 
 # 1889 Paris Exposition Universelle
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ The 1889 Paris Exposition Universelle, held in celebration of the centennial of 
 ## see also
 
 - [[1851-great-exhibition-london]] · [[1893-chicago-worlds-fair]] · [[1900-paris-worlds-fair]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

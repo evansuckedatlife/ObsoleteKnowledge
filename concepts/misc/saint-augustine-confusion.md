@@ -5,16 +5,22 @@ defines:
   - Saint Augustine confusion
   - Augustine of Hippo
   - Augustine of Canterbury
-related:
-  - "[[augustine-of-hippo]]"
-  - "[[augustine-of-canterbury]]"
-  - "[[christian-theology]]"
+related: ["[[augustine-of-hippo]]", "[[augustine-of-canterbury]]", "[[christian-theology]]"]
+requires: ["[[christianity]]"]
 lists:
   - "[[common-mistakes]]"
+tour_order: 2
 read: false
 ---
 
 # Saint Augustine Confusion
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ Two major figures named Saint Augustine lived over two centuries apart, and they
 ## see also
 
 - [[augustine-of-hippo]] · [[augustine-of-canterbury]] · [[christian-theology]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

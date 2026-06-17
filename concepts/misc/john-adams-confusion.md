@@ -6,13 +6,11 @@ defines:
   - John Adams
   - John Quincy Adams
   - Samuel Adams
-related:
-  - "[[john-adams]]"
-  - "[[john-quincy-adams]]"
-  - "[[samuel-adams]]"
-  - "[[american-revolution]]"
+related: ["[[john-adams]]", "[[john-quincy-adams]]", "[[samuel-adams]]", "[[american-revolution]]"]
+requires: []
 lists:
   - "[[common-mistakes]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ Multiple historical figures named John or Adams from the early American era are 
 ## see also
 
 - [[john-adams]] · [[john-quincy-adams]] · [[samuel-adams]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

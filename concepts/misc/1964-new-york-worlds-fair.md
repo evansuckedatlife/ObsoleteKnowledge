@@ -3,16 +3,22 @@ type: event
 category: misc
 defines:
   - 1964 New York World's Fair
-related:
-  - "[[space-age]]"
-  - "[[futurama]]"
-  - "[[unisphere]]"
+related: ["[[space-age]]", "[[futurama]]", "[[unisphere]]"]
+requires: ["[[1851-great-exhibition-london]]"]
 lists:
   - "[[worlds-fairs]]"
+tour_order: 2
 read: false
 ---
 
 # 1964 New York World's Fair
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -37,6 +43,18 @@ The 1964 New York World's Fair returned to *Flushing Meadows, Queens*, a quarter
 ## see also
 
 - [[1939-new-york-worlds-fair]] · [[1962-seattle-worlds-fair]] · [[1967-montreal-expo-67]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

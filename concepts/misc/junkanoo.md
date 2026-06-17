@@ -4,12 +4,11 @@ category: misc
 defines:
   - Junkanoo
   - Bahamian Parade
-related:
-  - "[[bahamas]]"
-  - "[[african-diaspora]]"
-  - "[[caribbean-culture]]"
+related: ["[[bahamas]]", "[[african-diaspora]]", "[[caribbean-culture]]"]
+requires: []
 lists:
   - "[[new-year-celebrations]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[times-square-ball-drop]] · [[songkran]] · [[caribbean-culture]] · [[african-diaspora]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

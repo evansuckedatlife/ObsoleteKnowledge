@@ -5,10 +5,11 @@ defines:
   - Times Square Ball Drop
   - New Year's Eve Ball
   - Ball Drop
-related:
-  - "[[western-new-year]]"
+related: ["[[western-new-year]]"]
+requires: []
 lists:
   - "[[new-year-celebrations]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +38,18 @@ The **Times Square Ball Drop** is an American New Year's Eve tradition centered 
 ## see also
 
 - [[hogmanay]] · [[western-new-year-s-day]] · [[new-year-s-eve]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

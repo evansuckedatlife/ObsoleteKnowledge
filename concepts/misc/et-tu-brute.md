@@ -4,12 +4,11 @@ category: misc
 defines:
   - Et tu, Brute?
   - Et tu, Brute? Then fall, Caesar!
-related:
-  - "[[julius-caesar]]"
-  - "[[marcus-brutus]]"
-  - "[[shakespeare]]"
+related: ["[[julius-caesar]]", "[[marcus-brutus]]", "[[shakespeare]]"]
+requires: []
 lists:
   - "[[common-mistakes]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ The famous phrase "Et tu, Brute?" (And you, Brutus?) is attributed to Julius Cae
 ## see also
 
 - [[julius-caesar]] · [[marcus-brutus]] · [[shakespeare]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

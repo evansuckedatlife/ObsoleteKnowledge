@@ -5,11 +5,11 @@ defines:
   - Tom Wolfe and Thomas Wolfe
   - Author confusion
   - Wolfe confusion
-related:
-  - "[[american-literature]]"
-  - "[[20th-century-writers]]"
+related: ["[[american-literature]]", "[[20th-century-writers]]"]
+requires: []
 lists:
   - "[[common-mistakes-2]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +36,18 @@ Two distinct American authors often confused due to their nearly-identical names
 ## see also
 
 - [[literary-confusion-pairs]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

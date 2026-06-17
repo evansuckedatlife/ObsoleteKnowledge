@@ -5,11 +5,11 @@ defines:
   - Enharmonic notes
   - Enharmonic equivalents
   - Enharmony
-related:
-  - "[[musical-intervals]]"
-  - "[[chromatic-scale]]"
+related: ["[[musical-intervals]]", "[[chromatic-scale]]"]
+requires: []
 lists:
   - "[[common-mistakes-2]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +37,18 @@ read: false
 ## see also
 
 - [[musical-intervals]] · [[chromatic-scale]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

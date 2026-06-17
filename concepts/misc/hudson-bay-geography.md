@@ -4,12 +4,11 @@ category: misc
 defines:
   - Hudson Bay
   - Hudson Strait
-related:
-  - "[[henry-hudson]]"
-  - "[[canada]]"
-  - "[[arctic-ocean]]"
+related: ["[[henry-hudson]]", "[[canada]]", "[[arctic-ocean]]"]
+requires: []
 lists:
   - "[[common-mistakes]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ A common misconception places *Hudson Bay* in the Arctic Ocean or confuses it wi
 ## see also
 
 - [[henry-hudson]] · [[canada]] · [[northwest-passage]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

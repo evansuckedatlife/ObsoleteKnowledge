@@ -4,12 +4,11 @@ category: misc
 defines:
   - Five Great Lakes
   - the Great Lakes
-related:
-  - "[[united-states]]"
-  - "[[canada]]"
-  - "[[fresh-water]]"
+related: ["[[united-states]]", "[[canada]]", "[[fresh-water]]"]
+requires: []
 lists:
   - "[[quintuples]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ The *Five Great Lakes* are the largest system of fresh water by surface area on 
 ## see also
 
 - [[niagara-falls]] · [[welland-canal]] · [[saint-lawrence-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,16 +4,22 @@ category: misc
 defines:
   - 1967 Montreal Expo 67
   - Exposition universelle 1967
-related:
-  - "[[geodesic-dome]]"
-  - "[[buckminster-fuller]]"
-  - "[[canadian-centennial]]"
+related: ["[[geodesic-dome]]", "[[buckminster-fuller]]", "[[canadian-centennial]]"]
+requires: ["[[1851-great-exhibition-london]]"]
 lists:
   - "[[worlds-fairs]]"
+tour_order: 2
 read: false
 ---
 
 # 1967 Montreal Expo 67
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ Expo 67 in Montreal celebrated Canada's centennial year as a young nation and es
 ## see also
 
 - [[1962-seattle-worlds-fair]] · [[1964-new-york-worlds-fair]] · [[1970-osaka-expo]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -5,12 +5,11 @@ defines:
   - Painting titles
   - Artwork titling
   - Famous paintings
-related:
-  - "[[visual-art]]"
-  - "[[museum-identification]]"
-  - "[[art-history]]"
+related: ["[[visual-art]]", "[[museum-identification]]", "[[art-history]]"]
+requires: []
 lists:
   - "[[common-mistakes-2]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ The *titling of famous paintings* creates confusion because artworks are often k
 ## see also
 
 - [[visual-art]] · [[art-history]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

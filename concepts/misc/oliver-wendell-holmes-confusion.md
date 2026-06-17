@@ -5,11 +5,11 @@ defines:
   - Oliver Wendell Holmes confusion
   - Oliver Wendell Holmes Sr.
   - Oliver Wendell Holmes Jr.
-related:
-  - "[[oliver-wendell-holmes-sr]]"
-  - "[[oliver-wendell-holmes-jr]]"
+related: ["[[oliver-wendell-holmes-sr]]", "[[oliver-wendell-holmes-jr]]"]
+requires: []
 lists:
   - "[[common-mistakes]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +36,18 @@ Two prominent Americans named Oliver Wendell Holmes, a father and son, lived ove
 ## see also
 
 - [[oliver-wendell-holmes-sr]] · [[oliver-wendell-holmes-jr]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

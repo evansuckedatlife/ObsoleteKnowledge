@@ -5,17 +5,22 @@ defines:
   - Immaculate Conception
   - Virgin Birth
   - Conception of Mary
-related:
-  - "[[mary-mother-of-jesus]]"
-  - "[[jesus]]"
-  - "[[catholic-doctrine]]"
-  - "[[theotokos]]"
+related: ["[[mary-mother-of-jesus]]", "[[jesus]]", "[[catholic-doctrine]]", "[[theotokos]]"]
+requires: ["[[christianity]]"]
 lists:
   - "[[common-mistakes-2]]"
+tour_order: 2
 read: false
 ---
 
 # Immaculate Conception
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +45,18 @@ The *Immaculate Conception* is the Catholic and Eastern Orthodox Christian doctr
 ## see also
 
 - [[mary-mother-of-jesus]] · [[jesus]] · [[virgin-birth]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,16 +4,22 @@ category: misc
 defines:
   - 1893 World's Columbian Exposition
   - Chicago World's Fair
-related:
-  - "[[daniel-burnham]]"
-  - "[[ferris-wheel]]"
-  - "[[gilded-age]]"
+related: ["[[daniel-burnham]]", "[[ferris-wheel]]", "[[gilded-age]]"]
+requires: ["[[1851-great-exhibition-london]]"]
 lists:
   - "[[worlds-fairs]]"
+tour_order: 2
 read: false
 ---
 
 # 1893 Chicago World's Columbian Exposition
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ The 1893 World's Columbian Exposition in Chicago celebrated the 400th anniversar
 ## see also
 
 - [[1889-paris-worlds-fair]] · [[1900-paris-worlds-fair]] · [[1939-new-york-worlds-fair]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

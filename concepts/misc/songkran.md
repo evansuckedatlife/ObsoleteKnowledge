@@ -5,12 +5,11 @@ defines:
   - Songkran
   - Water Festival
   - Thai New Year
-related:
-  - "[[thailand]]"
-  - "[[theravada-buddhism]]"
-  - "[[spring-equinox]]"
+related: ["[[thailand]]", "[[theravada-buddhism]]", "[[spring-equinox]]"]
+requires: []
 lists:
   - "[[new-year-celebrations]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ read: false
 ## see also
 
 - [[tet]] · [[chinese-new-year]] · [[nowruz]] · [[shogatsu]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -5,13 +5,11 @@ defines:
   - Chinese New Year
   - Spring Festival
   - Lunar New Year
-related:
-  - "[[nowruz]]"
-  - "[[tet]]"
-  - "[[shogatsu]]"
-  - "[[zodiac]]"
+related: ["[[nowruz]]", "[[tet]]", "[[shogatsu]]", "[[zodiac]]", "[[china]]"]
+requires: []
 lists:
   - "[[new-year-celebrations]]"
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +40,18 @@ read: false
 ## see also
 
 - [[nowruz]] · [[tet]] · [[shogatsu]] · [[songkran]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

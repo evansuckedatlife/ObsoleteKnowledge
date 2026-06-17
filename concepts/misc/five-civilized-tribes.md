@@ -4,13 +4,11 @@ category: misc
 defines:
   - Five Civilized Tribes
   - Civilized Tribes
-related:
-  - "[[native-americans]]"
-  - "[[united-states-history]]"
-  - "[[indian-removal]]"
-  - "[[trail-of-tears]]"
+related: ["[[native-americans]]", "[[united-states-history]]", "[[indian-removal]]", "[[trail-of-tears]]"]
+requires: []
 lists:
   - "[[quintuples]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ The *Five Civilized Tribes* are the five major Native American nations—the *Ch
 ## see also
 
 - [[native-americans]] · [[indian-removal]] · [[trail-of-tears]] · [[sequoyah]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

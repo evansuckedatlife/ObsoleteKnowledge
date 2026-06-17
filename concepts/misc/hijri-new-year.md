@@ -5,12 +5,11 @@ defines:
   - Hijri New Year
   - Islamic New Year
   - Muharram
-related:
-  - "[[islam]]"
-  - "[[islamic-calendar]]"
-  - "[[muharram]]"
+related: ["[[islam]]", "[[islamic-calendar]]", "[[muharram]]"]
+requires: []
 lists:
   - "[[new-year-celebrations]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +40,18 @@ The **Hijri New Year** (Islamic New Year), also called the celebration of *Muhar
 ## see also
 
 - [[islamic-calendar]] · [[islam]] · [[muharram]] · [[ashura]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -5,16 +5,22 @@ defines:
   - Revelation
   - Apocalypse
   - Book of Revelation
-related:
-  - "[[new-testament-characters]]"
-  - "[[jesus]]"
-  - "[[daniel]]"
+related: ["[[new-testament-characters]]", "[[jesus]]", "[[daniel]]"]
+requires: ["[[christianity]]"]
 lists:
   - "[[common-mistakes-2]]"
+tour_order: 2
 read: false
 ---
 
 # Revelation
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ read: false
 ## see also
 
 - [[daniel]] · [[new-testament-characters]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

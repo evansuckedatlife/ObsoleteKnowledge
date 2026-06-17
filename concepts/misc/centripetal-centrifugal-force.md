@@ -5,12 +5,11 @@ defines:
   - Centripetal force
   - Centrifugal force
   - Circular motion
-related:
-  - "[[isaac-newton]]"
-  - "[[physics]]"
-  - "[[inertia]]"
+related: ["[[isaac-newton]]", "[[physics]]", "[[inertia]]"]
+requires: []
 lists:
   - "[[common-mistakes]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ A widespread misconception treats centripetal and centrifugal force as equal-and
 ## see also
 
 - [[isaac-newton]] · [[physics]] · [[inertia]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

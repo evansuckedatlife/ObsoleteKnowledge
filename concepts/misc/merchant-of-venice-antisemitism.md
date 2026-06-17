@@ -5,11 +5,11 @@ defines:
   - The Merchant of Venice
   - Shylock
   - Shakespeare antisemitism
-related:
-  - "[[shakespeare]]"
-  - "[[pound-of-flesh]]"
+related: ["[[shakespeare]]", "[[pound-of-flesh]]"]
+requires: []
 lists:
   - "[[common-mistakes]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +36,18 @@ read: false
 ## see also
 
 - [[shakespeare]] · [[pound-of-flesh]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

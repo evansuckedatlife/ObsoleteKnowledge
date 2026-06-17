@@ -5,12 +5,11 @@ defines:
   - The Man That Corrupted Hadleyburg
   - Hadleyburg
   - Mark Twain
-related:
-  - "[[mark-twain]]"
-  - "[[american-short-stories]]"
-  - "[[social-satire]]"
+related: ["[[mark-twain]]", "[[american-short-stories]]", "[[social-satire]]"]
+requires: []
 lists:
   - "[[common-mistakes-2]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[mark-twain]] · [[american-satire]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

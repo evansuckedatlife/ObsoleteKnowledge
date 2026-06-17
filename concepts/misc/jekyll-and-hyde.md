@@ -5,12 +5,11 @@ defines:
   - Jekyll and Hyde
   - Dr. Jekyll and Mr. Hyde
   - The Strange Case of Dr. Jekyll and Mr. Hyde
-related:
-  - "[[robert-louis-stevenson]]"
-  - "[[gothic-literature]]"
-  - "[[duality]]"
+related: ["[[robert-louis-stevenson]]", "[[gothic-literature]]", "[[duality]]"]
+requires: []
 lists:
   - "[[common-mistakes]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ A persistent confusion mistakes *Dr. Jekyll* and *Mr. Hyde* for the same person,
 ## see also
 
 - [[robert-louis-stevenson]] · [[gothic-literature]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

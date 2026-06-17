@@ -5,13 +5,11 @@ defines:
   - Five Classical Orders of Architecture
   - Five Orders
   - Classical orders
-related:
-  - "[[greek-architecture]]"
-  - "[[roman-architecture]]"
-  - "[[architecture]]"
-  - "[[classical-antiquity]]"
+related: ["[[greek-architecture]]", "[[roman-architecture]]", "[[architecture]]", "[[classical-antiquity]]"]
+requires: []
 lists:
   - "[[quintuples]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ The *Five Classical Orders of Architecture* are the standardized systems of prop
 ## see also
 
 - [[greek-architecture]] · [[roman-architecture]] · [[vitruvius]] · [[palladio]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -5,12 +5,11 @@ defines:
   - Rose Bowl Parade
   - Tournament of Roses Parade
   - Pasadena Parade
-related:
-  - "[[rose-bowl-game]]"
-  - "[[pasadena-california]]"
-  - "[[western-new-year-s-day]]"
+related: ["[[rose-bowl-game]]", "[[pasadena-california]]", "[[western-new-year-s-day]]"]
+requires: []
 lists:
   - "[[new-year-celebrations]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ The **Tournament of Roses Parade**, commonly known as the **Rose Bowl Parade**, 
 ## see also
 
 - [[rose-bowl-game]] · [[times-square-ball-drop]] · [[hogmanay]] · [[new-year-s-day]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -5,13 +5,11 @@ defines:
   - Platonic Solids
   - five Platonic solids
   - regular solids
-related:
-  - "[[plato]]"
-  - "[[euclid]]"
-  - "[[geometry]]"
-  - "[[mathematics]]"
+related: ["[[plato]]", "[[euclid]]", "[[geometry]]", "[[mathematics]]"]
+requires: []
 lists:
   - "[[quintuples]]"
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +40,18 @@ The *Platonic Solids* are the five three-dimensional geometric shapes in which a
 ## see also
 
 - [[plato]] · [[euclid]] · [[geometry]] · [[symmetry]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,16 +4,22 @@ category: misc
 defines:
   - Great Exhibition of 1851
   - Crystal Palace Exhibition
-related:
-  - "[[industrial-revolution]]"
-  - "[[victorian-era]]"
-  - "[[joseph-paxton]]"
+related: ["[[industrial-revolution]]", "[[victorian-era]]", "[[joseph-paxton]]"]
+requires: ["[[industrial-revolution]]"]
 lists:
   - "[[worlds-fairs]]"
+tour_order: 1
 read: false
 ---
 
 # 1851 Great Exhibition, London
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ The Great Exhibition of 1851, held in London's *Hyde Park*, was the first major 
 ## see also
 
 - [[1889-paris-worlds-fair]] · [[1893-chicago-worlds-fair]] · [[1900-paris-worlds-fair]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

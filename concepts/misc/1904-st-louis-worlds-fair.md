@@ -4,16 +4,22 @@ category: misc
 defines:
   - 1904 Louisiana Purchase Exposition
   - St. Louis World's Fair
-related:
-  - "[[louisiana-purchase]]"
-  - "[[gilded-age]]"
-  - "[[ice-cream-cone]]"
+related: ["[[louisiana-purchase]]", "[[gilded-age]]", "[[ice-cream-cone]]"]
+requires: ["[[1851-great-exhibition-london]]"]
 lists:
   - "[[worlds-fairs]]"
+tour_order: 2
 read: false
 ---
 
 # 1904 St. Louis Louisiana Purchase Exposition
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ The 1904 Louisiana Purchase Exposition in St. Louis commemorated the centennial 
 ## see also
 
 - [[1893-chicago-worlds-fair]] · [[1900-paris-worlds-fair]] · [[1939-new-york-worlds-fair]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

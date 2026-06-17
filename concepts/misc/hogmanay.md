@@ -4,12 +4,11 @@ category: misc
 defines:
   - Hogmanay
   - Scottish New Year
-related:
-  - "[[scotland]]"
-  - "[[times-square-ball-drop]]"
-  - "[[auld-lang-syne]]"
+related: ["[[scotland]]", "[[times-square-ball-drop]]", "[[auld-lang-syne]]"]
+requires: []
 lists:
   - "[[new-year-celebrations]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[auld-lang-syne]] · [[times-square-ball-drop]] · [[scotland]] · [[robert-burns]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -6,18 +6,22 @@ defines:
   - UK
   - Great Britain
   - Britain
-related:
-  - "[[geography-of-the-british-isles]]"
-  - "[[england]]"
-  - "[[scotland]]"
-  - "[[wales]]"
-  - "[[northern-ireland]]"
+related: ["[[geography-of-the-british-isles]]", "[[england]]", "[[scotland]]", "[[wales]]", "[[northern-ireland]]"]
+requires: ["[[england]]"]
 lists:
   - "[[common-mistakes-2]]"
+tour_order: 1
 read: false
 ---
 
 # United Kingdom
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -43,6 +47,18 @@ The *United Kingdom* is a political union comprising England, Scotland, Wales, a
 ## see also
 
 - [[england]] · [[scotland]] · [[wales]] · [[northern-ireland]] · [[republic-of-ireland]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

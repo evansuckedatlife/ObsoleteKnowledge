@@ -5,12 +5,11 @@ defines:
   - Shogatsu
   - Koshogatsu
   - Japanese New Year
-related:
-  - "[[japan]]"
-  - "[[lunar-calendar]]"
-  - "[[chinese-new-year]]"
+related: ["[[japan]]", "[[lunar-calendar]]", "[[chinese-new-year]]"]
+requires: []
 lists:
   - "[[new-year-celebrations]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +40,18 @@ read: false
 ## see also
 
 - [[chinese-new-year]] · [[tet]] · [[nowruz]] · [[songkran]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

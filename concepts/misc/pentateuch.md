@@ -5,13 +5,11 @@ defines:
   - Pentateuch
   - Five Books of Moses
   - Torah
-related:
-  - "[[hebrew-bible]]"
-  - "[[torah]]"
-  - "[[judaism]]"
-  - "[[moses]]"
+related: ["[[hebrew-bible]]", "[[torah]]", "[[judaism]]", "[[moses]]"]
+requires: []
 lists:
   - "[[quintuples]]"
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +40,18 @@ The *Pentateuch* (Greek for "five scrolls") is the first five books of the Hebre
 ## see also
 
 - [[torah]] · [[hebrew-bible]] · [[judaism]] · [[moses]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 
