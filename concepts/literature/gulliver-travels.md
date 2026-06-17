@@ -4,13 +4,11 @@ category: literature
 defines:
   - Gulliver's Travels
   - Travels Into Several Remote Nations of the World
-related:
-  - "[[jonathan-swift]]"
-  - "[[satire]]"
-  - "[[lilliput]]"
-  - "[[voyage-narrative]]"
+related: ["[[jonathan-swift]]", "[[satire]]", "[[lilliput]]", "[[voyage-narrative]]", "[[enlightenment]]"]
+requires: []
 lists:
   - "[[works-by-irish-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ read: false
 ## see also
 
 - [[a-tale-of-two-cities]] · [[robinson-crusoe]] · [[the-odyssey]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

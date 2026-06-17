@@ -3,11 +3,20 @@ type: person
 category: literature
 defines: [Richard Wright]
 related: ["[[depression-era-literature]]", "[[communism-in-america]]"]
+requires: ["[[harlem-renaissance]]"]
 lists: ["[[african-american-authors]]"]
+tour_order: 1
 read: false
 ---
 
 # Richard Wright
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[james-baldwin]] · [[ralph-ellison]] · [[gwendolyn-brooks]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

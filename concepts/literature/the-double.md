@@ -3,11 +3,20 @@ type: work
 category: literature
 defines: [The Double]
 related: ["[[fyodor-dostoevsky]]", "[[doppelganger]]", "[[identity]]", "[[st-petersburg]]"]
+requires: ["[[fyodor-dostoevsky]]"]
 lists: ["[[works-by-dostoevsky]]"]
+tour_order: 1
 read: false
 ---
 
 # The Double
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[poor-folk]] · [[white-nights]] · [[notes-from-underground]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

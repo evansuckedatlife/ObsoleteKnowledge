@@ -3,13 +3,11 @@ type: person
 category: literature
 defines:
   - Bernard Malamud
-related:
-  - "[[saul-bellow]]"
-  - "[[grace-paley]]"
-  - "[[jewish-experience]]"
-  - "[[moral-redemption]]"
+related: ["[[saul-bellow]]", "[[grace-paley]]", "[[jewish-experience]]", "[[moral-redemption]]", "[[new-york-city]]"]
+requires: []
 lists:
   - "[[jewish-american-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[saul-bellow]] · [[grace-paley]] · [[chaim-potok]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

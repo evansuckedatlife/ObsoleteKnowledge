@@ -2,16 +2,22 @@
 type: work
 category: literature
 defines: ["The Purloined Letter"]
-related:
-  - "[[edgar-allan-poe]]"
-  - "[[c-auguste-dupin]]"
-  - "[[detective-fiction]]"
+related: ["[[edgar-allan-poe]]", "[[c-auguste-dupin]]", "[[detective-fiction]]"]
+requires: ["[[edgar-allan-poe]]"]
 lists:
   - "[[works-of-mystery-and-detective-fiction]]"
+tour_order: 1
 read: false
 ---
 
 # The Purloined Letter
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -37,6 +43,18 @@ Edgar Allan Poe's 1844 short story in which C. Auguste Dupin once again solves a
 ## see also
 
 - [[the-murders-in-the-rue-morgue]] · [[c-auguste-dupin]] · [[detective-fiction]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

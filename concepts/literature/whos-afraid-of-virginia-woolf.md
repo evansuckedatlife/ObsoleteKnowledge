@@ -4,11 +4,11 @@ category: literature
 defines:
   - Who's Afraid of Virginia Woolf?
   - George and Martha
-related:
-  - "[[edward-albee]]"
-  - "[[american-absurdism]]"
+related: ["[[edward-albee]]", "[[american-absurdism]]"]
+requires: []
 lists:
   - "[[american-plays]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +38,18 @@ Edward Albee's 1962 play depicts a brutal evening between two married couples—
 ## see also
 
 - [[death-of-a-salesman]] · [[a-streetcar-named-desire]] · [[long-days-journey-into-night]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

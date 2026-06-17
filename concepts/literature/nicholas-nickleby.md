@@ -2,12 +2,21 @@
 type: work
 category: literature
 defines: ["Nicholas Nickleby"]
-related: ["[[charles-dickens]]", "[[wackford-squeers]]"]
+related: ["[[charles-dickens]]", "[[wackford-squeers]]", "[[england]]", "[[industrial-revolution]]"]
+requires: ["[[charles-dickens]]"]
 lists: ["[[charles-dickens-novels]]"]
+tour_order: 1
 read: false
 ---
 
 # Nicholas Nickleby
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[great-expectations]] · [[david-copperfield]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

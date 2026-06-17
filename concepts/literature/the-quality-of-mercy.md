@@ -2,8 +2,10 @@
 type: work
 category: literature
 defines: ["The quality of mercy", "Portia's plea", "Merchant of Venice mercy speech"]
-related: ["[[the-merchant-of-venice]]", "[[mercy-vs-justice]]", "[[shylock]]"]
+related: ["[[the-merchant-of-venice]]", "[[mercy-vs-justice]]", "[[shylock]]", "[[england]]"]
+requires: []
 lists: ["[[shakespearean-speeches]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[friends-romans-countrymen]] · [[to-be-or-not-to-be]] · [[st-crispins-day]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,12 +2,21 @@
 type: work
 category: literature
 defines: ["Bleak House"]
-related: ["[[charles-dickens]]", "[[jarndyce-v-jarndyce]]"]
+related: ["[[charles-dickens]]", "[[jarndyce-v-jarndyce]]", "[[england]]"]
+requires: ["[[charles-dickens]]"]
 lists: ["[[charles-dickens-novels]]"]
+tour_order: 1
 read: false
 ---
 
 # Bleak House
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[great-expectations]] · [[hard-times]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

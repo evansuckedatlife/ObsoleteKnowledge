@@ -3,16 +3,22 @@ type: work
 category: literature
 defines:
   - The Kreutzer Sonata
-related:
-  - "[[leo-tolstoy]]"
-  - "[[marriage-and-sexuality]]"
-  - "[[jealousy]]"
+related: ["[[leo-tolstoy]]", "[[marriage-and-sexuality]]", "[[jealousy]]"]
+requires: ["[[leo-tolstoy]]"]
 lists:
   - "[[works-of-russian-short-fiction]]"
+tour_order: 1
 read: false
 ---
 
 # The Kreutzer Sonata
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[how-much-land-does-a-man-need]] · [[the-death-of-ivan-ilyich]] · [[leo-tolstoy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

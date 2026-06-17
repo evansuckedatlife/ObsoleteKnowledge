@@ -2,15 +2,22 @@
 type: person
 category: literature
 defines: [Ebenezer Scrooge]
-related:
-  - "[[a-christmas-carol]]"
-  - "[[charles-dickens]]"
+related: ["[[a-christmas-carol]]", "[[charles-dickens]]", "[[england]]"]
+requires: ["[[a-christmas-carol]]"]
 lists:
   - "[[charles-dickens-characters-not-protagonists]]"
+tour_order: 2
 read: false
 ---
 
 # Ebenezer Scrooge
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +42,18 @@ read: false
 ## see also
 
 - [[miss-havisham]] · [[uriah-heep]] · [[madame-defarge]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

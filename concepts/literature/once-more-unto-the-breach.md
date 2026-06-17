@@ -2,8 +2,10 @@
 type: work
 category: literature
 defines: ["Once more unto the breach", "Henry V battle exhortation"]
-related: ["[[henry-v]]", "[[battle-of-agincourt]]", "[[martial-heroism]]"]
+related: ["[[henry-v]]", "[[battle-of-agincourt]]", "[[martial-heroism]]", "[[england]]"]
+requires: []
 lists: ["[[shakespearean-speeches]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[st-crispins-day]] · [[friends-romans-countrymen]] · [[now-is-the-winter-of-our-discontent]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

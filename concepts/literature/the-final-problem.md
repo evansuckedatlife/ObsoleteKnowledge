@@ -2,16 +2,22 @@
 type: work
 category: literature
 defines: ["The Final Problem"]
-related:
-  - "[[arthur-conan-doyle]]"
-  - "[[sherlock-holmes]]"
-  - "[[professor-moriarty]]"
+related: ["[[arthur-conan-doyle]]", "[[sherlock-holmes]]", "[[professor-moriarty]]", "[[england]]", "[[london]]"]
+requires: ["[[arthur-conan-doyle]]"]
 lists:
   - "[[works-of-mystery-and-detective-fiction]]"
+tour_order: 1
 read: false
 ---
 
 # The Final Problem
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ Arthur Conan Doyle's 1893 short story in which Sherlock Holmes pursues his nemes
 ## see also
 
 - [[sherlock-holmes]] · [[professor-moriarty]] · [[the-hound-of-the-baskervilles]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

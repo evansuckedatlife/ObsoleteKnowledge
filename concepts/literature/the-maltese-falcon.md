@@ -2,13 +2,11 @@
 type: work
 category: literature
 defines: ["The Maltese Falcon"]
-related:
-  - "[[dashiell-hammett]]"
-  - "[[sam-spade]]"
-  - "[[detective-fiction]]"
-  - "[[noir]]"
+related: ["[[dashiell-hammett]]", "[[sam-spade]]", "[[detective-fiction]]", "[[noir]]"]
+requires: []
 lists:
   - "[[works-of-mystery-and-detective-fiction]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ Dashiell Hammett's 1930 novel introduces Sam Spade, a hard-boiled San Francisco 
 ## see also
 
 - [[sam-spade]] · [[dashiell-hammett]] · [[the-big-sleep]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,12 +4,11 @@ category: literature
 defines:
   - The Spanish Tragedy
   - The Spanish Tragedy or Hieronimo is Mad Again
-related:
-  - "[[thomas-kyd]]"
-  - "[[revenge-tragedy]]"
-  - "[[hamlet]]"
+related: ["[[thomas-kyd]]", "[[revenge-tragedy]]", "[[hamlet]]"]
+requires: []
 lists:
   - "[[non-shakespeare-classical-english-dramas]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +40,18 @@ Thomas Kyd's *The Spanish Tragedy* is the foundational revenge tragedy of Englis
 ## see also
 
 - [[thomas-kyd]] · [[hamlet]] · [[revenge-tragedy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

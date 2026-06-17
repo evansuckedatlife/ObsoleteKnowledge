@@ -2,8 +2,10 @@
 type: person
 category: literature
 defines: [Fyodor Dostoevsky, Dostoevski]
-related: ["[[crime-and-punishment]]", "[[the-brothers-karamazov]]", "[[notes-from-underground]]", "[[demons]]", "[[the-idiot]]", "[[russian-literature]]", "[[existentialism]]", "[[nihilism]]", "[[orthodoxy-christianity]]", "[[siberian-imprisonment]]"]
+related: ["[[crime-and-punishment]]", "[[the-brothers-karamazov]]", "[[notes-from-underground]]", "[[demons]]", "[[the-idiot]]", "[[russian-literature]]", "[[existentialism]]", "[[nihilism]]", "[[orthodoxy-christianity]]", "[[siberian-imprisonment]]", "[[russian-revolution]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -53,6 +55,18 @@ Dostoevsky reinvented the novel as an instrument for philosophical and psycholog
 ## see also
 
 - [[crime-and-punishment]] · [[the-brothers-karamazov]] · [[notes-from-underground]] · [[the-idiot]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

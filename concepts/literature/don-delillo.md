@@ -4,11 +4,11 @@ category: literature
 defines:
   - Don DeLillo
   - Donald Richard DeLillo
-related:
-  - "[[thomas-pynchon]]"
-  - "[[kurt-vonnegut]]"
+related: ["[[thomas-pynchon]]", "[[kurt-vonnegut]]", "[[cold-war]]"]
+requires: []
 lists:
   - "[[postmodern-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +36,18 @@ read: false
 ## see also
 
 - [[thomas-pynchon]] · [[david-foster-wallace]] · [[kurt-vonnegut]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

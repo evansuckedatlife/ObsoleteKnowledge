@@ -5,13 +5,11 @@ defines:
   - "Mishima Yukio"
   - "Yukio Mishima"
   - "Kimitake Hiraoka"
-related:
-  - "[[showa-period]]"
-  - "[[the-sea-of-fertility]]"
-  - "[[spring-snow]]"
-  - "[[seppuku]]"
+related: ["[[showa-period]]", "[[the-sea-of-fertility]]", "[[spring-snow]]", "[[seppuku]]", "[[japan]]", "[[world-war-ii]]"]
+requires: []
 lists:
   - "[[japanese-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ read: false
 ## see also
 
 - [[kawabata-yasunari]] · [[oe-kenzaburo]] · [[akutagawa-ryunosuke]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

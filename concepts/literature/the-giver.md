@@ -3,12 +3,11 @@ type: work
 category: literature
 defines:
   - The Giver
-related:
-  - "[[lois-lowry]]"
-  - "[[dystopian-fiction]]"
-  - "[[science-fiction]]"
+related: ["[[lois-lowry]]", "[[dystopian-fiction]]", "[[science-fiction]]"]
+requires: []
 lists:
   - "[[20th-century-newbery-medal-winners]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[bridge-to-terabithia]] · [[the-westing-game]] · [[holes]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

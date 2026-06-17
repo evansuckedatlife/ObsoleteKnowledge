@@ -3,13 +3,11 @@ type: person
 category: literature
 defines:
   - Allen Ginsberg
-related:
-  - "[[beat-generation]]"
-  - "[[counter-culture]]"
-  - "[[american-poetry]]"
-  - "[[william-carlos-williams]]"
+related: ["[[beat-generation]]", "[[counter-culture]]", "[[american-poetry]]", "[[william-carlos-williams]]"]
+requires: []
 lists:
   - "[[jewish-american-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[cynthia-ozick]] · [[grace-paley]] · [[norman-mailer]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -5,14 +5,11 @@ defines:
   - "FitzGerald's Rubáiyát of Omar Khayyám"
   - Rubáiyát of Omar Khayyám
   - Edward FitzGerald's version
-related:
-  - "[[omar-khayyam]]"
-  - "[[persian-poetry]]"
-  - "[[edward-fitzgerald]]"
-  - "[[victorian-literature]]"
-  - "[[rubai]]"
+related: ["[[omar-khayyam]]", "[[persian-poetry]]", "[[edward-fitzgerald]]", "[[victorian-literature]]", "[[rubai]]"]
+requires: []
 lists:
   - "[[translations]]"
+tour_order: 0
 read: false
 ---
 
@@ -43,6 +40,18 @@ Edward FitzGerald's *Rubáiyát of Omar Khayyám* (1859) is an English verse tra
 ## see also
 
 - [[constance-garnett]] · [[chapmans-homer]] · [[popes-iliad]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

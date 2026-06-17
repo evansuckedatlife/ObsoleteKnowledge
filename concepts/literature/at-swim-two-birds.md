@@ -5,17 +5,22 @@ defines:
   - At Swim-Two-Birds
   - At Swim Two Birds
   - Swim-Two-Birds
-related:
-  - "[[flann-o-brien]]"
-  - "[[stream-of-consciousness]]"
-  - "[[postmodernism]]"
-  - "[[dublin]]"
+related: ["[[flann-o-brien]]", "[[stream-of-consciousness]]", "[[postmodernism]]", "[[dublin]]"]
+requires: ["[[modernism]]"]
 lists:
   - "[[works-by-irish-authors]]"
+tour_order: 1
 read: false
 ---
 
 # At Swim-Two-Birds
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -42,6 +47,18 @@ read: false
 ## see also
 
 - [[ulysses]] · [[waiting-for-godot]] · [[finnegans-wake]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,12 +2,21 @@
 type: work
 category: literature
 defines: ["The Old Curiosity Shop"]
-related: ["[[charles-dickens]]", "[[little-nell]]"]
+related: ["[[charles-dickens]]", "[[little-nell]]", "[[england]]", "[[london]]"]
+requires: ["[[charles-dickens]]"]
 lists: ["[[charles-dickens-novels]]"]
+tour_order: 1
 read: false
 ---
 
 # The Old Curiosity Shop
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[the-pickwick-papers]] · [[oliver-twist]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

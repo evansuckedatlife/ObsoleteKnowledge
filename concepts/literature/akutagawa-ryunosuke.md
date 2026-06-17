@@ -4,12 +4,11 @@ category: literature
 defines:
   - "Akutagawa Ryūnosuke"
   - "Akutagawa Ryunosuke"
-related:
-  - "[[taisho-period]]"
-  - "[[rashomon]]"
-  - "[[in-a-grove]]"
+related: ["[[taisho-period]]", "[[rashomon]]", "[[in-a-grove]]", "[[japan]]"]
+requires: []
 lists:
   - "[[japanese-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[murasaki-shikibu]] · [[matsuo-basho]] · [[kawabata-yasunari]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

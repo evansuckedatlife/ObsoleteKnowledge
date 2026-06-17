@@ -2,8 +2,10 @@
 type: person
 category: literature
 defines: ["George Orwell", "Eric Arthur Blair"]
-related: ["[[nineteen-eighty-four]]", "[[animal-farm]]", "[[dystopia]]", "totalitarianism", "political-satire"]
+related: ["[[nineteen-eighty-four]]", "[[animal-farm]]", "[[dystopia]]", "[[totalitarianism]]", "[[political-satire]]", "[[world-war-ii]]", "[[cold-war]]"]
+requires: []
 lists: ["[[authors-of-speculative-fiction]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[aldous-huxley]] · [[ray-bradbury]] · [[margaret-atwood]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,15 +2,22 @@
 type: person
 category: literature
 defines: [Mr. Bumble]
-related:
-  - "[[oliver-twist]]"
-  - "[[charles-dickens]]"
+related: ["[[oliver-twist]]", "[[charles-dickens]]"]
+requires: ["[[oliver-twist]]"]
 lists:
   - "[[charles-dickens-characters-not-protagonists]]"
+tour_order: 2
 read: false
 ---
 
 # Mr. Bumble
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +41,18 @@ read: false
 ## see also
 
 - [[fagin]] · [[bill-sikes]] · [[wackford-squeers]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

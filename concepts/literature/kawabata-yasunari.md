@@ -4,13 +4,11 @@ category: literature
 defines:
   - "Kawabata Yasunari"
   - "Yasunari Kawabata"
-related:
-  - "[[showa-period]]"
-  - "[[snow-country]]"
-  - "[[beauty-and-sadness]]"
-  - "[[nobel-prize-in-literature]]"
+related: ["[[showa-period]]", "[[snow-country]]", "[[beauty-and-sadness]]", "[[nobel-prize-in-literature]]", "[[japan]]", "[[existentialism]]", "[[buddhism]]"]
+requires: []
 lists:
   - "[[japanese-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[akutagawa-ryunosuke]] · [[mishima-yukio]] · [[oe-kenzaburo]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

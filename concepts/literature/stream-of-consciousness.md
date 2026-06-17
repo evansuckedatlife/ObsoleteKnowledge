@@ -3,11 +3,20 @@ type: concept
 category: literature
 defines: [Stream-of-consciousness, Interior monologue, Free indirect discourse]
 related: ["[[james-joyce]]", "[[virginia-woolf]]", "[[modernism]]", "[[sigmund-freud]]", "[[henri-bergson]]", "[[durational-time]]", "[[the-odyssey]]", "[[dorothy-richardson]]"]
+requires: ["[[modernism]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Stream-of-Consciousness
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -55,6 +64,18 @@ Stream-of-consciousness marks the moment when modernist literature made interior
 ## see also
 
 - [[james-joyce]] · [[virginia-woolf]] · [[william-faulkner]] · [[modernism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

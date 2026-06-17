@@ -2,8 +2,10 @@
 type: person
 category: literature
 defines: ["Margaret Atwood"]
-related: ["[[the-handmaid-s-tale]]", "[[oryx-and-crake]]", "[[the-blind-assassin]]", "dystopia", "feminist-speculative-fiction"]
+related: ["[[the-handmaid-s-tale]]", "[[oryx-and-crake]]", "[[the-blind-assassin]]", "[[dystopia]]", "[[feminist-speculative-fiction]]", "[[cold-war]]"]
+requires: []
 lists: ["[[authors-of-speculative-fiction]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[george-orwell]] · [[ursula-k-le-guin]] · [[octavia-butler]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

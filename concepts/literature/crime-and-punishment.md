@@ -2,12 +2,21 @@
 type: work
 category: literature
 defines: [Crime and Punishment]
-related: ["[[fyodor-dostoevsky]]", "[[raskolnikov]]", "[[st-petersburg]]"]
+related: ["[[fyodor-dostoevsky]]", "[[raskolnikov]]", "[[st-petersburg]]", "[[existentialism]]", "[[nihilism]]"]
+requires: ["[[russian-revolution]]"]
 lists: ["[[works-by-dostoevsky]]"]
+tour_order: 1
 read: false
 ---
 
 # Crime and Punishment
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[the-brothers-karamazov]] · [[the-idiot]] · [[notes-from-underground]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

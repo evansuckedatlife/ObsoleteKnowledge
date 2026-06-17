@@ -3,7 +3,9 @@ type: person
 category: literature
 defines: ["Mario Vargas Llosa"]
 related: ["[[peruvian-literature]]", "[[the-time-of-the-hero]]", "[[the-green-house]]", "[[totalitarianism-in-literature]]"]
+requires: []
 lists: ["[[latin-american-authors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[gabriel-garcia-marquez]] · [[carlos-fuentes]] · [[julio-cortazar]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

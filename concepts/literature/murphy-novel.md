@@ -5,13 +5,11 @@ defines:
   - Murphy
   - Murphy (novel)
   - Murphy (Beckett)
-related:
-  - "[[samuel-beckett]]"
-  - "[[existentialism]]"
-  - "[[stream-of-consciousness]]"
-  - "[[dublin]]"
+related: ["[[samuel-beckett]]", "[[existentialism]]", "[[stream-of-consciousness]]", "[[dublin]]"]
+requires: []
 lists:
   - "[[works-by-irish-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +40,18 @@ read: false
 ## see also
 
 - [[waiting-for-godot]] · [[molloy]] · [[endgame]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

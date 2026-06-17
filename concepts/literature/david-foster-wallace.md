@@ -4,11 +4,11 @@ category: literature
 defines:
   - David Foster Wallace
   - David Wallace
-related:
-  - "[[infinite-jest]]"
-  - "[[thomas-pynchon]]"
+related: ["[[infinite-jest]]", "[[thomas-pynchon]]"]
+requires: []
 lists:
   - "[[postmodern-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +36,18 @@ read: false
 ## see also
 
 - [[thomas-pynchon]] · [[don-delillo]] · [[salman-rushdie]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

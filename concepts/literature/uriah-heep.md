@@ -2,16 +2,22 @@
 type: person
 category: literature
 defines: [Uriah Heep]
-related:
-  - "[[david-copperfield]]"
-  - "[[charles-dickens]]"
-  - "[[mr-micawber]]"
+related: ["[[david-copperfield]]", "[[charles-dickens]]", "[[mr-micawber]]", "[[england]]"]
+requires: ["[[charles-dickens]]"]
 lists:
   - "[[charles-dickens-characters-not-protagonists]]"
+tour_order: 1
 read: false
 ---
 
 # Uriah Heep
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +42,18 @@ read: false
 ## see also
 
 - [[mr-micawber]] · [[miss-havisham]] · [[ebenezer-scrooge]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

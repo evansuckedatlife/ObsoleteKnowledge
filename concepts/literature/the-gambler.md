@@ -3,11 +3,20 @@ type: work
 category: literature
 defines: [The Gambler]
 related: ["[[fyodor-dostoevsky]]", "[[obsession]]", "[[roulette]]"]
+requires: ["[[fyodor-dostoevsky]]"]
 lists: ["[[works-by-dostoevsky]]"]
+tour_order: 1
 read: false
 ---
 
 # The Gambler
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[crime-and-punishment]] · [[notes-from-underground]] · [[white-nights]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

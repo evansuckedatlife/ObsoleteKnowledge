@@ -2,8 +2,10 @@
 type: person
 category: literature
 defines: [Hart Crane, "Harold Hart Crane"]
-related: ["[[modernist-authors]]", "[[the-bridge]]", "[[american-poetry]]", "[[homosexuality-in-literature]]", "[[the-waste-land]]"]
+related: ["[[modernist-authors]]", "[[the-bridge]]", "[[american-poetry]]", "[[homosexuality-in-literature]]", "[[the-waste-land]]", "[[world-war-i]]", "[[new-york-city]]"]
+requires: []
 lists: ["[[modernist-authors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -49,6 +51,18 @@ Crane is modernism's most tragic figure—a poet of extraordinary technical skil
 ## see also
 
 - [[james-joyce]] · [[t-s-eliot]] · [[virginia-woolf]] · [[gertrude-stein]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

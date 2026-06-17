@@ -2,16 +2,22 @@
 type: person
 category: literature
 defines: [Miss Havisham]
-related:
-  - "[[great-expectations]]"
-  - "[[charles-dickens]]"
-  - "[[estella]]"
+related: ["[[great-expectations]]", "[[charles-dickens]]", "[[estella]]"]
+requires: ["[[great-expectations]]"]
 lists:
   - "[[charles-dickens-characters-not-protagonists]]"
+tour_order: 2
 read: false
 ---
 
 # Miss Havisham
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +42,18 @@ read: false
 ## see also
 
 - [[fagin]] · [[uriah-heep]] · [[ebenezer-scrooge]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

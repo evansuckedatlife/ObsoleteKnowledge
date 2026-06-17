@@ -4,11 +4,11 @@ category: literature
 defines:
   - Vladimir Nabokov
   - Vladimir Vladimirovich Nabokov
-related:
-  - "[[james-joyce]]"
-  - "[[literary-modernism]]"
+related: ["[[james-joyce]]", "[[literary-modernism]]"]
+requires: []
 lists:
   - "[[postmodern-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +36,18 @@ read: false
 ## see also
 
 - [[jorge-luis-borges]] · [[italo-calvino]] · [[don-delillo]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

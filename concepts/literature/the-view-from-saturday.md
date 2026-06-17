@@ -3,12 +3,11 @@ type: work
 category: literature
 defines:
   - The View from Saturday
-related:
-  - "[[lois-lowry]]"
-  - "[[children-literature]]"
-  - "[[quiz-bowl]]"
+related: ["[[lois-lowry]]", "[[children-literature]]", "[[quiz-bowl]]"]
+requires: []
 lists:
   - "[[20th-century-newbery-medal-winners]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[the-giver]] · [[dear-mr-henshaw]] · [[holes]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

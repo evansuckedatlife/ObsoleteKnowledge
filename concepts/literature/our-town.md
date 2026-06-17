@@ -4,11 +4,11 @@ category: literature
 defines:
   - Our Town
   - Groves Corners
-related:
-  - "[[thornton-wilder]]"
-  - "[[american-pastoral]]"
+related: ["[[thornton-wilder]]", "[[american-pastoral]]"]
+requires: []
 lists:
   - "[[american-plays]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +38,18 @@ Thornton Wilder's 1938 play is a three-act meditation on small-town American lif
 ## see also
 
 - [[the-glass-menagerie]] · [[death-of-a-salesman]] · [[the-crucible]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

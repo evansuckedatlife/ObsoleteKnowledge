@@ -3,7 +3,9 @@ type: person
 category: literature
 defines: ["O. Henry", "William Sydney Porter"]
 related: ["[[american-literature]]", "[[realism]]", "[[new-york-city]]"]
+requires: []
 lists: ["[[short-story-authors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -46,6 +48,18 @@ O. Henry arrived in America's Gilded Age just as the short story was gaining cul
 ## see also
 
 - [[edgar-allan-poe]] · [[guy-de-maupassant]] · [[ernest-hemingway]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

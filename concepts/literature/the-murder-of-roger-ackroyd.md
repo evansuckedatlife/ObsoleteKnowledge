@@ -4,16 +4,22 @@ category: literature
 defines:
   - "The Murder of Roger Ackroyd"
   - "Murder of Roger Ackroyd"
-related:
-  - "[[agatha-christie]]"
-  - "[[detective-fiction]]"
-  - "[[unreliable-narrator]]"
+related: ["[[agatha-christie]]", "[[detective-fiction]]", "[[unreliable-narrator]]", "[[england]]"]
+requires: ["[[agatha-christie]]"]
 lists:
   - "[[plot-twists]]"
+tour_order: 1
 read: false
 ---
 
 # The Murder of Roger Ackroyd
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +46,18 @@ Agatha Christie's *The Murder of Roger Ackroyd* is a detective novel narrated by
 ## see also
 
 - [[fight-club-twist]] · [[jane-eyre-twist]] · [[rebecca-twist]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

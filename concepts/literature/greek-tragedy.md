@@ -2,8 +2,10 @@
 type: concept
 category: literature
 defines: [Greek Tragedy, Greek Drama]
-related: ["[[aeschylus]]", "[[sophocles]]", "[[euripides]]", "[[aristotle]]", "[[the-oresteia]]", "[[oedipus-rex]]", "[[medea]]", "[[the-bacchae]]"]
+related: ["[[aeschylus]]", "[[sophocles]]", "[[euripides]]", "[[aristotle]]", "[[the-oresteia]]", "[[oedipus-rex]]", "[[medea]]", "[[the-bacchae]]", "[[ancient-greece]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +39,18 @@ Greek tragedy was the dominant literary form of ancient Athens, primarily during
 ## see also
 
 - [[aeschylus]] · [[sophocles]] · [[euripides]] · [[aristotle]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

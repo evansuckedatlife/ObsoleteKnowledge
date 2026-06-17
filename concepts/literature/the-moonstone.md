@@ -2,12 +2,11 @@
 type: work
 category: literature
 defines: ["The Moonstone", "The Moonstone: A Romance of English Life"]
-related:
-  - "[[wilkie-collins]]"
-  - "[[detective-fiction]]"
-  - "[[victorian-novel]]"
+related: ["[[wilkie-collins]]", "[[detective-fiction]]", "[[victorian-novel]]", "[[england]]", "[[india]]"]
+requires: []
 lists:
   - "[[works-of-mystery-and-detective-fiction]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ Wilkie Collins's 1868 novel, considered the first detective novel in English lit
 ## see also
 
 - [[wilkie-collins]] · [[detective-fiction]] · [[and-then-there-were-none]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

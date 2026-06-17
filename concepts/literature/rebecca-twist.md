@@ -5,12 +5,11 @@ defines:
   - Rebecca
   - Rebecca (novel)
   - Rebecca (film)
-related:
-  - "[[daphne-du-maurier]]"
-  - "[[gothic-fiction]]"
-  - "[[psychological-suspense]]"
+related: ["[[daphne-du-maurier]]", "[[gothic-fiction]]", "[[psychological-suspense]]", "[[england]]"]
+requires: []
 lists:
   - "[[plot-twists]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +40,18 @@ Daphne du Maurier's *Rebecca* is a gothic romance narrated by an unnamed woman w
 ## see also
 
 - [[jane-eyre-twist]] · [[the-murder-of-roger-ackroyd]] · [[fight-club-twist]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

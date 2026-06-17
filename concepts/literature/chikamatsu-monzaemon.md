@@ -4,13 +4,11 @@ category: literature
 defines:
   - "Chikamatsu Monzaemon"
   - "Chikamatsu Monzaemon Sugimori"
-related:
-  - "[[edo-period]]"
-  - "[[bunraku]]"
-  - "[[kabuki]]"
-  - "[[love-suicide]]"
+related: ["[[edo-period]]", "[[bunraku]]", "[[kabuki]]", "[[love-suicide]]", "[[japan]]"]
+requires: []
 lists:
   - "[[japanese-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[bunraku]] · [[kabuki]] · [[edo-period]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: person
 category: literature
 defines: ["Miguel Ángel Asturias"]
 related: ["[[guatemalan-literature]]", "[[magic-realism]]", "[[el-señor-presidente]]", "[[indigenous-americas]]"]
+requires: []
 lists: ["[[latin-american-authors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[gabriel-garcia-marquez]] · [[pablo-neruda]] · [[octavio-paz]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

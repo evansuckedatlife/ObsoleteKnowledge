@@ -3,11 +3,20 @@ type: person
 category: literature
 defines: ["Octavio Paz"]
 related: ["[[mexican-literature]]", "[[poetry]]", "[[the-labyrinth-of-solitude]]", "[[modernism]]"]
+requires: ["[[modernism]]"]
 lists: ["[[latin-american-authors]]"]
+tour_order: 1
 read: false
 ---
 
 # Octavio Paz
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[gabriel-garcia-marquez]] · [[pablo-neruda]] · [[carlos-fuentes]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -5,13 +5,11 @@ defines:
   - The Importance of Being Earnest
   - The Importance of Being Earnest (play)
   - A Trivial Comedy for Serious People
-related:
-  - "[[oscar-wilde]]"
-  - "[[victorian-comedy]]"
-  - "[[jack-worthing]]"
-  - "[[cecily-cardew]]"
+related: ["[[oscar-wilde]]", "[[victorian-comedy]]", "[[jack-worthing]]", "[[cecily-cardew]]", "[[england]]"]
+requires: []
 lists:
   - "[[works-by-irish-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +40,18 @@ read: false
 ## see also
 
 - [[the-picture-of-dorian-gray]] · [[the-importance-of-being-earnest]] · [[an-ideal-husband]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

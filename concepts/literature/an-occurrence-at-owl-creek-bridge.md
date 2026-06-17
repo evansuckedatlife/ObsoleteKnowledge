@@ -4,12 +4,11 @@ category: literature
 defines:
   - "An Occurrence at Owl Creek Bridge"
   - "An Occurrence at Owl Creek Bridge (story)"
-related:
-  - "[[ambrose-bierce]]"
-  - "[[american-short-fiction]]"
-  - "[[stream-of-consciousness]]"
+related: ["[[ambrose-bierce]]", "[[american-short-fiction]]", "[[stream-of-consciousness]]", "[[american-civil-war]]"]
+requires: []
 lists:
   - "[[plot-twists]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ Ambrose Bierce's *An Occurrence at Owl Creek Bridge* is a short story set during
 ## see also
 
 - [[fight-club-twist]] · [[the-sixth-sense]] · [[the-murder-of-roger-ackroyd]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

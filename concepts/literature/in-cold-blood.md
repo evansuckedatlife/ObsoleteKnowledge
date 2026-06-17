@@ -3,13 +3,11 @@ type: work
 category: literature
 defines:
   - In Cold Blood
-related:
-  - "[[truman-capote]]"
-  - "[[true-crime]]"
-  - "[[detective-fiction]]"
-  - "[[kansas-murders]]"
+related: ["[[truman-capote]]", "[[true-crime]]", "[[detective-fiction]]", "[[kansas-murders]]", "[[cold-war]]"]
+requires: []
 lists:
   - "[[works-of-mystery-and-detective-fiction]]"
+tour_order: 0
 read: true
 ---
 
@@ -40,6 +38,18 @@ Truman Capote's 1966 novel is a true-crime narrative account of the 1959 murder 
 ## see also
 
 - [[truman-capote]] · [[true-crime]] · [[detective-fiction]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

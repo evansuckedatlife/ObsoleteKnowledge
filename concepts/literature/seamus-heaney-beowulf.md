@@ -4,14 +4,11 @@ category: literature
 defines:
   - "Heaney's Beowulf"
   - Seamus Heaney's Beowulf
-related:
-  - "[[beowulf]]"
-  - "[[seamus-heaney]]"
-  - "[[old-english]]"
-  - "[[anglo-saxon-literature]]"
-  - "[[modern-poetry]]"
+related: ["[[beowulf]]", "[[seamus-heaney]]", "[[old-english]]", "[[anglo-saxon-literature]]", "[[modern-poetry]]"]
+requires: []
 lists:
   - "[[translations]]"
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +39,18 @@ Seamus Heaney's *Beowulf* (1999) is an English verse translation of the Old Engl
 ## see also
 
 - [[popes-iliad]] · [[constance-garnett]] · [[chapmans-homer]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

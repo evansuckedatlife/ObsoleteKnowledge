@@ -2,8 +2,10 @@
 type: person
 category: literature
 defines: ["Douglas Adams"]
-related: ["[[the-hitchhiker-s-guide-to-the-galaxy]]", "[[dirk-gently]]", "science-fiction-comedy", "absurdist-speculative-fiction"]
+related: ["[[the-hitchhiker-s-guide-to-the-galaxy]]", "[[dirk-gently]]", "[[science-fiction-comedy]]", "[[absurdist-speculative-fiction]]", "[[england]]"]
+requires: []
 lists: ["[[authors-of-speculative-fiction]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ read: false
 ## see also
 
 - [[kurt-vonnegut]] · [[ray-bradbury]] · [[terry-pratchett]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

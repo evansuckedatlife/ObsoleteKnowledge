@@ -4,7 +4,9 @@ category: literature
 aliases: [children-literature, childrens-literature]
 defines: [Children's literature, Juvenile literature, Picturebooks]
 related: ["[[lewis-carroll]]", "[[j-r-r-tolkien]]", "[[roald-dahl]]", "[[alice-in-wonderland]]", "[[the-lord-of-the-rings]]", "[[the-giver]]", "[[pedagogy]]", "[[fairy-tales]]", "[[imagination-and-wonder]]", "[[coming-of-age]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -62,6 +64,18 @@ Children's literature occupies an odd position: commercially vast (more sales th
 ## see also
 
 - [[lewis-carroll]] · [[j-r-r-tolkien]] · [[roald-dahl]] · [[maurice-sendak]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

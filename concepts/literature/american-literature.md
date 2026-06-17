@@ -2,8 +2,10 @@
 type: concept
 category: literature
 defines: [American literature, American canon, United States literature]
-related: ["[[nathaniel-hawthorne]]", "[[herman-melville]]", "[[edgar-allan-poe]]", "[[ralph-waldo-emerson]]", "[[walt-whitman]]", "[[f-scott-fitzgerald]]", "[[william-faulkner]]", "[[american-renaissance]]", "[[transcendentalism]]", "[[american-identity-and-frontier]]"]
+related: ["[[nathaniel-hawthorne]]", "[[herman-melville]]", "[[edgar-allan-poe]]", "[[ralph-waldo-emerson]]", "[[walt-whitman]]", "[[f-scott-fitzgerald]]", "[[william-faulkner]]", "[[american-renaissance]]", "[[transcendentalism]]", "[[american-identity-and-frontier]]", "[[united-states]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -66,6 +68,18 @@ American literature's rise to world dominance in the 20th century mirrors the Un
 ## see also
 
 - [[nathaniel-hawthorne]] · [[herman-melville]] · [[walt-whitman]] · [[edgar-allan-poe]] · [[f-scott-fitzgerald]] · [[ernest-hemingway]] · [[william-faulkner]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

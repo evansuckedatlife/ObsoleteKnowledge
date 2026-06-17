@@ -3,11 +3,20 @@ type: person
 category: literature
 defines: ["Lady Macbeth"]
 related: ["[[macbeth]]", "[[duncan]]", "[[guilt]]", "[[ambition]]", "[[gender-and-power]]"]
+requires: ["[[macbeth]]"]
 lists: ["[[shakespearean-villains]]"]
+tour_order: 1
 read: false
 ---
 
 # Lady Macbeth
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -55,6 +64,18 @@ Lady Macbeth is Shakespeare's most complex female villain because she is not mot
 ## see also
 
 - [[macbeth]] · [[goneril]] · [[regan]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

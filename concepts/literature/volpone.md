@@ -4,16 +4,22 @@ category: literature
 defines:
   - Volpone
   - Volpone, or The Fox
-related:
-  - "[[ben-jonson]]"
-  - "[[corruption-and-greed]]"
-  - "[[con-artist]]"
+related: ["[[ben-jonson]]", "[[corruption-and-greed]]", "[[con-artist]]"]
+requires: ["[[ben-jonson]]"]
 lists:
   - "[[non-shakespeare-classical-english-dramas]]"
+tour_order: 1
 read: false
 ---
 
 # Volpone
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -41,6 +47,18 @@ Ben Jonson's *Volpone, or The Fox* is a ruthless satirical comedy exposing avari
 ## see also
 
 - [[ben-jonson]] · [[the-alchemist]] · [[every-man-in-his-humour]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

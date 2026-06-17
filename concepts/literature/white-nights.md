@@ -3,11 +3,20 @@ type: work
 category: literature
 defines: [White Nights]
 related: ["[[fyodor-dostoevsky]]", "[[st-petersburg]]", "[[romanticism]]"]
+requires: ["[[fyodor-dostoevsky]]"]
 lists: ["[[works-by-dostoevsky]]"]
+tour_order: 1
 read: false
 ---
 
 # White Nights
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[poor-folk]] · [[the-double]] · [[the-gambler]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

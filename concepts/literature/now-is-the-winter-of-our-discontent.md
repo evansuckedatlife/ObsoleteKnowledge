@@ -3,11 +3,20 @@ type: work
 category: literature
 defines: ["Now is the winter of our discontent", "Richard III's opening soliloquy"]
 related: ["[[richard-iii]]", "[[deformity-and-power]]", "[[war-of-the-roses]]"]
+requires: ["[[richard-iii]]"]
 lists: ["[[shakespearean-speeches]]"]
+tour_order: 2
 read: false
 ---
 
 # Now is the winter of our discontent
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[friends-romans-countrymen]] · [[st-crispins-day]] · [[to-be-or-not-to-be]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

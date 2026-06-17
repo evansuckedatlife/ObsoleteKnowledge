@@ -2,10 +2,12 @@
 type: person
 category: literature
 defines: ["Isaac Asimov"]
-related: ["[[foundation-series]]", "[[the-naked-sun]]", "[[the-three-laws-of-robotics]]", "science-fiction", "robot-fiction"]
+related: ["[[foundation-series]]", "[[the-naked-sun]]", "[[the-three-laws-of-robotics]]", "[[science-fiction]]", "[[robot-fiction]]"]
+requires: []
 lists:
   - "[[authors-of-speculative-fiction]]"
   - "[[jewish-american-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[ray-bradbury]] · [[arthur-c-clarke]] · [[robert-heinlein]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,16 +2,22 @@
 type: work
 category: literature
 defines: ["The Murders in the Rue Morgue", "Rue Morgue"]
-related:
-  - "[[edgar-allan-poe]]"
-  - "[[c-auguste-dupin]]"
-  - "[[detective-fiction]]"
+related: ["[[edgar-allan-poe]]", "[[c-auguste-dupin]]", "[[detective-fiction]]", "[[paris]]"]
+requires: ["[[edgar-allan-poe]]"]
 lists:
   - "[[works-of-mystery-and-detective-fiction]]"
+tour_order: 1
 read: false
 ---
 
 # The Murders in the Rue Morgue
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ Edgar Allan Poe's 1841 short story about a seemingly impossible double murder in
 ## see also
 
 - [[the-purloined-letter]] · [[sherlock-holmes]] · [[detective-fiction]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

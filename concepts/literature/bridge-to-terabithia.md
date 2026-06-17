@@ -4,16 +4,22 @@ category: literature
 defines:
   - Bridge to Terabithia
   - Terabithia
-related:
-  - "[[katherine-paterson]]"
-  - "[[fantasy]]"
-  - "[[children-literature]]"
+related: ["[[katherine-paterson]]", "[[fantasy]]", "[[children-literature]]"]
+requires: ["[[childrens-literature]]"]
 lists:
   - "[[20th-century-newbery-medal-winners]]"
+tour_order: 1
 read: false
 ---
 
 # Bridge to Terabithia
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ read: false
 ## see also
 
 - [[a-wrinkle-in-time]] · [[sounder]] · [[the-giver]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

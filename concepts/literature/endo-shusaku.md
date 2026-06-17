@@ -4,13 +4,11 @@ category: literature
 defines:
   - "Endō Shusaku"
   - "Endo Shusaku"
-related:
-  - "[[showa-period]]"
-  - "[[silence]]"
-  - "[[deep-river]]"
-  - "[[christianity]]"
+related: ["[[showa-period]]", "[[silence]]", "[[deep-river]]", "[[christianity]]", "[[japan]]"]
+requires: []
 lists:
   - "[[japanese-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[mishima-yukio]] · [[kawabata-yasunari]] · [[oe-kenzaburo]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

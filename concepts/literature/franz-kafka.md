@@ -2,8 +2,10 @@
 type: person
 category: literature
 defines: [Franz Kafka]
-related: ["[[modernist-authors]]", "[[prague]]", "[[existentialism]]", "[[the-trial]]", "[[absurdism]]"]
+related: ["[[modernist-authors]]", "[[prague]]", "[[existentialism]]", "[[the-trial]]", "[[absurdism]]", "[[world-war-i]]"]
+requires: []
 lists: ["[[modernist-authors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -51,6 +53,18 @@ Kafka's work captures something essential about 20th-century experience: the ind
 ## see also
 
 - [[james-joyce]] · [[virginia-woolf]] · [[t-s-eliot]] · [[gertrude-stein]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

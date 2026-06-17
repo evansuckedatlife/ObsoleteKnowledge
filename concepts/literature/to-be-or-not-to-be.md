@@ -2,8 +2,10 @@
 type: work
 category: literature
 defines: ["To be or not to be", "Hamlet's soliloquy"]
-related: ["[[hamlet]]", "[[existentialism]]", "[[revenge-tragedy]]"]
+related: ["[[hamlet]]", "[[existentialism]]", "[[revenge-tragedy]]", "[[england]]"]
+requires: []
 lists: ["[[shakespearean-speeches]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ The most celebrated soliloquy in English literature, spoken by *Hamlet* as he co
 ## see also
 
 - [[is-this-a-dagger-which-i-see-before-me]] · [[what-a-piece-of-work-is-a-man]] · [[the-quality-of-mercy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

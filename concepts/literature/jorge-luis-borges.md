@@ -3,10 +3,12 @@ type: person
 category: literature
 defines: ["Jorge Luis Borges", Borges]
 related: ["[[argentine-literature]]", "[[magical-realism]]", "[[labyrinth]]", "[[metafiction]]"]
+requires: []
 lists:
   - "[[short-story-authors]]"
   - "[[postmodern-authors]]"
   - "[[latin-american-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -51,6 +53,18 @@ Borges emerged from the European modernist ferment (Kafka, Apollinaire) and Arge
 ## see also
 
 - [[ernest-hemingway]] · [[alice-munro]] · [[raymond-carver]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

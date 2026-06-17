@@ -3,11 +3,20 @@ type: person
 category: literature
 defines: ["Pablo Neruda", "Neftalí Ricardo Reyes"]
 related: ["[[chilean-literature]]", "[[poetry]]", "[[residencia-en-la-tierra]]", "[[twenty-love-poems-and-a-song-of-despair]]"]
+requires: ["[[modernism]]"]
 lists: ["[[latin-american-authors]]"]
+tour_order: 1
 read: false
 ---
 
 # Pablo Neruda
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[gabriel-garcia-marquez]] · [[octavio-paz]] · [[gabriela-mistral]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

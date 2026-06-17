@@ -4,12 +4,11 @@ category: literature
 defines:
   - "The Usual Suspects"
   - Keyser Söze
-related:
-  - "[[christopher-mcquarrie]]"
-  - "[[bryan-singer]]"
-  - "[[crime-cinema]]"
+related: ["[[christopher-mcquarrie]]", "[[bryan-singer]]", "[[crime-cinema]]"]
+requires: []
 lists:
   - "[[plot-twists]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ read: false
 ## see also
 
 - [[fight-club-twist]] · [[the-sixth-sense]] · [[soylent-green-twist]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

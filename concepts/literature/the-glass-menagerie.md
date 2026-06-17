@@ -4,11 +4,11 @@ category: literature
 defines:
   - The Glass Menagerie
   - Tom Wingfield
-related:
-  - "[[tennessee-williams]]"
-  - "[[memory-play]]"
+related: ["[[tennessee-williams]]", "[[memory-play]]", "[[great-depression]]"]
+requires: []
 lists:
   - "[[american-plays]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +38,18 @@ Tennessee Williams' 1944 "memory play" is narrated retrospectively by *Tom Wingf
 ## see also
 
 - [[a-streetcar-named-desire]] · [[our-town]] · [[death-of-a-salesman]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

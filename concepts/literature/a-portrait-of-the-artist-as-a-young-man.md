@@ -4,17 +4,22 @@ category: literature
 defines:
   - A Portrait of the Artist as a Young Man
   - Portrait of the Artist as a Young Man
-related:
-  - "[[james-joyce]]"
-  - "[[stephen-dedalus]]"
-  - "[[stream-of-consciousness]]"
-  - "[[ulysses]]"
+related: ["[[james-joyce]]", "[[stephen-dedalus]]", "[[stream-of-consciousness]]", "[[ulysses]]", "[[dublin]]"]
+requires: ["[[james-joyce]]", "[[modernism]]"]
 lists:
   - "[[works-by-irish-authors]]"
+tour_order: 2
 read: false
 ---
 
 # A Portrait of the Artist as a Young Man
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -41,6 +46,18 @@ read: false
 ## see also
 
 - [[ulysses]] · [[dubliners]] · [[finnegans-wake]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

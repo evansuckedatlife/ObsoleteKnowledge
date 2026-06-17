@@ -3,7 +3,9 @@ type: person
 category: literature
 defines: ["José Martí"]
 related: ["[[cuban-literature]]", "[[poetry]]", "[[modernism]]", "[[cuban-independence]]"]
+requires: []
 lists: ["[[latin-american-authors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[gabriel-garcia-marquez]] · [[octavio-paz]] · [[pablo-neruda]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

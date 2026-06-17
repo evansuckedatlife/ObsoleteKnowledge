@@ -2,12 +2,21 @@
 type: person
 category: literature
 defines: ["Ernest Hemingway", Hemingway]
-related: ["[[american-literature]]", "[[modernism]]", "[[the-lost-generation]]", "[[journalistic-style]]"]
+related: ["[[american-literature]]", "[[modernism]]", "[[the-lost-generation]]", "[[journalistic-style]]", "[[world-war-i]]"]
+requires: ["[[modernism]]"]
 lists: ["[[short-story-authors]]"]
+tour_order: 1
 read: false
 ---
 
 # Ernest Hemingway
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -48,6 +57,18 @@ Hemingway arrived as modernism was fragmenting into multiple schools, and he off
 ## see also
 
 - [[o-henry]] · [[jorge-luis-borges]] · [[raymond-carver]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,8 +2,10 @@
 type: person
 category: literature
 defines: [Leo Tolstoy, Lev Nikolayevich Tolstoy, Tolstoi]
-related: ["[[war-and-peace]]", "[[anna-karenina]]", "[[the-cossacks]]", "[[russian-literature]]", "[[russian-empire]]", "[[moral-philosophy]]", "[[pacifism]]", "[[russian-orthodoxy]]", "[[historical-fiction]]", "[[realism]]"]
+related: ["[[war-and-peace]]", "[[anna-karenina]]", "[[the-cossacks]]", "[[russian-literature]]", "[[russian-empire]]", "[[moral-philosophy]]", "[[pacifism]]", "[[russian-orthodoxy]]", "[[historical-fiction]]", "[[realism]]", "[[russian-revolution]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -54,6 +56,18 @@ Tolstoy stands with Homer and Shakespeare as one of the supreme artists of human
 ## see also
 
 - [[war-and-peace]] · [[anna-karenina]] · [[the-cossacks]] · [[the-death-of-ivan-ilyich]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

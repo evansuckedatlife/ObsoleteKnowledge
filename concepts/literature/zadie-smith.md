@@ -4,11 +4,11 @@ category: literature
 defines:
   - Zadie Smith
   - Sadie Smith
-related:
-  - "[[postcolonial-literature]]"
-  - "[[david-foster-wallace]]"
+related: ["[[postcolonial-literature]]", "[[david-foster-wallace]]"]
+requires: []
 lists:
   - "[[postmodern-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +36,18 @@ read: false
 ## see also
 
 - [[david-foster-wallace]] · [[salman-rushdie]] · [[italo-calvino]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

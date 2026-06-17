@@ -2,12 +2,21 @@
 type: person
 category: literature
 defines: [James Joyce, Jim Joyce]
-related: ["[[modernist-authors]]", "[[virginia-woolf]]", "[[t-s-eliot]]", "[[the-iliad]]", "[[dublin]]", "[[stream-of-consciousness]]"]
+related: ["[[modernist-authors]]", "[[virginia-woolf]]", "[[t-s-eliot]]", "[[the-iliad]]", "[[dublin]]", "[[stream-of-consciousness]]", "[[world-war-i]]"]
+requires: ["[[modernism]]"]
 lists: ["[[modernist-authors]]"]
+tour_order: 1
 read: false
 ---
 
 # James Joyce
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -49,6 +58,18 @@ Joyce stands as the archetype of the high modernist writer: exiled, intellectual
 ## see also
 
 - [[virginia-woolf]] · [[t-s-eliot]] · [[ezra-pound]] · [[gertrude-stein]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

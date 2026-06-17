@@ -4,16 +4,22 @@ category: literature
 defines:
   - The Death of Ivan Ilyich
   - Ivan Ilyich
-related:
-  - "[[leo-tolstoy]]"
-  - "[[existentialism]]"
-  - "[[mortality]]"
+related: ["[[leo-tolstoy]]", "[[existentialism]]", "[[mortality]]"]
+requires: ["[[leo-tolstoy]]"]
 lists:
   - "[[works-of-russian-short-fiction]]"
+tour_order: 1
 read: false
 ---
 
 # The Death of Ivan Ilyich
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ Tolstoy's *The Death of Ivan Ilyich* chronicles the terminal illness and spiritu
 ## see also
 
 - [[ward-no-6]] · [[the-lady-with-the-dog]] · [[leo-tolstoy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

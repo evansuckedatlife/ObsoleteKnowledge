@@ -2,12 +2,21 @@
 type: person
 category: literature
 defines: [Nikolai Gogol, Nikolai Vasilievich Gogol]
-related: ["[[dead-souls]]", "[[the-overcoat]]", "[[the-inspector-general]]", "[[russian-literature]]", "[[satire]]", "[[magical-realism]]", "[[absurdism]]"]
+related: ["[[dead-souls]]", "[[the-overcoat]]", "[[the-inspector-general]]", "[[russian-literature]]", "[[satire]]", "[[magical-realism]]", "[[absurdism]]", "[[existentialism]]"]
+requires: ["[[russian-literature]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Nikolai Gogol
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[dead-souls]] · [[the-overcoat]] · [[the-inspector-general]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

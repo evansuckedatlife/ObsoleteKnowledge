@@ -2,8 +2,10 @@
 type: person
 category: literature
 defines: [Phillis Wheatley]
-related: ["[[american-revolution]]", "[[african-diaspora]]"]
+related: ["[[american-revolution]]", "[[african-diaspora]]", "[[harlem-renaissance]]"]
+requires: []
 lists: ["[[african-american-authors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[langston-hughes]] · [[gwendolyn-brooks]] · [[maya-angelou]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

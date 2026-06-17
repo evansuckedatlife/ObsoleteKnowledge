@@ -3,18 +3,22 @@ type: work
 category: literature
 defines:
   - Medea
-related:
-  - "[[euripides]]"
-  - "[[greek-tragedy]]"
-  - "[[the-argonauts]]"
-  - "[[jason]]"
-  - "[[corinth]]"
+related: ["[[euripides]]", "[[greek-tragedy]]", "[[the-argonauts]]", "[[jason]]", "[[corinth]]", "[[ancient-greece]]"]
+requires: ["[[euripides]]"]
 lists:
   - "[[ancient-greek-plays]]"
+tour_order: 1
 read: false
 ---
 
 # Medea
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -41,6 +45,18 @@ read: false
 ## see also
 
 - [[the-bacchae]] · [[electra]] · [[antigone]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

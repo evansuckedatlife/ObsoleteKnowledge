@@ -4,15 +4,22 @@ category: literature
 defines:
   - A Streetcar Named Desire
   - Blanche DuBois
-related:
-  - "[[tennessee-williams]]"
-  - "[[southern-gothic]]"
+related: ["[[tennessee-williams]]", "[[southern-gothic]]"]
+requires: ["[[modernism]]"]
 lists:
   - "[[american-plays]]"
+tour_order: 1
 read: false
 ---
 
 # A Streetcar Named Desire
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +45,18 @@ Tennessee Williams' 1947 play depicts the collision between *Blanche DuBois*, a 
 ## see also
 
 - [[the-glass-menagerie]] · [[death-of-a-salesman]] · [[long-days-journey-into-night]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

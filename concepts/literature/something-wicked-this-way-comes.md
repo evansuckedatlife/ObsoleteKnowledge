@@ -3,16 +3,22 @@ type: work
 category: literature
 defines:
   - Something Wicked This Way Comes
-related:
-  - "[[ray-bradbury]]"
-  - "[[gothic-literature]]"
-  - "[[carnival-horror]]"
+related: ["[[ray-bradbury]]", "[[gothic-literature]]", "[[carnival-horror]]"]
+requires: ["[[ray-bradbury]]"]
 lists:
   - "[[works-of-horror-fiction]]"
+tour_order: 2
 read: false
 ---
 
 # Something Wicked This Way Comes
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ Ray Bradbury's 1962 novel presents a gothic Americana vision of two boys confron
 ## see also
 
 - [[the-haunting-of-hill-house]] · [[the-call-of-cthulhu]] · [[dracula]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

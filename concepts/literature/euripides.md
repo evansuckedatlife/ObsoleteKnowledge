@@ -3,7 +3,9 @@ type: person
 category: literature
 defines: [Euripides]
 related: ["[[medea-play]]", "[[the-bacchae]]", "[[greek-tragedy]]", "[[sophocles]]", "[[aeschylus]]", "[[athens-classical-period]]", "[[ancient-greece]]"]
+requires: []
 lists: ["[[ancient-greek-dramatists]]", "[[greek-tragedians]]"]
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +42,18 @@ Euripides lived during Athens's golden age and its decline, a period of intellec
 ## see also
 
 - [[medea-play]] · [[the-bacchae]] · [[sophocles]] · [[aeschylus]] · [[greek-tragedy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

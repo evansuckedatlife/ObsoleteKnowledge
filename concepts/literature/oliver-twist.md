@@ -2,12 +2,21 @@
 type: work
 category: literature
 defines: ["Oliver Twist"]
-related: ["[[charles-dickens]]", "[[bill-sikes]]", "[[fagin]]"]
+related: ["[[charles-dickens]]", "[[bill-sikes]]", "[[fagin]]", "[[england]]", "[[industrial-revolution]]"]
+requires: ["[[charles-dickens]]"]
 lists: ["[[charles-dickens-novels]]"]
+tour_order: 1
 read: false
 ---
 
 # Oliver Twist
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[great-expectations]] · [[bleak-house]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

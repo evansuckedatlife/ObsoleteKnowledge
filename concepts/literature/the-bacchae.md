@@ -4,18 +4,22 @@ category: literature
 defines:
   - The Bacchae
   - Bacchae
-related:
-  - "[[euripides]]"
-  - "[[dionysus]]"
-  - "[[greek-tragedy]]"
-  - "[[pentheus]]"
-  - "[[agave]]"
+related: ["[[euripides]]", "[[dionysus]]", "[[greek-tragedy]]", "[[pentheus]]", "[[agave]]", "[[ancient-greece]]"]
+requires: ["[[euripides]]"]
 lists:
   - "[[ancient-greek-plays]]"
+tour_order: 1
 read: false
 ---
 
 # The Bacchae
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -42,6 +46,18 @@ read: false
 ## see also
 
 - [[medea]] · [[electra]] · [[the-oresteia]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

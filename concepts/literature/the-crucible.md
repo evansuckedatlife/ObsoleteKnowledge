@@ -4,15 +4,22 @@ category: literature
 defines:
   - The Crucible
   - Salem witch trials
-related:
-  - "[[arthur-miller]]"
-  - "[[salem-witch-trials]]"
+related: ["[[arthur-miller]]", "[[salem-witch-trials]]"]
+requires: ["[[arthur-miller]]"]
 lists:
   - "[[american-plays]]"
+tour_order: 1
 read: false
 ---
 
 # The Crucible
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +45,18 @@ Arthur Miller's 1953 play dramatizes the 1692 *Salem witch trials*, depicting a 
 ## see also
 
 - [[death-of-a-salesman]] · [[a-raisin-in-the-sun]] · [[long-days-journey-into-night]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

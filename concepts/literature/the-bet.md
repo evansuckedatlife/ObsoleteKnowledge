@@ -3,16 +3,22 @@ type: work
 category: literature
 defines:
   - The Bet
-related:
-  - "[[anton-chekhov]]"
-  - "[[philosophical-fiction]]"
-  - "[[existentialism]]"
+related: ["[[anton-chekhov]]", "[[philosophical-fiction]]", "[[existentialism]]"]
+requires: ["[[anton-chekhov]]"]
 lists:
   - "[[works-of-russian-short-fiction]]"
+tour_order: 1
 read: false
 ---
 
 # The Bet
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[ward-no-6]] · [[the-lady-with-the-dog]] · [[anton-chekhov]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

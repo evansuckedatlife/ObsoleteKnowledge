@@ -4,12 +4,11 @@ category: literature
 defines:
   - "The Sixth Sense"
   - The Sixth Sense (film)
-related:
-  - "[[m-night-shyamalan]]"
-  - "[[supernatural-cinema]]"
-  - "[[psychological-thriller]]"
+related: ["[[m-night-shyamalan]]", "[[supernatural-cinema]]", "[[psychological-thriller]]"]
+requires: []
 lists:
   - "[[plot-twists]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ read: false
 ## see also
 
 - [[the-usual-suspects-twist]] · [[fight-club-twist]] · [[soylent-green-twist]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

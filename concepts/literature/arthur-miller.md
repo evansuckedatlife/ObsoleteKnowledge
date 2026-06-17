@@ -3,13 +3,11 @@ type: person
 category: literature
 defines:
   - Arthur Miller
-related:
-  - "[[american-drama]]"
-  - "[[moral-conscience]]"
-  - "[[mccarthyism]]"
-  - "[[tragedy]]"
+related: ["[[american-drama]]", "[[moral-conscience]]", "[[mccarthyism]]", "[[tragedy]]", "[[new-york-city]]"]
+requires: []
 lists:
   - "[[jewish-american-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[norman-mailer]] · [[philip-roth]] · [[neil-simon]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

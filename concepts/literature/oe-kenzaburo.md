@@ -4,12 +4,11 @@ category: literature
 defines:
   - "Ōe Kenzaburō"
   - "Oe Kenzaburo"
-related:
-  - "[[showa-period]]"
-  - "[[a-personal-matter]]"
-  - "[[nobel-prize-in-literature]]"
+related: ["[[showa-period]]", "[[a-personal-matter]]", "[[nobel-prize-in-literature]]", "[[japan]]"]
+requires: []
 lists:
   - "[[japanese-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[kawabata-yasunari]] · [[mishima-yukio]] · [[endo-shusaku]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

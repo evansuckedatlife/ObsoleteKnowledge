@@ -2,8 +2,10 @@
 type: person
 category: literature
 defines: [Saki, "H.H. Munro"]
-related: ["[[british-literature]]", "[[edwardian-era]]", "[[satire]]", "[[wit]]", "[[short-story-form]]"]
+related: ["[[british-literature]]", "[[edwardian-era]]", "[[satire]]", "[[wit]]", "[[short-story-form]]", "[[england]]"]
+requires: []
 lists: ["[[short-story-authors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -48,6 +50,18 @@ Saki wrote during the Edwardian era, that brief span of apparent confidence befo
 ## see also
 
 - [[edgar-allan-poe]] · [[guy-de-maupassant]] · [[alice-munro]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

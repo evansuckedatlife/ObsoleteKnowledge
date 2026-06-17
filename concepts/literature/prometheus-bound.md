@@ -3,14 +3,11 @@ type: work
 category: literature
 defines:
   - Prometheus Bound
-related:
-  - "[[aeschylus]]"
-  - "[[prometheus]]"
-  - "[[greek-tragedy]]"
-  - "[[zeus]]"
-  - "[[heracles]]"
+related: ["[[aeschylus]]", "[[prometheus]]", "[[greek-tragedy]]", "[[zeus]]", "[[heracles]]", "[[ancient-greece]]"]
+requires: []
 lists:
   - "[[ancient-greek-plays]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +38,18 @@ read: false
 ## see also
 
 - [[the-oresteia]] · [[oedipus-rex]] · [[the-bacchae]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

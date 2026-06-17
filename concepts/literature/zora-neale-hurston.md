@@ -3,7 +3,9 @@ type: person
 category: literature
 defines: [Zora Neale Hurston]
 related: ["[[harlem-renaissance]]", "[[american-folklore]]"]
+requires: []
 lists: ["[[african-american-authors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[langston-hughes]] · [[alice-walker]] · [[gwendolyn-brooks]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

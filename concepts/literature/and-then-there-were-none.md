@@ -2,16 +2,22 @@
 type: work
 category: literature
 defines: ["And Then There Were None", "Ten Little Soldiers"]
-related:
-  - "[[agatha-christie]]"
-  - "[[detective-fiction]]"
-  - "[[mystery-novel]]"
+related: ["[[agatha-christie]]", "[[detective-fiction]]", "[[mystery-novel]]", "[[england]]"]
+requires: ["[[agatha-christie]]"]
 lists:
   - "[[works-of-mystery-and-detective-fiction]]"
+tour_order: 1
 read: false
 ---
 
 # And Then There Were None
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ Agatha Christie's 1939 novel is considered her masterpiece: ten strangers are lu
 ## see also
 
 - [[agatha-christie]] · [[murder-on-the-orient-express]] · [[detective-fiction]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

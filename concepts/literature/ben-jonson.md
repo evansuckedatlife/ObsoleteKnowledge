@@ -2,8 +2,10 @@
 type: person
 category: literature
 defines: ["Ben Jonson", "Benjamin Jonson"]
-related: ["[[william-shakespeare]]", "[[volpone]]", "[[the-alchemist]]", "[[english-renaissance]]", "[[elizabethan-theatre]]", "[[comedy-of-humours]]", "[[shakespeare-first-folio]]"]
+related: ["[[william-shakespeare]]", "[[volpone]]", "[[the-alchemist]]", "[[english-renaissance]]", "[[elizabethan-theatre]]", "[[comedy-of-humours]]", "[[shakespeare-first-folio]]", "[[england]]", "[[renaissance]]"]
+requires: []
 lists: ["[[english-renaissance-dramatists]]", "[[elizabethan-playwrights]]"]
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +42,18 @@ Jonson emerged during the height of English Renaissance drama, a period when the
 ## see also
 
 - [[william-shakespeare]] · [[volpone]] · [[the-alchemist]] · [[english-renaissance]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

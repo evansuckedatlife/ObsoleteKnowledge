@@ -2,8 +2,10 @@
 type: concept
 category: literature
 defines: [Gothic literature, Gothic novel, Gothic romance]
-related: ["[[mary-shelley]]", "[[frankenstein]]", "[[the-castle-of-otranto]]", "[[jane-eyre]]", "[[the-fall-of-the-house-of-usher]]", "[[edgar-allan-poe]]", "[[romanticism]]", "[[the-sublime]]", "[[early-modern-psychology]]", "[[fear-and-the-uncanny]]"]
+related: ["[[mary-shelley]]", "[[frankenstein]]", "[[the-castle-of-otranto]]", "[[jane-eyre]]", "[[the-fall-of-the-house-of-usher]]", "[[edgar-allan-poe]]", "[[romanticism]]", "[[the-sublime]]", "[[early-modern-psychology]]", "[[fear-and-the-uncanny]]", "[[enlightenment]]", "[[industrial-revolution]]", "[[england]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -62,6 +64,18 @@ Gothic literature marks the moment when literature turns inward from external ac
 ## see also
 
 - [[mary-shelley]] · [[edgar-allan-poe]] · [[charlotte-bronte]] · [[emily-bronte]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

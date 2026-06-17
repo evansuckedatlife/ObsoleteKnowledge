@@ -2,8 +2,10 @@
 type: person
 category: literature
 defines: [Virginia Woolf, Adeline Virginia Stephen]
-related: ["[[modernist-authors]]", "[[james-joyce]]", "[[t-s-eliot]]", "[[stream-of-consciousness]]", "[[feminism]]"]
+related: ["[[modernist-authors]]", "[[james-joyce]]", "[[t-s-eliot]]", "[[stream-of-consciousness]]", "[[feminism]]", "[[england]]"]
+requires: []
 lists: ["[[modernist-authors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -49,6 +51,18 @@ Woolf's career marks a decisive moment in modernism: the assertion that women's 
 ## see also
 
 - [[james-joyce]] · [[t-s-eliot]] · [[ezra-pound]] · [[gertrude-stein]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

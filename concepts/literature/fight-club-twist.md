@@ -5,13 +5,11 @@ defines:
   - "Fight Club"
   - Tyler Durden
   - Fight Club (film)
-related:
-  - "[[david-fincher]]"
-  - "[[chuck-palahniuk]]"
-  - "[[psychological-thriller]]"
-  - "[[disassociation]]"
+related: ["[[david-fincher]]", "[[chuck-palahniuk]]", "[[psychological-thriller]]", "[[disassociation]]"]
+requires: []
 lists:
   - "[[plot-twists]]"
+tour_order: 0
 read: false
 ---
 
@@ -43,6 +41,18 @@ read: false
 ## see also
 
 - [[the-usual-suspects-twist]] · [[the-sixth-sense]] · [[jane-eyre-twist]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: concept
 category: literature
 defines: [Detective fiction, Detective novel, Crime fiction, Whodunit]
 related: ["[[edgar-allan-poe]]", "[[arthur-conan-doyle]]", "[[the-murders-in-the-rue-morgue]]", "[[the-adventures-of-sherlock-holmes]]", "[[agatha-christie]]", "[[raymond-chandler]]", "[[mystery-and-suspense]]", "[[rationality]]", "[[victorian-literature]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -56,6 +58,18 @@ Detective fiction is the literary form that most directly embodies Enlightenment
 ## see also
 
 - [[edgar-allan-poe]] · [[arthur-conan-doyle]] · [[agatha-christie]] · [[raymond-chandler]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

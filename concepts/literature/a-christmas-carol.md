@@ -2,12 +2,21 @@
 type: work
 category: literature
 defines: ["A Christmas Carol"]
-related: ["[[charles-dickens]]", "[[ebenezer-scrooge]]"]
+related: ["[[charles-dickens]]", "[[ebenezer-scrooge]]", "[[england]]", "[[christianity]]"]
+requires: ["[[charles-dickens]]"]
 lists: ["[[charles-dickens-novels]]"]
+tour_order: 1
 read: false
 ---
 
 # A Christmas Carol
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[the-pickwick-papers]] · [[david-copperfield]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

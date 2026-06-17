@@ -3,12 +3,11 @@ type: work
 category: literature
 defines:
   - The Way of the World
-related:
-  - "[[william-congreve]]"
-  - "[[restoration-comedy]]"
-  - "[[wit-and-manners]]"
+related: ["[[william-congreve]]", "[[restoration-comedy]]", "[[wit-and-manners]]"]
+requires: []
 lists:
   - "[[non-shakespeare-classical-english-dramas]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ William Congreve's *The Way of the World* (1700) is a brilliant Restoration come
 ## see also
 
 - [[william-congreve]] · [[love-for-love]] · [[restoration-comedy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

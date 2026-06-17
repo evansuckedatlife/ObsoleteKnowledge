@@ -3,12 +3,11 @@ type: work
 category: literature
 defines:
   - Everyman
-related:
-  - "[[morality-play]]"
-  - "[[late-medieval-drama]]"
-  - "[[death-and-mortality]]"
+related: ["[[morality-play]]", "[[late-medieval-drama]]", "[[death-and-mortality]]", "[[christianity]]"]
+requires: []
 lists:
   - "[[non-shakespeare-classical-english-dramas]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ read: false
 ## see also
 
 - [[morality-play]] · [[castle-of-perseverance]] · [[medieval-drama]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

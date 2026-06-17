@@ -3,12 +3,11 @@ type: work
 category: literature
 defines:
   - "The Haunting of Hill House"
-related:
-  - "[[shirley-jackson]]"
-  - "[[gothic-literature]]"
-  - "[[psychological-horror]]"
+related: ["[[shirley-jackson]]", "[[gothic-literature]]", "[[psychological-horror]]", "[[american-gothic]]"]
+requires: []
 lists:
   - "[[works-of-horror-fiction]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ Shirley Jackson's 1959 novel tells the story of Eleanor Vance, a lonely woman in
 ## see also
 
 - [[the-fall-of-the-house-of-usher]] · [[the-yellow-wallpaper]] · [[the-turn-of-the-screw]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

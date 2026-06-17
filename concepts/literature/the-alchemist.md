@@ -3,12 +3,11 @@ type: work
 category: literature
 defines:
   - The Alchemist
-related:
-  - "[[ben-jonson]]"
-  - "[[satire]]"
-  - "[[con-artist]]"
+related: ["[[ben-jonson]]", "[[satire]]", "[[con-artist]]", "[[middle-east]]"]
+requires: []
 lists:
   - "[[non-shakespeare-classical-english-dramas]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ Ben Jonson's *The Alchemist* is a masterpiece of satirical comedy set in plague-
 ## see also
 
 - [[ben-jonson]] · [[volpone]] · [[every-man-in-his-humour]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

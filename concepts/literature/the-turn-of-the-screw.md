@@ -3,12 +3,11 @@ type: work
 category: literature
 defines:
   - "The Turn of the Screw"
-related:
-  - "[[henry-james]]"
-  - "[[gothic-literature]]"
-  - "[[psychological-horror]]"
+related: ["[[henry-james]]", "[[gothic-literature]]", "[[psychological-horror]]"]
+requires: []
 lists:
   - "[[works-of-horror-fiction]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ Henry James's 1898 novella is a masterwork of ambiguous horror centered on a gov
 ## see also
 
 - [[the-fall-of-the-house-of-usher]] · [[dracula]] · [[the-yellow-wallpaper]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

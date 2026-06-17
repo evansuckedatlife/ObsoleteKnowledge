@@ -3,11 +3,20 @@ type: work
 category: literature
 defines: ["Is this a dagger which I see before me", "Macbeth's dagger soliloquy"]
 related: ["[[macbeth]]", "[[hallucination]]", "[[regicide]]"]
+requires: ["[[macbeth]]", "[[william-shakespeare]]"]
 lists: ["[[shakespearean-speeches]]"]
+tour_order: 1
 read: false
 ---
 
 # Is this a dagger which I see before me
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[tomorrow-and-tomorrow-and-tomorrow]] · [[to-be-or-not-to-be]] · [[all-the-worlds-a-stage]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

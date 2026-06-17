@@ -4,11 +4,11 @@ category: literature
 defines:
   - The Iceman Cometh
   - Harry Hope's saloon
-related:
-  - "[[eugene-oneill]]"
-  - "[[american-naturalism]]"
+related: ["[[eugene-oneill]]", "[[american-naturalism]]", "[[new-york-city]]", "[[existentialism]]"]
+requires: []
 lists:
   - "[[american-plays]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +38,18 @@ Eugene O'Neill's 1946 play is set in *Harry Hope's saloon*, a refuge for derelic
 ## see also
 
 - [[long-days-journey-into-night]] · [[death-of-a-salesman]] · [[a-streetcar-named-desire]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

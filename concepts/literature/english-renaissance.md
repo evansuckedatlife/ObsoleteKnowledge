@@ -2,8 +2,10 @@
 type: concept
 category: literature
 defines: [English Renaissance, Renaissance]
-related: ["[[william-shakespeare]]", "[[christopher-marlowe]]", "[[edmund-spenser]]", "[[humananism]]", "[[italian-renaissance]]"]
+related: ["[[william-shakespeare]]", "[[christopher-marlowe]]", "[[edmund-spenser]]", "[[humananism]]", "[[italian-renaissance]]", "[[england]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +37,18 @@ The English Renaissance was the period of cultural and intellectual flourishing 
 ## see also
 
 - [[william-shakespeare]] · [[christopher-marlowe]] · [[edmund-spenser]] · [[italian-renaissance]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

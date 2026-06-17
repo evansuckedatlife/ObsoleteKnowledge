@@ -2,12 +2,21 @@
 type: person
 category: literature
 defines: ["Sherlock Holmes"]
-related: ["[[arthur-conan-doyle]]", "[[dr-watson]]", "[[baker-street]]", "[[the-adventures-of-sherlock-holmes]]", "[[the-hound-of-the-baskervilles]]", "[[detective-fiction]]", "[[the-final-problem]]"]
+related: ["[[arthur-conan-doyle]]", "[[dr-watson]]", "[[baker-street]]", "[[the-adventures-of-sherlock-holmes]]", "[[the-hound-of-the-baskervilles]]", "[[detective-fiction]]", "[[the-final-problem]]", "[[england]]"]
+requires: ["[[arthur-conan-doyle]]"]
 lists: ["[[detective-fiction-protagonists]]"]
+tour_order: 1
 read: false
 ---
 
 # Sherlock Holmes
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -68,6 +77,18 @@ Sherlock Holmes is perhaps the most enduring fictional character in English lite
 ## see also
 
 - [[arthur-conan-doyle]] · [[dr-watson]] · [[the-final-problem]] · [[detective-fiction]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

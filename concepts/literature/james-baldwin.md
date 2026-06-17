@@ -2,8 +2,10 @@
 type: person
 category: literature
 defines: [James Baldwin]
-related: ["[[harlem-renaissance]]", "[[african-american-literature]]"]
+related: ["[[harlem-renaissance]]", "[[african-american-literature]]", "[[new-york-city]]"]
+requires: []
 lists: ["[[african-american-authors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[toni-morrison]] · [[langston-hughes]] · [[richard-wright]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

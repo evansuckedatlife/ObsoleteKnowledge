@@ -2,12 +2,21 @@
 type: person
 category: literature
 defines: [Marcel Proust]
-related: ["[[modernist-authors]]", "[[in-search-of-lost-time]]", "[[stream-of-consciousness]]", "[[memory]]", "[[paris]]"]
+related: ["[[modernist-authors]]", "[[in-search-of-lost-time]]", "[[stream-of-consciousness]]", "[[memory]]", "[[paris]]", "[[france]]"]
+requires: ["[[modernism]]"]
 lists: ["[[modernist-authors]]"]
+tour_order: 1
 read: false
 ---
 
 # Marcel Proust
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -48,6 +57,18 @@ Proust represents the culmination of the *psychological novel*—fiction dedicat
 ## see also
 
 - [[james-joyce]] · [[virginia-woolf]] · [[t-s-eliot]] · [[gertrude-stein]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

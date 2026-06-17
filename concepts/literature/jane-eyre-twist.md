@@ -5,12 +5,11 @@ defines:
   - "Jane Eyre"
   - Jane Eyre (novel)
   - Bertha Mason
-related:
-  - "[[charlotte-bronte]]"
-  - "[[gothic-fiction]]"
-  - "[[madwoman-in-the-attic]]"
+related: ["[[charlotte-bronte]]", "[[gothic-fiction]]", "[[madwoman-in-the-attic]]", "[[england]]"]
+requires: []
 lists:
   - "[[plot-twists]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +40,18 @@ Charlotte Brontë's *Jane Eyre* follows an orphaned governess who falls in love 
 ## see also
 
 - [[fight-club-twist]] · [[the-usual-suspects-twist]] · [[rebecca-twist]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

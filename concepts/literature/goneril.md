@@ -3,7 +3,9 @@ type: person
 category: literature
 defines: [Goneril]
 related: ["[[king-lear]]", "[[regan]]", "[[albany]]", "[[edmund]]", "[[cruelty-and-ingratitude]]"]
+requires: []
 lists: ["[[shakespearean-villains]]"]
+tour_order: 0
 read: false
 ---
 
@@ -57,6 +59,18 @@ Goneril is the elder of the two cruel daughters in *King Lear*, and together wit
 ## see also
 
 - [[regan]] · [[lady-macbeth]] · [[goneril]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

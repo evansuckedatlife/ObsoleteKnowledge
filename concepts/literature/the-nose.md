@@ -3,16 +3,22 @@ type: work
 category: literature
 defines:
   - The Nose
-related:
-  - "[[nikolai-gogol]]"
-  - "[[the-overcoat]]"
-  - "[[surrealism]]"
+related: ["[[nikolai-gogol]]", "[[the-overcoat]]", "[[surrealism]]", "[[st-petersburg]]"]
+requires: ["[[nikolai-gogol]]"]
 lists:
   - "[[works-of-russian-short-fiction]]"
+tour_order: 2
 read: false
 ---
 
 # The Nose
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[the-overcoat]] · [[nikolai-gogol]] · [[russian-literature]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,16 +2,22 @@
 type: person
 category: literature
 defines: [Bill Sikes]
-related:
-  - "[[oliver-twist]]"
-  - "[[charles-dickens]]"
-  - "[[fagin]]"
+related: ["[[oliver-twist]]", "[[charles-dickens]]", "[[fagin]]", "[[england]]"]
+requires: ["[[oliver-twist]]"]
 lists:
   - "[[charles-dickens-characters-not-protagonists]]"
+tour_order: 2
 read: false
 ---
 
 # Bill Sikes
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +42,18 @@ read: false
 ## see also
 
 - [[fagin]] · [[mr-bumble]] · [[wackford-squeers]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

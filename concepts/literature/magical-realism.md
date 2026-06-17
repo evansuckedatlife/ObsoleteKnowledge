@@ -3,7 +3,9 @@ type: concept
 category: literature
 defines: [Magical realism, Magical-realist fiction]
 related: ["[[gabriel-garcia-marquez]]", "[[one-hundred-years-of-solitude]]", "[[isabel-allende]]", "[[laura-esquivel]]", "[[latin-american-literature]]", "[[realism]]", "[[surrealism]]", "[[postmodern-literature]]", "[[myth-and-reality]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -63,6 +65,18 @@ Magical realism represents the moment when non-Western literary traditions (Lati
 ## see also
 
 - [[gabriel-garcia-marquez]] · [[isabel-allende]] · [[laura-esquivel]] · [[italo-calvino]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

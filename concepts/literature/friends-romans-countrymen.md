@@ -3,11 +3,20 @@ type: work
 category: literature
 defines: ["Friends, Romans, countrymen", "Mark Antony's oration"]
 related: ["[[julius-caesar]]", "[[brutus]]", "[[rhetoric]]"]
+requires: ["[[julius-caesar]]", "[[william-shakespeare]]"]
 lists: ["[[shakespearean-speeches]]"]
+tour_order: 1
 read: false
 ---
 
 # Friends, Romans, countrymen
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[to-be-or-not-to-be]] · [[st-crispins-day]] · [[the-quality-of-mercy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

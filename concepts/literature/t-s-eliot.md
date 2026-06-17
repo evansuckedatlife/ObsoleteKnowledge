@@ -2,12 +2,21 @@
 type: person
 category: literature
 defines: ["T. S. Eliot", "Thomas Stearns Eliot"]
-related: ["[[modernist-authors]]", "[[james-joyce]]", "[[virginia-woolf]]", "[[ezra-pound]]", "[[the-waste-land]]", "[[religious-poetry]]"]
+related: ["[[modernist-authors]]", "[[james-joyce]]", "[[virginia-woolf]]", "[[ezra-pound]]", "[[the-waste-land]]", "[[religious-poetry]]", "[[england]]", "[[world-war-i]]"]
+requires: ["[[modernism]]"]
 lists: ["[[modernist-authors]]"]
+tour_order: 1
 read: false
 ---
 
 # T. S. Eliot
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -50,6 +59,18 @@ Eliot's influence on 20th-century literary culture is almost impossible to overs
 ## see also
 
 - [[james-joyce]] · [[virginia-woolf]] · [[ezra-pound]] · [[gertrude-stein]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

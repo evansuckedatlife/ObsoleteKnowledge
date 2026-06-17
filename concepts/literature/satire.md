@@ -3,7 +3,9 @@ type: concept
 category: literature
 defines: [Satire, Satirical Literature]
 related: ["[[jonathan-swift]]", "[[alexander-pope]]", "[[voltaire]]", "[[mark-twain]]", "[[george-orwell]]", "[[juvenal]]", "[[horace]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +38,18 @@ Satire is a literary mode that uses wit, irony, ridicule, and dark humor to crit
 ## see also
 
 - [[jonathan-swift]] · [[alexander-pope]] · [[voltaire]] · [[mark-twain]] · [[george-orwell]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

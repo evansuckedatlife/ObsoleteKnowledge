@@ -3,13 +3,11 @@ type: person
 category: literature
 defines:
   - Norman Mailer
-related:
-  - "[[philip-roth]]"
-  - "[[saul-bellow]]"
-  - "[[american-excess]]"
-  - "[[new-journalism]]"
+related: ["[[philip-roth]]", "[[saul-bellow]]", "[[american-excess]]", "[[new-journalism]]", "[[world-war-ii]]"]
+requires: []
 lists:
   - "[[jewish-american-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[philip-roth]] · [[saul-bellow]] · [[allen-ginsberg]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

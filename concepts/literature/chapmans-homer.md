@@ -4,14 +4,11 @@ category: literature
 defines:
   - "Chapman's Homer"
   - Chapman's translation of the Iliad
-related:
-  - "[[iliad]]"
-  - "[[odyssey]]"
-  - "[[george-chapman]]"
-  - "[[english-renaissance-poetry]]"
-  - "[[homer]]"
+related: ["[[iliad]]", "[[odyssey]]", "[[george-chapman]]", "[[english-renaissance-poetry]]", "[[homer]]", "[[ancient-greece]]", "[[renaissance]]"]
+requires: []
 lists:
   - "[[translations]]"
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +39,18 @@ Chapman's Homer is George Chapman's English verse translation of Homer's *Iliad*
 ## see also
 
 - [[popes-iliad]] · [[fitzgerald-rubaiyat]] · [[alexander-pope]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

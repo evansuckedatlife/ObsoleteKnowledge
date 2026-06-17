@@ -3,14 +3,11 @@ type: work
 category: literature
 defines:
   - The Clouds
-related:
-  - "[[aristophanes]]"
-  - "[[socrates]]"
-  - "[[greek-comedy]]"
-  - "[[athens]]"
-  - "[[philosophy]]"
+related: ["[[aristophanes]]", "[[socrates]]", "[[greek-comedy]]", "[[athens]]", "[[philosophy]]", "[[ancient-greece]]"]
+requires: []
 lists:
   - "[[ancient-greek-plays]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +38,18 @@ read: false
 ## see also
 
 - [[lysistrata]] · [[the-frogs]] · [[the-birds]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

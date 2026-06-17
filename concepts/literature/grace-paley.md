@@ -3,13 +3,11 @@ type: person
 category: literature
 defines:
   - Grace Paley
-related:
-  - "[[bernard-malamud]]"
-  - "[[women-writers]]"
-  - "[[political-activism]]"
-  - "[[minimalism-fiction]]"
+related: ["[[bernard-malamud]]", "[[women-writers]]", "[[political-activism]]", "[[minimalism-fiction]]", "[[new-york-city]]"]
+requires: []
 lists:
   - "[[jewish-american-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[bernard-malamud]] · [[cynthia-ozick]] · [[isaac-bashevis-singer]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

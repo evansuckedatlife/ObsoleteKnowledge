@@ -3,7 +3,9 @@ type: person
 category: literature
 defines: ["Don John", "the bastard"]
 related: ["[[much-ado-about-nothing]]", "[[hero-much-ado]]", "[[claudio]]", "[[borachio]]", "[[slander-and-reputation]]"]
+requires: []
 lists: ["[[shakespearean-villains]]"]
+tour_order: 0
 read: false
 ---
 
@@ -58,6 +60,18 @@ read: false
 ## see also
 
 - [[iago]] · [[edmund]] · [[goneril]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

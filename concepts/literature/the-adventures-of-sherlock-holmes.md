@@ -2,16 +2,22 @@
 type: work
 category: literature
 defines: ["The Adventures of Sherlock Holmes"]
-related:
-  - "[[arthur-conan-doyle]]"
-  - "[[sherlock-holmes]]"
-  - "[[dr-watson]]"
+related: ["[[arthur-conan-doyle]]", "[[sherlock-holmes]]", "[[dr-watson]]", "[[england]]", "[[london]]"]
+requires: ["[[arthur-conan-doyle]]"]
 lists:
   - "[[works-of-mystery-and-detective-fiction]]"
+tour_order: 1
 read: false
 ---
 
 # The Adventures of Sherlock Holmes
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ Arthur Conan Doyle's 1892 collection of twelve short stories featuring detective
 ## see also
 
 - [[sherlock-holmes]] · [[dr-watson]] · [[the-hound-of-the-baskervilles]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

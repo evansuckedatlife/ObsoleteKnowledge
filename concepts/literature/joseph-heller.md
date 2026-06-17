@@ -3,11 +3,11 @@ type: person
 category: literature
 defines:
   - Joseph Heller
-related:
-  - "[[catch-22]]"
-  - "[[kurt-vonnegut]]"
+related: ["[[catch-22]]", "[[kurt-vonnegut]]", "[[world-war-ii]]"]
+requires: []
 lists:
   - "[[postmodern-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +35,18 @@ read: false
 ## see also
 
 - [[kurt-vonnegut]] · [[don-delillo]] · [[thomas-pynchon]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,15 +4,22 @@ category: literature
 defines:
   - Death of a Salesman
   - Loman
-related:
-  - "[[arthur-miller]]"
-  - "[[american-dream]]"
+related: ["[[arthur-miller]]", "[[american-dream]]", "[[existentialism]]"]
+requires: ["[[arthur-miller]]", "[[great-depression]]"]
 lists:
   - "[[american-plays]]"
+tour_order: 1
 read: false
 ---
 
 # Death of a Salesman
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +45,18 @@ Arthur Miller's tragedy follows *Willy Loman*, an aging traveling salesman whose
 ## see also
 
 - [[the-crucible]] · [[a-streetcar-named-desire]] · [[our-town]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

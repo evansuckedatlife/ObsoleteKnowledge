@@ -4,13 +4,12 @@ category: literature
 defines:
   - Kurt Vonnegut
   - Kurt Vonnegut Jr.
-related:
-  - "[[don-delillo]]"
-  - "[[thomas-pynchon]]"
-  - "[[david-foster-wallace]]"
+related: ["[[don-delillo]]", "[[thomas-pynchon]]", "[[david-foster-wallace]]", "[[world-war-ii]]", "[[existentialism]]", "[[cold-war]]"]
+requires: []
 lists:
   - "[[postmodern-authors]]"
   - "[[authors-of-speculative-fiction]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ read: false
 ## see also
 
 - [[don-delillo]] · [[thomas-pynchon]] · [[david-foster-wallace]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

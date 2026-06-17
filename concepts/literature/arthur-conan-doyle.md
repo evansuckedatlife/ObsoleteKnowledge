@@ -2,8 +2,10 @@
 type: person
 category: literature
 defines: ["Arthur Conan Doyle", "Sir Arthur Conan Doyle"]
-related: ["[[sherlock-holmes]]", "[[dr-watson]]", "[[the-adventures-of-sherlock-holmes]]", "[[the-hound-of-the-baskervilles]]", "[[detective-fiction]]", "[[the-final-problem]]"]
+related: ["[[sherlock-holmes]]", "[[dr-watson]]", "[[the-adventures-of-sherlock-holmes]]", "[[the-hound-of-the-baskervilles]]", "[[detective-fiction]]", "[[the-final-problem]]", "[[england]]"]
+requires: []
 lists: ["[[victorian-prose-writers]]", "[[mystery-writers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +37,18 @@ read: false
 ## see also
 
 - [[sherlock-holmes]] · [[dr-watson]] · [[the-adventures-of-sherlock-holmes]] · [[the-hound-of-the-baskervilles]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,12 +3,11 @@ type: work
 category: literature
 defines:
   - "The Call of Cthulhu"
-related:
-  - "[[h-p-lovecraft]]"
-  - "[[cosmic-horror]]"
-  - "[[lovecraft-mythos]]"
+related: ["[[h-p-lovecraft]]", "[[cosmic-horror]]", "[[lovecraft-mythos]]", "[[nihilism]]"]
+requires: []
 lists:
   - "[[works-of-horror-fiction]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ H.P. Lovecraft's 1928 novella introduces *Cthulhu*, an ancient cosmic entity sle
 ## see also
 
 - [[the-haunting-of-hill-house]] · [[the-turn-of-the-screw]] · [[dracula]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

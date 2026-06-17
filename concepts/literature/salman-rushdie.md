@@ -4,11 +4,11 @@ category: literature
 defines:
   - Salman Rushdie
   - Ahmed Salman Rushdie
-related:
-  - "[[magical-realism]]"
-  - "[[postcolonial-literature]]"
+related: ["[[magical-realism]]", "[[postcolonial-literature]]", "[[india]]", "[[england]]"]
+requires: []
 lists:
   - "[[postmodern-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +36,18 @@ read: false
 ## see also
 
 - [[italo-calvino]] · [[david-foster-wallace]] · [[postcolonial-literature]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

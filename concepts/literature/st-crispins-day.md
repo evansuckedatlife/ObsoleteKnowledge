@@ -2,8 +2,10 @@
 type: work
 category: literature
 defines: ["Saint Crispin's Day speech", "Agincourt speech", "We few, we happy few"]
-related: ["[[henry-v]]", "[[english-nationalism]]", "[[battle-of-agincourt]]"]
+related: ["[[henry-v]]", "[[english-nationalism]]", "[[battle-of-agincourt]]", "[[england]]"]
+requires: []
 lists: ["[[shakespearean-speeches]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[friends-romans-countrymen]] · [[to-be-or-not-to-be]] · [[now-is-the-winter-of-our-discontent]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

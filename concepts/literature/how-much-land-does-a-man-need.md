@@ -3,16 +3,22 @@ type: work
 category: literature
 defines:
   - How Much Land Does a Man Need?
-related:
-  - "[[leo-tolstoy]]"
-  - "[[greed]]"
-  - "[[human-mortality]]"
+related: ["[[leo-tolstoy]]", "[[greed]]", "[[human-mortality]]", "[[existentialism]]"]
+requires: ["[[leo-tolstoy]]"]
 lists:
   - "[[works-of-russian-short-fiction]]"
+tour_order: 1
 read: false
 ---
 
 # How Much Land Does a Man Need?
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ Tolstoy's *How Much Land Does a Man Need?* is a folk parable about insatiable gr
 ## see also
 
 - [[the-death-of-ivan-ilyich]] · [[the-queen-of-spades]] · [[leo-tolstoy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,14 +4,11 @@ category: literature
 defines:
   - Vulgate
   - Jerome's translation
-related:
-  - "[[jerome]]"
-  - "[[latin-language]]"
-  - "[[roman-catholicism]]"
-  - "[[new-testament]]"
-  - "[[hebrew-bible]]"
+related: ["[[jerome]]", "[[latin-language]]", "[[roman-catholicism]]", "[[new-testament]]", "[[hebrew-bible]]", "[[christianity]]"]
+requires: []
 lists:
   - "[[translations]]"
+tour_order: 0
 read: false
 ---
 
@@ -43,6 +40,18 @@ The Vulgate is a Latin translation of the Hebrew Bible and New Testament complet
 ## see also
 
 - [[king-james-bible]] · [[septuagint]] · [[martin-luther]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

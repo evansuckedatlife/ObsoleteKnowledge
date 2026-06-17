@@ -2,8 +2,10 @@
 type: person
 category: literature
 defines: [Aaron, "Aaron the Moor", Aaron the blackamoor]
-related: ["[[titus-andronicus]]", "[[tamora]]", "[[racism-and-villainy]]", "[[infanticide]]", "[[mutilation]]"]
+related: ["[[titus-andronicus]]", "[[tamora]]", "[[racism-and-villainy]]", "[[infanticide]]", "[[mutilation]]", "[[rome]]"]
+requires: []
 lists: ["[[shakespearean-villains]]"]
+tour_order: 0
 read: false
 ---
 
@@ -57,6 +59,18 @@ Aaron is the most cartoonishly evil character in Shakespeare, yet also (paradoxi
 ## see also
 
 - [[iago]] · [[don-john]] · [[goneril]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

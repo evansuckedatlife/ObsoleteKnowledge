@@ -3,11 +3,20 @@ type: person
 category: literature
 defines: [Gwendolyn Brooks]
 related: ["[[harlem-renaissance]]", "[[modern-american-poetry]]"]
+requires: ["[[harlem-renaissance]]"]
 lists: ["[[african-american-authors]]"]
+tour_order: 1
 read: false
 ---
 
 # Gwendolyn Brooks
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[langston-hughes]] · [[maya-angelou]] · [[alice-walker]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

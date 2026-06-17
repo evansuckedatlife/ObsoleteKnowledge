@@ -3,7 +3,9 @@ type: person
 category: literature
 defines: ["Gabriela Mistral", "Lucila Godoy Alcayaga"]
 related: ["[[chilean-literature]]", "[[poetry]]", "[[modernism]]", "[[desolation-poetry]]"]
+requires: []
 lists: ["[[latin-american-authors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[pablo-neruda]] · [[octavio-paz]] · [[jorge-luis-borges]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

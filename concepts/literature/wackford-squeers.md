@@ -2,15 +2,22 @@
 type: person
 category: literature
 defines: [Wackford Squeers]
-related:
-  - "[[nicholas-nickleby]]"
-  - "[[charles-dickens]]"
+related: ["[[nicholas-nickleby]]", "[[charles-dickens]]", "[[england]]"]
+requires: ["[[charles-dickens]]"]
 lists:
   - "[[charles-dickens-characters-not-protagonists]]"
+tour_order: 1
 read: false
 ---
 
 # Wackford Squeers
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +41,18 @@ read: false
 ## see also
 
 - [[mr-bumble]] · [[fagin]] · [[bill-sikes]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

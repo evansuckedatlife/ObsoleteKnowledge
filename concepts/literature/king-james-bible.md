@@ -5,17 +5,22 @@ defines:
   - King James Bible
   - King James Version
   - KJV
-related:
-  - "[[hebrew-bible]]"
-  - "[[new-testament]]"
-  - "[[hebrew-language]]"
-  - "[[biblical-translation]]"
+related: ["[[hebrew-bible]]", "[[new-testament]]", "[[hebrew-language]]", "[[biblical-translation]]"]
+requires: ["[[hebrew-bible]]"]
 lists:
   - "[[translations]]"
+tour_order: 2
 read: false
 ---
 
 # King James Bible
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -42,6 +47,18 @@ The King James Bible is a 1611 English translation of the Hebrew Bible and Chris
 ## see also
 
 - [[tyndale-bible]] · [[vulgate]] · [[septuagint]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

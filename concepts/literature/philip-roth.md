@@ -3,13 +3,11 @@ type: person
 category: literature
 defines:
   - Philip Roth
-related:
-  - "[[saul-bellow]]"
-  - "[[norman-mailer]]"
-  - "[[american-identity]]"
-  - "[[postmodernism]]"
+related: ["[[saul-bellow]]", "[[norman-mailer]]", "[[american-identity]]", "[[postmodernism]]"]
+requires: []
 lists:
   - "[[jewish-american-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[saul-bellow]] · [[norman-mailer]] · [[cynthia-ozick]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

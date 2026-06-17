@@ -4,12 +4,11 @@ category: literature
 defines:
   - "Murasaki Shikibu"
   - "Lady Murasaki"
-related:
-  - "[[sei-shonagon]]"
-  - "[[the-tale-of-genji]]"
-  - "[[heian-period]]"
+related: ["[[sei-shonagon]]", "[[the-tale-of-genji]]", "[[heian-period]]", "[[japan]]"]
+requires: []
 lists:
   - "[[japanese-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[sei-shonagon]] · [[the-tale-of-genji]] · [[heian-culture]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

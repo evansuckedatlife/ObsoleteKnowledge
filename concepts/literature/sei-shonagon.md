@@ -4,12 +4,11 @@ category: literature
 defines:
   - "Sei Shōnagon"
   - "Sei Shonagon"
-related:
-  - "[[murasaki-shikibu]]"
-  - "[[heian-period]]"
-  - "[[makura-no-soshi]]"
+related: ["[[murasaki-shikibu]]", "[[heian-period]]", "[[makura-no-soshi]]", "[[japan]]"]
+requires: []
 lists:
   - "[[japanese-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[murasaki-shikibu]] · [[the-tale-of-genji]] · [[heian-culture]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

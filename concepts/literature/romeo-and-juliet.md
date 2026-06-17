@@ -2,12 +2,21 @@
 type: work
 category: literature
 defines: [Romeo and Juliet]
-related: ["[[william-shakespeare]]", "[[tragedy]]", "[[hamlet]]", "[[othello]]", "[[the-tempest]]", "[[montagues-and-capulets]]", "[[star-crossed-lovers]]"]
+related: ["[[william-shakespeare]]", "[[tragedy]]", "[[hamlet]]", "[[othello]]", "[[the-tempest]]", "[[montagues-and-capulets]]", "[[star-crossed-lovers]]", "[[italy]]", "[[renaissance]]"]
+requires: ["[[william-shakespeare]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Romeo and Juliet
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +45,18 @@ read: false
 ## see also
 
 - [[william-shakespeare]] · [[hamlet]] · [[othello]] · [[the-tempest]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,12 +3,11 @@ type: work
 category: literature
 defines:
   - First Love
-related:
-  - "[[ivan-turgenev]]"
-  - "[[coming-of-age]]"
-  - "[[romantic-awakening]]"
+related: ["[[ivan-turgenev]]", "[[coming-of-age]]", "[[romantic-awakening]]"]
+requires: []
 lists:
   - "[[works-of-russian-short-fiction]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ Turgenev's *First Love* captures the emotional turbulence of adolescence through
 ## see also
 
 - [[the-queen-of-spades]] · [[the-lady-with-the-dog]] · [[ivan-turgenev]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

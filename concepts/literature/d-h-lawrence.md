@@ -3,11 +3,20 @@ type: person
 category: literature
 defines: ["D. H. Lawrence", "David Herbert Lawrence"]
 related: ["[[modernist-authors]]", "[[england]]", "[[sexuality-in-literature]]", "[[stream-of-consciousness]]", "[[women-in-love]]"]
+requires: ["[[modernism]]"]
 lists: ["[[modernist-authors]]"]
+tour_order: 1
 read: false
 ---
 
 # D. H. Lawrence
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -50,6 +59,18 @@ Lawrence represents a modernism that privileges the body, desire, and instinct a
 ## see also
 
 - [[james-joyce]] · [[virginia-woolf]] · [[t-s-eliot]] · [[gertrude-stein]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

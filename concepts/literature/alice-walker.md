@@ -2,8 +2,10 @@
 type: person
 category: literature
 defines: [Alice Walker]
-related: ["[[civil-rights-era]]", "[[feminist-literature]]"]
+related: ["[[civil-rights-era]]", "[[feminist-literature]]", "[[harlem-renaissance]]"]
+requires: []
 lists: ["[[african-american-authors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[toni-morrison]] · [[zora-neale-hurston]] · [[maya-angelou]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

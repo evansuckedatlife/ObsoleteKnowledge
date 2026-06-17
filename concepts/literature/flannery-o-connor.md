@@ -2,8 +2,10 @@
 type: person
 category: literature
 defines: [Flannery O'Connor, Mary Flannery O'Connor]
-related: ["[[a-good-man-is-hard-to-find]]", "[[wise-blood]]", "[[the-violent-bear-it-away]]", "[[southern-gothic]]", "[[american-short-story]]", "[[catholicism]]", "[[grace]]"]
+related: ["[[a-good-man-is-hard-to-find]]", "[[wise-blood]]", "[[the-violent-bear-it-away]]", "[[southern-gothic]]", "[[american-short-story]]", "[[catholicism]]", "[[grace]]", "[[christianity]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +37,18 @@ read: false
 ## see also
 
 - [[a-good-man-is-hard-to-find]] · [[wise-blood]] · [[the-violent-bear-it-away]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,12 +3,11 @@ type: work
 category: literature
 defines:
   - The Duchess of Malfi
-related:
-  - "[[john-webster]]"
-  - "[[revenge-tragedy]]"
-  - "[[white-devil]]"
+related: ["[[john-webster]]", "[[revenge-tragedy]]", "[[white-devil]]", "[[england]]", "[[italian-renaissance]]"]
+requires: []
 lists:
   - "[[non-shakespeare-classical-english-dramas]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ John Webster's *The Duchess of Malfi* is a Jacobean revenge tragedy of obsession
 ## see also
 
 - [[john-webster]] · [[white-devil]] · [[revenge-tragedy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: concept
 category: literature
 defines: [Science fiction, Speculative fiction, SF]
 related: ["[[jules-verne]]", "[[h-g-wells]]", "[[isaac-asimov]]", "[[ray-bradbury]]", "[[mary-shelley]]", "[[technology]]", "[[scientific-method]]", "[[futurism]]", "[[the-time-machine]]", "[[frankenstein]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -63,6 +65,18 @@ Science fiction occupies a paradoxical position: it is the most commercially suc
 ## see also
 
 - [[jules-verne]] · [[h-g-wells]] · [[isaac-asimov]] · [[ray-bradbury]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

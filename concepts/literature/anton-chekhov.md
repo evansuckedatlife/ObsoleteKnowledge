@@ -3,7 +3,9 @@ type: person
 category: literature
 defines: ["Anton Chekhov", Chekhov]
 related: ["[[realism]]", "[[russian-literature]]", "[[drama]]", "[[the-cherry-orchard]]"]
+requires: []
 lists: ["[[short-story-authors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -47,6 +49,18 @@ Chekhov arrived at a moment when European literature was fragmenting into multip
 ## see also
 
 - [[edgar-allan-poe]] · [[flannery-o-connor]] · [[raymond-carver]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

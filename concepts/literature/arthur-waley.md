@@ -4,14 +4,11 @@ category: literature
 defines:
   - Arthur Waley
   - "Arthur David Waley"
-related:
-  - "[[chinese-literature]]"
-  - "[[japanese-literature]]"
-  - "[[tale-of-genji]]"
-  - "[[dream-of-the-red-chamber]]"
-  - "[[literary-translation]]"
+related: ["[[chinese-literature]]", "[[japanese-literature]]", "[[tale-of-genji]]", "[[dream-of-the-red-chamber]]", "[[literary-translation]]", "[[japan]]"]
+requires: []
 lists:
   - "[[translations]]"
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +39,18 @@ Arthur Waley (1889–1966) was a British translator and orientalist whose render
 ## see also
 
 - [[constance-garnett]] · [[gregory-rabassa]] · [[seamus-heaney-beowulf]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

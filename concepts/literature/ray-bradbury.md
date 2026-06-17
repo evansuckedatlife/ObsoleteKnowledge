@@ -2,12 +2,21 @@
 type: person
 category: literature
 defines: ["Ray Bradbury"]
-related: ["[[fahrenheit-451]]", "[[the-martian-chronicles]]", "[[the-illustrated-man]]", "science-fiction", "poetic-prose"]
+related: ["[[fahrenheit-451]]", "[[the-martian-chronicles]]", "[[the-illustrated-man]]", "[[science-fiction]]", "[[poetic-prose]]"]
+requires: ["[[science-fiction]]"]
 lists: ["[[authors-of-speculative-fiction]]"]
+tour_order: 1
 read: false
 ---
 
 # Ray Bradbury
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[isaac-asimov]] · [[arthur-c-clarke]] · [[ursula-k-le-guin]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

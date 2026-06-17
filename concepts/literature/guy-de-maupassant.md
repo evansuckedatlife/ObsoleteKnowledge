@@ -2,8 +2,10 @@
 type: person
 category: literature
 defines: ["Guy de Maupassant", Maupassant]
-related: ["[[realism]]", "[[french-literature]]", "[[belle-époque]]", "[[naturalism]]"]
+related: ["[[realism]]", "[[french-literature]]", "[[belle-époque]]", "[[naturalism]]", "[[france]]"]
+requires: []
 lists: ["[[short-story-authors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -47,6 +49,18 @@ Maupassant arrived as Flaubert's heir to French realism at precisely the moment 
 ## see also
 
 - [[edgar-allan-poe]] · [[anton-chekhov]] · [[o-henry]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

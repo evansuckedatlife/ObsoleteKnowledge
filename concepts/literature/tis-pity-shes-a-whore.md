@@ -4,12 +4,11 @@ category: literature
 defines:
   - "'Tis Pity She's a Whore"
   - Tis Pity She's a Whore
-related:
-  - "[[john-ford]]"
-  - "[[incest-in-drama]]"
-  - "[[jacobean-tragedy]]"
+related: ["[[john-ford]]", "[[incest-in-drama]]", "[[jacobean-tragedy]]"]
+requires: []
 lists:
   - "[[non-shakespeare-classical-english-dramas]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +40,18 @@ John Ford's *'Tis Pity She's a Whore* is a bold, unsettling Jacobean tragedy of 
 ## see also
 
 - [[john-ford]] · [[the-broken-heart]] · [[jacobean-tragedy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

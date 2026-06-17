@@ -4,13 +4,11 @@ category: literature
 defines:
   - The Picture of Dorian Gray
   - Dorian Gray
-related:
-  - "[[oscar-wilde]]"
-  - "[[dorian-gray]]"
-  - "[[aestheticism]]"
-  - "[[the-picture-of-dorian-gray-characters]]"
+related: ["[[oscar-wilde]]", "[[dorian-gray]]", "[[aestheticism]]", "[[the-picture-of-dorian-gray-characters]]", "[[england]]"]
+requires: []
 lists:
   - "[[works-by-irish-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ read: false
 ## see also
 
 - [[the-importance-of-being-earnest]] · [[an-ideal-husband]] · [[the-portrait-of-dorian-gray]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,12 +2,11 @@
 type: work
 category: literature
 defines: ["The Name of the Rose"]
-related:
-  - "[[umberto-eco]]"
-  - "[[detective-fiction]]"
-  - "[[medieval-monastery]]"
+related: ["[[umberto-eco]]", "[[detective-fiction]]", "[[medieval-monastery]]", "[[italy]]"]
+requires: []
 lists:
   - "[[works-of-mystery-and-detective-fiction]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ Umberto Eco's 1980 novel is a sophisticated mystery set in a medieval monastery 
 ## see also
 
 - [[umberto-eco]] · [[detective-fiction]] · [[medieval-history]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

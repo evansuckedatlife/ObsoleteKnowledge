@@ -3,7 +3,9 @@ type: work
 category: literature
 defines: ["All the world's a stage", "Seven Ages of Man", "Jacques's speech"]
 related: ["[[as-you-like-it]]", "[[theatrum-mundi]]", "[[existentialism]]"]
+requires: []
 lists: ["[[shakespearean-speeches]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[to-be-or-not-to-be]] · [[what-a-piece-of-work-is-a-man]] · [[the-quality-of-mercy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

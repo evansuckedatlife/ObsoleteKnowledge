@@ -4,17 +4,22 @@ category: literature
 defines:
   - Dubliners
   - Dubliners (short-story collection)
-related:
-  - "[[james-joyce]]"
-  - "[[dublin]]"
-  - "[[short-story]]"
-  - "[[ulysses]]"
+related: ["[[james-joyce]]", "[[dublin]]", "[[short-story]]", "[[ulysses]]"]
+requires: ["[[james-joyce]]"]
 lists:
   - "[[works-by-irish-authors]]"
+tour_order: 2
 read: false
 ---
 
 # Dubliners
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -42,6 +47,18 @@ read: false
 ## see also
 
 - [[ulysses]] · [[a-portrait-of-the-artist-as-a-young-man]] · [[the-dead]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

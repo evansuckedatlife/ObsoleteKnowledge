@@ -3,12 +3,11 @@ type: work
 category: literature
 defines:
   - Sounder
-related:
-  - "[[william-armstrong]]"
-  - "[[american-south]]"
-  - "[[children-literature]]"
+related: ["[[william-armstrong]]", "[[american-south]]", "[[children-literature]]"]
+requires: []
 lists:
   - "[[20th-century-newbery-medal-winners]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[a-wrinkle-in-time]] · [[bridge-to-terabithia]] · [[roll-of-thunder-hear-my-cry]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

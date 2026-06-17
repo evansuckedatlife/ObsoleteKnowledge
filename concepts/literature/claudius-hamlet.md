@@ -3,11 +3,20 @@ type: person
 category: literature
 defines: [Claudius]
 related: ["[[hamlet]]", "[[gertrude]]", "[[ghost-hamlet]]", "[[regicide]]", "[[poison]]"]
+requires: ["[[hamlet]]"]
 lists: ["[[shakespearean-villains]]"]
+tour_order: 2
 read: false
 ---
 
 # Claudius
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -56,6 +65,18 @@ Claudius is the villain of *Hamlet*, but he is also the most humanized in his co
 ## see also
 
 - [[hamlet]] · [[iago]] · [[macbeth]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

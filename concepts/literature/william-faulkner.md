@@ -3,7 +3,9 @@ type: person
 category: literature
 defines: [William Faulkner]
 related: ["[[modernist-authors]]", "[[american-south]]", "[[stream-of-consciousness]]", "[[the-sound-and-the-fury]]"]
+requires: []
 lists: ["[[modernist-authors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -49,6 +51,18 @@ Faulkner brought modernist experimentation to American regional fiction, proving
 ## see also
 
 - [[james-joyce]] · [[virginia-woolf]] · [[t-s-eliot]] · [[gertrude-stein]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

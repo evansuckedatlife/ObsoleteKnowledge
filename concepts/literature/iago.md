@@ -3,11 +3,20 @@ type: person
 category: literature
 defines: [Iago]
 related: ["[[othello]]", "[[desdemona]]", "[[cassio]]", "[[emilia]]", "[[racism]]"]
+requires: ["[[william-shakespeare]]"]
 lists: ["[[shakespearean-villains]]"]
+tour_order: 1
 read: false
 ---
 
 # Iago
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -52,6 +61,18 @@ Iago represents the toxic intersection of systemic racism and personal resentmen
 ## see also
 
 - [[macbeth]] · [[claudius]] · [[edmund]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

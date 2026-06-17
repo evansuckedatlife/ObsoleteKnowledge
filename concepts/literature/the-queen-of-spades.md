@@ -3,12 +3,11 @@ type: work
 category: literature
 defines:
   - The Queen of Spades
-related:
-  - "[[alexander-pushkin]]"
-  - "[[supernatural-fiction]]"
-  - "[[obsession]]"
+related: ["[[alexander-pushkin]]", "[[supernatural-fiction]]", "[[obsession]]"]
+requires: []
 lists:
   - "[[works-of-russian-short-fiction]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ Pushkin's *The Queen of Spades* is a supernatural novella of gambling obsession 
 ## see also
 
 - [[first-love]] · [[the-overcoat]] · [[alexander-pushkin]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

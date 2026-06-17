@@ -2,8 +2,10 @@
 type: person
 category: literature
 defines: ["Flannery O'Connor", "O'Connor"]
-related: ["[[american-literature]]", "[[southern-gothic]]", "[[grotesque]]", "[[catholicism-in-literature]]", "[[grace-and-violence]]"]
+related: ["[[american-literature]]", "[[southern-gothic]]", "[[grotesque]]", "[[catholicism-in-literature]]", "[[grace-and-violence]]", "[[christianity]]"]
+requires: []
 lists: ["[[short-story-authors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -48,6 +50,18 @@ O'Connor emerged from the Southern literary tradition (Faulkner, Carson McCuller
 ## see also
 
 - [[alice-munro]] · [[raymond-carver]] · [[edgar-allan-poe]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

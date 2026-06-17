@@ -2,16 +2,22 @@
 type: work
 category: literature
 defines: ["Murder on the Orient Express", "Murder on the Orient Express"]
-related:
-  - "[[agatha-christie]]"
-  - "[[hercule-poirot]]"
-  - "[[detective-fiction]]"
+related: ["[[agatha-christie]]", "[[hercule-poirot]]", "[[detective-fiction]]"]
+requires: ["[[agatha-christie]]"]
 lists:
   - "[[works-of-mystery-and-detective-fiction]]"
+tour_order: 1
 read: false
 ---
 
 # Murder on the Orient Express
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ Agatha Christie's 1934 novel features detective Hercule Poirot aboard a snowboun
 ## see also
 
 - [[hercule-poirot]] · [[agatha-christie]] · [[and-then-there-were-none]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

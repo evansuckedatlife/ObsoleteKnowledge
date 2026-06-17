@@ -2,12 +2,21 @@
 type: work
 category: literature
 defines: ["David Copperfield"]
-related: ["[[charles-dickens]]", "[[uriah-heep]]"]
+related: ["[[charles-dickens]]", "[[uriah-heep]]", "[[england]]"]
+requires: ["[[charles-dickens]]", "[[industrial-revolution]]"]
 lists: ["[[charles-dickens-novels]]"]
+tour_order: 1
 read: false
 ---
 
 # David Copperfield
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[great-expectations]] · [[bleak-house]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,12 +2,11 @@
 type: person
 category: literature
 defines: [Sydney Carton]
-related:
-  - "[[a-tale-of-two-cities]]"
-  - "[[charles-dickens]]"
-  - "[[madame-defarge]]"
+related: ["[[a-tale-of-two-cities]]", "[[charles-dickens]]", "[[madame-defarge]]", "[[france]]", "[[french-revolution]]"]
+requires: []
 lists:
   - "[[charles-dickens-characters-not-protagonists]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +35,18 @@ read: false
 ## see also
 
 - [[madame-defarge]] · [[ebenezer-scrooge]] · [[miss-havisham]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

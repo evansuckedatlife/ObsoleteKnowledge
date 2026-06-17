@@ -5,18 +5,22 @@ defines:
   - Septuagint
   - LXX
   - Seventy
-related:
-  - "[[hebrew-bible]]"
-  - "[[koine-greek]]"
-  - "[[alexandria]]"
-  - "[[jewish-diaspora]]"
-  - "[[early-christianity]]"
+related: ["[[hebrew-bible]]", "[[koine-greek]]", "[[alexandria]]", "[[jewish-diaspora]]", "[[early-christianity]]", "[[ancient-greece]]"]
+requires: ["[[hebrew-bible]]"]
 lists:
   - "[[translations]]"
+tour_order: 2
 read: false
 ---
 
 # Septuagint
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -43,6 +47,18 @@ The Septuagint (LXX) is a Greek translation of the Hebrew scriptures produced in
 ## see also
 
 - [[vulgate]] · [[king-james-bible]] · [[dead-sea-scrolls]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

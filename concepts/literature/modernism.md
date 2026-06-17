@@ -3,8 +3,10 @@ type: concept
 category: literature
 aliases: [literary-modernism]
 defines: [Modernism, High Modernism, Anglo-American modernism]
-related: ["[[james-joyce]]", "[[virginia-woolf]]", "[[t-s-eliot]]", "[[ezra-pound]]", "[[stream-of-consciousness]]", "[[the-waste-land]]", "[[world-war-i]]", "[[cubism]]", "[[sigmund-freud]]", "[[friedrich-nietzsche]]"]
+related: ["[[james-joyce]]", "[[virginia-woolf]]", "[[t-s-eliot]]", "[[ezra-pound]]", "[[stream-of-consciousness]]", "[[the-waste-land]]", "[[world-war-i]]", "[[cubism]]", "[[sigmund-freud]]", "[[friedrich-nietzsche]]", "[[existentialism]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -58,6 +60,18 @@ Modernism is the threshold where literature ceased to be a medium for general ed
 ## see also
 
 - [[james-joyce]] · [[virginia-woolf]] · [[t-s-eliot]] · [[ezra-pound]] · [[gertrude-stein]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

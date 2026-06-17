@@ -3,12 +3,11 @@ type: work
 category: literature
 defines:
   - "The Monkey's Paw"
-related:
-  - "[[william-wymark-jacobs]]"
-  - "[[short-story]]"
-  - "[[consequence-horror]]"
+related: ["[[william-wymark-jacobs]]", "[[short-story]]", "[[consequence-horror]]", "[[england]]"]
+requires: []
 lists:
   - "[[works-of-horror-fiction]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ William Wymark Jacobs's 1902 short story presents a supernatural artifact that g
 ## see also
 
 - [[the-fall-of-the-house-of-usher]] · [[the-tell-tale-heart]] · [[the-haunting-of-hill-house]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

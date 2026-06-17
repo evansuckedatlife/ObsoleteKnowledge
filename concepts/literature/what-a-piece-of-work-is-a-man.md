@@ -2,8 +2,10 @@
 type: work
 category: literature
 defines: ["What a piece of work is a man", "Hamlet's praise of mankind", "Renaissance man"]
-related: ["[[hamlet]]", "[[humanism]]", "[[depression]]"]
+related: ["[[hamlet]]", "[[humanism]]", "[[depression]]", "[[england]]"]
+requires: []
 lists: ["[[shakespearean-speeches]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[to-be-or-not-to-be]] · [[is-this-a-dagger-which-i-see-before-me]] · [[all-the-worlds-a-stage]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

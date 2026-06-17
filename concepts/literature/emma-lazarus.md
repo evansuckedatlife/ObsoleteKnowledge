@@ -3,13 +3,11 @@ type: person
 category: literature
 defines:
   - Emma Lazarus
-related:
-  - "[[american-immigration]]"
-  - "[[statue-of-liberty]]"
-  - "[[19th-century-poetry]]"
-  - "[[jewish-identity]]"
+related: ["[[american-immigration]]", "[[statue-of-liberty]]", "[[19th-century-poetry]]", "[[jewish-identity]]", "[[judaism]]"]
+requires: []
 lists:
   - "[[jewish-american-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[grace-paley]] · [[cynthia-ozick]] · [[philip-roth]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

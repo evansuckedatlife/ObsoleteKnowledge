@@ -3,11 +3,20 @@ type: work
 category: literature
 defines: [Hamlet, "Hamlet, Prince of Denmark"]
 related: ["[[william-shakespeare]]", "[[claudius-hamlet]]", "[[gertrude]]", "[[ghost-hamlet]]", "[[ophelia]]", "[[the-mousetrap]]", "[[revenge-tragedy]]", "[[english-renaissance]]"]
+requires: ["[[william-shakespeare]]"]
 lists: ["[[shakespearean-tragedies]]"]
+tour_order: 1
 read: false
 ---
 
 # Hamlet
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -52,6 +61,18 @@ read: false
 ## see also
 
 - [[william-shakespeare]] · [[claudius-hamlet]] · [[the-mousetrap]] · [[revenge-tragedy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

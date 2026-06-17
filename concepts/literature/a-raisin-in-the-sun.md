@@ -4,15 +4,22 @@ category: literature
 defines:
   - A Raisin in the Sun
   - Younger family
-related:
-  - "[[lorraine-hansberry]]"
-  - "[[african-american-theater]]"
+related: ["[[lorraine-hansberry]]", "[[african-american-theater]]", "[[new-york-city]]"]
+requires: ["[[lorraine-hansberry]]", "[[harlem-renaissance]]"]
 lists:
   - "[[american-plays]]"
+tour_order: 1
 read: false
 ---
 
 # A Raisin in the Sun
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +45,18 @@ Lorraine Hansberry's 1959 play follows the African American *Younger family* in 
 ## see also
 
 - [[death-of-a-salesman]] · [[the-crucible]] · [[our-town]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

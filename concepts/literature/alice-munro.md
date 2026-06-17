@@ -3,7 +3,9 @@ type: person
 category: literature
 defines: ["Alice Munro", Munro]
 related: ["[[canadian-literature]]", "[[short-story-form]]", "[[feminist-literature]]", "[[provincial-life]]"]
+requires: []
 lists: ["[[short-story-authors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -48,6 +50,18 @@ Munro arrived as a writer in the 1950s-60s when the American short story traditi
 ## see also
 
 - [[raymond-carver]] · [[flannery-o-connor]] · [[saki]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

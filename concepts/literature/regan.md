@@ -2,8 +2,10 @@
 type: person
 category: literature
 defines: [Regan]
-related: ["[[king-lear]]", "[[goneril]]", "[[cornwall]]", "[[edmund]]", "[[gloucester-blindness]]"]
+related: ["[[king-lear]]", "[[goneril]]", "[[cornwall]]", "[[edmund]]", "[[gloucester-blindness]]", "[[england]]"]
+requires: []
 lists: ["[[shakespearean-villains]]"]
+tour_order: 0
 read: false
 ---
 
@@ -57,6 +59,18 @@ Regan is less explored by critics and actors than Goneril, often read as a simpl
 ## see also
 
 - [[goneril]] · [[lady-macbeth]] · [[regan]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: person
 category: literature
 defines: ["E. E. Cummings", "Edward Estlin Cummings"]
 related: ["[[modernist-authors]]", "[[poetry]]", "[[visual-poetry]]", "[[form-and-content]]", "[[the-enormous-room]]"]
+requires: ["[[modernism]]"]
 lists: ["[[modernist-authors]]"]
+tour_order: 1
 read: false
 ---
 
 # E. E. Cummings
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -50,6 +59,18 @@ Cummings represents an alternative modernism: lighter, more playful, more optimi
 ## see also
 
 - [[james-joyce]] · [[virginia-woolf]] · [[t-s-eliot]] · [[gertrude-stein]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

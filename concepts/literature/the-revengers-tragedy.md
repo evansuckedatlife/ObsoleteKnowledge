@@ -3,12 +3,11 @@ type: work
 category: literature
 defines:
   - The Revenger's Tragedy
-related:
-  - "[[thomas-middleton]]"
-  - "[[cyril-tourneur]]"
-  - "[[revenge-tragedy]]"
+related: ["[[thomas-middleton]]", "[[cyril-tourneur]]", "[[revenge-tragedy]]"]
+requires: []
 lists:
   - "[[non-shakespeare-classical-english-dramas]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ read: false
 ## see also
 
 - [[thomas-middleton]] · [[the-changeling]] · [[revenge-tragedy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

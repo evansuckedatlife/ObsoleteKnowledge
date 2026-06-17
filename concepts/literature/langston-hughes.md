@@ -2,12 +2,21 @@
 type: person
 category: literature
 defines: [Langston Hughes]
-related: ["[[harlem-renaissance]]", "[[jazz-age]]"]
+related: ["[[harlem-renaissance]]", "[[jazz-age]]", "[[jazz]]"]
+requires: ["[[harlem-renaissance]]"]
 lists: ["[[african-american-authors]]"]
+tour_order: 1
 read: false
 ---
 
 # Langston Hughes
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[zora-neale-hurston]] · [[gwendolyn-brooks]] · [[maya-angelou]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

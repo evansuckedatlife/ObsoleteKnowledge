@@ -2,8 +2,10 @@
 type: person
 category: literature
 defines: ["H.G. Wells", "Herbert George Wells"]
-related: ["[[the-time-machine]]", "[[the-island-of-doctor-moreau]]", "[[the-war-of-the-worlds]]", "[[the-invisible-man]]", "science-fiction"]
+related: ["[[the-time-machine]]", "[[the-island-of-doctor-moreau]]", "[[the-war-of-the-worlds]]", "[[the-invisible-man]]", "[[science-fiction]]", "[[industrial-revolution]]", "[[england]]"]
+requires: []
 lists: ["[[authors-of-speculative-fiction]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[jules-verne]] · [[isaac-asimov]] · [[ray-bradbury]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

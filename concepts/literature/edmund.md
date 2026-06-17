@@ -3,7 +3,9 @@ type: person
 category: literature
 defines: [Edmund, Edmund the Bastard]
 related: ["[[king-lear]]", "[[edgar]]", "[[goneril]]", "[[regan]]", "[[gloucester]]", "[[illegitimacy]]"]
+requires: []
 lists: ["[[shakespearean-villains]]"]
+tour_order: 0
 read: false
 ---
 
@@ -57,6 +59,18 @@ Edmund is less elaborated than Iago or Macbeth but is thematically crucial to *K
 ## see also
 
 - [[edgar]] · [[goneril]] · [[regan]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

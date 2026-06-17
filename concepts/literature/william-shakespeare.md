@@ -3,8 +3,10 @@ type: person
 category: literature
 defines: [William Shakespeare, Shakespeare, shakespearean-drama]
 aliases: [shakespeare, Shakespeare]
-related: ["[[hamlet]]", "[[macbeth]]", "[[a-midsummer-nights-dream]]", "[[othello]]", "[[king-lear]]", "[[the-tempest]]", "[[romeo-and-juliet]]", "[[the-merchant-of-venice]]", "[[sonnet]]", "[[elizabethan-england]]", "[[the-globe-theatre]]", "[[tragedy]]", "[[comedy]]", "[[iambic-pentameter]]"]
+related: ["[[hamlet]]", "[[macbeth]]", "[[a-midsummer-nights-dream]]", "[[othello]]", "[[king-lear]]", "[[the-tempest]]", "[[romeo-and-juliet]]", "[[the-merchant-of-venice]]", "[[sonnet]]", "[[elizabethan-england]]", "[[the-globe-theatre]]", "[[tragedy]]", "[[comedy]]", "[[iambic-pentameter]]", "[[england]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -64,6 +66,18 @@ Shakespeare is the supreme literary genius of English culture and arguably of wo
 ## see also
 
 - [[hamlet]] · [[macbeth]] · [[king-lear]] · [[a-midsummer-nights-dream]] · [[the-tempest]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

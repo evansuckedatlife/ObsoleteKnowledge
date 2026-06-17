@@ -3,11 +3,20 @@ type: person
 category: literature
 defines: [Ezra Pound, "Ez"]
 related: ["[[modernist-authors]]", "[[james-joyce]]", "[[t-s-eliot]]", "[[literary-modernism]]", "[[imagism]]"]
+requires: ["[[modernism]]"]
 lists: ["[[modernist-authors]]"]
+tour_order: 1
 read: false
 ---
 
 # Ezra Pound
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -48,6 +57,18 @@ Pound is the exemplary modernist maker—the artist as cultural entrepreneur, ed
 ## see also
 
 - [[james-joyce]] · [[t-s-eliot]] · [[virginia-woolf]] · [[gertrude-stein]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,11 +4,11 @@ category: literature
 defines:
   - Long Day's Journey into Night
   - Tyrone family
-related:
-  - "[[eugene-oneill]]"
-  - "[[american-realism]]"
+related: ["[[eugene-oneill]]", "[[american-realism]]"]
+requires: []
 lists:
   - "[[american-plays]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +38,18 @@ Eugene O'Neill's 1956 play (published posthumously) is a four-act family tragedy
 ## see also
 
 - [[the-iceman-cometh]] · [[death-of-a-salesman]] · [[a-streetcar-named-desire]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

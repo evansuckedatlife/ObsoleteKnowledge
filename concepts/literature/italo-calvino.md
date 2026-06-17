@@ -3,15 +3,22 @@ type: person
 category: literature
 defines:
   - Italo Calvino
-related:
-  - "[[jorge-luis-borges]]"
-  - "[[vladimir-nabokov]]"
+related: ["[[jorge-luis-borges]]", "[[vladimir-nabokov]]", "[[italy]]"]
+requires: ["[[modernism]]"]
 lists:
   - "[[postmodern-authors]]"
+tour_order: 1
 read: false
 ---
 
 # Italo Calvino
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +42,18 @@ read: false
 ## see also
 
 - [[jorge-luis-borges]] · [[vladimir-nabokov]] · [[david-foster-wallace]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

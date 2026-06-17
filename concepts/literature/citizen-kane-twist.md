@@ -4,16 +4,22 @@ category: literature
 defines:
   - "Citizen Kane"
   - Rosebud
-related:
-  - "[[orson-welles]]"
-  - "[[narrative-cinema]]"
-  - "[[biography-and-legacy]]"
+related: ["[[orson-welles]]", "[[narrative-cinema]]", "[[biography-and-legacy]]"]
+requires: ["[[citizen-kane]]"]
 lists:
   - "[[plot-twists]]"
+tour_order: 1
 read: false
 ---
 
 # Citizen Kane
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +46,18 @@ Orson Welles' *Citizen Kane* is a landmark film that chronicles the rise and fal
 ## see also
 
 - [[soylent-green-twist]] · [[the-sixth-sense]] · [[the-usual-suspects-twist]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,13 +2,11 @@
 type: work
 category: literature
 defines: ["The Big Sleep"]
-related:
-  - "[[raymond-chandler]]"
-  - "[[philip-marlowe]]"
-  - "[[detective-fiction]]"
-  - "[[noir]]"
+related: ["[[raymond-chandler]]", "[[philip-marlowe]]", "[[detective-fiction]]", "[[noir]]", "[[great-depression]]"]
+requires: []
 lists:
   - "[[works-of-mystery-and-detective-fiction]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ Raymond Chandler's 1939 debut novel introduces Philip Marlowe, a Los Angeles pri
 ## see also
 
 - [[philip-marlowe]] · [[raymond-chandler]] · [[the-maltese-falcon]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

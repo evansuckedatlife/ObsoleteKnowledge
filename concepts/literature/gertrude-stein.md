@@ -2,12 +2,21 @@
 type: person
 category: literature
 defines: [Gertrude Stein, "Gertie"]
-related: ["[[modernist-authors]]", "[[james-joyce]]", "[[stream-of-consciousness]]", "[[literary-modernism]]", "[[paris]]"]
+related: ["[[modernist-authors]]", "[[james-joyce]]", "[[stream-of-consciousness]]", "[[literary-modernism]]", "[[paris]]", "[[world-war-i]]"]
+requires: ["[[modernism]]"]
 lists: ["[[modernist-authors]]"]
+tour_order: 1
 read: false
 ---
 
 # Gertrude Stein
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -49,6 +58,18 @@ Stein is modernism's most radically experimental prose writer and its most exclu
 ## see also
 
 - [[james-joyce]] · [[t-s-eliot]] · [[virginia-woolf]] · [[ezra-pound]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

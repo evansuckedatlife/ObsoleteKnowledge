@@ -4,12 +4,11 @@ category: literature
 defines:
   - "Zeami"
   - "Zeami Motokiyo"
-related:
-  - "[[noh-theatre]]"
-  - "[[muromachi-period]]"
-  - "[[shogun]]"
+related: ["[[noh-theatre]]", "[[muromachi-period]]", "[[shogun]]"]
+requires: []
 lists:
   - "[[japanese-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[noh-theatre]] · [[muromachi-period]] · [[japanese-aesthetics]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,12 +2,21 @@
 type: work
 category: literature
 defines: ["The Pickwick Papers", "Pickwick Papers"]
-related: ["[[charles-dickens]]", "[[samuel-pickwick]]"]
+related: ["[[charles-dickens]]", "[[samuel-pickwick]]", "[[england]]"]
+requires: ["[[charles-dickens]]"]
 lists: ["[[charles-dickens-novels]]"]
+tour_order: 1
 read: false
 ---
 
 # The Pickwick Papers
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -31,6 +40,18 @@ read: false
 ## see also
 
 - [[oliver-twist]] · [[a-christmas-carol]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

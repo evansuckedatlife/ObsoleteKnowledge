@@ -3,11 +3,20 @@ type: person
 category: literature
 defines: [Maya Angelou]
 related: ["[[autobiography-as-literature]]", "[[civil-rights-era]]"]
+requires: ["[[harlem-renaissance]]"]
 lists: ["[[african-american-authors]]"]
+tour_order: 1
 read: false
 ---
 
 # Maya Angelou
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[alice-walker]] · [[gwendolyn-brooks]] · [[toni-morrison]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

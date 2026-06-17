@@ -2,12 +2,21 @@
 type: person
 category: literature
 defines: ["Mary Shelley", "Mary Wollstonecraft Shelley"]
-related: ["[[percy-bysshe-shelley]]", "[[frankenstein]]", "gothic-literature", "[[the-last-man]]"]
+related: ["[[percy-bysshe-shelley]]", "[[frankenstein]]", "[[gothic-literature]]", "[[the-last-man]]", "[[industrial-revolution]]"]
+requires: ["[[gothic-literature]]"]
 lists: ["[[authors-of-speculative-fiction]]"]
+tour_order: 1
 read: false
 ---
 
 # Mary Shelley
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[jules-verne]] · [[h-g-wells]] · [[edgar-allan-poe]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

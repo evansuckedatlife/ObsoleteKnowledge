@@ -3,11 +3,20 @@ type: work
 category: literature
 defines: [An Honest Thief]
 related: ["[[fyodor-dostoevsky]]", "[[poverty]]", "[[morality]]"]
+requires: ["[[fyodor-dostoevsky]]"]
 lists: ["[[works-by-dostoevsky]]"]
+tour_order: 1
 read: false
 ---
 
 # An Honest Thief
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[poor-folk]] · [[crime-and-punishment]] · [[white-nights]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

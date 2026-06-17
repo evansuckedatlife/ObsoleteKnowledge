@@ -3,12 +3,11 @@ type: work
 category: literature
 defines:
   - Holes
-related:
-  - "[[louis-sachar]]"
-  - "[[adventure-fiction]]"
-  - "[[mystery]]"
+related: ["[[louis-sachar]]", "[[adventure-fiction]]", "[[mystery]]"]
+requires: []
 lists:
   - "[[20th-century-newbery-medal-winners]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[the-westing-game]] · [[the-giver]] · [[the-view-from-saturday]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

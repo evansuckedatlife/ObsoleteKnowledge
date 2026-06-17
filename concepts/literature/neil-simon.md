@@ -3,13 +3,11 @@ type: person
 category: literature
 defines:
   - Neil Simon
-related:
-  - "[[american-comedy]]"
-  - "[[broadway-theatre]]"
-  - "[[domestic-life]]"
-  - "[[arthur-miller]]"
+related: ["[[american-comedy]]", "[[broadway-theatre]]", "[[domestic-life]]", "[[arthur-miller]]", "[[new-york-city]]"]
+requires: []
 lists:
   - "[[jewish-american-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[arthur-miller]] · [[philip-roth]] · [[grace-paley]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: work
 category: literature
 defines: [Poor Folk]
 related: ["[[fyodor-dostoevsky]]", "[[st-petersburg]]", "[[russian-literature]]"]
+requires: []
 lists: ["[[works-by-dostoevsky]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[crime-and-punishment]] · [[the-idiot]] · [[the-double]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

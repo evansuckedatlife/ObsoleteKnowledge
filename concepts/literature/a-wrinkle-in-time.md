@@ -4,16 +4,22 @@ category: literature
 defines:
   - A Wrinkle in Time
   - Wrinkle in Time
-related:
-  - "[[madeline-lengle]]"
-  - "[[science-fiction]]"
-  - "[[children-literature]]"
+related: ["[[madeline-lengle]]", "[[science-fiction]]", "[[children-literature]]"]
+requires: ["[[childrens-literature]]"]
 lists:
   - "[[20th-century-newbery-medal-winners]]"
+tour_order: 1
 read: false
 ---
 
 # A Wrinkle in Time
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ read: false
 ## see also
 
 - [[sounder]] · [[bridge-to-terabithia]] · [[the-giver]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

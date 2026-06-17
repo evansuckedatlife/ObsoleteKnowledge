@@ -2,12 +2,11 @@
 type: work
 category: literature
 defines: ["Gaudy Night"]
-related:
-  - "[[dorothy-l-sayers]]"
-  - "[[lord-peter-wimsey]]"
-  - "[[detective-fiction]]"
+related: ["[[dorothy-l-sayers]]", "[[lord-peter-wimsey]]", "[[detective-fiction]]", "[[england]]"]
+requires: []
 lists:
   - "[[works-of-mystery-and-detective-fiction]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ Dorothy L. Sayers's 1935 novel centers on Lord Peter Wimsey's investigation of m
 ## see also
 
 - [[lord-peter-wimsey]] · [[dorothy-l-sayers]] · [[detective-fiction]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

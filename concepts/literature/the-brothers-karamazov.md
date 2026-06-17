@@ -2,12 +2,21 @@
 type: work
 category: literature
 defines: [The Brothers Karamazov]
-related: ["[[fyodor-dostoevsky]]", "[[ivan-karamazov]]", "[[alyosha-karamazov]]", "[[dmitri-karamazov]]"]
+related: ["[[fyodor-dostoevsky]]", "[[ivan-karamazov]]", "[[alyosha-karamazov]]", "[[dmitri-karamazov]]", "[[existentialism]]"]
+requires: ["[[fyodor-dostoevsky]]"]
 lists: ["[[works-by-dostoevsky]]"]
+tour_order: 1
 read: false
 ---
 
 # The Brothers Karamazov
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[crime-and-punishment]] · [[the-idiot]] · [[demons]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

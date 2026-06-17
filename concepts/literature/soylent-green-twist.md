@@ -4,12 +4,11 @@ category: literature
 defines:
   - "Soylent Green"
   - Soylent Green (film)
-related:
-  - "[[richard-fleischer]]"
-  - "[[dystopian-fiction]]"
-  - "[[science-fiction-film]]"
+related: ["[[richard-fleischer]]", "[[dystopian-fiction]]", "[[science-fiction-film]]"]
+requires: []
 lists:
   - "[[plot-twists]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ read: false
 ## see also
 
 - [[the-sixth-sense]] · [[fight-club-twist]] · [[rebecca-twist]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

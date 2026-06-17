@@ -3,7 +3,9 @@ type: person
 category: literature
 defines: ["Edgar Allan Poe", Poe]
 related: ["[[the-raven]]", "[[romanticism]]", "[[gothic-literature]]", "[[american-literature]]"]
+requires: []
 lists: ["[[short-story-authors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -43,6 +45,18 @@ Poe stands at the pivot between Romanticism and Modernism, bridging two centurie
 ## see also
 
 - [[anton-chekhov]] · [[guy-de-maupassant]] · [[o-henry]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

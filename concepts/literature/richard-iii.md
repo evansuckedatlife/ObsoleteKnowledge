@@ -2,12 +2,21 @@
 type: person
 category: literature
 defines: ["Richard III", "Richard Crookback"]
-related: ["[[elizabeth-woodville]]", "[[richmond]]", "[[princes-in-the-tower]]", "[[yorkist-plantagenet]]", "[[deformity-and-evil]]"]
+related: ["[[elizabeth-woodville]]", "[[richmond]]", "[[princes-in-the-tower]]", "[[yorkist-plantagenet]]", "[[deformity-and-evil]]", "[[england]]"]
+requires: ["[[william-shakespeare]]"]
 lists: ["[[shakespearean-villains]]"]
+tour_order: 1
 read: false
 ---
 
 # Richard III
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -56,6 +65,18 @@ read: false
 ## see also
 
 - [[macbeth]] · [[claudius]] · [[iago]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

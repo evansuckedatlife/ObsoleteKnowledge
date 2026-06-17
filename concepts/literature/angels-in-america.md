@@ -4,15 +4,22 @@ category: literature
 defines:
   - Angels in America
   - "Angels in America: A Gay Fantasia on National Themes"
-related:
-  - "[[tony-kushner]]"
-  - "[[hiv-aids-crisis]]"
+related: ["[[tony-kushner]]", "[[hiv-aids-crisis]]", "[[new-york-city]]"]
+requires: ["[[modernism]]"]
 lists:
   - "[[american-plays]]"
+tour_order: 1
 read: false
 ---
 
 # Angels in America
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +45,18 @@ Tony Kushner's 1991-1993 two-part play, subtitled "A Gay Fantasia on National Th
 ## see also
 
 - [[death-of-a-salesman]] · [[a-raisin-in-the-sun]] · [[whos-afraid-of-virginia-woolf]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: concept
 category: literature
 defines: [Russian literature, Russian novel, Russian canon]
 related: ["[[fyodor-dostoevsky]]", "[[leo-tolstoy]]", "[[ivan-turgenev]]", "[[anton-chekhov]]", "[[crime-and-punishment]]", "[[war-and-peace]]", "[[the-brothers-karamazov]]", "[[russian-empire]]", "[[nihilism-and-idealism]]", "[[psychological-realism]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -65,6 +67,18 @@ Russian literature in its classical period (1830–1890) represents perhaps the 
 ## see also
 
 - [[fyodor-dostoevsky]] · [[leo-tolstoy]] · [[ivan-turgenev]] · [[anton-chekhov]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

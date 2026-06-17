@@ -2,12 +2,21 @@
 type: person
 category: literature
 defines: ["Dr. Watson", "John Watson", "Watson"]
-related: ["[[sherlock-holmes]]", "[[arthur-conan-doyle]]", "[[the-adventures-of-sherlock-holmes]]", "[[the-hound-of-the-baskervilles]]", "[[baker-street]]", "[[detective-fiction]]"]
+related: ["[[sherlock-holmes]]", "[[arthur-conan-doyle]]", "[[the-adventures-of-sherlock-holmes]]", "[[the-hound-of-the-baskervilles]]", "[[baker-street]]", "[[detective-fiction]]", "[[england]]"]
+requires: ["[[sherlock-holmes]]"]
 lists: ["[[detective-fiction-characters]]"]
+tour_order: 2
 read: false
 ---
 
 # Dr. Watson
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +44,18 @@ read: false
 ## see also
 
 - [[sherlock-holmes]] · [[the-adventures-of-sherlock-holmes]] · [[the-hound-of-the-baskervilles]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

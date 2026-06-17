@@ -3,7 +3,9 @@ type: concept
 category: literature
 defines: [Revenge tragedy, Revenge play]
 related: ["[[william-shakespeare]]", "[[hamlet]]", "[[thomas-kyd]]", "[[the-spanish-tragedy]]", "[[the-revengers-tragedy]]", "[[greek-drama]]", "[[oresteia]]", "[[medea]]", "[[elizabethan-drama]]", "[[blood-and-justice]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -65,6 +67,18 @@ Revenge tragedy is the Elizabethan and Jacobean form most preoccupied with justi
 ## see also
 
 - [[hamlet]] · [[the-spanish-tragedy]] · [[the-revengers-tragedy]] · [[the-duchess-of-malfi]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

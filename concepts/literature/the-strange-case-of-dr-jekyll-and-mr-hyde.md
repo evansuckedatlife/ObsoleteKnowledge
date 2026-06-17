@@ -4,12 +4,11 @@ category: literature
 defines:
   - "The Strange Case of Dr. Jekyll and Mr. Hyde"
   - "Dr. Jekyll and Mr. Hyde"
-related:
-  - "[[robert-louis-stevenson]]"
-  - "[[gothic-literature]]"
-  - "[[dual-nature]]"
+related: ["[[robert-louis-stevenson]]", "[[gothic-literature]]", "[[dual-nature]]"]
+requires: []
 lists:
   - "[[works-of-horror-fiction]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ Robert Louis Stevenson's 1886 novella explores the Gothic terror of the divided 
 ## see also
 
 - [[frankenstein]] · [[dracula]] · [[the-turn-of-the-screw]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

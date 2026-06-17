@@ -3,13 +3,11 @@ type: person
 category: literature
 defines:
   - Cynthia Ozick
-related:
-  - "[[jewish-ethics]]"
-  - "[[metaphysics]]"
-  - "[[literary-modernism]]"
-  - "[[philip-roth]]"
+related: ["[[jewish-ethics]]", "[[metaphysics]]", "[[literary-modernism]]", "[[philip-roth]]", "[[new-york-city]]", "[[judaism]]"]
+requires: []
 lists:
   - "[[jewish-american-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[philip-roth]] · [[grace-paley]] · [[michael-chabon]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

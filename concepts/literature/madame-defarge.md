@@ -2,16 +2,22 @@
 type: person
 category: literature
 defines: [Madame Defarge, Thérèse Defarge]
-related:
-  - "[[a-tale-of-two-cities]]"
-  - "[[charles-dickens]]"
-  - "[[sydney-carton]]"
+related: ["[[a-tale-of-two-cities]]", "[[charles-dickens]]", "[[sydney-carton]]", "[[french-revolution]]"]
+requires: ["[[a-tale-of-two-cities]]"]
 lists:
   - "[[charles-dickens-characters-not-protagonists]]"
+tour_order: 2
 read: false
 ---
 
 # Madame Defarge
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +42,18 @@ read: false
 ## see also
 
 - [[sydney-carton]] · [[miss-havisham]] · [[ebenezer-scrooge]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

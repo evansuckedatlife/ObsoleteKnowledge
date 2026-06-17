@@ -3,7 +3,9 @@ type: concept
 category: literature
 defines: [Absurdism, Theatre of the Absurd, Absurdist Drama]
 related: ["[[samuel-beckett]]", "[[ionesco]]", "[[harold-pinter]]", "[[albert-camus]]", "[[existentialism]]", "[[waiting-for-godot]]", "[[the-bald-soprano]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +38,18 @@ Absurdism was a 20th-century literary and theatrical movement that depicted huma
 ## see also
 
 - [[samuel-beckett]] · [[ionesco]] · [[harold-pinter]] · [[albert-camus]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

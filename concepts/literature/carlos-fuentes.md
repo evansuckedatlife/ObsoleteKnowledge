@@ -3,7 +3,9 @@ type: person
 category: literature
 defines: ["Carlos Fuentes"]
 related: ["[[mexican-literature]]", "[[the-death-of-artemio-cruz]]", "[[modernism]]", "[[mexico-and-modernity]]"]
+requires: []
 lists: ["[[latin-american-authors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[gabriel-garcia-marquez]] · [[mario-vargas-llosa]] · [[julio-cortazar]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

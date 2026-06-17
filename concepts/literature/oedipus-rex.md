@@ -4,15 +4,12 @@ category: literature
 defines:
   - Oedipus Rex
   - Oedipus the King
-related:
-  - "[[sophocles]]"
-  - "[[the-oresteia]]"
-  - "[[greek-tragedy]]"
-  - "[[tragic-flaw]]"
-  - "[[the-theban-cycle]]"
+related: ["[[sophocles]]", "[[the-oresteia]]", "[[greek-tragedy]]", "[[tragic-flaw]]", "[[the-theban-cycle]]", "[[ancient-greece]]"]
+requires: []
 lists:
   - "[[ancient-greek-plays]]"
   - "[[plot-twists]]"
+tour_order: 0
 read: false
 ---
 
@@ -43,6 +40,18 @@ read: false
 ## see also
 
 - [[antigone]] · [[electra]] · [[medea]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: person
 category: literature
 defines: ["Raymond Carver", Carver]
 related: ["[[american-literature]]", "[[minimalism]]", "[[working-class-literature]]", "[[dirty-realism]]"]
+requires: []
 lists: ["[[short-story-authors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -49,6 +51,18 @@ Carver emerged in the 1970s-80s when minimalism was becoming a dominant aestheti
 ## see also
 
 - [[ernest-hemingway]] · [[alice-munro]] · [[flannery-o-connor]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

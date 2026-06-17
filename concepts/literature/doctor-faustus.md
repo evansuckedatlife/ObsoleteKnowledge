@@ -4,17 +4,22 @@ category: literature
 defines:
   - Doctor Faustus
   - The Tragical History of the Life and Death of Doctor Faustus
-related:
-  - "[[christopher-marlowe]]"
-  - "[[faustian-bargain]]"
-  - "[[mephistopheles]]"
-  - "[[renaissance-humanism]]"
+related: ["[[christopher-marlowe]]", "[[faustian-bargain]]", "[[mephistopheles]]", "[[renaissance-humanism]]"]
+requires: ["[[christopher-marlowe]]"]
 lists:
   - "[[non-shakespeare-classical-english-dramas]]"
+tour_order: 2
 read: false
 ---
 
 # Doctor Faustus
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -42,6 +47,18 @@ read: false
 ## see also
 
 - [[christopher-marlowe]] · [[tamburlaine]] · [[the-jew-of-malta]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: person
 category: literature
 defines: [Ralph Ellison]
 related: ["[[american-modernism]]", "[[african-american-literature]]"]
+requires: ["[[harlem-renaissance]]"]
 lists: ["[[african-american-authors]]"]
+tour_order: 1
 read: false
 ---
 
 # Ralph Ellison
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[james-baldwin]] · [[richard-wright]] · [[zora-neale-hurston]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

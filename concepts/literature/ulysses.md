@@ -4,18 +4,22 @@ category: literature
 defines:
   - Ulysses
   - Ulysses (novel)
-related:
-  - "[[james-joyce]]"
-  - "[[dublin]]"
-  - "[[stream-of-consciousness]]"
-  - "[[a-portrait-of-the-artist-as-a-young-man]]"
-  - "[[odyssey]]"
+related: ["[[james-joyce]]", "[[dublin]]", "[[stream-of-consciousness]]", "[[a-portrait-of-the-artist-as-a-young-man]]", "[[odyssey]]"]
+requires: ["[[james-joyce]]"]
 lists:
   - "[[works-by-irish-authors]]"
+tour_order: 2
 read: false
 ---
 
 # Ulysses
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -43,6 +47,18 @@ read: false
 ## see also
 
 - [[dubliners]] · [[a-portrait-of-the-artist-as-a-young-man]] · [[finnegans-wake]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

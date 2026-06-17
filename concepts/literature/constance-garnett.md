@@ -4,14 +4,11 @@ category: literature
 defines:
   - Constance Garnett
   - Constance Clara Black
-related:
-  - "[[russian-literature]]"
-  - "[[fyodor-dostoevsky]]"
-  - "[[leo-tolstoy]]"
-  - "[[anton-chekhov]]"
-  - "[[literary-translation]]"
+related: ["[[russian-literature]]", "[[fyodor-dostoevsky]]", "[[leo-tolstoy]]", "[[anton-chekhov]]", "[[literary-translation]]"]
+requires: []
 lists:
   - "[[translations]]"
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +39,18 @@ Constance Garnett (1861–1946) was an English translator whose prodigious outpu
 ## see also
 
 - [[fitzgerald-rubaiyat]] · [[chapmans-homer]] · [[seamus-heaney-beowulf]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

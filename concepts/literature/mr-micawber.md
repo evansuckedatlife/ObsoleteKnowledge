@@ -2,15 +2,22 @@
 type: person
 category: literature
 defines: [Mr. Micawber, Wilkins Micawber]
-related:
-  - "[[david-copperfield]]"
-  - "[[charles-dickens]]"
+related: ["[[david-copperfield]]", "[[charles-dickens]]"]
+requires: ["[[david-copperfield]]"]
 lists:
   - "[[charles-dickens-characters-not-protagonists]]"
+tour_order: 2
 read: false
 ---
 
 # Mr. Micawber
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +41,18 @@ read: false
 ## see also
 
 - [[uriah-heep]] · [[mr-bumble]] · [[wackford-squeers]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

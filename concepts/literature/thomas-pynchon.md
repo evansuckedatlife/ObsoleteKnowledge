@@ -4,11 +4,11 @@ category: literature
 defines:
   - Thomas Pynchon
   - Thomas Ruggles Pynchon Jr.
-related:
-  - "[[don-delillo]]"
-  - "[[gravity-s-rainbow]]"
+related: ["[[don-delillo]]", "[[gravity-s-rainbow]]"]
+requires: []
 lists:
   - "[[postmodern-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +36,18 @@ read: false
 ## see also
 
 - [[don-delillo]] · [[david-foster-wallace]] · [[thomas-pynchon]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

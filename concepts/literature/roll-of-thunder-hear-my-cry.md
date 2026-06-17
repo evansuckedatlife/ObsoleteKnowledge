@@ -3,12 +3,11 @@ type: work
 category: literature
 defines:
   - Roll of Thunder, Hear My Cry
-related:
-  - "[[mildred-taylor]]"
-  - "[[american-south]]"
-  - "[[children-literature]]"
+related: ["[[mildred-taylor]]", "[[american-south]]", "[[children-literature]]"]
+requires: []
 lists:
   - "[[20th-century-newbery-medal-winners]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[sounder]] · [[bridge-to-terabithia]] · [[the-westing-game]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

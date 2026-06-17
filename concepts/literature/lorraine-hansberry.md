@@ -2,8 +2,10 @@
 type: person
 category: literature
 defines: [Lorraine Hansberry]
-related: ["[[american-drama]]", "[[civil-rights-era]]"]
+related: ["[[american-drama]]", "[[civil-rights-era]]", "[[harlem-renaissance]]"]
+requires: []
 lists: ["[[african-american-authors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[james-baldwin]] · [[gwendolyn-brooks]] · [[maya-angelou]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

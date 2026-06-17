@@ -2,8 +2,10 @@
 type: person
 category: literature
 defines: [Charles Dickens, Boz]
-related: ["[[great-expectations]]", "[[a-tale-of-two-cities]]", "[[oliver-twist]]", "[[a-christmas-carol]]", "[[bleak-house]]", "[[hard-times]]", "[[our-mutual-friend]]", "[[the-pickwick-papers]]", "[[david-copperfield]]", "[[nicholas-nickleby]]", "[[the-old-curiosity-shop]]", "[[industrial-revolution]]", "[[victorian-england]]", "[[social-realism]]", "[[serialized-fiction]]"]
+related: ["[[great-expectations]]", "[[a-tale-of-two-cities]]", "[[oliver-twist]]", "[[a-christmas-carol]]", "[[bleak-house]]", "[[hard-times]]", "[[our-mutual-friend]]", "[[the-pickwick-papers]]", "[[david-copperfield]]", "[[nicholas-nickleby]]", "[[the-old-curiosity-shop]]", "[[industrial-revolution]]", "[[victorian-england]]", "[[social-realism]]", "[[serialized-fiction]]", "[[england]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -56,6 +58,18 @@ Dickens is the defining figure of Victorian literature and arguably the most inf
 ## see also
 
 - [[a-tale-of-two-cities]] · [[great-expectations]] · [[oliver-twist]] · [[a-christmas-carol]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

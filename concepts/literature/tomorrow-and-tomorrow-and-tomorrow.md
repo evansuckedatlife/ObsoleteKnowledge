@@ -3,11 +3,20 @@ type: work
 category: literature
 defines: ["Tomorrow and tomorrow and tomorrow", "Macbeth's despair soliloquy"]
 related: ["[[macbeth]]", "[[nihilism]]", "[[ambition]]"]
+requires: ["[[zadie-smith]]"]
 lists: ["[[shakespearean-speeches]]"]
+tour_order: 1
 read: false
 ---
 
 # Tomorrow and tomorrow and tomorrow
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[to-be-or-not-to-be]] · [[is-this-a-dagger-which-i-see-before-me]] · [[all-the-worlds-a-stage]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

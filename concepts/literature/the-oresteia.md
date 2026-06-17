@@ -4,14 +4,11 @@ category: literature
 defines:
   - The Oresteia
   - Oresteia
-related:
-  - "[[aeschylus]]"
-  - "[[orestes]]"
-  - "[[clytemnestra]]"
-  - "[[the-furies]]"
-  - "[[greek-tragedy]]"
+related: ["[[aeschylus]]", "[[orestes]]", "[[clytemnestra]]", "[[the-furies]]", "[[greek-tragedy]]", "[[ancient-greece]]"]
+requires: []
 lists:
   - "[[ancient-greek-plays]]"
+tour_order: 0
 read: false
 aliases: [oresteia]
 ---
@@ -42,6 +39,18 @@ aliases: [oresteia]
 ## see also
 
 - [[oedipus-rex]] · [[medea]] · [[the-bacchae]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

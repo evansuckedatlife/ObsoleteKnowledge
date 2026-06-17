@@ -2,12 +2,21 @@
 type: person
 category: literature
 defines: ["Christopher Marlowe", "Kit Marlowe"]
-related: ["[[william-shakespeare]]", "[[doctor-faustus]]", "[[tamburlaine]]", "[[english-renaissance]]", "[[elizabethan-theatre]]", "[[tragic-hero]]"]
+related: ["[[william-shakespeare]]", "[[doctor-faustus]]", "[[tamburlaine]]", "[[english-renaissance]]", "[[elizabethan-theatre]]", "[[tragic-hero]]", "[[england]]"]
+requires: ["[[modernism]]"]
 lists: ["[[english-renaissance-dramatists]]", "[[elizabethan-playwrights]]"]
+tour_order: 1
 read: false
 ---
 
 # Christopher Marlowe
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +48,18 @@ Marlowe emerged in the early Elizabethan period as English drama was establishin
 ## see also
 
 - [[william-shakespeare]] · [[doctor-faustus]] · [[english-renaissance]] · [[elizabethan-theatre]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

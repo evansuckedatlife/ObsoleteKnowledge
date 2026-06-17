@@ -3,12 +3,11 @@ type: work
 category: literature
 defines:
   - "The Yellow Wallpaper"
-related:
-  - "[[charlotte-perkins-gilman]]"
-  - "[[feminist-literature]]"
-  - "[[gothic-literature]]"
+related: ["[[charlotte-perkins-gilman]]", "[[feminist-literature]]", "[[gothic-literature]]"]
+requires: []
 lists:
   - "[[works-of-horror-fiction]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ Charlotte Perkins Gilman's 1892 short story traces a woman's psychological desce
 ## see also
 
 - [[the-fall-of-the-house-of-usher]] · [[the-tell-tale-heart]] · [[jane-eyre]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,16 +2,22 @@
 type: work
 category: literature
 defines: ["The Hound of the Baskervilles"]
-related:
-  - "[[arthur-conan-doyle]]"
-  - "[[sherlock-holmes]]"
-  - "[[watson]]"
+related: ["[[arthur-conan-doyle]]", "[[sherlock-holmes]]", "[[watson]]", "[[england]]"]
+requires: ["[[arthur-conan-doyle]]"]
 lists:
   - "[[works-of-mystery-and-detective-fiction]]"
+tour_order: 1
 read: false
 ---
 
 # The Hound of the Baskervilles
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ Arthur Conan Doyle's 1901–1902 serial novel in which Sherlock Holmes investiga
 ## see also
 
 - [[sherlock-holmes]] · [[watson]] · [[the-final-problem]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

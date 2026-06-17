@@ -3,16 +3,22 @@ type: work
 category: literature
 defines:
   - "The Fall of the House of Usher"
-related:
-  - "[[edgar-allan-poe]]"
-  - "[[gothic-literature]]"
-  - "[[psychological-horror]]"
+related: ["[[edgar-allan-poe]]", "[[gothic-literature]]", "[[psychological-horror]]", "[[american-gothic]]"]
+requires: ["[[edgar-allan-poe]]"]
 lists:
   - "[[works-of-horror-fiction]]"
+tour_order: 1
 read: false
 ---
 
 # The Fall of the House of Usher
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ Edgar Allan Poe's 1839 masterwork of psychological terror follows an unnamed nar
 ## see also
 
 - [[the-yellow-wallpaper]] · [[the-raven]] · [[the-tell-tale-heart]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

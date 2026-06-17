@@ -4,14 +4,11 @@ category: literature
 defines:
   - Gregory Rabassa
   - "Gregory Stephen Rabassa"
-related:
-  - "[[gabriel-garcía-márquez]]"
-  - "[[julio-cortázar]]"
-  - "[[latin-american-literature]]"
-  - "[[spanish-language-literature]]"
-  - "[[literary-translation]]"
+related: ["[[gabriel-garcía-márquez]]", "[[julio-cortázar]]", "[[latin-american-literature]]", "[[spanish-language-literature]]", "[[literary-translation]]"]
+requires: []
 lists:
   - "[[translations]]"
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +39,18 @@ Gregory Rabassa (1922–2016) was an American translator of Latin American liter
 ## see also
 
 - [[constance-garnett]] · [[fitzgerald-rubaiyat]] · [[seamus-heaney-beowulf]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

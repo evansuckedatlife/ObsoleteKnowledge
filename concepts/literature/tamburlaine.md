@@ -4,16 +4,22 @@ category: literature
 defines:
   - Tamburlaine
   - Tamburlaine the Great
-related:
-  - "[[christopher-marlowe]]"
-  - "[[conqueror-hero]]"
-  - "[[blank-verse]]"
+related: ["[[christopher-marlowe]]", "[[conqueror-hero]]", "[[blank-verse]]", "[[england]]", "[[ottoman-empire]]"]
+requires: ["[[christopher-marlowe]]"]
 lists:
   - "[[non-shakespeare-classical-english-dramas]]"
+tour_order: 2
 read: false
 ---
 
 # Tamburlaine
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -41,6 +47,18 @@ Christopher Marlowe's *Tamburlaine the Great*, written in two parts (1587–1588
 ## see also
 
 - [[christopher-marlowe]] · [[doctor-faustus]] · [[the-jew-of-malta]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

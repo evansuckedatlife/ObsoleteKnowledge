@@ -2,12 +2,21 @@
 type: work
 category: literature
 defines: [Demons, The Possessed]
-related: ["[[fyodor-dostoevsky]]", "[[pyotr-verkhovensky]]", "[[st-petersburg]]", "[[nihilism]]"]
+related: ["[[fyodor-dostoevsky]]", "[[pyotr-verkhovensky]]", "[[st-petersburg]]", "[[nihilism]]", "[[existentialism]]"]
+requires: ["[[russian-revolution]]"]
 lists: ["[[works-by-dostoevsky]]"]
+tour_order: 1
 read: false
 ---
 
 # Demons
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[crime-and-punishment]] · [[the-brothers-karamazov]] · [[the-idiot]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

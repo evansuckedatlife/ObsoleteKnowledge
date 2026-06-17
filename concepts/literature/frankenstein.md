@@ -4,16 +4,22 @@ category: literature
 defines:
   - Frankenstein
   - "Frankenstein; or, The Modern Prometheus"
-related:
-  - "[[mary-shelley]]"
-  - "[[gothic-literature]]"
-  - "[[science-fiction]]"
+related: ["[[mary-shelley]]", "[[gothic-literature]]", "[[science-fiction]]", "[[french-revolution]]"]
+requires: ["[[mary-shelley]]", "[[gothic-literature]]"]
 lists:
   - "[[works-of-horror-fiction]]"
+tour_order: 2
 read: false
 ---
 
 # Frankenstein
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ Mary Shelley's 1818 novel is the foundational text of Gothic horror and science 
 ## see also
 
 - [[dracula]] · [[the-turn-of-the-screw]] · [[the-call-of-cthulhu]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

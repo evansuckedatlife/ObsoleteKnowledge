@@ -3,7 +3,9 @@ type: person
 category: literature
 defines: ["Gabriel García Márquez", "Gabo"]
 related: ["[[magical-realism]]", "[[colombian-literature]]", "[[one-hundred-years-of-solitude]]", "[[amor-en-los-tiempos-de-colera]]"]
+requires: []
 lists: ["[[latin-american-authors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ read: false
 ## see also
 
 - [[isabel-allende]] · [[pablo-neruda]] · [[octavio-paz]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

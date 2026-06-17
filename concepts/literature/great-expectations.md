@@ -2,12 +2,21 @@
 type: work
 category: literature
 defines: ["Great Expectations"]
-related: ["[[charles-dickens]]", "[[pip]]", "[[miss-havisham]]"]
+related: ["[[charles-dickens]]", "[[pip]]", "[[miss-havisham]]", "[[industrial-revolution]]", "[[england]]"]
+requires: ["[[charles-dickens]]"]
 lists: ["[[charles-dickens-novels]]"]
+tour_order: 1
 read: false
 ---
 
 # Great Expectations
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[david-copperfield]] · [[bleak-house]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

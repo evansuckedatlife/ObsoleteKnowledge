@@ -2,12 +2,21 @@
 type: work
 category: literature
 defines: [The Idiot]
-related: ["[[fyodor-dostoevsky]]", "[[prince-myshkin]]", "[[st-petersburg]]"]
+related: ["[[fyodor-dostoevsky]]", "[[prince-myshkin]]", "[[st-petersburg]]", "[[christianity]]"]
+requires: ["[[fyodor-dostoevsky]]"]
 lists: ["[[works-by-dostoevsky]]"]
+tour_order: 1
 read: false
 ---
 
 # The Idiot
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[crime-and-punishment]] · [[the-brothers-karamazov]] · [[demons]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

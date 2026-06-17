@@ -3,35 +3,35 @@ type: tour-index
 read: false
 ---
 
-# Guided Tours — Science
+# Guided Tours — Literature
 
 Foundations-first reading paths. Pick a tour; the **Next up** line is your bookmark (regenerate to refresh).
 
 | Tour | Items | Read |
 |---|---|---|
-| [[science-core|Core spine]] | 45 | 0/45 |
-| [[20th-century-physicists|20th-century physicists]] | 10 | 0/10 |
-| [[nobel-prize-winners-in-medicine|Nobel Prize winners in physiology or medicine]] | 9 | 0/9 |
-| [[active-volcanoes|active volcanoes]] | 11 | 0/11 |
-| [[phyla|animal phyla]] | 10 | 0/10 |
-| [[chemical-elements|chemical elements]] | 10 | 0/10 |
-| [[chemistry-lab-techniques|chemistry lab techniques]] | 10 | 0/10 |
-| [[circuit-components|circuit components]] | 12 | 0/12 |
-| [[classes-of-particles|classes of particles]] | 10 | 6/10 |
-| [[computer-components|computer components]] | 10 | 0/10 |
-| [[quantum-mechanics-concepts|concepts from quantum mechanics]] | 13 | 1/13 |
-| [[plant-distinctions|distinctions among types of plants]] | 10 | 0/10 |
-| [[dwarf-planets-comets-and-asteroids|dwarf planets, comets, and asteroids]] | 9 | 0/9 |
-| [[enzymes|enzymes]] | 11 | 0/11 |
-| [[functional-groups|functional groups]] | 10 | 1/10 |
-| [[geologic-time-periods|geologic time periods]] | 13 | 0/13 |
-| [[moons|moons]] | 11 | 0/11 |
-| [[organelles|organelles]] | 10 | 0/10 |
-| [[organic-reactions|organic reactions]] | 10 | 0/10 |
-| [[programming-terms|programming terms]] | 10 | 0/10 |
-| [[rocket-scientists|rocket scientists]] | 9 | 0/9 |
-| [[rocks-and-minerals|rocks and minerals]] | 10 | 0/10 |
-| [[scientific-experiments|scientific experiments]] | 10 | 0/10 |
-| [[scientific-scales|scientific scales]] | 12 | 0/12 |
-| [[space-missions|space missions]] | 10 | 0/10 |
-| [[techniques-in-biotechnology|techniques in biotechnology]] | 10 | 0/10 |
+| [[literature-core|Core spine]] | 24 | 0/24 |
+| [[20th-century-newbery-medal-winners|20th-century Newbery Medal winners]] | 10 | 0/10 |
+| [[african-american-authors|African-American authors]] | 11 | 0/11 |
+| [[american-plays|American plays]] | 10 | 0/10 |
+| [[charles-dickens-characters-not-protagonists|Charles Dickens characters who aren’t protagonists]] | 10 | 0/10 |
+| [[charles-dickens-novels|Charles Dickens novels]] | 11 | 0/11 |
+| [[elizabethan-playwrights|Elizabethan Playwrights]] | 2 | 0/2 |
+| [[english-renaissance-dramatists|English Renaissance Dramatists]] | 2 | 0/2 |
+| [[japanese-authors|Japanese authors]] | 10 | 0/10 |
+| [[jewish-american-authors|Jewish-American authors]] | 14 | 0/14 |
+| [[latin-american-authors|Latin American authors]] | 10 | 0/10 |
+| [[shakespearean-speeches|Shakespearean speeches, monologues, and soliloquies]] | 10 | 0/10 |
+| [[shakespearean-villains|Shakespearean villains]] | 10 | 0/10 |
+| [[ancient-greek-plays|ancient Greek plays]] | 10 | 0/10 |
+| [[authors-of-speculative-fiction|authors of speculative fiction]] | 10 | 0/10 |
+| [[modernist-authors|modernist authors]] | 11 | 0/11 |
+| [[non-shakespeare-classical-english-dramas|non-Shakespeare classical English dramas]] | 10 | 0/10 |
+| [[plot-twists|plot twists]] | 11 | 0/11 |
+| [[postmodern-authors|postmodern authors]] | 10 | 0/10 |
+| [[short-story-authors|short story authors]] | 10 | 0/10 |
+| [[translations|translations and translators]] | 10 | 0/10 |
+| [[works-by-dostoevsky|works by Fyodor Dostoevsky]] | 10 | 0/10 |
+| [[works-by-irish-authors|works by Irish authors]] | 10 | 0/10 |
+| [[works-of-russian-short-fiction|works of Russian short fiction]] | 10 | 0/10 |
+| [[works-of-horror-fiction|works of horror fiction]] | 10 | 0/10 |
+| [[works-of-mystery-and-detective-fiction|works of mystery and detective fiction]] | 13 | 1/13 |

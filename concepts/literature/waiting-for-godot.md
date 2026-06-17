@@ -4,14 +4,11 @@ category: literature
 defines:
   - Waiting for Godot
   - En attendant Godot
-related:
-  - "[[samuel-beckett]]"
-  - "[[absurdism]]"
-  - "[[theatre-of-the-absurd]]"
-  - "[[vladimir]]"
-  - "[[estragon]]"
+related: ["[[samuel-beckett]]", "[[absurdism]]", "[[theatre-of-the-absurd]]", "[[vladimir]]", "[[estragon]]"]
+requires: []
 lists:
   - "[[works-by-irish-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +39,18 @@ read: false
 ## see also
 
 - [[endgame]] · [[happy-days]] · [[the-theatre-of-the-absurd]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

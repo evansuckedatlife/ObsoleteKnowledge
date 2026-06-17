@@ -2,8 +2,10 @@
 type: person
 category: literature
 defines: [Macbeth, the Thane of Glamis]
-related: ["[[lady-macbeth]]", "[[witches]]", "[[ambition]]", "[[banquo]]", "[[duncan]]"]
+related: ["[[lady-macbeth]]", "[[witches]]", "[[ambition]]", "[[banquo]]", "[[duncan]]", "[[england]]", "[[scotland]]"]
+requires: []
 lists: ["[[shakespearean-villains]]"]
+tour_order: 0
 read: false
 ---
 
@@ -57,6 +59,18 @@ read: false
 ## see also
 
 - [[lady-macbeth]] · [[claudius]] · [[richard-iii]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

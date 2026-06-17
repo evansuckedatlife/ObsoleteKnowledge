@@ -4,12 +4,11 @@ category: literature
 defines:
   - "Matsuo Bashō"
   - "Matsuo Basho"
-related:
-  - "[[haiku]]"
-  - "[[edo-period]]"
-  - "[[the-narrow-road-to-the-deep-north]]"
+related: ["[[haiku]]", "[[edo-period]]", "[[the-narrow-road-to-the-deep-north]]", "[[japan]]"]
+requires: []
 lists:
   - "[[japanese-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[haiku]] · [[zeami]] · [[edo-period]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

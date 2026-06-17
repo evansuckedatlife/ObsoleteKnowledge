@@ -5,14 +5,11 @@ defines:
   - "Pope's Iliad"
   - Pope's translation of the Iliad
   - Alexander Pope's Homer
-related:
-  - "[[iliad]]"
-  - "[[alexander-pope]]"
-  - "[[homer]]"
-  - "[[heroic-couplet]]"
-  - "[[chapmans-homer]]"
+related: ["[[iliad]]", "[[alexander-pope]]", "[[homer]]", "[[heroic-couplet]]", "[[chapmans-homer]]", "[[england]]"]
+requires: []
 lists:
   - "[[translations]]"
+tour_order: 0
 read: false
 ---
 
@@ -43,6 +40,18 @@ Alexander Pope's translation of Homer's *Iliad* (1715–1720) is an English vers
 ## see also
 
 - [[chapmans-homer]] · [[seamus-heaney-beowulf]] · [[constance-garnett]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

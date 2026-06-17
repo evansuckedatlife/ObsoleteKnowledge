@@ -3,13 +3,11 @@ type: person
 category: literature
 defines:
   - Michael Chabon
-related:
-  - "[[philip-roth]]"
-  - "[[jewish-identity]]"
-  - "[[comic-books]]"
-  - "[[contemporary-american-fiction]]"
+related: ["[[philip-roth]]", "[[jewish-identity]]", "[[comic-books]]", "[[contemporary-american-fiction]]"]
+requires: []
 lists:
   - "[[jewish-american-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[philip-roth]] · [[cynthia-ozick]] · [[norman-mailer]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

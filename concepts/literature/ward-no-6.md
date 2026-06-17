@@ -3,16 +3,22 @@ type: work
 category: literature
 defines:
   - Ward No. 6
-related:
-  - "[[anton-chekhov]]"
-  - "[[mental-illness]]"
-  - "[[critique-of-institutions]]"
+related: ["[[anton-chekhov]]", "[[mental-illness]]", "[[critique-of-institutions]]"]
+requires: ["[[anton-chekhov]]"]
 lists:
   - "[[works-of-russian-short-fiction]]"
+tour_order: 1
 read: false
 ---
 
 # Ward No. 6
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[the-lady-with-the-dog]] · [[the-bet]] · [[anton-chekhov]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

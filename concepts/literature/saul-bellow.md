@@ -3,13 +3,11 @@ type: person
 category: literature
 defines:
   - Saul Bellow
-related:
-  - "[[philip-roth]]"
-  - "[[bernard-malamud]]"
-  - "[[american-modernism]]"
-  - "[[existentialism]]"
+related: ["[[philip-roth]]", "[[bernard-malamud]]", "[[american-modernism]]", "[[existentialism]]"]
+requires: []
 lists:
   - "[[jewish-american-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[philip-roth]] · [[bernard-malamud]] · [[norman-mailer]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

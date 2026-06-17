@@ -2,16 +2,22 @@
 type: person
 category: literature
 defines: [Fagin]
-related:
-  - "[[oliver-twist]]"
-  - "[[charles-dickens]]"
-  - "[[bill-sikes]]"
+related: ["[[oliver-twist]]", "[[charles-dickens]]", "[[bill-sikes]]", "[[england]]", "[[industrial-revolution]]"]
+requires: ["[[charles-dickens]]"]
 lists:
   - "[[charles-dickens-characters-not-protagonists]]"
+tour_order: 1
 read: false
 ---
 
 # Fagin
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +42,18 @@ read: false
 ## see also
 
 - [[bill-sikes]] · [[mr-bumble]] · [[wackford-squeers]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: person
 category: literature
 defines: [Mark Twain, Samuel Clemens]
 related: ["[[the-adventures-of-huckleberry-finn]]", "[[the-adventures-of-tom-sawyer]]", "[[connecticut-yankee-in-king-arthurs-court]]", "[[american-frontier]]", "[[american-humor]]", "[[coming-of-age-novel]]", "[[mississippi-river]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +38,18 @@ read: false
 ## see also
 
 - [[the-adventures-of-huckleberry-finn]] · [[the-adventures-of-tom-sawyer]] · [[connecticut-yankee-in-king-arthurs-court]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

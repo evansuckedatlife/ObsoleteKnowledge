@@ -3,7 +3,9 @@ type: concept
 category: literature
 defines: [Realism, Literary Realism]
 related: ["[[gustave-flaubert]]", "[[balzac]]", "[[leo-tolstoy]]", "[[george-eliot]]", "[[fyodor-dostoevsky]]", "[[naturalism]]", "[[romanticism]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +38,18 @@ Literary realism was a dominant movement of the 19th century that rejected the i
 ## see also
 
 - [[gustave-flaubert]] · [[balzac]] · [[leo-tolstoy]] · [[george-eliot]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

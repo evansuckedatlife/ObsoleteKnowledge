@@ -4,12 +4,11 @@ category: literature
 defines:
   - Mrs. Frisby and the Rats of NIMH
   - Frisby
-related:
-  - "[[robert-obrien]]"
-  - "[[animal-fiction]]"
-  - "[[science-fiction]]"
+related: ["[[robert-obrien]]", "[[animal-fiction]]", "[[science-fiction]]"]
+requires: []
 lists:
   - "[[20th-century-newbery-medal-winners]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[a-wrinkle-in-time]] · [[sounder]] · [[bridge-to-terabithia]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

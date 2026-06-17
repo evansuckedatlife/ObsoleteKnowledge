@@ -5,12 +5,11 @@ defines:
   - "1984"
   - Nineteen Eighty-Four
   - The ending of 1984
-related:
-  - "[[george-orwell]]"
-  - "[[totalitarianism]]"
-  - "[[dystopian-fiction]]"
+related: ["[[george-orwell]]", "[[totalitarianism]]", "[[dystopian-fiction]]", "[[cold-war]]"]
+requires: []
 lists:
   - "[[plot-twists]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +40,18 @@ George Orwell's *1984* chronicles the life of Winston Smith in a totalitarian su
 ## see also
 
 - [[soylent-green-twist]] · [[fight-club-twist]] · [[the-murder-of-roger-ackroyd]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

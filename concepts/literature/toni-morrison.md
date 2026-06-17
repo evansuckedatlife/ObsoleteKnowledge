@@ -3,7 +3,9 @@ type: person
 category: literature
 defines: [Toni Morrison]
 related: ["[[contemporary-american-literature]]", "[[nobel-prize-in-literature]]"]
+requires: []
 lists: ["[[african-american-authors]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[james-baldwin]] · [[alice-walker]] · [[gwendolyn-brooks]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

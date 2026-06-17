@@ -3,14 +3,12 @@ type: work
 category: literature
 defines:
   - Dracula
-related:
-  - "[[bram-stoker]]"
-  - "[[gothic-literature]]"
-  - "[[vampire-fiction]]"
-  - "[[transylvania]]"
+related: ["[[bram-stoker]]", "[[gothic-literature]]", "[[vampire-fiction]]", "[[transylvania]]", "[[england]]"]
+requires: []
 lists:
   - "[[works-of-horror-fiction]]"
   - "[[works-by-irish-authors]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ Bram Stoker's 1897 novel is a masterwork of epistolary Gothic horror depicting t
 ## see also
 
 - [[the-fall-of-the-house-of-usher]] · [[the-turn-of-the-screw]] · [[frankenstein]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 
