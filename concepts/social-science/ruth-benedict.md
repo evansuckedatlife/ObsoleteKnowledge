@@ -4,12 +4,11 @@ category: social-science
 defines:
   - Ruth Benedict
   - Ruth Fulton Benedict
-related:
-  - "[[franz-boas]]"
-  - "[[margaret-mead]]"
-  - "[[culture-and-personality]]"
+related: ["[[franz-boas]]", "[[margaret-mead]]", "[[culture-and-personality]]"]
+requires: []
 lists:
   - "[[anthropologists]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[franz-boas]] · [[margaret-mead]] · [[culture-and-personality]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

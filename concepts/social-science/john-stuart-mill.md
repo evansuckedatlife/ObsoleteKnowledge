@@ -2,8 +2,10 @@
 type: person
 category: social-science
 defines: ["John Stuart Mill"]
-related: ["[[adam-smith]]", "[[david-ricardo]]", "[[utilitarian-ethics]]"]
+related: ["[[adam-smith]]", "[[david-ricardo]]", "[[utilitarian-ethics]]", "[[utilitarianism]]"]
+requires: []
 lists: ["[[economists]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[adam-smith]] · [[david-ricardo]] · [[john-maynard-keynes]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

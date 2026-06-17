@@ -3,7 +3,9 @@ type: person
 category: social-science
 defines: ["John Kenneth Galbraith"]
 related: ["[[milton-friedman]]", "[[john-maynard-keynes]]", "[[thorstein-veblen]]"]
+requires: []
 lists: ["[[economists]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[milton-friedman]] · [[john-maynard-keynes]] · [[thorstein-veblen]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

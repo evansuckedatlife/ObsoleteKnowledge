@@ -5,16 +5,22 @@ defines:
   - African American Vernacular English
   - AAVE
   - Ebonics
-related:
-  - "[[southern-american-english]]"
-  - "[[general-american]]"
-  - "[[creole-languages]]"
+related: ["[[southern-american-english]]", "[[general-american]]", "[[creole-languages]]"]
+requires: ["[[linguistics]]"]
 lists:
   - "[[accents-and-dialects-of-english]]"
+tour_order: 1
 read: false
 ---
 
 # African American Vernacular English
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[southern-american-english]] · [[general-american]] · [[creole-languages]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

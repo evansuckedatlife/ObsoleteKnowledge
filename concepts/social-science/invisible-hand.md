@@ -4,6 +4,7 @@ category: social-science
 defines: [Invisible Hand, self-interest]
 related: ["[[market-mechanism]]", "[[supply-and-demand]]", "[[perfect-competition]]", "[[market-failure]]"]
 lists: ["[[economic-concepts]]"]
+tour_order: 0
 read: false
 ---
 
@@ -53,6 +54,18 @@ The invisible hand is one of the most powerful and contested ideas in social sci
 ## see also
 
 - [[market-mechanism]] · [[perfect-competition]] · [[market-failure]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

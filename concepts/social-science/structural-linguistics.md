@@ -2,13 +2,10 @@
 type: term
 category: social-science
 defines: [Structural linguistics, Structuralism]
-related:
-  - "[[linguistics]]"
-  - "[[ferdinand-de-saussure]]"
-  - "[[leonard-bloomfield]]"
-  - "[[noam-chomsky]]"
-  - "[[claude-levi-strauss]]"
+related: ["[[linguistics]]", "[[ferdinand-de-saussure]]", "[[leonard-bloomfield]]", "[[noam-chomsky]]", "[[claude-levi-strauss]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +35,18 @@ read: false
 ## see also
 
 - [[linguistics]] · [[generative-grammar]] · [[ferdinand-de-saussure]] · [[leonard-bloomfield]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

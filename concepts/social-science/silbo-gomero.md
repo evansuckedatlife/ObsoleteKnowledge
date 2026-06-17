@@ -5,17 +5,22 @@ defines:
   - Silbo Gomero
   - "Silbo gomerense"
   - "Whistled Spanish"
-related:
-  - "[[whistled-languages]]"
-  - "[[island-languages]]"
-  - "[[endangered-languages]]"
-  - "[[linguistic-innovation]]"
+related: ["[[whistled-languages]]", "[[island-languages]]", "[[endangered-languages]]", "[[linguistic-innovation]]"]
+requires: ["[[linguistics]]"]
 lists:
   - "[[unique-languages]]"
+tour_order: 1
 read: false
 ---
 
 # Silbo Gomero
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +45,18 @@ read: false
 ## see also
 
 - [[zapotec-whistled-speech]] · [[auxlangs]] · [[sign-languages]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

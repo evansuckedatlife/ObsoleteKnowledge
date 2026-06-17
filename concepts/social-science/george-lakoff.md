@@ -3,16 +3,22 @@ type: person
 category: social-science
 defines:
   - George Lakoff
-related:
-  - "[[cognitive-linguistics]]"
-  - "[[conceptual-metaphor]]"
-  - "[[embodied-cognition]]"
+related: ["[[cognitive-linguistics]]", "[[conceptual-metaphor]]", "[[embodied-cognition]]"]
+requires: ["[[cognitive-science]]"]
 lists:
   - "[[linguists]]"
+tour_order: 1
 read: false
 ---
 
 # George Lakoff
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +42,18 @@ read: false
 ## see also
 
 - [[cognitive-linguistics]] · [[conceptual-metaphor]] · [[embodied-cognition]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

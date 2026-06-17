@@ -3,7 +3,9 @@ type: person
 category: social-science
 defines: ["Thorstein Veblen"]
 related: ["[[alfred-marshall]]", "[[john-kenneth-galbraith]]"]
+requires: []
 lists: ["[[economists]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ read: false
 ## see also
 
 - [[alfred-marshall]] · [[john-kenneth-galbraith]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

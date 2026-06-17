@@ -5,11 +5,11 @@ defines:
   - Claude Lévi-Strauss
   - Levi-Strauss
   - Claude Strauss
-related:
-  - "[[structuralism]]"
-  - "[[myth]]"
+related: ["[[structuralism]]", "[[myth]]"]
+requires: []
 lists:
   - "[[anthropologists]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +39,18 @@ read: false
 ## see also
 
 - [[structuralism]] · [[myth]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

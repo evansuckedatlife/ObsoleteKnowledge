@@ -3,7 +3,9 @@ type: person
 category: social-science
 defines: ["Sigmund Freud", Freud]
 related: ["[[carl-jung]]", "[[psychoanalysis]]", "[[unconscious-mind]]", "[[defense-mechanisms]]", "[[oedipus-complex]]"]
+requires: []
 lists: ["[[psychologists]]"]
+tour_order: 0
 read: false
 ---
 
@@ -48,6 +50,18 @@ Freud's genius was recognizing that mind and behavior are not transparent to rea
 ## see also
 
 - [[carl-jung]] · [[alfred-adler]] · [[erik-erikson]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

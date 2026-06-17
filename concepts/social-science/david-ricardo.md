@@ -3,11 +3,20 @@ type: person
 category: social-science
 defines: ["David Ricardo"]
 related: ["[[adam-smith]]", "[[thomas-malthus]]", "[[alfred-marshall]]"]
+requires: ["[[adam-smith]]"]
 lists: ["[[economists]]"]
+tour_order: 1
 read: false
 ---
 
 # David Ricardo
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[adam-smith]] · [[thomas-malthus]] · [[alfred-marshall]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

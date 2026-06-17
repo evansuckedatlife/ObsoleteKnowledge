@@ -3,12 +3,11 @@ type: place
 category: social-science
 defines:
   - Çatalhöyük
-related:
-  - "[[neolithic-settlement]]"
-  - "[[turkey]]"
-  - "[[early-agriculture]]"
+related: ["[[neolithic-settlement]]", "[[turkey]]", "[[early-agriculture]]"]
+requires: []
 lists:
   - "[[archaeological-sites]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[jericho]] · [[neolithic-settlement]] · [[early-agriculture]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

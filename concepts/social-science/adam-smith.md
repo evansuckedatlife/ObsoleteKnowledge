@@ -3,7 +3,9 @@ type: person
 category: social-science
 defines: ["Adam Smith"]
 related: ["[[david-ricardo]]", "[[alfred-marshall]]", "[[smith-smith-paradigm]]"]
+requires: []
 lists: ["[[economists]]"]
+tour_order: 0
 read: false
 ---
 
@@ -63,6 +65,18 @@ Adam Smith is the intellectual founder of modern capitalist economics and libera
 ## see also
 
 - [[david-ricardo]] · [[alfred-marshall]] · [[john-kenneth-galbraith]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

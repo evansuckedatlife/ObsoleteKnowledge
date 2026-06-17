@@ -3,7 +3,9 @@ type: person
 category: social-science
 defines: ["William James", James]
 related: ["[[functionalism]]", "[[pragmatism]]", "[[consciousness]]", "[[stream-of-consciousness]]", "[[emotion-theory]]", "[[psychology-as-science]]"]
+requires: []
 lists: ["[[psychologists]]"]
+tour_order: 0
 read: false
 ---
 
@@ -49,6 +51,18 @@ William James stands at a pivotal moment in psychology's history—the transitio
 ## see also
 
 - [[sigmund-freud]] · [[jean-piaget]] · [[b-f-skinner]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

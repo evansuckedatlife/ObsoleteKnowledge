@@ -2,13 +2,10 @@
 type: term
 category: social-science
 defines: [Perfect competition, Perfect market]
-related:
-  - "[[adam-smith]]"
-  - "[[david-ricardo]]"
-  - "[[alfred-marshall]]"
-  - "[[monopoly]]"
-  - "[[invisible-hand]]"
+related: ["[[adam-smith]]", "[[david-ricardo]]", "[[alfred-marshall]]", "[[monopoly]]", "[[invisible-hand]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +35,18 @@ read: false
 ## see also
 
 - [[adam-smith]] · [[monopoly]] · [[invisible-hand]] · [[comparative-advantage]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

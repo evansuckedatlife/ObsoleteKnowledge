@@ -2,14 +2,11 @@
 type: event
 category: social-science
 defines: ["The Milgram Obedience Experiment"]
-related:
-  - "[[stanley-milgram]]"
-  - "[[obedience]]"
-  - "[[authority]]"
-  - "[[nazi-germany]]"
-  - "[[ethics-in-psychology]]"
+related: ["[[stanley-milgram]]", "[[obedience]]", "[[authority]]", "[[nazi-germany]]", "[[ethics-in-psychology]]"]
+requires: []
 lists:
   - "[[psychological-experiments]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +37,18 @@ read: false
 ## see also
 
 - [[asch-conformity]] · [[stanford-prison]] · [[bobo-doll]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

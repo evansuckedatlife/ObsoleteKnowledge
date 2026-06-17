@@ -2,13 +2,11 @@
 type: event
 category: social-science
 defines: ["The Bobo Doll Experiment"]
-related:
-  - "[[albert-bandura]]"
-  - "[[social-learning]]"
-  - "[[aggression]]"
-  - "[[imitation]]"
+related: ["[[albert-bandura]]", "[[social-learning]]", "[[aggression]]", "[[imitation]]"]
+requires: []
 lists:
   - "[[psychological-experiments]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[pavlovs-classical-conditioning]] · [[skinner-box]] · [[learned-helplessness]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

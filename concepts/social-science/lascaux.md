@@ -3,12 +3,11 @@ type: place
 category: social-science
 defines:
   - Lascaux
-related:
-  - "[[paleolithic-art]]"
-  - "[[france]]"
-  - "[[cave-painting]]"
+related: ["[[paleolithic-art]]", "[[france]]", "[[cave-painting]]"]
+requires: []
 lists:
   - "[[archaeological-sites]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[cave-painting]] · [[paleolithic-art]] · [[chauvet-cave]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

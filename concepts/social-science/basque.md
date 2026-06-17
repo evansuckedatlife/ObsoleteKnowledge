@@ -5,12 +5,11 @@ defines:
   - Basque
   - Euskera
   - Euskal
-related:
-  - "[[language-isolates]]"
-  - "[[pyrenean-languages]]"
-  - "[[indigenous-languages-europe]]"
+related: ["[[language-isolates]]", "[[pyrenean-languages]]", "[[indigenous-languages-europe]]"]
+requires: []
 lists:
   - "[[unique-languages]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[hawaiian]] · [[kannada]] · [[welsh]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

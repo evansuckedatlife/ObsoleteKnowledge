@@ -4,12 +4,11 @@ category: social-science
 defines:
   - Scottish English
   - Scots English
-related:
-  - "[[scouse]]"
-  - "[[geordie]]"
-  - "[[received-pronunciation]]"
+related: ["[[scouse]]", "[[geordie]]", "[[received-pronunciation]]"]
+requires: []
 lists:
   - "[[accents-and-dialects-of-english]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[scouse]] · [[geordie]] · [[received-pronunciation]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

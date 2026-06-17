@@ -3,7 +3,9 @@ type: person
 category: social-science
 defines: ["Alfred Adler", Adler]
 related: ["[[sigmund-freud]]", "[[inferiority-complex]]", "[[birth-order]]", "[[individual-psychology]]", "[[social-interest]]"]
+requires: []
 lists: ["[[psychologists]]"]
+tour_order: 0
 read: false
 ---
 
@@ -49,6 +51,18 @@ Adler's greatest gift was democratizing psychology. Where Freud built a medical 
 ## see also
 
 - [[sigmund-freud]] · [[carl-jung]] · [[erik-erikson]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

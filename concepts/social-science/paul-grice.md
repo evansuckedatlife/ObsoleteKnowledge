@@ -4,16 +4,22 @@ category: social-science
 defines:
   - Paul Grice
   - Herbert Paul Grice
-related:
-  - "[[pragmatics]]"
-  - "[[conversational-implicature]]"
-  - "[[philosophy-of-language]]"
+related: ["[[pragmatics]]", "[[conversational-implicature]]", "[[philosophy-of-language]]"]
+requires: ["[[linguistics]]"]
 lists:
   - "[[linguists]]"
+tour_order: 1
 read: false
 ---
 
 # Paul Grice
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -37,6 +43,18 @@ read: false
 ## see also
 
 - [[pragmatics]] · [[conversational-implicature]] · [[philosophy-of-language]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

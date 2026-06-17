@@ -4,12 +4,11 @@ category: social-science
 defines:
   - Margaret Mead
   - Margaret Mary Mead
-related:
-  - "[[franz-boas]]"
-  - "[[ruth-benedict]]"
-  - "[[gregory-bateson]]"
+related: ["[[franz-boas]]", "[[ruth-benedict]]", "[[gregory-bateson]]"]
+requires: []
 lists:
   - "[[anthropologists]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[franz-boas]] · [[ruth-benedict]] · [[gregory-bateson]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

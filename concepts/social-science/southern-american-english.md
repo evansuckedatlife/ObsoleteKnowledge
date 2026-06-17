@@ -4,12 +4,11 @@ category: social-science
 defines:
   - Southern American English
   - Southern American English
-related:
-  - "[[general-american]]"
-  - "[[aave]]"
-  - "[[appalachian-english]]"
+related: ["[[general-american]]", "[[aave]]", "[[appalachian-english]]"]
+requires: []
 lists:
   - "[[accents-and-dialects-of-english]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[general-american]] · [[aave]] · [[appalachian-english]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

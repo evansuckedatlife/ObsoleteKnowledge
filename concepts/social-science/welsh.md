@@ -5,16 +5,22 @@ defines:
   - Welsh
   - Cymraeg
   - Cambrian
-related:
-  - "[[celtic-languages]]"
-  - "[[british-languages]]"
-  - "[[celtic-culture]]"
+related: ["[[celtic-languages]]", "[[british-languages]]", "[[celtic-culture]]"]
+requires: ["[[linguistics]]"]
 lists:
   - "[[unique-languages]]"
+tour_order: 1
 read: false
 ---
 
 # Welsh
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ read: false
 ## see also
 
 - [[irish]] · [[scottish-gaelic]] · [[breton]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

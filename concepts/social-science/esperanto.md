@@ -4,12 +4,11 @@ category: social-science
 defines:
   - Esperanto
   - "Esperanto"
-related:
-  - "[[constructed-languages]]"
-  - "[[international-auxiliary-languages]]"
-  - "[[linguistic-idealism]]"
+related: ["[[constructed-languages]]", "[[international-auxiliary-languages]]", "[[linguistic-idealism]]"]
+requires: []
 lists:
   - "[[unique-languages]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[interlingua]] · [[volapük]] · [[lojban]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

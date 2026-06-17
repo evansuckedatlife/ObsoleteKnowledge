@@ -5,17 +5,22 @@ defines:
   - Navajo
   - Diné Bizaad
   - Dine
-related:
-  - "[[athabaskan-languages]]"
-  - "[[indigenous-languages-americas]]"
-  - "[[american-sign-language-parallels]]"
-  - "[[navajo-culture]]"
+related: ["[[athabaskan-languages]]", "[[indigenous-languages-americas]]", "[[american-sign-language-parallels]]", "[[navajo-culture]]"]
+requires: ["[[linguistics]]"]
 lists:
   - "[[unique-languages]]"
+tour_order: 1
 read: false
 ---
 
 # Navajo (language)
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +45,18 @@ read: false
 ## see also
 
 - [[apache]] · [[dene]] · [[haida]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

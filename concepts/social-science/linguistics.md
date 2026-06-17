@@ -2,13 +2,10 @@
 type: term
 category: social-science
 defines: [Linguistics, Linguistic science]
-related:
-  - "[[language]]"
-  - "[[noam-chomsky]]"
-  - "[[structural-linguistics]]"
-  - "[[generative-grammar]]"
-  - "[[psycholinguistics]]"
+related: ["[[language]]", "[[noam-chomsky]]", "[[structural-linguistics]]", "[[generative-grammar]]", "[[psycholinguistics]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +36,18 @@ read: false
 ## see also
 
 - [[structural-linguistics]] · [[generative-grammar]] · [[noam-chomsky]] · [[sociolinguistics]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

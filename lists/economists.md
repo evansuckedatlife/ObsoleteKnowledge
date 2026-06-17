@@ -39,6 +39,8 @@ views:
     sort:
       - property: read
         direction: ASC
+      - property: tour_order
+        direction: ASC
       - property: file.name
         direction: ASC
 ```

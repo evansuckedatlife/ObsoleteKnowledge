@@ -3,7 +3,9 @@ type: person
 category: social-science
 defines: ["Erik Erikson", Erikson]
 related: ["[[sigmund-freud]]", "[[jean-piaget]]", "[[psychosocial-development]]", "[[identity-formation]]", "[[life-stages]]", "[[developmental-psychology]]"]
+requires: []
 lists: ["[[psychologists]]"]
+tour_order: 0
 read: false
 ---
 
@@ -52,6 +54,18 @@ Erikson's eight-stage model transformed how we think about human development. By
 ## see also
 
 - [[sigmund-freud]] · [[jean-piaget]] · [[abraham-maslow]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

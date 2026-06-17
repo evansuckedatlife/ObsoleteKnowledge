@@ -3,12 +3,11 @@ type: place
 category: social-science
 defines:
   - L'Anse aux Meadows
-related:
-  - "[[vikings]]"
-  - "[[canada]]"
-  - "[[vinland]]"
+related: ["[[vikings]]", "[[canada]]", "[[vinland]]"]
+requires: []
 lists:
   - "[[archaeological-sites]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[vikings]] · [[vinland]] · [[leif-erikson]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

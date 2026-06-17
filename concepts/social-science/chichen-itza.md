@@ -3,12 +3,11 @@ type: place
 category: social-science
 defines:
   - Chichén Itzá
-related:
-  - "[[maya-civilization]]"
-  - "[[mexico]]"
-  - "[[mesoamerica]]"
+related: ["[[maya-civilization]]", "[[mexico]]", "[[mesoamerica]]"]
+requires: []
 lists:
   - "[[archaeological-sites]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[maya-civilization]] · [[mesoamerica]] · [[kukulkan]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

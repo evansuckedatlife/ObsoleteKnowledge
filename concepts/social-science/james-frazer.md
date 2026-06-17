@@ -4,12 +4,11 @@ category: social-science
 defines:
   - James Frazer
   - Sir James George Frazer
-related:
-  - "[[ritual]]"
-  - "[[mythology]]"
-  - "[[magic]]"
+related: ["[[ritual]]", "[[mythology]]", "[[magic]]"]
+requires: []
 lists:
   - "[[anthropologists]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[ritual]] · [[mythology]] · [[magic]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

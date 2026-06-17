@@ -2,13 +2,10 @@
 type: term
 category: social-science
 defines: [Cognitive science]
-related:
-  - "[[linguistics]]"
-  - "[[noam-chomsky]]"
-  - "[[jean-piaget]]"
-  - "[[behaviorism]]"
-  - "[[generative-grammar]]"
+related: ["[[linguistics]]", "[[noam-chomsky]]", "[[jean-piaget]]", "[[behaviorism]]", "[[generative-grammar]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +36,18 @@ read: false
 ## see also
 
 - [[linguistics]] · [[noam-chomsky]] · [[jean-piaget]] · [[behaviorism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

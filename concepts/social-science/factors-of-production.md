@@ -2,8 +2,10 @@
 type: concept
 category: social-science
 defines: [Factors of Production, inputs]
-related: ["[[labor]]", "[[capital]]", "[[production-function]]", "[[marginal-product]]"]
+related: ["[[labor]]", "[[capital]]", "[[production-function]]", "[[marginal-product]]", "[[industrial-revolution]]"]
+requires: []
 lists: ["[[economic-concepts]]"]
+tour_order: 0
 read: false
 ---
 
@@ -50,6 +52,18 @@ The factors-of-production framework is the lens through which economists underst
 ## see also
 
 - [[labor]] · [[capital]] · [[production-function]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

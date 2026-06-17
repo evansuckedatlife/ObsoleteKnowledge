@@ -2,17 +2,21 @@
 type: term
 category: social-science
 defines: [Phillips Curve]
-related:
-  - "[[monetary-policy]]"
-  - "[[inflation]]"
-  - "[[unemployment]]"
-  - "[[john-maynard-keynes]]"
-  - "[[milton-friedman]]"
+related: ["[[monetary-policy]]", "[[inflation]]", "[[unemployment]]", "[[john-maynard-keynes]]", "[[milton-friedman]]"]
+requires: ["[[monetary-policy]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Phillips Curve
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +42,18 @@ The *Phillips Curve* is an empirical relationship named after economist *A.W. Ph
 ## see also
 
 - [[monetary-policy]] · [[inflation]] · [[unemployment]] · [[milton-friedman]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

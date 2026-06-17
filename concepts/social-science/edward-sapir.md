@@ -3,16 +3,22 @@ type: person
 category: social-science
 defines:
   - Edward Sapir
-related:
-  - "[[linguistic-relativity]]"
-  - "[[benjamin-lee-whorf]]"
-  - "[[linguistic-anthropology]]"
+related: ["[[linguistic-relativity]]", "[[benjamin-lee-whorf]]", "[[linguistic-anthropology]]"]
+requires: ["[[linguistics]]"]
 lists:
   - "[[linguists]]"
+tour_order: 1
 read: false
 ---
 
 # Edward Sapir
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +42,18 @@ read: false
 ## see also
 
 - [[benjamin-lee-whorf]] · [[linguistic-anthropology]] · [[native-american-languages]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

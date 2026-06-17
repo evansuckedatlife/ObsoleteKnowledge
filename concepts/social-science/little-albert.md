@@ -2,16 +2,22 @@
 type: event
 category: social-science
 defines: ["The Little Albert Experiment"]
-related:
-  - "[[pavlovs-classical-conditioning]]"
-  - "[[john-b-watson]]"
-  - "[[fear-conditioning]]"
+related: ["[[pavlovs-classical-conditioning]]", "[[john-b-watson]]", "[[fear-conditioning]]"]
+requires: ["[[pavlovs-classical-conditioning]]"]
 lists:
   - "[[psychological-experiments]]"
+tour_order: 1
 read: false
 ---
 
 # The Little Albert Experiment
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -37,6 +43,18 @@ read: false
 ## see also
 
 - [[pavlovs-classical-conditioning]] · [[milgram-obedience]] · [[stanford-prison]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,16 +4,22 @@ category: social-science
 defines:
   - Maltese
   - Malti
-related:
-  - "[[arabic-languages]]"
-  - "[[mediterranean-languages]]"
-  - "[[island-languages]]"
+related: ["[[arabic-languages]]", "[[mediterranean-languages]]", "[[island-languages]]"]
+requires: ["[[linguistics]]"]
 lists:
   - "[[unique-languages]]"
+tour_order: 1
 read: false
 ---
 
 # Maltese
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[hebrew]] · [[aramaic]] · [[welsh]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

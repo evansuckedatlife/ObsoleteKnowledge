@@ -2,14 +2,11 @@
 type: event
 category: social-science
 defines: ["The Stanford Prison Experiment"]
-related:
-  - "[[philip-zimbardo]]"
-  - "[[authority]]"
-  - "[[dehumanization]]"
-  - "[[role-playing]]"
-  - "[[ethics-in-psychology]]"
+related: ["[[philip-zimbardo]]", "[[authority]]", "[[dehumanization]]", "[[role-playing]]", "[[ethics-in-psychology]]"]
+requires: []
 lists:
   - "[[psychological-experiments]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +36,18 @@ read: false
 ## see also
 
 - [[milgram-obedience]] · [[asch-conformity]] · [[bobo-doll]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

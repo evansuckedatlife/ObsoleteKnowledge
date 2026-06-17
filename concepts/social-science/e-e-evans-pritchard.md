@@ -4,12 +4,11 @@ category: social-science
 defines:
   - E.E. Evans-Pritchard
   - Edward Evan Evans-Pritchard
-related:
-  - "[[bronislaw-malinowski]]"
-  - "[[nuer]]"
-  - "[[witchcraft-oracles-magic]]"
+related: ["[[bronislaw-malinowski]]", "[[nuer]]", "[[witchcraft-oracles-magic]]"]
+requires: []
 lists:
   - "[[anthropologists]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[bronislaw-malinowski]] · [[nuer]] · [[azande]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

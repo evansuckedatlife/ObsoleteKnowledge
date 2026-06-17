@@ -2,17 +2,22 @@
 type: event
 category: social-science
 defines: ["Learned Helplessness Experiments", "Martin Seligman's learned helplessness"]
-related:
-  - "[[martin-seligman]]"
-  - "[[depression]]"
-  - "[[motivation]]"
-  - "[[conditioning]]"
+related: ["[[martin-seligman]]", "[[depression]]", "[[motivation]]", "[[conditioning]]"]
+requires: ["[[pavlovs-classical-conditioning]]"]
 lists:
   - "[[psychological-experiments]]"
+tour_order: 1
 read: false
 ---
 
 # Learned Helplessness Experiments
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +43,18 @@ read: false
 ## see also
 
 - [[pavlovs-classical-conditioning]] · [[skinner-box]] · [[bobo-doll]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

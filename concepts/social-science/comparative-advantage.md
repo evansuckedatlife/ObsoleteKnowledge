@@ -3,11 +3,20 @@ type: concept
 category: social-science
 defines: [Comparative Advantage, absolute advantage]
 related: ["[[international-trade]]", "[[specialization]]", "[[tariff]]", "[[gains-from-trade]]"]
+requires: ["[[adam-smith]]"]
 lists: ["[[economic-concepts]]"]
+tour_order: 1
 read: false
 ---
 
 # Comparative Advantage
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -51,6 +60,18 @@ Comparative advantage is the most powerful argument for free trade in economic t
 ## see also
 
 - [[international-trade]] · [[specialization]] · [[tariff]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

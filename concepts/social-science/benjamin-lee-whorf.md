@@ -4,16 +4,22 @@ category: social-science
 defines:
   - Benjamin Lee Whorf
   - Whorf
-related:
-  - "[[edward-sapir]]"
-  - "[[linguistic-relativity]]"
-  - "[[hopi-language]]"
+related: ["[[edward-sapir]]", "[[linguistic-relativity]]", "[[hopi-language]]"]
+requires: ["[[linguistics]]"]
 lists:
   - "[[linguists]]"
+tour_order: 1
 read: false
 ---
 
 # Benjamin Lee Whorf
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -37,6 +43,18 @@ read: false
 ## see also
 
 - [[edward-sapir]] · [[linguistic-relativity]] · [[hopi-language]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,11 +4,11 @@ category: social-science
 defines:
   - A.R. Radcliffe-Brown
   - Alfred Reginald Radcliffe-Brown
-related:
-  - "[[bronislaw-malinowski]]"
-  - "[[structural-functionalism]]"
+related: ["[[bronislaw-malinowski]]", "[[structural-functionalism]]"]
+requires: []
 lists:
   - "[[anthropologists]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +38,18 @@ read: false
 ## see also
 
 - [[bronislaw-malinowski]] · [[structural-functionalism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

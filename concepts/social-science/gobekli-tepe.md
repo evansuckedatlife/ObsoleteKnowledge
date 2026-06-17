@@ -3,12 +3,11 @@ type: place
 category: social-science
 defines:
   - Göbekli Tepe
-related:
-  - "[[neolithic-revolution]]"
-  - "[[turkey]]"
-  - "[[early-civilization]]"
+related: ["[[neolithic-revolution]]", "[[turkey]]", "[[early-civilization]]"]
+requires: []
 lists:
   - "[[archaeological-sites]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[stonehenge]] · [[neolithic-revolution]] · [[early-civilization]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

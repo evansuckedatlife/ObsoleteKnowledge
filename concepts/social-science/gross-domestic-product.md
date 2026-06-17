@@ -3,7 +3,9 @@ type: concept
 category: social-science
 defines: [Gross Domestic Product, GDP, GNP]
 related: ["[[national-income]]", "[[economic-growth]]", "[[inflation]]", "[[expenditure-approach]]"]
+requires: []
 lists: ["[[economic-concepts]]"]
+tour_order: 0
 read: false
 ---
 
@@ -53,6 +55,18 @@ GDP is the language of macroeconomic policy. Central banks, governments, and int
 ## see also
 
 - [[economic-growth]] · [[inflation]] · [[business-cycle]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

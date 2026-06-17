@@ -3,7 +3,9 @@ type: person
 category: social-science
 defines: ["John Maynard Keynes", "J.M. Keynes"]
 related: ["[[milton-friedman]]", "[[alfred-marshall]]", "[[aggregate-demand]]"]
+requires: []
 lists: ["[[economists]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[milton-friedman]] · [[alfred-marshall]] · [[friedrich-hayek]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

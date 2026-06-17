@@ -2,13 +2,10 @@
 type: person
 category: social-science
 defines: [Friedrich Hayek, Friedrich August von Hayek, F.A. Hayek]
-related:
-  - "[[adam-smith]]"
-  - "[[karl-marx]]"
-  - "[[milton-friedman]]"
-  - "[[john-maynard-keynes]]"
-  - "[[international-trade]]"
+related: ["[[adam-smith]]", "[[karl-marx]]", "[[milton-friedman]]", "[[john-maynard-keynes]]", "[[international-trade]]", "[[enlightenment]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +35,18 @@ read: false
 ## see also
 
 - [[adam-smith]] · [[milton-friedman]] · [[karl-marx]] · [[comparative-advantage]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

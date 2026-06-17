@@ -3,7 +3,9 @@ type: person
 category: social-science
 defines: ["Wilhelm Wundt", Wundt]
 related: ["[[experimental-psychology]]", "[[structuralism]]", "[[introspection]]", "[[psychology-as-science]]", "[[consciousness]]", "[[apperception]]"]
+requires: []
 lists: ["[[psychologists]]"]
+tour_order: 0
 read: false
 ---
 
@@ -49,6 +51,18 @@ Wundt's laboratory was a watershed—it established psychology as an experimenta
 ## see also
 
 - [[william-james]] · [[ivan-pavlov]] · [[john-b-watson]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

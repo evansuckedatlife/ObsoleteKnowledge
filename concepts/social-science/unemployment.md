@@ -3,7 +3,9 @@ type: concept
 category: social-science
 defines: [Unemployment, unemployment rate]
 related: ["[[labor-force]]", "[[inflation]]", "[[phillips-curve]]", "[[economic-cycle]]"]
+requires: []
 lists: ["[[economic-concepts]]"]
+tour_order: 0
 read: false
 ---
 
@@ -52,6 +54,18 @@ Unemployment sits at the intersection of microeconomic hardship and macroeconomi
 ## see also
 
 - [[inflation]] · [[labor-force]] · [[phillips-curve]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

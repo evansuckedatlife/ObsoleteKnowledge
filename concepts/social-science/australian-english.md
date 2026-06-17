@@ -4,16 +4,22 @@ category: social-science
 defines:
   - Australian English
   - Aussie English
-related:
-  - "[[general-american]]"
-  - "[[received-pronunciation]]"
-  - "[[new-zealand-english]]"
+related: ["[[general-american]]", "[[received-pronunciation]]", "[[new-zealand-english]]"]
+requires: ["[[linguistics]]"]
 lists:
   - "[[accents-and-dialects-of-english]]"
+tour_order: 1
 read: false
 ---
 
 # Australian English
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -37,6 +43,18 @@ read: false
 ## see also
 
 - [[general-american]] · [[received-pronunciation]] · [[new-zealand-english]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

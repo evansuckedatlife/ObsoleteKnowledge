@@ -3,7 +3,9 @@ type: concept
 category: social-science
 defines: [Tariff]
 related: ["[[trade-barrier]]", "[[comparative-advantage]]", "[[international-trade]]", "[[deadweight-loss]]"]
+requires: []
 lists: ["[[economic-concepts]]"]
+tour_order: 0
 read: false
 ---
 
@@ -50,6 +52,18 @@ Tariffs embody a perennial tension: free trade increases overall economic effici
 ## see also
 
 - [[comparative-advantage]] · [[international-trade]] · [[protectionism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

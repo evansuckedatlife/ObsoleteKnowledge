@@ -5,17 +5,22 @@ defines:
   - Georgian
   - Kartuli
   - Kartveli
-related:
-  - "[[caucasian-languages]]"
-  - "[[unique-writing-systems]]"
-  - "[[eastern-caucasian-languages]]"
-  - "[[ancient-christian-languages]]"
+related: ["[[caucasian-languages]]", "[[unique-writing-systems]]", "[[eastern-caucasian-languages]]", "[[ancient-christian-languages]]"]
+requires: ["[[structural-linguistics]]"]
 lists:
   - "[[unique-languages]]"
+tour_order: 1
 read: false
 ---
 
 # Georgian
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +45,18 @@ read: false
 ## see also
 
 - [[laz]] · [[mingreliann]] · [[svan]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,16 +4,22 @@ category: social-science
 defines:
   - Cockney
   - London working-class English
-related:
-  - "[[received-pronunciation]]"
-  - "[[estuary-english]]"
-  - "[[aave]]"
+related: ["[[received-pronunciation]]", "[[estuary-english]]", "[[aave]]"]
+requires: ["[[linguistics]]"]
 lists:
   - "[[accents-and-dialects-of-english]]"
+tour_order: 1
 read: false
 ---
 
 # Cockney
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[received-pronunciation]] · [[estuary-english]] · [[general-american]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

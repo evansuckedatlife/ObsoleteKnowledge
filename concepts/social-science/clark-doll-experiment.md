@@ -2,13 +2,11 @@
 type: event
 category: social-science
 defines: ["The Clark Doll Experiment", "Clark doll test"]
-related:
-  - "[[Kenneth-Clark]]"
-  - "[[doll-studies]]"
-  - "[[racial-prejudice]]"
-  - "[[psychological-harm]]"
+related: ["[[Kenneth-Clark]]", "[[doll-studies]]", "[[racial-prejudice]]", "[[psychological-harm]]"]
+requires: []
 lists:
   - "[[psychological-experiments]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[little-albert]] · [[asch-conformity]] · [[stanford-prison]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

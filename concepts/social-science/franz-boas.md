@@ -4,12 +4,11 @@ category: social-science
 defines:
   - Franz Boas
   - Franz Uri Boas
-related:
-  - "[[margaret-mead]]"
-  - "[[ruth-benedict]]"
-  - "[[cultural-relativism]]"
+related: ["[[margaret-mead]]", "[[ruth-benedict]]", "[[cultural-relativism]]"]
+requires: []
 lists:
   - "[[anthropologists]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[margaret-mead]] · [[ruth-benedict]] · [[alfred-kroeber]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

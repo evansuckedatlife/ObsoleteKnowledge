@@ -2,13 +2,11 @@
 type: event
 category: social-science
 defines: ["The Small-World Experiment", "Milgram's small-world problem"]
-related:
-  - "[[stanley-milgram]]"
-  - "[[social-networks]]"
-  - "[[degrees-of-separation]]"
-  - "[[network-analysis]]"
+related: ["[[stanley-milgram]]", "[[social-networks]]", "[[degrees-of-separation]]", "[[network-analysis]]"]
+requires: []
 lists:
   - "[[psychological-experiments]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[milgram-obedience]] · [[asch-conformity]] · [[clark-doll-experiment]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

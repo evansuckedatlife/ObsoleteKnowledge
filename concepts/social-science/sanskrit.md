@@ -2,17 +2,21 @@
 type: term
 category: social-science
 defines: [Sanskrit, Saṃskṛta]
-related:
-  - "[[linguistics]]"
-  - "[[william-jones]]"
-  - "[[panini]]"
-  - "[[comparative-advantage]]"
-  - "[[indo-european-languages]]"
+related: ["[[linguistics]]", "[[william-jones]]", "[[panini]]", "[[comparative-advantage]]", "[[indo-european-languages]]"]
+requires: ["[[linguistics]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Sanskrit
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +42,18 @@ read: false
 ## see also
 
 - [[linguistics]] · [[william-jones]] · [[panini]] · [[hindi]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

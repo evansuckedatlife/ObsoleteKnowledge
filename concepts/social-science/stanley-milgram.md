@@ -3,7 +3,9 @@ type: person
 category: social-science
 defines: ["Stanley Milgram", Milgram]
 related: ["[[milgram-obedience-experiment]]", "[[obedience-authority]]", "[[psychological-experiments]]", "[[small-world-phenomenon]]", "[[social-psychology]]", "[[ethics-in-psychology]]"]
+requires: []
 lists: ["[[psychologists]]"]
+tour_order: 0
 read: false
 ---
 
@@ -53,6 +55,18 @@ Milgram's obedience experiments became among the most famous and ethically fraug
 ## see also
 
 - [[philip-zimbardo]] · [[solomon-asch]] · [[social-psychology]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

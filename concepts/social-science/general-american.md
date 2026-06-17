@@ -4,16 +4,22 @@ category: social-science
 defines:
   - General American
   - General American English
-related:
-  - "[[received-pronunciation]]"
-  - "[[southern-american-english]]"
-  - "[[upper-midwestern-american-english]]"
+related: ["[[received-pronunciation]]", "[[southern-american-english]]", "[[upper-midwestern-american-english]]"]
+requires: ["[[linguistics]]"]
 lists:
   - "[[accents-and-dialects-of-english]]"
+tour_order: 1
 read: false
 ---
 
 # General American
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -37,6 +43,18 @@ read: false
 ## see also
 
 - [[received-pronunciation]] · [[southern-american-english]] · [[upper-midwestern-american-english]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

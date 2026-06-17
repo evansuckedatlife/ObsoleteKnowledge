@@ -5,17 +5,22 @@ defines:
   - Hungarian
   - Magyar
   - Magyarország
-related:
-  - "[[uralic-languages]]"
-  - "[[agglutinative-languages]]"
-  - "[[european-languages]]"
-  - "[[central-asian-language-contacts]]"
+related: ["[[uralic-languages]]", "[[agglutinative-languages]]", "[[european-languages]]", "[[central-asian-language-contacts]]"]
+requires: ["[[structural-linguistics]]"]
 lists:
   - "[[unique-languages]]"
+tour_order: 1
 read: false
 ---
 
 # Hungarian
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +45,18 @@ read: false
 ## see also
 
 - [[finnish]] · [[estonian]] · [[turkish]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,16 +3,22 @@ type: person
 category: social-science
 defines:
   - Steven Pinker
-related:
-  - "[[generative-grammar]]"
-  - "[[cognitive-science]]"
-  - "[[language-evolution]]"
+related: ["[[generative-grammar]]", "[[cognitive-science]]", "[[language-evolution]]"]
+requires: ["[[cognitive-science]]"]
 lists:
   - "[[linguists]]"
+tour_order: 1
 read: false
 ---
 
 # Steven Pinker
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +42,18 @@ read: false
 ## see also
 
 - [[generative-grammar]] · [[cognitive-science]] · [[language-acquisition]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

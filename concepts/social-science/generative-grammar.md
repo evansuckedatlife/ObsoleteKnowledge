@@ -2,17 +2,21 @@
 type: term
 category: social-science
 defines: [Generative grammar, Transformational grammar]
-related:
-  - "[[linguistics]]"
-  - "[[noam-chomsky]]"
-  - "[[structural-linguistics]]"
-  - "[[universal-grammar]]"
-  - "[[cognitive-science]]"
+related: ["[[linguistics]]", "[[noam-chomsky]]", "[[structural-linguistics]]", "[[universal-grammar]]", "[[cognitive-science]]"]
+requires: ["[[structural-linguistics]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Generative grammar
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +43,18 @@ read: false
 ## see also
 
 - [[linguistics]] · [[noam-chomsky]] · [[structural-linguistics]] · [[cognitive-science]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

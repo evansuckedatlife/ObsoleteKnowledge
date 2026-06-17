@@ -2,13 +2,10 @@
 type: term
 category: social-science
 defines: [Monetary policy]
-related:
-  - "[[interest-rate]]"
-  - "[[inflation]]"
-  - "[[milton-friedman]]"
-  - "[[john-maynard-keynes]]"
-  - "[[phillips-curve]]"
+related: ["[[interest-rate]]", "[[inflation]]", "[[milton-friedman]]", "[[john-maynard-keynes]]", "[[phillips-curve]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +35,18 @@ read: false
 ## see also
 
 - [[interest-rate]] · [[inflation]] · [[milton-friedman]] · [[phillips-curve]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

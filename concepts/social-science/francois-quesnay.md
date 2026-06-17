@@ -2,8 +2,10 @@
 type: person
 category: social-science
 defines: ["François Quesnay"]
-related: ["[[adam-smith]]", "[[physiocrats]]"]
+related: ["[[adam-smith]]", "[[physiocrats]]", "[[enlightenment]]"]
+requires: []
 lists: ["[[economists]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ read: false
 ## see also
 
 - [[adam-smith]] · [[david-ricardo]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

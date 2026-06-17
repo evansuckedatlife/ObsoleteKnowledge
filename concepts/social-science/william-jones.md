@@ -4,16 +4,22 @@ category: social-science
 defines:
   - William Jones
   - Sir William Jones
-related:
-  - "[[sanskrit]]"
-  - "[[comparative-linguistics]]"
-  - "[[indo-european]]"
+related: ["[[sanskrit]]", "[[comparative-linguistics]]", "[[indo-european]]"]
+requires: ["[[linguistics]]"]
 lists:
   - "[[linguists]]"
+tour_order: 1
 read: false
 ---
 
 # William Jones
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -37,6 +43,18 @@ read: false
 ## see also
 
 - [[sanskrit]] · [[indo-european]] · [[comparative-linguistics]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

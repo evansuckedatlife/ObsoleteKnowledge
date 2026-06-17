@@ -5,16 +5,22 @@ defines:
   - Geordie
   - Newcastle English
   - Northeast English
-related:
-  - "[[scottish-english]]"
-  - "[[scouse]]"
-  - "[[received-pronunciation]]"
+related: ["[[scottish-english]]", "[[scouse]]", "[[received-pronunciation]]"]
+requires: ["[[linguistics]]"]
 lists:
   - "[[accents-and-dialects-of-english]]"
+tour_order: 1
 read: false
 ---
 
 # Geordie
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ read: false
 ## see also
 
 - [[scottish-english]] · [[scouse]] · [[received-pronunciation]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

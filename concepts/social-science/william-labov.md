@@ -3,16 +3,22 @@ type: person
 category: social-science
 defines:
   - William Labov
-related:
-  - "[[sociolinguistics]]"
-  - "[[linguistic-variation]]"
-  - "[[language-change]]"
+related: ["[[sociolinguistics]]", "[[linguistic-variation]]", "[[language-change]]"]
+requires: ["[[linguistics]]"]
 lists:
   - "[[linguists]]"
+tour_order: 1
 read: false
 ---
 
 # William Labov
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +42,18 @@ read: false
 ## see also
 
 - [[sociolinguistics]] · [[linguistic-variation]] · [[language-change]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

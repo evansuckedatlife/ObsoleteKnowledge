@@ -2,13 +2,10 @@
 type: term
 category: social-science
 defines: [Behaviorism, Behavioural psychology]
-related:
-  - "[[b-f-skinner]]"
-  - "[[john-b-watson]]"
-  - "[[ivan-pavlov]]"
-  - "[[cognitive-science]]"
-  - "[[pavlovs-classical-conditioning]]"
+related: ["[[b-f-skinner]]", "[[john-b-watson]]", "[[ivan-pavlov]]", "[[cognitive-science]]", "[[pavlovs-classical-conditioning]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +36,18 @@ read: false
 ## see also
 
 - [[b-f-skinner]] · [[john-b-watson]] · [[ivan-pavlov]] · [[cognitive-science]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

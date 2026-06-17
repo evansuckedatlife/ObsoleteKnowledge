@@ -4,12 +4,11 @@ category: social-science
 defines:
   - Scouse
   - Liverpool English
-related:
-  - "[[scottish-english]]"
-  - "[[geordie]]"
-  - "[[cockney]]"
+related: ["[[scottish-english]]", "[[geordie]]", "[[cockney]]"]
+requires: []
 lists:
   - "[[accents-and-dialects-of-english]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[scottish-english]] · [[geordie]] · [[cockney]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

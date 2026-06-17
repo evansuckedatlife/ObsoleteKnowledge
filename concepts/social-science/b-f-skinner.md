@@ -3,11 +3,20 @@ type: person
 category: social-science
 defines: ["B.F. Skinner", "Burrhus Frederic Skinner", Skinner]
 related: ["[[ivan-pavlov]]", "[[john-b-watson]]", "[[operant-conditioning]]", "[[reinforcement]]", "[[behaviorism]]", "[[walden-two]]"]
+requires: ["[[behaviorism]]"]
 lists: ["[[psychologists]]"]
+tour_order: 1
 read: false
 ---
 
 # B.F. Skinner
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -49,6 +58,18 @@ Skinner's operant conditioning became the foundation for applied behavior analys
 ## see also
 
 - [[ivan-pavlov]] · [[john-b-watson]] · [[abraham-maslow]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

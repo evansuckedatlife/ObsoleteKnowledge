@@ -3,7 +3,9 @@ type: concept
 category: social-science
 defines: [Supply and Demand]
 related: ["[[elasticity]]", "[[equilibrium-price]]", "[[market-mechanism]]", "[[shortage-and-surplus]]"]
+requires: []
 lists: ["[[economic-concepts]]"]
+tour_order: 0
 read: false
 ---
 
@@ -47,6 +49,18 @@ Supply and demand is arguably the most powerful lens in economics because it exp
 ## see also
 
 - [[elasticity]] · [[equilibrium-price]] · [[monopoly]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

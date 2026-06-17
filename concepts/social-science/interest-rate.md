@@ -3,7 +3,9 @@ type: concept
 category: social-science
 defines: [Interest Rate, nominal rate, real rate]
 related: ["[[inflation]]", "[[monetary-policy]]", "[[time-value-of-money]]", "[[discount-rate]]"]
+requires: []
 lists: ["[[economic-concepts]]"]
+tour_order: 0
 read: false
 ---
 
@@ -54,6 +56,18 @@ Interest rates are the transmission mechanism of monetary policy. By lowering ra
 ## see also
 
 - [[inflation]] · [[monetary-policy]] · [[time-value-of-money]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,12 +3,11 @@ type: place
 category: social-science
 defines:
   - Stonehenge
-related:
-  - "[[bronze-age]]"
-  - "[[england]]"
-  - "[[neolithic-monuments]]"
+related: ["[[bronze-age]]", "[[england]]", "[[neolithic-monuments]]"]
+requires: []
 lists:
   - "[[archaeological-sites]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[göbekli-tepe]] · [[neolithic-monuments]] · [[bronze-age]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

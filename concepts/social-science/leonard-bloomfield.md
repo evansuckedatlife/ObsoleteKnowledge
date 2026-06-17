@@ -3,12 +3,11 @@ type: person
 category: social-science
 defines:
   - Leonard Bloomfield
-related:
-  - "[[structural-linguistics]]"
-  - "[[descriptive-linguistics]]"
-  - "[[american-linguistics]]"
+related: ["[[structural-linguistics]]", "[[descriptive-linguistics]]", "[[american-linguistics]]"]
+requires: []
 lists:
   - "[[linguists]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +35,18 @@ read: false
 ## see also
 
 - [[structural-linguistics]] · [[descriptive-linguistics]] · [[native-american-languages]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

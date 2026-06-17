@@ -5,16 +5,22 @@ defines:
   - Received Pronunciation
   - RP
   - BBC English
-related:
-  - "[[cockney]]"
-  - "[[estuary-english]]"
-  - "[[general-american]]"
+related: ["[[cockney]]", "[[estuary-english]]", "[[general-american]]"]
+requires: ["[[linguistics]]"]
 lists:
   - "[[accents-and-dialects-of-english]]"
+tour_order: 1
 read: false
 ---
 
 # Received Pronunciation
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ read: false
 ## see also
 
 - [[cockney]] · [[estuary-english]] · [[general-american]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: person
 category: social-science
 defines: ["Ivan Pavlov", Pavlov]
 related: ["[[john-b-watson]]", "[[b-f-skinner]]", "[[classical-conditioning]]", "[[conditioned-reflex]]", "[[behaviorism]]", "[[psychological-experiments]]"]
+requires: ["[[behaviorism]]"]
 lists: ["[[psychologists]]", "[[nobel-prize-winners-in-medicine]]"]
+tour_order: 1
 read: false
 ---
 
 # Ivan Pavlov
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -49,6 +58,18 @@ Pavlov's classical conditioning was the first replicable, measurable discovery o
 ## see also
 
 - [[john-b-watson]] · [[b-f-skinner]] · [[jean-piaget]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

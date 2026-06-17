@@ -2,13 +2,11 @@
 type: event
 category: social-science
 defines: ["The Asch Conformity Experiment", "Asch line experiment"]
-related:
-  - "[[solomon-asch]]"
-  - "[[conformity]]"
-  - "[[peer-pressure]]"
-  - "[[group-dynamics]]"
+related: ["[[solomon-asch]]", "[[conformity]]", "[[peer-pressure]]", "[[group-dynamics]]"]
+requires: []
 lists:
   - "[[psychological-experiments]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[milgram-obedience]] · [[stanford-prison]] · [[clark-doll-experiment]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

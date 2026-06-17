@@ -3,12 +3,11 @@ type: place
 category: social-science
 defines:
   - Pompeii
-related:
-  - "[[vesuvius]]"
-  - "[[roman-empire]]"
-  - "[[herculaneum]]"
+related: ["[[vesuvius]]", "[[roman-empire]]", "[[herculaneum]]"]
+requires: []
 lists:
   - "[[archaeological-sites]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[herculaneum]] · [[vesuvius]] · [[roman-daily-life]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,12 +2,11 @@
 type: event
 category: social-science
 defines: ["Pavlov's Classical Conditioning Experiments", "classical conditioning"]
-related:
-  - "[[skinner-box]]"
-  - "[[little-albert]]"
-  - "[[behaviorism]]"
+related: ["[[skinner-box]]", "[[little-albert]]", "[[behaviorism]]"]
+requires: []
 lists:
   - "[[psychological-experiments]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[little-albert]] · [[skinner-box]] · [[bobo-doll]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,12 +4,11 @@ category: social-science
 defines:
   - Mary Douglas
   - Mary Tew Douglas
-related:
-  - "[[purity-and-danger]]"
-  - "[[ritual]]"
-  - "[[classification]]"
+related: ["[[purity-and-danger]]", "[[ritual]]", "[[classification]]"]
+requires: []
 lists:
   - "[[anthropologists]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[purity-and-danger]] · [[ritual]] · [[classification]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

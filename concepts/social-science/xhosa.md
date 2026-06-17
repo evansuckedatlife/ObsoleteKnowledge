@@ -5,16 +5,22 @@ defines:
   - Xhosa
   - isiXhosa
   - Xhossa
-related:
-  - "[[click-consonants]]"
-  - "[[bantu-languages]]"
-  - "[[south-african-languages]]"
+related: ["[[click-consonants]]", "[[bantu-languages]]", "[[south-african-languages]]"]
+requires: ["[[linguistics]]"]
 lists:
   - "[[unique-languages]]"
+tour_order: 1
 read: false
 ---
 
 # Xhosa
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ read: false
 ## see also
 
 - [[zulu]] · [[sotho]] · [[ndebele]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

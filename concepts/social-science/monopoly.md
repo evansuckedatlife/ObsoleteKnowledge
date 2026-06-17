@@ -3,11 +3,20 @@ type: concept
 category: social-science
 defines: [Monopoly]
 related: ["[[supply-and-demand]]", "[[perfect-competition]]", "[[barrier-to-entry]]", "[[deadweight-loss]]", "[[antitrust]]"]
+requires: ["[[perfect-competition]]"]
 lists: ["[[economic-concepts]]"]
+tour_order: 1
 read: false
 ---
 
 # Monopoly
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -52,6 +61,18 @@ Monopoly power is central to debates over fairness, efficiency, and the role of 
 ## see also
 
 - [[perfect-competition]] · [[elasticity]] · [[barrier-to-entry]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

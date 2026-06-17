@@ -4,11 +4,11 @@ category: social-science
 defines:
   - Clifford Geertz
   - Clifford James Geertz
-related:
-  - "[[thick-description]]"
-  - "[[interpretive-anthropology]]"
+related: ["[[thick-description]]", "[[interpretive-anthropology]]"]
+requires: []
 lists:
   - "[[anthropologists]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +38,18 @@ read: false
 ## see also
 
 - [[interpretive-anthropology]] · [[thick-description]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

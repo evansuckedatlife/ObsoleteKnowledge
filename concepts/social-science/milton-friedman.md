@@ -3,11 +3,20 @@ type: person
 category: social-science
 defines: ["Milton Friedman"]
 related: ["[[john-maynard-keynes]]", "[[friedrich-hayek]]"]
+requires: ["[[adam-smith]]"]
 lists: ["[[economists]]"]
+tour_order: 1
 read: false
 ---
 
 # Milton Friedman
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[john-maynard-keynes]] · [[friedrich-hayek]] · [[john-kenneth-galbraith]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

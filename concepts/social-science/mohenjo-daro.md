@@ -3,12 +3,11 @@ type: place
 category: social-science
 defines:
   - Mohenjo-daro
-related:
-  - "[[indus-valley-civilization]]"
-  - "[[pakistan]]"
-  - "[[harappa]]"
+related: ["[[indus-valley-civilization]]", "[[pakistan]]", "[[harappa]]"]
+requires: []
 lists:
   - "[[archaeological-sites]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[harappa]] · [[indus-valley-civilization]] · [[early-urbanization]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

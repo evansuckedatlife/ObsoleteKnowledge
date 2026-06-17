@@ -4,11 +4,11 @@ category: social-science
 defines:
   - Bronisław Malinowski
   - Bronislaw Malinowski
-related:
-  - "[[a-r-radcliffe-brown]]"
-  - "[[functional-anthropology]]"
+related: ["[[a-r-radcliffe-brown]]", "[[functional-anthropology]]"]
+requires: []
 lists:
   - "[[anthropologists]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +38,18 @@ read: false
 ## see also
 
 - [[a-r-radcliffe-brown]] · [[e-e-evans-pritchard]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

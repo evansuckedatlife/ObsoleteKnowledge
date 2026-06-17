@@ -3,11 +3,20 @@ type: person
 category: social-science
 defines: ["Alfred Marshall"]
 related: ["[[adam-smith]]", "[[david-ricardo]]", "[[john-maynard-keynes]]"]
+requires: ["[[adam-smith]]"]
 lists: ["[[economists]]"]
+tour_order: 1
 read: false
 ---
 
 # Alfred Marshall
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[adam-smith]] · [[david-ricardo]] · [[john-maynard-keynes]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

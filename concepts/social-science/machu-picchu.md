@@ -3,12 +3,11 @@ type: place
 category: social-science
 defines:
   - Machu Picchu
-related:
-  - "[[inca-empire]]"
-  - "[[peru]]"
-  - "[[incas]]"
+related: ["[[inca-empire]]", "[[peru]]", "[[incas]]"]
+requires: []
 lists:
   - "[[archaeological-sites]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[inca-empire]] · [[cusco]] · [[andean-civilizations]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

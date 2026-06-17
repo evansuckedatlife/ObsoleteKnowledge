@@ -3,7 +3,9 @@ type: concept
 category: social-science
 defines: [Inflation, deflation]
 related: ["[[price-level]]", "[[purchasing-power]]", "[[phillips-curve]]", "[[monetary-policy]]"]
+requires: []
 lists: ["[[economic-concepts]]"]
+tour_order: 0
 read: false
 ---
 
@@ -52,6 +54,18 @@ Inflation is the great trade-off of monetary policy. After decades of (mostly) l
 ## see also
 
 - [[unemployment]] · [[monetary-policy]] · [[phillips-curve]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

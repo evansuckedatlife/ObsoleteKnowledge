@@ -3,7 +3,9 @@ type: person
 category: social-science
 defines: ["Carl Jung", Jung]
 related: ["[[sigmund-freud]]", "[[collective-unconscious]]", "[[archetypes]]", "[[psychoanalysis]]", "[[personality-types]]"]
+requires: []
 lists: ["[[psychologists]]"]
+tour_order: 0
 read: false
 ---
 
@@ -48,6 +50,18 @@ Jung's break with Freud was pivotal—it liberated psychology from a purely redu
 ## see also
 
 - [[sigmund-freud]] · [[alfred-adler]] · [[erik-erikson]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

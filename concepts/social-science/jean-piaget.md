@@ -3,11 +3,20 @@ type: person
 category: social-science
 defines: ["Jean Piaget", Piaget]
 related: ["[[cognitive-development]]", "[[stages-of-development]]", "[[conservation-task]]", "[[constructivism]]", "[[erik-erikson]]", "[[developmental-psychology]]"]
+requires: ["[[cognitive-science]]"]
 lists: ["[[psychologists]]"]
+tour_order: 1
 read: false
 ---
 
 # Jean Piaget
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -50,6 +59,18 @@ Piaget's revolution was philosophical: he elevated childhood from a preparatory 
 ## see also
 
 - [[erik-erikson]] · [[abraham-maslow]] · [[ivan-pavlov]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

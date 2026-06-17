@@ -3,11 +3,20 @@ type: concept
 category: social-science
 defines: [Elasticity, price elasticity]
 related: ["[[supply-and-demand]]", "[[marginal-utility]]", "[[price-sensitivity]]"]
+requires: ["[[comparative-advantage]]"]
 lists: ["[[economic-concepts]]"]
+tour_order: 2
 read: false
 ---
 
 # Elasticity
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -49,6 +58,18 @@ Elasticity transforms supply-and-demand analysis from a qualitative intuition in
 ## see also
 
 - [[supply-and-demand]] · [[monopoly]] · [[marginal-utility]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

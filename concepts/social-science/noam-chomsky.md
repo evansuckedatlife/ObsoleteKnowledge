@@ -4,12 +4,11 @@ category: social-science
 defines:
   - Noam Chomsky
   - Avram Noam Chomsky
-related:
-  - "[[generative-grammar]]"
-  - "[[universal-grammar]]"
-  - "[[cognitive-science]]"
+related: ["[[generative-grammar]]", "[[universal-grammar]]", "[[cognitive-science]]"]
+requires: []
 lists:
   - "[[linguists]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[generative-grammar]] · [[universal-grammar]] · [[cognitive-science]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

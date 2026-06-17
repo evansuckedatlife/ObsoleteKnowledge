@@ -2,13 +2,10 @@
 type: term
 category: social-science
 defines: [International trade, World trade]
-related:
-  - "[[david-ricardo]]"
-  - "[[adam-smith]]"
-  - "[[comparative-advantage]]"
-  - "[[tariff]]"
-  - "[[friedrich-hayek]]"
+related: ["[[david-ricardo]]", "[[adam-smith]]", "[[comparative-advantage]]", "[[tariff]]", "[[friedrich-hayek]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +35,18 @@ read: false
 ## see also
 
 - [[david-ricardo]] · [[comparative-advantage]] · [[tariff]] · [[adam-smith]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

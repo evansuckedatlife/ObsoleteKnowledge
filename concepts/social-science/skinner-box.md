@@ -2,16 +2,22 @@
 type: event
 category: social-science
 defines: ["The Skinner Box", "operant conditioning chamber"]
-related:
-  - "[[pavlovs-classical-conditioning]]"
-  - "[[b-f-skinner]]"
-  - "[[operant-conditioning]]"
+related: ["[[pavlovs-classical-conditioning]]", "[[b-f-skinner]]", "[[operant-conditioning]]"]
+requires: ["[[behaviorism]]"]
 lists:
   - "[[psychological-experiments]]"
+tour_order: 1
 read: false
 ---
 
 # The Skinner Box
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -37,6 +43,18 @@ read: false
 ## see also
 
 - [[pavlovs-classical-conditioning]] · [[bobo-doll]] · [[learned-helplessness]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

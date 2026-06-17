@@ -3,7 +3,9 @@ type: person
 category: social-science
 defines: ["Karl Marx"]
 related: ["[[friedrich-engels]]", "[[adam-smith]]", "[[surplus-value]]"]
+requires: []
 lists: ["[[economists]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[friedrich-engels]] · [[adam-smith]] · [[david-ricardo]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 
