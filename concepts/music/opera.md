@@ -3,7 +3,9 @@ type: concept
 category: music
 defines: [Opera]
 related: ["[[giuseppe-verdi]]", "[[richard-wagner]]", "[[claudio-monteverdi]]", "[[carl-maria-von-weber]]", "[[gioachino-rossini]]", "[[carmen]]", "[[don-giovanni]]", "[[the-magic-flute]]", "[[la-boheme]]", "[[madama-butterfly]]", "[[the-marriage-of-figaro]]", "[[leitmotif]]", "[[bel-canto]]", "[[singspiel]]", "[[music-drama]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -72,6 +74,18 @@ Opera represents one of Western civilization's grandest artistic ambitions: the 
 ## see also
 
 - [[carmen]] · [[don-giovanni]] · [[the-magic-flute]] · [[la-boheme]] · [[madama-butterfly]] · [[leitmotif]] · [[giuseppe-verdi]] · [[richard-wagner]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

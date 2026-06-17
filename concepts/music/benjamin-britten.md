@@ -2,8 +2,10 @@
 type: person
 category: music
 defines: ["Benjamin Britten", "Britten"]
-related: ["[[20th-century-composers]]"]
+related: ["[[20th-century-composers]]", "[[united-kingdom]]"]
+requires: []
 lists: ["[[20th-century-composers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ Benjamin Britten (1913–1976) was the preeminent English composer of the 20th c
 ## see also
 
 - [[igor-stravinsky]] · [[arnold-schoenberg]] · [[aaron-copland]] · [[sergei-prokofiev]] · [[dmitri-shostakovich]] · [[bela-bartok]] · [[charles-ives]] · [[maurice-ravel]] · [[george-gershwin]] · [[john-cage]] · [[sergei-rachmaninoff]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

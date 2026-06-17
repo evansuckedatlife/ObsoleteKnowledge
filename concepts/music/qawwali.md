@@ -2,14 +2,11 @@
 type: concept
 category: music
 defines: [Qawwali, Qawwali music]
-related:
-  - "[[pakistan]]"
-  - "[[india]]"
-  - "[[sufism]]"
-  - "[[sufi-saint]]"
-  - "[[dhrupad]]"
+related: ["[[pakistan]]", "[[india]]", "[[sufism]]", "[[sufi-saint]]", "[[dhrupad]]", "[[islam]]"]
+requires: []
 lists:
   - "[[non-western-classical-music-traditions]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +37,18 @@ read: false
 ## see also
 
 - [[sufism]] · [[pakistan]] · [[india]] · [[dhrupad]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

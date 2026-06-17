@@ -2,14 +2,11 @@
 type: concept
 category: music
 defines: [Hindustani Classical Music, Hindustani music]
-related:
-  - "[[carnatic-music]]"
-  - "[[raga]]"
-  - "[[tala]]"
-  - "[[sitar]]"
-  - "[[tabla]]"
+related: ["[[carnatic-music]]", "[[raga]]", "[[tala]]", "[[sitar]]", "[[tabla]]", "[[india]]", "[[hinduism]]"]
+requires: []
 lists:
   - "[[non-western-classical-music-traditions]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +37,18 @@ read: false
 ## see also
 
 - [[carnatic-music]] · [[raga]] · [[tabla]] · [[sitar]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,8 +2,10 @@
 type: work
 category: music
 defines: ["Cosi fan tutte", "Così fan tutte"]
-related: ["[[operas]]", "[[works-by-mozart]]"]
+related: ["[[operas]]", "[[works-by-mozart]]", "[[italy]]"]
+requires: []
 lists: ["[[works-by-mozart]]"]
+tour_order: 0
 read: false
 ---
 
@@ -44,6 +46,18 @@ For much of the 19th and early 20th centuries, *Così fan tutte* was dismissed a
 ## see also
 
 - [[carmen]] · [[aida]] · [[the-marriage-of-figaro]] · [[the-barber-of-seville]] · [[william-tell]] · [[don-giovanni]] · [[salome]] · [[boris-godunov]] · [[la-boheme]] · [[madama-butterfly]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

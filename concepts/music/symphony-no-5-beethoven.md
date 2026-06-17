@@ -2,8 +2,10 @@
 type: work
 category: music
 defines: ["Symphony No. 5 in C minor", "Beethoven Fifth"]
-related: ["[[works-by-beethoven]]"]
+related: ["[[works-by-beethoven]]", "[[french-revolution]]", "[[enlightenment]]"]
+requires: []
 lists: ["[[works-by-beethoven]]"]
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +39,18 @@ During World War II, the BBC popularized the opening motif of the Fifth Symphony
 ## see also
 
 - [[symphony-no-9-beethoven]] · [[symphony-no-6-beethoven]] · [[symphony-no-3-beethoven]] · [[fidelio]] · [[missa-solemnis]] · [[piano-concerto-no-5-beethoven]] · [[moonlight-sonata]] · [[appassionata-sonata]] · [[wellingtons-victory]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

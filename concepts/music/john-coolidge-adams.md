@@ -2,8 +2,10 @@
 type: person
 category: music
 defines: ["John Coolidge Adams", "John Adams", "Adams"]
-related: ["[[american-composers]]", "[[operas]]"]
+related: ["[[american-composers]]", "[[operas]]", "[[united-states]]"]
+requires: []
 lists: ["[[american-composers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ John Coolidge Adams (b. 1947) is an acclaimed American composer, conductor, and 
 ## see also
 
 - [[george-gershwin]] · [[aaron-copland]] · [[arnold-schoenberg]] · [[leonard-bernstein]] · [[philip-glass]] · [[samuel-barber]] · [[charles-ives]] · [[john-cage]] · [[stephen-sondheim]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

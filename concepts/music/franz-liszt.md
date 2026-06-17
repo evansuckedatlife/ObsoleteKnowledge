@@ -2,8 +2,10 @@
 type: person
 category: music
 defines: ["Franz Liszt", "Liszt"]
-related: ["[[romantic-era-composers]]", "[[piano-sonatas]]"]
+related: ["[[romantic-era-composers]]", "[[piano-sonatas]]", "[[germany]]"]
+requires: []
 lists: ["[[romantic-era-composers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +44,18 @@ Liszt was a generous patron and friend to many composers, helping to establish t
 ## see also
 
 - [[franz-schubert]] · [[hector-berlioz]] · [[felix-mendelssohn]] · [[robert-schumann]] · [[giuseppe-verdi]] · [[richard-wagner]] · [[johannes-brahms]] · [[pyotr-ilyich-tchaikovsky]] · [[antonin-dvorak]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

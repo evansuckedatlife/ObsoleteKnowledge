@@ -4,12 +4,11 @@ category: music
 defines:
   - Hildegard of Bingen
   - Hildegarda
-related:
-  - "[[gregorian-chant]]"
-  - "[[plainchant]]"
-  - "[[medieval-music]]"
+related: ["[[gregorian-chant]]", "[[plainchant]]", "[[medieval-music]]", "[[christianity]]", "[[germany]]"]
+requires: []
 lists:
   - "[[pre-1700-composers]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[gregorian-chant]] · [[benedictine-monasticism]] · [[medieval-drama]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

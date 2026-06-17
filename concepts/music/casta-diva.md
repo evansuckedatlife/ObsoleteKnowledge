@@ -3,7 +3,9 @@ type: phrase
 category: music
 defines: ["Casta diva", "Chaste goddess"]
 related: ["[[norma]]", "[[bellini]]", "[[soprano]]"]
+requires: []
 lists: ["[[arias]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[nessun-dorma]] · [[der-holle-rache]] · [[habanera]] · [[una-furtiva-lagrima]] · [[vesti-la-giubba]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

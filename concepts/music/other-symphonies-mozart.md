@@ -3,7 +3,9 @@ type: work
 category: music
 defines: ["Other Mozart symphonies", "Salzburg symphonies of Mozart", "Viennese symphonies of Mozart"]
 related: ["[[works-by-mozart]]", "[[last-three-symphonies-mozart]]"]
+requires: []
 lists: ["[[works-by-mozart]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ Before composing his final three masterpieces in 1788, Wolfgang Amadeus Mozart w
 ## see also
 
 - [[the-magic-flute]] · [[cosi-fan-tutte]] · [[requiem-mozart]] · [[the-abduction-from-the-seraglio]] · [[piano-sonatas-mozart]] · [[piano-concertos-mozart]] · [[string-quartets-mozart]] · [[serenades-and-divertimentos-mozart]] · [[last-three-symphonies-mozart]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

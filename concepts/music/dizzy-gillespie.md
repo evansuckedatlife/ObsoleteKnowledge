@@ -4,12 +4,11 @@ category: music
 defines:
   - Dizzy Gillespie
   - John Birks Gillespie
-related:
-  - "[[charlie-parker]]"
-  - "[[jazz]]"
-  - "[[bebop]]"
+related: ["[[charlie-parker]]", "[[jazz]]", "[[bebop]]", "[[harlem-renaissance]]"]
+requires: []
 lists:
   - "[[jazz-musicians]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[charlie-parker]] · [[thelonious-monk]] · [[miles-davis]] · [[luis-russell]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

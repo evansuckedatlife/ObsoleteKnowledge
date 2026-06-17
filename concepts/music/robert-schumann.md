@@ -3,7 +3,9 @@ type: person
 category: music
 defines: ["Robert Schumann", "Schumann"]
 related: ["[[romantic-era-composers]]"]
+requires: []
 lists: ["[[romantic-era-composers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ Robert Schumann (1810–1856) was a German composer, pianist, and one of the mos
 ## see also
 
 - [[franz-schubert]] · [[hector-berlioz]] · [[felix-mendelssohn]] · [[franz-liszt]] · [[giuseppe-verdi]] · [[richard-wagner]] · [[johannes-brahms]] · [[pyotr-ilyich-tchaikovsky]] · [[antonin-dvorak]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

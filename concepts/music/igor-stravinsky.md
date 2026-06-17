@@ -2,8 +2,10 @@
 type: person
 category: music
 defines: ["Igor Stravinsky"]
-related: ["[[romantic-era-composers]]", "[[ballets]]"]
+related: ["[[romantic-era-composers]]", "[[ballets]]", "[[modernism]]"]
+requires: []
 lists: ["[[20th-century-composers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +43,18 @@ Stravinsky was a cosmopolitan figure whose life spanned major historical shifts;
 ## see also
 
 - [[arnold-schoenberg]] · [[benjamin-britten]] · [[aaron-copland]] · [[sergei-prokofiev]] · [[dmitri-shostakovich]] · [[bela-bartok]] · [[charles-ives]] · [[maurice-ravel]] · [[george-gershwin]] · [[john-cage]] · [[sergei-rachmaninoff]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

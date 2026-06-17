@@ -3,7 +3,9 @@ type: work
 category: music
 defines: ["Piano Concerto No. 5 in E-flat major", "Emperor Concerto"]
 related: ["[[works-by-beethoven]]"]
+requires: []
 lists: ["[[works-by-beethoven]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Ludwig van Beethoven's *Piano Concerto No. 5 in E-flat major*, Op. 73 (1811), po
 ## see also
 
 - [[symphony-no-9-beethoven]] · [[symphony-no-5-beethoven]] · [[symphony-no-6-beethoven]] · [[symphony-no-3-beethoven]] · [[fidelio]] · [[missa-solemnis]] · [[moonlight-sonata]] · [[appassionata-sonata]] · [[wellingtons-victory]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

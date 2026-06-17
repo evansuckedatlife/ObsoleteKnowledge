@@ -2,8 +2,10 @@
 type: person
 category: music
 defines: ["Serei Prokofiev", "Sergei Prokofiev", "Prokofiev"]
-related: ["[[20th-century-composers]]", "[[ballets]]"]
+related: ["[[20th-century-composers]]", "[[ballets]]", "[[russian-revolution]]", "[[soviet-union]]"]
+requires: []
 lists: ["[[20th-century-composers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ Sergei Prokofiev (1891–1953) was a Soviet and Russian composer, pianist, and c
 ## see also
 
 - [[igor-stravinsky]] · [[arnold-schoenberg]] · [[benjamin-britten]] · [[aaron-copland]] · [[dmitri-shostakovich]] · [[bela-bartok]] · [[charles-ives]] · [[maurice-ravel]] · [[george-gershwin]] · [[john-cage]] · [[sergei-rachmaninoff]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

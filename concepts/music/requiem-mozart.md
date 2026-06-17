@@ -3,7 +3,9 @@ type: work
 category: music
 defines: ["Requiem in D minor", "Mozart Requiem", "Requiem (Mozart)"]
 related: ["[[works-by-mozart]]"]
+requires: []
 lists: ["[[works-by-mozart]]"]
+tour_order: 0
 read: false
 ---
 
@@ -43,6 +45,18 @@ The Requiem is enveloped in romantic myth, notably popularized by Alexander Push
 ## see also
 
 - [[the-magic-flute]] · [[cosi-fan-tutte]] · [[the-abduction-from-the-seraglio]] · [[piano-sonatas-mozart]] · [[piano-concertos-mozart]] · [[string-quartets-mozart]] · [[serenades-and-divertimentos-mozart]] · [[last-three-symphonies-mozart]] · [[other-symphonies-mozart]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

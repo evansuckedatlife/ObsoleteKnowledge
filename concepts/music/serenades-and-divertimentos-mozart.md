@@ -3,7 +3,9 @@ type: work
 category: music
 defines: ["Mozart serenades and divertimentos", "Eine kleine Nachtmusik", "A Musical Joke"]
 related: ["[[works-by-mozart]]"]
+requires: []
 lists: ["[[works-by-mozart]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Wolfgang Amadeus Mozart composed numerous serenades and divertimentos throughout
 ## see also
 
 - [[the-magic-flute]] · [[cosi-fan-tutte]] · [[requiem-mozart]] · [[the-abduction-from-the-seraglio]] · [[piano-sonatas-mozart]] · [[piano-concertos-mozart]] · [[string-quartets-mozart]] · [[last-three-symphonies-mozart]] · [[other-symphonies-mozart]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

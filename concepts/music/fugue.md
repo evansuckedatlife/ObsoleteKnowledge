@@ -2,13 +2,11 @@
 type: term
 category: music
 defines: [Fugue]
-related:
-  - "[[counterpoint]]"
-  - "[[bach]]"
-  - "[[subject-and-answer]]"
-  - "[[stretto]]"
+related: ["[[counterpoint]]", "[[bach]]", "[[subject-and-answer]]", "[[stretto]]"]
+requires: []
 lists:
   - "[[music-theory-terms]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +35,18 @@ A *fugue* is a polyphonic composition where two or more voices develop the same 
 ## see also
 
 - [[counterpoint]] · [[bach]] · [[polyphony]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

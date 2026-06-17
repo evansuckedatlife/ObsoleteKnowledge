@@ -2,8 +2,10 @@
 type: person
 category: music
 defines: ["Arnold Schoenberg", "Schoenberg"]
-related: ["[[20th-century-composers]]", "[[american-composers]]", "[[early-20th-century-european-composers]]"]
+related: ["[[20th-century-composers]]", "[[american-composers]]", "[[early-20th-century-european-composers]]", "[[modernism]]"]
+requires: []
 lists: ["[[20th-century-composers]]", "[[american-composers]]", "[[early-20th-century-european-composers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +44,18 @@ Born into a Jewish family in Vienna, Schoenberg converted to Lutheranism in his 
 ## see also
 
 - [[igor-stravinsky]] · [[benjamin-britten]] · [[aaron-copland]] · [[sergei-prokofiev]] · [[dmitri-shostakovich]] · [[bela-bartok]] · [[charles-ives]] · [[maurice-ravel]] · [[george-gershwin]] · [[john-cage]] · [[sergei-rachmaninoff]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

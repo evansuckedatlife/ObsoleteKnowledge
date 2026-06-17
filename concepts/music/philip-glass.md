@@ -2,8 +2,10 @@
 type: person
 category: music
 defines: ["Philip Glass", "Glass"]
-related: ["[[american-composers]]", "[[operas]]"]
+related: ["[[american-composers]]", "[[operas]]", "[[modernism]]"]
+requires: []
 lists: ["[[american-composers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Philip Glass (b. 1937) is a prolific American composer and pianist who is one of
 ## see also
 
 - [[george-gershwin]] · [[aaron-copland]] · [[arnold-schoenberg]] · [[leonard-bernstein]] · [[samuel-barber]] · [[charles-ives]] · [[john-cage]] · [[john-coolidge-adams]] · [[stephen-sondheim]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

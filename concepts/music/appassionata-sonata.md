@@ -3,7 +3,9 @@ type: work
 category: music
 defines: ["Appassionata Sonata", "Piano Sonata No. 23", "Appassionata"]
 related: ["[[works-by-beethoven]]", "[[piano-sonatas]]"]
+requires: []
 lists: ["[[works-by-beethoven]]", "[[piano-sonatas]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Ludwig van Beethoven's *Piano Sonata No. 23 in F minor*, Op. 57 (1805), widely k
 ## see also
 
 - [[symphony-no-9-beethoven]] · [[symphony-no-5-beethoven]] · [[symphony-no-6-beethoven]] · [[symphony-no-3-beethoven]] · [[fidelio]] · [[missa-solemnis]] · [[piano-concerto-no-5-beethoven]] · [[moonlight-sonata]] · [[wellingtons-victory]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: concept
 category: music
 defines: [Tonality, Tonal music]
 related: ["[[major-minor-tonality]]", "[[key-signature]]", "[[modulation]]", "[[chord-progression]]", "[[harmonic-function]]", "[[atonality]]", "[[twelve-tone-technique]]", "[[arnold-schoenberg]]", "[[classical-music]]", "[[the-well-tempered-clavier]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +38,18 @@ Tonality is the organizational system underlying most Western music from roughly
 ## see also
 
 - [[key-signature]] · [[chord-progression]] · [[modulation]] · [[major-minor-scale]] · [[harmonic-function]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

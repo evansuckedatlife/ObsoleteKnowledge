@@ -2,8 +2,10 @@
 type: work
 category: music
 defines: ["The Abduction from the Seraglio", "Die Entfuhrung aus dem Serail", "Die Entführung aus dem Serail"]
-related: ["[[operas]]", "[[works-by-mozart]]"]
+related: ["[[operas]]", "[[works-by-mozart]]", "[[ottoman-empire]]", "[[enlightenment]]"]
+requires: []
 lists: ["[[works-by-mozart]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ Wolfgang Amadeus Mozart's *The Abduction from the Seraglio* (1782) is a three-ac
 ## see also
 
 - [[the-magic-flute]] · [[cosi-fan-tutte]] · [[requiem-mozart]] · [[piano-sonatas-mozart]] · [[piano-concertos-mozart]] · [[string-quartets-mozart]] · [[serenades-and-divertimentos-mozart]] · [[last-three-symphonies-mozart]] · [[other-symphonies-mozart]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

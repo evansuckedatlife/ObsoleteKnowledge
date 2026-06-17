@@ -3,12 +3,11 @@ type: person
 category: music
 defines:
   - Thomas Tallis
-related:
-  - "[[chapel-royal]]"
-  - "[[english-renaissance]]"
-  - "[[motet]]"
+related: ["[[chapel-royal]]", "[[english-renaissance]]", "[[motet]]"]
+requires: []
 lists:
   - "[[pre-1700-composers]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[william-byrd]] · [[chapel-royal]] · [[english-renaissance]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

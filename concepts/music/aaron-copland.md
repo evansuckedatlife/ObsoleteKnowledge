@@ -2,8 +2,10 @@
 type: person
 category: music
 defines: ["Aaron Copland", "Copland"]
-related: ["[[20th-century-composers]]", "[[ballets]]"]
+related: ["[[20th-century-composers]]", "[[ballets]]", "[[united-states]]"]
+requires: []
 lists: ["[[20th-century-composers]]", "[[american-composers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ Aaron Copland (1900–1990) was an American composer often referred to as the "D
 ## see also
 
 - [[igor-stravinsky]] · [[arnold-schoenberg]] · [[benjamin-britten]] · [[sergei-prokofiev]] · [[dmitri-shostakovich]] · [[bela-bartok]] · [[charles-ives]] · [[maurice-ravel]] · [[george-gershwin]] · [[john-cage]] · [[sergei-rachmaninoff]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

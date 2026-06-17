@@ -2,13 +2,11 @@
 type: term
 category: music
 defines: [Syncopation, Syncopated]
-related:
-  - "[[rhythm]]"
-  - "[[beat]]"
-  - "[[jazz]]"
-  - "[[ragtime]]"
+related: ["[[rhythm]]", "[[beat]]", "[[jazz]]", "[[ragtime]]"]
+requires: []
 lists:
   - "[[music-theory-terms]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +34,18 @@ read: false
 ## see also
 
 - [[rhythm]] · [[jazz]] · [[ragtime]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

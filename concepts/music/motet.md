@@ -2,8 +2,10 @@
 type: concept
 category: music
 defines: [Motet]
-related: ["[[renaissance-music]]", "[[polyphony]]", "[[counterpoint]]", "[[josquin-des-prez]]", "[[orlando-di-lasso]]", "[[palestrrina]]", "[[liturgical-music]]", "[[sacred-music]]", "[[mass-form]]", "[[gregorian-chant]]", "[[medieval-music]]"]
+related: ["[[renaissance-music]]", "[[polyphony]]", "[[counterpoint]]", "[[josquin-des-prez]]", "[[orlando-di-lasso]]", "[[palestrrina]]", "[[liturgical-music]]", "[[sacred-music]]", "[[mass-form]]", "[[gregorian-chant]]", "[[medieval-music]]", "[[renaissance]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +38,18 @@ The motet is a polyphonic vocal composition on a sacred Latin text, originating 
 ## see also
 
 - [[renaissance-music]] · [[polyphony]] · [[josquin-des-prez]] · [[mass-form]] · [[counterpoint]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: phrase
 category: music
 defines: ["Una furtiva lagrima", "A furtive tear"]
 related: ["[[elisir-d-amore]]", "[[donizetti]]", "[[tenor]]"]
+requires: []
 lists: ["[[arias]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[che-gelida-manina]] · [[nessun-dorma]] · [[vesti-la-giubba]] · [[la-donna-e-mobile]] · [[casta-diva]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

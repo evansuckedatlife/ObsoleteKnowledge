@@ -2,8 +2,10 @@
 type: person
 category: music
 defines: ["Giuseppe Verdi", "Verdi"]
-related: ["[[romantic-era-composers]]", "[[operas]]"]
+related: ["[[romantic-era-composers]]", "[[operas]]", "[[italy]]"]
+requires: []
 lists: ["[[romantic-era-composers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ Giuseppe Verdi (1813–1901) was the dominant composer of 19th-century Italian o
 ## see also
 
 - [[franz-schubert]] · [[hector-berlioz]] · [[felix-mendelssohn]] · [[robert-schumann]] · [[franz-liszt]] · [[richard-wagner]] · [[johannes-brahms]] · [[pyotr-ilyich-tchaikovsky]] · [[antonin-dvorak]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

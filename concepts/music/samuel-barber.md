@@ -3,7 +3,9 @@ type: person
 category: music
 defines: ["Samuel Barber", "Barber"]
 related: ["[[american-composers]]"]
+requires: []
 lists: ["[[american-composers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Samuel Barber (1910–1981) was an American composer of orchestral, choral, and 
 ## see also
 
 - [[george-gershwin]] · [[aaron-copland]] · [[arnold-schoenberg]] · [[leonard-bernstein]] · [[philip-glass]] · [[charles-ives]] · [[john-cage]] · [[john-coolidge-adams]] · [[stephen-sondheim]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

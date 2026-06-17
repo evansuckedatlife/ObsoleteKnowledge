@@ -4,12 +4,11 @@ category: music
 defines:
   - Giovanni Pierluigi da Palestrina
   - Palestrina
-related:
-  - "[[papal-choir]]"
-  - "[[mass-form]]"
-  - "[[renaissance-music]]"
+related: ["[[papal-choir]]", "[[mass-form]]", "[[renaissance-music]]", "[[renaissance]]", "[[italy]]"]
+requires: []
 lists:
   - "[[pre-1700-composers]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[mass-form]] · [[papal-choir]] · [[renaissance-music]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

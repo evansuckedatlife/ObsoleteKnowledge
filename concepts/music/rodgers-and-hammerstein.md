@@ -3,7 +3,9 @@ type: person
 category: music
 defines: [Rodgers and Hammerstein]
 related: ["[[oklahoma]]", "[[the-sound-of-music]]", "[[musicals-part-1]]", "[[south-pacific]]", "[[the-king-and-i]]", "[[carousel]]", "[[musical-theatre]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +38,18 @@ Rodgers and Hammerstein was the legendary musical-theatre partnership between co
 ## see also
 
 - [[oklahoma]] · [[the-sound-of-music]] · [[south-pacific]] · [[the-king-and-i]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

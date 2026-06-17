@@ -2,8 +2,10 @@
 type: work
 category: music
 defines: ["La boheme", "La bohème"]
-related: ["[[operas]]"]
+related: ["[[operas]]", "[[italy]]"]
+requires: []
 lists: ["[[operas]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ Giacomo Puccini's *La bohème* (1896) is a four-act Italian opera that stands as
 ## see also
 
 - [[carmen]] · [[aida]] · [[the-marriage-of-figaro]] · [[the-barber-of-seville]] · [[william-tell]] · [[don-giovanni]] · [[salome]] · [[boris-godunov]] · [[madama-butterfly]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

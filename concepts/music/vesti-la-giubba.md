@@ -3,11 +3,20 @@ type: phrase
 category: music
 defines: ["Vesti la giubba", "Put on the costume"]
 related: ["[[pagliacci]]", "[[leoncavallo]]", "[[verismo-opera]]"]
+requires: ["[[giuseppe-verdi]]"]
 lists: ["[[arias]]"]
+tour_order: 1
 read: false
 ---
 
 # Vesti la giubba
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ read: false
 ## see also
 
 - [[nessun-dorma]] · [[la-donna-e-mobile]] · [[habanera]] · [[una-furtiva-lagrima]] · [[casta-diva]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

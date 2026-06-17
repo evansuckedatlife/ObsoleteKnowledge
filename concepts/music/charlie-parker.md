@@ -4,14 +4,11 @@ category: music
 defines:
   - Charlie Parker
   - Bird
-related:
-  - "[[dizzy-gillespie]]"
-  - "[[miles-davis]]"
-  - "[[john-coltrane]]"
-  - "[[bebop]]"
-  - "[[jazz]]"
+related: ["[[dizzy-gillespie]]", "[[miles-davis]]", "[[john-coltrane]]", "[[bebop]]", "[[jazz]]", "[[harlem-renaissance]]"]
+requires: []
 lists:
   - "[[jazz-musicians]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +38,18 @@ read: false
 ## see also
 
 - [[dizzy-gillespie]] · [[miles-davis]] · [[john-coltrane]] · [[thelonious-monk]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,13 +2,11 @@
 type: concept
 category: music
 defines: [Gugak, Korean gugak, Korean classical music]
-related:
-  - "[[korea]]"
-  - "[[janggu]]"
-  - "[[geomungo]]"
-  - "[[daegeum]]"
+related: ["[[korea]]", "[[janggu]]", "[[geomungo]]", "[[daegeum]]"]
+requires: []
 lists:
   - "[[non-western-classical-music-traditions]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[korea]] · [[gayageum]] · [[pansori]] · [[janggu]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,8 +2,10 @@
 type: work
 category: music
 defines: ["Madama Butterfly", "Madame Butterfly"]
-related: ["[[operas]]", "[[la-boheme]]"]
+related: ["[[operas]]", "[[la-boheme]]", "[[japan]]"]
+requires: []
 lists: ["[[operas]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ Giacomo Puccini's *Madama Butterfly* (1904) is a tragic three-act Italian opera 
 ## see also
 
 - [[carmen]] · [[aida]] · [[the-marriage-of-figaro]] · [[the-barber-of-seville]] · [[william-tell]] · [[don-giovanni]] · [[salome]] · [[boris-godunov]] · [[la-boheme]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

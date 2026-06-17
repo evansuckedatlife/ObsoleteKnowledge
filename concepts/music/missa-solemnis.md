@@ -3,7 +3,9 @@ type: work
 category: music
 defines: ["Missa solemnis", "Missa solemnis in D major"]
 related: ["[[works-by-beethoven]]"]
+requires: []
 lists: ["[[works-by-beethoven]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Ludwig van Beethoven's *Missa solemnis in D major*, Op. 123 (1823) is a monument
 ## see also
 
 - [[symphony-no-9-beethoven]] · [[symphony-no-5-beethoven]] · [[symphony-no-6-beethoven]] · [[symphony-no-3-beethoven]] · [[fidelio]] · [[piano-concerto-no-5-beethoven]] · [[moonlight-sonata]] · [[appassionata-sonata]] · [[wellingtons-victory]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

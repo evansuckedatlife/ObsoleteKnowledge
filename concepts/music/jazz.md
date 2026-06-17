@@ -2,8 +2,10 @@
 type: concept
 category: music
 defines: [Jazz]
-related: ["[[louis-armstrong]]", "[[duke-ellington]]", "[[charlie-parker]]", "[[miles-davis]]", "[[john-coltrane]]", "[[thelonious-monk]]", "[[dizzy-gillespie]]", "[[the-jazz-age]]", "[[blues]]", "[[improvisation]]", "[[syncopation]]", "[[harlem-renaissance]]", "[[swing-era]]", "[[bebop]]", "[[cool-jazz]]"]
+related: ["[[louis-armstrong]]", "[[duke-ellington]]", "[[charlie-parker]]", "[[miles-davis]]", "[[john-coltrane]]", "[[thelonious-monk]]", "[[dizzy-gillespie]]", "[[the-jazz-age]]", "[[blues]]", "[[improvisation]]", "[[syncopation]]", "[[harlem-renaissance]]", "[[swing-era]]", "[[bebop]]", "[[cool-jazz]]", "[[united-states]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -63,6 +65,18 @@ Jazz stands unique in 20th-century culture as a democratizing force: a music cre
 ## see also
 
 - [[miles-davis]] · [[john-coltrane]] · [[charlie-parker]] · [[thelonious-monk]] · [[dizzy-gillespie]] · [[blues]] · [[syncopation]] · [[improvisation]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

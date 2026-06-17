@@ -2,8 +2,10 @@
 type: work
 category: music
 defines: ["Symphony No. 3 in E-flat major", "Eroica Symphony", "Eroica"]
-related: ["[[works-by-beethoven]]"]
+related: ["[[works-by-beethoven]]", "[[french-revolution]]"]
+requires: []
 lists: ["[[works-by-beethoven]]"]
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +38,18 @@ Ludwig van Beethoven's *Symphony No. 3 in E-flat major*, Op. 55 (1804), widely k
 ## see also
 
 - [[symphony-no-9-beethoven]] · [[symphony-no-5-beethoven]] · [[symphony-no-6-beethoven]] · [[fidelio]] · [[missa-solemnis]] · [[piano-concerto-no-5-beethoven]] · [[moonlight-sonata]] · [[appassionata-sonata]] · [[wellingtons-victory]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

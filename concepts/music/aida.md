@@ -2,12 +2,21 @@
 type: work
 category: music
 defines: [Aida]
-related: ["[[operas]]"]
+related: ["[[operas]]", "[[italy]]"]
+requires: ["[[giuseppe-verdi]]"]
 lists: ["[[operas]]"]
+tour_order: 1
 read: false
 ---
 
 # Aida
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ Giuseppe Verdi's *Aida* (1871) is a grand opera in four acts set in ancient Egyp
 ## see also
 
 - [[carmen]] · [[the-marriage-of-figaro]] · [[the-barber-of-seville]] · [[william-tell]] · [[don-giovanni]] · [[salome]] · [[boris-godunov]] · [[la-boheme]] · [[madama-butterfly]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

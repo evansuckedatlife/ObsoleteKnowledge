@@ -4,12 +4,11 @@ category: music
 defines:
   - Ella Fitzgerald
   - The First Lady of Song
-related:
-  - "[[billie-holiday]]"
-  - "[[jazz]]"
-  - "[[louis-armstrong]]"
+related: ["[[billie-holiday]]", "[[jazz]]", "[[louis-armstrong]]", "[[harlem-renaissance]]"]
+requires: []
 lists:
   - "[[jazz-musicians]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[billie-holiday]] · [[louis-armstrong]] · [[oscar-peterson]] · [[duke-ellington]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

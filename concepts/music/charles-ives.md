@@ -2,8 +2,10 @@
 type: person
 category: music
 defines: ["Charles Ives", "Ives"]
-related: ["[[20th-century-composers]]", "[[american-composers]]"]
+related: ["[[20th-century-composers]]", "[[american-composers]]", "[[united-states]]"]
+requires: []
 lists: ["[[20th-century-composers]]", "[[american-composers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Charles Ives (1874–1954) was an American modernist composer who is now recogni
 ## see also
 
 - [[igor-stravinsky]] · [[arnold-schoenberg]] · [[benjamin-britten]] · [[aaron-copland]] · [[sergei-prokofiev]] · [[dmitri-shostakovich]] · [[bela-bartok]] · [[maurice-ravel]] · [[george-gershwin]] · [[john-cage]] · [[sergei-rachmaninoff]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

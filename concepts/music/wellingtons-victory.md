@@ -3,7 +3,9 @@ type: work
 category: music
 defines: ["Wellington's Victory", "Wellingtons Sieg", "Battle Symphony"]
 related: ["[[works-by-beethoven]]"]
+requires: []
 lists: ["[[works-by-beethoven]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Ludwig van Beethoven's *Wellington's Victory, or the Battle of Vitoria*, Op. 91 
 ## see also
 
 - [[symphony-no-9-beethoven]] · [[symphony-no-5-beethoven]] · [[symphony-no-6-beethoven]] · [[symphony-no-3-beethoven]] · [[fidelio]] · [[missa-solemnis]] · [[piano-concerto-no-5-beethoven]] · [[moonlight-sonata]] · [[appassionata-sonata]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

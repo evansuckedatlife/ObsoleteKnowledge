@@ -2,8 +2,10 @@
 type: work
 category: music
 defines: ["The Magic Flute", "Die Zauberflote", "Die Zauberflöte"]
-related: ["[[operas]]", "[[works-by-mozart]]"]
+related: ["[[operas]]", "[[works-by-mozart]]", "[[enlightenment]]"]
+requires: []
 lists: ["[[works-by-mozart]]"]
+tour_order: 0
 read: false
 ---
 
@@ -47,6 +49,18 @@ Wolfgang Amadeus Mozart's *The Magic Flute* (1791) is a two-act *Singspiel* (a G
 ## see also
 
 - [[carmen]] · [[aida]] · [[the-marriage-of-figaro]] · [[the-barber-of-seville]] · [[william-tell]] · [[don-giovanni]] · [[salome]] · [[boris-godunov]] · [[la-boheme]] · [[madama-butterfly]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

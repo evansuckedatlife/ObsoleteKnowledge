@@ -3,7 +3,9 @@ type: phrase
 category: music
 defines: ["Che gelida manina", "What a cold little hand"]
 related: ["[[la-boheme]]", "[[puccini]]", "[[tenor]]"]
+requires: []
 lists: ["[[arias]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[nessun-dorma]] · [[vesti-la-giubba]] · [[una-furtiva-lagrima]] · [[casta-diva]] · [[habanera]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

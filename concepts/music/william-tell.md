@@ -3,7 +3,9 @@ type: work
 category: music
 defines: ["William Tell", "Guillaume Tell"]
 related: ["[[operas]]", "[[the-barber-of-seville]]"]
+requires: []
 lists: ["[[operas]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ Gioachino Rossini's *William Tell* (1829) is a four-act French grand opera based
 ## see also
 
 - [[carmen]] · [[aida]] · [[the-marriage-of-figaro]] · [[the-barber-of-seville]] · [[don-giovanni]] · [[salome]] · [[boris-godunov]] · [[la-boheme]] · [[madama-butterfly]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

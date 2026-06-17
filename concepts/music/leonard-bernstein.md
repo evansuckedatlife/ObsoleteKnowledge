@@ -3,7 +3,9 @@ type: person
 category: music
 defines: ["Leonard Bernstein", "Bernstein"]
 related: ["[[american-composers]]"]
+requires: []
 lists: ["[[american-composers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ Leonard Bernstein (1918–1990) was a towering American composer, conductor, aut
 ## see also
 
 - [[george-gershwin]] · [[aaron-copland]] · [[arnold-schoenberg]] · [[philip-glass]] · [[samuel-barber]] · [[charles-ives]] · [[john-cage]] · [[john-coolidge-adams]] · [[stephen-sondheim]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,13 +2,11 @@
 type: concept
 category: music
 defines: [Gamelan, Indonesian gamelan]
-related:
-  - "[[java]]"
-  - "[[bali]]"
-  - "[[metallophone]]"
-  - "[[wayang-kulit]]"
+related: ["[[java]]", "[[bali]]", "[[metallophone]]", "[[wayang-kulit]]"]
+requires: []
 lists:
   - "[[non-western-classical-music-traditions]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[wayang-kulit]] · [[java]] · [[bali]] · [[metallophone]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

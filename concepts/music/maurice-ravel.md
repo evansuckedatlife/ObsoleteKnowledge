@@ -2,8 +2,10 @@
 type: person
 category: music
 defines: ["Maurice Ravel", "Ravel"]
-related: ["[[20th-century-composers]]", "[[early-20th-century-european-composers]]"]
+related: ["[[20th-century-composers]]", "[[early-20th-century-european-composers]]", "[[modernism]]"]
+requires: []
 lists: ["[[20th-century-composers]]", "[[early-20th-century-european-composers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Maurice Ravel (1875–1937) was a French composer, pianist, and conductor who is
 ## see also
 
 - [[igor-stravinsky]] · [[arnold-schoenberg]] · [[benjamin-britten]] · [[aaron-copland]] · [[sergei-prokofiev]] · [[dmitri-shostakovich]] · [[bela-bartok]] · [[charles-ives]] · [[george-gershwin]] · [[john-cage]] · [[sergei-rachmaninoff]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

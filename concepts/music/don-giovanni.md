@@ -2,8 +2,10 @@
 type: work
 category: music
 defines: ["Don Giovanni"]
-related: ["[[operas]]", "[[works-by-mozart]]"]
+related: ["[[operas]]", "[[works-by-mozart]]", "[[italy]]"]
+requires: []
 lists: ["[[operas]]"]
+tour_order: 0
 read: false
 ---
 
@@ -48,6 +50,18 @@ Wolfgang Amadeus Mozart's *Don Giovanni* (1787) is a two-act opera formally clas
 ## see also
 
 - [[carmen]] · [[aida]] · [[the-marriage-of-figaro]] · [[the-barber-of-seville]] · [[william-tell]] · [[salome]] · [[boris-godunov]] · [[la-boheme]] · [[madama-butterfly]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

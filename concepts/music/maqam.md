@@ -2,14 +2,11 @@
 type: concept
 category: music
 defines: [Maqam, Arabic maqam, Maqamat]
-related:
-  - "[[middle-east]]"
-  - "[[arab-world]]"
-  - "[[oud]]"
-  - "[[qanun]]"
-  - "[[modal-music]]"
+related: ["[[middle-east]]", "[[arab-world]]", "[[oud]]", "[[qanun]]", "[[modal-music]]"]
+requires: []
 lists:
   - "[[non-western-classical-music-traditions]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +37,18 @@ The *maqam* is a melodic system fundamental to Arabic classical music, analogous
 ## see also
 
 - [[oud]] · [[qanun]] · [[middle-east]] · [[arab-world]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

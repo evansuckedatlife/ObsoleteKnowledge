@@ -3,12 +3,11 @@ type: person
 category: music
 defines:
   - Giovanni Gabrieli
-related:
-  - "[[st-marks-basilica]]"
-  - "[[renaissance-music]]"
-  - "[[polychoral-music]]"
+related: ["[[st-marks-basilica]]", "[[renaissance-music]]", "[[polychoral-music]]", "[[renaissance]]", "[[italy]]"]
+requires: []
 lists:
   - "[[pre-1700-composers]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[andrea-gabrieli]] · [[st-marks-basilica]] · [[polychoral-music]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

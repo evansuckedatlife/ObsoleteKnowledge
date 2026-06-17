@@ -2,8 +2,10 @@
 type: concept
 category: music
 defines: [Renaissance music, Renaissance era in music]
-related: ["[[josquin-des-prez]]", "[[orlando-di-lasso]]", "[[giovanni-pierluigi-da-palestrina]]", "[[claudio-monteverdi]]", "[[polyphony]]", "[[motet]]", "[[madrigal]]", "[[mass-form]]", "[[counterpoint]]", "[[humanism]]", "[[italy]]", "[[reformation]]"]
+related: ["[[josquin-des-prez]]", "[[orlando-di-lasso]]", "[[giovanni-pierluigi-da-palestrina]]", "[[claudio-monteverdi]]", "[[polyphony]]", "[[motet]]", "[[madrigal]]", "[[mass-form]]", "[[counterpoint]]", "[[humanism]]", "[[italy]]", "[[reformation]]", "[[renaissance]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +40,18 @@ Renaissance music (roughly 1400–1600) is the transitional period between medie
 ## see also
 
 - [[josquin-des-prez]] · [[orlando-di-lasso]] · [[claudio-monteverdi]] · [[polyphony]] · [[madrigal]] · [[motet]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

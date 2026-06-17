@@ -3,7 +3,9 @@ type: phrase
 category: music
 defines: ["Der Hölle Rache", "Queen of the Night aria", "The Queen of the Night's aria"]
 related: ["[[the-magic-flute]]", "[[mozart]]", "[[coloratura-soprano]]"]
+requires: []
 lists: ["[[arias]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[nessun-dorma]] · [[la-donna-e-mobile]] · [[habanera]] · [[vesti-la-giubba]] · [[casta-diva]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

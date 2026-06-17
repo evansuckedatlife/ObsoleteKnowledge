@@ -2,8 +2,10 @@
 type: person
 category: music
 defines: ["Johannes Brahms", "Brahms"]
-related: ["[[romantic-era-composers]]", "[[robert-schumann]]"]
+related: ["[[romantic-era-composers]]", "[[robert-schumann]]", "[[germany]]"]
+requires: []
 lists: ["[[romantic-era-composers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ Johannes Brahms (1833–1897) was a German composer, pianist, and conductor who 
 ## see also
 
 - [[franz-schubert]] · [[hector-berlioz]] · [[felix-mendelssohn]] · [[robert-schumann]] · [[franz-liszt]] · [[giuseppe-verdi]] · [[richard-wagner]] · [[pyotr-ilyich-tchaikovsky]] · [[antonin-dvorak]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

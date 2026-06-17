@@ -2,8 +2,10 @@
 type: phrase
 category: music
 defines: ["O mio babbino caro", "Oh my dear father"]
-related: ["[[gianni-schicchi]]", "[[puccini]]", "[[soprano]]"]
+related: ["[[gianni-schicchi]]", "[[puccini]]", "[[soprano]]", "[[italy]]"]
+requires: []
 lists: ["[[arias]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[che-gelida-manina]] · [[nessun-dorma]] · [[vesti-la-giubba]] · [[casta-diva]] · [[una-furtiva-lagrima]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

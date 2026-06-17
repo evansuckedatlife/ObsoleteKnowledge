@@ -5,12 +5,11 @@ defines:
   - Billie Holiday
   - Lady Day
   - Eleanora Fagan
-related:
-  - "[[ella-fitzgerald]]"
-  - "[[jazz]]"
-  - "[[louis-armstrong]]"
+related: ["[[ella-fitzgerald]]", "[[jazz]]", "[[louis-armstrong]]", "[[harlem-renaissance]]"]
+requires: []
 lists:
   - "[[jazz-musicians]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[ella-fitzgerald]] · [[lester-young]] · [[louis-armstrong]] · [[bessie-smith]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

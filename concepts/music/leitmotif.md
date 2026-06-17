@@ -2,12 +2,11 @@
 type: term
 category: music
 defines: [Leitmotif, Leitmotiv]
-related:
-  - "[[wagner]]"
-  - "[[opera]]"
-  - "[[motif]]"
+related: ["[[wagner]]", "[[opera]]", "[[motif]]"]
+requires: []
 lists:
   - "[[music-theory-terms]]"
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +34,18 @@ A *leitmotif* (German: "leading motif") is a recurring melodic or harmonic phras
 ## see also
 
 - [[wagner]] · [[opera]] · [[motif]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

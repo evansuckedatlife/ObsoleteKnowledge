@@ -2,13 +2,11 @@
 type: concept
 category: music
 defines: [Guqin, Chinese guqin, Qin]
-related:
-  - "[[china]]"
-  - "[[literati-music]]"
-  - "[[confucianism]]"
-  - "[[daoism]]"
+related: ["[[china]]", "[[literati-music]]", "[[confucianism]]", "[[daoism]]"]
+requires: []
 lists:
   - "[[non-western-classical-music-traditions]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ The *guqin* (or *qin*) is an ancient Chinese plucked-string instrument and its a
 ## see also
 
 - [[china]] · [[confucianism]] · [[daoism]] · [[literati-music]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: work
 category: music
 defines: ["The Barber of Seville", "Il barbiere di Siviglia"]
 related: ["[[operas]]", "[[the-marriage-of-figaro]]"]
+requires: []
 lists: ["[[operas]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ Gioachino Rossini's *The Barber of Seville* (1816) is a two-act *opera buffa* (c
 ## see also
 
 - [[carmen]] · [[aida]] · [[the-marriage-of-figaro]] · [[william-tell]] · [[don-giovanni]] · [[salome]] · [[boris-godunov]] · [[la-boheme]] · [[madama-butterfly]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

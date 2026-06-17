@@ -3,12 +3,11 @@ type: person
 category: music
 defines:
   - William Byrd
-related:
-  - "[[english-renaissance]]"
-  - "[[madrigal]]"
-  - "[[mass-form]]"
+related: ["[[english-renaissance]]", "[[madrigal]]", "[[mass-form]]"]
+requires: []
 lists:
   - "[[pre-1700-composers]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[thomas-tallis]] · [[english-renaissance]] · [[madrigal]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

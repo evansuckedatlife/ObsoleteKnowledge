@@ -2,8 +2,10 @@
 type: phrase
 category: music
 defines: [Habanera, "L'amour est un oiseau rebelle"]
-related: ["[[carmen]]", "[[mezzo-soprano]]", "[[spanish-music-in-opera]]"]
+related: ["[[carmen]]", "[[mezzo-soprano]]", "[[spanish-music-in-opera]]", "[[spain]]"]
+requires: []
 lists: ["[[arias]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ The *Habanera* (*Love is a rebel bird*) is the seductive entrance aria sung by C
 ## see also
 
 - [[nessun-dorma]] · [[der-holle-rache]] · [[la-donna-e-mobile]] · [[vesti-la-giubba]] · [[casta-diva]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

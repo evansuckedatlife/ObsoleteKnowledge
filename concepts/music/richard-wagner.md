@@ -2,8 +2,10 @@
 type: person
 category: music
 defines: ["Richard Wagner"]
-related: ["[[romantic-era-composers]]", "[[operas]]"]
+related: ["[[romantic-era-composers]]", "[[operas]]", "[[germany]]"]
+requires: []
 lists: ["[[romantic-era-composers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -44,6 +46,18 @@ Wagner remains one of the most controversial figures in cultural history. While 
 ## see also
 
 - [[franz-schubert]] · [[hector-berlioz]] · [[felix-mendelssohn]] · [[robert-schumann]] · [[franz-liszt]] · [[giuseppe-verdi]] · [[johannes-brahms]] · [[pyotr-ilyich-tchaikovsky]] · [[antonin-dvorak]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

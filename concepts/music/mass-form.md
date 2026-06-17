@@ -2,8 +2,10 @@
 type: concept
 category: music
 defines: [Mass form, Musical mass]
-related: ["[[renaissance-music]]", "[[baroque-music]]", "[[polyphony]]", "[[counterpoint]]", "[[motet]]", "[[requiem]]", "[[giovanni-pierluigi-da-palestrina]]", "[[w-a-mozart]]", "[[ludwig-van-beethoven]]", "[[liturgical-music]]", "[[sacred-music]]"]
+related: ["[[renaissance-music]]", "[[baroque-music]]", "[[polyphony]]", "[[counterpoint]]", "[[motet]]", "[[requiem]]", "[[giovanni-pierluigi-da-palestrina]]", "[[w-a-mozart]]", "[[ludwig-van-beethoven]]", "[[liturgical-music]]", "[[sacred-music]]", "[[renaissance]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +39,18 @@ The mass is a large-scale polyphonic composition setting the texts of the Cathol
 ## see also
 
 - [[renaissance-music]] · [[polyphony]] · [[motet]] · [[requiem]] · [[giovanni-pierluigi-da-palestrina]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

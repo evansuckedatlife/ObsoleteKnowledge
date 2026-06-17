@@ -2,13 +2,11 @@
 type: concept
 category: music
 defines: [Carnatic Music, Carnatic classical music, South Indian classical music]
-related:
-  - "[[hindustani-classical-music]]"
-  - "[[raga]]"
-  - "[[tala]]"
-  - "[[veena]]"
+related: ["[[hindustani-classical-music]]", "[[raga]]", "[[tala]]", "[[veena]]", "[[india]]"]
+requires: []
 lists:
   - "[[non-western-classical-music-traditions]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[hindustani-classical-music]] · [[raga]] · [[veena]] · [[mridangam]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

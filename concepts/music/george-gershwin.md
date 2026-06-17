@@ -2,8 +2,10 @@
 type: person
 category: music
 defines: ["George Gershwin"]
-related: ["[[20th-century-composers]]", "[[operas]]"]
+related: ["[[20th-century-composers]]", "[[operas]]", "[[united-states]]", "[[modernism]]"]
+requires: []
 lists: ["[[20th-century-composers]]", "[[american-composers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +43,18 @@ Gershwin was a key figure of the Roaring Twenties, capturing the energy of New Y
 ## see also
 
 - [[igor-stravinsky]] · [[arnold-schoenberg]] · [[benjamin-britten]] · [[aaron-copland]] · [[sergei-prokofiev]] · [[dmitri-shostakovich]] · [[bela-bartok]] · [[charles-ives]] · [[maurice-ravel]] · [[john-cage]] · [[sergei-rachmaninoff]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

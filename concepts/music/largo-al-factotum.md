@@ -2,8 +2,10 @@
 type: phrase
 category: music
 defines: ["Largo al factotum", "Figaro's aria"]
-related: ["[[the-barber-of-seville]]", "[[rossini]]", "[[baritone]]"]
+related: ["[[the-barber-of-seville]]", "[[rossini]]", "[[baritone]]", "[[italy]]"]
+requires: []
 lists: ["[[arias]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[habanera]] · [[la-donna-e-mobile]] · [[vesti-la-giubba]] · [[una-furtiva-lagrima]] · [[nessun-dorma]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

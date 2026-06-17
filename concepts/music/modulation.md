@@ -2,13 +2,11 @@
 type: term
 category: music
 defines: [Modulation]
-related:
-  - "[[key-signature]]"
-  - "[[tonality]]"
-  - "[[sonata-form]]"
-  - "[[pivot-chord]]"
+related: ["[[key-signature]]", "[[tonality]]", "[[sonata-form]]", "[[pivot-chord]]"]
+requires: []
 lists:
   - "[[music-theory-terms]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +34,18 @@ read: false
 ## see also
 
 - [[sonata-form]] · [[key-signature]] · [[tonality]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

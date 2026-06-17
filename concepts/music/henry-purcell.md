@@ -3,12 +3,11 @@ type: person
 category: music
 defines:
   - Henry Purcell
-related:
-  - "[[baroque-music]]"
-  - "[[opera-english]]"
-  - "[[sacred-music-english]]"
+related: ["[[baroque-music]]", "[[opera-english]]", "[[sacred-music-english]]", "[[england]]"]
+requires: []
 lists:
   - "[[pre-1700-composers]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[dido-and-aeneas]] · [[baroque-music]] · [[chapel-royal]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

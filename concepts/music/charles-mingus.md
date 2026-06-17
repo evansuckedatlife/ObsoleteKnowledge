@@ -3,12 +3,11 @@ type: person
 category: music
 defines:
   - Charles Mingus
-related:
-  - "[[duke-ellington]]"
-  - "[[jazz]]"
-  - "[[john-coltrane]]"
+related: ["[[duke-ellington]]", "[[jazz]]", "[[john-coltrane]]", "[[harlem-renaissance]]"]
+requires: []
 lists:
   - "[[jazz-musicians]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[duke-ellington]] · [[john-coltrane]] · [[eric-dolphy]] · [[dannie-richmond]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

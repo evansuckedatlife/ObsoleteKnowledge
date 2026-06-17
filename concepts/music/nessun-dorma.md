@@ -2,8 +2,10 @@
 type: phrase
 category: music
 defines: ["Nessun dorma", "None shall sleep"]
-related: ["[[turandot]]", "[[luciano-pavarotti]]", "[[puccini-arias]]"]
+related: ["[[turandot]]", "[[luciano-pavarotti]]", "[[puccini-arias]]", "[[italy]]"]
+requires: []
 lists: ["[[arias]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[che-gelida-manina]] · [[vesti-la-giubba]] · [[o-mio-babbino-caro]] · [[una-furtiva-lagrima]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

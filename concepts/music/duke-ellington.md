@@ -4,12 +4,11 @@ category: music
 defines:
   - Duke Ellington
   - Edward Kennedy Ellington
-related:
-  - "[[louis-armstrong]]"
-  - "[[jazz]]"
-  - "[[count-basie]]"
+related: ["[[louis-armstrong]]", "[[jazz]]", "[[count-basie]]", "[[harlem-renaissance]]"]
+requires: []
 lists:
   - "[[jazz-musicians]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[louis-armstrong]] · [[count-basie]] · [[charles-mingus]] · [[miles-davis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

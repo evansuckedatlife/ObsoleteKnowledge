@@ -2,13 +2,11 @@
 type: term
 category: music
 defines: [Key Signature]
-related:
-  - "[[tonality]]"
-  - "[[major-scale]]"
-  - "[[minor-scale]]"
-  - "[[accidental]]"
+related: ["[[tonality]]", "[[major-scale]]", "[[minor-scale]]", "[[accidental]]"]
+requires: []
 lists:
   - "[[music-theory-terms]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +34,18 @@ A *key signature* is a set of sharps or flats written at the beginning of a staf
 ## see also
 
 - [[tonality]] · [[major-scale]] · [[minor-scale]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

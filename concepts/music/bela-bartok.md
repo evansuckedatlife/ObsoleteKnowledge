@@ -3,7 +3,9 @@ type: person
 category: music
 defines: ["Béla Bartók", "Bartók"]
 related: ["[[20th-century-composers]]", "[[early-20th-century-european-composers]]"]
+requires: []
 lists: ["[[20th-century-composers]]", "[[early-20th-century-european-composers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ Béla Bartók (1881–1945) was a Hungarian composer, pianist, and ethnomusicolo
 ## see also
 
 - [[igor-stravinsky]] · [[arnold-schoenberg]] · [[benjamin-britten]] · [[aaron-copland]] · [[sergei-prokofiev]] · [[dmitri-shostakovich]] · [[charles-ives]] · [[maurice-ravel]] · [[george-gershwin]] · [[john-cage]] · [[sergei-rachmaninoff]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

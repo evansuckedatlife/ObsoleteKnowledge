@@ -3,12 +3,11 @@ type: person
 category: music
 defines:
   - John Coltrane
-related:
-  - "[[miles-davis]]"
-  - "[[charlie-parker]]"
-  - "[[jazz]]"
+related: ["[[miles-davis]]", "[[charlie-parker]]", "[[jazz]]", "[[united-states]]", "[[harlem-renaissance]]"]
+requires: []
 lists:
   - "[[jazz-musicians]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +36,18 @@ read: false
 ## see also
 
 - [[miles-davis]] · [[charlie-parker]] · [[thelonious-monk]] · [[elvin-jones]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

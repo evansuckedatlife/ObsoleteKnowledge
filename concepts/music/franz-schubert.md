@@ -3,7 +3,9 @@ type: person
 category: music
 defines: ["Franz Schubert", "Schubert"]
 related: ["[[romantic-era-composers]]"]
+requires: []
 lists: ["[[romantic-era-composers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ Franz Schubert (1797–1828) was an Austrian composer who bridged the late Class
 ## see also
 
 - [[hector-berlioz]] · [[felix-mendelssohn]] · [[robert-schumann]] · [[franz-liszt]] · [[giuseppe-verdi]] · [[richard-wagner]] · [[johannes-brahms]] · [[pyotr-ilyich-tchaikovsky]] · [[antonin-dvorak]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

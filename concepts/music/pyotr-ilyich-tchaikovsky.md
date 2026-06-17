@@ -3,7 +3,9 @@ type: person
 category: music
 defines: ["Pyotr Ilyich Tchaikovsky", "Tchaikovsky"]
 related: ["[[romantic-era-composers]]", "[[ballets]]"]
+requires: []
 lists: ["[[romantic-era-composers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +43,18 @@ Tchaikovsky's personal life was marked by depression and isolation, exacerbated 
 ## see also
 
 - [[franz-schubert]] · [[hector-berlioz]] · [[felix-mendelssohn]] · [[robert-schumann]] · [[franz-liszt]] · [[giuseppe-verdi]] · [[richard-wagner]] · [[johannes-brahms]] · [[antonin-dvorak]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

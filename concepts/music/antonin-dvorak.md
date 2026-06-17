@@ -3,7 +3,9 @@ type: person
 category: music
 defines: ["Antonin Dvorak", "Antonín Dvořák", "Dvorak"]
 related: ["[[romantic-era-composers]]"]
+requires: []
 lists: ["[[romantic-era-composers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ Antonín Dvořák (1841–1904) was a Czech composer who achieved international 
 ## see also
 
 - [[franz-schubert]] · [[hector-berlioz]] · [[felix-mendelssohn]] · [[robert-schumann]] · [[franz-liszt]] · [[giuseppe-verdi]] · [[richard-wagner]] · [[johannes-brahms]] · [[pyotr-ilyich-tchaikovsky]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

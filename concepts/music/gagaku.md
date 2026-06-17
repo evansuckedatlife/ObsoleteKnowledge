@@ -2,13 +2,11 @@
 type: concept
 category: music
 defines: [Gagaku, Japanese gagaku, Court music of Japan]
-related:
-  - "[[japan]]"
-  - "[[imperial-court]]"
-  - "[[noh-theater]]"
-  - "[[shinto]]"
+related: ["[[japan]]", "[[imperial-court]]", "[[noh-theater]]", "[[shinto]]"]
+requires: []
 lists:
   - "[[non-western-classical-music-traditions]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[japan]] · [[noh-theater]] · [[imperial-court]] · [[koto]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

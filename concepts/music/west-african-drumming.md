@@ -2,14 +2,11 @@
 type: concept
 category: music
 defines: [West African drumming traditions, West African percussion]
-related:
-  - "[[west-africa]]"
-  - "[[africa]]"
-  - "[[griot]]"
-  - "[[djembe]]"
-  - "[[talking-drum]]"
+related: ["[[west-africa]]", "[[africa]]", "[[griot]]", "[[djembe]]", "[[talking-drum]]"]
+requires: []
 lists:
   - "[[non-western-classical-music-traditions]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +37,18 @@ West African drumming traditions represent the most sophisticated percussion mus
 ## see also
 
 - [[west-africa]] · [[africa]] · [[griot]] · [[djembe]] · [[talking-drum]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

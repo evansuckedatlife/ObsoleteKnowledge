@@ -3,12 +3,11 @@ type: person
 category: music
 defines:
   - Claudio Monteverdi
-related:
-  - "[[opera]]"
-  - "[[madrigal]]"
-  - "[[baroque-music]]"
+related: ["[[opera]]", "[[madrigal]]", "[[baroque-music]]", "[[italy]]", "[[renaissance]]"]
+requires: []
 lists:
   - "[[pre-1700-composers]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[opera]] · [[madrigal]] · [[baroque-music]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

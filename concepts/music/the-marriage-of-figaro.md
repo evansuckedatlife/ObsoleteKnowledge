@@ -2,8 +2,10 @@
 type: work
 category: music
 defines: ["The Marriage of Figaro", "Le nozze di Figaro"]
-related: ["[[operas]]", "[[works-by-mozart]]"]
+related: ["[[operas]]", "[[works-by-mozart]]", "[[french-revolution]]", "[[enlightenment]]"]
+requires: []
 lists: ["[[operas]]"]
+tour_order: 0
 read: false
 ---
 
@@ -48,6 +50,18 @@ Wolfgang Amadeus Mozart's *The Marriage of Figaro* (1786) is a four-act *opera b
 ## see also
 
 - [[carmen]] · [[aida]] · [[the-barber-of-seville]] · [[william-tell]] · [[don-giovanni]] · [[salome]] · [[boris-godunov]] · [[la-boheme]] · [[madama-butterfly]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

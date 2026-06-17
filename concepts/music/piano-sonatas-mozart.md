@@ -3,7 +3,9 @@ type: work
 category: music
 defines: ["Mozart piano sonatas", "Piano sonatas of Mozart"]
 related: ["[[works-by-mozart]]", "[[piano-sonatas]]"]
+requires: []
 lists: ["[[works-by-mozart]]", "[[piano-sonatas]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Wolfgang Amadeus Mozart composed 18 numbered piano sonatas between 1774 and 1789
 ## see also
 
 - [[the-magic-flute]] · [[cosi-fan-tutte]] · [[requiem-mozart]] · [[the-abduction-from-the-seraglio]] · [[piano-concertos-mozart]] · [[string-quartets-mozart]] · [[serenades-and-divertimentos-mozart]] · [[last-three-symphonies-mozart]] · [[other-symphonies-mozart]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

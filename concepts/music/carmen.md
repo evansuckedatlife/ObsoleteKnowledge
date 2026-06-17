@@ -2,8 +2,10 @@
 type: work
 category: music
 defines: [Carmen]
-related: ["[[operas]]", "[[arias]]"]
+related: ["[[operas]]", "[[arias]]", "[[spain]]", "[[france]]"]
+requires: []
 lists: ["[[operas]]"]
+tour_order: 0
 read: false
 ---
 
@@ -46,6 +48,18 @@ Georges Bizet's *Carmen* (1875) is a four-act French opera that stands as one of
 ## see also
 
 - [[aida]] · [[the-marriage-of-figaro]] · [[the-barber-of-seville]] · [[william-tell]] · [[don-giovanni]] · [[salome]] · [[boris-godunov]] · [[la-boheme]] · [[madama-butterfly]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

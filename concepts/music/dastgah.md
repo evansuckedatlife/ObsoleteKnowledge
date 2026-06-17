@@ -2,14 +2,11 @@
 type: concept
 category: music
 defines: [Dastgah, Persian dastgah, Dastgah music]
-related:
-  - "[[iran]]"
-  - "[[persia]]"
-  - "[[ney]]"
-  - "[[tar]]"
-  - "[[modal-music]]"
+related: ["[[iran]]", "[[persia]]", "[[ney]]", "[[tar]]", "[[modal-music]]"]
+requires: []
 lists:
   - "[[non-western-classical-music-traditions]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +37,18 @@ The *dastgah* is the modal-melodic framework of Persian classical music, compris
 ## see also
 
 - [[iran]] · [[ney]] · [[tar]] · [[sufi-music]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

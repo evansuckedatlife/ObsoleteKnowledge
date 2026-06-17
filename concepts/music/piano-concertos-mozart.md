@@ -3,7 +3,9 @@ type: work
 category: music
 defines: ["Mozart piano concertos", "Piano concertos of Mozart"]
 related: ["[[works-by-mozart]]"]
+requires: []
 lists: ["[[works-by-mozart]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Wolfgang Amadeus Mozart composed 27 numbered piano concertos between 1767 and 17
 ## see also
 
 - [[the-magic-flute]] · [[cosi-fan-tutte]] · [[requiem-mozart]] · [[the-abduction-from-the-seraglio]] · [[piano-sonatas-mozart]] · [[string-quartets-mozart]] · [[serenades-and-divertimentos-mozart]] · [[last-three-symphonies-mozart]] · [[other-symphonies-mozart]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

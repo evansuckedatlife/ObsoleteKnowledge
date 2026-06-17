@@ -4,12 +4,11 @@ category: music
 defines:
   - Louis Armstrong
   - Satchmo
-related:
-  - "[[duke-ellington]]"
-  - "[[jazz]]"
-  - "[[new-orleans]]"
+related: ["[[duke-ellington]]", "[[jazz]]", "[[new-orleans]]"]
+requires: []
 lists:
   - "[[jazz-musicians]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[duke-ellington]] · [[miles-davis]] · [[charlie-parker]] · [[count-basie]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

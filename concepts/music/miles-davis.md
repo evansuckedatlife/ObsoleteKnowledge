@@ -3,14 +3,11 @@ type: person
 category: music
 defines:
   - Miles Davis
-related:
-  - "[[louis-armstrong]]"
-  - "[[john-coltrane]]"
-  - "[[jazz]]"
-  - "[[bebop]]"
-  - "[[cool-jazz]]"
+related: ["[[louis-armstrong]]", "[[john-coltrane]]", "[[jazz]]", "[[bebop]]", "[[cool-jazz]]"]
+requires: []
 lists:
   - "[[jazz-musicians]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +37,18 @@ read: false
 ## see also
 
 - [[john-coltrane]] · [[charlie-parker]] · [[louis-armstrong]] · [[thelonious-monk]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

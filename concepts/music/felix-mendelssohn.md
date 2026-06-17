@@ -2,8 +2,10 @@
 type: person
 category: music
 defines: ["Felix Mendelssohn", "Mendelssohn"]
-related: ["[[romantic-era-composers]]"]
+related: ["[[romantic-era-composers]]", "[[germany]]"]
+requires: []
 lists: ["[[romantic-era-composers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ Felix Mendelssohn (1809–1847) was a German composer, pianist, and conductor of
 ## see also
 
 - [[franz-schubert]] · [[hector-berlioz]] · [[robert-schumann]] · [[franz-liszt]] · [[giuseppe-verdi]] · [[richard-wagner]] · [[johannes-brahms]] · [[pyotr-ilyich-tchaikovsky]] · [[antonin-dvorak]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

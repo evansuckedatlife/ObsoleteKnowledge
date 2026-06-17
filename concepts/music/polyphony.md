@@ -2,12 +2,11 @@
 type: term
 category: music
 defines: [Polyphony, Polyphonic]
-related:
-  - "[[counterpoint]]"
-  - "[[homophony]]"
-  - "[[fugue]]"
+related: ["[[counterpoint]]", "[[homophony]]", "[[fugue]]", "[[renaissance]]"]
+requires: []
 lists:
   - "[[music-theory-terms]]"
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +34,18 @@ read: false
 ## see also
 
 - [[counterpoint]] · [[fugue]] · [[homophony]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

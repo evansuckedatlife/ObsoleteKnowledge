@@ -2,13 +2,11 @@
 type: term
 category: music
 defines: [Counterpoint]
-related:
-  - "[[fugue]]"
-  - "[[polyphony]]"
-  - "[[bach]]"
-  - "[[sonata-form]]"
+related: ["[[fugue]]", "[[polyphony]]", "[[bach]]", "[[sonata-form]]"]
+requires: []
 lists:
   - "[[music-theory-terms]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[fugue]] · [[polyphony]] · [[canon]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

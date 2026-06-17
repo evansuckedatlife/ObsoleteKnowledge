@@ -2,8 +2,10 @@
 type: concept
 category: music
 defines: [Madrigal]
-related: ["[[renaissance-music]]", "[[polyphony]]", "[[orlando-di-lasso]]", "[[carlo-gesualdo]]", "[[luca-marenzio]]", "[[counterpoint]]", "[[motet]]", "[[secular-music]]", "[[vocal-music]]", "[[italy]]", "[[sonnet]]"]
+related: ["[[renaissance-music]]", "[[polyphony]]", "[[orlando-di-lasso]]", "[[carlo-gesualdo]]", "[[luca-marenzio]]", "[[counterpoint]]", "[[motet]]", "[[secular-music]]", "[[vocal-music]]", "[[italy]]", "[[sonnet]]", "[[renaissance]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +38,18 @@ The madrigal is a secular vocal form that flourished in Italy during the Renaiss
 ## see also
 
 - [[renaissance-music]] · [[polyphony]] · [[orlando-di-lasso]] · [[motet]] · [[counterpoint]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

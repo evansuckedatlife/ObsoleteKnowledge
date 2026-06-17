@@ -3,7 +3,9 @@ type: work
 category: music
 defines: ["Moonlight Sonata", "Piano Sonata No. 14", "Sonata quasi una fantasia"]
 related: ["[[works-by-beethoven]]", "[[piano-sonatas]]"]
+requires: []
 lists: ["[[works-by-beethoven]]", "[[piano-sonatas]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Ludwig van Beethoven's *Piano Sonata No. 14 in C-sharp minor*, Op. 27, No. 2 (18
 ## see also
 
 - [[symphony-no-9-beethoven]] · [[symphony-no-5-beethoven]] · [[symphony-no-6-beethoven]] · [[symphony-no-3-beethoven]] · [[fidelio]] · [[missa-solemnis]] · [[piano-concerto-no-5-beethoven]] · [[appassionata-sonata]] · [[wellingtons-victory]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

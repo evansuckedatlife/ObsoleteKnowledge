@@ -3,13 +3,11 @@ type: person
 category: music
 defines:
   - Thelonious Monk
-related:
-  - "[[charlie-parker]]"
-  - "[[dizzy-gillespie]]"
-  - "[[jazz]]"
-  - "[[bebop]]"
+related: ["[[charlie-parker]]", "[[dizzy-gillespie]]", "[[jazz]]", "[[bebop]]"]
+requires: []
 lists:
   - "[[jazz-musicians]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +36,18 @@ read: false
 ## see also
 
 - [[charlie-parker]] · [[dizzy-gillespie]] · [[john-coltrane]] · [[bud-powell]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

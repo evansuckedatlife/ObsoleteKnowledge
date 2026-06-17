@@ -2,13 +2,11 @@
 type: term
 category: music
 defines: [Circle of Fifths]
-related:
-  - "[[key-signature]]"
-  - "[[tonality]]"
-  - "[[interval]]"
-  - "[[transposition]]"
+related: ["[[key-signature]]", "[[tonality]]", "[[interval]]", "[[transposition]]"]
+requires: []
 lists:
   - "[[music-theory-terms]]"
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +34,18 @@ The *circle of fifths* is a geometric diagram organizing all twelve pitches (in 
 ## see also
 
 - [[key-signature]] · [[tonality]] · [[chord-progression]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

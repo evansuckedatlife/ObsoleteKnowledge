@@ -2,8 +2,10 @@
 type: person
 category: music
 defines: ["Hector Berlioz", "Berlioz"]
-related: ["[[romantic-era-composers]]"]
+related: ["[[romantic-era-composers]]", "[[france]]"]
+requires: []
 lists: ["[[romantic-era-composers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ Hector Berlioz (1803–1869) was a French Romantic composer, conductor, and crit
 ## see also
 
 - [[franz-schubert]] · [[felix-mendelssohn]] · [[robert-schumann]] · [[franz-liszt]] · [[giuseppe-verdi]] · [[richard-wagner]] · [[johannes-brahms]] · [[pyotr-ilyich-tchaikovsky]] · [[antonin-dvorak]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

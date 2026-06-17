@@ -2,14 +2,11 @@
 type: term
 category: music
 defines: [Sonata Form]
-related:
-  - "[[exposition]]"
-  - "[[development]]"
-  - "[[recapitulation]]"
-  - "[[symphony]]"
-  - "[[modulation]]"
+related: ["[[exposition]]", "[[development]]", "[[recapitulation]]", "[[symphony]]", "[[modulation]]", "[[enlightenment]]"]
+requires: []
 lists:
   - "[[music-theory-terms]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +34,18 @@ read: false
 ## see also
 
 - [[modulation]] · [[symphony]] · [[tonality]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

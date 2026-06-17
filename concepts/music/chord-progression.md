@@ -3,7 +3,9 @@ type: concept
 category: music
 defines: [Chord progression, Harmonic progression]
 related: ["[[tonality]]", "[[key-signature]]", "[[harmonic-function]]", "[[modulation]]", "[[circle-of-fifths]]", "[[blues]]", "[[jazz]]", "[[sonata-form]]", "[[roman-numeral-analysis]]", "[[major-minor-tonality]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +39,18 @@ A chord progression is a sequence of chords arranged to support melody and creat
 ## see also
 
 - [[tonality]] · [[harmonic-function]] · [[circle-of-fifths]] · [[blues]] · [[jazz]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

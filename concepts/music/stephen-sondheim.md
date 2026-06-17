@@ -3,7 +3,9 @@ type: person
 category: music
 defines: ["Stephen Sondheim", "Sondheim"]
 related: ["[[american-composers]]"]
+requires: []
 lists: ["[[american-composers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Stephen Sondheim (1930–2021) was a legendary American composer and lyricist wh
 ## see also
 
 - [[george-gershwin]] · [[aaron-copland]] · [[arnold-schoenberg]] · [[leonard-bernstein]] · [[philip-glass]] · [[samuel-barber]] · [[charles-ives]] · [[john-cage]] · [[john-coolidge-adams]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

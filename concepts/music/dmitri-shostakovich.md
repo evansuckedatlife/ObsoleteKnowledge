@@ -2,8 +2,10 @@
 type: person
 category: music
 defines: ["Dmitri Shostakovich", "Shostakovich"]
-related: ["[[20th-century-composers]]"]
+related: ["[[20th-century-composers]]", "[[cold-war]]"]
+requires: []
 lists: ["[[20th-century-composers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ Dmitri Shostakovich (1906–1975) was a Soviet Russian composer and pianist who 
 ## see also
 
 - [[igor-stravinsky]] · [[arnold-schoenberg]] · [[benjamin-britten]] · [[aaron-copland]] · [[sergei-prokofiev]] · [[bela-bartok]] · [[charles-ives]] · [[maurice-ravel]] · [[george-gershwin]] · [[john-cage]] · [[sergei-rachmaninoff]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

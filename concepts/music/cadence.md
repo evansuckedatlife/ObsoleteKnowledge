@@ -2,12 +2,11 @@
 type: term
 category: music
 defines: [Cadence]
-related:
-  - "[[chord-progression]]"
-  - "[[harmony]]"
-  - "[[tonality]]"
+related: ["[[chord-progression]]", "[[harmony]]", "[[tonality]]"]
+requires: []
 lists:
   - "[[music-theory-terms]]"
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +34,18 @@ A *cadence* is a concluding harmonic phrase that signals the end of a musical ph
 ## see also
 
 - [[harmony]] · [[chord-progression]] · [[tonality]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

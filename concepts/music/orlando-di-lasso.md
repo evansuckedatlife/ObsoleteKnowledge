@@ -5,12 +5,11 @@ defines:
   - Orlando di Lasso
   - Roland de Lassus
   - Orlande de Lassus
-related:
-  - "[[madrigal]]"
-  - "[[motet]]"
-  - "[[renaissance-music]]"
+related: ["[[madrigal]]", "[[motet]]", "[[renaissance-music]]", "[[renaissance]]"]
+requires: []
 lists:
   - "[[pre-1700-composers]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[palestrina]] · [[madrigal]] · [[motet]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

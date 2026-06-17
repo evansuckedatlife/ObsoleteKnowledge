@@ -2,12 +2,21 @@
 type: phrase
 category: music
 defines: ["La donna è mobile", "Woman is fickle"]
-related: ["[[rigoletto]]", "[[verdi]]", "[[tenor]]"]
+related: ["[[rigoletto]]", "[[verdi]]", "[[tenor]]", "[[italy]]"]
+requires: ["[[giuseppe-verdi]]"]
 lists: ["[[arias]]"]
+tour_order: 1
 read: false
 ---
 
 # La donna è mobile
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ read: false
 ## see also
 
 - [[nessun-dorma]] · [[habanera]] · [[vesti-la-giubba]] · [[casta-diva]] · [[largo-al-factotum]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 
