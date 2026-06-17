@@ -3,12 +3,11 @@ type: work
 category: performance
 defines:
   - Coppelia
-related:
-  - "[[the-nutcracker]]"
-  - "[[sleeping-beauty]]"
-  - "[[giselle]]"
+related: ["[[the-nutcracker]]", "[[sleeping-beauty]]", "[[giselle]]", "[[france]]"]
+requires: []
 lists:
   - "[[ballets]]"
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +34,18 @@ A lighthearted, comedic classical ballet in three acts, *Coppelia* features musi
 ## see also
 
 - [[swan-lake]] · [[the-nutcracker]] · [[sleeping-beauty]] · [[the-rite-of-spring]] · [[giselle]] · [[romeo-and-juliet]] · [[petrushka]] · [[don-quixote]] · [[appalachian-spring]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

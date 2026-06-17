@@ -2,8 +2,10 @@
 type: person
 category: performance
 defines: [Agnes de Mille, Agnes George de Mille]
-related: ["[[oklahoma-musical]]", "[[rodgers-and-hammerstein]]", "[[jerome-robbins]]", "[[ballet-theatre]]"]
+related: ["[[oklahoma-musical]]", "[[rodgers-and-hammerstein]]", "[[jerome-robbins]]", "[[ballet-theatre]]", "[[modernism]]"]
+requires: []
 lists: ["[[choreographers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[jerome-robbins]] · [[bob-fosse]] · [[george-balanchine]] · [[twyla-tharp]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

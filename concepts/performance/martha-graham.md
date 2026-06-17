@@ -3,7 +3,9 @@ type: person
 category: performance
 defines: [Martha Graham]
 related: ["[[modern-dance]]", "[[aaron-copland]]", "[[alvin-ailey]]"]
+requires: []
 lists: ["[[choreographers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[george-balanchine]] · [[merce-cunningham]] · [[alvin-ailey]] · [[twyla-tharp]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

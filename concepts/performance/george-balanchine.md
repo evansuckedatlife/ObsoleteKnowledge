@@ -2,8 +2,10 @@
 type: person
 category: performance
 defines: [George Balanchine, Giorgi Melitonovich Balanchivadze]
-related: ["[[swan-lake]]", "[[the-nutcracker]]", "[[stravinsky]]", "[[new-york-city-ballet]]"]
+related: ["[[swan-lake]]", "[[the-nutcracker]]", "[[stravinsky]]", "[[new-york-city-ballet]]", "[[modernism]]"]
+requires: []
 lists: ["[[choreographers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[martha-graham]] · [[jerome-robbins]] · [[twyla-tharp]] · [[merce-cunningham]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

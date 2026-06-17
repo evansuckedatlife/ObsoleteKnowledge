@@ -3,13 +3,11 @@ type: work
 category: performance
 defines:
   - West Side Story
-related:
-  - "[[leonard-bernstein]]"
-  - "[[stephen-sondheim]]"
-  - "[[romeo-and-juliet]]"
-  - "[[the-sound-of-music]]"
+related: ["[[leonard-bernstein]]", "[[stephen-sondheim]]", "[[romeo-and-juliet]]", "[[the-sound-of-music]]"]
+requires: []
 lists:
   - "[[musicals-part-1]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[leonard-bernstein]] · [[stephen-sondheim]] · [[the-sound-of-music]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

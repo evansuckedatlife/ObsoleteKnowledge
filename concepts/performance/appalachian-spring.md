@@ -2,12 +2,21 @@
 type: work
 category: performance
 defines: [Appalachian Spring, Copland's Appalachian Spring]
-related: ["[[copland]]", "[[american-folk-culture]]"]
+related: ["[[copland]]", "[[american-folk-culture]]", "[[modernism]]"]
+requires: ["[[aaron-copland]]"]
 lists: ["[[ballets-2]]"]
+tour_order: 1
 read: false
 ---
 
 # Appalachian Spring
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ read: false
 ## see also
 
 - [[the-rite-of-spring]] · [[petrushka]] · [[the-firebird]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

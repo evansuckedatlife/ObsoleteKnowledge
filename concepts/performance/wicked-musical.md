@@ -4,13 +4,11 @@ category: performance
 defines:
   - Wicked
   - Wicked The Musical
-related:
-  - "[[stephen-schwartz]]"
-  - "[[gregory-maguire]]"
-  - "[[wizard-of-oz]]"
-  - "[[musical-theatre]]"
+related: ["[[stephen-schwartz]]", "[[gregory-maguire]]", "[[wizard-of-oz]]", "[[musical-theatre]]"]
+requires: []
 lists:
   - "[[musicals-part-2]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[hamilton-musical]] · [[les-miserables-musical]] · [[rent-musical]] · [[chicago-musical]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

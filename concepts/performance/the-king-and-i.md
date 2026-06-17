@@ -3,13 +3,11 @@ type: work
 category: performance
 defines:
   - The King and I
-related:
-  - "[[rodgers-and-hammerstein]]"
-  - "[[oklahoma]]"
-  - "[[the-sound-of-music]]"
-  - "[[siam]]"
+related: ["[[rodgers-and-hammerstein]]", "[[oklahoma]]", "[[the-sound-of-music]]", "[[siam]]"]
+requires: []
 lists:
   - "[[musicals-part-1]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[rodgers-and-hammerstein]] · [[the-sound-of-music]] · [[oklahoma]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

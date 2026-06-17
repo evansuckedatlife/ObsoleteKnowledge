@@ -4,13 +4,11 @@ category: performance
 defines:
   - Rent
   - Rent Musical
-related:
-  - "[[jonathan-larson]]"
-  - "[[la-boheme]]"
-  - "[[hiv-aids]]"
-  - "[[bohemian-culture]]"
+related: ["[[jonathan-larson]]", "[[la-boheme]]", "[[hiv-aids]]", "[[bohemian-culture]]"]
+requires: []
 lists:
   - "[[musicals-part-2]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[hamilton-musical]] · [[les-miserables-musical]] · [[wicked-musical]] · [[chicago-musical]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

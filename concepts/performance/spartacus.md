@@ -3,7 +3,9 @@ type: work
 category: performance
 defines: [Spartacus, Khachaturian's Spartacus]
 related: ["[[khachaturian]]", "[[ancient-rome]]"]
+requires: []
 lists: ["[[ballets-2]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[swan-lake]] · [[sleeping-beauty]] · [[the-nutcracker]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

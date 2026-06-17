@@ -3,11 +3,20 @@ type: work
 category: performance
 defines: [The Firebird, L'Oiseau de feu]
 related: ["[[stravinsky]]", "[[russian-folklore]]"]
+requires: ["[[igor-stravinsky]]"]
 lists: ["[[ballets-2]]"]
+tour_order: 1
 read: false
 ---
 
 # The Firebird
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ read: false
 ## see also
 
 - [[petrushka]] · [[the-rite-of-spring]] · [[swan-lake]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

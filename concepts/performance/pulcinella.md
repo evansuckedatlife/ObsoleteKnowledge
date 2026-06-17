@@ -3,11 +3,20 @@ type: work
 category: performance
 defines: [Pulcinella, Stravinsky-Massine Pulcinella]
 related: ["[[stravinsky]]", "[[commedia-dell-arte]]"]
+requires: ["[[igor-stravinsky]]"]
 lists: ["[[ballets-2]]"]
+tour_order: 1
 read: false
 ---
 
 # Pulcinella
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ read: false
 ## see also
 
 - [[the-firebird]] · [[petrushka]] · [[the-rite-of-spring]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

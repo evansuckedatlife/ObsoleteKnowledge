@@ -2,8 +2,10 @@
 type: work
 category: performance
 defines: [La Bayadère, "The Bayadère"]
-related: ["[[petipa]]", "[[indian-culture]]"]
+related: ["[[petipa]]", "[[indian-culture]]", "[[india]]"]
+requires: []
 lists: ["[[ballets-2]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[sleeping-beauty]] · [[swan-lake]] · [[coppelia]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

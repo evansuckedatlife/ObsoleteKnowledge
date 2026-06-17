@@ -4,13 +4,11 @@ category: performance
 defines:
   - A Chorus Line
   - A Chorus Line Musical
-related:
-  - "[[marvin-hamlisch]]"
-  - "[[edward-kleban]]"
-  - "[[michael-bennett]]"
-  - "[[broadway-dancers]]"
+related: ["[[marvin-hamlisch]]", "[[edward-kleban]]", "[[michael-bennett]]", "[[broadway-dancers]]", "[[modernism]]"]
+requires: []
 lists:
   - "[[musicals-part-2]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[les-miserables-musical]] · [[rent-musical]] · [[chicago-musical]] · [[sweeney-todd-musical]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

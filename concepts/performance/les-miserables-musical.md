@@ -4,13 +4,11 @@ category: performance
 defines:
   - Les Misérables
   - Les Misérables: The Musical
-related:
-  - "[[victor-hugo]]"
-  - "[[claude-michel-schönberg]]"
-  - "[[alain-boublil]]"
-  - "[[19th-century-france]]"
+related: ["[[victor-hugo]]", "[[claude-michel-schönberg]]", "[[alain-boublil]]", "[[19th-century-france]]", "[[french-revolution]]"]
+requires: []
 lists:
   - "[[musicals-part-2]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[the-phantom-of-the-opera-musical]] · [[sweeney-todd-musical]] · [[cats-musical]] · [[wicked-musical]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

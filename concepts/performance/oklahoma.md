@@ -4,12 +4,11 @@ category: performance
 defines:
   - Oklahoma!
   - Oklahoma
-related:
-  - "[[rodgers-and-hammerstein]]"
-  - "[[the-sound-of-music]]"
-  - "[[carousel]]"
+related: ["[[rodgers-and-hammerstein]]", "[[the-sound-of-music]]", "[[carousel]]"]
+requires: []
 lists:
   - "[[musicals-part-1]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ read: false
 ## see also
 
 - [[the-sound-of-music]] · [[carousel]] · [[rodgers-and-hammerstein]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

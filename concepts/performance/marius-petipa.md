@@ -3,7 +3,9 @@ type: person
 category: performance
 defines: [Marius Petipa, Jean-Antoine-Alfred Marius Petipa]
 related: ["[[swan-lake]]", "[[the-sleeping-beauty]]", "[[the-nutcracker]]", "[[tchaikovsky]]", "[[imperial-ballet]]"]
+requires: []
 lists: ["[[choreographers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[george-balanchine]] · [[jerome-robbins]] · [[isadora-duncan]] · [[agnes-de-mille]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

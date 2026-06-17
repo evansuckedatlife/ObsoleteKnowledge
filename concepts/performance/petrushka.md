@@ -2,12 +2,21 @@
 type: work
 category: performance
 defines: [Petrushka, Petrushka Ballet]
-related: ["[[stravinsky]]", "[[russian-folklore]]"]
+related: ["[[stravinsky]]", "[[russian-folklore]]", "[[russian-revolution]]"]
+requires: ["[[igor-stravinsky]]"]
 lists: ["[[ballets-2]]"]
+tour_order: 1
 read: false
 ---
 
 # Petrushka
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ read: false
 ## see also
 
 - [[the-firebird]] · [[the-rite-of-spring]] · [[swan-lake]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

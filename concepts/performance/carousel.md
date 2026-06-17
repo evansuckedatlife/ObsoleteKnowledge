@@ -3,12 +3,11 @@ type: work
 category: performance
 defines:
   - Carousel
-related:
-  - "[[rodgers-and-hammerstein]]"
-  - "[[oklahoma]]"
-  - "[[the-sound-of-music]]"
+related: ["[[rodgers-and-hammerstein]]", "[[oklahoma]]", "[[the-sound-of-music]]", "[[modernism]]"]
+requires: []
 lists:
   - "[[musicals-part-1]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[rodgers-and-hammerstein]] · [[oklahoma]] · [[the-sound-of-music]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

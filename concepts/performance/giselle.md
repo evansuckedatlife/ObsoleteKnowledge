@@ -3,12 +3,11 @@ type: work
 category: performance
 defines:
   - Giselle
-related:
-  - "[[swan-lake]]"
-  - "[[the-nutcracker]]"
-  - "[[coppelia]]"
+related: ["[[swan-lake]]", "[[the-nutcracker]]", "[[coppelia]]", "[[france]]"]
+requires: []
 lists:
   - "[[ballets]]"
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +34,18 @@ A landmark Romantic ballet in two acts, *Giselle* features music by Adolphe Adam
 ## see also
 
 - [[swan-lake]] · [[the-nutcracker]] · [[sleeping-beauty]] · [[the-rite-of-spring]] · [[coppelia]] · [[romeo-and-juliet]] · [[petrushka]] · [[don-quixote]] · [[appalachian-spring]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

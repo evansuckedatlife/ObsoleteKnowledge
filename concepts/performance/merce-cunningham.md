@@ -3,7 +3,9 @@ type: person
 category: performance
 defines: [Merce Cunningham, Mercier Philip Cunningham Jr.]
 related: ["[[martha-graham]]", "[[john-cage]]", "[[modern-dance]]", "[[chance-procedure]]"]
+requires: []
 lists: ["[[choreographers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[martha-graham]] · [[twyla-tharp]] · [[alvin-ailey]] · [[george-balanchine]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

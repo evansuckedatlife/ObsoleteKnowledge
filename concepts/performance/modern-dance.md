@@ -3,7 +3,9 @@ type: concept
 category: performance
 defines: [Modern dance, Contemporary dance]
 related: ["[[martha-graham]]", "[[isadora-duncan]]", "[[alvin-ailey]]", "[[merce-cunningham]]", "[[twyla-tharp]]", "[[ballet]]", "[[dance]]", "[[body-movement]]", "[[expressionism]]", "[[postmodernism]]", "[[twentieth-century-art]]", "[[american-culture]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +40,18 @@ Modern dance is a twentieth-century theatrical form that rejected ballet's rigid
 ## see also
 
 - [[martha-graham]] · [[isadora-duncan]] · [[alvin-ailey]] · [[merce-cunningham]] · [[twyla-tharp]] · [[ballet]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

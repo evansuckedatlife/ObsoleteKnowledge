@@ -2,8 +2,10 @@
 type: person
 category: performance
 defines: [Isadora Duncan, Angela Isadora Duncan]
-related: ["[[modern-dance]]", "[[classical-ballet]]", "[[ancient-greece]]", "[[natural-movement]]"]
+related: ["[[modern-dance]]", "[[classical-ballet]]", "[[ancient-greece]]", "[[natural-movement]]", "[[modernism]]", "[[france]]"]
+requires: []
 lists: ["[[choreographers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[martha-graham]] · [[merce-cunningham]] · [[alvin-ailey]] · [[bob-fosse]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

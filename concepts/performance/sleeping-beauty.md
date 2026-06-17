@@ -3,16 +3,22 @@ type: work
 category: performance
 defines:
   - Sleeping Beauty
-related:
-  - "[[swan-lake]]"
-  - "[[the-nutcracker]]"
-  - "[[coppelia]]"
+related: ["[[swan-lake]]", "[[the-nutcracker]]", "[[coppelia]]"]
+requires: ["[[pyotr-ilyich-tchaikovsky]]"]
 lists:
   - "[[ballets]]"
+tour_order: 1
 read: false
 ---
 
 # Sleeping Beauty
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +41,18 @@ A three-act classical ballet composed by Pyotr Ilyich Tchaikovsky, *Sleeping Bea
 ## see also
 
 - [[swan-lake]] · [[the-nutcracker]] · [[the-rite-of-spring]] · [[giselle]] · [[coppelia]] · [[romeo-and-juliet]] · [[petrushka]] · [[don-quixote]] · [[appalachian-spring]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

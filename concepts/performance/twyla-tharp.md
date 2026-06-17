@@ -3,7 +3,9 @@ type: person
 category: performance
 defines: [Twyla Tharp]
 related: ["[[modern-dance]]", "[[ballet]]", "[[billy-joel]]", "[[mikhail-baryshnikov]]"]
+requires: []
 lists: ["[[choreographers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[bob-fosse]] · [[george-balanchine]] · [[merce-cunningham]] · [[alvin-ailey]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

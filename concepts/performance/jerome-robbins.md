@@ -2,8 +2,10 @@
 type: person
 category: performance
 defines: [Jerome Robbins, Jerome Wilson Rabinowitz]
-related: ["[[west-side-story]]", "[[new-york-city-ballet]]", "[[the-king-and-i]]", "[[fancy-free]]"]
+related: ["[[west-side-story]]", "[[new-york-city-ballet]]", "[[the-king-and-i]]", "[[fancy-free]]", "[[modernism]]"]
+requires: []
 lists: ["[[choreographers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[george-balanchine]] · [[bob-fosse]] · [[agnes-de-mille]] · [[twyla-tharp]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

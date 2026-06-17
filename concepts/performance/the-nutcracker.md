@@ -3,19 +3,22 @@ type: work
 category: performance
 defines:
   - The Nutcracker
-related:
-  - "[[swan-lake]]"
-  - "[[sleeping-beauty]]"
-  - "[[the-rite-of-spring]]"
-  - "[[giselle]]"
-  - "[[coppelia]]"
-  - "[[petrushka]]"
+related: ["[[swan-lake]]", "[[sleeping-beauty]]", "[[the-rite-of-spring]]", "[[giselle]]", "[[coppelia]]", "[[petrushka]]"]
+requires: ["[[pyotr-ilyich-tchaikovsky]]"]
 lists:
   - "[[ballets]]"
+tour_order: 1
 read: false
 ---
 
 # The Nutcracker
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -54,6 +57,18 @@ While *The Nutcracker* was not an immediate triumph in late-nineteenth-century S
 ## see also
 
 - [[swan-lake]] · [[sleeping-beauty]] · [[the-rite-of-spring]] · [[giselle]] · [[coppelia]] · [[romeo-and-juliet]] · [[petrushka]] · [[don-quixote]] · [[appalachian-spring]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

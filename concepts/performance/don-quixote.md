@@ -2,12 +2,21 @@
 type: work
 category: performance
 defines: [Don Quixote, Cervantes Ballet]
-related: ["[[cervantes]]", "[[spanish-literature]]"]
+related: ["[[cervantes]]", "[[spanish-literature]]", "[[spain]]"]
+requires: ["[[marius-petipa]]"]
 lists: ["[[ballets-2]]"]
+tour_order: 1
 read: false
 ---
 
 # Don Quixote
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ read: false
 ## see also
 
 - [[coppelia]] · [[sleeping-beauty]] · [[the-nutcracker]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

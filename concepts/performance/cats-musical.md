@@ -4,12 +4,11 @@ category: performance
 defines:
   - Cats
   - Cats Musical
-related:
-  - "[[andrew-lloyd-webber]]"
-  - "[[t-s-eliot]]"
-  - "[[old-possum-book-of-practical-cats]]"
+related: ["[[andrew-lloyd-webber]]", "[[t-s-eliot]]", "[[old-possum-book-of-practical-cats]]", "[[modernism]]"]
+requires: []
 lists:
   - "[[musicals-part-2]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[the-phantom-of-the-opera-musical]] · [[evita-musical]] · [[les-miserables-musical]] · [[rent-musical]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

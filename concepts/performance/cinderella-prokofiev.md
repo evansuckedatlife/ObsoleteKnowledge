@@ -3,11 +3,20 @@ type: work
 category: performance
 defines: ["Cinderella (Prokofiev)", Prokofiev's Cinderella]
 related: ["[[prokofiev]]", "[[cinderella-tale]]"]
+requires: ["[[sergei-prokofiev]]"]
 lists: ["[[ballets-2]]"]
+tour_order: 1
 read: false
 ---
 
 # Cinderella (Prokofiev)
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ read: false
 ## see also
 
 - [[the-nutcracker]] · [[sleeping-beauty]] · [[swan-lake]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

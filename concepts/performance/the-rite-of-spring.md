@@ -4,19 +4,22 @@ category: performance
 defines:
   - The Rite of Spring
   - Le Sacre du printemps
-related:
-  - "[[petrushka]]"
-  - "[[appalachian-spring]]"
-  - "[[swan-lake]]"
-  - "[[romeo-and-juliet]]"
-  - "[[the-nutcracker]]"
-  - "[[sleeping-beauty]]"
+related: ["[[petrushka]]", "[[appalachian-spring]]", "[[swan-lake]]", "[[romeo-and-juliet]]", "[[the-nutcracker]]", "[[sleeping-beauty]]"]
+requires: ["[[igor-stravinsky]]"]
 lists:
   - "[[ballets]]"
+tour_order: 1
 read: false
 ---
 
 # The Rite of Spring
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -55,6 +58,18 @@ Composed by Igor Stravinsky and originally choreographed by Vaslav Nijinsky, *Th
 ## see also
 
 - [[swan-lake]] · [[the-nutcracker]] · [[sleeping-beauty]] · [[giselle]] · [[coppelia]] · [[romeo-and-juliet]] · [[petrushka]] · [[don-quixote]] · [[appalachian-spring]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

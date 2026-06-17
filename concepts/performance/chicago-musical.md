@@ -4,13 +4,11 @@ category: performance
 defines:
   - Chicago
   - Chicago The Musical
-related:
-  - "[[john-kander]]"
-  - "[[fred-ebb]]"
-  - "[[bob-fosse]]"
-  - "[[1920s-america]]"
+related: ["[[john-kander]]", "[[fred-ebb]]", "[[bob-fosse]]", "[[1920s-america]]", "[[modernism]]"]
+requires: []
 lists:
   - "[[musicals-part-2]]"
+tour_order: 0
 read: false
 aliases: [chicago]
 ---
@@ -41,6 +39,18 @@ aliases: [chicago]
 ## see also
 
 - [[les-miserables-musical]] · [[rent-musical]] · [[wicked-musical]] · [[sweeney-todd-musical]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

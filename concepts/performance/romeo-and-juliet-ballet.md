@@ -3,11 +3,20 @@ type: work
 category: performance
 defines: [Romeo and Juliet, Prokofiev's Romeo and Juliet]
 related: ["[[the-trojan-war]]", "[[shakespeare]]"]
+requires: ["[[pyotr-ilyich-tchaikovsky]]"]
 lists: ["[[ballets-2]]"]
+tour_order: 1
 read: false
 ---
 
 # Romeo and Juliet
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ read: false
 ## see also
 
 - [[swan-lake]] · [[the-nutcracker]] · [[sleeping-beauty]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

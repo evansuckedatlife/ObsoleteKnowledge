@@ -4,13 +4,11 @@ category: performance
 defines:
   - Sweeney Todd
   - Sweeney Todd: The Demon Barber of Fleet Street
-related:
-  - "[[stephen-sondheim]]"
-  - "[[grand-guignol]]"
-  - "[[victorian-london]]"
-  - "[[revenge-tragedy]]"
+related: ["[[stephen-sondheim]]", "[[grand-guignol]]", "[[victorian-london]]", "[[revenge-tragedy]]"]
+requires: []
 lists:
   - "[[musicals-part-2]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[into-the-woods-musical]] · [[chicago-musical]] · [[les-miserables-musical]] · [[rent-musical]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: concept
 category: performance
 defines: [Ballet]
 related: ["[[swan-lake]]", "[[the-nutcracker]]", "[[the-firebird]]", "[[the-rite-of-spring]]", "[[giselle]]", "[[la-sylphide]]", "[[pyotr-ilyich-tchaikovsky]]", "[[george-balanchine]]", "[[marius-petipa]]", "[[classical-dance]]", "[[music-and-dance]]", "[[romantic-era]]", "[[russia]]", "[[france]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +44,18 @@ Ballet is a formalized system of theatrical dance originating in Renaissance Ita
 ## see also
 
 - [[swan-lake]] · [[the-nutcracker]] · [[sleeping-beauty]] · [[the-firebird]] · [[pyotr-ilyich-tchaikovsky]] · [[george-balanchine]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,13 +3,11 @@ type: work
 category: performance
 defines:
   - My Fair Lady
-related:
-  - "[[alan-jay-lerner]]"
-  - "[[frederick-loewe]]"
-  - "[[pygmalion]]"
-  - "[[george-bernard-shaw]]"
+related: ["[[alan-jay-lerner]]", "[[frederick-loewe]]", "[[pygmalion]]", "[[george-bernard-shaw]]"]
+requires: []
 lists:
   - "[[musicals-part-1]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[alan-jay-lerner]] · [[frederick-loewe]] · [[oklahoma]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

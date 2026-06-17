@@ -3,13 +3,11 @@ type: work
 category: performance
 defines:
   - The Sound of Music
-related:
-  - "[[rodgers-and-hammerstein]]"
-  - "[[oklahoma]]"
-  - "[[carousel]]"
-  - "[[maria-von-trapp]]"
+related: ["[[rodgers-and-hammerstein]]", "[[oklahoma]]", "[[carousel]]", "[[maria-von-trapp]]"]
+requires: []
 lists:
   - "[[musicals-part-1]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[rodgers-and-hammerstein]] · [[oklahoma]] · [[carousel]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

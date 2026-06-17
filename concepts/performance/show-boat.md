@@ -3,13 +3,11 @@ type: work
 category: performance
 defines:
   - Show Boat
-related:
-  - "[[jerome-kern]]"
-  - "[[oscar-hammerstein-ii]]"
-  - "[[edna-ferber]]"
-  - "[[american-racism]]"
+related: ["[[jerome-kern]]", "[[oscar-hammerstein-ii]]", "[[edna-ferber]]", "[[american-racism]]"]
+requires: []
 lists:
   - "[[musicals-part-1]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[jerome-kern]] · [[oscar-hammerstein-ii]] · [[oklahoma]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

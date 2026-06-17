@@ -3,19 +3,22 @@ type: work
 category: performance
 defines:
   - Swan Lake
-related:
-  - "[[the-nutcracker]]"
-  - "[[sleeping-beauty]]"
-  - "[[the-rite-of-spring]]"
-  - "[[giselle]]"
-  - "[[coppelia]]"
-  - "[[romeo-and-juliet]]"
+related: ["[[the-nutcracker]]", "[[sleeping-beauty]]", "[[the-rite-of-spring]]", "[[giselle]]", "[[coppelia]]", "[[romeo-and-juliet]]"]
+requires: ["[[pyotr-ilyich-tchaikovsky]]"]
 lists:
   - "[[ballets]]"
+tour_order: 1
 read: false
 ---
 
 # Swan Lake
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -54,6 +57,18 @@ A canonical four-act ballet composed by Pyotr Ilyich Tchaikovsky, *Swan Lake* is
 ## see also
 
 - [[the-nutcracker]] · [[sleeping-beauty]] · [[the-rite-of-spring]] · [[giselle]] · [[coppelia]] · [[romeo-and-juliet]] · [[petrushka]] · [[don-quixote]] · [[appalachian-spring]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

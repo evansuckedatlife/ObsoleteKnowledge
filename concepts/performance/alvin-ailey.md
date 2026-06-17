@@ -2,8 +2,10 @@
 type: person
 category: performance
 defines: [Alvin Ailey]
-related: ["[[modern-dance]]", "[[martha-graham]]", "[[merce-cunningham]]", "[[alvin-ailey-american-dance-theater]]"]
+related: ["[[modern-dance]]", "[[martha-graham]]", "[[merce-cunningham]]", "[[alvin-ailey-american-dance-theater]]", "[[harlem-renaissance]]", "[[modernism]]"]
+requires: []
 lists: ["[[choreographers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[martha-graham]] · [[merce-cunningham]] · [[bob-fosse]] · [[jerome-robbins]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,8 +2,10 @@
 type: person
 category: performance
 defines: [Bob Fosse, Robert Louis Fosse]
-related: ["[[chicago-musical]]", "[[cabaret-musical]]", "[[west-side-story]]", "[[all-that-jazz]]"]
+related: ["[[chicago-musical]]", "[[cabaret-musical]]", "[[west-side-story]]", "[[all-that-jazz]]", "[[modernism]]"]
+requires: []
 lists: ["[[choreographers]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[jerome-robbins]] · [[george-balanchine]] · [[twyla-tharp]] · [[agnes-de-mille]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

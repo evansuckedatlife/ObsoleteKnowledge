@@ -4,13 +4,11 @@ category: performance
 defines:
   - Hamilton
   - Hamilton: An American Musical
-related:
-  - "[[lin-manuel-miranda]]"
-  - "[[american-founding-fathers]]"
-  - "[[hip-hop]]"
-  - "[[andrew-jackson]]"
+related: ["[[lin-manuel-miranda]]", "[[american-founding-fathers]]", "[[hip-hop]]", "[[andrew-jackson]]", "[[modernism]]"]
+requires: []
 lists:
   - "[[musicals-part-2]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[les-miserables-musical]] · [[wicked-musical]] · [[chicago-musical]] · [[rent-musical]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

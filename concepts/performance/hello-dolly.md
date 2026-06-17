@@ -3,12 +3,11 @@ type: work
 category: performance
 defines:
   - Hello, Dolly!
-related:
-  - "[[jerry-herman]]"
-  - "[[thornton-wilder]]"
-  - "[[carol-channing]]"
+related: ["[[jerry-herman]]", "[[thornton-wilder]]", "[[carol-channing]]", "[[modernism]]"]
+requires: []
 lists:
   - "[[musicals-part-1]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[jerry-herman]] · [[oklahoma]] · [[my-fair-lady]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

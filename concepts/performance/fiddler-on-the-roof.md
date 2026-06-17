@@ -3,13 +3,11 @@ type: work
 category: performance
 defines:
   - Fiddler on the Roof
-related:
-  - "[[jerry-bock]]"
-  - "[[sheldon-harnick]]"
-  - "[[tevye]]"
-  - "[[jewish-tradition]]"
+related: ["[[jerry-bock]]", "[[sheldon-harnick]]", "[[tevye]]", "[[jewish-tradition]]"]
+requires: []
 lists:
   - "[[musicals-part-1]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[jerry-bock]] · [[sheldon-harnick]] · [[the-sound-of-music]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

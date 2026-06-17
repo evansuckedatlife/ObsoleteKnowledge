@@ -3,12 +3,11 @@ type: work
 category: performance
 defines:
   - Guys and Dolls
-related:
-  - "[[frank-loesser]]"
-  - "[[damon-runyon]]"
-  - "[[carousel]]"
+related: ["[[frank-loesser]]", "[[damon-runyon]]", "[[carousel]]", "[[modernism]]"]
+requires: []
 lists:
   - "[[musicals-part-1]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[frank-loesser]] · [[oklahoma]] · [[carousel]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

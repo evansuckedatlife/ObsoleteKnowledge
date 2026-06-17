@@ -4,12 +4,11 @@ category: performance
 defines:
   - The Phantom of the Opera
   - The Phantom of the Opera Musical
-related:
-  - "[[andrew-lloyd-webber]]"
-  - "[[gaston-leroux]]"
-  - "[[musical-theatre]]"
+related: ["[[andrew-lloyd-webber]]", "[[gaston-leroux]]", "[[musical-theatre]]"]
+requires: []
 lists:
   - "[[musicals-part-2]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[cats-musical]] · [[les-miserables-musical]] · [[chicago-musical]] · [[wicked-musical]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

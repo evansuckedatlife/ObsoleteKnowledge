@@ -2,8 +2,10 @@
 type: work
 category: performance
 defines: [La Sylphide, "The Sylph"]
-related: ["[[romantic-ballet]]", "[[taglioli]]"]
+related: ["[[romantic-ballet]]", "[[taglioli]]", "[[france]]"]
+requires: []
 lists: ["[[ballets-2]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[giselle]] · [[swan-lake]] · [[sleeping-beauty]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

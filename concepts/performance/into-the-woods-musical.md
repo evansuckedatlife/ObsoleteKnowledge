@@ -4,17 +4,22 @@ category: performance
 defines:
   - Into the Woods
   - Into the Woods Musical
-related:
-  - "[[stephen-sondheim]]"
-  - "[[brothers-grimm]]"
-  - "[[fairy-tale]]"
-  - "[[moral-ambiguity]]"
+related: ["[[stephen-sondheim]]", "[[brothers-grimm]]", "[[fairy-tale]]", "[[moral-ambiguity]]", "[[modernism]]"]
+requires: ["[[stephen-sondheim]]"]
 lists:
   - "[[musicals-part-2]]"
+tour_order: 1
 read: false
 ---
 
 # Into the Woods
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +45,18 @@ read: false
 ## see also
 
 - [[sweeney-todd-musical]] · [[les-miserables-musical]] · [[wicked-musical]] · [[rent-musical]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 
