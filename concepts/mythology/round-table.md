@@ -3,11 +3,20 @@ type: concept
 category: mythology
 defines: [Round Table, The Round Table]
 related: ["[[king-arthur]]", "[[camelot]]", "[[lancelot]]", "[[galahad]]", "[[percival]]", "[[gawain]]", "[[holy-grail]]"]
+requires: ["[[king-arthur]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Round Table
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ The Round Table is the iconic table in Arthurian legend around which King Arthur
 ## see also
 
 - [[king-arthur]] · [[holy-grail]] · [[lancelot]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

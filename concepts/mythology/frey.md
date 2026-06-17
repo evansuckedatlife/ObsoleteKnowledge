@@ -3,11 +3,20 @@ type: deity
 category: mythology
 defines: [Frey, Freyr]
 related: ["[[freya]]", "[[odin]]", "[[loki]]"]
+requires: ["[[odin]]"]
 lists: ["[[norse-gods]]"]
+tour_order: 1
 read: false
 ---
 
 # Frey
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -31,6 +40,18 @@ read: false
 ## see also
 
 - [[freya]] · [[odin]] · [[loki]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

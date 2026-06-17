@@ -2,12 +2,21 @@
 type: hero
 category: mythology
 defines: [Perseus]
-related: ["[[perseus]]"]
+related: []
+requires: ["[[zeus]]"]
 lists: ["[[greek-heroes]]"]
+tour_order: 1
 read: false
 ---
 
 # Perseus
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +44,18 @@ read: false
 ## see also
 
 - [[heracles]] · [[theseus]] · [[jason]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

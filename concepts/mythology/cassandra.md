@@ -2,12 +2,21 @@
 type: person
 category: mythology
 defines: [Cassandra]
-related: ["[[priam]]", "[[hecuba]]", "[[the-iliad]]"]
+related: ["[[priam]]", "[[hecuba]]", "[[the-iliad]]", "[[chapmans-homer]]", "[[james-joyce]]"]
+requires: ["[[apollo]]"]
 lists: ["[[trojan-war-heroes]]", "[[mortal-women-in-greek-myth]]"]
+tour_order: 1
 read: false
 ---
 
 # Cassandra
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +45,18 @@ Princess of *Troy* cursed by *Apollo* to speak truth that no one would believe, 
 ## see also
 
 - [[clytemnestra]] · [[the-odyssey]] · [[the-trojan-war]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

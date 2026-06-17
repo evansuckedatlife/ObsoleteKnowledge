@@ -4,17 +4,22 @@ category: mythology
 defines:
   - Frigg
   - Frigga
-related:
-  - "[[odin]]"
-  - "[[balder]]"
-  - "[[frey]]"
-  - "[[freya]]"
+related: ["[[odin]]", "[[balder]]", "[[frey]]", "[[freya]]"]
+requires: ["[[odin]]"]
 lists:
   - "[[norse-gods]]"
+tour_order: 1
 read: true
 ---
 
 # Frigg
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +44,18 @@ read: true
 ## see also
 
 - [[odin]] · [[balder]] · [[frey]] · [[freya]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

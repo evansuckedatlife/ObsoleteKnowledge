@@ -3,15 +3,23 @@ type: hero
 category: mythology
 defines:
   - Achilles
-related:
-  - "[[achilles]]"
+related: ["[[chapmans-homer]]", "[[james-joyce]]"]
+requires: ["[[the-trojan-war]]"]
 lists:
   - "[[greek-heroes]]"
   - "[[trojan-war-heroes]]"
+tour_order: 1
 read: true
 ---
 
 # Achilles
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -56,6 +64,18 @@ Achilles stands at the foundation of Western heroic tradition, embodying the anc
 ## see also
 
 - [[odysseus]] · [[ajax-the-great]] · [[hector]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

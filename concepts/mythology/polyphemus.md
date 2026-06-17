@@ -3,11 +3,20 @@ type: monster
 category: mythology
 defines: [Polyphemus]
 related: ["[[odysseus]]", "[[poseidon]]", "[[the-odyssey]]"]
+requires: ["[[the-odyssey]]"]
 lists: ["[[greek-mythological-monsters]]"]
+tour_order: 2
 read: false
 ---
 
 # Polyphemus
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ A Cyclops giant with a single massive eye in the center of his forehead, Polyphe
 ## see also
 
 - [[medusa]] · [[cerberus]] · [[sphinx]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

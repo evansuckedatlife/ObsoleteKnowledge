@@ -3,16 +3,22 @@ type: hero
 category: mythology
 defines:
   - Menelaus
-related:
-  - "[[agamemnon]]"
-  - "[[helen-of-troy]]"
-  - "[[the-trojan-war]]"
+related: ["[[agamemnon]]", "[[helen-of-troy]]", "[[the-trojan-war]]"]
+requires: ["[[the-trojan-war]]"]
 lists:
   - "[[trojan-war-heroes]]"
+tour_order: 1
 read: true
 ---
 
 # Menelaus
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -41,6 +47,18 @@ King of *Sparta* and husband of *Helen*, Menelaus was the nominal cause of the T
 ## see also
 
 - [[priam]] · [[the-odyssey]] · [[odysseus]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

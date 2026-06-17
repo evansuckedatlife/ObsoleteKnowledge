@@ -2,8 +2,10 @@
 type: hero
 category: mythology
 defines: [Bellerophon]
-related: ["[[bellerophon]]"]
+related: ["[[rodin]]", "[[bernini]]"]
+requires: []
 lists: ["[[greek-heroes]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[heracles]] · [[perseus]] · [[theseus]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

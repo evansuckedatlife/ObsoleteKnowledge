@@ -2,12 +2,21 @@
 type: person
 category: mythology
 defines: [Penelope]
-related: ["[[odysseus]]", "[[the-odyssey]]"]
+related: ["[[odysseus]]", "[[the-odyssey]]", "[[james-joyce]]"]
+requires: ["[[odysseus]]"]
 lists: ["[[mortal-women-in-greek-myth]]"]
+tour_order: 2
 read: false
 ---
 
 # Penelope
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ The faithful wife of *Odysseus*, king of Ithaca, who waited twenty years for her
 ## see also
 
 - [[helen-of-troy]] · [[ariadne]] · [[medea]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

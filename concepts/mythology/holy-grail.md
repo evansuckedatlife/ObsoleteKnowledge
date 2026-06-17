@@ -3,11 +3,20 @@ type: concept
 category: mythology
 defines: [Holy Grail, The Holy Grail]
 related: ["[[king-arthur]]", "[[round-table]]", "[[galahad]]", "[[percival]]", "[[lancelot]]", "[[joseph-of-arimathea]]", "[[fisher-king]]"]
+requires: ["[[king-arthur]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Holy Grail
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ The Holy Grail is a sacred vessel in Arthurian legend that served as the focus o
 ## see also
 
 - [[king-arthur]] · [[round-table]] · [[lancelot]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

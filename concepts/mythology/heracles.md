@@ -2,12 +2,21 @@
 type: hero
 category: mythology
 defines: [Heracles, Hercules]
-related: ["[[heracles]]"]
+related: []
+requires: ["[[zeus]]"]
 lists: ["[[greek-heroes]]"]
+tour_order: 1
 read: false
 ---
 
 # Heracles
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -56,6 +65,18 @@ Heracles is central to Western heroic tradition because he earned his divinity t
 ## see also
 
 - [[theseus]] · [[perseus]] · [[jason]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

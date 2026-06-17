@@ -2,12 +2,21 @@
 type: person
 category: mythology
 defines: [Andromache]
-related: ["[[hector]]", "[[achilles]]", "[[the-iliad]]"]
+related: ["[[hector]]", "[[achilles]]", "[[the-iliad]]", "[[chapmans-homer]]", "[[james-joyce]]"]
+requires: ["[[the-trojan-war]]"]
 lists: ["[[trojan-war-heroes]]"]
+tour_order: 1
 read: false
 ---
 
 # Andromache
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +45,18 @@ Wife of *Hector* and mother of *Astyanax*, Andromache stands as the tragic image
 ## see also
 
 - [[paris]] · [[cassandra]] · [[the-aeneid]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

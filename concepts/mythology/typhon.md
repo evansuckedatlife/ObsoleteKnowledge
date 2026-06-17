@@ -3,11 +3,20 @@ type: monster
 category: mythology
 defines: [Typhon, Typhoeus, Typhaon]
 related: ["[[echidna]]", "[[zeus]]"]
+requires: ["[[zeus]]"]
 lists: ["[[greek-mythological-monsters]]"]
+tour_order: 1
 read: false
 ---
 
 # Typhon
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +44,18 @@ The most fearsome of all primordial monsters, Typhon was a fire-breathing giant 
 ## see also
 
 - [[medusa]] · [[minotaur]] · [[sphinx]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

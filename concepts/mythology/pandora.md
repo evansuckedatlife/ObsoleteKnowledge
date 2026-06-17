@@ -3,11 +3,20 @@ type: person
 category: mythology
 defines: [Pandora]
 related: ["[[prometheus]]", "[[zeus]]"]
+requires: ["[[zeus]]"]
 lists: ["[[mortal-women-in-greek-myth]]"]
+tour_order: 1
 read: false
 ---
 
 # Pandora
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ The first woman in Greek mythology, created by the gods as punishment for humani
 ## see also
 
 - [[cassandra]] · [[hecuba]] · [[medea]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

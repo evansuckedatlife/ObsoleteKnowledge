@@ -3,7 +3,9 @@ type: person
 category: mythology
 defines: [King Arthur, Arthur]
 related: ["[[merlin]]", "[[guinevere]]", "[[lancelot]]", "[[mordred]]", "[[excalibur]]", "[[round-table]]", "[[camelot]]"]
+requires: []
 lists: ["[[arthurian-characters]]"]
+tour_order: 0
 read: false
 ---
 
@@ -63,6 +65,18 @@ read: false
 ## see also
 
 - [[merlin]] · [[guinevere]] · [[lancelot]] · [[mordred]] · [[gawain]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

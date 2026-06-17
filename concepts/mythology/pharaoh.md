@@ -3,11 +3,20 @@ type: concept
 category: mythology
 defines: [Pharaoh, Pharaonic Institution]
 related: ["[[osiris]]", "[[horus]]", "[[amon]]", "[[ra]]", "[[maat]]", "[[moses]]"]
+requires: ["[[ra]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Pharaoh
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -70,6 +79,18 @@ read: false
 ## see also
 
 - [[osiris]] · [[isis]] · [[horus]] · [[ra]] · [[amon]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

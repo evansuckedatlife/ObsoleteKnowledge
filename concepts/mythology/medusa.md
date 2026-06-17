@@ -2,12 +2,21 @@
 type: monster
 category: mythology
 defines: [Medusa]
-related: ["[[perseus]]", "[[poseidon]]", "[[athena]]"]
+related: ["[[perseus]]", "[[poseidon]]", "[[athena]]", "[[caravaggio]]"]
+requires: ["[[perseus]]"]
 lists: ["[[greek-mythological-monsters]]"]
+tour_order: 2
 read: false
 ---
 
 # Medusa
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ Once a beautiful woman transformed into a horrifying monster with serpents for h
 ## see also
 
 - [[chimera]] · [[sphinx]] · [[typhon]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

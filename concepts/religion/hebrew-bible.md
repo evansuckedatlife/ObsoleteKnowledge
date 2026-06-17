@@ -1,12 +1,23 @@
 ---
 type: text
 category: religion
-defines: [Hebrew Bible, Tanakh, Old Testament]
-related: ["[[torah]]", "[[moses]]", "[[david]]", "[[abraham]]", "[[judaism]]", "[[christianity]]", "[[septuagint]]"]
-requires: ["[[judaism]]"]
+defines:
+  - Hebrew Bible
+  - Tanakh
+  - Old Testament
+related:
+  - "[[torah]]"
+  - "[[moses]]"
+  - "[[david]]"
+  - "[[abraham]]"
+  - "[[judaism]]"
+  - "[[christianity]]"
+  - "[[septuagint]]"
+requires:
+  - "[[judaism]]"
 lists: []
 tour_order: 1
-read: false
+read: true
 ---
 
 # Hebrew Bible

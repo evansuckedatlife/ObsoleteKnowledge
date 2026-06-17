@@ -2,8 +2,10 @@
 type: monster
 category: mythology
 defines: [Calydonian Boar]
-related: ["[[atalanta]]", "[[jason]]", "[[artemis]]"]
+related: ["[[atalanta]]", "[[jason]]", "[[artemis]]", "[[phidias]]"]
+requires: []
 lists: ["[[greek-mythological-monsters]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ A massive, supernatural wild boar sent by the goddess *Artemis* to ravage the la
 ## see also
 
 - [[medusa]] · [[minotaur]] · [[chimera]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

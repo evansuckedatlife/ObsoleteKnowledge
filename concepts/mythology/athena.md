@@ -3,7 +3,9 @@ type: deity
 category: mythology
 defines: [Athena, Athene, Minerva]
 related: ["[[zeus]]", "[[arachne]]", "[[medusa]]", "[[odysseus]]", "[[diomedes]]", "[[perseus]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ Athena is the Greek goddess of wisdom, handicraft, and warfare. Unlike Ares, who
 ## see also
 
 - [[zeus]] · [[apollo]] · [[aphrodite]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

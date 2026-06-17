@@ -2,8 +2,10 @@
 type: deity
 category: mythology
 defines: [Apollo, Phoebus]
-related: ["[[zeus]]", "[[athena]]", "[[cassandra]]", "[[laocoon]]", "[[artemis]]", "[[daphne]]"]
+related: ["[[zeus]]", "[[athena]]", "[[cassandra]]", "[[laocoon]]", "[[artemis]]", "[[daphne]]", "[[apollo-program]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ Apollo is one of the most complex and important Olympian deities in classical Gr
 ## see also
 
 - [[zeus]] · [[athena]] · [[aphrodite]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

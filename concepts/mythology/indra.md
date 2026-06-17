@@ -3,7 +3,9 @@ type: deity
 category: mythology
 defines: [Indra]
 related: ["[[vedas]]", "[[agni]]"]
+requires: []
 lists: ["[[hindu-heroes]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[vedas]] · [[agni]] · [[brahma]] · [[vishnu]] · [[shiva]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

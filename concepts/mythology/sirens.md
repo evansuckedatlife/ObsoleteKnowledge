@@ -3,11 +3,20 @@ type: monster
 category: mythology
 defines: [Sirens]
 related: ["[[odysseus]]", "[[the-odyssey]]", "[[orpheus]]"]
+requires: ["[[the-odyssey]]"]
 lists: ["[[greek-mythological-monsters]]"]
+tour_order: 2
 read: false
 ---
 
 # Sirens
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ Supernatural beings that blended feminine beauty with bestial form—variously d
 ## see also
 
 - [[polyphemus]] · [[cerberus]] · [[medusa]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

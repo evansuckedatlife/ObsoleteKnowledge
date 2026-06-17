@@ -3,16 +3,22 @@ type: hero
 category: mythology
 defines:
   - Patroclus
-related:
-  - "[[achilles]]"
-  - "[[hector]]"
-  - "[[the-iliad]]"
+related: ["[[achilles]]", "[[hector]]", "[[the-iliad]]"]
+requires: ["[[achilles]]"]
 lists:
   - "[[trojan-war-heroes]]"
+tour_order: 2
 read: true
 ---
 
 # Patroclus
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ Companion and closest friend to *Achilles*, Patroclus fought alongside the great
 ## see also
 
 - [[nestor]] · [[odysseus]] · [[diomedes]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

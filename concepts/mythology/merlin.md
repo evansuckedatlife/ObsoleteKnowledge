@@ -3,11 +3,20 @@ type: person
 category: mythology
 defines: [Merlin]
 related: ["[[king-arthur]]", "[[lady-of-the-lake]]", "[[uther-pendragon]]", "[[morgan-le-fay]]"]
+requires: ["[[king-arthur]]"]
 lists: ["[[arthurian-characters]]"]
+tour_order: 1
 read: false
 ---
 
 # Merlin
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +44,18 @@ The legendary wizard and advisor to King Arthur, credited with orchestrating Art
 ## see also
 
 - [[king-arthur]] · [[lady-of-the-lake]] · [[morgan-le-fay]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

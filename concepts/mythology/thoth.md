@@ -3,11 +3,20 @@ type: deity
 category: mythology
 defines: [Thoth]
 related: ["[[ra]]", "[[maat]]", "[[horus]]", "[[book-of-the-dead]]"]
+requires: ["[[ra]]"]
 lists: ["[[egyptian-deities]]"]
+tour_order: 1
 read: false
 ---
 
 # Thoth
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -55,6 +64,18 @@ Thoth occupies a unique position in Egyptian theology as the embodiment of intel
 ## see also
 
 - [[ra]] · [[maat]] · [[horus]] · [[isis]] · [[book-of-the-dead]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

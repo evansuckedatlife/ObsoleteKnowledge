@@ -3,11 +3,20 @@ type: hero
 category: mythology
 defines: [Paris, Alexandros]
 related: ["[[helen-of-troy]]", "[[hector]]", "[[the-iliad]]"]
+requires: ["[[the-trojan-war]]"]
 lists: ["[[trojan-war-heroes]]"]
+tour_order: 1
 read: false
 ---
 
 # Paris
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -54,6 +63,18 @@ Paris has long been read as a symbol of the costs of unchecked desire and the po
 ## see also
 
 - [[aphrodite]] · [[andromache]] · [[hecuba]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

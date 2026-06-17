@@ -3,11 +3,20 @@ type: deity
 category: mythology
 defines: [Osiris]
 related: ["[[isis]]", "[[set]]", "[[horus]]", "[[anubis]]", "[[nephthys]]"]
+requires: ["[[ra]]"]
 lists: ["[[egyptian-deities]]"]
+tour_order: 1
 read: false
 ---
 
 # Osiris
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -64,6 +73,18 @@ read: false
 ## see also
 
 - [[isis]] · [[set]] · [[horus]] · [[anubis]] · [[ma'at]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

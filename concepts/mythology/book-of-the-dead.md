@@ -3,11 +3,20 @@ type: text
 category: mythology
 defines: [Book of the Dead, Book of the Coming Forth by Day]
 related: ["[[osiris]]", "[[anubis]]", "[[thoth]]", "[[maat]]", "[[ra]]", "[[nephthys]]"]
+requires: ["[[osiris]]"]
 lists: []
+tour_order: 2
 read: false
 ---
 
 # Book of the Dead
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ The Book of the Dead is an ancient Egyptian funerary text used from the beginnin
 ## see also
 
 - [[osiris]] · [[isis]] · [[anubis]] · [[thoth]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

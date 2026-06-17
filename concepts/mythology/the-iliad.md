@@ -3,12 +3,21 @@ type: work
 category: mythology
 defines: [The Iliad, Iliad]
 related: ["[[achilles]]", "[[hector]]", "[[agamemnon]]", "[[the-trojan-war]]", "[[the-odyssey]]", "[[patroclus]]", "[[priam]]"]
+requires: ["[[the-trojan-war]]"]
 lists: []
+tour_order: 1
 read: false
 aliases: [iliad]
 ---
 
 # The Iliad
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -60,6 +69,18 @@ aliases: [iliad]
 ## see also
 
 - [[the-trojan-war]] · [[the-odyssey]] · [[the-aeneid]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

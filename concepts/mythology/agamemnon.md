@@ -3,16 +3,22 @@ type: hero
 category: mythology
 defines:
   - Agamemnon
-related:
-  - "[[menelaus]]"
-  - "[[the-trojan-war]]"
-  - "[[the-iliad]]"
+related: ["[[menelaus]]", "[[the-trojan-war]]", "[[the-iliad]]", "[[chapmans-homer]]", "[[james-joyce]]"]
+requires: ["[[the-trojan-war]]"]
 lists:
   - "[[trojan-war-heroes]]"
+tour_order: 1
 read: true
 ---
 
 # Agamemnon
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -41,6 +47,18 @@ The king of *Mycenae* and supreme commander of the Greek forces at *Troy*, Agame
 ## see also
 
 - [[helen-of-troy]] · [[hector]] · [[priam]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

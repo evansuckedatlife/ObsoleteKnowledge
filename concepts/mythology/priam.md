@@ -3,11 +3,20 @@ type: person
 category: mythology
 defines: [Priam]
 related: ["[[hector]]", "[[paris]]", "[[the-iliad]]"]
+requires: ["[[the-trojan-war]]"]
 lists: ["[[trojan-war-heroes]]"]
+tour_order: 1
 read: false
 ---
 
 # Priam
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +45,18 @@ King of *Troy* throughout the ten-year war, Priam witnessed the destruction of h
 ## see also
 
 - [[laocoon]] · [[aeneas]] · [[the-trojan-war]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

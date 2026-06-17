@@ -3,11 +3,20 @@ type: deity
 category: mythology
 defines: [Parvati, Devi]
 related: ["[[shiva]]", "[[ganesha]]"]
+requires: ["[[shiva]]"]
 lists: ["[[hindu-heroes]]"]
+tour_order: 1
 read: false
 ---
 
 # Parvati
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[shiva]] · [[ganesha]] · [[brahma]] · [[vishnu]] · [[lakshmi]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

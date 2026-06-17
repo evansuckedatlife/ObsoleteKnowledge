@@ -3,11 +3,20 @@ type: person
 category: mythology
 defines: [The Lady of the Lake, Nimue, Vivien]
 related: ["[[king-arthur]]", "[[merlin]]", "[[lancelot]]", "[[excalibur]]"]
+requires: ["[[king-arthur]]"]
 lists: ["[[arthurian-characters]]"]
+tour_order: 1
 read: false
 ---
 
 # The Lady of the Lake
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ The Lady of the Lake stands as one of Arthurian legend's most powerful and enigm
 ## see also
 
 - [[king-arthur]] · [[merlin]] · [[lancelot]] · [[excalibur]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

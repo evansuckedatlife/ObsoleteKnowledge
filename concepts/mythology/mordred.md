@@ -3,11 +3,20 @@ type: person
 category: mythology
 defines: [Mordred]
 related: ["[[king-arthur]]", "[[morgan-le-fay]]"]
+requires: ["[[king-arthur]]"]
 lists: ["[[arthurian-characters]]"]
+tour_order: 1
 read: false
 ---
 
 # Mordred
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -31,6 +40,18 @@ Mordred emerges as the dark shadow of Arthur's reign—a prince of ambiguous par
 ## see also
 
 - [[king-arthur]] · [[morgan-le-fay]] · [[camlann]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

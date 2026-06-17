@@ -3,11 +3,20 @@ type: person
 category: mythology
 defines: [Laocoon]
 related: ["[[priam]]", "[[the-trojan-war]]", "[[the-aeneid]]"]
+requires: ["[[the-trojan-war]]"]
 lists: ["[[trojan-war-heroes]]"]
+tour_order: 1
 read: false
 ---
 
 # Laocoon
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +44,18 @@ Trojan priest of *Apollo* or *Poseidon*, Laocoon stands as the figure who warned
 ## see also
 
 - [[troy]] · [[paris]] · [[andromache]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

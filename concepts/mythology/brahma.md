@@ -3,7 +3,9 @@ type: deity
 category: mythology
 defines: [Brahma]
 related: ["[[vishnu]]", "[[shiva]]", "[[trimurti]]", "[[vedas]]"]
+requires: []
 lists: ["[[hindu-heroes]]"]
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +37,18 @@ read: false
 ## see also
 
 - [[vishnu]] · [[shiva]] · [[trimurti]] · [[vedas]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

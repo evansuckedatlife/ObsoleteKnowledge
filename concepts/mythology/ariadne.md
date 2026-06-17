@@ -3,11 +3,20 @@ type: person
 category: mythology
 defines: [Ariadne]
 related: ["[[theseus]]", "[[minotaur]]", "[[hades]]"]
+requires: ["[[theseus]]"]
 lists: ["[[mortal-women-in-greek-myth]]"]
+tour_order: 1
 read: false
 ---
 
 # Ariadne
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ Princess of Crete who fell in love with the hero *Theseus* and saved him from th
 ## see also
 
 - [[medea]] · [[penelope]] · [[danae]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: deity
 category: mythology
 defines: [Aphrodite, Venus]
 related: ["[[zeus]]", "[[aeneas]]", "[[atalanta]]", "[[helen-of-troy]]", "[[paris]]", "[[diomedes]]", "[[hephaestus]]", "[[ares]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ Aphrodite is the ancient Greek goddess of love, beauty, pleasure, and procreatio
 ## see also
 
 - [[zeus]] · [[athena]] · [[apollo]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

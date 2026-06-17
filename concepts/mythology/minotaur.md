@@ -3,11 +3,20 @@ type: monster
 category: mythology
 defines: [Minotaur, Asterion]
 related: ["[[theseus]]", "[[ariadne]]", "[[minos]]"]
+requires: ["[[theseus]]"]
 lists: ["[[greek-mythological-monsters]]"]
+tour_order: 1
 read: false
 ---
 
 # Minotaur
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ A hybrid creature with the head of a bull and the body of a man, the *Minotaur* 
 ## see also
 
 - [[cerberus]] · [[chimera]] · [[sphinx]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

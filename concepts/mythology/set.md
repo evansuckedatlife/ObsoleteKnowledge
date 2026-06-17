@@ -3,11 +3,20 @@ type: deity
 category: mythology
 defines: [Set, Seth]
 related: ["[[osiris]]", "[[horus]]", "[[nephthys]]", "[[thoth]]"]
+requires: ["[[ra]]", "[[osiris]]"]
 lists: ["[[egyptian-deities]]"]
+tour_order: 2
 read: false
 ---
 
 # Set
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +45,18 @@ The god of chaos, desert, and violence, Set murdered his brother Osiris in a pow
 ## see also
 
 - [[osiris]] · [[horus]] · [[isis]] · [[nephthys]] · [[ra]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

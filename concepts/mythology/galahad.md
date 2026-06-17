@@ -3,11 +3,20 @@ type: person
 category: mythology
 defines: [Galahad, Sir Galahad]
 related: ["[[lancelot]]", "[[percival]]", "[[round-table]]", "[[holy-grail]]"]
+requires: ["[[king-arthur]]"]
 lists: ["[[arthurian-characters]]"]
+tour_order: 1
 read: false
 ---
 
 # Galahad
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ Sir Galahad stands as the purest and most virtuous knight of the *Round Table*, 
 ## see also
 
 - [[lancelot]] · [[percival]] · [[holy-grail]] · [[round-table]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

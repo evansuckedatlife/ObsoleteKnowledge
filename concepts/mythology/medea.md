@@ -2,12 +2,21 @@
 type: person
 category: mythology
 defines: [Medea]
-related: ["[[jason]]", "[[the-argonauts]]", "[[hades]]"]
+related: ["[[jason]]", "[[the-argonauts]]", "[[hades]]", "[[medea-play]]"]
+requires: ["[[jason]]"]
 lists: ["[[mortal-women-in-greek-myth]]"]
+tour_order: 1
 read: false
 ---
 
 # Medea
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ A powerful sorceress and princess of Colchis who became legendary for her passio
 ## see also
 
 - [[ariadne]] · [[penelope]] · [[clytemnestra]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

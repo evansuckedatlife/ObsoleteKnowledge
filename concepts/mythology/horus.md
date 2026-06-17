@@ -3,11 +3,20 @@ type: deity
 category: mythology
 defines: [Horus]
 related: ["[[osiris]]", "[[isis]]", "[[set]]", "[[thoth]]"]
+requires: ["[[ra]]"]
 lists: ["[[egyptian-deities]]"]
+tour_order: 1
 read: false
 ---
 
 # Horus
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +45,18 @@ The falcon-headed god of the sky and rightful heir to Egypt's throne, Horus was 
 ## see also
 
 - [[osiris]] · [[isis]] · [[set]] · [[ra]] · [[thoth]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

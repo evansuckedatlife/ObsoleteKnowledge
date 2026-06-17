@@ -3,7 +3,9 @@ type: deity
 category: mythology
 defines: [Amon, Amun, Amon-Ra]
 related: ["[[ra]]", "[[thoth]]", "[[hathor]]"]
+requires: []
 lists: ["[[egyptian-deities]]"]
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +37,18 @@ The hidden king of the gods and chief deity of the New Kingdom, Amon was origina
 ## see also
 
 - [[ra]] · [[thoth]] · [[hathor]] · [[pharaoh]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

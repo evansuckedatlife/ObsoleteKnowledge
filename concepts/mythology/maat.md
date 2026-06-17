@@ -3,11 +3,20 @@ type: deity
 category: mythology
 defines: [Ma'at, Maat]
 related: ["[[thoth]]", "[[osiris]]", "[[ra]]"]
+requires: ["[[ra]]"]
 lists: ["[[egyptian-deities]]"]
+tour_order: 1
 read: false
 ---
 
 # Ma'at
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +44,18 @@ The goddess and abstract principle of truth, justice, cosmic order, and balance,
 ## see also
 
 - [[thoth]] · [[osiris]] · [[ra]] · [[pharaoh]] · [[book-of-the-dead]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

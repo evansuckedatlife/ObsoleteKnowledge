@@ -3,11 +3,20 @@ type: deity
 category: mythology
 defines: [Isis]
 related: ["[[osiris]]", "[[horus]]", "[[nephthys]]", "[[set]]"]
+requires: ["[[ra]]"]
 lists: ["[[egyptian-deities]]"]
+tour_order: 1
 read: false
 ---
 
 # Isis
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +45,18 @@ The goddess of magic, motherhood, and devotion, Isis used her supernatural power
 ## see also
 
 - [[osiris]] · [[horus]] · [[nephthys]] · [[set]] · [[anubis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

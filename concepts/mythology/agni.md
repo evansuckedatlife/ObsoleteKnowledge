@@ -3,11 +3,20 @@ type: deity
 category: mythology
 defines: [Agni]
 related: ["[[vedas]]", "[[indra]]"]
+requires: ["[[indra]]"]
 lists: ["[[hindu-heroes]]"]
+tour_order: 1
 read: false
 ---
 
 # Agni
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[vedas]] · [[indra]] · [[brahma]] · [[shiva]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

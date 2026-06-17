@@ -2,12 +2,21 @@
 type: hero
 category: mythology
 defines: [Ajax the Great, Telamonian Ajax]
-related: ["[[ajax-the-great]]"]
+related: ["[[chapmans-homer]]", "[[james-joyce]]"]
+requires: ["[[the-trojan-war]]"]
 lists: ["[[greek-heroes]]", "[[trojan-war-heroes]]"]
+tour_order: 1
 read: false
 ---
 
 # Ajax the Great
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ read: false
 ## see also
 
 - [[achilles]] · [[odysseus]] · [[diomedes]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

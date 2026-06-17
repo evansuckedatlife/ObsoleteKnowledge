@@ -3,11 +3,20 @@ type: deity
 category: mythology
 defines: [Ganesha, Ganesh]
 related: ["[[shiva]]", "[[parvati]]"]
+requires: ["[[shiva]]"]
 lists: ["[[hindu-heroes]]"]
+tour_order: 1
 read: false
 ---
 
 # Ganesha
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[shiva]] · [[parvati]] · [[brahma]] · [[vishnu]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

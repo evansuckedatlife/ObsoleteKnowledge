@@ -3,7 +3,9 @@ type: event
 category: mythology
 defines: [The Trojan War]
 related: ["[[achilles]]", "[[hector]]", "[[agamemnon]]", "[[helen-of-troy]]", "[[paris]]", "[[the-iliad]]", "[[the-odyssey]]", "[[the-aeneid]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 aliases: [trojan-war]
 ---
@@ -55,6 +57,18 @@ The Trojan War anchors Greek mythology and Western literature as the defining co
 ## see also
 
 - [[the-iliad]] · [[the-odyssey]] · [[the-aeneid]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

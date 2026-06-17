@@ -2,12 +2,21 @@
 type: person
 category: mythology
 defines: [Arachne]
-related: ["[[athena]]"]
+related: ["[[athena]]", "[[phidias]]", "[[bernini]]"]
+requires: ["[[athena]]"]
 lists: ["[[mortal-women-in-greek-myth]]"]
+tour_order: 1
 read: false
 ---
 
 # Arachne
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -31,6 +40,18 @@ A mortal weaver whose extraordinary skill rivaled that of *Athena*, the goddess 
 ## see also
 
 - [[medusa]] · [[pandora]] · [[atalanta]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

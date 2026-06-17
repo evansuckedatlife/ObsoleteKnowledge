@@ -3,11 +3,20 @@ type: hero
 category: mythology
 defines: [Arjuna]
 related: ["[[krishna]]", "[[bhagavad-gita]]", "[[mahabharata]]"]
+requires: ["[[krishna]]"]
 lists: ["[[hindu-heroes]]"]
+tour_order: 2
 read: false
 ---
 
 # Arjuna
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[krishna]] · [[bhagavad-gita]] · [[mahabharata]] · [[vishnu]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,8 +2,10 @@
 type: hero
 category: mythology
 defines: [Jason]
-related: ["[[jason]]"]
+related: []
+requires: []
 lists: ["[[greek-heroes]]"]
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +37,18 @@ read: false
 ## see also
 
 - [[heracles]] · [[theseus]] · [[atalanta]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

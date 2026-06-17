@@ -2,8 +2,10 @@
 type: monster
 category: mythology
 defines: [Chimera, Chimaera]
-related: ["[[bellerophon]]", "[[pegasus]]", "[[echidna]]"]
+related: ["[[bellerophon]]", "[[pegasus]]", "[[echidna]]", "[[rodin]]", "[[bernini]]"]
+requires: []
 lists: ["[[greek-mythological-monsters]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ A fire-breathing composite monster combining the front parts of a lion, the midd
 ## see also
 
 - [[lernaean-hydra]] · [[cerberus]] · [[typhon]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

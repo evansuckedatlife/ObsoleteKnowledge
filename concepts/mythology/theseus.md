@@ -2,8 +2,10 @@
 type: hero
 category: mythology
 defines: [Theseus]
-related: ["[[theseus]]"]
+related: ["[[athens]]"]
+requires: []
 lists: ["[[greek-heroes]]"]
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +37,18 @@ read: false
 ## see also
 
 - [[heracles]] · [[jason]] · [[perseus]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: person
 category: mythology
 defines: [Guinevere]
 related: ["[[king-arthur]]", "[[lancelot]]", "[[mordred]]"]
+requires: ["[[king-arthur]]"]
 lists: ["[[arthurian-characters]]"]
+tour_order: 1
 read: false
 ---
 
 # Guinevere
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ Queen of Britain and wife to King Arthur, Guinevere embodies the tragic contradi
 ## see also
 
 - [[king-arthur]] · [[lancelot]] · [[round-table]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

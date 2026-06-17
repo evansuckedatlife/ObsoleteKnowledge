@@ -2,12 +2,21 @@
 type: hero
 category: mythology
 defines: [Aeneas]
-related: ["[[hector]]", "[[the-aeneid]]", "[[the-trojan-war]]"]
+related: ["[[hector]]", "[[the-aeneid]]", "[[the-trojan-war]]", "[[hector-berlioz]]", "[[chapmans-homer]]"]
+requires: ["[[the-trojan-war]]"]
 lists: ["[[trojan-war-heroes]]"]
+tour_order: 1
 read: false
 ---
 
 # Aeneas
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +45,18 @@ Trojan hero and son of the goddess *Aphrodite*, Aeneas escaped Troy's destructio
 ## see also
 
 - [[rome]] · [[dido]] · [[odysseus]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: deity
 category: mythology
 defines: [Vishnu]
 related: ["[[krishna]]", "[[rama]]", "[[lakshmi]]", "[[trimurti]]"]
+requires: []
 lists: ["[[hindu-heroes]]"]
+tour_order: 0
 read: false
 ---
 
@@ -57,6 +59,18 @@ Vishnu represents a distinctive Hindu theological emphasis: the idea that the di
 ## see also
 
 - [[krishna]] · [[rama]] · [[lakshmi]] · [[brahma]] · [[shiva]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

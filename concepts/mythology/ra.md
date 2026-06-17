@@ -2,8 +2,10 @@
 type: deity
 category: mythology
 defines: [Ra, Re]
-related: ["[[amon]]", "[[aten]]", "[[thoth]]", "[[pharaoh]]"]
+related: ["[[amon]]", "[[aten]]", "[[thoth]]", "[[pharaoh]]", "[[jupiter]]"]
+requires: []
 lists: ["[[egyptian-deities]]"]
+tour_order: 0
 read: false
 ---
 
@@ -67,6 +69,18 @@ read: false
 ## see also
 
 - [[amon]] · [[thoth]] · [[aten]] · [[pharaoh]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

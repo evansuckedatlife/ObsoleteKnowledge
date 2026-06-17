@@ -4,16 +4,22 @@ category: mythology
 defines:
   - Helen of Troy
   - Helen
-related:
-  - "[[the-trojan-war]]"
-  - "[[menelaus]]"
-  - "[[paris]]"
+related: ["[[the-trojan-war]]", "[[menelaus]]", "[[paris]]"]
+requires: ["[[the-trojan-war]]"]
 lists:
   - "[[mortal-women-in-greek-myth]]"
+tour_order: 1
 read: true
 ---
 
 # Helen of Troy
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +46,18 @@ The legendary beauty whose abduction by *Paris* triggered the Trojan War, one of
 ## see also
 
 - [[cassandra]] · [[hecuba]] · [[agamemnon]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

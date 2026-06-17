@@ -3,11 +3,20 @@ type: deity
 category: mythology
 defines: [Balder, Baldur]
 related: ["[[odin]]", "[[frigg]]", "[[loki]]", "[[thor]]", "[[norns]]"]
+requires: ["[[odin]]"]
 lists: ["[[norse-gods]]"]
+tour_order: 1
 read: false
 ---
 
 # Balder
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ read: false
 ## see also
 
 - [[odin]] · [[frigg]] · [[loki]] · [[thor]] · [[norns]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: deity
 category: mythology
 defines: [Aten, Aton]
 related: ["[[ra]]", "[[akhenaten]]"]
+requires: ["[[ra]]"]
 lists: ["[[egyptian-deities]]"]
+tour_order: 1
 read: false
 ---
 
 # Aten
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ The sun disk elevated to supreme and sole divinity by the pharaoh Akhenaten, Ate
 ## see also
 
 - [[ra]] · [[akhenaten]] · [[pharaoh]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

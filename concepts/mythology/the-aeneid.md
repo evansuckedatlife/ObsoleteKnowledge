@@ -3,11 +3,20 @@ type: work
 category: mythology
 defines: [The Aeneid, Aeneid]
 related: ["[[aeneas]]", "[[laocoon]]", "[[the-trojan-war]]", "[[the-iliad]]", "[[the-odyssey]]", "[[dido]]", "[[turnus]]"]
+requires: ["[[the-trojan-war]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # The Aeneid
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ The Aeneid is a Latin epic poem written by Virgil between 29 and 19 BC. It tells
 ## see also
 
 - [[the-trojan-war]] · [[the-iliad]] · [[the-odyssey]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

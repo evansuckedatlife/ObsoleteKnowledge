@@ -3,11 +3,20 @@ type: person
 category: mythology
 defines: [Danaë, Danae]
 related: ["[[zeus]]", "[[perseus]]"]
+requires: ["[[zeus]]"]
 lists: ["[[mortal-women-in-greek-myth]]"]
+tour_order: 1
 read: false
 ---
 
 # Danaë
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ Princess of Argos who became the mother of the hero *Perseus* after *Zeus* visit
 ## see also
 
 - [[ariadne]] · [[helen-of-troy]] · [[hecuba]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

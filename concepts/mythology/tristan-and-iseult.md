@@ -3,11 +3,20 @@ type: person
 category: mythology
 defines: [Tristan and Iseult, Tristan and Isolde]
 related: ["[[king-arthur]]", "[[round-table]]"]
+requires: ["[[king-arthur]]"]
 lists: ["[[arthurian-characters]]"]
+tour_order: 1
 read: false
 ---
 
 # Tristan and Iseult
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -31,6 +40,18 @@ The tragic lovers Tristan and Iseult (also Isolde) represent one of medieval lit
 ## see also
 
 - [[king-arthur]] · [[round-table]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,12 +3,21 @@ type: work
 category: mythology
 defines: [The Odyssey, Odyssey]
 related: ["[[odysseus]]", "[[penelope]]", "[[polyphemus]]", "[[sirens]]", "[[the-iliad]]", "[[the-trojan-war]]", "[[telemachus]]"]
+requires: ["[[the-trojan-war]]"]
 lists: []
+tour_order: 1
 read: false
 aliases: [odyssey]
 ---
 
 # The Odyssey
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -58,6 +67,18 @@ aliases: [odyssey]
 ## see also
 
 - [[the-trojan-war]] · [[the-iliad]] · [[the-aeneid]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

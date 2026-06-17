@@ -3,17 +3,22 @@ type: deity
 category: mythology
 defines:
   - Freya
-related:
-  - "[[frey]]"
-  - "[[odin]]"
-  - "[[frigg]]"
-  - "[[loki]]"
+related: ["[[frey]]", "[[odin]]", "[[frigg]]", "[[loki]]"]
+requires: ["[[odin]]"]
 lists:
   - "[[norse-gods]]"
+tour_order: 1
 read: false
 ---
 
 # Freya
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +43,18 @@ read: false
 ## see also
 
 - [[frey]] · [[odin]] · [[frigg]] · [[loki]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

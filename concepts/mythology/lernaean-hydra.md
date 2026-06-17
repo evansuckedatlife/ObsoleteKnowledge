@@ -3,11 +3,20 @@ type: monster
 category: mythology
 defines: [Lernaean Hydra, Hydra]
 related: ["[[heracles]]", "[[the-twelve-labors]]", "[[echidna]]"]
+requires: ["[[heracles]]"]
 lists: ["[[greek-mythological-monsters]]"]
+tour_order: 2
 read: false
 ---
 
 # Lernaean Hydra
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ A serpentine monstrosity with nine heads—eight mortal and one immortal—the *
 ## see also
 
 - [[cerberus]] · [[chimera]] · [[minotaur]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

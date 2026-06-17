@@ -3,7 +3,9 @@ type: deity
 category: mythology
 defines: [Shiva]
 related: ["[[parvati]]", "[[ganesha]]", "[[brahma]]", "[[vishnu]]", "[[trimurti]]"]
+requires: []
 lists: ["[[hindu-heroes]]"]
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +38,18 @@ read: false
 ## see also
 
 - [[parvati]] · [[ganesha]] · [[brahma]] · [[vishnu]] · [[trimurti]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

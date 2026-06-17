@@ -3,11 +3,20 @@ type: hero
 category: mythology
 defines: [Nestor]
 related: ["[[agamemnon]]", "[[achilles]]", "[[the-iliad]]"]
+requires: ["[[the-trojan-war]]"]
 lists: ["[[trojan-war-heroes]]"]
+tour_order: 1
 read: false
 ---
 
 # Nestor
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +45,18 @@ King of *Pylos* and the eldest statesman of the Greek forces at Troy, Nestor ear
 ## see also
 
 - [[diomedes]] · [[ajax-the-great]] · [[patroclus]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

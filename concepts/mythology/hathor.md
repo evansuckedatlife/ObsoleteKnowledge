@@ -3,11 +3,20 @@ type: deity
 category: mythology
 defines: [Hathor]
 related: ["[[ra]]", "[[horus]]", "[[amon]]"]
+requires: ["[[ra]]"]
 lists: ["[[egyptian-deities]]"]
+tour_order: 1
 read: false
 ---
 
 # Hathor
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +44,18 @@ The goddess of love, beauty, fertility, and joy, Hathor was also a protective co
 ## see also
 
 - [[ra]] · [[horus]] · [[amon]] · [[isis]] · [[pharaoh]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

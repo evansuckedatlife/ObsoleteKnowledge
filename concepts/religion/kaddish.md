@@ -1,12 +1,20 @@
 ---
 type: practice
 category: religion
-defines: [Kaddish, Mourner's Kaddish]
-related: ["[[judaism]]", "[[jewish-mourning]]", "[[aramaic]]", "[[prayer]]", "[[hebrew-prayer-book]]"]
-requires: ["[[judaism]]"]
+defines:
+  - Kaddish
+  - Mourner's Kaddish
+related:
+  - "[[judaism]]"
+  - "[[jewish-mourning]]"
+  - "[[aramaic]]"
+  - "[[prayer]]"
+  - "[[hebrew-prayer-book]]"
+requires:
+  - "[[judaism]]"
 lists: []
 tour_order: 1
-read: false
+read: true
 ---
 
 # Kaddish

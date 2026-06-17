@@ -3,11 +3,20 @@ type: person
 category: mythology
 defines: [Gawain, Sir Gawain]
 related: ["[[king-arthur]]", "[[green-knight]]", "[[round-table]]"]
+requires: ["[[king-arthur]]"]
 lists: ["[[arthurian-characters]]"]
+tour_order: 1
 read: false
 ---
 
 # Gawain
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ Sir Gawain stands as one of Arthur's most formidable and loyal knights, celebrat
 ## see also
 
 - [[king-arthur]] · [[green-knight]] · [[round-table]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -5,14 +5,11 @@ defines:
   - Odin
   - Wodin
   - Wotan
-related:
-  - "[[ymir]]"
-  - "[[frigg]]"
-  - "[[thor]]"
-  - "[[loki]]"
-  - "[[balder]]"
+related: ["[[ymir]]", "[[frigg]]", "[[thor]]", "[[loki]]", "[[balder]]"]
+requires: []
 lists:
   - "[[norse-gods]]"
+tour_order: 0
 read: true
 ---
 
@@ -69,6 +66,18 @@ read: true
 ## see also
 
 - [[frigg]] · [[thor]] · [[loki]] · [[balder]] · [[ragnarok]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

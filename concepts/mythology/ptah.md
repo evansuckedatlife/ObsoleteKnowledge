@@ -3,11 +3,20 @@ type: deity
 category: mythology
 defines: [Ptah]
 related: ["[[ra]]", "[[thoth]]", "[[maat]]"]
+requires: ["[[ra]]"]
 lists: ["[[egyptian-deities]]"]
+tour_order: 1
 read: false
 ---
 
 # Ptah
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +44,18 @@ The creator god of craftsmen and artisans, Ptah brought the world into being thr
 ## see also
 
 - [[ra]] · [[thoth]] · [[maat]] · [[osiris]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

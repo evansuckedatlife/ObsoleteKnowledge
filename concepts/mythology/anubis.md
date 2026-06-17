@@ -3,11 +3,20 @@ type: deity
 category: mythology
 defines: [Anubis]
 related: ["[[osiris]]", "[[isis]]", "[[thoth]]", "[[book-of-the-dead]]"]
+requires: ["[[osiris]]"]
 lists: ["[[egyptian-deities]]"]
+tour_order: 2
 read: false
 ---
 
 # Anubis
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +45,18 @@ The *jackal-headed* god of mummification, embalming, and the dead, Anubis was th
 ## see also
 
 - [[osiris]] · [[isis]] · [[thoth]] · [[book-of-the-dead]] · [[pharaoh]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

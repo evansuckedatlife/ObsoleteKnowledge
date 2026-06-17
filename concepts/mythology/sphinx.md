@@ -3,7 +3,9 @@ type: monster
 category: mythology
 defines: [Sphinx]
 related: ["[[oedipus]]", "[[thebes]]"]
+requires: []
 lists: ["[[greek-mythological-monsters]]"]
+tour_order: 0
 read: false
 ---
 
@@ -33,6 +35,18 @@ A winged creature with a human head, typically depicted as female, and the body 
 ## see also
 
 - [[medusa]] · [[chimera]] · [[minotaur]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

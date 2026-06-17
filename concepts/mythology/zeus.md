@@ -2,8 +2,10 @@
 type: deity
 category: mythology
 defines: [Zeus, Jupiter]
-related: ["[[hera]]", "[[poseidon]]", "[[hades]]", "[[athena]]", "[[apollo]]", "[[aphrodite]]", "[[heracles]]", "[[perseus]]"]
+related: ["[[hera]]", "[[poseidon]]", "[[hades]]", "[[athena]]", "[[apollo]]", "[[aphrodite]]", "[[heracles]]", "[[perseus]]", "[[jupiter]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -60,6 +62,18 @@ read: false
 ## see also
 
 - [[hera]] · [[poseidon]] · [[hades]] · [[athena]] · [[apollo]] · [[aphrodite]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

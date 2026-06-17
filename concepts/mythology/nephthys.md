@@ -3,11 +3,20 @@ type: deity
 category: mythology
 defines: [Nephthys]
 related: ["[[isis]]", "[[set]]", "[[osiris]]"]
+requires: ["[[ra]]"]
 lists: ["[[egyptian-deities]]"]
+tour_order: 1
 read: false
 ---
 
 # Nephthys
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +44,18 @@ The goddess of the boundaries, mourning, and hidden things, Nephthys was the sis
 ## see also
 
 - [[isis]] · [[set]] · [[osiris]] · [[anubis]] · [[book-of-the-dead]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

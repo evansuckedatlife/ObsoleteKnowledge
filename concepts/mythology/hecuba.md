@@ -3,11 +3,20 @@ type: person
 category: mythology
 defines: [Hecuba, Hecabe, Hekabe]
 related: ["[[priam]]", "[[hector]]", "[[cassandra]]"]
+requires: ["[[the-trojan-war]]"]
 lists: ["[[trojan-war-heroes]]", "[[mortal-women-in-greek-myth]]"]
+tour_order: 1
 read: false
 ---
 
 # Hecuba
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +45,18 @@ Queen of *Troy* and wife of *Priam*, Hecuba endured unimaginable tragedy as she 
 ## see also
 
 - [[troy]] · [[helen-of-troy]] · [[the-odyssey]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: person
 category: mythology
 defines: [Percival, Perceval, Parzival]
 related: ["[[galahad]]", "[[round-table]]", "[[holy-grail]]"]
+requires: ["[[king-arthur]]"]
 lists: ["[[arthurian-characters]]"]
+tour_order: 1
 read: false
 ---
 
 # Percival
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ Sir Percival (also Perceval or Parzival) embodies the knight as everyman—humbl
 ## see also
 
 - [[galahad]] · [[holy-grail]] · [[round-table]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

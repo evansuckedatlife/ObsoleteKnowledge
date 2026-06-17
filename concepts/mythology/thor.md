@@ -3,11 +3,20 @@ type: deity
 category: mythology
 defines: [Thor]
 related: ["[[odin]]", "[[loki]]", "[[balder]]", "[[heimdall]]"]
+requires: ["[[odin]]"]
 lists: ["[[norse-gods]]"]
+tour_order: 1
 read: false
 ---
 
 # Thor
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[odin]] · [[loki]] · [[balder]] · [[heimdall]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

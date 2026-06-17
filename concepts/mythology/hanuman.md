@@ -3,11 +3,20 @@ type: deity
 category: mythology
 defines: [Hanuman]
 related: ["[[rama]]", "[[sita]]", "[[ramayana]]"]
+requires: ["[[vishnu]]"]
 lists: ["[[hindu-heroes]]"]
+tour_order: 1
 read: false
 ---
 
 # Hanuman
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[rama]] · [[sita]] · [[ramayana]] · [[krishna]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

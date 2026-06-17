@@ -3,11 +3,20 @@ type: person
 category: mythology
 defines: [Lancelot, Sir Lancelot]
 related: ["[[king-arthur]]", "[[guinevere]]", "[[galahad]]", "[[round-table]]"]
+requires: ["[[king-arthur]]"]
 lists: ["[[arthurian-characters]]"]
+tour_order: 1
 read: false
 ---
 
 # Lancelot
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ Sir Lancelot du Lac stands as the greatest knight of the *Round Table*—unmatch
 ## see also
 
 - [[king-arthur]] · [[guinevere]] · [[galahad]] · [[holy-grail]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,12 +2,21 @@
 type: hero
 category: mythology
 defines: [Odysseus, Ulysses]
-related: ["[[odysseus]]"]
+related: ["[[james-joyce]]"]
+requires: ["[[the-trojan-war]]"]
 lists: ["[[greek-heroes]]", "[[trojan-war-heroes]]"]
+tour_order: 1
 read: false
 ---
 
 # Odysseus
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -51,6 +60,18 @@ Odysseus represents a turning point in heroic literature: the shift from the war
 - [[the-trojan-war]] — the conflict that initiated his wanderings and shaped his character through adversity.
 - [[poseidon]] — the god who cursed him, representing the irrational forces arrayed against human will.
 - [[wisdom-and-cunning]] — Odysseus embodies *metis* (cunning wisdom) as the highest form of heroism.
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

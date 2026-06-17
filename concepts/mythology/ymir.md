@@ -3,11 +3,20 @@ type: being
 category: mythology
 defines: [Ymir]
 related: ["[[odin]]", "[[norns]]"]
+requires: ["[[odin]]"]
 lists: ["[[norse-gods]]"]
+tour_order: 1
 read: false
 ---
 
 # Ymir
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -29,6 +38,18 @@ read: false
 ## see also
 
 - [[odin]] · [[norns]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

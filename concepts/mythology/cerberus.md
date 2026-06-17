@@ -2,8 +2,10 @@
 type: monster
 category: mythology
 defines: [Cerberus]
-related: ["[[heracles]]", "[[hades]]", "[[the-twelve-labors]]"]
+related: ["[[heracles]]", "[[hades]]", "[[the-twelve-labors]]", "[[rodin]]", "[[bernini]]"]
+requires: []
 lists: ["[[greek-mythological-monsters]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ The three-headed monstrous hound of the underworld, *Cerberus* stood guard at th
 ## see also
 
 - [[chimera]] · [[lernaean-hydra]] · [[medusa]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

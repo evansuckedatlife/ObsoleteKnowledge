@@ -2,12 +2,21 @@
 type: person
 category: mythology
 defines: [Clytemnestra]
-related: ["[[agamemnon]]", "[[helen-of-troy]]", "[[the-trojan-war]]"]
+related: ["[[agamemnon]]", "[[helen-of-troy]]", "[[the-trojan-war]]", "[[chapmans-homer]]", "[[james-joyce]]"]
+requires: ["[[agamemnon]]"]
 lists: ["[[mortal-women-in-greek-myth]]"]
+tour_order: 2
 read: false
 ---
 
 # Clytemnestra
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ Queen of Argos and wife of *Agamemnon*, she is remembered as one of Greek mythol
 ## see also
 
 - [[medea]] · [[penelope]] · [[hecuba]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

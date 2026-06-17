@@ -3,16 +3,22 @@ type: hero
 category: mythology
 defines:
   - Hector
-related:
-  - "[[achilles]]"
-  - "[[paris]]"
-  - "[[the-iliad]]"
+related: ["[[achilles]]", "[[paris]]", "[[the-iliad]]"]
+requires: ["[[the-trojan-war]]"]
 lists:
   - "[[trojan-war-heroes]]"
+tour_order: 1
 read: true
 ---
 
 # Hector
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -60,6 +66,18 @@ Hector represents a uniquely sympathetic portrayal of a defeated enemy in ancien
 ## see also
 
 - [[nestor]] · [[diomedes]] · [[hecuba]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

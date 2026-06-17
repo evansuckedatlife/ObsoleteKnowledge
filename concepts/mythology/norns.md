@@ -3,11 +3,20 @@ type: deity
 category: mythology
 defines: [Norns, Urd, Verdandi, Skuld]
 related: ["[[odin]]", "[[balder]]", "[[heimdall]]", "[[ymir]]"]
+requires: ["[[odin]]"]
 lists: ["[[norse-gods]]"]
+tour_order: 1
 read: false
 ---
 
 # Norns
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ The *Norns* are three ancient beings—*Urd*, *Verdandi*, and *Skuld*—who weav
 ## see also
 
 - [[odin]] · [[balder]] · [[heimdall]] · [[ymir]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

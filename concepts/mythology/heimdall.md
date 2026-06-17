@@ -3,11 +3,20 @@ type: deity
 category: mythology
 defines: [Heimdall]
 related: ["[[odin]]", "[[thor]]", "[[loki]]", "[[balder]]", "[[norns]]"]
+requires: ["[[odin]]"]
 lists: ["[[norse-gods]]"]
+tour_order: 1
 read: false
 ---
 
 # Heimdall
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[odin]] · [[thor]] · [[loki]] · [[balder]] · [[norns]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,8 +2,10 @@
 type: hero
 category: mythology
 defines: [Atalanta]
-related: ["[[atalanta]]"]
+related: ["[[phidias]]"]
+requires: []
 lists: ["[[greek-heroes]]", "[[mortal-women-in-greek-myth]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[jason]] · [[heracles]] · [[theseus]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 
