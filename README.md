@@ -2,7 +2,7 @@
 
 A personal **knowledge base of (eventually) everything** — an [Obsidian](https://obsidian.md) vault of small, atomic articles ("nodes") woven into a navigable web, with built-in **read-tracking**.
 
-Scope: 750,000+ words, ~2,000 nodes spanning **187 topics** across 15 categories.
+Scope: **750,000+** words, **~2,000** nodes spanning **187** topics across **15** categories.
 
 ---
 
