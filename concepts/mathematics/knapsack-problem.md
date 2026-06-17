@@ -2,11 +2,11 @@
 type: concept
 category: mathematics
 defines: ["Knapsack Problem"]
-related:
-  - "[[p-vs-np-problem]]"
-  - "[[traveling-salesman-problem]]"
+related: ["[[p-vs-np-problem]]", "[[traveling-salesman-problem]]"]
+requires: []
 lists:
   - "[[computation-types]]"
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +34,18 @@ The Knapsack Problem is a classic combinatorial optimization problem. Given a se
 ## see also
 
 - [[p-vs-np-problem]] · [[traveling-salesman-problem]] · [[sorting-algorithms]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

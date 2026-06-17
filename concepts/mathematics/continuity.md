@@ -3,7 +3,9 @@ type: concept
 category: mathematics
 defines: [Continuity, continuous, discontinuous]
 related: ["[[limit]]", "[[intermediate-value-theorem]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -45,6 +47,18 @@ Continuity is the mathematician's way of formalizing the intuition that "nearby 
 ## see also
 
 - [[limit]] · [[derivative]] · [[integral]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: term
 category: mathematics
 defines: [Conic Sections]
 related: ["[[circle]]", "[[ellipse]]", "[[parabola]]", "[[hyperbola]]", "[[euclid]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -35,6 +37,18 @@ read: false
 ## see also
 
 - [[circle]] · [[ellipse]] · [[parabola]] · [[hyperbola]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

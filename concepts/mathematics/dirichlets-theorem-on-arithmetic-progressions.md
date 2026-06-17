@@ -2,15 +2,22 @@
 type: concept
 category: mathematics
 defines: ["Dirichlet's Theorem on Arithmetic Progressions", "Dirichlet's Theorem"]
-related:
-  - "[[infinitude-of-primes]]"
-  - "[[prime-number-theorem]]"
+related: ["[[infinitude-of-primes]]", "[[prime-number-theorem]]"]
+requires: ["[[number-theory]]"]
 lists:
   - "[[statements-about-prime-numbers]]"
+tour_order: 1
 read: false
 ---
 
 # Dirichlet's Theorem on Arithmetic Progressions
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +41,18 @@ Dirichlet's Theorem on Arithmetic Progressions states that if $a$ and $d$ are co
 ## see also
 
 - [[infinitude-of-primes]] · [[riemann-hypothesis]] · [[prime-number-theorem]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: concept
 category: mathematics
 defines: ["Chain Rule", chain-rule]
 related: ["[[derivative]]", "[[composite-function]]"]
+requires: ["[[calculus]]"]
 lists: ["[[calculus-ideas]]"]
+tour_order: 1
 read: false
 ---
 
 # Chain Rule
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -44,6 +53,18 @@ The chain rule is the third leg of differentiation, alongside the power rule and
 ## see also
 
 - [[derivative]] · [[product-rule]] · [[quotient-rule]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

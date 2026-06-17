@@ -2,8 +2,10 @@
 type: person
 category: mathematics
 defines: [Leonhard Euler, Euler]
-related: ["[[graph-theory]]", "[[complex-numbers]]", "[[notation]]", "[[calculus]]", "[[euler-characteristic]]"]
+related: ["[[graph-theory]]", "[[complex-numbers]]", "[[notation]]", "[[calculus]]", "[[euler-characteristic]]", "[[enlightenment]]"]
+requires: []
 lists: ["[[mathematicians]]"]
+tour_order: 0
 read: false
 aliases: [euler]
 ---
@@ -51,6 +53,18 @@ Euler was the mathematician's mathematician—his fluency with symbolic manipula
 ## see also
 
 - [[gauss]] · [[newton]] · [[lagrange]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

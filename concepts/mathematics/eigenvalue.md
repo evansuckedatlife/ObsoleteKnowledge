@@ -3,7 +3,9 @@ type: term
 category: mathematics
 defines: [Eigenvalue, eigenvector, eigenspace, characteristic polynomial]
 related: ["[[linear-algebra]]", "[[matrix-multiplication]]", "[[vector-space]]", "[[differential-equations]]", "[[principal-component-analysis]]", "[[quantum-mechanics]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +43,18 @@ Eigenvalues emerged in the 18th century from Euler's work on rotating bodies and
 ## see also
 
 - [[linear-algebra]] · [[matrix-multiplication]] · [[vector-space]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: term
 category: mathematics
 defines: [Catenary]
 related: ["[[cycloid]]", "[[hyperbola]]", "[[leibniz]]", "[[bernoulli]]"]
+requires: ["[[differential-equations]]", "[[calculus]]"]
 lists: ["[[geometric-curves]]"]
+tour_order: 2
 read: false
 ---
 
 # Catenary
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ A *catenary* is the curve formed by a hanging chain or cable under its own weigh
 ## see also
 
 - [[cycloid]] · [[parabola]] · [[spiral]] · [[lemniscate]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

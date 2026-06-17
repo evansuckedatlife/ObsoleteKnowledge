@@ -3,7 +3,9 @@ type: concept
 category: mathematics
 defines: [Injective, injection, "injective function", "one-to-one function"]
 related: ["[[bijective]]", "[[surjective]]", "[[inverse-function]]"]
+requires: []
 lists: ["[[classifications-of-functions]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ A function is *injective* (or one-to-one) if it maps distinct elements of its do
 ## see also
 
 - [[bijective]] · [[surjective]] · [[monotonic-functions]] · [[even-odd-functions]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

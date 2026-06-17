@@ -3,7 +3,9 @@ type: person
 category: mathematics
 defines: [Kurt Gödel, Gödel]
 related: ["[[logic]]", "[[incompleteness-theorems]]", "[[axioms]]", "[[hilbert-program]]", "[[undecidability]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -45,6 +47,18 @@ Gödel's theorems hit the mathematical world like a thunderbolt. The 19th and ea
 ## see also
 
 - [[alan-turing]] · [[david-hilbert]] · [[bertrand-russell]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

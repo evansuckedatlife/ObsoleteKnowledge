@@ -3,7 +3,9 @@ type: term
 category: mathematics
 defines: [Inverse function, functional inverse, one-to-one correspondence]
 related: ["[[function]]", "[[bijective]]", "[[composition]]", "[[logarithm]]", "[[trigonometric-function]]", "[[inverse-trigonometric-function]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +44,18 @@ Inverse functions are a cornerstone of algebra and calculus. In algebra, solving
 ## see also
 
 - [[function]] · [[bijective]] · [[logarithm]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

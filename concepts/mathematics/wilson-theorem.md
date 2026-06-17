@@ -2,15 +2,21 @@
 type: concept
 category: mathematics
 defines: ["Wilson's Theorem"]
-related:
-  - "[[modular-arithmetic]]"
-  - "[[prime-factorization]]"
-  - "[[john-wilson]]"
+related: ["[[modular-arithmetic]]", "[[prime-factorization]]", "[[john-wilson]]"]
+requires: ["[[modular-arithmetic]]", "[[number-theory]]"]
 lists: []
+tour_order: 2
 read: false
 ---
 
 # Wilson's Theorem
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +40,18 @@ Wilson's Theorem states that a positive integer p > 1 is prime if and only if (p
 ## see also
 
 - [[fermat-little-theorem]] · [[modular-arithmetic]] · [[primality-testing]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

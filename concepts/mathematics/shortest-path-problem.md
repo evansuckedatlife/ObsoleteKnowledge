@@ -2,11 +2,11 @@
 type: concept
 category: mathematics
 defines: ["Shortest Path Problem", "Shortest Path"]
-related:
-  - "[[p-vs-np-problem]]"
-  - "[[traveling-salesman-problem]]"
+related: ["[[p-vs-np-problem]]", "[[traveling-salesman-problem]]"]
+requires: []
 lists:
   - "[[computation-types]]"
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +34,18 @@ The Shortest Path Problem is the task of finding a path between two vertices in 
 ## see also
 
 - [[p-vs-np-problem]] · [[traveling-salesman-problem]] · [[sorting-algorithms]] · [[matrix-multiplication]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

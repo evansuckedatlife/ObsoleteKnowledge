@@ -3,11 +3,20 @@ type: term
 category: mathematics
 defines: [Parabola]
 related: ["[[ellipse]]", "[[hyperbola]]", "[[conic-sections]]", "[[quadratic-function]]", "[[archimedes]]", "[[catenary]]"]
+requires: ["[[quadratic-function]]"]
 lists: ["[[geometric-curves]]"]
+tour_order: 2
 read: false
 ---
 
 # Parabola
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -49,6 +58,18 @@ The parabola is a fundamental bridge between algebra and geometry, representing 
 ## see also
 
 - [[circle]] · [[ellipse]] · [[hyperbola]] · [[catenary]] · [[cycloid]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

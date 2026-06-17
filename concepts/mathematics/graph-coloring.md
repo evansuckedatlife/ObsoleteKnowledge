@@ -2,11 +2,11 @@
 type: concept
 category: mathematics
 defines: ["Graph Coloring", "Vertex Coloring", "Chromatic Number"]
-related:
-  - "[[p-vs-np-problem]]"
-  - "[[traveling-salesman-problem]]"
+related: ["[[p-vs-np-problem]]", "[[traveling-salesman-problem]]"]
+requires: []
 lists:
   - "[[computation-types]]"
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +34,18 @@ Graph coloring is an assignment of labels, called colors, to the elements of a g
 ## see also
 
 - [[p-vs-np-problem]] · [[traveling-salesman-problem]] · [[shortest-path-problem]] · [[sorting-algorithms]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

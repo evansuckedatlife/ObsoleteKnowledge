@@ -3,11 +3,20 @@ type: concept
 category: mathematics
 defines: ["Differential Equations", "differential equation"]
 related: ["[[derivative]]", "[[integral]]", "[[separation-of-variables]]"]
+requires: ["[[calculus]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Differential Equations
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -44,6 +53,18 @@ Differential equations are the language of mathematical modeling. Nearly every q
 ## see also
 
 - [[derivative]] · [[integral]] · [[separation-of-variables]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

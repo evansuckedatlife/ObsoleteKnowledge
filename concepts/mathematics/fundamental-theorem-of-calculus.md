@@ -3,11 +3,20 @@ type: concept
 category: mathematics
 defines: ["Fundamental Theorem of Calculus", FTC]
 related: ["[[integral]]", "[[derivative]]", "[[riemann-sums]]"]
+requires: ["[[calculus]]", "[[integral]]", "[[derivative]]"]
 lists: ["[[calculus-ideas]]"]
+tour_order: 2
 read: false
 ---
 
 # Fundamental Theorem of Calculus
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -45,6 +54,18 @@ The Fundamental Theorem of Calculus is the pinnacle of elementary mathematics. I
 ## see also
 
 - [[integral]] · [[derivative]] · [[riemann-sums]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: term
 category: mathematics
 defines: [Ellipse]
 related: ["[[circle]]", "[[parabola]]", "[[hyperbola]]", "[[conic-sections]]"]
+requires: ["[[conic-sections]]"]
 lists: ["[[geometric-curves]]"]
+tour_order: 1
 read: false
 ---
 
 # Ellipse
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ An *ellipse* is the set of all points in a plane such that the sum of distances 
 ## see also
 
 - [[circle]] · [[parabola]] · [[hyperbola]] · [[conic-sections]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

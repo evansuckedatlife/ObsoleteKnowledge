@@ -2,8 +2,10 @@
 type: person
 category: mathematics
 defines: [Euclid, Euclid of Alexandria]
-related: ["[[euclidean-geometry]]", "[[axioms]]", "[[prime-numbers]]", "[[the-elements]]", "[[pythagoras]]"]
+related: ["[[euclidean-geometry]]", "[[axioms]]", "[[prime-numbers]]", "[[the-elements]]", "[[pythagoras]]", "[[ancient-greece]]"]
+requires: []
 lists: ["[[mathematicians]]"]
+tour_order: 0
 read: false
 ---
 
@@ -46,6 +48,18 @@ Euclid's *Elements* was the primary geometry textbook for 2,000 years and remain
 ## see also
 
 - [[pythagoras]] · [[archimedes]] · [[gauss]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

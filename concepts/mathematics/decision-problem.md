@@ -4,12 +4,10 @@ category: mathematics
 defines:
   - "Decision problem"
   - Decision problem
-related:
-  - "[[p-complexity-class]]"
-  - "[[np-complexity-class]]"
-  - "[[optimization-problem]]"
-  - "[[turing-machine]]"
+related: ["[[p-complexity-class]]", "[[np-complexity-class]]", "[[optimization-problem]]", "[[turing-machine]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ A **decision problem** is a computational problem with a yes-or-no (binary) answ
 ## see also
 
 - [[p-complexity-class]] · [[np-complexity-class]] · [[optimization-problem]] · [[turing-machine]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

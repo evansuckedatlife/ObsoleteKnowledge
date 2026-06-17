@@ -3,11 +3,20 @@ type: concept
 category: mathematics
 defines: ["Product Rule", product-rule]
 related: ["[[derivative]]", "[[quotient-rule]]"]
+requires: ["[[derivative]]", "[[calculus]]"]
 lists: []
+tour_order: 2
 read: false
 ---
 
 # Product Rule
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -43,6 +52,18 @@ The product rule is one of the foundational techniques in calculus because so ma
 ## see also
 
 - [[derivative]] · [[quotient-rule]] · [[chain-rule]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,16 +2,22 @@
 type: concept
 category: mathematics
 defines: ["Primality Testing", "Primality Test"]
-related:
-  - "[[p-vs-np-problem]]"
-  - "[[integer-factorization]]"
-  - "[[fermat-little-theorem]]"
+related: ["[[p-vs-np-problem]]", "[[integer-factorization]]", "[[fermat-little-theorem]]"]
+requires: ["[[number-theory]]", "[[algorithm]]"]
 lists:
   - "[[computation-types]]"
+tour_order: 6
 read: false
 ---
 
 # Primality Testing
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +42,18 @@ Primality testing is the computational process of determining whether a given in
 ## see also
 
 - [[p-vs-np-problem]] · [[integer-factorization]] · [[fermat-little-theorem]] · [[sieve-of-eratosthenes]] · [[mersenne-primes]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

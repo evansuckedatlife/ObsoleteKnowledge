@@ -3,11 +3,20 @@ type: concept
 category: mathematics
 defines: [Derivative, derivatives, differentiation]
 related: ["[[limit]]", "[[chain-rule]]", "[[product-rule]]", "[[differential-equations]]"]
+requires: ["[[calculus]]"]
 lists: ["[[calculus-ideas]]"]
+tour_order: 1
 read: false
 ---
 
 # Derivative
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -48,6 +57,18 @@ The derivative is the bridge between algebra and calculus—it translates the st
 ## see also
 
 - [[chain-rule]] · [[product-rule]] · [[integral]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

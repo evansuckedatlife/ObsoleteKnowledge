@@ -3,11 +3,20 @@ type: term
 category: mathematics
 defines: [Differentiable Function, Differentiability]
 related: ["[[derivative]]", "[[continuous-functions]]", "[[mean-value-theorem]]", "[[polynomial-function]]"]
+requires: ["[[calculus]]", "[[continuity]]"]
 lists: ["[[classifications-of-functions]]"]
+tour_order: 1
 read: false
 ---
 
 # Differentiable Function
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ A *differentiable function* is one that has a well-defined derivative at every p
 ## see also
 
 - [[derivative]] · [[continuous-functions]] · [[mean-value-theorem]] · [[polynomial-function]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

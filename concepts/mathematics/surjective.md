@@ -3,7 +3,9 @@ type: concept
 category: mathematics
 defines: [Surjective, surjection, "surjective function", "onto function"]
 related: ["[[bijective]]", "[[injective]]", "[[inverse-function]]"]
+requires: []
 lists: ["[[classifications-of-functions]]"]
+tour_order: 0
 read: false
 ---
 
@@ -30,6 +32,18 @@ A function is *surjective* (or onto) if its range is equal to its codomain, mean
 ## see also
 
 - [[bijective]] · [[injective]] · [[monotonic-functions]] · [[periodic-function]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

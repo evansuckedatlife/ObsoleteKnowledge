@@ -3,11 +3,20 @@ type: concept
 category: mathematics
 defines: [Integral, integrals, integration, antiderivative]
 related: ["[[riemann-sums]]", "[[fundamental-theorem-of-calculus]]", "[[differential-equations]]"]
+requires: ["[[calculus]]"]
 lists: ["[[calculus-ideas]]"]
+tour_order: 1
 read: false
 ---
 
 # Integral
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -45,6 +54,18 @@ Integration is the twin pillar of calculus, complementing differentiation. While
 ## see also
 
 - [[riemann-sums]] · [[fundamental-theorem-of-calculus]] · [[derivative]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

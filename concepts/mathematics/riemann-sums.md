@@ -3,11 +3,20 @@ type: concept
 category: mathematics
 defines: ["Riemann Sums", Riemann]
 related: ["[[integral]]", "[[limit]]", "[[fundamental-theorem-of-calculus]]"]
+requires: ["[[calculus]]"]
 lists: ["[[calculus-ideas]]"]
+tour_order: 1
 read: false
 ---
 
 # Riemann Sums
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -45,6 +54,18 @@ Riemann sums are the computational foundation of integration. Conceptually, they
 ## see also
 
 - [[integral]] · [[limit]] · [[fundamental-theorem-of-calculus]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,17 +2,22 @@
 type: concept
 category: mathematics
 defines: ["P vs NP Problem", "P vs NP", "P versus NP"]
-related:
-  - "[[turing-machine]]"
-  - "[[halting-problem]]"
-  - "[[traveling-salesman-problem]]"
-  - "[[knapsack-problem]]"
+related: ["[[turing-machine]]", "[[halting-problem]]", "[[traveling-salesman-problem]]", "[[knapsack-problem]]"]
+requires: ["[[p-complexity-class]]", "[[np-complexity-class]]"]
 lists:
   - "[[computation-types]]"
+tour_order: 8
 read: false
 ---
 
 # P vs NP Problem
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -55,6 +60,18 @@ The P vs NP problem is the ultimate question of computational complexity. While 
 ## see also
 
 - [[turing-machine]] · [[halting-problem]] · [[traveling-salesman-problem]] · [[knapsack-problem]] · [[integer-factorization]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

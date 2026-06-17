@@ -3,11 +3,20 @@ type: person
 category: mathematics
 defines: [Carl Friedrich Gauss, Gauss, "the Prince of Mathematicians"]
 related: ["[[number-theory]]", "[[statistics]]", "[[non-euclidean-geometry]]", "[[complex-numbers]]", "[[euler]]"]
+requires: ["[[number-theory]]"]
 lists: ["[[mathematicians]]"]
+tour_order: 1
 read: false
 ---
 
 # Carl Friedrich Gauss
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -45,6 +54,18 @@ Gauss was a colossus of 19th-century mathematics: his work in number theory refr
 ## see also
 
 - [[euler]] · [[newton]] · [[riemann]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

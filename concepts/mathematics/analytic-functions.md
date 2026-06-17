@@ -3,11 +3,20 @@ type: concept
 category: mathematics
 defines: ["Analytic Function", analyticity, "analytic functions"]
 related: ["[[differentiable-functions]]", "[[continuous-functions]]", "[[taylor-series]]", "[[complex-analysis]]"]
+requires: ["[[calculus]]"]
 lists: ["[[classifications-of-functions]]"]
+tour_order: 1
 read: false
 ---
 
 # Analytic Function
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ An *analytic function* is a function that can be locally represented by a conver
 ## see also
 
 - [[differentiable-functions]] · [[continuous-functions]] · [[transcendental-functions]] · [[periodic-function]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

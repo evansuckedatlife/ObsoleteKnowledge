@@ -3,11 +3,20 @@ type: concept
 category: mathematics
 defines: ["Transcendental Function", "transcendental functions"]
 related: ["[[exponential-function]]", "[[logarithmic-function]]", "[[trigonometric-function]]", "[[polynomial-function]]"]
+requires: ["[[calculus]]"]
 lists: ["[[classifications-of-functions]]"]
+tour_order: 1
 read: false
 ---
 
 # Transcendental Function
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -31,6 +40,18 @@ A *transcendental function* is a function that does not satisfy any polynomial e
 ## see also
 
 - [[exponential-function]] · [[logarithmic-function]] · [[trigonometric-function]] · [[analytic-functions]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

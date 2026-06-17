@@ -3,11 +3,20 @@ type: concept
 category: mathematics
 defines: ["Monotonic Function", Monotonicity, "monotonic functions", "increasing function", "decreasing function"]
 related: ["[[derivative]]", "[[injective]]", "[[continuous-functions]]"]
+requires: ["[[calculus]]"]
 lists: ["[[classifications-of-functions]]"]
+tour_order: 1
 read: false
 ---
 
 # Monotonic Function
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -31,6 +40,18 @@ A *monotonic function* is a function between ordered sets that preserves or reve
 ## see also
 
 - [[bijective]] · [[injective]] · [[surjective]] · [[continuous-functions]] · [[differentiable-functions]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

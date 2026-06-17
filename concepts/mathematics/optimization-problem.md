@@ -4,16 +4,22 @@ category: mathematics
 defines:
   - Optimization problem
   - Optimization problem
-related:
-  - "[[decision-problem]]"
-  - "[[np-hard]]"
-  - "[[np-complete]]"
+related: ["[[decision-problem]]", "[[np-hard]]", "[[np-complete]]"]
+requires: ["[[calculus]]"]
 lists:
   - "[[calculus-ideas]]"
+tour_order: 1
 read: true
 ---
 
 # Optimization Problem
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +44,18 @@ An **optimization problem** seeks the best solution from a set of candidates acc
 ## see also
 
 - [[decision-problem]] · [[np-hard]] · [[np-complete]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

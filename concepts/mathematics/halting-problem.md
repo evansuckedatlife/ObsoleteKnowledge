@@ -2,12 +2,11 @@
 type: term
 category: mathematics
 defines: ["Halting Problem"]
-related:
-  - "[[turing-machine]]"
-  - "[[p-complexity-class]]"
-  - "[[p-vs-np-problem]]"
+related: ["[[turing-machine]]", "[[p-complexity-class]]", "[[p-vs-np-problem]]"]
+requires: []
 lists:
   - "[[computation-types]]"
+tour_order: 0
 read: false
 ---
 
@@ -53,6 +52,18 @@ The Halting Problem is the quintessential example of an undecidable problem in c
 ## see also
 
 - [[turing-machine]] · [[p-complexity-class]] · [[p-vs-np-problem]] · [[traveling-salesman-problem]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

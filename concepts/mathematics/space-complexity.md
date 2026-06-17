@@ -4,12 +4,10 @@ category: mathematics
 defines:
   - "Space complexity"
   - Space complexity
-related:
-  - "[[time-complexity]]"
-  - "[[p-complexity-class]]"
-  - "[[np-complexity-class]]"
-  - "[[turing-machine]]"
+related: ["[[time-complexity]]", "[[p-complexity-class]]", "[[np-complexity-class]]", "[[turing-machine]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[time-complexity]] · [[p-complexity-class]] · [[np-complexity-class]] · [[turing-machine]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

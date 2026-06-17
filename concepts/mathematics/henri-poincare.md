@@ -3,7 +3,9 @@ type: person
 category: mathematics
 defines: ["Henri Poincaré", Poincaré, Henri Poincare]
 related: ["[[topology]]", "[[chaos-theory]]", "[[three-body-problem]]", "[[special-relativity]]"]
+requires: []
 lists: ["[[mathematicians]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[carl-friedrich-gauss]] · [[bernhard-riemann]] · [[alan-turing]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: term
 category: mathematics
 defines: [Periodic Function]
 related: ["[[trigonometric-function]]", "[[sine-function]]", "[[cosine-function]]", "[[fourier-series]]"]
+requires: []
 lists: ["[[classifications-of-functions]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ A *periodic function* repeats its values at regular intervals; it satisfies `f(x
 ## see also
 
 - [[trigonometric-function]] · [[sine-function]] · [[cosine-function]] · [[fourier-series]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

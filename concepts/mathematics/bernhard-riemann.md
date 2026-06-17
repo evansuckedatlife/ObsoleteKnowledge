@@ -3,7 +3,9 @@ type: person
 category: mathematics
 defines: [Bernhard Riemann, Georg Friedrich Bernhard Riemann, Riemann]
 related: ["[[riemann-hypothesis]]", "[[riemann-sums]]", "[[carl-friedrich-gauss]]", "[[prime-number-theorem]]"]
+requires: []
 lists: ["[[mathematicians]]"]
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[carl-friedrich-gauss]] · [[leonhard-euler]] · [[gottfried-leibniz]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

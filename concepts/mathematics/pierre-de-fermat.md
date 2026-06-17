@@ -3,7 +3,9 @@ type: person
 category: mathematics
 defines: [Pierre de Fermat, Fermat, "Pierre Fermat"]
 related: ["[[number-theory]]", "[[calculus]]", "[[probability]]", "[[fermat-last-theorem]]", "[[descartes]]"]
+requires: []
 lists: ["[[mathematicians]]"]
+tour_order: 0
 read: false
 ---
 
@@ -46,6 +48,18 @@ Fermat was a gentleman mathematician who published little, leading to priority d
 ## see also
 
 - [[descartes]] · [[pascal]] · [[andrew-wiles]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

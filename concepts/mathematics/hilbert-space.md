@@ -3,7 +3,9 @@ type: term
 category: mathematics
 defines: [Hilbert space, infinite-dimensional vector space, complete inner product space]
 related: ["[[vector-space]]", "[[inner-product]]", "[[linear-algebra]]", "[[quantum-mechanics]]", "[[functional-analysis]]", "[[david-hilbert]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +44,18 @@ Hilbert spaces emerged from David Hilbert's work on integral equations (early 20
 ## see also
 
 - [[vector-space]] · [[linear-algebra]] · [[functional-analysis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

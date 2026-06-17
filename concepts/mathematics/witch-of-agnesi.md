@@ -3,11 +3,20 @@ type: term
 category: mathematics
 defines: [Witch of Agnesi, Versiera]
 related: ["[[maria-agnesi]]", "[[newton]]", "[[catenary]]"]
+requires: ["[[calculus]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Witch of Agnesi
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ The *Witch of Agnesi* is a smooth, bell-shaped curve with a centuries-long histo
 ## see also
 
 - [[catenary]] · [[cycloid]] · [[spiral]] · [[lemniscate]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

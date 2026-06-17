@@ -3,11 +3,20 @@ type: term
 category: mathematics
 defines: [Circle]
 related: ["[[ellipse]]", "[[conic-sections]]", "[[euclid]]", "[[cardioid]]", "[[cycloid]]", "[[apollonius]]", "[[pi-constant]]"]
+requires: ["[[conic-sections]]"]
 lists: ["[[geometric-curves]]"]
+tour_order: 1
 read: false
 ---
 
 # Circle
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -50,6 +59,18 @@ The circle is the ultimate symbol of symmetry and infinity in mathematics, repre
 ## see also
 
 - [[ellipse]] · [[parabola]] · [[hyperbola]] · [[cycloid]] · [[cardioid]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

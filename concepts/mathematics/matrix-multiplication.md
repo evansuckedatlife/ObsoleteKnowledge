@@ -2,11 +2,11 @@
 type: concept
 category: mathematics
 defines: ["Matrix Multiplication"]
-related:
-  - "[[p-vs-np-problem]]"
-  - "[[sorting-algorithms]]"
+related: ["[[p-vs-np-problem]]", "[[sorting-algorithms]]"]
+requires: []
 lists:
   - "[[computation-types]]"
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +34,18 @@ Matrix multiplication is a fundamental algebraic operation that combines two mat
 ## see also
 
 - [[p-vs-np-problem]] · [[sorting-algorithms]] · [[shortest-path-problem]] · [[knapsack-problem]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,16 +2,22 @@
 type: concept
 category: mathematics
 defines: ["Twin Prime Conjecture", "Twin Primes"]
-related:
-  - "[[prime-number-theorem]]"
-  - "[[riemann-hypothesis]]"
-  - "[[goldbach-conjecture]]"
+related: ["[[prime-number-theorem]]", "[[riemann-hypothesis]]", "[[goldbach-conjecture]]"]
+requires: ["[[number-theory]]"]
 lists:
   - "[[statements-about-prime-numbers]]"
+tour_order: 1
 read: false
 ---
 
 # Twin Prime Conjecture
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +41,18 @@ The twin prime conjecture asserts that there are infinitely many pairs of primes
 ## see also
 
 - [[goldbach-conjecture]] · [[prime-number-theorem]] · [[riemann-hypothesis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

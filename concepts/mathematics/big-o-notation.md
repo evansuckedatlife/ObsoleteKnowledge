@@ -3,7 +3,9 @@ type: term
 category: mathematics
 defines: [Big O Notation, O(n), Landau notation, asymptotic complexity]
 related: ["[[algorithm]]", "[[time-complexity]]", "[[space-complexity]]", "[[sorting-algorithms]]", "[[recursion]]", "[[polynomial-function]]", "[[exponential-function]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -60,6 +62,18 @@ Big O notation is foundational to computer science because it abstracts away the
 ## see also
 
 - [[time-complexity]] · [[space-complexity]] · [[sorting-algorithms]] · [[np-complete]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

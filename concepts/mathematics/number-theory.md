@@ -3,7 +3,9 @@ type: term
 category: mathematics
 defines: [Number theory, number-theoretic, elementary number theory]
 related: ["[[prime-number]]", "[[modular-arithmetic]]", "[[fundamental-theorem-of-arithmetic]]", "[[prime-number-theorem]]", "[[fermat-little-theorem]]", "[[wilson-theorem]]", "[[perfect-numbers]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -57,6 +59,18 @@ Number theory emerged from Greek mathematics (Euclid's *Elements*) as curiosity 
 ## see also
 
 - [[prime-number-theorem]] · [[modular-arithmetic]] · [[fundamental-theorem-of-arithmetic]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

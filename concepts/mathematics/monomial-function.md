@@ -3,7 +3,9 @@ type: term
 category: mathematics
 defines: [Monomial, Monomial Function]
 related: ["[[polynomial-function]]", "[[power-function]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ A *monomial* is a single term consisting of a constant coefficient multiplied by
 ## see also
 
 - [[polynomial-function]] · [[power-function]] · [[quadratic-function]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: term
 category: mathematics
 defines: [Perfect number, perfect integers]
 related: ["[[number-theory]]", "[[divisor]]", "[[mersenne-primes]]", "[[euclid-euler-theorem]]", "[[aliquot-sum]]"]
+requires: ["[[number-theory]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Perfect Numbers
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +44,18 @@ A **perfect number** is a positive integer equal to the sum of its proper diviso
 ## see also
 
 - [[mersenne-primes]] · [[number-theory]] · [[euclid-euler-theorem]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

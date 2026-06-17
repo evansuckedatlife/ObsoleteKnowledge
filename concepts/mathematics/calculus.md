@@ -3,7 +3,9 @@ type: term
 category: mathematics
 defines: [Calculus, differential calculus, integral calculus]
 related: ["[[derivative]]", "[[integral]]", "[[limit]]", "[[isaac-newton]]", "[[gottfried-leibniz]]", "[[fundamental-theorem-of-calculus]]", "[[taylor-series]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -57,6 +59,18 @@ Calculus emerged from two urgent problems: finding instantaneous rates of change
 ## see also
 
 - [[derivative]] · [[integral]] · [[limit]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

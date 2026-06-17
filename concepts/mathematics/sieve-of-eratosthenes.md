@@ -2,11 +2,11 @@
 type: concept
 category: mathematics
 defines: ["Sieve of Eratosthenes", "Sieve algorithm"]
-related:
-  - "[[prime-number-theorem]]"
-  - "[[infinitude-of-primes]]"
+related: ["[[prime-number-theorem]]", "[[infinitude-of-primes]]"]
+requires: []
 lists:
   - "[[statements-about-prime-numbers]]"
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +34,18 @@ The Sieve of Eratosthenes is an ancient and highly efficient algorithm for findi
 ## see also
 
 - [[fundamental-theorem-of-arithmetic]] · [[prime-number-theorem]] · [[primality-testing]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,16 +4,21 @@ category: mathematics
 defines:
   - NP-hard
   - NP-hard problem
-related:
-  - "[[np-complete]]"
-  - "[[np-complexity-class]]"
-  - "[[decision-problem]]"
-  - "[[optimization-problem]]"
+related: ["[[np-complete]]", "[[np-complexity-class]]", "[[decision-problem]]", "[[optimization-problem]]"]
+requires: ["[[np-complexity-class]]"]
 lists: []
+tour_order: 8
 read: true
 ---
 
 # NP-Hard
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +44,18 @@ read: true
 ## see also
 
 - [[np-complete]] · [[np-complexity-class]] · [[p-complexity-class]] · [[optimization-problem]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

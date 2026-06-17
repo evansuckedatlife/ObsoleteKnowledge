@@ -3,11 +3,20 @@ type: concept
 category: mathematics
 defines: [Differentiable, differentiability]
 related: ["[[derivative]]", "[[continuity]]"]
+requires: ["[[calculus]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Differentiable
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -44,6 +53,18 @@ Differentiability is the formal guarantee that a function "behaves nicely" aroun
 ## see also
 
 - [[derivative]] · [[continuity]] · [[taylor-series]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

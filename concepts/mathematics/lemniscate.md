@@ -3,11 +3,20 @@ type: term
 category: mathematics
 defines: [Lemniscate, Lemniscate of Bernoulli]
 related: ["[[bernoulli-family]]", "[[infinity-symbol]]", "[[polar-curves]]", "[[catenary]]"]
+requires: ["[[conic-sections]]"]
 lists: ["[[geometric-curves]]"]
+tour_order: 1
 read: false
 ---
 
 # Lemniscate
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ A *lemniscate* is a figure-eight or infinity-shaped curve defined as the locus o
 ## see also
 
 - [[cycloid]] · [[cardioid]] · [[spiral]] · [[catenary]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

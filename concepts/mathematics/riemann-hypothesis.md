@@ -2,12 +2,11 @@
 type: concept
 category: mathematics
 defines: ["Riemann Hypothesis", "Riemann Zeta Function"]
-related:
-  - "[[prime-number-theorem]]"
-  - "[[complex-analysis]]"
-  - "[[millennium-prize-problems]]"
+related: ["[[prime-number-theorem]]", "[[complex-analysis]]", "[[millennium-prize-problems]]"]
+requires: []
 lists:
   - "[[statements-about-prime-numbers]]"
+tour_order: 0
 read: false
 ---
 
@@ -53,6 +52,18 @@ The Riemann Hypothesis is widely regarded as the holy grail of modern pure mathe
 ## see also
 
 - [[prime-number-theorem]] · [[infinitude-of-primes]] · [[millennium-prize-problems]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

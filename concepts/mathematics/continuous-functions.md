@@ -3,11 +3,20 @@ type: term
 category: mathematics
 defines: [Continuous Function, Continuity]
 related: ["[[limit]]", "[[differentiable-functions]]", "[[intermediate-value-theorem]]", "[[polynomial-function]]", "[[weierstrass-function]]", "[[topology]]"]
+requires: ["[[calculus]]"]
 lists: ["[[classifications-of-functions]]"]
+tour_order: 1
 read: false
 ---
 
 # Continuous Function
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -54,6 +63,18 @@ Continuity formalizes the intuitive physical notion of smooth, unbroken motion, 
 ## see also
 
 - [[limit]] · [[differentiable-functions]] · [[bijective]] · [[monotonic-functions]] · [[analytic-functions]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

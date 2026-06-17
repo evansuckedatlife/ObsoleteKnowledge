@@ -3,11 +3,20 @@ type: term
 category: mathematics
 defines: [Cardioid]
 related: ["[[cycloid]]", "[[epicycloid]]", "[[limacon]]", "[[spiral]]"]
+requires: ["[[conic-sections]]"]
 lists: ["[[geometric-curves]]"]
+tour_order: 1
 read: false
 ---
 
 # Cardioid
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ A *cardioid* is a heart-shaped curve traced by a point on the circumference of a
 ## see also
 
 - [[cycloid]] · [[limacon]] · [[catenary]] · [[lemniscate]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

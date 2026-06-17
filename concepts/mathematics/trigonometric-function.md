@@ -3,7 +3,9 @@ type: term
 category: mathematics
 defines: [Trigonometric Function, Trig Function]
 related: ["[[sine-function]]", "[[cosine-function]]", "[[tangent-function]]", "[[periodic-function]]", "[[inverse-trigonometric-function]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ read: false
 ## see also
 
 - [[periodic-function]] · [[inverse-trigonometric-function]] · [[exponential-function]] · [[polynomial-function]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

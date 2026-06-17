@@ -3,7 +3,9 @@ type: term
 category: mathematics
 defines: [Rational Function]
 related: ["[[polynomial-function]]", "[[quadratic-function]]", "[[discontinuity]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ A *rational function* is a quotient of two polynomials, written as `f(x) = P(x) 
 ## see also
 
 - [[polynomial-function]] · [[quadratic-function]] · [[exponential-function]] · [[logarithmic-function]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,15 +2,21 @@
 type: concept
 category: mathematics
 defines: ["Hardness of Prime Factorization", "Integer Factorization Problem"]
-related:
-  - "[[rsa-encryption]]"
-  - "[[computational-complexity]]"
-  - "[[public-key-cryptography]]"
+related: ["[[rsa-encryption]]", "[[computational-complexity]]", "[[public-key-cryptography]]"]
+requires: ["[[number-theory]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Hardness of Prime Factorization
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +40,18 @@ The hardness of prime factorization is the computational observation that determ
 ## see also
 
 - [[rsa-encryption]] · [[public-key-cryptography]] · [[computational-complexity]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

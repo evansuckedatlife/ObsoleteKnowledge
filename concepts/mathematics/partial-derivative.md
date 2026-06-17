@@ -3,11 +3,20 @@ type: concept
 category: mathematics
 defines: ["Partial derivative", "partial derivatives"]
 related: ["[[derivative]]", "[[differential-equations]]", "[[optimization-problem]]"]
+requires: ["[[derivative]]"]
 lists: ["[[calculus-ideas]]"]
+tour_order: 2
 read: false
 ---
 
 # Partial Derivative
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -30,6 +39,18 @@ A *partial derivative* of a multivariable function is its derivative with respec
 ## see also
 
 - [[derivative]] · [[differential-equations]] · [[optimization-problem]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

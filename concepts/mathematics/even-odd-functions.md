@@ -3,11 +3,20 @@ type: concept
 category: mathematics
 defines: ["Even and odd functions", "Even function", "Odd function", "Even/odd functions"]
 related: ["[[periodic-function]]", "[[trigonometric-function]]", "[[polynomial-function]]"]
+requires: ["[[calculus]]"]
 lists: ["[[classifications-of-functions]]"]
+tour_order: 1
 read: false
 ---
 
 # Even and odd functions
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -32,6 +41,18 @@ read: false
 ## see also
 
 - [[periodic-function]] · [[continuous-functions]] · [[monotonic-functions]] · [[analytic-functions]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

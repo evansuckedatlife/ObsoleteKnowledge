@@ -3,7 +3,9 @@ type: term
 category: mathematics
 defines: ["Sine curve", sinusoid, "sine wave"]
 related: ["[[trigonometric-function]]", "[[periodic-function]]", "[[catenary]]"]
+requires: []
 lists: ["[[geometric-curves]]"]
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ A *sine curve* (or sinusoid) is the geometric wave shape traced by the sine func
 ## see also
 
 - [[circle]] · [[cycloid]] · [[cardioid]] · [[spiral]] · [[catenary]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

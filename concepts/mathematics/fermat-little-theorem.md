@@ -2,16 +2,22 @@
 type: concept
 category: mathematics
 defines: ["Fermat's Little Theorem", "Fermat Little Theorem"]
-related:
-  - "[[modular-arithmetic]]"
-  - "[[pierre-de-fermat]]"
-  - "[[euler-totient]]"
+related: ["[[modular-arithmetic]]", "[[pierre-de-fermat]]", "[[euler-totient]]"]
+requires: ["[[number-theory]]", "[[modular-arithmetic]]"]
 lists:
   - "[[statements-about-prime-numbers]]"
+tour_order: 2
 read: false
 ---
 
 # Fermat's Little Theorem
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +41,18 @@ Fermat's Little Theorem states that if p is a prime and a is any integer not div
 ## see also
 
 - [[modular-arithmetic]] · [[euler-totient]] · [[rsa-encryption]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

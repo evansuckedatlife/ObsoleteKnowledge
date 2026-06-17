@@ -3,11 +3,20 @@ type: concept
 category: mathematics
 defines: [Limit, limits]
 related: ["[[continuity]]", "[[derivative]]", "[[riemann-sums]]"]
+requires: ["[[calculus]]"]
 lists: ["[[calculus-ideas]]"]
+tour_order: 1
 read: false
 ---
 
 # Limit
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -46,6 +55,18 @@ Limits are the invisible machinery of calculus. Without them, derivatives and in
 ## see also
 
 - [[continuity]] · [[derivative]] · [[integral]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

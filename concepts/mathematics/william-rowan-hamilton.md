@@ -3,7 +3,9 @@ type: person
 category: mathematics
 defines: [William Rowan Hamilton, Hamilton, "Sir William Rowan Hamilton"]
 related: ["[[quaternions]]", "[[hamiltonian-mechanics]]", "[[complex-numbers]]", "[[vector-algebra]]", "[[optics]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -46,6 +48,18 @@ Hamilton's Hamiltonian formulation seemed like a mathematical reformulation—a 
 ## see also
 
 - [[euler]] · [[lagrange]] · [[euler-lagrange-equations]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

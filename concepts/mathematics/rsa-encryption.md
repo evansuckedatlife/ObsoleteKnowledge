@@ -3,11 +3,20 @@ type: term
 category: mathematics
 defines: [RSA, RSA encryption, public-key cryptography, modular exponentiation]
 related: ["[[prime-number-theorem]]", "[[fundamental-theorem-of-arithmetic]]", "[[integer-factorization]]", "[[primality-testing]]", "[[fermats-little-theorem]]", "[[algorithm]]", "[[polynomial-function]]"]
+requires: ["[[modular-arithmetic]]", "[[number-theory]]"]
 lists: []
+tour_order: 2
 read: false
 ---
 
 # RSA Encryption
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -55,6 +64,18 @@ RSA revolutionized cryptography when it was published in 1977 by enabling secure
 ## see also
 
 - [[integer-factorization]] · [[primality-testing]] · [[fermat-little-theorem]] · [[fundamental-theorem-of-arithmetic]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

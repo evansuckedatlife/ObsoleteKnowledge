@@ -3,7 +3,9 @@ type: term
 category: mathematics
 defines: [Exponential Function]
 related: ["[[logarithmic-function]]", "[[continuous-functions]]", "[[derivative]]", "[[e-mathematical-constant]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -31,6 +33,18 @@ An *exponential function* has the form `f(x) = aˣ` (or more generally `f(x) = a
 ## see also
 
 - [[logarithmic-function]] · [[trigonometric-function]] · [[polynomial-function]] · [[rational-function]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

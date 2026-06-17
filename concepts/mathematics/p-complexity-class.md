@@ -5,16 +5,21 @@ defines:
   - P
   - P (complexity class)
   - Polynomial time
-related:
-  - "[[np-complexity-class]]"
-  - "[[np-complete]]"
-  - "[[decision-problem]]"
-  - "[[time-complexity]]"
+related: ["[[np-complexity-class]]", "[[np-complete]]", "[[decision-problem]]", "[[time-complexity]]"]
+requires: ["[[algorithm]]"]
 lists: []
+tour_order: 6
 read: true
 ---
 
 # P (Complexity Class)
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -66,6 +71,18 @@ read: true
 ## see also
 
 - [[np-complexity-class]] · [[np-complete]] · [[np-hard]] · [[decision-problem]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

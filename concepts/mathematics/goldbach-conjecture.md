@@ -2,16 +2,22 @@
 type: concept
 category: mathematics
 defines: ["Goldbach's Conjecture", "Goldbach Conjecture"]
-related:
-  - "[[twin-prime-conjecture]]"
-  - "[[prime-number-theorem]]"
-  - "[[additive-number-theory]]"
+related: ["[[twin-prime-conjecture]]", "[[prime-number-theorem]]", "[[additive-number-theory]]"]
+requires: ["[[number-theory]]"]
 lists:
   - "[[statements-about-prime-numbers]]"
+tour_order: 1
 read: false
 ---
 
 # Goldbach's Conjecture
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +41,18 @@ Goldbach's conjecture, posed by the Prussian mathematician *Christian Goldbach* 
 ## see also
 
 - [[twin-prime-conjecture]] · [[prime-number-theorem]] · [[additive-number-theory]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

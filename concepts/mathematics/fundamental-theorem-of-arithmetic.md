@@ -2,17 +2,22 @@
 type: concept
 category: mathematics
 defines: ["Fundamental Theorem of Arithmetic", "Unique Factorization"]
-related:
-  - "[[prime-number-theorem]]"
-  - "[[infinitude-of-primes]]"
-  - "[[greatest-common-divisor]]"
-  - "[[integer-factorization]]"
+related: ["[[prime-number-theorem]]", "[[infinitude-of-primes]]", "[[greatest-common-divisor]]", "[[integer-factorization]]"]
+requires: ["[[number-theory]]"]
 lists:
   - "[[statements-about-prime-numbers]]"
+tour_order: 1
 read: false
 ---
 
 # Fundamental Theorem of Arithmetic
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -56,6 +61,18 @@ The Fundamental Theorem of Arithmetic, though simple in its assertion, represent
 ## see also
 
 - [[infinitude-of-primes]] · [[modular-arithmetic]] · [[rsa-encryption]] · [[integer-factorization]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,17 +3,22 @@ type: term
 category: mathematics
 defines:
   - NP-complete
-related:
-  - "[[np-complexity-class]]"
-  - "[[np-hard]]"
-  - "[[p-complexity-class]]"
-  - "[[decision-problem]]"
+related: ["[[np-complexity-class]]", "[[np-hard]]", "[[p-complexity-class]]", "[[decision-problem]]"]
+requires: ["[[np-complexity-class]]"]
 lists: []
+tour_order: 8
 read: true
 tags:
 ---
 
 # NP-Complete
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +45,18 @@ tags:
 ## see also
 
 - [[np-complexity-class]] · [[np-hard]] · [[p-complexity-class]] · [[decision-problem]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

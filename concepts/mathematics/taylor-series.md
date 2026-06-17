@@ -3,11 +3,20 @@ type: concept
 category: mathematics
 defines: ["Taylor Series", "Taylor expansion", Maclaurin]
 related: ["[[derivative]]", "[[power-series]]", "[[convergence]]"]
+requires: ["[[calculus]]"]
 lists: ["[[calculus-ideas]]"]
+tour_order: 1
 read: false
 ---
 
 # Taylor Series
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -46,6 +55,18 @@ Taylor series are the hidden backbone of scientific computing and approximation.
 ## see also
 
 - [[power-series]] · [[convergence]] · [[derivative]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

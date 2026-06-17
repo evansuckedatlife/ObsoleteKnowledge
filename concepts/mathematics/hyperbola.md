@@ -3,11 +3,20 @@ type: term
 category: mathematics
 defines: [Hyperbola]
 related: ["[[ellipse]]", "[[parabola]]", "[[conic-sections]]"]
+requires: ["[[conic-sections]]"]
 lists: ["[[geometric-curves]]"]
+tour_order: 1
 read: false
 ---
 
 # Hyperbola
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ A *hyperbola* is the set of all points in a plane such that the absolute differe
 ## see also
 
 - [[ellipse]] · [[parabola]] · [[circle]] · [[conic-sections]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

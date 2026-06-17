@@ -3,7 +3,9 @@ type: term
 category: mathematics
 defines: [Polynomial Function, Polynomial]
 related: ["[[monomial-function]]", "[[rational-function]]", "[[continuous-functions]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -56,6 +58,18 @@ Polynomials are the gateway to both theoretical and applied mathematics. Theoret
 ## see also
 
 - [[monomial-function]] · [[rational-function]] · [[quadratic-function]] · [[exponential-function]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

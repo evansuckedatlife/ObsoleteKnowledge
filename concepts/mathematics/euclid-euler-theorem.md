@@ -2,11 +2,10 @@
 type: concept
 category: mathematics
 defines: ["Euclid–Euler Theorem", "Euclid-Euler Theorem"]
-related:
-  - "[[perfect-numbers]]"
-  - "[[mersenne-primes]]"
-  - "[[euclid]]"
+related: ["[[perfect-numbers]]", "[[mersenne-primes]]", "[[euclid]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +33,18 @@ The Euclid–Euler theorem establishes a complete characterization of even perfe
 ## see also
 
 - [[perfect-numbers]] · [[mersenne-primes]] · [[infinitude-of-primes]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

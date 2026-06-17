@@ -2,11 +2,11 @@
 type: concept
 category: mathematics
 defines: ["Sorting Algorithms", "Sorting Algorithm", "Sorts"]
-related:
-  - "[[p-vs-np-problem]]"
-  - "[[turing-machine]]"
+related: ["[[p-vs-np-problem]]", "[[turing-machine]]"]
+requires: []
 lists:
   - "[[computation-types]]"
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +34,18 @@ Sorting algorithms are systematic methods used to rearrange a list or array of e
 ## see also
 
 - [[p-vs-np-problem]] · [[halting-problem]] · [[shortest-path-problem]] · [[knapsack-problem]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

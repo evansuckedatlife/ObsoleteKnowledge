@@ -4,13 +4,11 @@ category: mathematics
 defines:
   - Alan Turing
   - Turing
-related:
-  - "[[turing-machine]]"
-  - "[[halting-problem]]"
-  - "[[decision-problem]]"
-  - "[[kurt-godel]]"
+related: ["[[turing-machine]]", "[[halting-problem]]", "[[decision-problem]]", "[[kurt-godel]]"]
+requires: []
 lists:
   - "[[mathematicians]]"
+tour_order: 0
 read: true
 ---
 
@@ -39,6 +37,18 @@ read: true
 ## see also
 
 - [[kurt-godel]] · [[gottfried-leibniz]] · [[euclid]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

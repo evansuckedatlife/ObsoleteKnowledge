@@ -3,7 +3,9 @@ type: term
 category: mathematics
 defines: [Sorting algorithm, comparison sort, merge sort, quicksort, stability]
 related: ["[[algorithm]]", "[[big-o-notation]]", "[[divide-and-conquer]]", "[[recursion]]", "[[binary-search]]", "[[tree-data-structure]]", "[[time-complexity]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -56,6 +58,18 @@ Sorting is a canonical problem in computer science: it teaches fundamental algor
 ## see also
 
 - [[algorithm]] · [[divide-and-conquer]] · [[big-o-notation]] · [[time-complexity]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,20 @@ type: person
 category: mathematics
 defines: [Archimedes, Archimedes of Syracuse]
 related: ["[[geometry]]", "[[calculus]]", "[[buoyancy]]", "[[mechanics]]", "[[pi]]"]
+requires: ["[[number-theory]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Archimedes
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -46,6 +55,18 @@ Archimedes bridged the ancient and modern worlds. His *method of exhaustion* was
 ## see also
 
 - [[euclid]] · [[newton]] · [[leibniz]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

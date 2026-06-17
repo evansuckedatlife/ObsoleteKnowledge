@@ -5,12 +5,10 @@ defines:
   - "Time complexity"
   - Time complexity
   - "Big O notation"
-related:
-  - "[[p-complexity-class]]"
-  - "[[np-complexity-class]]"
-  - "[[space-complexity]]"
-  - "[[turing-machine]]"
+related: ["[[p-complexity-class]]", "[[np-complexity-class]]", "[[space-complexity]]", "[[turing-machine]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ read: false
 ## see also
 
 - [[p-complexity-class]] · [[np-complexity-class]] · [[space-complexity]] · [[turing-machine]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

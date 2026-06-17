@@ -2,16 +2,22 @@
 type: concept
 category: mathematics
 defines: ["Mersenne Primes", "Mersenne Prime"]
-related:
-  - "[[marin-mersenne]]"
-  - "[[prime-factorization]]"
-  - "[[perfect-numbers]]"
+related: ["[[marin-mersenne]]", "[[prime-factorization]]", "[[perfect-numbers]]"]
+requires: ["[[number-theory]]"]
 lists:
   - "[[statements-about-prime-numbers]]"
+tour_order: 1
 read: false
 ---
 
 # Mersenne Primes
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +41,18 @@ A Mersenne prime is a prime number of the form 2^p - 1, where p is itself prime.
 ## see also
 
 - [[perfect-numbers]] · [[prime-factorization]] · [[marin-mersenne]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

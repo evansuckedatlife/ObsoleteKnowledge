@@ -2,16 +2,22 @@
 type: concept
 category: mathematics
 defines: ["Prime Number Theorem", "π(x)"]
-related:
-  - "[[riemann-hypothesis]]"
-  - "[[infinitude-of-primes]]"
-  - "[[logarithmic-distribution]]"
+related: ["[[riemann-hypothesis]]", "[[infinitude-of-primes]]", "[[logarithmic-distribution]]"]
+requires: ["[[number-theory]]", "[[calculus]]"]
 lists:
   - "[[statements-about-prime-numbers]]"
+tour_order: 1
 read: false
 ---
 
 # Prime Number Theorem
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -57,6 +63,18 @@ The prime number theorem is a watershed in analytic number theory: it revealed t
 ## see also
 
 - [[infinitude-of-primes]] · [[riemann-hypothesis]] · [[twin-prime-conjecture]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

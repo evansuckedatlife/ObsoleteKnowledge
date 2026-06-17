@@ -3,11 +3,20 @@ type: term
 category: mathematics
 defines: [Modular arithmetic, modular congruence, modulus]
 related: ["[[number-theory]]", "[[congruence]]", "[[divisibility]]", "[[fermat-little-theorem]]", "[[wilson-theorem]]", "[[cryptography]]", "[[clock-arithmetic]]"]
+requires: ["[[number-theory]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Modular Arithmetic
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -43,6 +52,18 @@ Modular arithmetic crystallised as a discipline through Carl Friedrich Gauss's *
 ## see also
 
 - [[number-theory]] · [[fermat-little-theorem]] · [[cryptography]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

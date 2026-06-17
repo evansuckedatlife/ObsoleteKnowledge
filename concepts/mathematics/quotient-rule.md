@@ -3,11 +3,20 @@ type: term
 category: mathematics
 defines: [Quotient rule, quotient rule of differentiation]
 related: ["[[derivative]]", "[[product-rule]]", "[[chain-rule]]", "[[calculus]]", "[[rational-function]]"]
+requires: ["[[derivative]]", "[[calculus]]"]
 lists: []
+tour_order: 2
 read: false
 ---
 
 # Quotient Rule
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -41,6 +50,18 @@ The quotient rule is one of a trinity of basic differentiation techniques—alon
 ## see also
 
 - [[derivative]] · [[product-rule]] · [[chain-rule]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

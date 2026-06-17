@@ -3,11 +3,20 @@ type: term
 category: mathematics
 defines: [Quadratic Function, Quadratic]
 related: ["[[polynomial-function]]", "[[monomial-function]]", "[[rational-function]]"]
+requires: ["[[polynomial-function]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Quadratic Function
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -31,6 +40,18 @@ A *quadratic function* is a polynomial of degree 2, written as `f(x) = ax² + bx
 ## see also
 
 - [[polynomial-function]] · [[monomial-function]] · [[rational-function]] · [[exponential-function]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

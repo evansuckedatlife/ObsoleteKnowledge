@@ -3,7 +3,9 @@ type: term
 category: mathematics
 defines: [Spiral]
 related: ["[[cycloid]]", "[[catenary]]", "[[lemniscate]]", "[[cardioid]]"]
+requires: []
 lists: ["[[geometric-curves]]"]
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ A *spiral* is a curve that winds around a central point or axis, progressively g
 ## see also
 
 - [[cycloid]] · [[cardioid]] · [[lemniscate]] · [[catenary]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

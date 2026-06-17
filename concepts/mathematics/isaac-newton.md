@@ -2,8 +2,10 @@
 type: person
 category: mathematics
 defines: [Isaac Newton, Newton]
-related: ["[[calculus]]", "[[laws-of-motion]]", "[[universal-gravitation]]", "[[optics]]", "[[leibniz]]"]
+related: ["[[calculus]]", "[[laws-of-motion]]", "[[universal-gravitation]]", "[[optics]]", "[[leibniz]]", "[[enlightenment]]"]
+requires: []
 lists: ["[[mathematicians]]"]
+tour_order: 0
 read: false
 aliases: [newton]
 ---
@@ -49,6 +51,18 @@ Newton stands at the hinge of the Scientific Revolution—he synthesised the wor
 ## see also
 
 - [[leibniz]] · [[galileo]] · [[kepler]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

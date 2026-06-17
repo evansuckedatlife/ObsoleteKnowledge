@@ -2,8 +2,10 @@
 type: person
 category: mathematics
 defines: [Gottfried Leibniz, Leibniz, Gottfried Wilhelm Leibniz]
-related: ["[[calculus]]", "[[notation]]", "[[logic]]", "[[monad]]", "[[isaac-newton]]"]
+related: ["[[calculus]]", "[[notation]]", "[[logic]]", "[[monad]]", "[[isaac-newton]]", "[[enlightenment]]"]
+requires: []
 lists: ["[[mathematicians]]"]
+tour_order: 0
 read: false
 aliases: [leibniz]
 ---
@@ -46,6 +48,18 @@ Leibniz's legacy split into two streams. In mathematics, his superior notation a
 ## see also
 
 - [[isaac-newton]] · [[euler]] · [[descartes]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

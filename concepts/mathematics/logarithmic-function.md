@@ -3,11 +3,20 @@ type: term
 category: mathematics
 defines: [Logarithmic Function, Logarithm]
 related: ["[[exponential-function]]", "[[e-mathematical-constant]]", "[[inverse-function]]"]
+requires: ["[[exponential-function]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Logarithmic Function
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -31,6 +40,18 @@ A *logarithmic function* is the inverse of an exponential function, written as `
 ## see also
 
 - [[exponential-function]] · [[trigonometric-function]] · [[polynomial-function]] · [[rational-function]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

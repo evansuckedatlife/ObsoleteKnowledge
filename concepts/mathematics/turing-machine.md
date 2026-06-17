@@ -6,12 +6,10 @@ defines:
   - "Turing machine"
   - "Deterministic Turing machine"
   - "Nondeterministic Turing machine"
-related:
-  - "[[p-complexity-class]]"
-  - "[[np-complexity-class]]"
-  - "[[halting-problem]]"
-  - "[[time-complexity]]"
+related: ["[[p-complexity-class]]", "[[np-complexity-class]]", "[[halting-problem]]", "[[time-complexity]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +40,18 @@ A **Turing machine** is an abstract mathematical model of computation introduced
 ## see also
 
 - [[p-complexity-class]] · [[np-complexity-class]] · [[halting-problem]] · [[time-complexity]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

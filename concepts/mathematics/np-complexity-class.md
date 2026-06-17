@@ -5,17 +5,21 @@ defines:
   - NP
   - NP (complexity class)
   - Nondeterministic polynomial time
-related:
-  - "[[p-complexity-class]]"
-  - "[[np-complete]]"
-  - "[[np-hard]]"
-  - "[[decision-problem]]"
-  - "[[time-complexity]]"
+related: ["[[p-complexity-class]]", "[[np-complete]]", "[[np-hard]]", "[[decision-problem]]", "[[time-complexity]]"]
+requires: ["[[p-complexity-class]]"]
 lists: []
+tour_order: 7
 read: true
 ---
 
 # NP (Complexity Class)
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -67,6 +71,18 @@ read: true
 ## see also
 
 - [[p-complexity-class]] · [[np-complete]] · [[np-hard]] · [[decision-problem]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

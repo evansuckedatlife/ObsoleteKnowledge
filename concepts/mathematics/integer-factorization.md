@@ -2,16 +2,22 @@
 type: concept
 category: mathematics
 defines: ["Integer Factorization", "Prime Factorization"]
-related:
-  - "[[fundamental-theorem-of-arithmetic]]"
-  - "[[p-vs-np-problem]]"
-  - "[[primality-testing]]"
+related: ["[[fundamental-theorem-of-arithmetic]]", "[[p-vs-np-problem]]", "[[primality-testing]]"]
+requires: ["[[number-theory]]"]
 lists:
   - "[[computation-types]]"
+tour_order: 1
 read: false
 ---
 
 # Integer Factorization
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +41,18 @@ Integer factorization is the process of decomposing a composite integer into a p
 ## see also
 
 - [[fundamental-theorem-of-arithmetic]] · [[p-vs-np-problem]] · [[primality-testing]] · [[fermat-little-theorem]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

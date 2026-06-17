@@ -3,11 +3,20 @@ type: concept
 category: mathematics
 defines: ["Mean Value Theorem", MVT]
 related: ["[[derivative]]", "[[continuity]]", "[[rolle-theorem]]"]
+requires: ["[[calculus]]", "[[derivative]]"]
 lists: ["[[calculus-ideas]]"]
+tour_order: 2
 read: false
 ---
 
 # Mean Value Theorem
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -30,6 +39,18 @@ The *Mean Value Theorem* (MVT) states that for a function continuous on a closed
 ## see also
 
 - [[derivative]] · [[fundamental-theorem-of-calculus]] · [[integral]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

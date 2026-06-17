@@ -3,11 +3,20 @@ type: concept
 category: mathematics
 defines: [Bijective, bijection, "bijective function", "one-to-one correspondence"]
 related: ["[[injective]]", "[[surjective]]", "[[inverse-function]]", "[[symmetric-group]]", "[[cardinality]]"]
+requires: ["[[logic]]"]
 lists: ["[[classifications-of-functions]]"]
+tour_order: 5
 read: false
 ---
 
 # Bijective
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -50,6 +59,18 @@ Bijections are the mathematical gold standard for equivalence, demonstrating tha
 ## see also
 
 - [[injective]] · [[surjective]] · [[monotonic-functions]] · [[continuous-functions]] · [[analytic-functions]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

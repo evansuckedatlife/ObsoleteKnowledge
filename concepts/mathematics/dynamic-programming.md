@@ -3,7 +3,9 @@ type: term
 category: mathematics
 defines: [Dynamic Programming, DP, memoization, tabulation]
 related: ["[[recursion]]", "[[algorithm]]", "[[divide-and-conquer]]", "[[optimization-problem]]", "[[big-o-notation]]", "[[polynomial-function]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -55,6 +57,18 @@ Dynamic programming emerged from control theory and operations research but has 
 ## see also
 
 - [[recursion]] · [[algorithm]] · [[optimization-problem]] · [[knapsack-problem]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

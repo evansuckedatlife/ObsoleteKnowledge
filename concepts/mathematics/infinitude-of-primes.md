@@ -2,16 +2,22 @@
 type: concept
 category: mathematics
 defines: ["Infinitude of Primes", "Infinite Primes"]
-related:
-  - "[[euclid]]"
-  - "[[prime-number-theorem]]"
-  - "[[prime-factorization]]"
+related: ["[[euclid]]", "[[prime-number-theorem]]", "[[prime-factorization]]"]
+requires: ["[[number-theory]]"]
 lists:
   - "[[statements-about-prime-numbers]]"
+tour_order: 1
 read: false
 ---
 
 # Infinitude of Primes
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +42,18 @@ The infinitude of primes states that there is no largest prime number — the se
 ## see also
 
 - [[prime-factorization]] · [[prime-number-theorem]] · [[riemann-hypothesis]] · [[twin-prime-conjecture]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

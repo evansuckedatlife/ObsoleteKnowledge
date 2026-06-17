@@ -2,11 +2,11 @@
 type: concept
 category: mathematics
 defines: ["Traveling Salesman Problem", "TSP", "Travelling Salesman Problem"]
-related:
-  - "[[p-vs-np-problem]]"
-  - "[[shortest-path-problem]]"
+related: ["[[p-vs-np-problem]]", "[[shortest-path-problem]]"]
+requires: []
 lists:
   - "[[computation-types]]"
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +34,18 @@ The Traveling Salesman Problem (TSP) is a classic optimization problem in graph 
 ## see also
 
 - [[p-vs-np-problem]] · [[shortest-path-problem]] · [[knapsack-problem]] · [[graph-coloring]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: person
 category: mathematics
 defines: [Andrew Wiles, Wiles]
 related: ["[[fermat-last-theorem]]", "[[elliptic-curves]]", "[[modular-forms]]", "[[taniyama-shimura-conjecture]]", "[[pierre-de-fermat]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -44,6 +46,18 @@ Wiles' proof of Fermat's Last Theorem is one of the 20th century's greatest math
 ## see also
 
 - [[pierre-de-fermat]] · [[richard-taylor]] · [[number-theory]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

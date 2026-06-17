@@ -3,7 +3,9 @@ type: term
 category: mathematics
 defines: [Tree data structure, rooted tree, binary tree, leaf node, internal node]
 related: ["[[recursion]]", "[[graph-coloring]]", "[[algorithm]]", "[[binary-search]]", "[[shortest-path-problem]]", "[[polynomial-function]]", "[[divide-and-conquer]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -61,6 +63,18 @@ Trees are among the most fundamental data structures in all of computer science.
 ## see also
 
 - [[recursion]] · [[algorithm]] · [[binary-search]] · [[divide-and-conquer]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

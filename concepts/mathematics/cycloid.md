@@ -3,11 +3,20 @@ type: term
 category: mathematics
 defines: [Cycloid]
 related: ["[[cardioid]]", "[[catenary]]", "[[leibniz]]", "[[newton]]"]
+requires: ["[[calculus]]"]
 lists: ["[[geometric-curves]]"]
+tour_order: 1
 read: false
 ---
 
 # Cycloid
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ A *cycloid* is the curve traced by a point on the rim of a circle as it rolls al
 ## see also
 
 - [[cardioid]] · [[catenary]] · [[lemniscate]] · [[spiral]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 
