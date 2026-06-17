@@ -4,12 +4,11 @@ category: geography
 defines:
   - Zambezi River
   - Zambezi
-related:
-  - "[[nile-river]]"
-  - "[[congo-river]]"
-  - "[[lake-malawi]]"
+related: ["[[nile-river]]", "[[congo-river]]", "[[lake-malawi]]"]
+requires: []
 lists:
   - "[[african-bodies-of-water]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ The *Zambezi* is southern Africa's most important river, flowing approximately 1
 ## see also
 
 - [[nile-river]] · [[congo-river]] · [[niger-river]] · [[lake-malawi]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,8 +2,10 @@
 type: place
 category: geography
 defines: [Spain, "Kingdom of Spain"]
-related: ["[[iberian-peninsula]]", "[[spanish-inquisition]]", "[[spanish-empire]]", "[[conquistador]]", "[[madrid]]", "[[catholic-monarchs]]", "[[renaissance]]", "[[moorish-spain]]", "[[cervantes]]"]
+related: ["[[iberian-peninsula]]", "[[spanish-inquisition]]", "[[spanish-empire]]", "[[conquistador]]", "[[madrid]]", "[[catholic-monarchs]]", "[[renaissance]]", "[[moorish-spain]]", "[[cervantes]]", "[[al-andalus]]", "[[age-of-exploration]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +41,18 @@ Spain is a country in southwestern Europe occupying most of the Iberian Peninsul
 ## see also
 
 - [[spanish-empire]] · [[spanish-inquisition]] · [[moorish-spain]] · [[iberian-peninsula]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

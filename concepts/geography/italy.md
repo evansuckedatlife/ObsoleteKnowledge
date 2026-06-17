@@ -3,7 +3,9 @@ type: place
 category: geography
 defines: [Italy, "Italian Republic"]
 related: ["[[roman-empire]]", "[[renaissance]]", "[[vatican]]", "[[rome]]", "[[michelangelo]]", "[[dante]]", "[[volcanic-region]]", "[[mediterranean]]", "[[fascism]]", "[[venice]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +41,18 @@ Italy is a Mediterranean country in south-central Europe, extending into the Tyr
 ## see also
 
 - [[roman-empire]] · [[renaissance]] · [[vatican]] · [[rome]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

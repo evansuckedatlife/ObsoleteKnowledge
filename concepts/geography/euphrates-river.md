@@ -4,12 +4,11 @@ category: geography
 defines:
   - Euphrates River
   - Al-Furat
-related:
-  - "[[tigris-river]]"
-  - "[[mesopotamia]]"
-  - "[[syria]]"
+related: ["[[tigris-river]]", "[[mesopotamia]]", "[[syria]]", "[[silk-road]]"]
+requires: []
 lists:
   - "[[asian-rivers]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ The **Euphrates River** is the longest river in southwestern Asia, flowing appro
 ## see also
 
 - [[tigris-river]] · [[indus-river]] · [[ganges-river]] · [[mekong-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

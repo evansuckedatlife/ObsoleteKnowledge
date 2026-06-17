@@ -4,12 +4,11 @@ category: geography
 defines:
   - Lake Chad
   - Chad
-related:
-  - "[[sahel]]"
-  - "[[lake-victoria]]"
-  - "[[niger-river]]"
+related: ["[[sahel]]", "[[lake-victoria]]", "[[niger-river]]"]
+requires: []
 lists:
   - "[[african-bodies-of-water]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ read: false
 ## see also
 
 - [[lake-victoria]] · [[lake-tanganyika]] · [[lake-malawi]] · [[niger-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

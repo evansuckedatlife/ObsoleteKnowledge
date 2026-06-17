@@ -4,17 +4,22 @@ category: geography
 defines:
   - Gobi Desert
   - Gobi
-related:
-  - "[[central-asia]]"
-  - "[[silk-road]]"
-  - "[[mongolia]]"
-  - "[[china]]"
+related: ["[[central-asia]]", "[[silk-road]]", "[[mongolia]]", "[[china]]", "[[mongol-empire]]"]
+requires: ["[[china]]"]
 lists:
   - "[[deserts]]"
+tour_order: 1
 read: false
 ---
 
 # Gobi Desert
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -41,6 +46,18 @@ The *Gobi* is a large cold desert spanning roughly 500,000 square miles across M
 ## see also
 
 - [[sahara-desert]] · [[atacama-desert]] · [[kalahari-desert]] · [[taklamakan-desert]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

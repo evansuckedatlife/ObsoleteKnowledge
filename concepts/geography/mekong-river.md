@@ -3,12 +3,11 @@ type: place
 category: geography
 defines:
   - Mekong River
-related:
-  - "[[brahmaputra-river]]"
-  - "[[southeast-asia]]"
-  - "[[vietnam]]"
+related: ["[[brahmaputra-river]]", "[[southeast-asia]]", "[[vietnam]]", "[[vietnam-war]]"]
+requires: []
 lists:
   - "[[asian-rivers]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ The **Mekong River** is Southeast Asia's longest and most important river, flowi
 ## see also
 
 - [[yangtze-river]] · [[brahmaputra-river]] · [[indus-river]] · [[irrawaddy-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

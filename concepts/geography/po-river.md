@@ -4,17 +4,22 @@ category: geography
 defines:
   - Po River
   - Po
-related:
-  - "[[italy]]"
-  - "[[italian-alps]]"
-  - "[[venice]]"
-  - "[[padua]]"
+related: ["[[italy]]", "[[italian-alps]]", "[[venice]]", "[[padua]]"]
+requires: ["[[italy]]"]
 lists:
   - "[[western-european-rivers]]"
+tour_order: 1
 read: false
 ---
 
 # Po River
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +45,18 @@ The *Po* is northern Italy's longest river, flowing 405 miles from the Alps west
 ## see also
 
 - [[rhine-river]] · [[danube]] · [[tiber-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

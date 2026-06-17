@@ -4,12 +4,11 @@ category: geography
 defines:
   - Sahara Desert
   - Sahara
-related:
-  - "[[nile-river]]"
-  - "[[african-empires]]"
-  - "[[trans-saharan-trade]]"
+related: ["[[nile-river]]", "[[african-empires]]", "[[trans-saharan-trade]]", "[[silk-road]]", "[[islam]]"]
+requires: []
 lists:
   - "[[deserts]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ The *Sahara* is the world's largest hot desert, spanning roughly 3.6 million squ
 ## see also
 
 - [[antarctica]] · [[gobi-desert]] · [[atacama-desert]] · [[kalahari-desert]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

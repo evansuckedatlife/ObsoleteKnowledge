@@ -3,12 +3,11 @@ type: place
 category: geography
 defines:
   - Columbia River
-related:
-  - "[[snake-river]]"
-  - "[[pacific-northwest]]"
-  - "[[grand-coulee-dam]]"
+related: ["[[snake-river]]", "[[pacific-northwest]]", "[[grand-coulee-dam]]"]
+requires: []
 lists:
   - "[[north-american-rivers]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ The *Columbia River* is the longest river in the Pacific Northwest, flowing appr
 ## see also
 
 - [[snake-river]] · [[colorado-river]] · [[missouri-river]] · [[st-lawrence-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

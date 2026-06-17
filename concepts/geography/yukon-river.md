@@ -3,12 +3,11 @@ type: place
 category: geography
 defines:
   - Yukon River
-related:
-  - "[[alaska]]"
-  - "[[canada]]"
-  - "[[arctic-ocean]]"
+related: ["[[alaska]]", "[[canada]]", "[[arctic-ocean]]"]
+requires: []
 lists:
   - "[[north-american-rivers]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ The *Yukon River* flows approximately 1,980 miles through western Canada and Ala
 ## see also
 
 - [[mackenzie-river]] · [[columbia-river]] · [[missouri-river]] · [[alaska]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,12 +2,21 @@
 type: place
 category: geography
 defines: [Rome, Eternal City, Roma]
-related: ["[[roman-empire]]", "[[colosseum]]", "[[vatican-city]]", "[[latin-language]]", "[[caesar]]", "[[virgil-aeneid]]", "[[christianity]]", "[[catholic-church]]", "[[roman-republic]]"]
+related: ["[[roman-empire]]", "[[colosseum]]", "[[vatican-city]]", "[[latin-language]]", "[[caesar]]", "[[virgil-aeneid]]", "[[christianity]]", "[[catholic-church]]", "[[roman-republic]]", "[[italian-renaissance]]"]
+requires: ["[[italy]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Rome
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -37,6 +46,18 @@ Rome is the capital of Italy and one of the oldest and most influential cities i
 ## see also
 
 - [[roman-empire]] · [[colosseum]] · [[vatican-city]] · [[caesar]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,12 +2,21 @@
 type: place
 category: geography
 defines: [London, Greater London, City of London]
-related: ["[[england]]", "[[thames-river]]", "[[british-empire]]", "[[big-ben]]", "[[tower-of-london]]", "[[dickens]]", "[[sherlock-holmes]]", "[[parliament]]", "[[industrial-revolution]]"]
+related: ["[[england]]", "[[thames-river]]", "[[british-empire]]", "[[big-ben]]", "[[tower-of-london]]", "[[dickens]]", "[[sherlock-holmes]]", "[[parliament]]", "[[industrial-revolution]]", "[[charles-dickens]]", "[[world-war-ii]]"]
+requires: ["[[england]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # London
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -37,6 +46,18 @@ London is the capital and largest city of the United Kingdom, situated on the Ri
 ## see also
 
 - [[england]] · [[big-ben]] · [[tower-of-london]] · [[dickens]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,12 +4,11 @@ category: geography
 defines:
   - Lake Victoria
   - Victoria
-related:
-  - "[[nile-river]]"
-  - "[[lake-tanganyika]]"
-  - "[[east-africa]]"
+related: ["[[nile-river]]", "[[lake-tanganyika]]", "[[east-africa]]"]
+requires: []
 lists:
   - "[[african-bodies-of-water]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ read: false
 ## see also
 
 - [[lake-tanganyika]] · [[lake-malawi]] · [[lake-chad]] · [[nile-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

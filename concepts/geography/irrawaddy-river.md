@@ -5,12 +5,11 @@ defines:
   - Irrawaddy River
   - Ayeyarwady
   - Salween
-related:
-  - "[[mekong-river]]"
-  - "[[myanmar]]"
-  - "[[southeast-asia]]"
+related: ["[[mekong-river]]", "[[myanmar]]", "[[southeast-asia]]", "[[buddhism]]"]
+requires: []
 lists:
   - "[[asian-rivers]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +40,18 @@ The **Irrawaddy River** (also spelled Ayeyarwady) is Myanmar's most important ri
 ## see also
 
 - [[mekong-river]] · [[brahmaputra-river]] · [[indus-river]] · [[tigris-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

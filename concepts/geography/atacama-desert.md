@@ -4,12 +4,11 @@ category: geography
 defines:
   - Atacama Desert
   - Atacama
-related:
-  - "[[andes-mountains]]"
-  - "[[chilean-geography]]"
-  - "[[driest-places]]"
+related: ["[[andes-mountains]]", "[[chilean-geography]]", "[[driest-places]]"]
+requires: []
 lists:
   - "[[deserts]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ The *Atacama* is the driest non-polar desert on Earth, stretching roughly 600 mi
 ## see also
 
 - [[sahara-desert]] · [[gobi-desert]] · [[kalahari-desert]] · [[great-victoria-desert]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

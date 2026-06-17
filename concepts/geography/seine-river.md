@@ -4,16 +4,22 @@ category: geography
 defines:
   - Seine River
   - Seine
-related:
-  - "[[france]]"
-  - "[[paris]]"
-  - "[[normandy]]"
+related: ["[[france]]", "[[paris]]", "[[normandy]]"]
+requires: ["[[france]]"]
 lists:
   - "[[western-european-rivers]]"
+tour_order: 1
 read: false
 ---
 
 # Seine River
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ The *Seine* is France's second-longest river, flowing 485 miles from Burgundy th
 ## see also
 
 - [[rhine-river]] · [[loire-river]] · [[danube]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

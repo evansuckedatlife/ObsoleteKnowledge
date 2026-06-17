@@ -2,8 +2,10 @@
 type: place
 category: geography
 defines: [England, Kingdom of England, Anglo-Saxon England]
-related: ["[[british-empire]]", "[[magna-carta]]", "[[william-shakespeare]]", "[[united-kingdom]]", "[[battle-of-hastings]]", "[[anglican-church]]", "[[industrial-revolution]]", "[[monarchy]]", "[[parliament]]"]
+related: ["[[british-empire]]", "[[magna-carta]]", "[[william-shakespeare]]", "[[united-kingdom]]", "[[battle-of-hastings]]", "[[anglican-church]]", "[[industrial-revolution]]", "[[monarchy]]", "[[parliament]]", "[[world-war-ii]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +39,18 @@ England is the largest and most populous constituent country of the United Kingd
 ## see also
 
 - [[william-shakespeare]] · [[magna-carta]] · [[british-empire]] · [[parliament]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

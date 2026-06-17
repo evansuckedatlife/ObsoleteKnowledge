@@ -2,8 +2,10 @@
 type: place
 category: geography
 defines: [Danube Region, Danube Basin, Danube Corridor]
-related: ["[[danube-river]]", "[[central-europe]]", "[[eastern-europe]]", "[[holy-roman-empire]]", "[[austro-hungarian-empire]]", "[[balkan-wars]]", "[[vienna]]", "[[budapest]]", "[[trade-routes]]"]
+related: ["[[danube-river]]", "[[central-europe]]", "[[eastern-europe]]", "[[holy-roman-empire]]", "[[austro-hungarian-empire]]", "[[balkan-wars]]", "[[vienna]]", "[[budapest]]", "[[trade-routes]]", "[[roman-empire]]", "[[cold-war]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +41,18 @@ The Danube Region encompasses the basin and territories surrounding the Danube R
 ## see also
 
 - [[danube-river]] · [[austro-hungarian-empire]] · [[vienna]] · [[budapest]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

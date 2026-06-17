@@ -4,12 +4,11 @@ category: geography
 defines:
   - Great Sandy Desert
   - Great Sandy Desert of Australia
-related:
-  - "[[australia]]"
-  - "[[aboriginal-peoples]]"
-  - "[[australian-outback]]"
+related: ["[[australia]]", "[[aboriginal-peoples]]", "[[australian-outback]]"]
+requires: []
 lists:
   - "[[deserts]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ The *Great Sandy Desert* is a large hot desert occupying roughly 75,000 square m
 ## see also
 
 - [[great-victoria-desert]] · [[sahara-desert]] · [[atacama-desert]] · [[gobi-desert]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

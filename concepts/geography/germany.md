@@ -2,8 +2,10 @@
 type: place
 category: geography
 defines: [Germany, Deutschland, German Empire]
-related: ["[[holy-roman-empire]]", "[[bismarck]]", "[[martin-luther]]", "[[world-war-i]]", "[[world-war-ii]]", "[[goethe]]", "[[classical-music]]", "[[protestant-reformation]]", "[[beethoven]]"]
+related: ["[[holy-roman-empire]]", "[[bismarck]]", "[[martin-luther]]", "[[world-war-i]]", "[[world-war-ii]]", "[[goethe]]", "[[classical-music]]", "[[protestant-reformation]]", "[[beethoven]]", "[[nazi-germany]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +39,18 @@ Germany is a major European nation at the crossroads of Central and Western Euro
 ## see also
 
 - [[bismarck]] · [[goethe]] · [[beethoven]] · [[martin-luther]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

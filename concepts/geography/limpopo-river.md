@@ -4,11 +4,11 @@ category: geography
 defines:
   - Limpopo River
   - Limpopo
-related:
-  - "[[zambezi-river]]"
-  - "[[southern-africa]]"
+related: ["[[zambezi-river]]", "[[southern-africa]]"]
+requires: []
 lists:
   - "[[african-bodies-of-water]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +39,18 @@ The *Limpopo* is a major southern African river flowing approximately 1,100 mile
 ## see also
 
 - [[zambezi-river]] · [[okavango-river]] · [[lake-malawi]] · [[congo-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

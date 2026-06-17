@@ -3,12 +3,11 @@ type: place
 category: geography
 defines:
   - Rio Grande
-related:
-  - "[[colorado-river]]"
-  - "[[gulf-of-mexico]]"
-  - "[[mexico]]"
+related: ["[[colorado-river]]", "[[gulf-of-mexico]]", "[[mexico]]"]
+requires: []
 lists:
   - "[[north-american-rivers]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ The *Rio Grande* flows approximately 1,900 miles from the San Juan Mountains of 
 ## see also
 
 - [[colorado-river]] · [[snake-river]] · [[columbia-river]] · [[arkansas-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

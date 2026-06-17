@@ -2,8 +2,10 @@
 type: place
 category: geography
 defines: [Scotland]
-related: ["[[united-kingdom]]", "[[edinburgh]]", "[[scottish-enlightenment]]", "[[celtic-culture]]", "[[british-empire]]", "[[william-wallace]]", "[[highland-clearances]]", "[[james-watt]]", "[[loch-ness]]"]
+related: ["[[united-kingdom]]", "[[edinburgh]]", "[[scottish-enlightenment]]", "[[celtic-culture]]", "[[british-empire]]", "[[william-wallace]]", "[[highland-clearances]]", "[[james-watt]]", "[[loch-ness]]", "[[enlightenment]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +41,18 @@ Scotland is a country that comprises the northern part of the island of Great Br
 ## see also
 
 - [[edinburgh]] · [[united-kingdom]] · [[scottish-enlightenment]] · [[william-wallace]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

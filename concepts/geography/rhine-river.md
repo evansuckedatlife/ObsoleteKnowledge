@@ -4,12 +4,11 @@ category: geography
 defines:
   - Rhine River
   - Rhine
-related:
-  - "[[holy-roman-empire]]"
-  - "[[netherlands]]"
-  - "[[germany]]"
+related: ["[[holy-roman-empire]]", "[[netherlands]]", "[[germany]]", "[[roman-empire]]", "[[world-war-ii]]"]
+requires: []
 lists:
   - "[[western-european-rivers]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ The *Rhine* is western Europe's most important waterway, flowing 765 miles from 
 ## see also
 
 - [[seine]] · [[danube]] · [[elbe]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

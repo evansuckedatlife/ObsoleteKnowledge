@@ -5,12 +5,11 @@ defines:
   - Lake Malawi
   - Lake Nyasa
   - Malawi
-related:
-  - "[[lake-tanganyika]]"
-  - "[[lake-victoria]]"
-  - "[[zambezi-river]]"
+related: ["[[lake-tanganyika]]", "[[lake-victoria]]", "[[zambezi-river]]"]
+requires: []
 lists:
   - "[[african-bodies-of-water]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +40,18 @@ read: false
 ## see also
 
 - [[lake-tanganyika]] · [[lake-victoria]] · [[lake-chad]] · [[congo-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

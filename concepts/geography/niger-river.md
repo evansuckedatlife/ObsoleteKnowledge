@@ -4,11 +4,11 @@ category: geography
 defines:
   - Niger River
   - Niger
-related:
-  - "[[nile-river]]"
-  - "[[congo-river]]"
+related: ["[[nile-river]]", "[[congo-river]]"]
+requires: []
 lists:
   - "[[african-bodies-of-water]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +39,18 @@ The *Niger* is West Africa's principal river, flowing approximately 2,600 miles 
 ## see also
 
 - [[nile-river]] · [[congo-river]] · [[zambezi-river]] · [[lake-chad]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

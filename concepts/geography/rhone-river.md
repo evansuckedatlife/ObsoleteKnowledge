@@ -4,12 +4,11 @@ category: geography
 defines:
   - Rhône River
   - Rhone
-related:
-  - "[[switzerland]]"
-  - "[[france]]"
-  - "[[mediterranean]]"
+related: ["[[switzerland]]", "[[france]]", "[[mediterranean]]"]
+requires: []
 lists:
   - "[[western-european-rivers]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ The *Rhône* is a major western European river flowing 505 miles from the Swiss 
 ## see also
 
 - [[seine-river]] · [[danube]] · [[po-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

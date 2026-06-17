@@ -4,13 +4,11 @@ category: geography
 defines:
   - Mount Kilimanjaro
   - Kilimanjaro
-related:
-  - "[[mount-everest]]"
-  - "[[denali]]"
-  - "[[mount-kenya]]"
-  - "[[k2]]"
+related: ["[[mount-everest]]", "[[denali]]", "[[mount-kenya]]", "[[k2]]"]
+requires: []
 lists:
   - "[[mountains]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[mount-kenya]] · [[mount-everest]] · [[mount-aconcagua]] · [[denali]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

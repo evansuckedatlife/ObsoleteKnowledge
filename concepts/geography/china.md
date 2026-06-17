@@ -3,7 +3,9 @@ type: place
 category: geography
 defines: [China, People's Republic of China, Zhongguo]
 related: ["[[great-wall-of-china]]", "[[silk-road]]", "[[confucianism]]", "[[taoism]]", "[[chinese-dynasties]]", "[[forbidden-city]]", "[[mao-zedong]]", "[[kung-fu]]", "[[chinese-philosophy]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +39,18 @@ China is one of the world's oldest continuous civilizations, spanning over 4,000
 ## see also
 
 - [[great-wall-of-china]] · [[silk-road]] · [[forbidden-city]] · [[confucianism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,17 +4,22 @@ category: geography
 defines:
   - Elbe River
   - Elbe
-related:
-  - "[[germany]]"
-  - "[[czech-republic]]"
-  - "[[hamburg]]"
-  - "[[baltic-sea]]"
+related: ["[[germany]]", "[[czech-republic]]", "[[hamburg]]", "[[baltic-sea]]", "[[cold-war]]"]
+requires: ["[[germany]]"]
 lists:
   - "[[western-european-rivers]]"
+tour_order: 1
 read: false
 ---
 
 # Elbe River
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +45,18 @@ The *Elbe* is a 724-mile river flowing from the Czech Republic through eastern G
 ## see also
 
 - [[rhine-river]] · [[danube]] · [[thames-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

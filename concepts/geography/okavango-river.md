@@ -4,12 +4,11 @@ category: geography
 defines:
   - Okavango River
   - Okavango
-related:
-  - "[[zambezi-river]]"
-  - "[[limpopo-river]]"
-  - "[[botswana]]"
+related: ["[[zambezi-river]]", "[[limpopo-river]]", "[[botswana]]"]
+requires: []
 lists:
   - "[[african-bodies-of-water]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ The *Okavango* is a southern African river approximately 1,000 miles long that f
 ## see also
 
 - [[zambezi-river]] · [[limpopo-river]] · [[congo-river]] · [[lake-malawi]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

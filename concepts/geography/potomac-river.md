@@ -3,16 +3,22 @@ type: place
 category: geography
 defines:
   - Potomac River
-related:
-  - "[[washington-dc]]"
-  - "[[maryland]]"
-  - "[[chesapeake-bay]]"
+related: ["[[washington-dc]]", "[[maryland]]", "[[chesapeake-bay]]"]
+requires: ["[[united-states]]"]
 lists:
   - "[[north-american-rivers]]"
+tour_order: 1
 read: false
 ---
 
 # Potomac River
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ The *Potomac River* flows approximately 380 miles from the Appalachian Mountains
 ## see also
 
 - [[hudson-river]] · [[delaware-river]] · [[ohio-river]] · [[james-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

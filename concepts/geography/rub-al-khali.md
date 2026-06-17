@@ -5,14 +5,11 @@ defines:
   - Rub' al-Khali
   - Empty Quarter
   - Rub al Khali
-related:
-  - "[[arabian-desert]]"
-  - "[[arabian-peninsula]]"
-  - "[[saudi-arabia]]"
-  - "[[oman]]"
-  - "[[united-arab-emirates]]"
+related: ["[[arabian-desert]]", "[[arabian-peninsula]]", "[[saudi-arabia]]", "[[oman]]", "[[united-arab-emirates]]", "[[silk-road]]", "[[islam]]"]
+requires: []
 lists:
   - "[[deserts]]"
+tour_order: 0
 read: false
 ---
 
@@ -43,6 +40,18 @@ The *Rub' al-Khali*, or "Empty Quarter," is the world's largest continuous sand 
 ## see also
 
 - [[sahara-desert]] · [[arabian-desert]] · [[kalahari-desert]] · [[taklamakan-desert]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

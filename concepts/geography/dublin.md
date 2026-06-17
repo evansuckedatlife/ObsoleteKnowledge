@@ -2,8 +2,10 @@
 type: place
 category: geography
 defines: [Dublin, "County Dublin"]
-related: ["[[ireland]]", "[[joyce]]", "[[ireland-independence]]", "[[irish-literature]]", "[[trinity-college]]", "[[irish-famine]]", "[[georgian-architecture]]", "[[river-liffey]]", "[[samuel-beckett]]"]
+related: ["[[ireland]]", "[[joyce]]", "[[ireland-independence]]", "[[irish-literature]]", "[[trinity-college]]", "[[irish-famine]]", "[[georgian-architecture]]", "[[river-liffey]]", "[[samuel-beckett]]", "[[james-joyce]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +41,18 @@ Dublin is the capital and largest city of Ireland, situated on the River Liffey'
 ## see also
 
 - [[ireland]] · [[joyce]] · [[irish-literature]] · [[trinity-college]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

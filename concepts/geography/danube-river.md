@@ -4,18 +4,22 @@ category: geography
 defines:
   - Danube River
   - Danube
-related:
-  - "[[germany]]"
-  - "[[austria]]"
-  - "[[hungary]]"
-  - "[[balkans]]"
-  - "[[black-sea]]"
+related: ["[[germany]]", "[[austria]]", "[[hungary]]", "[[balkans]]", "[[black-sea]]", "[[austro-hungarian-empire]]", "[[ottoman-empire]]", "[[roman-empire]]"]
+requires: ["[[germany]]"]
 lists:
   - "[[western-european-rivers]]"
+tour_order: 1
 read: false
 ---
 
 # Danube River
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -41,6 +45,18 @@ The *Danube* is Europe's second-longest river, flowing 1,771 miles from Germany'
 ## see also
 
 - [[rhine-river]] · [[seine-river]] · [[danube]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

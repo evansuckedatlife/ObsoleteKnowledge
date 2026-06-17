@@ -4,16 +4,22 @@ category: geography
 defines:
   - Ganges River
   - Ganga
-related:
-  - "[[brahmaputra-river]]"
-  - "[[india]]"
-  - "[[hinduism]]"
+related: ["[[brahmaputra-river]]", "[[india]]", "[[hinduism]]"]
+requires: ["[[india]]"]
 lists:
   - "[[asian-rivers]]"
+tour_order: 1
 read: false
 ---
 
 # Ganges River
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +46,18 @@ The **Ganges River** is the holiest river in Hinduism and the lifeblood of north
 ## see also
 
 - [[brahmaputra-river]] · [[indus-river]] · [[yellow-river]] · [[yangtze-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

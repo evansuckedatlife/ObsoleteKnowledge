@@ -4,13 +4,11 @@ category: geography
 defines:
   - Mount Kenya
   - Kenya
-related:
-  - "[[mount-kilimanjaro]]"
-  - "[[africa]]"
-  - "[[kenya]]"
-  - "[[mount-fuji]]"
+related: ["[[mount-kilimanjaro]]", "[[africa]]", "[[kenya]]", "[[mount-fuji]]"]
+requires: []
 lists:
   - "[[mountains]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[mount-kilimanjaro]] · [[mount-fuji]] · [[mont-blanc]] · [[denali]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

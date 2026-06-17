@@ -4,13 +4,11 @@ category: geography
 defines:
   - Painted Desert
   - Painted Desert of Arizona
-related:
-  - "[[arizona]]"
-  - "[[petrified-forest]]"
-  - "[[colorado-plateau]]"
-  - "[[native-american-history]]"
+related: ["[[arizona]]", "[[petrified-forest]]", "[[colorado-plateau]]", "[[native-american-history]]"]
+requires: []
 lists:
   - "[[deserts]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ The *Painted Desert* is a semi-arid badlands region in northeastern Arizona, str
 ## see also
 
 - [[sahara-desert]] · [[atacama-desert]] · [[gobi-desert]] · [[great-basin-desert]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

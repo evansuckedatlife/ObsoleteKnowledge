@@ -2,8 +2,10 @@
 type: place
 category: geography
 defines: [Atlantic Ocean]
-related: ["[[europe]]", "[[africa]]", "[[north-america]]", "[[south-america]]", "[[columbus]]", "[[british-empire]]", "[[slave-trade]]", "[[cold-war]]", "[[titanic]]"]
+related: ["[[europe]]", "[[africa]]", "[[north-america]]", "[[south-america]]", "[[columbus]]", "[[british-empire]]", "[[slave-trade]]", "[[cold-war]]", "[[titanic]]", "[[world-war-ii]]", "[[age-of-exploration]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +40,18 @@ The Atlantic Ocean is the second-largest ocean on Earth, covering approximately 
 ## see also
 
 - [[europe]] · [[africa]] · [[north-america]] · [[south-america]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

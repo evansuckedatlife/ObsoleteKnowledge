@@ -3,12 +3,11 @@ type: place
 category: geography
 defines:
   - Hudson River
-related:
-  - "[[new-york-city]]"
-  - "[[appalachian-mountains]]"
-  - "[[atlantic-ocean]]"
+related: ["[[new-york-city]]", "[[appalachian-mountains]]", "[[atlantic-ocean]]", "[[world-war-ii]]"]
+requires: []
 lists:
   - "[[north-american-rivers]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ The *Hudson River* flows approximately 315 miles southward from the Adirondack M
 ## see also
 
 - [[mississippi-river]] · [[ohio-river]] · [[delaware-river]] · [[potomac-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

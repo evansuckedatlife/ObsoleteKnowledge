@@ -5,16 +5,22 @@ defines:
   - Negev Desert
   - Negev
   - Neguev
-related:
-  - "[[israel]]"
-  - "[[middle-east]]"
-  - "[[sinai-peninsula]]"
+related: ["[[israel]]", "[[middle-east]]", "[[sinai-peninsula]]", "[[arab-israeli-conflict]]"]
+requires: ["[[israel]]"]
 lists:
   - "[[deserts]]"
+tour_order: 1
 read: false
 ---
 
 # Negev Desert
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -41,6 +47,18 @@ The *Negev* is a triangular arid desert region comprising roughly 4,700 square m
 ## see also
 
 - [[sahara-desert]] · [[arabian-desert]] · [[sinai-desert]] · [[rub-al-khali]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

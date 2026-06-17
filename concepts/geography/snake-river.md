@@ -3,11 +3,11 @@ type: place
 category: geography
 defines:
   - Snake River
-related:
-  - "[[columbia-river]]"
-  - "[[idaho]]"
+related: ["[[columbia-river]]", "[[idaho]]"]
+requires: []
 lists:
   - "[[north-american-rivers]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +38,18 @@ The *Snake River* flows approximately 1,040 miles through the Pacific Northwest,
 ## see also
 
 - [[columbia-river]] · [[colorado-river]] · [[missouri-river]] · [[yukon-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

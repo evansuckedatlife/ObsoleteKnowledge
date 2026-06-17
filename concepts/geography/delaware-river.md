@@ -3,12 +3,11 @@ type: place
 category: geography
 defines:
   - Delaware River
-related:
-  - "[[new-jersey]]"
-  - "[[pennsylvania]]"
-  - "[[atlantic-ocean]]"
+related: ["[[new-jersey]]", "[[pennsylvania]]", "[[atlantic-ocean]]", "[[american-revolution]]", "[[george-washington]]"]
+requires: []
 lists:
   - "[[north-american-rivers]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ The *Delaware River* flows approximately 330 miles from the Catskill Mountains o
 ## see also
 
 - [[hudson-river]] · [[potomac-river]] · [[ohio-river]] · [[susquehanna-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

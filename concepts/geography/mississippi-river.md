@@ -3,13 +3,11 @@ type: place
 category: geography
 defines:
   - Mississippi River
-related:
-  - "[[missouri-river]]"
-  - "[[ohio-river]]"
-  - "[[mississippi-delta]]"
-  - "[[mark-twain]]"
+related: ["[[missouri-river]]", "[[ohio-river]]", "[[mississippi-delta]]", "[[mark-twain]]", "[[american-civil-war]]"]
+requires: []
 lists:
   - "[[north-american-rivers]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ The *Mississippi River* is the longest river in North America and the second-lon
 ## see also
 
 - [[missouri-river]] · [[ohio-river]] · [[columbia-river]] · [[st-lawrence-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

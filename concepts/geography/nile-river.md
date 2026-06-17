@@ -4,16 +4,22 @@ category: geography
 defines:
   - Nile River
   - Nile
-related:
-  - "[[ancient-egypt]]"
-  - "[[egyptian-dynasties]]"
-  - "[[lake-victoria]]"
+related: ["[[ancient-egypt]]", "[[egyptian-dynasties]]", "[[lake-victoria]]"]
+requires: ["[[egypt]]"]
 lists:
   - "[[african-bodies-of-water]]"
+tour_order: 1
 read: false
 ---
 
 # Nile River
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +46,18 @@ The *Nile* is Africa's longest river, flowing approximately 4,130 miles through 
 ## see also
 
 - [[congo-river]] · [[zambezi-river]] · [[lake-victoria]] · [[lake-tanganyika]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

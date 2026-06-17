@@ -3,12 +3,11 @@ type: place
 category: geography
 defines:
   - Missouri River
-related:
-  - "[[mississippi-river]]"
-  - "[[lewis-and-clark-expedition]]"
-  - "[[rocky-mountains]]"
+related: ["[[mississippi-river]]", "[[lewis-and-clark-expedition]]", "[[rocky-mountains]]"]
+requires: []
 lists:
   - "[[north-american-rivers]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ The *Missouri River* flows approximately 2,540 miles from the Rocky Mountains in
 ## see also
 
 - [[mississippi-river]] · [[ohio-river]] · [[columbia-river]] · [[arkansas-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,13 +4,11 @@ category: geography
 defines:
   - Arabian Desert
   - Arabian
-related:
-  - "[[arabian-peninsula]]"
-  - "[[rub-al-khali]]"
-  - "[[bedouin]]"
-  - "[[middle-east]]"
+related: ["[[arabian-peninsula]]", "[[rub-al-khali]]", "[[bedouin]]", "[[middle-east]]", "[[islam]]", "[[silk-road]]"]
+requires: []
 lists:
   - "[[deserts]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ The *Arabian Desert* spans roughly 900,000 square miles across the Arabian Penin
 ## see also
 
 - [[sahara-desert]] · [[taklamakan-desert]] · [[negev-desert]] · [[rub-al-khali]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

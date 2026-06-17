@@ -4,16 +4,22 @@ category: geography
 defines:
   - Thames River
   - Thames
-related:
-  - "[[england]]"
-  - "[[london]]"
-  - "[[united-kingdom]]"
+related: ["[[england]]", "[[london]]", "[[united-kingdom]]", "[[british-empire]]"]
+requires: ["[[england]]"]
 lists:
   - "[[western-european-rivers]]"
+tour_order: 1
 read: false
 ---
 
 # Thames River
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ The *Thames* is England's most important river, flowing 215 miles through south-
 ## see also
 
 - [[seine-river]] · [[rhine-river]] · [[elbe-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

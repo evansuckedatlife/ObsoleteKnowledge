@@ -4,13 +4,11 @@ category: geography
 defines:
   - Denali
   - Mount McKinley
-related:
-  - "[[mount-everest]]"
-  - "[[k2]]"
-  - "[[mount-aconcagua]]"
-  - "[[alaska]]"
+related: ["[[mount-everest]]", "[[k2]]", "[[mount-aconcagua]]", "[[alaska]]"]
+requires: []
 lists:
   - "[[mountains]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[mount-everest]] · [[k2]] · [[mount-aconcagua]] · [[mount-kilimanjaro]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

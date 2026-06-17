@@ -4,12 +4,11 @@ category: geography
 defines:
   - Loire River
   - Loire
-related:
-  - "[[france]]"
-  - "[[french-renaissance]]"
-  - "[[atlantic-ocean]]"
+related: ["[[france]]", "[[french-renaissance]]", "[[atlantic-ocean]]"]
+requires: []
 lists:
   - "[[western-european-rivers]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ The *Loire* is France's longest river, flowing 625 miles from the Massif Central
 ## see also
 
 - [[seine-river]] · [[rhone-river]] · [[tagus-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,16 +4,22 @@ category: geography
 defines:
   - Brahmaputra River
   - Assam
-related:
-  - "[[ganges-river]]"
-  - "[[himalayan-mountains]]"
-  - "[[india]]"
+related: ["[[ganges-river]]", "[[himalayan-mountains]]", "[[india]]", "[[hinduism]]"]
+requires: ["[[india]]"]
 lists:
   - "[[asian-rivers]]"
+tour_order: 1
 read: false
 ---
 
 # Brahmaputra River
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ The **Brahmaputra River** is a major river of South Asia flowing approximately 2
 ## see also
 
 - [[ganges-river]] · [[indus-river]] · [[yellow-river]] · [[mekong-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

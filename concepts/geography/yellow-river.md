@@ -4,12 +4,11 @@ category: geography
 defines:
   - Yellow River
   - Huang He
-related:
-  - "[[yangtze-river]]"
-  - "[[china]]"
-  - "[[loess-plateau]]"
+related: ["[[yangtze-river]]", "[[china]]", "[[loess-plateau]]"]
+requires: []
 lists:
   - "[[asian-rivers]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ The **Yellow River**, or *Huang He*, is the second-longest river in Asia and his
 ## see also
 
 - [[yangtze-river]] · [[ganges-river]] · [[brahmaputra-river]] · [[indus-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

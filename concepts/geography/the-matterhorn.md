@@ -5,14 +5,11 @@ defines:
   - Matterhorn
   - Mont Cervin
   - Monte Cervino
-related:
-  - "[[mont-blanc]]"
-  - "[[alps]]"
-  - "[[mountain-climbing]]"
-  - "[[switzerland]]"
-  - "[[italy]]"
+related: ["[[mont-blanc]]", "[[alps]]", "[[mountain-climbing]]", "[[switzerland]]", "[[italy]]"]
+requires: []
 lists:
   - "[[mountains]]"
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +39,18 @@ read: false
 ## see also
 
 - [[mont-blanc]] · [[mount-fuji]] · [[denali]] · [[k2]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

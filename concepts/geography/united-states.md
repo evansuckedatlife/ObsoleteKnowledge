@@ -2,8 +2,10 @@
 type: place
 category: geography
 defines: [United States, United States of America, USA]
-related: ["[[american-revolution]]", "[[united-states-constitution]]", "[[civil-war]]", "[[civil-rights-movement]]", "[[world-war-ii]]", "[[cold-war]]", "[[washington-dc]]", "[[atlantic-ocean]]", "[[pacific-ocean]]", "[[north-america]]"]
+related: ["[[american-revolution]]", "[[united-states-constitution]]", "[[civil-war]]", "[[civil-rights-movement]]", "[[world-war-ii]]", "[[cold-war]]", "[[washington-dc]]", "[[atlantic-ocean]]", "[[pacific-ocean]]", "[[north-america]]", "[[american-civil-war]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +44,18 @@ The *United States* is a federal republic comprising 50 states across North Amer
 ## see also
 
 - [[american-revolution]] · [[united-states-constitution]] · [[civil-war]] · [[cold-war]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

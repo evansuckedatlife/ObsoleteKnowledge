@@ -3,7 +3,9 @@ type: place
 category: geography
 defines: [Japan, Nihon, Nippon]
 related: ["[[samurai]]", "[[bushido]]", "[[shinto]]", "[[buddhism]]", "[[shogunate]]", "[[mount-fuji]]", "[[haiku]]", "[[japanese-art]]", "[[world-war-ii]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +39,18 @@ Japan is an island nation in East Asia whose civilization developed in relative 
 ## see also
 
 - [[samurai]] · [[mount-fuji]] · [[haiku]] · [[shinto]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

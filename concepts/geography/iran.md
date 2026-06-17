@@ -2,8 +2,10 @@
 type: place
 category: geography
 defines: [Iran, "Islamic Republic of Iran", Persia]
-related: ["[[persian-empire]]", "[[islam]]", "[[middle-east]]", "[[zoroastrianism]]", "[[silk-road]]", "[[tehran]]", "[[iraq]]", "[[zoroaster]]"]
+related: ["[[persian-empire]]", "[[islam]]", "[[middle-east]]", "[[zoroastrianism]]", "[[silk-road]]", "[[tehran]]", "[[iraq]]", "[[zoroaster]]", "[[achaemenid-empire]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +40,18 @@ Iran is a transcontinental country in western Asia, historically known as Persia
 ## see also
 
 - [[persian-empire]] · [[zoroastrianism]] · [[silk-road]] · [[islam]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

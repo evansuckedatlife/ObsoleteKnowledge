@@ -3,7 +3,9 @@ type: place
 category: geography
 defines: [Middle East]
 related: ["[[israel]]", "[[palestine]]", "[[iraq]]", "[[iran]]", "[[saudi-arabia]]", "[[arab-israeli-conflict]]", "[[islam]]", "[[ottoman-empire]]", "[[mesopotamia]]", "[[suez-canal]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +44,18 @@ The *Middle East* is a transcontinental region spanning Western Asia, Northeast 
 ## see also
 
 - [[israel]] · [[palestine]] · [[iraq]] · [[iran]] · [[ottoman-empire]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

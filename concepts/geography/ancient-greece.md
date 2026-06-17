@@ -3,7 +3,9 @@ type: place
 category: geography
 defines: [Ancient Greece]
 related: ["[[greece]]", "[[athens]]", "[[sparta]]", "[[the-trojan-war]]", "[[the-iliad]]", "[[the-odyssey]]", "[[mediterranean-sea]]", "[[alexander-the-great]]", "[[socrates]]", "[[plato]]", "[[aristotle]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -43,6 +45,18 @@ read: false
 ## see also
 
 - [[athens]] · [[sparta]] · [[alexander-the-great]] · [[socrates]] · [[plato]] · [[aristotle]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

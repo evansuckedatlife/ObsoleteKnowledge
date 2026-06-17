@@ -3,12 +3,11 @@ type: place
 category: geography
 defines:
   - Mackenzie River
-related:
-  - "[[great-slave-lake]]"
-  - "[[arctic-ocean]]"
-  - "[[canada]]"
+related: ["[[great-slave-lake]]", "[[arctic-ocean]]", "[[canada]]"]
+requires: []
 lists:
   - "[[north-american-rivers]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ The *Mackenzie River* flows approximately 1,025 miles northwestward from *Great 
 ## see also
 
 - [[yukon-river]] · [[columbia-river]] · [[mississippi-river]] · [[st-lawrence-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

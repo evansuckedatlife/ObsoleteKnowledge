@@ -4,14 +4,11 @@ category: geography
 defines:
   - Mount Elbrus
   - Elbrus
-related:
-  - "[[mount-kilimanjaro]]"
-  - "[[mont-blanc]]"
-  - "[[caucasus]]"
-  - "[[russia]]"
-  - "[[georgia]]"
+related: ["[[mount-kilimanjaro]]", "[[mont-blanc]]", "[[caucasus]]", "[[russia]]", "[[georgia]]"]
+requires: []
 lists:
   - "[[mountains]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +38,18 @@ read: false
 ## see also
 
 - [[mont-blanc]] · [[mount-kilimanjaro]] · [[denali]] · [[mount-aconcagua]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

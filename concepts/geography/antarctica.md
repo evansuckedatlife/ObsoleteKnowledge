@@ -4,13 +4,11 @@ category: geography
 defines:
   - Antarctica
   - Antarctic continent
-related:
-  - "[[polar-regions]]"
-  - "[[south-pole]]"
-  - "[[ice-sheet]]"
-  - "[[penguin]]"
+related: ["[[polar-regions]]", "[[south-pole]]", "[[ice-sheet]]", "[[penguin]]"]
+requires: []
 lists:
   - "[[deserts]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ read: false
 ## see also
 
 - [[sahara-desert]] · [[gobi-desert]] · [[atacama-desert]] · [[kalahari-desert]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

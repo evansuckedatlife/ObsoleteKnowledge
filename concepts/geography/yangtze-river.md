@@ -4,12 +4,11 @@ category: geography
 defines:
   - Yangtze River
   - Chang Jiang
-related:
-  - "[[yellow-river]]"
-  - "[[china]]"
-  - "[[three-gorges-dam]]"
+related: ["[[yellow-river]]", "[[china]]", "[[three-gorges-dam]]"]
+requires: []
 lists:
   - "[[asian-rivers]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ The **Yangtze River** is the longest river in Asia and the third longest in the 
 ## see also
 
 - [[yellow-river]] · [[ganges-river]] · [[mekong-river]] · [[indus-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

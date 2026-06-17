@@ -4,12 +4,11 @@ category: geography
 defines:
   - Namib Desert
   - Namib
-related:
-  - "[[southern-africa]]"
-  - "[[namibia]]"
-  - "[[benguela-current]]"
+related: ["[[southern-africa]]", "[[namibia]]", "[[benguela-current]]"]
+requires: []
 lists:
   - "[[deserts]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ The *Namib* is one of Africa's most ancient deserts, extending roughly 1,200 mil
 ## see also
 
 - [[sahara-desert]] · [[atacama-desert]] · [[kalahari-desert]] · [[great-victoria-desert]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

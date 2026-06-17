@@ -5,13 +5,11 @@ defines:
   - Taklamakan Desert
   - Taklamakan
   - Taklimakan
-related:
-  - "[[central-asia]]"
-  - "[[silk-road]]"
-  - "[[xinjiang]]"
-  - "[[china]]"
+related: ["[[central-asia]]", "[[silk-road]]", "[[xinjiang]]", "[[china]]"]
+requires: []
 lists:
   - "[[deserts]]"
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +40,18 @@ The *Taklamakan* is a large hot desert in northwestern China, covering roughly 1
 ## see also
 
 - [[sahara-desert]] · [[gobi-desert]] · [[kalahari-desert]] · [[arabian-desert]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

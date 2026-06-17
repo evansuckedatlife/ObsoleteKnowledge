@@ -3,11 +3,11 @@ type: place
 category: geography
 defines:
   - Ohio River
-related:
-  - "[[mississippi-river]]"
-  - "[[appalachian-mountains]]"
+related: ["[[mississippi-river]]", "[[appalachian-mountains]]"]
+requires: []
 lists:
   - "[[north-american-rivers]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +38,18 @@ The *Ohio River* is a major tributary of the Mississippi River, flowing approxim
 ## see also
 
 - [[mississippi-river]] · [[missouri-river]] · [[hudson-river]] · [[columbia-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

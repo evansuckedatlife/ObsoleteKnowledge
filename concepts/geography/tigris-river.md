@@ -3,12 +3,11 @@ type: place
 category: geography
 defines:
   - Tigris River
-related:
-  - "[[euphrates-river]]"
-  - "[[mesopotamia]]"
-  - "[[iraq]]"
+related: ["[[euphrates-river]]", "[[mesopotamia]]", "[[iraq]]"]
+requires: []
 lists:
   - "[[asian-rivers]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ The **Tigris River** is one of the two great rivers of ancient Mesopotamia, flow
 ## see also
 
 - [[euphrates-river]] · [[indus-river]] · [[ganges-river]] · [[yellow-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

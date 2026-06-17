@@ -4,11 +4,11 @@ category: geography
 defines:
   - Congo River
   - Congo
-related:
-  - "[[nile-river]]"
-  - "[[lake-tanganyika]]"
+related: ["[[nile-river]]", "[[lake-tanganyika]]"]
+requires: []
 lists:
   - "[[african-bodies-of-water]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +39,18 @@ The *Congo* is Africa's second-longest river and by far its largest by discharge
 ## see also
 
 - [[nile-river]] · [[zambezi-river]] · [[lake-tanganyika]] · [[lake-victoria]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

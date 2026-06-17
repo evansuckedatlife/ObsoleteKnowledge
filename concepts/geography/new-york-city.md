@@ -2,12 +2,21 @@
 type: place
 category: geography
 defines: [New York City, NYC, New York]
-related: ["[[statue-of-liberty]]", "[[ellis-island]]", "[[broadway]]", "[[wall-street]]", "[[central-park]]", "[[the-great-gatsby]]", "[[whitman-leaves-of-grass]]"]
+related: ["[[statue-of-liberty]]", "[[ellis-island]]", "[[broadway]]", "[[wall-street]]", "[[central-park]]", "[[the-great-gatsby]]", "[[whitman-leaves-of-grass]]", "[[jazz]]", "[[harlem-renaissance]]"]
+requires: ["[[united-states]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # New York City
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +45,18 @@ New York City is the most populous city in the United States, located at the mou
 ## see also
 
 - [[statue-of-liberty]] · [[ellis-island]] · [[broadway]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

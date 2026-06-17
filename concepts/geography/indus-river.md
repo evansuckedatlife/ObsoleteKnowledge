@@ -3,16 +3,22 @@ type: place
 category: geography
 defines:
   - Indus River
-related:
-  - "[[ganges-river]]"
-  - "[[pakistan]]"
-  - "[[india]]"
+related: ["[[ganges-river]]", "[[pakistan]]", "[[india]]", "[[hinduism]]"]
+requires: ["[[india]]"]
 lists:
   - "[[asian-rivers]]"
+tour_order: 1
 read: false
 ---
 
 # Indus River
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -39,6 +45,18 @@ The **Indus River** is one of the world's major rivers, flowing approximately 3,
 ## see also
 
 - [[ganges-river]] · [[brahmaputra-river]] · [[tigris-river]] · [[euphrates-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

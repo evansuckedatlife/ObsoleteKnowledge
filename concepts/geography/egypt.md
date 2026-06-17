@@ -3,7 +3,9 @@ type: place
 category: geography
 defines: [Egypt, "Arab Republic of Egypt"]
 related: ["[[nile-river]]", "[[pharaoh]]", "[[ancient-egypt]]", "[[cairo]]", "[[suez-canal]]", "[[middle-east]]", "[[islam]]", "[[hieroglyphics]]", "[[pyramids]]", "[[cleopatra]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +42,18 @@ Egypt is a transcontinental country spanning northeastern Africa and the Sinai P
 ## see also
 
 - [[nile-river]] · [[pharaoh]] · [[cleopatra]] · [[ancient-egypt]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

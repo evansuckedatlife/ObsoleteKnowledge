@@ -3,17 +3,22 @@ type: place
 category: geography
 defines:
   - Jordan River
-related:
-  - "[[dead-sea]]"
-  - "[[israel]]"
-  - "[[palestine]]"
-  - "[[christianity]]"
+related: ["[[dead-sea]]", "[[israel]]", "[[palestine]]", "[[christianity]]", "[[judaism]]"]
+requires: ["[[israel]]"]
 lists:
   - "[[asian-rivers]]"
+tour_order: 1
 read: false
 ---
 
 # Jordan River
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +45,18 @@ The **Jordan River** is the world's lowest river, flowing approximately 251 kilo
 ## see also
 
 - [[dead-sea]] · [[tigris-river]] · [[euphrates-river]] · [[indus-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

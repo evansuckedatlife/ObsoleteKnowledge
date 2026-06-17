@@ -3,7 +3,9 @@ type: place
 category: geography
 defines: [Israel, "State of Israel"]
 related: ["[[judaism]]", "[[middle-east]]", "[[zionism]]", "[[palestine]]", "[[jerusalem]]", "[[torah]]", "[[holocaust]]", "[[jewish-diaspora]]", "[[arab-israeli-conflict]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +41,18 @@ Israel is a country in western Asia at the eastern shore of the Mediterranean Se
 ## see also
 
 - [[judaism]] · [[zionism]] · [[palestine]] · [[jerusalem]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

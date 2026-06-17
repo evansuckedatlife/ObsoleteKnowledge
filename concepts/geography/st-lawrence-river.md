@@ -3,12 +3,11 @@ type: place
 category: geography
 defines:
   - St. Lawrence River
-related:
-  - "[[great-lakes]]"
-  - "[[niagara-falls]]"
-  - "[[seaway]]"
+related: ["[[great-lakes]]", "[[niagara-falls]]", "[[seaway]]"]
+requires: []
 lists:
   - "[[north-american-rivers]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ The *St. Lawrence River* flows approximately 750 miles from Lake Ontario to the 
 ## see also
 
 - [[mississippi-river]] · [[columbia-river]] · [[hudson-river]] · [[great-lakes]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,17 +4,22 @@ category: geography
 defines:
   - Mount Kosciuszko
   - Kosciuszko
-related:
-  - "[[australia]]"
-  - "[[mount-fuji]]"
-  - "[[great-dividing-range]]"
-  - "[[mount-kilimanjaro]]"
+related: ["[[australia]]", "[[mount-fuji]]", "[[great-dividing-range]]", "[[mount-kilimanjaro]]"]
+requires: ["[[australia]]"]
 lists:
   - "[[mountains]]"
+tour_order: 1
 read: false
 ---
 
 # Mount Kosciuszko
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +45,18 @@ read: false
 ## see also
 
 - [[mount-kilimanjaro]] · [[mount-fuji]] · [[denali]] · [[mount-aconcagua]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

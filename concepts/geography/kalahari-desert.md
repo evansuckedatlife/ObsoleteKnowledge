@@ -4,12 +4,11 @@ category: geography
 defines:
   - Kalahari Desert
   - Kalahari
-related:
-  - "[[southern-africa]]"
-  - "[[san-people]]"
-  - "[[botswana]]"
+related: ["[[southern-africa]]", "[[san-people]]", "[[botswana]]"]
+requires: []
 lists:
   - "[[deserts]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ The *Kalahari* is a large semi-arid sandy savanna covering roughly 360,000 squar
 ## see also
 
 - [[sahara-desert]] · [[atacama-desert]] · [[gobi-desert]] · [[great-victoria-desert]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

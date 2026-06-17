@@ -2,8 +2,10 @@
 type: place
 category: geography
 defines: [Iberian Peninsula]
-related: ["[[spain]]", "[[portugal]]", "[[al-andalus]]", "[[moorish-spain]]", "[[reconquista]]", "[[madrid]]", "[[lisbon]]", "[[mediterranean-sea]]", "[[atlantic-ocean]]"]
+related: ["[[spain]]", "[[portugal]]", "[[al-andalus]]", "[[moorish-spain]]", "[[reconquista]]", "[[madrid]]", "[[lisbon]]", "[[mediterranean-sea]]", "[[atlantic-ocean]]", "[[age-of-exploration]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +44,18 @@ The *Iberian Peninsula* is the southwestern corner of Europe, containing the mod
 ## see also
 
 - [[spain]] · [[portugal]] · [[al-andalus]] · [[reconquista]] · [[madrid]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -5,13 +5,11 @@ defines:
   - Tiber River
   - Tiber
   - Tevere
-related:
-  - "[[rome]]"
-  - "[[italy]]"
-  - "[[roman-republic]]"
-  - "[[roman-empire]]"
+related: ["[[rome]]", "[[italy]]", "[[roman-republic]]", "[[roman-empire]]"]
+requires: []
 lists:
   - "[[western-european-rivers]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ The *Tiber* is the river on which Rome was founded and grew into the capital of 
 ## see also
 
 - [[po-river]] · [[rhone-river]] · [[danube]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

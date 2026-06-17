@@ -4,11 +4,11 @@ category: geography
 defines:
   - Red River of the South
   - Red River
-related:
-  - "[[mississippi-river]]"
-  - "[[texas]]"
+related: ["[[mississippi-river]]", "[[texas]]"]
+requires: []
 lists:
   - "[[north-american-rivers]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +39,18 @@ The *Red River of the South* (distinct from the Red River flowing into Hudson Ba
 ## see also
 
 - [[mississippi-river]] · [[arkansas-river]] · [[colorado-river]] · [[rio-grande]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: place
 category: geography
 defines: [Australia, "Commonwealth of Australia"]
 related: ["[[aboriginal-australians]]", "[[british-empire]]", "[[great-barrier-reef]]", "[[outback]]", "[[sydney-opera-house]]", "[[pacific-theater-ww2]]", "[[eucalyptus]]", "[[indigenous-culture]]", "[[aboriginal-art]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +41,18 @@ Australia is an island continent in the southern hemisphere, the world's sixth-l
 ## see also
 
 - [[aboriginal-australians]] · [[british-empire]] · [[great-barrier-reef]] · [[pacific-theater-ww2]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

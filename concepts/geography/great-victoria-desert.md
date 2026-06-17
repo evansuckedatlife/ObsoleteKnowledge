@@ -4,12 +4,11 @@ category: geography
 defines:
   - Great Victoria Desert
   - Great Victoria Desert of Australia
-related:
-  - "[[australia]]"
-  - "[[aboriginal-peoples]]"
-  - "[[australian-deserts]]"
+related: ["[[australia]]", "[[aboriginal-peoples]]", "[[australian-deserts]]"]
+requires: []
 lists:
   - "[[deserts]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ The *Great Victoria Desert* is Australia's largest desert, sprawling roughly 134
 ## see also
 
 - [[great-sandy-desert]] · [[sahara-desert]] · [[atacama-desert]] · [[kalahari-desert]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -5,12 +5,11 @@ defines:
   - Tagus River
   - Tejo
   - Tajo
-related:
-  - "[[spain]]"
-  - "[[portugal]]"
-  - "[[iberian-peninsula]]"
+related: ["[[spain]]", "[[portugal]]", "[[iberian-peninsula]]"]
+requires: []
 lists:
   - "[[western-european-rivers]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ The *Tagus* is the Iberian Peninsula's longest river, flowing 645 miles from cen
 ## see also
 
 - [[rhine-river]] · [[danube]] · [[po-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

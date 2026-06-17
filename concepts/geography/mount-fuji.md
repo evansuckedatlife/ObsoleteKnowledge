@@ -5,17 +5,22 @@ defines:
   - Mount Fuji
   - Fujisan
   - Fuji
-related:
-  - "[[japan]]"
-  - "[[shinto]]"
-  - "[[mount-kilimanjaro]]"
-  - "[[mont-blanc]]"
+related: ["[[japan]]", "[[shinto]]", "[[mount-kilimanjaro]]", "[[mont-blanc]]"]
+requires: ["[[japan]]"]
 lists:
   - "[[mountains]]"
+tour_order: 1
 read: false
 ---
 
 # Mount Fuji
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -41,6 +46,18 @@ read: false
 ## see also
 
 - [[mont-blanc]] · [[mount-kilimanjaro]] · [[denali]] · [[the-matterhorn]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

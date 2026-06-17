@@ -4,14 +4,11 @@ category: geography
 defines:
   - Mount Aconcagua
   - Aconcagua
-related:
-  - "[[mount-everest]]"
-  - "[[denali]]"
-  - "[[south-america]]"
-  - "[[argentina]]"
-  - "[[andes]]"
+related: ["[[mount-everest]]", "[[denali]]", "[[south-america]]", "[[argentina]]", "[[andes]]"]
+requires: []
 lists:
   - "[[mountains]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +38,18 @@ read: false
 ## see also
 
 - [[denali]] · [[mount-kilimanjaro]] · [[mount-fuji]] · [[mont-blanc]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

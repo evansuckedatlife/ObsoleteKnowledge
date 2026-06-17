@@ -5,14 +5,11 @@ defines:
   - Mount Everest
   - Sagarmatha
   - Chomolungma
-related:
-  - "[[mount-fuji]]"
-  - "[[k2]]"
-  - "[[denali]]"
-  - "[[tenzing-norgay]]"
-  - "[[edmund-hillary]]"
+related: ["[[mount-fuji]]", "[[k2]]", "[[denali]]", "[[tenzing-norgay]]", "[[edmund-hillary]]"]
+requires: []
 lists:
   - "[[mountains]]"
+tour_order: 0
 read: false
 ---
 
@@ -43,6 +40,18 @@ read: false
 ## see also
 
 - [[k2]] · [[denali]] · [[mount-kilimanjaro]] · [[mount-aconcagua]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

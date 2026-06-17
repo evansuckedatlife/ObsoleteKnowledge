@@ -4,12 +4,11 @@ category: geography
 defines:
   - Lake Tanganyika
   - Tanganyika
-related:
-  - "[[lake-victoria]]"
-  - "[[congo-river]]"
-  - "[[east-africa]]"
+related: ["[[lake-victoria]]", "[[congo-river]]", "[[east-africa]]"]
+requires: []
 lists:
   - "[[african-bodies-of-water]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ read: false
 ## see also
 
 - [[lake-victoria]] · [[lake-malawi]] · [[lake-chad]] · [[congo-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

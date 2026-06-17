@@ -3,7 +3,9 @@ type: place
 category: geography
 defines: [France, French Republic, Frankreich]
 related: ["[[french-revolution]]", "[[napoleon-bonaparte]]", "[[paris]]", "[[versailles-palace]]", "[[louvre]]", "[[enlightenment]]", "[[victor-hugo]]", "[[impressionism]]", "[[charlemagne]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +40,18 @@ France is a major European nation in Western Europe whose cultural, political, a
 ## see also
 
 - [[paris]] · [[versailles-palace]] · [[louvre]] · [[french-revolution]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

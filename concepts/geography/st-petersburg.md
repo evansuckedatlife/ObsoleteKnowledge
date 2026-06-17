@@ -2,12 +2,21 @@
 type: place
 category: geography
 defines: [Saint Petersburg, St. Petersburg, Petrograd]
-related: ["[[russian-empire]]", "[[peter-the-great]]", "[[tsars]]", "[[hermitage]]", "[[russian-revolution]]", "[[dostoevsky]]", "[[tchaikovsky]]", "[[winter-palace]]", "[[catherine-the-great]]"]
+related: ["[[russian-empire]]", "[[peter-the-great]]", "[[tsars]]", "[[hermitage]]", "[[russian-revolution]]", "[[dostoevsky]]", "[[tchaikovsky]]", "[[winter-palace]]", "[[catherine-the-great]]", "[[leo-tolstoy]]"]
+requires: ["[[russian-empire]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Saint Petersburg
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -37,6 +46,18 @@ Saint Petersburg is the second-largest city in Russia, located on the Gulf of Fi
 ## see also
 
 - [[peter-the-great]] · [[winter-palace]] · [[hermitage]] · [[russian-revolution]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

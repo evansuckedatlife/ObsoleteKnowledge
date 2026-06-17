@@ -3,12 +3,11 @@ type: place
 category: geography
 defines:
   - Colorado River
-related:
-  - "[[grand-canyon]]"
-  - "[[hoover-dam]]"
-  - "[[rio-grande]]"
+related: ["[[grand-canyon]]", "[[hoover-dam]]", "[[rio-grande]]"]
+requires: []
 lists:
   - "[[north-american-rivers]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ The *Colorado River* is a major river of the southwestern United States and nort
 ## see also
 
 - [[rio-grande]] · [[mississippi-river]] · [[columbia-river]] · [[snake-river]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

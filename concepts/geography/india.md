@@ -2,8 +2,10 @@
 type: place
 category: geography
 defines: [India, Republic of India, Bharat]
-related: ["[[hinduism]]", "[[buddhism]]", "[[vedas]]", "[[taj-mahal]]", "[[british-raj]]", "[[gandhi]]", "[[caste-system]]", "[[vedic-civilization]]", "[[silk-road]]"]
+related: ["[[hinduism]]", "[[buddhism]]", "[[vedas]]", "[[taj-mahal]]", "[[british-raj]]", "[[gandhi]]", "[[caste-system]]", "[[vedic-civilization]]", "[[silk-road]]", "[[british-empire]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +39,18 @@ India is the world's seventh-largest country by area and second-most populous, w
 ## see also
 
 - [[taj-mahal]] · [[hinduism]] · [[buddhism]] · [[gandhi]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 
