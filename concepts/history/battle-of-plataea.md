@@ -5,6 +5,7 @@ defines: [Battle of Plataea]
 related: ["[[pausanias]]", "[[mardonius]]", "[[persian-wars]]"]
 lists: ["[[battles-of-the-ancient-world]]"]
 read: false
+aliases: [plataea]
 ---
 
 # Battle of Plataea

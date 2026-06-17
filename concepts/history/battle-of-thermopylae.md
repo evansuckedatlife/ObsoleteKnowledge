@@ -5,6 +5,7 @@ defines: [Battle of Thermopylae]
 related: ["[[leonidas]]", "[[xerxes]]", "[[persian-wars]]"]
 lists: ["[[battles-of-the-ancient-world]]"]
 read: false
+aliases: [thermopylae]
 ---
 
 # Battle of Thermopylae

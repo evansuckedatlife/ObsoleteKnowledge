@@ -5,6 +5,7 @@ defines: [Saratoga, Battle of Saratoga]
 related: ["[[general-john-burgoyne]]", "[[horatio-gates]]", "[[american-revolution]]"]
 lists: ["[[revolutionary-war-battles]]"]
 read: false
+aliases: [saratoga]
 ---
 
 # Saratoga

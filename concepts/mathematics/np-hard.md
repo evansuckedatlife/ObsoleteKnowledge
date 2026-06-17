@@ -3,14 +3,14 @@ type: term
 category: mathematics
 defines:
   - NP-hard
-  - "NP-hard problem"
+  - NP-hard problem
 related:
   - "[[np-complete]]"
   - "[[np-complexity-class]]"
   - "[[decision-problem]]"
   - "[[optimization-problem]]"
 lists: []
-read: false
+read: true
 ---
 
 # NP-Hard

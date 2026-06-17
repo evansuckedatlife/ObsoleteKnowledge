@@ -5,6 +5,7 @@ defines: [The Trojan War]
 related: ["[[achilles]]", "[[hector]]", "[[agamemnon]]", "[[helen-of-troy]]", "[[paris]]", "[[the-iliad]]", "[[the-odyssey]]", "[[the-aeneid]]"]
 lists: []
 read: false
+aliases: [trojan-war]
 ---
 
 # The Trojan War

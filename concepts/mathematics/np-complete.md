@@ -10,6 +10,7 @@ related:
   - "[[decision-problem]]"
 lists: []
 read: true
+tags:
 ---
 
 # NP-Complete

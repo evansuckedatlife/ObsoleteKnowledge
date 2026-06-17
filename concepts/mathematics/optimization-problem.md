@@ -2,7 +2,7 @@
 type: term
 category: mathematics
 defines:
-  - "Optimization problem"
+  - Optimization problem
   - Optimization problem
 related:
   - "[[decision-problem]]"
@@ -10,7 +10,7 @@ related:
   - "[[np-complete]]"
 lists:
   - "[[calculus-ideas]]"
-read: false
+read: true
 ---
 
 # Optimization Problem

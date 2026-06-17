@@ -13,6 +13,7 @@ related:
 lists:
   - "[[ancient-greek-plays]]"
 read: false
+aliases: [oresteia]
 ---
 
 # The Oresteia

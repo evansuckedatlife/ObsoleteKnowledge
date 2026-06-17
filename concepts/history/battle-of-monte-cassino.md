@@ -5,6 +5,7 @@ defines: [Battle of Monte Cassino, Monte Cassino]
 related: ["[[italy-campaign]]", "[[world-war-ii]]", "[[western-allies]]", "[[nazi-germany]]", "[[gustav-line]]"]
 lists: ["[[world-war-ii-battles]]"]
 read: false
+aliases: [monte-cassino]
 ---
 
 # Battle of Monte Cassino

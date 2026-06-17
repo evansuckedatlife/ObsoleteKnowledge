@@ -5,6 +5,7 @@ defines: [Battle of Zama]
 related: ["[[scipio-africanus]]", "[[hannibal]]", "[[second-punic-war]]"]
 lists: ["[[battles-of-the-ancient-world]]"]
 read: false
+aliases: [zama]
 ---
 
 # Battle of Zama

@@ -5,6 +5,7 @@ defines: [The Iliad, Iliad]
 related: ["[[achilles]]", "[[hector]]", "[[agamemnon]]", "[[the-trojan-war]]", "[[the-odyssey]]", "[[patroclus]]", "[[priam]]"]
 lists: []
 read: false
+aliases: [iliad]
 ---
 
 # The Iliad

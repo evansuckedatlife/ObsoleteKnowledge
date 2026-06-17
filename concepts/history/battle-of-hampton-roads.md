@@ -5,6 +5,7 @@ defines: [Battle of Hampton Roads, USS Monitor, CSS Virginia, Ironclads]
 related: ["[[american-civil-war]]", "[[naval-warfare]]", "[[ironclad-ships]]", "[[virginia]]"]
 lists: ["[[civil-war-battles]]"]
 read: false
+aliases: [hampton-roads]
 ---
 
 # Battle of Hampton Roads

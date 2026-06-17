@@ -5,6 +5,7 @@ defines: [Yorktown, Battle of Yorktown, Siege of Yorktown]
 related: ["[[george-washington]]", "[[lord-cornwallis]]", "[[american-revolution]]"]
 lists: ["[[revolutionary-war-battles]]"]
 read: false
+aliases: [yorktown]
 ---
 
 # Yorktown

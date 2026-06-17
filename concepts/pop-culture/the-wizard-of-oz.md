@@ -10,6 +10,7 @@ related:
 lists:
   - "[[pre-1960s-movies]]"
 read: false
+aliases: [wizard-of-oz]
 ---
 
 # The Wizard of Oz

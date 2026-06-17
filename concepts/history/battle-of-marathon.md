@@ -5,6 +5,7 @@ defines: [Battle of Marathon]
 related: ["[[themistocles]]", "[[persian-wars]]", "[[ancient-greece]]"]
 lists: ["[[battles-of-the-ancient-world]]"]
 read: false
+aliases: [marathon]
 ---
 
 # Battle of Marathon

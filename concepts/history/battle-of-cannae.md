@@ -5,6 +5,7 @@ defines: [Battle of Cannae]
 related: ["[[hannibal]]", "[[scipio-africanus]]", "[[second-punic-war]]"]
 lists: ["[[battles-of-the-ancient-world]]"]
 read: false
+aliases: [cannae]
 ---
 
 # Battle of Cannae

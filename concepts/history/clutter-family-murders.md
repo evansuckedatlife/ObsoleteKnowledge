@@ -1,7 +1,9 @@
 ---
 type: event
 category: history
-defines: [Clutter family murders, Clutter murders]
+defines:
+  - Clutter family murders
+  - Clutter murders
 related:
   - "[[truman-capote]]"
   - "[[in-cold-blood]]"
@@ -10,7 +12,7 @@ related:
   - "[[kansas-crime]]"
 lists:
   - "[[american-murders-and-murderers]]"
-read: false
+read: true
 ---
 
 # Clutter Family Murders

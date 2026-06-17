@@ -12,6 +12,7 @@ related:
 lists:
   - "[[art-museums]]"
 read: false
+aliases: [louvre]
 ---
 
 # The Louvre

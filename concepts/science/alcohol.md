@@ -1,10 +1,19 @@
 ---
 type: concept
 category: science
-defines: ["Alcohol", "hydroxyl", "hydroxyl group", "alcohols"]
-related: ["[[carboxylic-acid]]", "[[ether]]", "[[ester]]", "[[aldehyde]]"]
-lists: ["[[functional-groups]]"]
-read: false
+defines:
+  - Alcohol
+  - hydroxyl
+  - hydroxyl group
+  - alcohols
+related:
+  - "[[carboxylic-acid]]"
+  - "[[ether]]"
+  - "[[ester]]"
+  - "[[aldehyde]]"
+lists:
+  - "[[functional-groups]]"
+read: true
 ---
 
 # Alcohol

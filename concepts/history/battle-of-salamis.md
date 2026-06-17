@@ -5,6 +5,7 @@ defines: [Battle of Salamis]
 related: ["[[themistocles]]", "[[xerxes]]", "[[persian-wars]]"]
 lists: ["[[battles-of-the-ancient-world]]"]
 read: false
+aliases: [salamis]
 ---
 
 # Battle of Salamis

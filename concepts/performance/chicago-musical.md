@@ -12,6 +12,7 @@ related:
 lists:
   - "[[musicals-part-2]]"
 read: false
+aliases: [chicago]
 ---
 
 # Chicago

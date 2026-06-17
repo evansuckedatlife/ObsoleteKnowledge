@@ -13,6 +13,7 @@ related:
 lists:
   - "[[medieval-battles]]"
 read: false
+aliases: [bosworth-field]
 ---
 
 # Battle of Bosworth Field

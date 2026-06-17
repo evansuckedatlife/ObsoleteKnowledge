@@ -5,6 +5,7 @@ defines: [The Odyssey, Odyssey]
 related: ["[[odysseus]]", "[[penelope]]", "[[polyphemus]]", "[[sirens]]", "[[the-iliad]]", "[[the-trojan-war]]", "[[telemachus]]"]
 lists: []
 read: false
+aliases: [odyssey]
 ---
 
 # The Odyssey
