@@ -1,6 +1,6 @@
 # ObsoleteKnowledge
 
-A personal **knowledge base of (eventually) everything** — an [Obsidian](https://obsidian.md) vault of small, atomic articles ("nodes") woven into a navigable web, with built-in **read-tracking** for active recall practice.
+A personal **knowledge base of (eventually) everything** — an [Obsidian](https://obsidian.md) vault of small, atomic articles ("nodes") woven into a navigable web, with built-in **read-tracking**.
 
 Scope: 750,000+ words, ~2,000 nodes spanning **187 topics** across 15 categories.
 
@@ -62,7 +62,7 @@ Each entity (person, work, event, place, concept, etc.) is one file in `concepts
 
 ### Lists — maps of content
 
-Each of the 187 NAQT topics gets one **list** (`lists/<slug>.md`) — a curated MOC showing which nodes belong to it, plus a live read-progress table. A single node can belong to multiple lists (e.g., *Achilles* is in both `greek-heroes` and `trojan-war-heroes`).
+Each of the 187 NAQT topics gets one **list** (`lists/<slug>.md`) — a curated MOC showing which nodes belong to it, plus a live read-progress table. A single node can belong to multiple lists (e.g., greek-heroes and trojan-war-heroes).
 
 ### The web — wikilinks
 
@@ -138,6 +138,17 @@ Before authoring nodes, **read `CLAUDE.md`** (operational guide) and **`VISION.m
 - Not from NAQT
 
 *Facts are free; expression is not.*
+
+### AI use & transparency
+
+This vault was **authored and maintained with AI assistance** (Claude). Here's how:
+
+- **Content generation:** AI drafts nodes from open sources, adhering strictly to the sourcing rule above.
+- **Validation:** AI checks wikilink integrity, formatting, and dedup across the graph.
+- **No NAQT prose:** AI is explicitly instructed never to fetch, paste, or paraphrase copyrighted NAQT articles. All content is written originally.
+- **Human review:** All AI-generated content is reviewed by the author for accuracy, originality, and compliance.
+
+**You can trust this vault's facts** — they're sourced from general knowledge and open references, not from NAQT or unchecked LLM hallucinations. The use of AI is disclosed here for transparency and good faith.
 
 ### Quick authoring workflow
 
