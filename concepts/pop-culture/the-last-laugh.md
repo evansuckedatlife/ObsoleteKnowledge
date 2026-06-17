@@ -3,11 +3,20 @@ type: work
 category: pop-culture
 defines: [The Last Laugh]
 related: ["[[f-w-murnau]]", "[[silent-film]]", "[[german-expressionism]]", "[[camera-movement]]", "[[psychological-drama]]", "[[mise-en-scene]]"]
+requires: ["[[silent-film]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # The Last Laugh
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +44,18 @@ read: false
 ## see also
 
 - [[f-w-murnau]] · [[nosferatu]] · [[sunrise]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,12 +2,11 @@
 type: work
 category: pop-culture
 defines: ["The Mary Tyler Moore Show"]
-related:
-  - "[[i-love-lucy]]"
-  - "[[all-in-the-family]]"
-  - "[[mary-tyler-moore]]"
+related: ["[[i-love-lucy]]", "[[all-in-the-family]]", "[[mary-tyler-moore]]"]
+requires: []
 lists:
   - "[[landmark-20th-century-american-sitcoms]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[i-love-lucy]] · [[all-in-the-family]] · [[cheers]] · [[friends]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

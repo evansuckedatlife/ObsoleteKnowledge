@@ -3,11 +3,20 @@ type: person
 category: pop-culture
 defines: [Charlie Chaplin, Charles Spencer Chaplin]
 related: ["[[silent-film]]", "[[buster-keaton]]", "[[the-gold-rush]]", "[[modern-times]]", "[[city-lights]]", "[[the-great-dictator]]", "[[british-music-hall]]", "[[slapstick-comedy]]", "[[the-tramp-character]]"]
+requires: ["[[silent-film]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Charlie Chaplin
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -50,6 +59,18 @@ Chaplin stands as cinema's first genius-auteur: not just a performer but a write
 ## see also
 
 - [[buster-keaton]] · [[d-w-griffith]] · [[the-gold-rush]] · [[modern-times]] · [[city-lights]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

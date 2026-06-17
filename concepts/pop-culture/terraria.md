@@ -3,11 +3,11 @@ type: work
 category: pop-culture
 defines:
   - Terraria
-related:
-  - "[[minecraft]]"
-  - "[[stardew-valley]]"
+related: ["[[minecraft]]", "[[stardew-valley]]"]
+requires: []
 lists:
   - "[[sandbox-and-open-world-video-games]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +37,18 @@ read: false
 ## see also
 
 - [[minecraft]] · [[stardew-valley]] · [[subnautica]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,11 @@ type: work
 category: pop-culture
 defines:
   - Stardew Valley
-related:
-  - "[[minecraft]]"
-  - "[[terraria]]"
+related: ["[[minecraft]]", "[[terraria]]"]
+requires: []
 lists:
   - "[[sandbox-and-open-world-video-games]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +37,18 @@ read: false
 ## see also
 
 - [[minecraft]] · [[terraria]] · [[no-mans-sky]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,12 +3,11 @@ type: work
 category: pop-culture
 defines:
   - The Wizard of Oz
-related:
-  - "[[judy-garland]]"
-  - "[[l-frank-baum]]"
-  - "[[dorothy]]"
+related: ["[[judy-garland]]", "[[l-frank-baum]]", "[[dorothy]]"]
+requires: []
 lists:
   - "[[pre-1960s-movies]]"
+tour_order: 0
 read: false
 aliases: [wizard-of-oz]
 ---
@@ -39,6 +38,18 @@ aliases: [wizard-of-oz]
 ## see also
 
 - [[gone-with-the-wind]] · [[singin-in-the-rain]] · [[it-s-a-wonderful-life]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

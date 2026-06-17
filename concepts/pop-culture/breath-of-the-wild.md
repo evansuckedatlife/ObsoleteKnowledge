@@ -4,15 +4,22 @@ category: pop-culture
 defines:
   - The Legend of Zelda: Breath of the Wild
   - Breath of the Wild
-related:
-  - "[[skyrim]]"
-  - "[[grand-theft-auto-v]]"
+related: ["[[skyrim]]", "[[grand-theft-auto-v]]"]
+requires: ["[[the-legend-of-zelda]]"]
 lists:
   - "[[sandbox-and-open-world-video-games]]"
+tour_order: 1
 read: true
 ---
 
 # The Legend of Zelda: Breath of the Wild
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +45,18 @@ read: true
 ## see also
 
 - [[skyrim]] · [[minecraft]] · [[no-mans-sky]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

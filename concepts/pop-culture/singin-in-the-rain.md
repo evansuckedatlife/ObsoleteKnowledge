@@ -3,12 +3,11 @@ type: work
 category: pop-culture
 defines:
   - Singin' in the Rain
-related:
-  - "[[gene-kelly]]"
-  - "[[donald-obrien]]"
-  - "[[debbie-reynolds]]"
+related: ["[[gene-kelly]]", "[[donald-obrien]]", "[[debbie-reynolds]]"]
+requires: []
 lists:
   - "[[pre-1960s-movies]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[the-wizard-of-oz]] · [[some-like-it-hot]] · [[it-s-a-wonderful-life]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

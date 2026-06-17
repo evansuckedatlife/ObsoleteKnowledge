@@ -4,13 +4,11 @@ category: pop-culture
 defines:
   - The Legend of Zelda
   - Zelda
-related:
-  - "[[link]]"
-  - "[[ganon]]"
-  - "[[princess-zelda]]"
-  - "[[nintendo]]"
+related: ["[[link]]", "[[ganon]]", "[[princess-zelda]]", "[[nintendo]]"]
+requires: []
 lists:
   - "[[video-game-series]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ read: false
 ## see also
 
 - [[super-mario]] · [[pokémon]] · [[final-fantasy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

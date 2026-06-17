@@ -3,11 +3,20 @@ type: person
 category: pop-culture
 defines: [Buster Keaton, Joseph Frank Keaton]
 related: ["[[silent-film]]", "[[charlie-chaplin]]", "[[the-general]]", "[[sherlock-jr]]", "[[our-hospitality]]", "[[slapstick-comedy]]", "[[vaudeville]]", "[[pratfall]]", "[[keaton-face]]"]
+requires: ["[[silent-film]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Buster Keaton
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -68,6 +77,18 @@ Keaton's career arc — triumphant in the 1920s, nearly destroyed by the transit
 ## see also
 
 - [[charlie-chaplin]] · [[d-w-griffith]] · [[the-general]] · [[sherlock-jr]] · [[silent-film]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

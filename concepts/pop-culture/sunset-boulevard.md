@@ -3,12 +3,11 @@ type: work
 category: pop-culture
 defines:
   - Sunset Boulevard
-related:
-  - "[[billy-wilder]]"
-  - "[[gloria-swanson]]"
-  - "[[william-holden]]"
+related: ["[[billy-wilder]]", "[[gloria-swanson]]", "[[william-holden]]"]
+requires: []
 lists:
   - "[[pre-1960s-movies]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[citizen-kane]] · [[on-the-waterfront]] · [[vertigo]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

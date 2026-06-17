@@ -5,11 +5,11 @@ defines:
   - Grand Theft Auto V
   - GTA V
   - GTA 5
-related:
-  - "[[red-dead-redemption-2]]"
-  - "[[skyrim]]"
+related: ["[[red-dead-redemption-2]]", "[[skyrim]]"]
+requires: []
 lists:
   - "[[sandbox-and-open-world-video-games]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +39,18 @@ read: false
 ## see also
 
 - [[red-dead-redemption-2]] · [[skyrim]] · [[the-witcher-3-wild-hunt]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

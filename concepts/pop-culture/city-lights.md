@@ -3,11 +3,20 @@ type: work
 category: pop-culture
 defines: [City Lights]
 related: ["[[charlie-chaplin]]", "[[silent-film]]", "[[romance]]", "[[pathos]]", "[[1920s-cinema]]", "[[blind-love]]"]
+requires: ["[[silent-film]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # City Lights
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[charlie-chaplin]] · [[silent-film]] · [[modern-times]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,13 +3,11 @@ type: work
 category: pop-culture
 defines:
   - Wingspan
-related:
-  - "[[agricola]]"
-  - "[[dominion]]"
-  - "[[scythe]]"
-  - "[[ornithology]]"
+related: ["[[agricola]]", "[[dominion]]", "[[scythe]]", "[[ornithology]]"]
+requires: []
 lists:
   - "[[modern-board-games]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[agricola]] · [[dominion]] · [[ticket-to-ride]] · [[scythe]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

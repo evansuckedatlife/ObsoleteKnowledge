@@ -4,12 +4,11 @@ category: pop-culture
 defines:
   - Saturday Night Live
   - SNL
-related:
-  - "[[lorne-michaels]]"
-  - "[[sketch-comedy]]"
-  - "[[live-television]]"
+related: ["[[lorne-michaels]]", "[[sketch-comedy]]", "[[live-television]]"]
+requires: []
 lists:
   - "[[classic-american-television-series]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ read: false
 ## see also
 
 - [[the-ed-sullivan-show]] · [[the-tonight-show]] · [[60-minutes]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

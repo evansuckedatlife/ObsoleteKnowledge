@@ -3,11 +3,20 @@ type: concept
 category: pop-culture
 defines: [Intertitle, Intertitles, Title Card]
 related: ["[[silent-film]]", "[[charlie-chaplin]]", "[[buster-keaton]]", "[[d-w-griffith]]", "[[typography]]", "[[film-editing]]", "[[narrative-cinema]]"]
+requires: ["[[silent-film]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Intertitles
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +45,18 @@ read: false
 ## see also
 
 - [[silent-film]] · [[charlie-chaplin]] · [[d-w-griffith]] · [[film-editing]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,12 +3,11 @@ type: work
 category: pop-culture
 defines:
   - Call of Duty
-related:
-  - "[[activision]]"
-  - "[[first-person-shooter]]"
-  - "[[esports]]"
+related: ["[[activision]]", "[[first-person-shooter]]", "[[esports]]"]
+requires: []
 lists:
   - "[[video-game-series]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[halo]] · [[counter-strike]] · [[battlefield]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

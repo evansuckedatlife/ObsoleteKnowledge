@@ -3,12 +3,11 @@ type: work
 category: pop-culture
 defines:
   - Casablanca
-related:
-  - "[[humphrey-bogart]]"
-  - "[[ingrid-bergman]]"
-  - "[[world-war-ii]]"
+related: ["[[humphrey-bogart]]", "[[ingrid-bergman]]", "[[world-war-ii]]"]
+requires: []
 lists:
   - "[[pre-1960s-movies]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[gone-with-the-wind]] · [[citizen-kane]] · [[on-the-waterfront]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

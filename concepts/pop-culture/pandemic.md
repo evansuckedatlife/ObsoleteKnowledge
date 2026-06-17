@@ -3,13 +3,11 @@ type: work
 category: pop-culture
 defines:
   - Pandemic
-related:
-  - "[[codenames]]"
-  - "[[agricola]]"
-  - "[[settlers-of-catan]]"
-  - "[[cooperative-board-games]]"
+related: ["[[codenames]]", "[[agricola]]", "[[settlers-of-catan]]", "[[cooperative-board-games]]"]
+requires: []
 lists:
   - "[[modern-board-games]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[codenames]] · [[settlers-of-catan]] · [[ticket-to-ride]] · [[agricola]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

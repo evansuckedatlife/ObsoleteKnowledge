@@ -3,11 +3,20 @@ type: concept
 category: pop-culture
 defines: [Slapstick, Slapstick Comedy]
 related: ["[[silent-film]]", "[[charlie-chaplin]]", "[[buster-keaton]]", "[[vaudeville]]", "[[pratfall]]", "[[physical-comedy]]", "[[laurel-and-hardy]]"]
+requires: ["[[physical-comedy]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Slapstick Comedy
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -36,6 +45,18 @@ read: false
 ## see also
 
 - [[charlie-chaplin]] · [[buster-keaton]] · [[silent-film]] · [[vaudeville]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,12 +2,11 @@
 type: work
 category: pop-culture
 defines: ["The Simpsons"]
-related:
-  - "[[the-cosby-show]]"
-  - "[[seinfeld]]"
-  - "[[matt-groening]]"
+related: ["[[the-cosby-show]]", "[[seinfeld]]", "[[matt-groening]]"]
+requires: []
 lists:
   - "[[landmark-20th-century-american-sitcoms]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[the-cosby-show]] · [[seinfeld]] · [[friends]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

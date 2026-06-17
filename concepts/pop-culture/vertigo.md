@@ -3,12 +3,11 @@ type: work
 category: pop-culture
 defines:
   - Vertigo
-related:
-  - "[[alfred-hitchcock]]"
-  - "[[james-stewart]]"
-  - "[[kim-novak]]"
+related: ["[[alfred-hitchcock]]", "[[james-stewart]]", "[[kim-novak]]"]
+requires: []
 lists:
   - "[[pre-1960s-movies]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[sunset-boulevard]] · [[citizen-kane]] · [[on-the-waterfront]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

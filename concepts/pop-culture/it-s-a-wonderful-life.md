@@ -3,12 +3,11 @@ type: work
 category: pop-culture
 defines:
   - It's a Wonderful Life
-related:
-  - "[[frank-capra]]"
-  - "[[james-stewart]]"
-  - "[[donna-reed]]"
+related: ["[[frank-capra]]", "[[james-stewart]]", "[[donna-reed]]"]
+requires: []
 lists:
   - "[[pre-1960s-movies]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[the-wizard-of-oz]] · [[singin-in-the-rain]] · [[some-like-it-hot]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

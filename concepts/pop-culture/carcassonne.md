@@ -3,13 +3,11 @@ type: work
 category: pop-culture
 defines:
   - Carcassonne
-related:
-  - "[[ticket-to-ride]]"
-  - "[[settlers-of-catan]]"
-  - "[[dominion]]"
-  - "[[tile-placement-mechanics]]"
+related: ["[[ticket-to-ride]]", "[[settlers-of-catan]]", "[[dominion]]", "[[tile-placement-mechanics]]"]
+requires: []
 lists:
   - "[[modern-board-games]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[ticket-to-ride]] · [[settlers-of-catan]] · [[dominion]] · [[agricola]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

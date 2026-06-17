@@ -4,17 +4,22 @@ category: pop-culture
 defines:
   - Nosferatu
   - Nosferatu, eine Symphonie des Grauens
-related:
-  - "[[f-w-murnau]]"
-  - "[[vampire]]"
-  - "[[german-expressionism]]"
-  - "[[horror]]"
+related: ["[[f-w-murnau]]", "[[vampire]]", "[[german-expressionism]]", "[[horror]]", "[[gothic-literature]]"]
+requires: ["[[silent-film]]"]
 lists:
   - "[[silent-films]]"
+tour_order: 1
 read: false
 ---
 
 # Nosferatu
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -41,6 +46,18 @@ read: false
 ## see also
 
 - [[the-cabinet-of-dr-caligari]] · [[f-w-murnau]] · [[metropolis-film]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

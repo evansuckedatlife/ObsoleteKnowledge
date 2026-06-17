@@ -5,11 +5,11 @@ defines:
   - Red Dead Redemption 2
   - RDR2
   - Red Dead 2
-related:
-  - "[[grand-theft-auto-v]]"
-  - "[[skyrim]]"
+related: ["[[grand-theft-auto-v]]", "[[skyrim]]"]
+requires: []
 lists:
   - "[[sandbox-and-open-world-video-games]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +39,18 @@ read: false
 ## see also
 
 - [[grand-theft-auto-v]] · [[skyrim]] · [[the-witcher-3-wild-hunt]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

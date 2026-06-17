@@ -3,17 +3,22 @@ type: work
 category: pop-culture
 defines:
   - The Gold Rush
-related:
-  - "[[charlie-chaplin]]"
-  - "[[silent-film]]"
-  - "[[physical-comedy]]"
-  - "[[comedy]]"
+related: ["[[charlie-chaplin]]", "[[silent-film]]", "[[physical-comedy]]", "[[comedy]]"]
+requires: ["[[silent-film]]"]
 lists:
   - "[[silent-films]]"
+tour_order: 1
 read: false
 ---
 
 # The Gold Rush
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +45,18 @@ read: false
 ## see also
 
 - [[charlie-chaplin]] · [[sunrise]] · [[city-lights]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: concept
 category: pop-culture
 defines: [Physical Comedy, Slapstick]
 related: ["[[buster-keaton]]", "[[charlie-chaplin]]", "[[slapstick-comedy]]", "[[silent-film]]", "[[comedy]]", "[[jacques-tati]]", "[[commedia-dell-arte]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -36,6 +38,18 @@ Physical comedy is a form of humor that relies primarily on bodily movement, ges
 ## see also
 
 - [[buster-keaton]] · [[charlie-chaplin]] · [[slapstick-comedy]] · [[silent-film]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

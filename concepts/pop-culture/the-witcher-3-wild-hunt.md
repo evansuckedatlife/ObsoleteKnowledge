@@ -5,11 +5,11 @@ defines:
   - The Witcher 3: Wild Hunt
   - Witcher 3
   - The Witcher 3
-related:
-  - "[[skyrim]]"
-  - "[[red-dead-redemption-2]]"
+related: ["[[skyrim]]", "[[red-dead-redemption-2]]"]
+requires: []
 lists:
   - "[[sandbox-and-open-world-video-games]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +39,18 @@ read: false
 ## see also
 
 - [[skyrim]] · [[red-dead-redemption-2]] · [[grand-theft-auto-v]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

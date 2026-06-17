@@ -3,12 +3,11 @@ type: work
 category: pop-culture
 defines:
   - 60 Minutes
-related:
-  - "[[television-journalism]]"
-  - "[[television-news]]"
-  - "[[broadcast-journalism]]"
+related: ["[[television-journalism]]", "[[television-news]]", "[[broadcast-journalism]]"]
+requires: []
 lists:
   - "[[classic-american-television-series]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[the-ed-sullivan-show]] · [[the-tonight-show]] · [[saturday-night-live]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

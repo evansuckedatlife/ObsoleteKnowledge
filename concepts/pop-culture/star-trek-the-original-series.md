@@ -5,13 +5,11 @@ defines:
   - Star Trek
   - "Star Trek: The Original Series"
   - TOS
-related:
-  - "[[gene-roddenberry]]"
-  - "[[spock]]"
-  - "[[kirk]]"
-  - "[[science-fiction-television]]"
+related: ["[[gene-roddenberry]]", "[[spock]]", "[[kirk]]", "[[science-fiction-television]]", "[[science-fiction]]"]
+requires: []
 lists:
   - "[[classic-american-television-series]]"
+tour_order: 0
 read: false
 ---
 
@@ -42,6 +40,18 @@ read: false
 ## see also
 
 - [[the-twilight-zone]] · [[the-x-files]] · [[gunsmoke]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -4,17 +4,22 @@ category: pop-culture
 defines:
   - The Birth of a Nation
   - Birth of a Nation
-related:
-  - "[[d-w-griffith]]"
-  - "[[silent-film]]"
-  - "[[ku-klux-klan]]"
-  - "[[reconstruction-era]]"
+related: ["[[d-w-griffith]]", "[[silent-film]]", "[[ku-klux-klan]]", "[[reconstruction-era]]", "[[harlem-renaissance]]"]
+requires: ["[[silent-film]]"]
 lists:
   - "[[silent-films]]"
+tour_order: 1
 read: false
 ---
 
 # The Birth of a Nation
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -41,6 +46,18 @@ read: false
 ## see also
 
 - [[intolerance]] · [[d-w-griffith]] · [[battleship-potemkin]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

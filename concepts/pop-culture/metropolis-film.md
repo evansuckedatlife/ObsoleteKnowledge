@@ -3,17 +3,22 @@ type: work
 category: pop-culture
 defines:
   - Metropolis
-related:
-  - "[[fritz-lang]]"
-  - "[[science-fiction]]"
-  - "[[german-expressionism]]"
-  - "[[dystopia]]"
+related: ["[[fritz-lang]]", "[[science-fiction]]", "[[german-expressionism]]", "[[dystopia]]"]
+requires: ["[[silent-film]]"]
 lists:
   - "[[silent-films]]"
+tour_order: 1
 read: false
 ---
 
 # Metropolis
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +45,18 @@ read: false
 ## see also
 
 - [[the-cabinet-of-dr-caligari]] · [[fritz-lang]] · [[silent-film]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

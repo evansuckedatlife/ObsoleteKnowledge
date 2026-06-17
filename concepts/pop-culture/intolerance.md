@@ -4,17 +4,22 @@ category: pop-culture
 defines:
   - Intolerance
   - Intolerance: Love's Struggle Throughout the Ages
-related:
-  - "[[d-w-griffith]]"
-  - "[[silent-film]]"
-  - "[[historical-epic]]"
-  - "[[parallel-narrative]]"
+related: ["[[d-w-griffith]]", "[[silent-film]]", "[[historical-epic]]", "[[parallel-narrative]]"]
+requires: ["[[silent-film]]"]
 lists:
   - "[[silent-films]]"
+tour_order: 1
 read: false
 ---
 
 # Intolerance
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -42,6 +47,18 @@ read: false
 ## see also
 
 - [[d-w-griffith]] · [[the-birth-of-a-nation]] · [[metropolis-film]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

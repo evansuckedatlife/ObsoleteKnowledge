@@ -3,7 +3,9 @@ type: concept
 category: pop-culture
 defines: [Vaudeville, Variety Show]
 related: ["[[charlie-chaplin]]", "[[buster-keaton]]", "[[slapstick-comedy]]", "[[british-music-hall]]", "[[vaudeville-circuit]]", "[[variety-act]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[buster-keaton]] · [[charlie-chaplin]] · [[silent-film]] · [[slapstick-comedy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

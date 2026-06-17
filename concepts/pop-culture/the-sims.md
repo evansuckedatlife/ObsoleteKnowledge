@@ -3,12 +3,11 @@ type: work
 category: pop-culture
 defines:
   - The Sims
-related:
-  - "[[maxis]]"
-  - "[[will-wright]]"
-  - "[[simulation-games]]"
+related: ["[[maxis]]", "[[will-wright]]", "[[simulation-games]]"]
+requires: []
 lists:
   - "[[video-game-series]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[animal-crossing]] · [[stardew-valley]] · [[diner-dash]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

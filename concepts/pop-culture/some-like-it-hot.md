@@ -3,13 +3,11 @@ type: work
 category: pop-culture
 defines:
   - Some Like It Hot
-related:
-  - "[[billy-wilder]]"
-  - "[[marilyn-monroe]]"
-  - "[[tony-curtis]]"
-  - "[[jack-lemmon]]"
+related: ["[[billy-wilder]]", "[[marilyn-monroe]]", "[[tony-curtis]]", "[[jack-lemmon]]"]
+requires: []
 lists:
   - "[[pre-1960s-movies]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[the-wizard-of-oz]] · [[singin-in-the-rain]] · [[it-s-a-wonderful-life]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

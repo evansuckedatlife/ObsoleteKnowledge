@@ -4,11 +4,11 @@ category: pop-culture
 defines:
   - "No Man's Sky"
   - No Mans Sky
-related:
-  - "[[minecraft]]"
-  - "[[subnautica]]"
+related: ["[[minecraft]]", "[[subnautica]]"]
+requires: []
 lists:
   - "[[sandbox-and-open-world-video-games]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +38,18 @@ read: false
 ## see also
 
 - [[minecraft]] · [[subnautica]] · [[stardew-valley]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

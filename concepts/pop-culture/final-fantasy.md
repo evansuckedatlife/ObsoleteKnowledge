@@ -3,12 +3,11 @@ type: work
 category: pop-culture
 defines:
   - Final Fantasy
-related:
-  - "[[cloud-strife]]"
-  - "[[sephiroth]]"
-  - "[[square-enix]]"
+related: ["[[cloud-strife]]", "[[sephiroth]]", "[[square-enix]]"]
+requires: []
 lists:
   - "[[video-game-series]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[the-legend-of-zelda]] · [[pokémon]] · [[dragon-quest]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

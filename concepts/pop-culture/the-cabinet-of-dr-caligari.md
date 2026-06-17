@@ -4,17 +4,22 @@ category: pop-culture
 defines:
   - The Cabinet of Dr. Caligari
   - Das Kabinett des Doktor Caligari
-related:
-  - "[[robert-wiene]]"
-  - "[[german-expressionism]]"
-  - "[[psychological-thriller]]"
-  - "[[horror]]"
+related: ["[[robert-wiene]]", "[[german-expressionism]]", "[[psychological-thriller]]", "[[horror]]"]
+requires: ["[[silent-film]]"]
 lists:
   - "[[silent-films]]"
+tour_order: 1
 read: false
 ---
 
 # The Cabinet of Dr. Caligari
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -42,6 +47,18 @@ read: false
 ## see also
 
 - [[nosferatu]] · [[metropolis-film]] · [[silent-film]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

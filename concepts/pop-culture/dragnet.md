@@ -3,12 +3,11 @@ type: work
 category: pop-culture
 defines:
   - Dragnet
-related:
-  - "[[jack-webb]]"
-  - "[[police-procedural]]"
-  - "[[television-drama]]"
+related: ["[[jack-webb]]", "[[police-procedural]]", "[[television-drama]]"]
+requires: []
 lists:
   - "[[classic-american-television-series]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[gunsmoke]] · [[the-x-files]] · [[60-minutes]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

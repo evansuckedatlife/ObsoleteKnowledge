@@ -3,12 +3,11 @@ type: work
 category: pop-culture
 defines:
   - Citizen Kane
-related:
-  - "[[orson-welles]]"
-  - "[[william-randolph-hearst]]"
-  - "[[rosebud]]"
+related: ["[[orson-welles]]", "[[william-randolph-hearst]]", "[[rosebud]]"]
+requires: []
 lists:
   - "[[pre-1960s-movies]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[casablanca]] · [[it-s-a-wonderful-life]] · [[sunset-boulevard]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

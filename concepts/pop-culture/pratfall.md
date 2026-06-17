@@ -3,11 +3,20 @@ type: concept
 category: pop-culture
 defines: [Pratfall, Comic Fall]
 related: ["[[slapstick-comedy]]", "[[buster-keaton]]", "[[physical-comedy]]", "[[stunt-work]]", "[[commedia-dell-arte]]"]
+requires: ["[[physical-comedy]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Pratfall
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ A *pratfall* is a *exaggerated tumble, stumble, or fall performed for comedic ef
 ## see also
 
 - [[slapstick-comedy]] · [[buster-keaton]] · [[physical-comedy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,12 +3,11 @@ type: work
 category: pop-culture
 defines:
   - Halo
-related:
-  - "[[master-chief]]"
-  - "[[bungie]]"
-  - "[[microsoft]]"
+related: ["[[master-chief]]", "[[bungie]]", "[[microsoft]]"]
+requires: []
 lists:
   - "[[video-game-series]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[call-of-duty]] · [[doom]] · [[counter-strike]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

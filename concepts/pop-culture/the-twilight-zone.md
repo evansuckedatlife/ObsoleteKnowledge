@@ -3,12 +3,11 @@ type: work
 category: pop-culture
 defines:
   - The Twilight Zone
-related:
-  - "[[rod-serling]]"
-  - "[[science-fiction-television]]"
-  - "[[anthology-series]]"
+related: ["[[rod-serling]]", "[[science-fiction-television]]", "[[anthology-series]]"]
+requires: []
 lists:
   - "[[classic-american-television-series]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[star-trek-the-original-series]] · [[the-x-files]] · [[twin-peaks]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

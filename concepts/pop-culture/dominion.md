@@ -3,13 +3,11 @@ type: work
 category: pop-culture
 defines:
   - Dominion
-related:
-  - "[[settlers-of-catan]]"
-  - "[[carcassonne]]"
-  - "[[ticket-to-ride]]"
-  - "[[deck-building-mechanics]]"
+related: ["[[settlers-of-catan]]", "[[carcassonne]]", "[[ticket-to-ride]]", "[[deck-building-mechanics]]"]
+requires: []
 lists:
   - "[[modern-board-games]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[settlers-of-catan]] · [[ticket-to-ride]] · [[carcassonne]] · [[agricola]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

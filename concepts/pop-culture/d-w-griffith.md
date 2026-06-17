@@ -3,11 +3,20 @@ type: person
 category: pop-culture
 defines: [D. W. Griffith, David Wark Griffith]
 related: ["[[silent-film]]", "[[the-birth-of-a-nation]]", "[[intolerance]]", "[[the-biograph-company]]", "[[cinema-grammar]]", "[[close-up]]", "[[cross-cutting]]", "[[tracking-shot]]", "[[montage]]"]
+requires: ["[[silent-film]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # D. W. Griffith
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -38,6 +47,18 @@ read: false
 ## see also
 
 - [[the-birth-of-a-nation]] · [[intolerance]] · [[silent-film]] · [[charlie-chaplin]] · [[buster-keaton]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

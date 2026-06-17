@@ -3,13 +3,11 @@ type: work
 category: pop-culture
 defines:
   - Ticket to Ride
-related:
-  - "[[settlers-of-catan]]"
-  - "[[carcassonne]]"
-  - "[[puerto-rico]]"
-  - "[[agricola]]"
+related: ["[[settlers-of-catan]]", "[[carcassonne]]", "[[puerto-rico]]", "[[agricola]]"]
+requires: []
 lists:
   - "[[modern-board-games]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +37,18 @@ read: false
 ## see also
 
 - [[settlers-of-catan]] · [[carcassonne]] · [[puerto-rico]] · [[agricola]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

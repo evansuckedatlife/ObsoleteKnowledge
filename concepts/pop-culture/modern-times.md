@@ -2,12 +2,21 @@
 type: work
 category: pop-culture
 defines: [Modern Times]
-related: ["[[charlie-chaplin]]", "[[silent-film]]", "[[satire]]", "[[industrialization]]", "[[1930s-cinema]]", "[[social-commentary]]"]
+related: ["[[charlie-chaplin]]", "[[silent-film]]", "[[satire]]", "[[industrialization]]", "[[1930s-cinema]]", "[[social-commentary]]", "[[great-depression]]"]
+requires: ["[[silent-film]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Modern Times
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -34,6 +43,18 @@ read: false
 ## see also
 
 - [[charlie-chaplin]] · [[silent-film]] · [[city-lights]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

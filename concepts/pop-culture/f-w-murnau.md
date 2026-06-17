@@ -3,11 +3,20 @@ type: person
 category: pop-culture
 defines: [F. W. Murnau, Friedrich Wilhelm Murnau]
 related: ["[[silent-film]]", "[[nosferatu]]", "[[sunrise]]", "[[german-expressionism]]", "[[the-last-laugh]]", "[[psychological-horror]]", "[[camera-movement]]", "[[visual-metaphor]]"]
+requires: ["[[silent-film]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # F. W. Murnau
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -37,6 +46,18 @@ read: false
 ## see also
 
 - [[nosferatu]] · [[sunrise]] · [[german-expressionism]] · [[the-last-laugh]] · [[d-w-griffith]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

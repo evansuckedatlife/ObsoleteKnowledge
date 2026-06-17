@@ -2,12 +2,11 @@
 type: work
 category: pop-culture
 defines: ["All in the Family"]
-related:
-  - "[[the-mary-tyler-moore-show]]"
-  - "[[mash]]"
-  - "[[carroll-oconnor]]"
+related: ["[[the-mary-tyler-moore-show]]", "[[mash]]", "[[carroll-oconnor]]"]
+requires: []
 lists:
   - "[[landmark-20th-century-american-sitcoms]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[the-mary-tyler-moore-show]] · [[mash]] · [[cheers]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,11 +3,11 @@ type: work
 category: pop-culture
 defines:
   - Tetris
-related:
-  - "[[alexey-pajitnov]]"
-  - "[[puzzle-games]]"
+related: ["[[alexey-pajitnov]]", "[[puzzle-games]]"]
+requires: []
 lists:
   - "[[video-game-series]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +37,18 @@ read: false
 ## see also
 
 - [[pac-man]] · [[pong]] · [[space-invaders]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

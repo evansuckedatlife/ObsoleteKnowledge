@@ -4,12 +4,11 @@ category: pop-culture
 defines:
   - The Ed Sullivan Show
   - Toast of the Town
-related:
-  - "[[ed-sullivan]]"
-  - "[[variety-television]]"
-  - "[[television-history]]"
+related: ["[[ed-sullivan]]", "[[variety-television]]", "[[television-history]]"]
+requires: []
 lists:
   - "[[classic-american-television-series]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ read: false
 ## see also
 
 - [[the-tonight-show]] · [[saturday-night-live]] · [[60-minutes]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

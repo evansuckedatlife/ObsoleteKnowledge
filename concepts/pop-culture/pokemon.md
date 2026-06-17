@@ -4,12 +4,11 @@ category: pop-culture
 defines:
   - Pokémon
   - Pokemon
-related:
-  - "[[ash-ketchum]]"
-  - "[[pikachu]]"
-  - "[[game-freak]]"
+related: ["[[ash-ketchum]]", "[[pikachu]]", "[[game-freak]]"]
+requires: []
 lists:
   - "[[video-game-series]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +39,18 @@ read: false
 ## see also
 
 - [[super-mario]] · [[the-legend-of-zelda]] · [[final-fantasy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

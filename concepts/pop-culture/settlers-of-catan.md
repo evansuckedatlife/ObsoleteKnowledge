@@ -4,13 +4,11 @@ category: pop-culture
 defines:
   - Settlers of Catan
   - Catan
-related:
-  - "[[ticket-to-ride]]"
-  - "[[agricola]]"
-  - "[[dominion]]"
-  - "[[carcassonne]]"
+related: ["[[ticket-to-ride]]", "[[agricola]]", "[[dominion]]", "[[carcassonne]]"]
+requires: []
 lists:
   - "[[modern-board-games]]"
+tour_order: 0
 read: false
 ---
 
@@ -41,6 +39,18 @@ read: false
 ## see also
 
 - [[ticket-to-ride]] · [[agricola]] · [[carcassonne]] · [[dominion]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

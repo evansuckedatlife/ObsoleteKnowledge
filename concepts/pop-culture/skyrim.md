@@ -4,11 +4,11 @@ category: pop-culture
 defines:
   - The Elder Scrolls V: Skyrim
   - Skyrim
-related:
-  - "[[the-witcher-3-wild-hunt]]"
-  - "[[grand-theft-auto-v]]"
+related: ["[[the-witcher-3-wild-hunt]]", "[[grand-theft-auto-v]]"]
+requires: []
 lists:
   - "[[sandbox-and-open-world-video-games]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +38,18 @@ read: false
 ## see also
 
 - [[the-witcher-3-wild-hunt]] · [[red-dead-redemption-2]] · [[breath-of-the-wild]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

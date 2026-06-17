@@ -2,12 +2,11 @@
 type: work
 category: pop-culture
 defines: ["The Cosby Show"]
-related:
-  - "[[friends]]"
-  - "[[the-simpsons]]"
-  - "[[bill-cosby]]"
+related: ["[[friends]]", "[[the-simpsons]]", "[[bill-cosby]]"]
+requires: []
 lists:
   - "[[landmark-20th-century-american-sitcoms]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[friends]] · [[the-simpsons]] · [[all-in-the-family]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

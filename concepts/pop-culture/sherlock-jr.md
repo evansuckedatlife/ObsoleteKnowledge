@@ -3,17 +3,22 @@ type: work
 category: pop-culture
 defines:
   - Sherlock Jr.
-related:
-  - "[[buster-keaton]]"
-  - "[[silent-film]]"
-  - "[[physical-comedy]]"
-  - "[[detective-story]]"
+related: ["[[buster-keaton]]", "[[silent-film]]", "[[physical-comedy]]", "[[detective-story]]"]
+requires: ["[[silent-film]]"]
 lists:
   - "[[silent-films]]"
+tour_order: 1
 read: false
 ---
 
 # Sherlock Jr.
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -40,6 +45,18 @@ read: false
 ## see also
 
 - [[buster-keaton]] · [[the-general]] · [[metropolis-film]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

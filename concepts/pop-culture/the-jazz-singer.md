@@ -2,12 +2,21 @@
 type: work
 category: pop-culture
 defines: [The Jazz Singer]
-related: ["[[silent-film]]", "[[synchronized-sound]]", "[[vitaphone]]", "[[al-jolson]]", "[[talking-pictures]]", "[[film-industry-transition]]"]
+related: ["[[silent-film]]", "[[synchronized-sound]]", "[[vitaphone]]", "[[al-jolson]]", "[[talking-pictures]]", "[[film-industry-transition]]", "[[jazz]]"]
+requires: ["[[silent-film]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # The Jazz Singer
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -35,6 +44,18 @@ read: false
 ## see also
 
 - [[silent-film]] · [[charlie-chaplin]] · [[al-jolson]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

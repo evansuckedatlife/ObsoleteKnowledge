@@ -4,13 +4,11 @@ category: pop-culture
 defines:
   - Sonic the Hedgehog
   - Sonic
-related:
-  - "[[sonic-team]]"
-  - "[[sega]]"
-  - "[[tails]]"
-  - "[[dr-robotnik]]"
+related: ["[[sonic-team]]", "[[sega]]", "[[tails]]", "[[dr-robotnik]]"]
+requires: []
 lists:
   - "[[video-game-series]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[super-mario]] · [[donkey-kong-country]] · [[mega-man]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

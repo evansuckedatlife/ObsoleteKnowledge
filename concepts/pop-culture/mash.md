@@ -2,12 +2,11 @@
 type: work
 category: pop-culture
 defines: ["M*A*S*H"]
-related:
-  - "[[all-in-the-family]]"
-  - "[[cheers]]"
-  - "[[alan-alda]]"
+related: ["[[all-in-the-family]]", "[[cheers]]", "[[alan-alda]]"]
+requires: []
 lists:
   - "[[landmark-20th-century-american-sitcoms]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[all-in-the-family]] · [[cheers]] · [[the-cosby-show]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

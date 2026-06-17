@@ -3,7 +3,9 @@ type: concept
 category: pop-culture
 defines: [Silent Film, Silent Films]
 related: ["[[charlie-chaplin]]", "[[buster-keaton]]", "[[d-w-griffith]]", "[[f-w-murnau]]", "[[the-gold-rush]]", "[[metropolis-film]]", "[[the-general]]", "[[sherlock-jr]]", "[[german-expressionism]]", "[[intertitles]]", "[[the-jazz-singer]]", "[[edison-kinetoscope]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -54,6 +56,18 @@ Silent film occupies a unique place in film history as both a necessity (technol
 ## see also
 
 - [[the-gold-rush]] · [[metropolis-film]] · [[the-general]] · [[sherlock-jr]] · [[nosferatu]] · [[sunrise]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

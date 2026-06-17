@@ -3,13 +3,11 @@ type: work
 category: pop-culture
 defines:
   - Super Mario
-related:
-  - "[[luigi]]"
-  - "[[princess-peach]]"
-  - "[[bowser]]"
-  - "[[nintendo]]"
+related: ["[[luigi]]", "[[princess-peach]]", "[[bowser]]", "[[nintendo]]"]
+requires: []
 lists:
   - "[[video-game-series]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[the-legend-of-zelda]] · [[sonic-the-hedgehog]] · [[donkey-kong]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

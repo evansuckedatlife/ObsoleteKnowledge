@@ -3,13 +3,11 @@ type: work
 category: pop-culture
 defines:
   - Puerto Rico
-related:
-  - "[[agricola]]"
-  - "[[settlers-of-catan]]"
-  - "[[ticket-to-ride]]"
-  - "[[worker-placement-mechanics]]"
+related: ["[[agricola]]", "[[settlers-of-catan]]", "[[ticket-to-ride]]", "[[worker-placement-mechanics]]"]
+requires: []
 lists:
   - "[[modern-board-games]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[agricola]] · [[settlers-of-catan]] · [[ticket-to-ride]] · [[dominion]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

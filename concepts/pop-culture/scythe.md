@@ -3,13 +3,11 @@ type: work
 category: pop-culture
 defines:
   - Scythe
-related:
-  - "[[agricola]]"
-  - "[[ticket-to-ride]]"
-  - "[[worker-placement-mechanics]]"
-  - "[[steampunk-aesthetic]]"
+related: ["[[agricola]]", "[[ticket-to-ride]]", "[[worker-placement-mechanics]]", "[[steampunk-aesthetic]]"]
+requires: []
 lists:
   - "[[modern-board-games]]"
+tour_order: 0
 read: false
 ---
 
@@ -40,6 +38,18 @@ read: false
 ## see also
 
 - [[agricola]] · [[ticket-to-ride]] · [[dominion]] · [[wingspan]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

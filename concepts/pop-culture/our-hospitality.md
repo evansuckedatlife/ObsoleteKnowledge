@@ -3,11 +3,20 @@ type: work
 category: pop-culture
 defines: [Our Hospitality]
 related: ["[[buster-keaton]]", "[[silent-film]]", "[[slapstick-comedy]]", "[[location-cinematography]]", "[[feud-narrative]]"]
+requires: ["[[silent-film]]"]
 lists: []
+tour_order: 1
 read: false
 ---
 
 # Our Hospitality
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -33,6 +42,18 @@ read: false
 ## see also
 
 - [[buster-keaton]] · [[the-general]] · [[sherlock-jr]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

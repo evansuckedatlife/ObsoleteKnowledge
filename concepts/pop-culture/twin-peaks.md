@@ -3,12 +3,11 @@ type: work
 category: pop-culture
 defines:
   - Twin Peaks
-related:
-  - "[[david-lynch]]"
-  - "[[television-drama]]"
-  - "[[mystery-television]]"
+related: ["[[david-lynch]]", "[[television-drama]]", "[[mystery-television]]"]
+requires: []
 lists:
   - "[[classic-american-television-series]]"
+tour_order: 0
 read: false
 ---
 
@@ -39,6 +38,18 @@ read: false
 ## see also
 
 - [[the-twilight-zone]] · [[the-x-files]] · [[star-trek-the-original-series]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -3,7 +3,9 @@ type: work
 category: pop-culture
 defines: [The Great Dictator]
 related: ["[[charlie-chaplin]]", "[[sound-cinema]]", "[[political-satire]]", "[[fascism]]", "[[world-war-ii]]", "[[anti-war-cinema]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -34,6 +36,18 @@ read: false
 ## see also
 
 - [[charlie-chaplin]] · [[silent-film]] · [[modern-times]] · [[city-lights]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

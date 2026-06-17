@@ -4,17 +4,22 @@ category: pop-culture
 defines:
   - Sunrise
   - Sunrise: A Song of Two Humans
-related:
-  - "[[f-w-murnau]]"
-  - "[[silent-film]]"
-  - "[[german-expressionism]]"
-  - "[[melodrama]]"
+related: ["[[f-w-murnau]]", "[[silent-film]]", "[[german-expressionism]]", "[[melodrama]]"]
+requires: ["[[silent-film]]"]
 lists:
   - "[[silent-films]]"
+tour_order: 1
 read: false
 ---
 
 # Sunrise
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
@@ -42,6 +47,18 @@ read: false
 ## see also
 
 - [[f-w-murnau]] · [[nosferatu]] · [[metropolis-film]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

@@ -2,12 +2,11 @@
 type: work
 category: pop-culture
 defines: ["Seinfeld"]
-related:
-  - "[[cheers]]"
-  - "[[friends]]"
-  - "[[jerry-seinfeld]]"
+related: ["[[cheers]]", "[[friends]]", "[[jerry-seinfeld]]"]
+requires: []
 lists:
   - "[[landmark-20th-century-american-sitcoms]]"
+tour_order: 0
 read: false
 ---
 
@@ -38,6 +37,18 @@ read: false
 ## see also
 
 - [[cheers]] · [[friends]] · [[the-simpsons]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

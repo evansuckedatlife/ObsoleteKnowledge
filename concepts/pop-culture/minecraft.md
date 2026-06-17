@@ -3,11 +3,11 @@ type: work
 category: pop-culture
 defines:
   - Minecraft
-related:
-  - "[[terraria]]"
-  - "[[no-mans-sky]]"
+related: ["[[terraria]]", "[[no-mans-sky]]"]
+requires: []
 lists:
   - "[[sandbox-and-open-world-video-games]]"
+tour_order: 0
 read: false
 ---
 
@@ -37,6 +37,18 @@ read: false
 ## see also
 
 - [[terraria]] · [[subnautica]] · [[stardew-valley]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 

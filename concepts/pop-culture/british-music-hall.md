@@ -3,7 +3,9 @@ type: concept
 category: pop-culture
 defines: [British Music Hall, Music Hall]
 related: ["[[charlie-chaplin]]", "[[vaudeville]]", "[[slapstick-comedy]]", "[[variety-show]]", "[[music-hall-era]]"]
+requires: []
 lists: []
+tour_order: 0
 read: false
 ---
 
@@ -32,6 +34,18 @@ read: false
 ## see also
 
 - [[charlie-chaplin]] · [[silent-film]] · [[slapstick-comedy]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
 
 <!-- footer -->
 
