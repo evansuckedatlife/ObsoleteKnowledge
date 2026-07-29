@@ -1,12 +1,19 @@
 ---
 type: place
 category: science
-defines: ["Krakatoa", "Krakatau", "Anak Krakatau"]
-related: ["[[vesuvius]]", "[[mount-tambora]]", "[[mount-pinatubo]]"]
+defines:
+  - Krakatoa
+  - Krakatau
+  - Anak Krakatau
+related:
+  - "[[vesuvius]]"
+  - "[[mount-tambora]]"
+  - "[[mount-pinatubo]]"
 requires: []
-lists: ["[[active-volcanoes]]"]
+lists:
+  - "[[active-volcanoes]]"
 tour_order: 0
-read: false
+read: true
 ---
 
 # Krakatoa
@@ -20,7 +27,7 @@ Located in the Sunda Strait between Java and Sumatra in Indonesia, **Krakatoa** 
 ### the 1883 eruption & global effects
 
 - *Erupted cataclysmically in August 1883*, releasing energy equivalent to 200 megatons of TNT and destroying over 70% of the island and its surrounding archipelago.
-- *Generated the loudest sound in recorded history*, which was heard 3,000 miles away on Rodrigues Island in the Indian Ocean and ruptured the eardrums of sailors 40 miles away.
+- ***Generated the loudest sound in recorded history***, which was heard 3,000 miles away on Rodrigues Island in the Indian Ocean and ruptured the eardrums of sailors 40 miles away.
 - *Triggered devastating tsunamis* up to 120 feet high that swept across the coasts of Java and Sumatra, destroying hundreds of villages and causing the vast majority of the eruption's 36,417 casualties.
 - *Pioneered global telecommunications tracking*, as news of the disaster was among the first historical events spread instantaneously around the globe via the newly completed worldwide submarine telegraph network.
 - *Produced global atmospheric phenomena*, injecting aerosols into the stratosphere that caused temperatures to drop worldwide and generated vivid red sunsets, which reportedly inspired Edvard Munch's painting *The Scream*.

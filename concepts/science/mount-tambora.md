@@ -1,12 +1,17 @@
 ---
 type: place
 category: science
-defines: ["Mount Tambora", "Tambora"]
-related: ["[[krakatoa]]", "[[mount-pinatubo]]"]
+defines:
+  - Mount Tambora
+  - Tambora
+related:
+  - "[[krakatoa]]"
+  - "[[mount-pinatubo]]"
 requires: []
-lists: ["[[active-volcanoes]]"]
+lists:
+  - "[[active-volcanoes]]"
 tour_order: 0
-read: false
+read: true
 ---
 
 # Mount Tambora

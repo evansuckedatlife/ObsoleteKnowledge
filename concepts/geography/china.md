@@ -1,12 +1,24 @@
 ---
 type: place
 category: geography
-defines: [China, People's Republic of China, Zhongguo]
-related: ["[[great-wall-of-china]]", "[[silk-road]]", "[[confucianism]]", "[[taoism]]", "[[chinese-dynasties]]", "[[forbidden-city]]", "[[mao-zedong]]", "[[kung-fu]]", "[[chinese-philosophy]]"]
+defines:
+  - China
+  - People's Republic of China
+  - Zhongguo
+related:
+  - "[[great-wall-of-china]]"
+  - "[[silk-road]]"
+  - "[[confucianism]]"
+  - "[[taoism]]"
+  - "[[chinese-dynasties]]"
+  - "[[forbidden-city]]"
+  - "[[mao-zedong]]"
+  - "[[kung-fu]]"
+  - "[[chinese-philosophy]]"
 requires: []
 lists: []
 tour_order: 0
-read: false
+read: true
 ---
 
 # China

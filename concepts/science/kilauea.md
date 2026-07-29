@@ -1,12 +1,16 @@
 ---
 type: place
 category: science
-defines: ["Kilauea"]
-related: ["[[mauna-loa]]", "[[mount-erebus]]"]
+defines:
+  - Kilauea
+related:
+  - "[[mauna-loa]]"
+  - "[[mount-erebus]]"
 requires: []
-lists: ["[[active-volcanoes]]"]
+lists:
+  - "[[active-volcanoes]]"
 tour_order: 0
-read: false
+read: true
 ---
 
 # Kilauea

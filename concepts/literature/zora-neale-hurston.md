@@ -1,12 +1,16 @@
 ---
 type: person
 category: literature
-defines: [Zora Neale Hurston]
-related: ["[[harlem-renaissance]]", "[[american-folklore]]"]
+defines:
+  - Zora Neale Hurston
+related:
+  - "[[harlem-renaissance]]"
+  - "[[american-folklore]]"
 requires: []
-lists: ["[[african-american-authors]]"]
+lists:
+  - "[[african-american-authors]]"
 tour_order: 0
-read: false
+read: true
 ---
 
 # Zora Neale Hurston

@@ -1,12 +1,16 @@
 ---
 type: place
 category: science
-defines: ["Mount Erebus"]
-related: ["[[mount-cotopaxi]]", "[[mauna-loa]]"]
+defines:
+  - Mount Erebus
+related:
+  - "[[mount-cotopaxi]]"
+  - "[[mauna-loa]]"
 requires: []
-lists: ["[[active-volcanoes]]"]
+lists:
+  - "[[active-volcanoes]]"
 tour_order: 0
-read: false
+read: true
 ---
 
 # Mount Erebus

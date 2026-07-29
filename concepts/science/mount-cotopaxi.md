@@ -1,12 +1,17 @@
 ---
 type: place
 category: science
-defines: ["Mount Cotopaxi", "Cotopaxi"]
-related: ["[[vesuvius]]", "[[mount-erebus]]"]
+defines:
+  - Mount Cotopaxi
+  - Cotopaxi
+related:
+  - "[[vesuvius]]"
+  - "[[mount-erebus]]"
 requires: []
-lists: ["[[active-volcanoes]]"]
+lists:
+  - "[[active-volcanoes]]"
 tour_order: 0
-read: false
+read: true
 ---
 
 # Mount Cotopaxi

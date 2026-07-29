@@ -1,12 +1,17 @@
 ---
 type: place
 category: science
-defines: ["Mount Pelée", "Mount Pelee"]
-related: ["[[vesuvius]]", "[[mount-saint-helens]]"]
+defines:
+  - Mount Pelée
+  - Mount Pelee
+related:
+  - "[[vesuvius]]"
+  - "[[mount-saint-helens]]"
 requires: []
-lists: ["[[active-volcanoes]]"]
+lists:
+  - "[[active-volcanoes]]"
 tour_order: 0
-read: false
+read: true
 ---
 
 # Mount Pelée

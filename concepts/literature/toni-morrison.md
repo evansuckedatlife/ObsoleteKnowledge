@@ -1,12 +1,16 @@
 ---
 type: person
 category: literature
-defines: [Toni Morrison]
-related: ["[[contemporary-american-literature]]", "[[nobel-prize-in-literature]]"]
+defines:
+  - Toni Morrison
+related:
+  - "[[contemporary-american-literature]]"
+  - "[[nobel-prize-in-literature]]"
 requires: []
-lists: ["[[african-american-authors]]"]
+lists:
+  - "[[african-american-authors]]"
 tour_order: 0
-read: false
+read: true
 ---
 
 # Toni Morrison

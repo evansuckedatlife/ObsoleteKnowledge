@@ -4,11 +4,18 @@ category: history
 defines:
   - Frederick Douglass
   - Frederick Augustus Washington Bailey
-related: ["[[abraham-lincoln]]", "[[harriet-tubman]]", "[[william-lloyd-garrison]]", "[[john-brown]]"]
-requires: ["[[american-civil-war]]"]
-lists: ["[[african-american-authors]]", "[[african-american-civil-rights-leaders]]"]
+related:
+  - "[[abraham-lincoln]]"
+  - "[[harriet-tubman]]"
+  - "[[william-lloyd-garrison]]"
+  - "[[john-brown]]"
+requires:
+  - "[[american-civil-war]]"
+lists:
+  - "[[african-american-authors]]"
+  - "[[african-american-civil-rights-leaders]]"
 tour_order: 1
-read: false
+read: true
 ---
 
 # Frederick Douglass

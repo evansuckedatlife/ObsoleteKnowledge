@@ -1,12 +1,21 @@
 ---
 type: event
 category: history
-defines: ["Wounded Knee", "Wounded Knee Massacre"]
-related: ["[[sioux]]", "[[lakota]]", "[[native-american-resistance]]", "[[seventh-cavalry]]", "[[ghost-dance]]", "[[sitting-bull]]"]
+defines:
+  - Wounded Knee
+  - Wounded Knee Massacre
+related:
+  - "[[sioux]]"
+  - "[[lakota]]"
+  - "[[native-american-resistance]]"
+  - "[[seventh-cavalry]]"
+  - "[[ghost-dance]]"
+  - "[[sitting-bull]]"
 requires: []
-lists: ["[[massacres]]"]
+lists:
+  - "[[massacres]]"
 tour_order: 0
-read: false
+read: true
 ---
 
 # Wounded Knee

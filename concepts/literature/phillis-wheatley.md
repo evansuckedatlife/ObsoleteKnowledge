@@ -1,12 +1,17 @@
 ---
 type: person
 category: literature
-defines: [Phillis Wheatley]
-related: ["[[american-revolution]]", "[[african-diaspora]]", "[[harlem-renaissance]]"]
+defines:
+  - Phillis Wheatley
+related:
+  - "[[american-revolution]]"
+  - "[[african-diaspora]]"
+  - "[[harlem-renaissance]]"
 requires: []
-lists: ["[[african-american-authors]]"]
+lists:
+  - "[[african-american-authors]]"
 tour_order: 0
-read: false
+read: true
 ---
 
 # Phillis Wheatley

@@ -1,12 +1,17 @@
 ---
 type: person
 category: literature
-defines: [Gwendolyn Brooks]
-related: ["[[harlem-renaissance]]", "[[modern-american-poetry]]"]
-requires: ["[[harlem-renaissance]]"]
-lists: ["[[african-american-authors]]"]
+defines:
+  - Gwendolyn Brooks
+related:
+  - "[[harlem-renaissance]]"
+  - "[[modern-american-poetry]]"
+requires:
+  - "[[harlem-renaissance]]"
+lists:
+  - "[[african-american-authors]]"
 tour_order: 1
-read: false
+read: true
 ---
 
 # Gwendolyn Brooks

@@ -1,12 +1,17 @@
 ---
 type: person
 category: literature
-defines: [Lorraine Hansberry]
-related: ["[[american-drama]]", "[[civil-rights-era]]", "[[harlem-renaissance]]"]
+defines:
+  - Lorraine Hansberry
+related:
+  - "[[american-drama]]"
+  - "[[civil-rights-era]]"
+  - "[[harlem-renaissance]]"
 requires: []
-lists: ["[[african-american-authors]]"]
+lists:
+  - "[[african-american-authors]]"
 tour_order: 0
-read: false
+read: true
 ---
 
 # Lorraine Hansberry

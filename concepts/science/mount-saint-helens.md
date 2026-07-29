@@ -1,12 +1,17 @@
 ---
 type: place
 category: science
-defines: ["Mount Saint Helens", "Mount St. Helens"]
-related: ["[[vesuvius]]", "[[mauna-loa]]"]
+defines:
+  - Mount Saint Helens
+  - Mount St. Helens
+related:
+  - "[[vesuvius]]"
+  - "[[mauna-loa]]"
 requires: []
-lists: ["[[active-volcanoes]]"]
+lists:
+  - "[[active-volcanoes]]"
 tour_order: 0
-read: false
+read: true
 ---
 
 # Mount Saint Helens

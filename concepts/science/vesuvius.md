@@ -1,12 +1,18 @@
 ---
 type: place
 category: science
-defines: ["Mount Vesuvius", "Vesuvius"]
-related: ["[[krakatoa]]", "[[mount-pelee]]", "[[mount-saint-helens]]"]
+defines:
+  - Mount Vesuvius
+  - Vesuvius
+related:
+  - "[[krakatoa]]"
+  - "[[mount-pelee]]"
+  - "[[mount-saint-helens]]"
 requires: []
-lists: ["[[active-volcanoes]]"]
+lists:
+  - "[[active-volcanoes]]"
 tour_order: 0
-read: false
+read: true
 ---
 
 # Mount Vesuvius

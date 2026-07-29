@@ -1,12 +1,20 @@
 ---
 type: concept
 category: philosophy
-defines: [Confucianism, Confucian]
-related: ["[[confucius]]", "[[mencius]]", "[[ritual]]", "[[virtue]]", "[[filial-piety]]", "[[virtue-ethics]]"]
+defines:
+  - Confucianism
+  - Confucian
+related:
+  - "[[confucius]]"
+  - "[[mencius]]"
+  - "[[ritual]]"
+  - "[[virtue]]"
+  - "[[filial-piety]]"
+  - "[[virtue-ethics]]"
 requires: []
 lists: []
 tour_order: 0
-read: false
+read: true
 ---
 
 # Confucianism

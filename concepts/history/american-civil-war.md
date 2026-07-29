@@ -1,12 +1,20 @@
 ---
 type: event
 category: history
-defines: ["American Civil War"]
-related: ["[[abraham-lincoln]]", "[[ulysses-s-grant]]", "[[robert-e-lee]]", "[[gettysburg-address]]", "[[emancipation-proclamation]]", "[[confederate-states-of-america]]", "[[reconstruction-era]]"]
+defines:
+  - American Civil War
+related:
+  - "[[abraham-lincoln]]"
+  - "[[ulysses-s-grant]]"
+  - "[[robert-e-lee]]"
+  - "[[gettysburg-address]]"
+  - "[[emancipation-proclamation]]"
+  - "[[confederate-states-of-america]]"
+  - "[[reconstruction-era]]"
 requires: []
 lists: []
 tour_order: 0
-read: false
+read: true
 ---
 
 # American Civil War

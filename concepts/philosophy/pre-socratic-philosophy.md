@@ -1,12 +1,23 @@
 ---
 type: concept
 category: philosophy
-defines: [Pre-Socratic Philosophy, Pre-Socratic Thought]
-related: ["[[heraclitus]]", "[[parmenides]]", "[[pythagoras]]", "[[thales]]", "[[zeno-of-elea]]", "[[socrates]]", "[[logic]]", "[[metaphysics]]", "[[ancient-greece]]"]
+defines:
+  - Pre-Socratic Philosophy
+  - Pre-Socratic Thought
+related:
+  - "[[heraclitus]]"
+  - "[[parmenides]]"
+  - "[[pythagoras]]"
+  - "[[thales]]"
+  - "[[zeno-of-elea]]"
+  - "[[socrates]]"
+  - "[[logic]]"
+  - "[[metaphysics]]"
+  - "[[ancient-greece]]"
 requires: []
 lists: []
 tour_order: 0
-read: false
+read: true
 ---
 
 # Pre-Socratic Philosophy

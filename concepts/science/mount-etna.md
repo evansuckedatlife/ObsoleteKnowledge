@@ -1,12 +1,19 @@
 ---
 type: place
 category: science
-defines: ["Mount Etna", "Etna", "Mongibello"]
-related: ["[[vesuvius]]", "[[zeus]]", "[[typhon]]"]
+defines:
+  - Mount Etna
+  - Etna
+  - Mongibello
+related:
+  - "[[vesuvius]]"
+  - "[[zeus]]"
+  - "[[typhon]]"
 requires: []
-lists: ["[[active-volcanoes]]"]
+lists:
+  - "[[active-volcanoes]]"
 tour_order: 0
-read: false
+read: true
 ---
 
 # Mount Etna

@@ -1,12 +1,17 @@
 ---
 type: person
 category: literature
-defines: [James Baldwin]
-related: ["[[harlem-renaissance]]", "[[african-american-literature]]", "[[new-york-city]]"]
+defines:
+  - James Baldwin
+related:
+  - "[[harlem-renaissance]]"
+  - "[[african-american-literature]]"
+  - "[[new-york-city]]"
 requires: []
-lists: ["[[african-american-authors]]"]
+lists:
+  - "[[african-american-authors]]"
 tour_order: 0
-read: false
+read: true
 ---
 
 # James Baldwin

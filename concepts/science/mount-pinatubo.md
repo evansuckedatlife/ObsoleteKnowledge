@@ -1,12 +1,16 @@
 ---
 type: place
 category: science
-defines: ["Mount Pinatubo"]
-related: ["[[krakatoa]]", "[[mount-tambora]]"]
+defines:
+  - Mount Pinatubo
+related:
+  - "[[krakatoa]]"
+  - "[[mount-tambora]]"
 requires: []
-lists: ["[[active-volcanoes]]"]
+lists:
+  - "[[active-volcanoes]]"
 tour_order: 0
-read: false
+read: true
 ---
 
 # Mount Pinatubo

@@ -1,12 +1,17 @@
 ---
 type: person
 category: literature
-defines: [Alice Walker]
-related: ["[[civil-rights-era]]", "[[feminist-literature]]", "[[harlem-renaissance]]"]
+defines:
+  - Alice Walker
+related:
+  - "[[civil-rights-era]]"
+  - "[[feminist-literature]]"
+  - "[[harlem-renaissance]]"
 requires: []
-lists: ["[[african-american-authors]]"]
+lists:
+  - "[[african-american-authors]]"
 tour_order: 0
-read: false
+read: true
 ---
 
 # Alice Walker

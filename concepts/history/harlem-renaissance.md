@@ -1,12 +1,21 @@
 ---
 type: concept
 category: history
-defines: [Harlem Renaissance]
-related: ["[[langston-hughes]]", "[[zora-neale-hurston]]", "[[claude-mckay]]", "[[duke-ellington]]", "[[new-york-city]]", "[[african-american-culture]]", "[[jazz]]", "[[1920s]]"]
+defines:
+  - Harlem Renaissance
+related:
+  - "[[langston-hughes]]"
+  - "[[zora-neale-hurston]]"
+  - "[[claude-mckay]]"
+  - "[[duke-ellington]]"
+  - "[[new-york-city]]"
+  - "[[african-american-culture]]"
+  - "[[jazz]]"
+  - "[[1920s]]"
 requires: []
 lists: []
 tour_order: 0
-read: false
+read: true
 ---
 
 # Harlem Renaissance
