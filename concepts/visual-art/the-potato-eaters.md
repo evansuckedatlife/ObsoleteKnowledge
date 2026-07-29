@@ -13,6 +13,7 @@ read: false
 # The Potato Eaters
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

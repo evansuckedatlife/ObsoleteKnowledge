@@ -15,6 +15,7 @@ read: false
 # Drew Brees
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -14,6 +14,7 @@ read: false
 # Campbell's Soup Cans
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

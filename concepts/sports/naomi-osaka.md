@@ -14,6 +14,7 @@ read: false
 # Naomi Osaka
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

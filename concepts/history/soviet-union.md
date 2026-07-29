@@ -12,6 +12,7 @@ read: false
 # Soviet Union
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -15,6 +15,7 @@ read: false
 # Great Sandy Desert
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

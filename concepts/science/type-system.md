@@ -12,6 +12,7 @@ read: false
 # Type system
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

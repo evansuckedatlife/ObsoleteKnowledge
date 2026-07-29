@@ -15,12 +15,6 @@ read: false
 
 
 
-<!-- foundations -->
-```dataviewjs
-dv.view("_dv/foundations")
-```
-<!-- /foundations -->
-
 ## summary
 
 Zoroaster is the founding prophet of *Zoroastrianism*, one of the world's oldest monotheistic religions originating in ancient Persia. His teachings about the cosmic struggle between good and evil, and the ultimate triumph of Ahura Mazda, profoundly influenced the religious development of the Middle East and beyond.

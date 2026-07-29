@@ -15,6 +15,7 @@ read: false
 # John McEnroe
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

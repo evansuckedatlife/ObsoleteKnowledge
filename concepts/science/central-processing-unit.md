@@ -2,6 +2,7 @@
 type: term
 category: science
 defines: [CPU, central processing unit]
+aliases: [cpu]
 related: ["[[motherboard]]", "[[isa-interface]]", "[[clock-speed]]"]
 requires: ["[[algorithm]]", "[[compiler]]"]
 lists: ["[[computer-components]]"]
@@ -10,6 +11,7 @@ read: false
 ---
 
 # CPU
+
 
 
 

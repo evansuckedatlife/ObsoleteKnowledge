@@ -12,6 +12,7 @@ read: false
 # William Faulkner
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

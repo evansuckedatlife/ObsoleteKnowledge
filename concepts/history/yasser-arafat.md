@@ -12,6 +12,7 @@ read: false
 # Yasser Arafat
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

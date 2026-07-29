@@ -15,6 +15,7 @@ read: false
 # The Treachery of Images
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

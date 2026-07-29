@@ -15,6 +15,7 @@ read: false
 # Esperanto
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

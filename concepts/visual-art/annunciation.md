@@ -15,6 +15,7 @@ read: false
 # Annunciation
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

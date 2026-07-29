@@ -14,6 +14,7 @@ read: false
 # The Westing Game
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

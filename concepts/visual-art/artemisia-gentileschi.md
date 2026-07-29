@@ -12,6 +12,7 @@ read: false
 # Artemisia Gentileschi
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

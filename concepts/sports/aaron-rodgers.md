@@ -15,6 +15,7 @@ read: false
 # Aaron Rodgers
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -15,6 +15,7 @@ read: false
 # 1994 Winter Olympics
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

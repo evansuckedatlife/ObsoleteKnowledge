@@ -15,6 +15,7 @@ read: false
 # Robert Mugabe
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

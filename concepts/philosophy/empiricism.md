@@ -12,6 +12,7 @@ read: false
 # Empiricism
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

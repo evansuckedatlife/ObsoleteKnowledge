@@ -14,6 +14,7 @@ read: false
 # Leonard Bloomfield
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

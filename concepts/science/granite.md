@@ -12,6 +12,7 @@ read: false
 # Granite
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -12,6 +12,7 @@ read: false
 # John F. Kennedy
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

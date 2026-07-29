@@ -12,6 +12,7 @@ read: false
 # Meriwether Lewis
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -12,6 +12,7 @@ read: false
 # Theodore Roosevelt's Inauguration
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

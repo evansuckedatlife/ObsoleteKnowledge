@@ -13,6 +13,7 @@ read: false
 # Girl with a Pearl Earring
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

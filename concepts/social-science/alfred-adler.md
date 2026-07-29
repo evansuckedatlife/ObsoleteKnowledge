@@ -12,6 +12,7 @@ read: false
 # Alfred Adler
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

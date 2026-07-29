@@ -12,6 +12,7 @@ read: false
 # Karl Marx
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

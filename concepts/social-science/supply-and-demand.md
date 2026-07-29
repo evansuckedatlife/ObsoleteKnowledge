@@ -12,6 +12,7 @@ read: false
 # Supply and Demand
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

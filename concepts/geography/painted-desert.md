@@ -15,6 +15,7 @@ read: false
 # Painted Desert
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

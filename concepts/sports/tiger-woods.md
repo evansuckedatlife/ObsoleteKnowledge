@@ -15,6 +15,7 @@ read: false
 # Tiger Woods
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

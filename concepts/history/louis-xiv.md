@@ -16,6 +16,7 @@ read: false
 # Louis XIV
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

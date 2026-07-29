@@ -12,6 +12,7 @@ read: false
 # Henry Clay
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

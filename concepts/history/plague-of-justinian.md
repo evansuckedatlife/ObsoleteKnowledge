@@ -15,6 +15,7 @@ read: false
 # Plague of Justinian
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

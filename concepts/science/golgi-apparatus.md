@@ -12,6 +12,7 @@ read: false
 # Golgi apparatus
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

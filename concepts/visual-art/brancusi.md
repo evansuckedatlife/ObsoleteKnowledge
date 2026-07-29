@@ -15,6 +15,7 @@ read: false
 # Constantin Brancusi
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -15,6 +15,7 @@ read: false
 # Russell Wilson
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

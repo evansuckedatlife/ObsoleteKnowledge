@@ -15,6 +15,7 @@ read: false
 # Simón Bolívar
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

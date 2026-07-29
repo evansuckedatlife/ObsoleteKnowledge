@@ -12,6 +12,7 @@ read: false
 # What a piece of work is a man
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

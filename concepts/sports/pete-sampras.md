@@ -15,6 +15,7 @@ read: false
 # Pete Sampras
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

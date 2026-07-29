@@ -12,6 +12,7 @@ read: false
 # Monetary policy
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

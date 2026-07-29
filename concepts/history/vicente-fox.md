@@ -12,6 +12,7 @@ read: false
 # Vicente Fox
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

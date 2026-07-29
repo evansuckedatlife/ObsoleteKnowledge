@@ -12,6 +12,7 @@ read: false
 # Theodore Roosevelt
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

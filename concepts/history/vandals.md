@@ -15,6 +15,7 @@ read: false
 # Vandals
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

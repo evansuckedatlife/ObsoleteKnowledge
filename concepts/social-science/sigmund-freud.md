@@ -12,6 +12,7 @@ read: false
 # Sigmund Freud
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

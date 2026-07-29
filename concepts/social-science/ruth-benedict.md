@@ -15,6 +15,7 @@ read: false
 # Ruth Benedict
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

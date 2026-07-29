@@ -14,6 +14,7 @@ read: false
 # The Revenger's Tragedy
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

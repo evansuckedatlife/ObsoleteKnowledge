@@ -16,6 +16,7 @@ read: true
 # W.E.B. Du Bois
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

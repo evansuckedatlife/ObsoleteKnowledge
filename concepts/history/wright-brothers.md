@@ -16,6 +16,7 @@ read: false
 # Wright Brothers
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

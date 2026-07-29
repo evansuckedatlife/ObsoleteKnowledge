@@ -5,11 +5,12 @@ defines: [Apollo-Soyuz Test Project]
 related: ["[[nasa]]", "[[soviet-space-program]]", "[[space-race]]", "[[cold-war-cooperation]]", "[[cold-war]]"]
 requires: ["[[apollo-program]]", "[[soviet-union]]"]
 lists: ["[[space-missions]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Apollo-Soyuz Test Project
+
 
 
 

@@ -13,6 +13,7 @@ read: false
 # Robert Walpole
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

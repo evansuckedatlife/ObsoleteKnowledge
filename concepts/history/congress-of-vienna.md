@@ -12,6 +12,7 @@ read: false
 # Congress of Vienna
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

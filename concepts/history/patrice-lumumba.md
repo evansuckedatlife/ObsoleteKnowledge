@@ -15,6 +15,7 @@ read: false
 # Patrice Lumumba
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

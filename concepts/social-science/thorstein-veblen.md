@@ -12,6 +12,7 @@ read: false
 # Thorstein Veblen
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

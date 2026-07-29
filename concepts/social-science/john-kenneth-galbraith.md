@@ -12,6 +12,7 @@ read: false
 # John Kenneth Galbraith
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

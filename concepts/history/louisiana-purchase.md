@@ -12,6 +12,7 @@ read: false
 # Louisiana Purchase
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

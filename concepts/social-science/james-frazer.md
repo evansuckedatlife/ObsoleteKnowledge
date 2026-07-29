@@ -15,6 +15,7 @@ read: false
 # James Frazer
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

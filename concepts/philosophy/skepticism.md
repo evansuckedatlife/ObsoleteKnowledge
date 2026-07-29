@@ -12,6 +12,7 @@ read: false
 # Skepticism
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

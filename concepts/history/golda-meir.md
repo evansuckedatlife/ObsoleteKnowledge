@@ -12,6 +12,7 @@ read: false
 # Golda Meir
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

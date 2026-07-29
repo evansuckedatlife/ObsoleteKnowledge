@@ -15,6 +15,7 @@ read: false
 # 1968 Summer Olympics
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

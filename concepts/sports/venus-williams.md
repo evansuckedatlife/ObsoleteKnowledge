@@ -14,6 +14,7 @@ read: false
 # Venus Williams
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

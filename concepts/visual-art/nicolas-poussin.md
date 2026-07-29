@@ -12,6 +12,7 @@ read: false
 # Nicolas Poussin
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

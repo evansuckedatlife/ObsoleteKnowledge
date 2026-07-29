@@ -13,6 +13,7 @@ read: false
 # Clement Attlee
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

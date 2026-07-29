@@ -15,6 +15,7 @@ read: false
 # Soylent Green
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -14,6 +14,7 @@ read: false
 # Black Square
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -12,6 +12,7 @@ read: false
 # Richard Nixon
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

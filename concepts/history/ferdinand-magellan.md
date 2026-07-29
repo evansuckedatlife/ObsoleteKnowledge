@@ -12,6 +12,7 @@ read: false
 # Ferdinand Magellan
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

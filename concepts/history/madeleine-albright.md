@@ -14,6 +14,7 @@ read: false
 # Madeleine Albright
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

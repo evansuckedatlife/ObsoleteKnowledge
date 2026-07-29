@@ -5,11 +5,12 @@ defines: [Crime and Punishment]
 related: ["[[fyodor-dostoevsky]]", "[[raskolnikov]]", "[[st-petersburg]]", "[[existentialism]]", "[[nihilism]]"]
 requires: ["[[russian-revolution]]"]
 lists: ["[[works-by-dostoevsky]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Crime and Punishment
+
 
 
 

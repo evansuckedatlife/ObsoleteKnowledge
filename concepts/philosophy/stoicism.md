@@ -12,6 +12,7 @@ read: false
 # Stoicism
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

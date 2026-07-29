@@ -12,6 +12,7 @@ read: false
 # Behaviorism
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

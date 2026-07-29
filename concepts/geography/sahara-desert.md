@@ -15,6 +15,7 @@ read: false
 # Sahara Desert
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

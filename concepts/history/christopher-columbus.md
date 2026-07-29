@@ -14,6 +14,7 @@ read: false
 # Christopher Columbus
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

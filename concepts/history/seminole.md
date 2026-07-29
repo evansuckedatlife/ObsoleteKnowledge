@@ -14,6 +14,7 @@ read: false
 # Seminole
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

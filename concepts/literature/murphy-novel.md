@@ -16,6 +16,7 @@ read: false
 # Murphy
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

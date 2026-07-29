@@ -16,6 +16,7 @@ read: false
 # Claude Lévi-Strauss
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

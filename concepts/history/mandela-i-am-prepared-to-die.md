@@ -12,6 +12,7 @@ read: false
 # I Am Prepared to Die
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

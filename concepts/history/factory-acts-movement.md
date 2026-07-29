@@ -12,6 +12,7 @@ read: false
 # Factory Acts Movement
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

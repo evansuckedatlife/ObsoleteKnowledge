@@ -13,6 +13,7 @@ aliases: [october-revolution]
 # Russian Revolution
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

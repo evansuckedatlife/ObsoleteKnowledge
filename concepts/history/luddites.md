@@ -12,6 +12,7 @@ read: false
 # Luddites
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

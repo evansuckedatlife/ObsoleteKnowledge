@@ -12,6 +12,7 @@ read: false
 # Election of 1948
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

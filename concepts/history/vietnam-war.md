@@ -12,6 +12,7 @@ read: false
 # Vietnam War
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -15,6 +15,7 @@ read: false
 # Rashidun Caliphate
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

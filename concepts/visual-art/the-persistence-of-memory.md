@@ -14,6 +14,7 @@ read: false
 # The Persistence of Memory
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

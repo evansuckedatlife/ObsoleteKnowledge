@@ -13,6 +13,7 @@ read: false
 # Gold Coast → Ghana
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

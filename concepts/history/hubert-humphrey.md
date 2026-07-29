@@ -15,6 +15,7 @@ read: false
 # Hubert Humphrey
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -15,6 +15,7 @@ read: false
 # A.R. Radcliffe-Brown
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

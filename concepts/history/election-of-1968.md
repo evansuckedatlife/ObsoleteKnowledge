@@ -12,6 +12,7 @@ read: false
 # Election of 1968
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

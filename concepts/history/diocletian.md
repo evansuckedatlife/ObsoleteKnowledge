@@ -12,6 +12,7 @@ read: false
 # Diocletian
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

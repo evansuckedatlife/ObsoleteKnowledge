@@ -15,6 +15,7 @@ read: false
 # The Spanish Tragedy
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

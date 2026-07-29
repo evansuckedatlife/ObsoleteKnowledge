@@ -15,6 +15,7 @@ read: false
 # Mary Douglas
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

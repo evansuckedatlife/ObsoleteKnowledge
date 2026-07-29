@@ -15,6 +15,7 @@ read: false
 # Andre Agassi
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

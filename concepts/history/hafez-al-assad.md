@@ -12,6 +12,7 @@ read: false
 # Hafez al-Assad
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

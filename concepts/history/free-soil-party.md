@@ -14,6 +14,7 @@ read: false
 # Free Soil Party
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

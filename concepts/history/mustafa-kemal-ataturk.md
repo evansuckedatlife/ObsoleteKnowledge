@@ -12,6 +12,7 @@ read: false
 # Mustafa Kemal Atatürk
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

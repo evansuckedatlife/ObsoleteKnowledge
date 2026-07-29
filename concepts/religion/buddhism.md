@@ -12,6 +12,7 @@ read: false
 # Buddhism
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

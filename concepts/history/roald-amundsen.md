@@ -12,6 +12,7 @@ read: false
 # Roald Amundsen
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

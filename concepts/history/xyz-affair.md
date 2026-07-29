@@ -12,6 +12,7 @@ read: false
 # XYZ Affair
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

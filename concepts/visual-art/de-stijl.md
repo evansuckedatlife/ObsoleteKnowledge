@@ -15,6 +15,7 @@ read: false
 # De Stijl
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

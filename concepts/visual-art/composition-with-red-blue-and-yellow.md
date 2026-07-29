@@ -15,6 +15,7 @@ read: false
 # Composition with Red, Blue and Yellow
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -14,6 +14,7 @@ read: false
 # Guernica
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

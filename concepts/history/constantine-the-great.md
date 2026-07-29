@@ -12,6 +12,7 @@ read: false
 # Constantine the Great
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

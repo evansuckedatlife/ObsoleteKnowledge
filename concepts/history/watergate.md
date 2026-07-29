@@ -12,6 +12,7 @@ read: false
 # Watergate
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

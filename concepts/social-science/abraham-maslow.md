@@ -12,6 +12,7 @@ read: false
 # Abraham Maslow
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

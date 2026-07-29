@@ -15,6 +15,7 @@ read: false
 # Sam Snead
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

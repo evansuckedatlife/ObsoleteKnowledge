@@ -12,6 +12,7 @@ read: false
 # Perfect competition
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

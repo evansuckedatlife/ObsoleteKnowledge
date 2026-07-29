@@ -15,6 +15,7 @@ read: false
 # Abstract Expressionism
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

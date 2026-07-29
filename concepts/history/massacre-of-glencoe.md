@@ -12,6 +12,7 @@ read: false
 # Massacre of Glencoe
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

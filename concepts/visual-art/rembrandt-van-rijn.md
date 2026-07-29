@@ -13,6 +13,7 @@ read: false
 # Rembrandt van Rijn
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

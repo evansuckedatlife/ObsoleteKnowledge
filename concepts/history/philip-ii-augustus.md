@@ -16,6 +16,7 @@ read: false
 # Philip II Augustus
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

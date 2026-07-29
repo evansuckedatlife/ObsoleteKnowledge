@@ -17,6 +17,7 @@ read: false
 # Spanish Flu
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

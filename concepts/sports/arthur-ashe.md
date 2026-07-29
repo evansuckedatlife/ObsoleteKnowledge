@@ -15,6 +15,7 @@ read: false
 # Arthur Ashe
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

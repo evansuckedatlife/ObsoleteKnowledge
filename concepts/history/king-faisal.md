@@ -12,6 +12,7 @@ read: false
 # King Faisal
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

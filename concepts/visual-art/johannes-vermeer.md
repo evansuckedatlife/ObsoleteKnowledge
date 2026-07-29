@@ -13,6 +13,7 @@ aliases: [vermeer]
 # Johannes Vermeer
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -15,6 +15,7 @@ read: false
 # Walter Mondale
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

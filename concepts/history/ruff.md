@@ -14,6 +14,7 @@ read: false
 # Ruff
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

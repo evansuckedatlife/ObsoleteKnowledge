@@ -12,6 +12,7 @@ read: false
 # Ming Dynasty
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

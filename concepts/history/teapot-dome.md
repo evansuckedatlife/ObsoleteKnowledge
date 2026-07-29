@@ -12,6 +12,7 @@ read: false
 # Teapot Dome
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -12,6 +12,7 @@ read: false
 # Julius Caesar
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

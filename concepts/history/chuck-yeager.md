@@ -15,6 +15,7 @@ read: false
 # Chuck Yeager
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

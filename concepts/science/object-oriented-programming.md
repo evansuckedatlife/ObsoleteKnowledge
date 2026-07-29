@@ -12,6 +12,7 @@ read: false
 # Object-oriented programming
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -15,6 +15,7 @@ read: false
 # Salvador Allende
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

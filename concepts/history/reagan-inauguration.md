@@ -12,6 +12,7 @@ read: false
 # Reagan's Inauguration
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

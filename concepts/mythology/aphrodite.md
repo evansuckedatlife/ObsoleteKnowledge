@@ -12,6 +12,7 @@ read: false
 # Aphrodite
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

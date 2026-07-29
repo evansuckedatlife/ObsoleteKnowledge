@@ -12,6 +12,7 @@ read: false
 # Poor Folk
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

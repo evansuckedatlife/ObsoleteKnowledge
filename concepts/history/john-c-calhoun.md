@@ -14,6 +14,7 @@ read: false
 # John C. Calhoun
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

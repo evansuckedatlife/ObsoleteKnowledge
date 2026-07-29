@@ -12,6 +12,7 @@ read: false
 # The New Yorker
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -12,6 +12,7 @@ read: false
 # Interest Rate
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

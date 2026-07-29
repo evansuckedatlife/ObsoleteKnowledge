@@ -13,6 +13,7 @@ read: false
 # The Stanford Prison Experiment
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

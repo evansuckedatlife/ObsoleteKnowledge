@@ -1,7 +1,7 @@
 ---
 type: concept
 category: philosophy
-defines: [Virtue Ethics, Virtue]
+defines: [Virtue Ethics]
 related: ["[[aristotle]]", "[[virtue]]", "[[eudaimonia]]", "[[moral-philosophy]]", "[[stoicism]]", "[[confucianism]]", "[[alasdair-macintyre]]", "[[ancient-greece]]"]
 requires: ["[[aristotle]]"]
 lists: []
@@ -10,6 +10,7 @@ read: false
 ---
 
 # Virtue Ethics
+
 
 
 

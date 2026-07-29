@@ -15,6 +15,7 @@ read: false
 # Vulgate
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

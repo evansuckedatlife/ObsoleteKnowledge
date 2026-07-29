@@ -13,6 +13,7 @@ read: false
 # The Asch Conformity Experiment
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -14,6 +14,7 @@ read: false
 # The Queen of Spades
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

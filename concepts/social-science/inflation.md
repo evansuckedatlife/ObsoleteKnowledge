@@ -12,6 +12,7 @@ read: false
 # Inflation
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

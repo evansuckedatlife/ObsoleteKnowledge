@@ -15,6 +15,7 @@ read: false
 # Sojourner Truth
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

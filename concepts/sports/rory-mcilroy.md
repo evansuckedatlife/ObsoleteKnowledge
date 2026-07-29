@@ -14,6 +14,7 @@ read: false
 # Rory McIlroy
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

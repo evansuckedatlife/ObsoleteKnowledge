@@ -12,6 +12,7 @@ read: false
 # Epicurus
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

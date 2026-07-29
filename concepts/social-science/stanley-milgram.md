@@ -12,6 +12,7 @@ read: false
 # Stanley Milgram
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

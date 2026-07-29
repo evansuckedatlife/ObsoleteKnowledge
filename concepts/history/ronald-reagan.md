@@ -12,6 +12,7 @@ read: false
 # Ronald Reagan
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

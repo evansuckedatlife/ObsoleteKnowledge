@@ -12,6 +12,7 @@ read: false
 # Marcus Aurelius
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

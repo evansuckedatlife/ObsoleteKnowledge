@@ -15,6 +15,7 @@ read: false
 # Mario Lemieux
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

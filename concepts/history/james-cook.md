@@ -12,6 +12,7 @@ read: false
 # James Cook
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

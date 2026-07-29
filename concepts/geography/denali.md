@@ -15,6 +15,7 @@ read: false
 # Denali
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

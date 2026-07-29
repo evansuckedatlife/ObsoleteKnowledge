@@ -12,6 +12,7 @@ read: false
 # Unemployment
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

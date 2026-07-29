@@ -14,6 +14,7 @@ read: false
 # Jordan Spieth
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

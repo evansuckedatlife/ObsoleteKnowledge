@@ -12,6 +12,7 @@ read: false
 # Election of 1800
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

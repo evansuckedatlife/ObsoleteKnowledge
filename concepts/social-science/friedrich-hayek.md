@@ -12,6 +12,7 @@ read: false
 # Friedrich Hayek
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

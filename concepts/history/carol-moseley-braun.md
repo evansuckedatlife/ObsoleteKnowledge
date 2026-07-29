@@ -12,6 +12,7 @@ read: false
 # Carol Moseley Braun
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

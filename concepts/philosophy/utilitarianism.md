@@ -12,6 +12,7 @@ read: false
 # Utilitarianism
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

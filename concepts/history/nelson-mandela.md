@@ -16,6 +16,7 @@ read: false
 # Nelson Mandela
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -15,6 +15,7 @@ read: true
 # 1896 Summer Olympics
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

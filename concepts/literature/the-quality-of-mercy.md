@@ -12,6 +12,7 @@ read: false
 # The quality of mercy
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

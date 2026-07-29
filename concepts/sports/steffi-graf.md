@@ -14,6 +14,7 @@ read: false
 # Steffi Graf
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

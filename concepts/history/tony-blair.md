@@ -13,6 +13,7 @@ read: false
 # Tony Blair
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

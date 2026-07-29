@@ -5,11 +5,12 @@ defines: ["Friends, Romans, countrymen", "Mark Antony's oration"]
 related: ["[[julius-caesar]]", "[[brutus]]", "[[rhetoric]]"]
 requires: ["[[julius-caesar]]", "[[william-shakespeare]]"]
 lists: ["[[shakespearean-speeches]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Friends, Romans, countrymen
+
 
 
 

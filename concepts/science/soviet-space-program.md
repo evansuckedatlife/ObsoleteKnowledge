@@ -5,11 +5,12 @@ defines: ["Soviet space program", "Soviet space effort", OKB-1]
 related: ["[[space-race]]", "[[cold-war]]", "[[sputnik]]", "[[apollo-program]]", "[[nasa]]"]
 requires: ["[[space-race]]", "[[cold-war]]"]
 lists: []
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Soviet Space Program
+
 
 
 

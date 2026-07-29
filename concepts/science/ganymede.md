@@ -12,6 +12,7 @@ read: false
 # Ganymede
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

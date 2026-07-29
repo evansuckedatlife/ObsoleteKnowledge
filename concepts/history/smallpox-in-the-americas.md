@@ -17,6 +17,7 @@ read: false
 # Smallpox in the Americas
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

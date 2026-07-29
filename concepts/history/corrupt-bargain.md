@@ -12,6 +12,7 @@ read: false
 # Corrupt Bargain
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -13,6 +13,7 @@ read: false
 # The Small-World Experiment
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

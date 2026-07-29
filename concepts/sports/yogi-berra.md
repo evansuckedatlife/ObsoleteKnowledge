@@ -15,6 +15,7 @@ read: false
 # Yogi Berra
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

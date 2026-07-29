@@ -12,6 +12,7 @@ read: false
 # Higgs Boson
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

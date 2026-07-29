@@ -13,6 +13,7 @@ read: false
 # The Milgram Obedience Experiment
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

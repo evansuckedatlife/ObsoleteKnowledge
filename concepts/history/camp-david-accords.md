@@ -12,6 +12,7 @@ read: false
 # Camp David Accords
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

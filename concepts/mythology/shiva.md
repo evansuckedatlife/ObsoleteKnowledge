@@ -12,6 +12,7 @@ read: false
 # Shiva
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -15,6 +15,7 @@ read: false
 # Dixiecrats
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

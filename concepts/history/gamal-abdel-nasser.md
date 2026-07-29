@@ -14,6 +14,7 @@ read: false
 # Gamal Abdel Nasser
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

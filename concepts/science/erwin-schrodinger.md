@@ -12,6 +12,7 @@ read: false
 # Erwin Schrödinger
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

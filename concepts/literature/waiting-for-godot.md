@@ -15,6 +15,7 @@ read: false
 # Waiting for Godot
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

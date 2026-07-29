@@ -14,6 +14,7 @@ read: false
 # Simone de Beauvoir
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

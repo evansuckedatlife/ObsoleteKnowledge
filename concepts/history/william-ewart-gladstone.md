@@ -13,6 +13,7 @@ read: false
 # William Ewart Gladstone
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

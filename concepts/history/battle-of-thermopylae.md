@@ -14,6 +14,7 @@ aliases: [thermopylae]
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

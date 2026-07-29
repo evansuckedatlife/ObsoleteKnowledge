@@ -15,6 +15,7 @@ read: false
 # Gary Player
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

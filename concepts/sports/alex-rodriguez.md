@@ -15,6 +15,7 @@ read: false
 # Alex Rodriguez
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

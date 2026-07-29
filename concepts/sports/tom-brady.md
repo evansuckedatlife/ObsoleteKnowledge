@@ -15,6 +15,7 @@ read: false
 # Tom Brady
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

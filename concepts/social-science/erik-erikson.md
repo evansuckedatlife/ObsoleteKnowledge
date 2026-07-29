@@ -12,6 +12,7 @@ read: false
 # Erik Erikson
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

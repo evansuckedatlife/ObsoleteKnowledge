@@ -12,6 +12,7 @@ read: false
 # Goneril
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

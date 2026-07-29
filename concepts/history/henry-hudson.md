@@ -12,6 +12,7 @@ read: false
 # Henry Hudson
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

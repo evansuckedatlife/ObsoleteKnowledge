@@ -12,6 +12,7 @@ read: false
 # David Ben-Gurion
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -5,11 +5,12 @@ defines: ["Richard Feynman", "Richard Phillips Feynman"]
 related: ["[[albert-einstein]]", "[[enrico-fermi]]", "[[cold-war]]", "[[manhattan-project]]"]
 requires: ["[[quantum-mechanics]]", "[[manhattan-project]]"]
 lists: ["[[20th-century-physicists]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Richard Feynman
+
 
 
 

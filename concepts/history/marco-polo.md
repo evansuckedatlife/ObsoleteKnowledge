@@ -12,6 +12,7 @@ read: false
 # Marco Polo
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

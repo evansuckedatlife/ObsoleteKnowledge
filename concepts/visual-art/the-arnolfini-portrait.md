@@ -13,6 +13,7 @@ read: false
 # The Arnolfini Portrait
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -13,6 +13,7 @@ read: true
 # Judaism
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

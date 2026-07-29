@@ -12,6 +12,7 @@ read: false
 # All the world's a stage
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

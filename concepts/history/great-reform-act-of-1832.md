@@ -12,6 +12,7 @@ read: false
 # Great Reform Act of 1832
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

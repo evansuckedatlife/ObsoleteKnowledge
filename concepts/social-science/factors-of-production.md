@@ -12,6 +12,7 @@ read: false
 # Factors of Production
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

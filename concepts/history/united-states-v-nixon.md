@@ -14,6 +14,7 @@ read: false
 # United States v. Nixon
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

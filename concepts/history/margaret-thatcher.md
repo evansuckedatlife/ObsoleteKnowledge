@@ -13,6 +13,7 @@ read: false
 # Margaret Thatcher
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

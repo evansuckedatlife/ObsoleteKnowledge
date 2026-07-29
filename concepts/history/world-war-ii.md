@@ -14,6 +14,7 @@ read: true
 # World War II
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -12,6 +12,7 @@ read: false
 # Aaron the Moor
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

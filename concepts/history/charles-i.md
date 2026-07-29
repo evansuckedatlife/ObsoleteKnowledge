@@ -12,6 +12,7 @@ read: false
 # Charles I
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

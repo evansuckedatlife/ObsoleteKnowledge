@@ -12,6 +12,7 @@ read: false
 # Judith Leyster
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

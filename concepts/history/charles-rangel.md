@@ -12,6 +12,7 @@ read: false
 # Charles Rangel
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -14,6 +14,7 @@ read: false
 # Susan B. Anthony
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

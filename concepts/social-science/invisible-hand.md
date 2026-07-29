@@ -12,6 +12,7 @@ read: false
 # Invisible Hand
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

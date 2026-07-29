@@ -15,6 +15,7 @@ read: false
 # Visigoths
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

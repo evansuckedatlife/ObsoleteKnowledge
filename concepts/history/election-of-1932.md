@@ -12,6 +12,7 @@ read: false
 # Election of 1932
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

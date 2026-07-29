@@ -12,6 +12,7 @@ read: false
 # Structural linguistics
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

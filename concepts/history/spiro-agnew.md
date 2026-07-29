@@ -15,6 +15,7 @@ read: false
 # Spiro Agnew
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

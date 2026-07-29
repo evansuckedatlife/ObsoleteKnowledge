@@ -15,6 +15,7 @@ read: false
 # E.E. Evans-Pritchard
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

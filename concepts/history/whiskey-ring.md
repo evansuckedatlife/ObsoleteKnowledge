@@ -12,6 +12,7 @@ read: false
 # Whiskey Ring
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

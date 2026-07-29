@@ -15,6 +15,7 @@ read: false
 # Margaret Mead
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

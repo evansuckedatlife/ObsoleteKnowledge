@@ -12,6 +12,7 @@ read: false
 # Treaty of Tordesillas
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

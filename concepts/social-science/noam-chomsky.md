@@ -15,6 +15,7 @@ read: false
 # Noam Chomsky
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

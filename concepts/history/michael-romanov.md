@@ -12,6 +12,7 @@ read: false
 # Michael Romanov
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

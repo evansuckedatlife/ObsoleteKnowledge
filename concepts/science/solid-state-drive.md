@@ -12,6 +12,7 @@ read: false
 # Solid State Drive
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

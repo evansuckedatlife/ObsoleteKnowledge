@@ -12,6 +12,7 @@ read: false
 # Coalition Wars
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

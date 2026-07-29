@@ -12,6 +12,7 @@ read: false
 # International trade
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

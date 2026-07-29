@@ -12,6 +12,7 @@ read: false
 # Europa
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -12,6 +12,7 @@ read: false
 # Galilean Moons
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

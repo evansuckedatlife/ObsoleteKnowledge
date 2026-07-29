@@ -12,6 +12,7 @@ read: false
 # The Atlantic
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

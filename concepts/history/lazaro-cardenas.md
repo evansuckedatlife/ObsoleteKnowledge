@@ -12,6 +12,7 @@ read: false
 # Lázaro Cárdenas
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

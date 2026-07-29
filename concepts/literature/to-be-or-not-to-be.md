@@ -12,6 +12,7 @@ read: false
 # To be or not to be
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

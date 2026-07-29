@@ -15,6 +15,7 @@ read: false
 # Phil Mickelson
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -14,6 +14,7 @@ read: false
 # Robert Hanssen
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

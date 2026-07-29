@@ -16,6 +16,7 @@ read: false
 # Philip IV
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

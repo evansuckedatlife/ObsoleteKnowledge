@@ -12,6 +12,7 @@ read: false
 # Gross Domestic Product
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

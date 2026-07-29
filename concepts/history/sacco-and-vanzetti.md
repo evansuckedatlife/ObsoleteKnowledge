@@ -13,6 +13,7 @@ read: false
 # Sacco and Vanzetti
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

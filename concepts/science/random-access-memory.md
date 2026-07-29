@@ -12,6 +12,7 @@ read: false
 # RAM
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

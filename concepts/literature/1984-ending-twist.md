@@ -16,6 +16,7 @@ read: false
 # 1984 (Ending Twist)
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -15,6 +15,7 @@ read: false
 # Franz Boas
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

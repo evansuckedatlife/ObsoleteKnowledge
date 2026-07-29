@@ -15,6 +15,7 @@ read: true
 # Gauge boson
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

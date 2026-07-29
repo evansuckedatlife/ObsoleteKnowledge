@@ -12,6 +12,7 @@ read: false
 # Brahma
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

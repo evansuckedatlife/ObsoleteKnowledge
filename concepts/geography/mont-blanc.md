@@ -15,6 +15,7 @@ read: false
 # Mont Blanc
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

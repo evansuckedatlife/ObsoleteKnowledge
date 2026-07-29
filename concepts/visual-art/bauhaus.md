@@ -14,6 +14,7 @@ read: false
 # Bauhaus
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -12,6 +12,7 @@ read: false
 # Time Magazine
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
