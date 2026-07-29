@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -44,6 +45,12 @@ The Second Temple Period (c. 516 BCE–70 CE) refers to the era when a reconstru
 ## see also
 
 - [[temple-in-jerusalem]] · [[judaism]] · [[maccabean-revolt]] · [[hebrew-bible]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

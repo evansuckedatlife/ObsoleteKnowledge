@@ -58,6 +58,12 @@ Hinduism stands as the world's oldest continuously practiced major religion, and
 
 - [[vedas]] · [[bhagavad-gita]] · [[brahman]] · [[yoga]] · [[buddhism]]
 
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
 <!-- tournav -->
 ```dataviewjs
 dv.view("_dv/tournav")

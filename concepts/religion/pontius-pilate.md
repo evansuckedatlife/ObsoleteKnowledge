@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -44,6 +45,12 @@ The Roman prefect of Judea who presided over Jesus's trial and ultimately author
 ## see also
 
 - [[jesus]] · [[peter]] · [[paul]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

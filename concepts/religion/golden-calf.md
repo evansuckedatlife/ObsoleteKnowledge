@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -41,6 +42,12 @@ The golden calf is an idol made by the Israelites while Moses was receiving the 
 ## see also
 
 - [[sweat-of-your-brow]] · [[fire-and-brimstone]] · [[land-of-milk-and-honey]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

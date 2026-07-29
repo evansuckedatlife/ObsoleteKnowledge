@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -44,6 +45,12 @@ Joseph Smith (1805–1844) was the founding prophet of the *Church of Jesus Chri
 ## see also
 
 - [[bahaullah]] · [[mary-baker-eddy]] · [[muhammad]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

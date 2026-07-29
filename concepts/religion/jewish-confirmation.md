@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -45,6 +46,12 @@ Jewish confirmation is a ceremony reaffirming religious commitment and Jewish id
 ## see also
 
 - [[bar-bat-mitzvah]] · [[jewish-marriage]] · [[shavuot]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

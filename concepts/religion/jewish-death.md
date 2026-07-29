@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -44,6 +45,12 @@ Jewish death and burial practices reflect values of dignity, simplicity, and res
 ## see also
 
 - [[jewish-mourning]] · [[kaddish]] · [[jewish-marriage]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -64,6 +65,12 @@ Islam has been foundational to the political, cultural, and intellectual life of
 ## see also
 
 - [[muhammad]] · [[quran]] · [[mecca]] · [[judaism]] · [[christianity]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -41,6 +42,12 @@ This phrase comes from *Genesis*, where God condemns Adam to labor as punishment
 ## see also
 
 - [[golden-calf]] · [[good-samaritan]] · [[ye-of-little-faith]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

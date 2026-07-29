@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -43,6 +44,12 @@ The mother of **Jesus**, revered in Christian tradition as the *Virgin Mary* bec
 ## see also
 
 - [[john-the-apostle]] · [[mary-magdalene]] · [[joseph]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

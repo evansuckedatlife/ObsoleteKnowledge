@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -40,6 +41,12 @@ Jezebel was a wicked queen of Israel, wife of King Ahab, who opposed the prophet
 ## see also
 
 - [[fire-and-brimstone]] · [[sweat-of-your-brow]] · [[writing-on-the-wall]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

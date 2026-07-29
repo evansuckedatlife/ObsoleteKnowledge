@@ -40,6 +40,12 @@ Abraham is the founding patriarch of Judaism, Christianity, and Islam, revered a
 
 - [[moses]] · [[david]] · [[jesus]]
 
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
 <!-- tournav -->
 ```dataviewjs
 dv.view("_dv/tournav")

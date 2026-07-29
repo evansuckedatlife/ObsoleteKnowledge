@@ -23,6 +23,13 @@ read: true
 # Exodus
 
 
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
+
 ## summary
 
 The Exodus is the founding myth-history of the Israelites, recounting their departure from slavery in Egypt under the leadership of Moses, their journey through the wilderness, and the covenant established with God at Mount Sinai. Detailed primarily in the biblical Book of Exodus (the second book of the Torah), it is the central narrative of Jewish identity, celebrated annually during Passover.
@@ -49,6 +56,12 @@ The Exodus is the founding myth-history of the Israelites, recounting their depa
 ## see also
 
 - [[moses]] · [[judaism]] · [[torah]] · [[passover]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

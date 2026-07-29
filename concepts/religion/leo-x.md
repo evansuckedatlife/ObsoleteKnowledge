@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -42,6 +43,12 @@ Reigning as pope from 1513 to 1521, **Leo X** (born Giovanni de' Medici) was a l
 ## see also
 
 - [[julius-ii]] · [[clement-vii]] · [[alexander-vi]] · [[boniface-viii]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

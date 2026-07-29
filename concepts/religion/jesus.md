@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -60,6 +61,12 @@ No figure in Western history has generated more theological interpretation, arti
 ## see also
 
 - [[gospels]] · [[crucifixion]] · [[peter]] · [[paul]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

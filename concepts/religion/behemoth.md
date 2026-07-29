@@ -16,6 +16,13 @@ read: true
 # Behemoth
 
 
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
+
 ## summary
 
 Behemoth is an enormous, powerful creature described in the Book of Job as an example of God's incomprehensible creation and creative power. The word has come to mean any massive or unstoppable force, often used to describe a large, powerful organization or entity.
@@ -37,6 +44,12 @@ Behemoth is an enormous, powerful creature described in the Book of Job as an ex
 ## see also
 
 - [[writing-on-the-wall]] · [[ye-of-little-faith]] · [[golden-calf]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

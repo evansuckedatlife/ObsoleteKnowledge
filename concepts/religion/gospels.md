@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -64,6 +65,12 @@ The Gospels occupy a unique position: they are simultaneously documents of early
 ## see also
 
 - [[jesus]] · [[crucifixion]] · [[peter]] · [[paul]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

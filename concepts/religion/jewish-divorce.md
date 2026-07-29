@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -44,6 +45,12 @@ Jewish divorce (*gerushin*) is the legal dissolution of a Jewish marriage accord
 ## see also
 
 - [[jewish-marriage]] · [[ketubah]] · [[jewish-mourning]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

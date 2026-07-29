@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -43,6 +44,12 @@ Mecca is the holiest city in Islam, located in western Saudi Arabia, and the bir
 ## see also
 
 - [[islam]] · [[hajj]] · [[muhammed]] · [[saudi-arabia]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -44,6 +45,12 @@ The *Bhagavad Gita* is a 700-verse philosophical dialogue embedded within the ep
 ## see also
 
 - [[upanishads]] · [[vedas]] · [[tao-te-ching]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

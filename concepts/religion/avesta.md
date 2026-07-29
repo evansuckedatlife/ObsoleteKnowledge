@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -42,6 +43,12 @@ The *Avesta* is the sacred scripture of *Zoroastrianism*, an ancient Persian rel
 ## see also
 
 - [[vedas]] · [[quran]] · [[tao-te-ching]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

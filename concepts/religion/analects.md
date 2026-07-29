@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -42,6 +43,12 @@ The *Analects* is a collection of sayings and conversations attributed to *Confu
 ## see also
 
 - [[confucianism]] · [[taoism]] · [[yijing]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

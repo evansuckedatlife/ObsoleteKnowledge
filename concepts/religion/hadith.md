@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -42,6 +43,12 @@ The *Hadith* is a collection of reports documenting the sayings, deeds, and appr
 ## see also
 
 - [[quran]] · [[talmud]] · [[apocrypha]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

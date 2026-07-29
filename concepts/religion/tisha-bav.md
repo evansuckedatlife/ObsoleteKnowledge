@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -43,6 +44,12 @@ Tisha b'Av, the *Ninth of Av*, is a day of mourning and fasting observed in July
 ## see also
 
 - [[temple-in-jerusalem]] · [[second-temple]] · [[judaism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

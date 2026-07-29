@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -46,6 +47,12 @@ The grandson of *Abraham* and son of *Isaac*, Jacob is remembered as the patriar
 ## see also
 
 - [[abraham]] · [[moses]] · [[david]] · [[samuel]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -43,6 +44,12 @@ Purim, celebrated on the 14th of Adar (February or March), commemorates the *del
 ## see also
 
 - [[esther]] · [[megillah]] · [[judaism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -42,6 +43,12 @@ Reigning as pope from 1088 to 1099, **Urban II** (originally Odo of Châtillon) 
 ## see also
 
 - [[gregory-vii]] · [[innocent-iii]] · [[boniface-viii]] · [[julius-ii]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

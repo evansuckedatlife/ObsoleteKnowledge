@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -56,6 +57,12 @@ Gregory I's papacy was pivotal in shaping the character of medieval Western Chri
 ## see also
 
 - [[leo-i]] · [[gregory-vii]] · [[urban-ii]] · [[innocent-iii]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

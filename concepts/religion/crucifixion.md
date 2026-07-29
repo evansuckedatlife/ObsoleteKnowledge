@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -65,6 +66,12 @@ The crucifixion of Jesus is the hinge event of Christian theology and Western hi
 ## see also
 
 - [[jesus]] · [[gospels]] · [[pontius-pilate]] · [[john-the-apostle]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

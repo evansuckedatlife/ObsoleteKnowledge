@@ -18,6 +18,13 @@ read: true
 # Talmud
 
 
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
+
 ## summary
 
 The *Talmud* is a vast body of Jewish law, theology, and commentary compiled over centuries, consisting of the *Mishnah* (3rd century CE) and the *Gemara* (5th–6th centuries CE). It serves as the primary source of rabbinic Judaism and shapes Jewish ethics, law, and practice to this day.
@@ -42,6 +49,12 @@ The *Talmud* is a vast body of Jewish law, theology, and commentary compiled ove
 ## see also
 
 - [[torah]] · [[hadith]] · [[apocrypha]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -43,6 +44,12 @@ Zoroaster is the founding prophet of *Zoroastrianism*, one of the world's oldest
 ## see also
 
 - [[abraham]] · [[mahavira]] · [[confucius]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

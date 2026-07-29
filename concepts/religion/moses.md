@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -64,6 +65,12 @@ Moses stands at the intersection of history, theology, and legend. The historica
 ## see also
 
 - [[abraham]] · [[jacob]] · [[joshua]] · [[david]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

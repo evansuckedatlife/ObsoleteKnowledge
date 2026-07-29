@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -65,6 +66,12 @@ Peter's journey from impulsive fisherman to rock of the church exemplifies a cen
 ## see also
 
 - [[john-the-apostle]] · [[paul]] · [[crucifixion]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

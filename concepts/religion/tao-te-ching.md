@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -44,6 +45,12 @@ The *Tao Te Ching* (or *Daodejing*) is a foundational text of *Taoism*, attribut
 ## see also
 
 - [[yijing]] · [[vedas]] · [[upanishads]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -44,6 +45,12 @@ The Temple in Jerusalem refers to successive sanctuaries built on the Temple Mou
 ## see also
 
 - [[solomon]] · [[judaism]] · [[tisha-bav]] · [[hanukkah]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

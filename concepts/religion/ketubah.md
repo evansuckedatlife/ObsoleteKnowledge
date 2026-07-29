@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -43,6 +44,12 @@ The Ketubah is a Jewish marriage contract signed before the wedding ceremony tha
 ## see also
 
 - [[jewish-marriage]] · [[judaism]] · [[hebrew]] · [[jewish-law]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

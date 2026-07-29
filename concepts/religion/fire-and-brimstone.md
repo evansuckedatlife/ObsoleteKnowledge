@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -41,6 +42,12 @@ This phrase describes divine destruction and damnation, rooted in the destructio
 ## see also
 
 - [[sweat-of-your-brow]] · [[writing-on-the-wall]] · [[golden-calf]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

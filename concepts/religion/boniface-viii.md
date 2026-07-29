@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -41,6 +42,12 @@ Reigning as pope from 1294 to 1303, **Boniface VIII** (born Benedetto Caetani) i
 ## see also
 
 - [[gregory-vii]] · [[innocent-iii]] · [[alexander-vi]] · [[leo-x]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

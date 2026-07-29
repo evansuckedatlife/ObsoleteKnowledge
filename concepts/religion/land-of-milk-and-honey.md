@@ -17,6 +17,13 @@ read: true
 # a land of milk and honey
 
 
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
+
 ## summary
 
 This phrase describes the Promised Land—Canaan—that God promised to give the Israelites after their exodus from Egypt. It symbolizes abundance, fertility, and a place of comfort and prosperity, and has become a metaphor for any place of hope or idealized destination.
@@ -39,6 +46,12 @@ This phrase describes the Promised Land—Canaan—that God promised to give the
 ## see also
 
 - [[sweat-of-your-brow]] · [[golden-calf]] · [[writing-on-the-wall]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -46,6 +47,12 @@ Mary is the mother of Jesus, revered in Christian tradition as the Virgin Mary b
 ## see also
 
 - [[jesus]] · [[virgin-mary]] · [[joseph]] · [[gospels]] · [[crucifixion]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

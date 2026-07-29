@@ -15,6 +15,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -45,6 +46,12 @@ Rosh Hashanah marks the *Jewish New Year* and falls on the first and second days
 ## see also
 
 - [[yom-kippur]] · [[high-holy-days]] · [[judaism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

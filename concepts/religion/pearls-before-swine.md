@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -41,6 +42,12 @@ This phrase comes from Jesus' teaching in the Sermon on the Mount, warning again
 ## see also
 
 - [[ye-of-little-faith]] · [[good-samaritan]] · [[writing-on-the-wall]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -41,6 +42,12 @@ The Good Samaritan is a parable told by Jesus about a Samaritan who stops to hel
 ## see also
 
 - [[ye-of-little-faith]] · [[pearls-before-swine]] · [[sweat-of-your-brow]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

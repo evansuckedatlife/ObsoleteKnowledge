@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -47,6 +48,12 @@ Muhammad was the founding prophet of *Islam*, a religion that emerged in 7th-cen
 ## see also
 
 - [[abraham]] · [[jesus]] · [[guru-nanak]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

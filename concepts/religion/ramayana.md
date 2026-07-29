@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -41,6 +42,12 @@ The Ramayana is one of the two major Sanskrit epics of ancient India, alongside 
 ## see also
 
 - [[mahabharata]] · [[bhagavad-gita]] · [[vedas]] · [[upanishads]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -45,6 +46,12 @@ Bar mitzvah (son of commandment) and bat mitzvah (daughter of commandment) are c
 ## see also
 
 - [[jewish-baby-naming]] · [[jewish-confirmation]] · [[jewish-marriage]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

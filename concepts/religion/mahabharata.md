@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -42,6 +43,12 @@ The Mahabharata is one of the two major Sanskrit epics of ancient India, the oth
 ## see also
 
 - [[ramayana]] · [[bhagavad-gita]] · [[vedas]] · [[upanishads]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

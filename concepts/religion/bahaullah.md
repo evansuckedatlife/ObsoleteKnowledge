@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -45,6 +46,12 @@ Baháʼu'lláh (1817–1892), born Mirza Husayn-Ali, was the founder of the *Bah
 ## see also
 
 - [[joseph-smith]] · [[mary-baker-eddy]] · [[jesus]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

@@ -22,6 +22,13 @@ read: true
 # Torah
 
 
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
+
 ## summary
 
 The **Torah** is the central and most sacred text of Judaism, comprising the first five books of the Hebrew Bible: Genesis, Exodus, Leviticus, Numbers, and Deuteronomy. Also known as the *Pentateuch* or the Five Books of Moses, it contains the foundational narrative of the Jewish people, cosmic origins and divine law, as well as the 613 commandments (*mitzvot*) that govern Jewish practice and ethics. Believed by traditional Judaism to have been revealed by God to *Moses* at Mount Sinai, it forms the bedrock of Jewish theology, law, and identity. The Torah's status as the most authoritative Jewish text—above even the *Talmud*—shapes its central role in Jewish ritual, study, and spiritual life. Its narratives and laws have profoundly influenced Western culture, law, and ethics through Judaism, Christianity, and Islam.
@@ -60,6 +67,12 @@ The Torah's role in Jewish practice extends far beyond textual study: it is cere
 ## see also
 
 - [[talmud]] · [[moses]] · [[judaism]] · [[shavuot]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

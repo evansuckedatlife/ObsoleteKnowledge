@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -62,6 +63,12 @@ The Vedas occupy a unique position in world religions: they are simultaneously t
 ## see also
 
 - [[upanishads]] · [[bhagavad-gita]] · [[tao-te-ching]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

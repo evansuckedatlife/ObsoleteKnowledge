@@ -23,6 +23,7 @@ read: true
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -83,6 +84,12 @@ Christianity has been the dominant religious and cultural force in the West for 
 ## see also
 
 - [[jesus]] · [[gospels]] · [[virgin-mary]] · [[paul]] · [[judaism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

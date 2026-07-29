@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -43,6 +44,12 @@ The *Yijing* (or *I Ching*, "Book of Changes") is an ancient Chinese divination 
 ## see also
 
 - [[tao-te-ching]] · [[analects]] · [[vedas]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

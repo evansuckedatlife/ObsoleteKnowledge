@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -42,6 +43,12 @@ Reigning as pope from 1492 to 1503, **Alexander VI** (born Rodrigo Borgia) is th
 ## see also
 
 - [[innocent-iii]] · [[boniface-viii]] · [[julius-ii]] · [[leo-x]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

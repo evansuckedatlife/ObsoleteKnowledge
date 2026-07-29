@@ -13,6 +13,7 @@ read: false
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -45,6 +46,12 @@ The Twelve Apostles were the disciples chosen by Jesus to be his closest followe
 ## see also
 
 - [[peter]] · [[john-the-apostle]] · [[judas-iscariot]] · [[gospels]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs

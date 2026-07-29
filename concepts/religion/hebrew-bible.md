@@ -24,6 +24,7 @@ read: true
 
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
@@ -56,6 +57,12 @@ The Hebrew Bible, also known as the *Tanakh* (an acronym for its three divisions
 ## see also
 
 - [[torah]] · [[moses]] · [[david]] · [[judaism]] · [[christianity]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
 
 <!-- tournav -->
 ```dataviewjs
