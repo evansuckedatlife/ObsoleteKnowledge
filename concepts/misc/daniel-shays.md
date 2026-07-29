@@ -15,6 +15,7 @@ read: false
 # Daniel Shays
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

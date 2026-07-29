@@ -12,6 +12,7 @@ read: false
 # Largo al factotum
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

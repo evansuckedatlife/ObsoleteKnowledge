@@ -1,0 +1,58 @@
+---
+type: place
+category: geography
+defines: [Mediterranean Sea]
+related: ["[[ancient-greece]]", "[[rome]]", "[[egypt]]", "[[phoenicia]]", "[[ottoman-empire]]", "[[greece]]", "[[italy]]", "[[suez-canal]]"]
+requires: []
+lists: []
+tour_order: 0
+read: false
+---
+
+# Mediterranean Sea
+
+## summary
+
+The **Mediterranean Sea** is an inland sea bordered by *Europe*, *Asia Minor*, and *Africa*, connecting to the *Atlantic Ocean* via the *Strait of Gibraltar* and to the *Red Sea* through the *Suez Canal*. One of the world's most historically significant bodies of water, it was the cradle of multiple civilizations—*Phoenician*, *Greek*, *Roman*—and remains strategically and economically crucial to global commerce and geopolitics.
+
+## you gotta know
+
+- The sea covers roughly 2.5 million square kilometers and is surrounded by more than 20 countries; the *Nile River* and various smaller rivers feed it, though evaporation exceeds inflow, making it brackish in places.
+- *Ancient Greece* flourished on the Mediterranean's coasts and islands, with Greek city-states using it for trade, colonization, and naval warfare; the sea enabled the spread of Greek culture and philosophy throughout the *Classical* world.
+- The *Phoenicians* were legendary Mediterranean traders and navigators (1500–300 BCE), establishing colonies throughout the region and spreading their alphabet; they controlled maritime commerce and influenced Mediterranean civilization profoundly.
+- The *Roman Empire* rose to dominance partly through control of the Mediterranean, treating it as a *mare nostrum* ("our sea"); Roman naval power suppressed piracy and enabled the empire's expansion and trade.
+- *Egypt*, *Carthage*, *Constantinople*, and other Mediterranean powers rose and fell partly based on control of the sea; it was contested by *Ottomans*, *Venetians*, *Genoese*, and later *European* colonial powers.
+- The sea remains one of the world's busiest shipping routes, connecting *Europe* to *Asia* and *Africa*; roughly one-third of the world's maritime traffic passes through it annually, making it economically vital.
+- The *Mediterranean Climate*—characterized by dry summers and mild, wet winters—is unique globally and has shaped human settlement, agriculture (olives, grapes, citrus), and culture in surrounding regions.
+
+## connections
+
+- [[ancient-greece]] — the civilization that flourished on Mediterranean coasts.
+- [[rome]] — the empire that dominated the sea.
+- [[egypt]] — a Mediterranean power dependent on the sea for trade and defense.
+- [[phoenicia]] — the legendary maritime traders who mastered it.
+- [[ottoman-empire]] — the power that controlled it for centuries.
+- [[suez-canal]] — the artificial waterway connecting it to the Red Sea.
+- [[venice]] — the medieval city-state that rose through Mediterranean trade.
+
+## see also
+
+[[ancient-greece]] · [[rome]] · [[egypt]] · [[suez-canal]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
+
+<!-- footer -->
+
+---
+
+Lists:  · Mark read: `INPUT[toggle:read]`

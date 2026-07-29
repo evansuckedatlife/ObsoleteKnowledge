@@ -12,6 +12,7 @@ read: false
 # Che gelida manina
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

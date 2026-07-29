@@ -14,6 +14,7 @@ read: false
 # Miles Davis
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

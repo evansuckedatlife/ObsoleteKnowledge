@@ -14,6 +14,8 @@ aliases: [october-revolution]
 
 
 
+
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

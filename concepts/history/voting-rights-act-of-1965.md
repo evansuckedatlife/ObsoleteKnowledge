@@ -19,6 +19,8 @@ read: false
 # Voting Rights Act of 1965
 
 
+
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

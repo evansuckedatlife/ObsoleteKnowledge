@@ -17,6 +17,7 @@ read: false
 # John Adams Confusion
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

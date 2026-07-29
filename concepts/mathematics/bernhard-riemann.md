@@ -12,6 +12,7 @@ read: false
 # Bernhard Riemann
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

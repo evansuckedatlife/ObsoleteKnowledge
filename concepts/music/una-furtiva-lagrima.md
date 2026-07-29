@@ -12,6 +12,7 @@ read: false
 # Una furtiva lagrima
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

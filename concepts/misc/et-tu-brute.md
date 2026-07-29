@@ -15,6 +15,7 @@ read: false
 # Et tu, Brute?
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -14,6 +14,7 @@ read: false
 # Charles Mingus
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

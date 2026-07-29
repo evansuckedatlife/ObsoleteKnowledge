@@ -2,6 +2,7 @@
 type: person
 category: history
 defines: ["Lázaro Cárdenas"]
+aliases: ["lázaro-cardenas"]
 related: ["[[mexican-revolution]]", "[[emiliano-zapata]]", "[[benito-juarez]]"]
 requires: ["[[mexican-revolution]]"]
 lists: ["[[mexican-leaders]]"]
@@ -10,6 +11,8 @@ read: false
 ---
 
 # Lázaro Cárdenas
+
+
 
 
 

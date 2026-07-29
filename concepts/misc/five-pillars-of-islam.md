@@ -15,6 +15,7 @@ read: false
 # Five Pillars of Islam
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

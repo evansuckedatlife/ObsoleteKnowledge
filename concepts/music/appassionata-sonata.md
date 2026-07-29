@@ -12,6 +12,7 @@ read: false
 # Appassionata Sonata
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

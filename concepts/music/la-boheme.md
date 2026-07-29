@@ -12,6 +12,7 @@ read: false
 # La bohème
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

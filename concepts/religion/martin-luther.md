@@ -12,6 +12,7 @@ read: false
 # Martin Luther
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

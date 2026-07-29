@@ -19,6 +19,8 @@ read: false
 # Soviet Intelligence
 
 
+
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -18,6 +18,8 @@ read: false
 # 13th Amendment
 
 
+
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

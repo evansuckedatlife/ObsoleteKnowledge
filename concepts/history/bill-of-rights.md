@@ -19,6 +19,8 @@ read: false
 # Bill of Rights
 
 
+
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

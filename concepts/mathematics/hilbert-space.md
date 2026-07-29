@@ -12,6 +12,7 @@ read: false
 # Hilbert Space
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

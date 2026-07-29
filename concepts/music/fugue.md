@@ -13,6 +13,7 @@ read: false
 # Fugue
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

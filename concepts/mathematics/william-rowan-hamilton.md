@@ -12,6 +12,7 @@ read: false
 # William Rowan Hamilton
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

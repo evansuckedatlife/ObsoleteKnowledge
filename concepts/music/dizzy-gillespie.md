@@ -15,6 +15,7 @@ read: false
 # Dizzy Gillespie
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

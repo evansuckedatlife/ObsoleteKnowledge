@@ -2,6 +2,7 @@
 type: person
 category: history
 defines: [Richard I, Richard the Lionheart, Richard Coeur de Lion]
+aliases: [richard-the-lionheart]
 related: ["[[henry-ii]]", "[[king-john]]", "[[saladin]]", "[[third-crusade]]", "[[france]]"]
 requires: ["[[crusades]]"]
 lists: ["[[british-monarchs]]"]
@@ -10,6 +11,8 @@ read: false
 ---
 
 # Richard I
+
+
 
 
 

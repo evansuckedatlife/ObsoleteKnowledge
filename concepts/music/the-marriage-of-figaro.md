@@ -12,6 +12,7 @@ read: false
 # The Marriage of Figaro
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

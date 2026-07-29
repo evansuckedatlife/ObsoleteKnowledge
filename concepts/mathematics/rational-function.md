@@ -12,6 +12,7 @@ read: false
 # Rational Function
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

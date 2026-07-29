@@ -14,6 +14,7 @@ read: false
 # Space Complexity
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -15,6 +15,7 @@ read: false
 # Frankenstein Authorship Myth
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

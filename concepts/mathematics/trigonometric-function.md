@@ -12,6 +12,7 @@ read: false
 # Trigonometric Function
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

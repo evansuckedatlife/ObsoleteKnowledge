@@ -12,6 +12,7 @@ read: false
 # The Magic Flute
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

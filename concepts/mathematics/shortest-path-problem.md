@@ -13,6 +13,7 @@ read: false
 # Shortest Path Problem
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -13,6 +13,7 @@ read: false
 # Circle of Fifths
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

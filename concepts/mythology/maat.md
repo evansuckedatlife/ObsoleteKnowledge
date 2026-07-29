@@ -2,6 +2,7 @@
 type: deity
 category: mythology
 defines: [Ma'at, Maat]
+aliases: ["ma'at"]
 related: ["[[thoth]]", "[[osiris]]", "[[ra]]"]
 requires: ["[[ra]]"]
 lists: ["[[egyptian-deities]]"]
@@ -10,6 +11,7 @@ read: false
 ---
 
 # Ma'at
+
 
 
 

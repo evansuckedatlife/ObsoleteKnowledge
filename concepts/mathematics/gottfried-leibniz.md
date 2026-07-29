@@ -13,6 +13,7 @@ aliases: [leibniz]
 # Gottfried Leibniz
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

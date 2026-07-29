@@ -12,6 +12,7 @@ read: false
 # Pierre de Fermat
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

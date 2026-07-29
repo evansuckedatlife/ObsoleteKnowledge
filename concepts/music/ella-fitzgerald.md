@@ -15,6 +15,7 @@ read: false
 # Ella Fitzgerald
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

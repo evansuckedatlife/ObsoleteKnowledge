@@ -13,6 +13,7 @@ read: false
 # Key Signature
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -1,0 +1,58 @@
+---
+type: concept
+category: music
+defines: [Tenor]
+related: ["[[voice-classification]]", "[[opera]]", "[[male-vocals]]", "[[soprano]]", "[[baritone]]", "[[castrato]]"]
+requires: []
+lists: []
+tour_order: 0
+read: false
+---
+
+# Tenor
+
+## summary
+
+A **tenor** is a male singing voice with a range roughly from the C below middle C to the A two octaves above, sitting between the lower baritone and the falsetto-dependent countertenor. The tenor is the principal male vocal type in opera, oratorio, and classical music, capable of lyrical expression and dramatic power.
+
+## you gotta know
+
+- Tenors are subdivided into types: *lyric tenor* (lighter, more agile, suited to romantic roles), *dramatic tenor* (heavier, more powerful, for heroic roles), and *heldentenor* (German dramatic tenor for Wagnerian roles).
+- Opera features some of the most celebrated tenor arias—*Puccini*'s "La donna è mobile" from *Rigoletto* and "Nessun dorma" from *Turandot* are among the most beloved in the tenor repertoire.
+- The tenor voice was prized in European opera from its emergence in the 17th century; before the decline of *castrato* singers, castrati (artificially high male voices) often sang soprano and alto roles while natural tenors sang secondary parts.
+- Famous operatic tenors include *Luciano Pavarotti*, *José Carreras*, and *Plácido Domingo*; these three formed the "Three Tenors" supergroup, which brought opera to mainstream audiences in the 1990s.
+- In jazz and popular music, the tenor voice appears in crooning (Frank Sinatra) and soul music; the term is also used in instrumental music (tenor saxophone, tenor trombone) to denote the middle-range instrument of a family.
+- The tenor voice sits naturally above the baritone but below the countertenor; it has a resonance suited to both lyrical expression and dramatic projection over orchestral accompaniment.
+- Tenor voices are particularly associated with heroic and romantic operatic roles—princes, lovers, warriors—because the voice conveys both vulnerability and strength.
+
+## connections
+
+- [[opera]] — the primary context for tenor singing.
+- [[voice-classification]] — tenor is one of the major voice types.
+- [[soprano]] — the highest principal vocal type, often paired with tenor in duets.
+- [[baritone]] — the lower male voice type.
+- [[castrato]] — historically, high male voices that predated and competed with tenors.
+- [[luciano-pavarotti]] — one of the most celebrated tenors of the 20th century.
+- [[male-vocals]] — broader category encompassing tenor, baritone, bass.
+
+## see also
+
+- [[opera]] · [[voice-classification]] · [[soprano]] · [[baritone]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
+
+<!-- footer -->
+
+---
+
+Lists:  · Mark read: `INPUT[toggle:read]`

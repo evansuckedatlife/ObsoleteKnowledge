@@ -12,6 +12,7 @@ read: false
 # Mozart piano sonatas
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

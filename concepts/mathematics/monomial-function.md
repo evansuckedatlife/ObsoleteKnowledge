@@ -12,6 +12,7 @@ read: false
 # Monomial
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

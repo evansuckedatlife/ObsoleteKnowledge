@@ -14,6 +14,8 @@ aliases: [womens-liberation, womens-rights-movement]
 
 
 
+
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

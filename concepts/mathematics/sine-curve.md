@@ -12,6 +12,7 @@ read: false
 # Sine curve
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

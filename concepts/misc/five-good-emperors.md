@@ -15,6 +15,7 @@ read: false
 # Five Good Emperors
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

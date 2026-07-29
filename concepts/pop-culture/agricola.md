@@ -14,6 +14,7 @@ read: false
 # Agricola
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -16,6 +16,7 @@ read: false
 # Pentateuch
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

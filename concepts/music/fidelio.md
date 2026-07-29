@@ -12,6 +12,7 @@ read: false
 # Fidelio
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

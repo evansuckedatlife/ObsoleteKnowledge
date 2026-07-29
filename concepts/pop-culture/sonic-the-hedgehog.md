@@ -15,6 +15,7 @@ read: false
 # Sonic the Hedgehog
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

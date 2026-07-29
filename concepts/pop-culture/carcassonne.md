@@ -14,6 +14,7 @@ read: false
 # Carcassonne
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

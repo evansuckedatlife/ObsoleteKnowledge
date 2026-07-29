@@ -12,6 +12,7 @@ read: false
 # Così fan tutte
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

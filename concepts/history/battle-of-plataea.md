@@ -15,6 +15,8 @@ aliases: [plataea]
 
 
 
+
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

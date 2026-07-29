@@ -12,6 +12,7 @@ read: false
 # Exponential Function
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -12,6 +12,7 @@ read: false
 # Continuity
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

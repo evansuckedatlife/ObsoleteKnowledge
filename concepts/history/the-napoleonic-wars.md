@@ -19,6 +19,8 @@ read: false
 # The Napoleonic Wars
 
 
+
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

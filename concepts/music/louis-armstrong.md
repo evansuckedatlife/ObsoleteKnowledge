@@ -15,6 +15,7 @@ read: false
 # Louis Armstrong
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

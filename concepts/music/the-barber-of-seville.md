@@ -12,6 +12,7 @@ read: false
 # The Barber of Seville
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

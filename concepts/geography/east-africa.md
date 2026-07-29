@@ -1,0 +1,58 @@
+---
+type: place
+category: geography
+defines: [East Africa]
+related: ["[[kenya]]", "[[ethiopia]]", "[[tanzania]]", "[[uganda]]", "[[somalia]]", "[[east-african-rift]]", "[[mount-kilimanjaro]]", "[[lake-victoria]]"]
+requires: []
+lists: []
+tour_order: 0
+read: false
+---
+
+# East Africa
+
+## summary
+
+**East Africa** is a subregion encompassing *Kenya*, *Tanzania*, *Uganda*, *Ethiopia*, *Somalia*, *Eritrea*, and nearby territories, characterized by the *East African Rift Valley*, diverse wildlife, varied climates, and a history of indigenous kingdoms, Islamic sultanates, colonialism, and postcolonial nation-building. It remains a center of geopolitical attention and ecological significance.
+
+## you gotta know
+
+- The *East African Rift Valley* is a massive geological feature running roughly 6,000 km from *Syria* through *East Africa* to *Mozambique*, characterized by dramatic escarpments, volcanoes, and rift lakes; it is a site of ongoing tectonic activity and human habitation.
+- *Mount Kilimanjaro* (5,895 m), Africa's highest mountain, rises in northern *Tanzania* and is iconic in world geography; it is a dormant volcano and a major destination for mountaineers.
+- *Lake Victoria*, the world's second-largest freshwater lake, straddles *Tanzania*, *Uganda*, and *Kenya*, and supports millions of people dependent on its fish stocks; the *Nile River* originates from it.
+- *Ethiopia* has an ancient Christian kingdom history (one of the oldest Christian nations, converted in the 4th century) and uniquely resisted European colonization, except for a brief *Italian* occupation (1936–41); it has a distinct cultural and religious identity.
+- *Kenya* was a major colonial territory under *Britain*, home to the *Kikuyu* and other ethnic groups; independence (1964) and Cold War competition shaped its politics; it has become a regional economic and diplomatic hub.
+- The region is famous for its megafauna: lions, elephants, zebras, giraffes, and wildebeest; the *Serengeti*, *Masai Mara*, and *Amboseli* are world-renowned wildlife reserves that attract global ecotourism.
+- Post-independence, East Africa has experienced political instability (military coups, authoritarian regimes), ethnic conflict (*Rwanda* genocide, *Somali* civil war), and terrorism (especially *Al-Shabaab*); some countries like *Kenya* and *Tanzania* have achieved relative stability.
+
+## connections
+
+- [[kenya]] — the region's most developed country and colonial hub.
+- [[ethiopia]] — an ancient Christian kingdom that resisted colonization.
+- [[tanzania]] — home to Mount Kilimanjaro and the Serengeti.
+- [[east-african-rift]] — the geological feature defining the region's landscape.
+- [[mount-kilimanjaro]] — Africa's tallest peak, defining geographical landmark.
+- [[lake-victoria]] — the massive freshwater lake central to the region's ecology.
+- [[uganda]] — a landlocked country with complex post-colonial history.
+
+## see also
+
+[[kenya]] · [[ethiopia]] · [[tanzania]] · [[mount-kilimanjaro]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
+
+<!-- footer -->
+
+---
+
+Lists:  · Mark read: `INPUT[toggle:read]`

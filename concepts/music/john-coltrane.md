@@ -14,6 +14,7 @@ read: false
 # John Coltrane
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

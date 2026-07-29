@@ -14,6 +14,7 @@ read: false
 # Scythe
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

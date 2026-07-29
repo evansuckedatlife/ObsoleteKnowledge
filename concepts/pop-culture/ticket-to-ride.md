@@ -14,6 +14,7 @@ read: false
 # Ticket to Ride
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

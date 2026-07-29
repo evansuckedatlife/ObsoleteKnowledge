@@ -12,6 +12,7 @@ read: false
 # Chord Progression
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

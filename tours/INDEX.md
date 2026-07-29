@@ -9,30 +9,30 @@ Foundations-first reading paths. Each tour orders its nodes by `tour_order`, so 
 
 | Category | Tours | Nodes | Read |
 |---|---|---|---|
-| **geography** | 7 | 102 | 2/102 |
-| **history** | 54 | 634 | 9/634 |
-| **literature** | 26 | 285 | 10/285 |
-| **mathematics** | 7 | 102 | 6/102 |
+| **geography** | 7 | 113 | 2/113 |
+| **history** | 54 | 687 | 9/687 |
+| **literature** | 26 | 307 | 10/307 |
+| **mathematics** | 7 | 107 | 6/107 |
 | **misc** | 5 | 53 | 0/53 |
-| **music** | 14 | 129 | 0/129 |
-| **mythology** | 9 | 107 | 9/107 |
+| **music** | 14 | 137 | 0/137 |
+| **mythology** | 9 | 112 | 9/112 |
 | **performance** | 6 | 48 | 0/48 |
-| **philosophy** | 3 | 33 | 2/33 |
-| **pop-culture** | 8 | 87 | 1/87 |
-| **religion** | 9 | 107 | 9/107 |
-| **science** | 26 | 311 | 19/311 |
-| **social-science** | 10 | 107 | 0/107 |
-| **sports** | 8 | 85 | 3/85 |
-| **visual-art** | 12 | 120 | 0/120 |
-| _total_ | _204_ | _2310_ | _70/2310_ |
+| **philosophy** | 3 | 37 | 2/37 |
+| **pop-culture** | 8 | 88 | 1/88 |
+| **religion** | 9 | 114 | 9/114 |
+| **science** | 26 | 325 | 19/325 |
+| **social-science** | 10 | 109 | 0/109 |
+| **sports** | 8 | 86 | 3/86 |
+| **visual-art** | 12 | 124 | 0/124 |
+| _total_ | _204_ | _2447_ | _70/2447_ |
 
-*Node counts are tour memberships, not unique notes — a node belonging to two lists appears in both tours. The vault holds 2271 unique concept notes.*
+*Node counts are tour memberships, not unique notes — a node belonging to two lists appears in both tours. The vault holds 2408 unique concept notes.*
 
 ## geography
 
 | Tour | Items | Read | Depth |
 |---|---|---|---|
-| [[geography-core|Core spine]] | 33 | 1/33 | 1 |
+| [[geography-core|Core spine]] | 44 | 1/44 | 1 |
 | [[african-bodies-of-water|African bodies of water]] | 11 | 1/11 | 1 |
 | [[asian-rivers|Asian rivers]] | 10 | 0/10 | 1 |
 | [[deserts|deserts]] | 13 | 0/13 | 1 |
@@ -44,7 +44,7 @@ Foundations-first reading paths. Each tour orders its nodes by `tour_order`, so 
 
 | Tour | Items | Read | Depth |
 |---|---|---|---|
-| [[history-core|Core spine]] | 94 | 5/94 | 3 |
+| [[history-core|Core spine]] | 147 | 5/147 | 3 |
 | [[20th-century-african-leaders|20th-century African leaders]] | 10 | 0/10 | 1 |
 | [[20th-century-middle-eastern-leaders|20th-century Middle Eastern leaders]] | 11 | 0/11 | 1 |
 | [[african-american-civil-rights-leaders|African-American civil rights leaders]] | 11 | 2/11 | 2 |
@@ -103,7 +103,7 @@ Foundations-first reading paths. Each tour orders its nodes by `tour_order`, so 
 
 | Tour | Items | Read | Depth |
 |---|---|---|---|
-| [[literature-core|Core spine]] | 38 | 0/38 | 1 |
+| [[literature-core|Core spine]] | 60 | 0/60 | 2 |
 | [[20th-century-newbery-medal-winners|20th-century Newbery Medal winners]] | 10 | 0/10 | 1 |
 | [[african-american-authors|African-American authors]] | 13 | 9/13 | 2 |
 | [[american-plays|American plays]] | 10 | 0/10 | 1 |
@@ -134,7 +134,7 @@ Foundations-first reading paths. Each tour orders its nodes by `tour_order`, so 
 
 | Tour | Items | Read | Depth |
 |---|---|---|---|
-| [[mathematics-core|Core spine]] | 42 | 4/42 | 8 |
+| [[mathematics-core|Core spine]] | 47 | 4/47 | 8 |
 | [[classifications-of-functions|classifications of mathematical functions]] | 10 | 0/10 | 5 |
 | [[geometric-curves|geometric curves]] | 10 | 0/10 | 2 |
 | [[calculus-ideas|ideas from calculus]] | 10 | 1/10 | 2 |
@@ -156,7 +156,7 @@ Foundations-first reading paths. Each tour orders its nodes by `tour_order`, so 
 
 | Tour | Items | Read | Depth |
 |---|---|---|---|
-| [[music-core|Core spine]] | 10 | 0/10 | 1 |
+| [[music-core|Core spine]] | 18 | 0/18 | 1 |
 | [[20th-century-composers|20th-century composers]] | 12 | 0/12 | 0 |
 | [[american-composers|American composers]] | 10 | 0/10 | 0 |
 | [[arias|arias]] | 10 | 0/10 | 2 |
@@ -175,7 +175,7 @@ Foundations-first reading paths. Each tour orders its nodes by `tour_order`, so 
 
 | Tour | Items | Read | Depth |
 |---|---|---|---|
-| [[mythology-core|Core spine]] | 15 | 0/15 | 2 |
+| [[mythology-core|Core spine]] | 20 | 0/20 | 2 |
 | [[arthurian-characters|Arthurian characters]] | 10 | 0/10 | 1 |
 | [[egyptian-deities|Egyptian deities]] | 13 | 0/13 | 2 |
 | [[greek-heroes|Greek heroes]] | 10 | 1/10 | 1 |
@@ -200,7 +200,7 @@ Foundations-first reading paths. Each tour orders its nodes by `tour_order`, so 
 
 | Tour | Items | Read | Depth |
 |---|---|---|---|
-| [[philosophy-core|Core spine]] | 13 | 2/13 | 4 |
+| [[philosophy-core|Core spine]] | 17 | 2/17 | 4 |
 | [[ancient-philosophers|ancient philosophers]] | 10 | 0/10 | 3 |
 | [[schools-of-western-philosophy|schools of Western philosophy]] | 10 | 0/10 | 4 |
 
@@ -208,7 +208,7 @@ Foundations-first reading paths. Each tour orders its nodes by `tour_order`, so 
 
 | Tour | Items | Read | Depth |
 |---|---|---|---|
-| [[pop-culture-core|Core spine]] | 17 | 0/17 | 1 |
+| [[pop-culture-core|Core spine]] | 18 | 0/18 | 1 |
 | [[classic-american-television-series|classic American television series]] | 10 | 0/10 | 1 |
 | [[landmark-20th-century-american-sitcoms|landmark 20th-century American sitcoms]] | 10 | 0/10 | 2 |
 | [[modern-board-games|modern board games]] | 10 | 0/10 | 2 |
@@ -221,7 +221,7 @@ Foundations-first reading paths. Each tour orders its nodes by `tour_order`, so 
 
 | Tour | Items | Read | Depth |
 |---|---|---|---|
-| [[religion-core|Core spine]] | 25 | 6/25 | 3 |
+| [[religion-core|Core spine]] | 32 | 6/32 | 3 |
 | [[biblical-sayings|Biblical sayings]] | 10 | 2/10 | 4 |
 | [[hebrew-bible-characters|characters in the Hebrew Bible]] | 10 | 0/10 | 3 |
 | [[founders-of-religious-traditions|founders of religious traditions]] | 10 | 0/10 | 3 |
@@ -235,7 +235,7 @@ Foundations-first reading paths. Each tour orders its nodes by `tour_order`, so 
 
 | Tour | Items | Read | Depth |
 |---|---|---|---|
-| [[science-core|Core spine]] | 50 | 0/50 | 8 |
+| [[science-core|Core spine]] | 64 | 0/64 | 8 |
 | [[20th-century-physicists|20th-century physicists]] | 10 | 0/10 | 3 |
 | [[active-volcanoes|active volcanoes]] | 11 | 11/11 | 0 |
 | [[phyla|animal phyla]] | 10 | 0/10 | 1 |
@@ -266,7 +266,7 @@ Foundations-first reading paths. Each tour orders its nodes by `tour_order`, so 
 
 | Tour | Items | Read | Depth |
 |---|---|---|---|
-| [[social-science-core|Core spine]] | 12 | 0/12 | 4 |
+| [[social-science-core|Core spine]] | 14 | 0/14 | 4 |
 | [[accents-and-dialects-of-english|accents and dialects of English]] | 10 | 0/10 | 1 |
 | [[anthropologists|anthropologists]] | 10 | 0/10 | 4 |
 | [[archaeological-sites|archaeological sites]] | 11 | 0/11 | 0 |
@@ -281,7 +281,7 @@ Foundations-first reading paths. Each tour orders its nodes by `tour_order`, so 
 
 | Tour | Items | Read | Depth |
 |---|---|---|---|
-| [[sports-core|Core spine]] | 5 | 0/5 | 0 |
+| [[sports-core|Core spine]] | 6 | 0/6 | 1 |
 | [[21st-century-quarterbacks|21st-century quarterbacks]] | 10 | 0/10 | 1 |
 | [[golfers|golfers]] | 15 | 0/15 | 3 |
 | [[hockey-hall-of-famers|Hockey Hall of Famers]] | 10 | 0/10 | 1 |
@@ -294,7 +294,7 @@ Foundations-first reading paths. Each tour orders its nodes by `tour_order`, so 
 
 | Tour | Items | Read | Depth |
 |---|---|---|---|
-| [[visual-art-core|Core spine]] | 7 | 0/7 | 1 |
+| [[visual-art-core|Core spine]] | 11 | 0/11 | 1 |
 | [[20th-century-paintings|20th-century paintings]] | 10 | 0/10 | 2 |
 | [[architects|architects]] | 12 | 0/12 | 1 |
 | [[art-museums|art museums]] | 10 | 0/10 | 0 |

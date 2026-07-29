@@ -2,6 +2,7 @@
 type: concept
 category: history
 defines: ["House of Habsburg", "House of Hapsburg", "Habsburg Dynasty"]
+aliases: [habsburg-dynasty]
 related: ["[[holy-roman-empire]]", "[[austro-hungarian-empire]]", "[[charles-v]]", "[[maria-theresa]]", "[[franz-ferdinand]]"]
 requires: []
 lists:

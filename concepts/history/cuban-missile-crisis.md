@@ -18,6 +18,8 @@ read: false
 # Cuban Missile Crisis
 
 
+
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

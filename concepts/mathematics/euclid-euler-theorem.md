@@ -12,6 +12,7 @@ read: false
 # Euclid–Euler Theorem
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

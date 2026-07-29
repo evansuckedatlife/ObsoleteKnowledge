@@ -12,6 +12,7 @@ read: false
 # Resurrection
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

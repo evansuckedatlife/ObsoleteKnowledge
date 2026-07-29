@@ -15,6 +15,7 @@ read: false
 # Duke Ellington
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

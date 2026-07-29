@@ -14,6 +14,7 @@ read: false
 # Thelonious Monk
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

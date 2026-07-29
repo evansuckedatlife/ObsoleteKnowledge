@@ -16,6 +16,7 @@ read: false
 # Bloody Mary Confusion
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

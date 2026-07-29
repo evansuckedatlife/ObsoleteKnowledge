@@ -18,6 +18,8 @@ read: false
 # War of 1812
 
 
+
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

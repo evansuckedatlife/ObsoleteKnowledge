@@ -16,6 +16,7 @@ read: false
 # The Merchant of Venice and Antisemitism
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

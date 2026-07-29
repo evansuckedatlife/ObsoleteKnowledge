@@ -12,6 +12,7 @@ read: false
 # Boris Godunov (opera)
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

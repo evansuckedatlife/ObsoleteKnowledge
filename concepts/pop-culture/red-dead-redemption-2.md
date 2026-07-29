@@ -16,6 +16,7 @@ read: false
 # Red Dead Redemption 2
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -13,6 +13,7 @@ read: false
 # Traveling Salesman Problem
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -14,6 +14,7 @@ read: false
 # Puerto Rico
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -16,6 +16,7 @@ read: false
 # Shogatsu
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -20,6 +20,7 @@ read: false
 # Hades
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

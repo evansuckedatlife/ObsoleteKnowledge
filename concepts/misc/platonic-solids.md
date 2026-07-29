@@ -16,6 +16,7 @@ read: false
 # Platonic Solids
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

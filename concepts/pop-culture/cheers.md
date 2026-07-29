@@ -13,6 +13,7 @@ read: false
 # Cheers
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

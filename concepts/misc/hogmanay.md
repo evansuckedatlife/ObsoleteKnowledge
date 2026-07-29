@@ -15,6 +15,7 @@ read: false
 # Hogmanay
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
