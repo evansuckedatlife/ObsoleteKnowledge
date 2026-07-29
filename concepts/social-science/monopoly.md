@@ -5,11 +5,12 @@ defines: [Monopoly]
 related: ["[[supply-and-demand]]", "[[perfect-competition]]", "[[barrier-to-entry]]", "[[deadweight-loss]]", "[[antitrust]]"]
 requires: ["[[perfect-competition]]"]
 lists: ["[[economic-concepts]]"]
-tour_order: 1
+tour_order: 3
 read: false
 ---
 
 # Monopoly
+
 
 
 <!-- foundations -->

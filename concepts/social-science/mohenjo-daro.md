@@ -3,7 +3,7 @@ type: place
 category: social-science
 defines:
   - Mohenjo-daro
-related: ["[[indus-valley-civilization]]", "[[pakistan]]", "[[harappa]]"]
+related: ["[[indus-valley-civilization]]", "[[pakistan]]", "[[harappa]]", "[[ottoman-empire]]", "[[india]]"]
 requires: []
 lists:
   - "[[archaeological-sites]]"

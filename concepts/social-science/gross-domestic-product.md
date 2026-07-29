@@ -2,14 +2,21 @@
 type: concept
 category: social-science
 defines: [Gross Domestic Product, GDP, GNP]
-related: ["[[national-income]]", "[[economic-growth]]", "[[inflation]]", "[[expenditure-approach]]"]
-requires: []
+related: ["[[national-income]]", "[[economic-growth]]", "[[inflation]]", "[[expenditure-approach]]", "[[industrial-revolution]]", "[[enlightenment]]", "[[great-depression]]"]
+requires: ["[[adam-smith]]", "[[factors-of-production]]"]
 lists: ["[[economic-concepts]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Gross Domestic Product
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

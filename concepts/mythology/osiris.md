@@ -12,6 +12,7 @@ read: false
 # Osiris
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

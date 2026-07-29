@@ -2,14 +2,21 @@
 type: work
 category: performance
 defines: [La Bayadère, "The Bayadère"]
-related: ["[[petipa]]", "[[indian-culture]]", "[[india]]"]
-requires: []
+related: ["[[petipa]]", "[[indian-culture]]", "[[india]]", "[[hinduism]]"]
+requires: ["[[ballet]]"]
 lists: ["[[ballets-2]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # La Bayadère
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

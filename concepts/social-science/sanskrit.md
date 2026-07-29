@@ -12,6 +12,7 @@ read: false
 # Sanskrit
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

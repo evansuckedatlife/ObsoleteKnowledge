@@ -12,6 +12,7 @@ read: false
 # Aten
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

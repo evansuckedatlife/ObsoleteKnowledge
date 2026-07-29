@@ -3,7 +3,7 @@ type: work
 category: performance
 defines:
   - Carousel
-related: ["[[rodgers-and-hammerstein]]", "[[oklahoma]]", "[[the-sound-of-music]]", "[[modernism]]"]
+related: ["[[rodgers-and-hammerstein]]", "[[oklahoma]]", "[[the-sound-of-music]]", "[[modernism]]", "[[world-war-ii]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[musicals-part-1]]"

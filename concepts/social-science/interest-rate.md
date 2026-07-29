@@ -2,14 +2,21 @@
 type: concept
 category: social-science
 defines: [Interest Rate, nominal rate, real rate]
-related: ["[[inflation]]", "[[monetary-policy]]", "[[time-value-of-money]]", "[[discount-rate]]"]
-requires: []
+related: ["[[inflation]]", "[[monetary-policy]]", "[[time-value-of-money]]", "[[discount-rate]]", "[[enlightenment]]", "[[industrial-revolution]]", "[[british-empire]]"]
+requires: ["[[supply-and-demand]]", "[[adam-smith]]"]
 lists: ["[[economic-concepts]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Interest Rate
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

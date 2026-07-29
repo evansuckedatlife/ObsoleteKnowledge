@@ -3,7 +3,7 @@ type: work
 category: pop-culture
 defines:
   - On the Waterfront
-related: ["[[elia-kazan]]", "[[marlon-brando]]", "[[eva-marie-saint]]"]
+related: ["[[elia-kazan]]", "[[marlon-brando]]", "[[eva-marie-saint]]", "[[industrial-revolution]]"]
 requires: []
 lists:
   - "[[pre-1960s-movies]]"

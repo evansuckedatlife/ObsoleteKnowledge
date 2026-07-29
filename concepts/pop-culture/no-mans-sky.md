@@ -4,7 +4,7 @@ category: pop-culture
 defines:
   - "No Man's Sky"
   - No Mans Sky
-related: ["[[minecraft]]", "[[subnautica]]"]
+related: ["[[minecraft]]", "[[subnautica]]", "[[space-race]]", "[[nasa]]"]
 requires: []
 lists:
   - "[[sandbox-and-open-world-video-games]]"

@@ -2,14 +2,21 @@
 type: person
 category: social-science
 defines: ["Sigmund Freud", Freud]
-related: ["[[carl-jung]]", "[[psychoanalysis]]", "[[unconscious-mind]]", "[[defense-mechanisms]]", "[[oedipus-complex]]"]
-requires: []
+related: ["[[carl-jung]]", "[[psychoanalysis]]", "[[unconscious-mind]]", "[[defense-mechanisms]]", "[[oedipus-complex]]", "[[existentialism]]", "[[modernism]]", "[[consciousness]]", "[[pragmatism]]"]
+requires: ["[[william-james]]", "[[wilhelm-wundt]]"]
 lists: ["[[psychologists]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Sigmund Freud
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

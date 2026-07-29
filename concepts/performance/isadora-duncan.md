@@ -3,13 +3,20 @@ type: person
 category: performance
 defines: [Isadora Duncan, Angela Isadora Duncan]
 related: ["[[modern-dance]]", "[[classical-ballet]]", "[[ancient-greece]]", "[[natural-movement]]", "[[modernism]]", "[[france]]"]
-requires: []
+requires: ["[[ballet]]"]
 lists: ["[[choreographers]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Isadora Duncan
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

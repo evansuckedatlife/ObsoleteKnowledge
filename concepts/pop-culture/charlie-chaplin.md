@@ -12,6 +12,7 @@ read: false
 # Charlie Chaplin
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

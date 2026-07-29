@@ -5,7 +5,7 @@ defines:
   - Star Trek
   - "Star Trek: The Original Series"
   - TOS
-related: ["[[gene-roddenberry]]", "[[spock]]", "[[kirk]]", "[[science-fiction-television]]", "[[science-fiction]]"]
+related: ["[[gene-roddenberry]]", "[[spock]]", "[[kirk]]", "[[science-fiction-television]]", "[[science-fiction]]", "[[space-race]]", "[[nasa]]"]
 requires: []
 lists:
   - "[[classic-american-television-series]]"

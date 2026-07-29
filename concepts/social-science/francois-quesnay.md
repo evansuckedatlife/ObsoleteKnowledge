@@ -2,14 +2,21 @@
 type: person
 category: social-science
 defines: ["François Quesnay"]
-related: ["[[adam-smith]]", "[[physiocrats]]", "[[enlightenment]]"]
-requires: []
+related: ["[[adam-smith]]", "[[physiocrats]]", "[[enlightenment]]", "[[france]]", "[[renaissance]]", "[[french-revolution]]"]
+requires: ["[[adam-smith]]"]
 lists: ["[[economists]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # François Quesnay
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

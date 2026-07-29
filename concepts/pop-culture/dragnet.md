@@ -3,7 +3,7 @@ type: work
 category: pop-culture
 defines:
   - Dragnet
-related: ["[[jack-webb]]", "[[police-procedural]]", "[[television-drama]]"]
+related: ["[[jack-webb]]", "[[police-procedural]]", "[[television-drama]]", "[[cold-war]]"]
 requires: []
 lists:
   - "[[classic-american-television-series]]"

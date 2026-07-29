@@ -12,6 +12,7 @@ read: false
 # The Jazz Singer
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

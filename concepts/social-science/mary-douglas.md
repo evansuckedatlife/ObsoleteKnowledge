@@ -4,15 +4,22 @@ category: social-science
 defines:
   - Mary Douglas
   - Mary Tew Douglas
-related: ["[[purity-and-danger]]", "[[ritual]]", "[[classification]]"]
-requires: []
+related: ["[[purity-and-danger]]", "[[ritual]]", "[[classification]]", "[[christianity]]", "[[existentialism]]"]
+requires: ["[[franz-boas]]", "[[bronislaw-malinowski]]"]
 lists:
   - "[[anthropologists]]"
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Mary Douglas
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -12,6 +12,7 @@ read: false
 # Pharaoh
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

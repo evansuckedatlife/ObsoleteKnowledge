@@ -14,6 +14,7 @@ read: false
 # Steven Pinker
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

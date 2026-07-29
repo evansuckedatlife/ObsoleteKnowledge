@@ -3,7 +3,7 @@ type: place
 category: social-science
 defines:
   - Chichén Itzá
-related: ["[[maya-civilization]]", "[[mexico]]", "[[mesoamerica]]"]
+related: ["[[maya-civilization]]", "[[mexico]]", "[[mesoamerica]]", "[[age-of-exploration]]", "[[christopher-columbus]]", "[[ancient-greece]]", "[[ottoman-empire]]"]
 requires: []
 lists:
   - "[[archaeological-sites]]"

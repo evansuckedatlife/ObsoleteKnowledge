@@ -6,11 +6,12 @@ related: ["[[pavlovs-classical-conditioning]]", "[[john-b-watson]]", "[[fear-con
 requires: ["[[pavlovs-classical-conditioning]]"]
 lists:
   - "[[psychological-experiments]]"
-tour_order: 1
+tour_order: 3
 read: false
 ---
 
 # The Little Albert Experiment
+
 
 
 <!-- foundations -->

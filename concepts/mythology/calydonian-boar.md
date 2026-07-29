@@ -2,7 +2,7 @@
 type: monster
 category: mythology
 defines: [Calydonian Boar]
-related: ["[[atalanta]]", "[[jason]]", "[[artemis]]", "[[phidias]]"]
+related: ["[[atalanta]]", "[[jason]]", "[[artemis]]", "[[phidias]]", "[[william-shakespeare]]"]
 requires: []
 lists: ["[[greek-mythological-monsters]]"]
 tour_order: 0

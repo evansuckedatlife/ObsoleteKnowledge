@@ -5,14 +5,21 @@ defines:
   - Saturday Night Live
   - SNL
 related: ["[[lorne-michaels]]", "[[sketch-comedy]]", "[[live-television]]"]
-requires: []
+requires: ["[[vaudeville]]"]
 lists:
   - "[[classic-american-television-series]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Saturday Night Live
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

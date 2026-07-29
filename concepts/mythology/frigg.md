@@ -15,6 +15,7 @@ read: true
 # Frigg
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

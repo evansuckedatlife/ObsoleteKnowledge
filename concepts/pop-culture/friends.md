@@ -2,15 +2,22 @@
 type: work
 category: pop-culture
 defines: ["Friends"]
-related: ["[[seinfeld]]", "[[the-cosby-show]]", "[[jennifer-aniston]]"]
-requires: []
+related: ["[[seinfeld]]", "[[the-cosby-show]]", "[[jennifer-aniston]]", "[[new-york-city]]"]
+requires: ["[[the-mary-tyler-moore-show]]"]
 lists:
   - "[[landmark-20th-century-american-sitcoms]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Friends
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

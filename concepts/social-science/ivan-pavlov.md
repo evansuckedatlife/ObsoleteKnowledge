@@ -5,11 +5,12 @@ defines: ["Ivan Pavlov", Pavlov]
 related: ["[[john-b-watson]]", "[[b-f-skinner]]", "[[classical-conditioning]]", "[[conditioned-reflex]]", "[[behaviorism]]", "[[psychological-experiments]]"]
 requires: ["[[behaviorism]]"]
 lists: ["[[psychologists]]", "[[nobel-prize-winners-in-medicine]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Ivan Pavlov
+
 
 
 <!-- foundations -->

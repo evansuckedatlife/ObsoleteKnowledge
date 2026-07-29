@@ -4,14 +4,21 @@ category: performance
 defines:
   - Coppelia
 related: ["[[the-nutcracker]]", "[[sleeping-beauty]]", "[[giselle]]", "[[france]]"]
-requires: []
+requires: ["[[ballet]]"]
 lists:
   - "[[ballets]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Coppelia
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

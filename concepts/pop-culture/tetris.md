@@ -3,7 +3,7 @@ type: work
 category: pop-culture
 defines:
   - Tetris
-related: ["[[alexey-pajitnov]]", "[[puzzle-games]]"]
+related: ["[[alexey-pajitnov]]", "[[puzzle-games]]", "[[soviet-union]]"]
 requires: []
 lists:
   - "[[video-game-series]]"

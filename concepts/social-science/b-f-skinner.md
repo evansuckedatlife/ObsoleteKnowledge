@@ -5,11 +5,12 @@ defines: ["B.F. Skinner", "Burrhus Frederic Skinner", Skinner]
 related: ["[[ivan-pavlov]]", "[[john-b-watson]]", "[[operant-conditioning]]", "[[reinforcement]]", "[[behaviorism]]", "[[walden-two]]"]
 requires: ["[[behaviorism]]"]
 lists: ["[[psychologists]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # B.F. Skinner
+
 
 
 <!-- foundations -->

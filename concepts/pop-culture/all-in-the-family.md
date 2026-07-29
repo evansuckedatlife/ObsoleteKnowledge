@@ -2,15 +2,22 @@
 type: work
 category: pop-culture
 defines: ["All in the Family"]
-related: ["[[the-mary-tyler-moore-show]]", "[[mash]]", "[[carroll-oconnor]]"]
-requires: []
+related: ["[[the-mary-tyler-moore-show]]", "[[mash]]", "[[carroll-oconnor]]", "[[civil-rights-movement]]"]
+requires: ["[[i-love-lucy]]"]
 lists:
   - "[[landmark-20th-century-american-sitcoms]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # All in the Family
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

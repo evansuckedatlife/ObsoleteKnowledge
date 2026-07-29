@@ -12,6 +12,7 @@ read: false
 # Loki
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

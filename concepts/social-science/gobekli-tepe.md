@@ -3,7 +3,7 @@ type: place
 category: social-science
 defines:
   - Göbekli Tepe
-related: ["[[neolithic-revolution]]", "[[turkey]]", "[[early-civilization]]"]
+related: ["[[neolithic-revolution]]", "[[turkey]]", "[[early-civilization]]", "[[ottoman-empire]]", "[[middle-east]]"]
 requires: []
 lists:
   - "[[archaeological-sites]]"

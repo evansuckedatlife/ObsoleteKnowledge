@@ -2,7 +2,7 @@
 type: hero
 category: mythology
 defines: [Theseus]
-related: ["[[athens]]"]
+related: ["[[athens]]", "[[ancient-greece]]"]
 requires: []
 lists: ["[[greek-heroes]]"]
 tour_order: 0

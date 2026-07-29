@@ -15,6 +15,7 @@ read: false
 # The Cabinet of Dr. Caligari
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

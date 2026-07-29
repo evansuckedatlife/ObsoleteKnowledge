@@ -15,6 +15,7 @@ read: true
 # The Legend of Zelda: Breath of the Wild
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

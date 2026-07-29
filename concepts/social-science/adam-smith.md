@@ -2,7 +2,7 @@
 type: person
 category: social-science
 defines: ["Adam Smith"]
-related: ["[[david-ricardo]]", "[[alfred-marshall]]", "[[smith-smith-paradigm]]"]
+related: ["[[david-ricardo]]", "[[alfred-marshall]]", "[[smith-smith-paradigm]]", "[[enlightenment]]", "[[french-revolution]]", "[[scotland]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[economists]]"]
 tour_order: 0

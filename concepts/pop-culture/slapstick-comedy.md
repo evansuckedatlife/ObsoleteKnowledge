@@ -12,6 +12,7 @@ read: false
 # Slapstick Comedy
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

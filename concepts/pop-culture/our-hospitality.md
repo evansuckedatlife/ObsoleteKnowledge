@@ -12,6 +12,7 @@ read: false
 # Our Hospitality
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -5,11 +5,12 @@ defines: [Lakshmi, Sri]
 related: ["[[vishnu]]", "[[brahma]]", "[[shiva]]"]
 requires: ["[[vishnu]]"]
 lists: ["[[hindu-heroes]]"]
-tour_order: 1
+tour_order: 3
 read: false
 ---
 
 # Lakshmi
+
 
 
 <!-- foundations -->

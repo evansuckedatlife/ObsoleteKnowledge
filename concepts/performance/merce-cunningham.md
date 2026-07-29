@@ -2,14 +2,21 @@
 type: person
 category: performance
 defines: [Merce Cunningham, Mercier Philip Cunningham Jr.]
-related: ["[[martha-graham]]", "[[john-cage]]", "[[modern-dance]]", "[[chance-procedure]]"]
-requires: []
+related: ["[[martha-graham]]", "[[john-cage]]", "[[modern-dance]]", "[[chance-procedure]]", "[[modernism]]"]
+requires: ["[[modern-dance]]"]
 lists: ["[[choreographers]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Merce Cunningham
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -2,14 +2,21 @@
 type: person
 category: performance
 defines: [Martha Graham]
-related: ["[[modern-dance]]", "[[aaron-copland]]", "[[alvin-ailey]]"]
-requires: []
+related: ["[[modern-dance]]", "[[aaron-copland]]", "[[alvin-ailey]]", "[[united-states]]", "[[modernism]]"]
+requires: ["[[modern-dance]]"]
 lists: ["[[choreographers]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Martha Graham
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

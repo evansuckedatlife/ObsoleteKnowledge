@@ -4,7 +4,7 @@ category: performance
 defines:
   - Rent
   - Rent Musical
-related: ["[[jonathan-larson]]", "[[la-boheme]]", "[[hiv-aids]]", "[[bohemian-culture]]"]
+related: ["[[jonathan-larson]]", "[[la-boheme]]", "[[hiv-aids]]", "[[bohemian-culture]]", "[[new-york-city]]", "[[modernism]]"]
 requires: []
 lists:
   - "[[musicals-part-2]]"

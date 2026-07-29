@@ -4,14 +4,21 @@ category: pop-culture
 defines:
   - Pandemic
 related: ["[[codenames]]", "[[agricola]]", "[[settlers-of-catan]]", "[[cooperative-board-games]]"]
-requires: []
+requires: ["[[settlers-of-catan]]"]
 lists:
   - "[[modern-board-games]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Pandemic
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

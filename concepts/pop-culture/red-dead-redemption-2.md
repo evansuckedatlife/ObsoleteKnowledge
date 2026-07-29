@@ -6,14 +6,21 @@ defines:
   - RDR2
   - Red Dead 2
 related: ["[[grand-theft-auto-v]]", "[[skyrim]]"]
-requires: []
+requires: ["[[grand-theft-auto-v]]"]
 lists:
   - "[[sandbox-and-open-world-video-games]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Red Dead Redemption 2
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

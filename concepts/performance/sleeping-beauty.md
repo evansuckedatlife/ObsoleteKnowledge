@@ -14,6 +14,7 @@ read: false
 # Sleeping Beauty
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

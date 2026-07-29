@@ -12,6 +12,7 @@ read: false
 # Heracles
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -2,14 +2,21 @@
 type: deity
 category: mythology
 defines: [Vishnu]
-related: ["[[krishna]]", "[[rama]]", "[[lakshmi]]", "[[trimurti]]"]
-requires: []
+related: ["[[krishna]]", "[[rama]]", "[[lakshmi]]", "[[trimurti]]", "[[vedas]]", "[[bhagavad-gita]]"]
+requires: ["[[trimurti]]"]
 lists: ["[[hindu-heroes]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Vishnu
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

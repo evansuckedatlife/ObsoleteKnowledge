@@ -2,15 +2,22 @@
 type: event
 category: social-science
 defines: ["Pavlov's Classical Conditioning Experiments", "classical conditioning"]
-related: ["[[skinner-box]]", "[[little-albert]]", "[[behaviorism]]"]
-requires: []
+related: ["[[skinner-box]]", "[[little-albert]]", "[[behaviorism]]", "[[empiricism]]", "[[consciousness]]", "[[enlightenment]]", "[[positivism]]"]
+requires: ["[[behaviorism]]", "[[wilhelm-wundt]]"]
 lists:
   - "[[psychological-experiments]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Pavlov's Classical Conditioning Experiments
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

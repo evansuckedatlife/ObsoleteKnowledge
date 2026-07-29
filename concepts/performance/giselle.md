@@ -3,15 +3,22 @@ type: work
 category: performance
 defines:
   - Giselle
-related: ["[[swan-lake]]", "[[the-nutcracker]]", "[[coppelia]]", "[[france]]"]
-requires: []
+related: ["[[swan-lake]]", "[[the-nutcracker]]", "[[coppelia]]", "[[france]]", "[[gothic-literature]]"]
+requires: ["[[ballet]]"]
 lists:
   - "[[ballets]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Giselle
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

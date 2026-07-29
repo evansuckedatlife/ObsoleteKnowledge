@@ -15,6 +15,7 @@ read: false
 # Nosferatu
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

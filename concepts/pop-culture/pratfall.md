@@ -12,6 +12,7 @@ read: false
 # Pratfall
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

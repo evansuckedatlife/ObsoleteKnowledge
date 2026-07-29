@@ -5,11 +5,12 @@ defines: [Arjuna]
 related: ["[[krishna]]", "[[bhagavad-gita]]", "[[mahabharata]]"]
 requires: ["[[krishna]]"]
 lists: ["[[hindu-heroes]]"]
-tour_order: 2
+tour_order: 4
 read: false
 ---
 
 # Arjuna
+
 
 
 <!-- foundations -->

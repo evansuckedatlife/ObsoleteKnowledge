@@ -14,6 +14,7 @@ read: false
 # Edward Sapir
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

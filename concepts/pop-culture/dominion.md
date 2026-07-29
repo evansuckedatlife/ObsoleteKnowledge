@@ -4,14 +4,21 @@ category: pop-culture
 defines:
   - Dominion
 related: ["[[settlers-of-catan]]", "[[carcassonne]]", "[[ticket-to-ride]]", "[[deck-building-mechanics]]"]
-requires: []
+requires: ["[[settlers-of-catan]]"]
 lists:
   - "[[modern-board-games]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Dominion
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

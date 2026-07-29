@@ -2,14 +2,21 @@
 type: concept
 category: social-science
 defines: [Tariff]
-related: ["[[trade-barrier]]", "[[comparative-advantage]]", "[[international-trade]]", "[[deadweight-loss]]"]
-requires: []
+related: ["[[trade-barrier]]", "[[comparative-advantage]]", "[[international-trade]]", "[[deadweight-loss]]", "[[enlightenment]]", "[[great-depression]]", "[[world-war-ii]]", "[[dutch-golden-age]]"]
+requires: ["[[international-trade]]", "[[adam-smith]]"]
 lists: ["[[economic-concepts]]"]
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Tariff
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -2,14 +2,21 @@
 type: term
 category: social-science
 defines: [Perfect competition, Perfect market]
-related: ["[[adam-smith]]", "[[david-ricardo]]", "[[alfred-marshall]]", "[[monopoly]]", "[[invisible-hand]]"]
-requires: []
+related: ["[[adam-smith]]", "[[david-ricardo]]", "[[alfred-marshall]]", "[[monopoly]]", "[[invisible-hand]]", "[[enlightenment]]", "[[french-revolution]]", "[[industrial-revolution]]"]
+requires: ["[[supply-and-demand]]", "[[adam-smith]]"]
 lists: []
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Perfect competition
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

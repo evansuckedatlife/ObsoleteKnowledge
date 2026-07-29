@@ -2,14 +2,21 @@
 type: term
 category: social-science
 defines: [Monetary policy]
-related: ["[[interest-rate]]", "[[inflation]]", "[[milton-friedman]]", "[[john-maynard-keynes]]", "[[phillips-curve]]"]
-requires: []
+related: ["[[interest-rate]]", "[[inflation]]", "[[milton-friedman]]", "[[john-maynard-keynes]]", "[[phillips-curve]]", "[[great-depression]]", "[[world-war-ii]]", "[[cold-war]]", "[[industrial-revolution]]"]
+requires: ["[[supply-and-demand]]", "[[gross-domestic-product]]"]
 lists: []
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Monetary policy
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

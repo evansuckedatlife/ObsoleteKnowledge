@@ -12,6 +12,7 @@ read: false
 # Thoth
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

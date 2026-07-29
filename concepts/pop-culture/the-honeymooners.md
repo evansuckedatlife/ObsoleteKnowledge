@@ -3,14 +3,21 @@ type: work
 category: pop-culture
 defines: ["The Honeymooners"]
 related: ["[[i-love-lucy]]", "[[the-mary-tyler-moore-show]]", "[[jackie-gleason]]"]
-requires: []
+requires: ["[[i-love-lucy]]"]
 lists:
   - "[[landmark-20th-century-american-sitcoms]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The Honeymooners
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -2,15 +2,22 @@
 type: event
 category: social-science
 defines: ["The Clark Doll Experiment", "Clark doll test"]
-related: ["[[Kenneth-Clark]]", "[[doll-studies]]", "[[racial-prejudice]]", "[[psychological-harm]]"]
-requires: []
+related: ["[[Kenneth-Clark]]", "[[doll-studies]]", "[[racial-prejudice]]", "[[psychological-harm]]", "[[civil-rights-movement]]", "[[martin-luther-king-jr]]", "[[brown-v-board-of-education]]"]
+requires: ["[[asch-conformity]]", "[[behaviorism]]"]
 lists:
   - "[[psychological-experiments]]"
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # The Clark Doll Experiment
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

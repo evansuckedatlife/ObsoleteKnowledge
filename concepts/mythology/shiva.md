@@ -2,14 +2,21 @@
 type: deity
 category: mythology
 defines: [Shiva]
-related: ["[[parvati]]", "[[ganesha]]", "[[brahma]]", "[[vishnu]]", "[[trimurti]]"]
-requires: []
+related: ["[[parvati]]", "[[ganesha]]", "[[brahma]]", "[[vishnu]]", "[[trimurti]]", "[[vedas]]", "[[upanishads]]"]
+requires: ["[[trimurti]]"]
 lists: ["[[hindu-heroes]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Shiva
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

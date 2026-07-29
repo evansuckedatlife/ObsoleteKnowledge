@@ -3,15 +3,22 @@ type: work
 category: pop-culture
 defines:
   - Carcassonne
-related: ["[[ticket-to-ride]]", "[[settlers-of-catan]]", "[[dominion]]", "[[tile-placement-mechanics]]"]
-requires: []
+related: ["[[ticket-to-ride]]", "[[settlers-of-catan]]", "[[dominion]]", "[[tile-placement-mechanics]]", "[[france]]"]
+requires: ["[[settlers-of-catan]]"]
 lists:
   - "[[modern-board-games]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Carcassonne
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

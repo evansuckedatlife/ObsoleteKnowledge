@@ -2,15 +2,22 @@
 type: event
 category: social-science
 defines: ["The Bobo Doll Experiment"]
-related: ["[[albert-bandura]]", "[[social-learning]]", "[[aggression]]", "[[imitation]]"]
-requires: []
+related: ["[[albert-bandura]]", "[[social-learning]]", "[[aggression]]", "[[imitation]]", "[[civil-rights-movement]]", "[[cold-war]]", "[[industrial-revolution]]"]
+requires: ["[[behaviorism]]", "[[pavlovs-classical-conditioning]]"]
 lists:
   - "[[psychological-experiments]]"
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # The Bobo Doll Experiment
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

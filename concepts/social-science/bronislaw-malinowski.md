@@ -4,15 +4,22 @@ category: social-science
 defines:
   - Bronisław Malinowski
   - Bronislaw Malinowski
-related: ["[[a-r-radcliffe-brown]]", "[[functional-anthropology]]"]
-requires: []
+related: ["[[a-r-radcliffe-brown]]", "[[functional-anthropology]]", "[[ancient-greece]]", "[[ottoman-empire]]"]
+requires: ["[[franz-boas]]"]
 lists:
   - "[[anthropologists]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Bronisław Malinowski
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

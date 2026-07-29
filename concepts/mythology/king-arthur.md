@@ -2,7 +2,7 @@
 type: person
 category: mythology
 defines: [King Arthur, Arthur]
-related: ["[[merlin]]", "[[guinevere]]", "[[lancelot]]", "[[mordred]]", "[[excalibur]]", "[[round-table]]", "[[camelot]]"]
+related: ["[[merlin]]", "[[guinevere]]", "[[lancelot]]", "[[mordred]]", "[[excalibur]]", "[[round-table]]", "[[camelot]]", "[[england]]", "[[william-shakespeare]]"]
 requires: []
 lists: ["[[arthurian-characters]]"]
 tour_order: 0

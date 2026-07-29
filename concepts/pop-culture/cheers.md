@@ -3,14 +3,21 @@ type: work
 category: pop-culture
 defines: ["Cheers"]
 related: ["[[mash]]", "[[seinfeld]]", "[[ted-danson]]"]
-requires: []
+requires: ["[[i-love-lucy]]"]
 lists:
   - "[[landmark-20th-century-american-sitcoms]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Cheers
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

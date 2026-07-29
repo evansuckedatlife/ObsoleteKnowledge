@@ -3,7 +3,7 @@ type: work
 category: pop-culture
 defines:
   - The Twilight Zone
-related: ["[[rod-serling]]", "[[science-fiction-television]]", "[[anthology-series]]"]
+related: ["[[rod-serling]]", "[[science-fiction-television]]", "[[anthology-series]]", "[[science-fiction]]"]
 requires: []
 lists:
   - "[[classic-american-television-series]]"

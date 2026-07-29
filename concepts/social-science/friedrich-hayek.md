@@ -2,14 +2,21 @@
 type: person
 category: social-science
 defines: [Friedrich Hayek, Friedrich August von Hayek, F.A. Hayek]
-related: ["[[adam-smith]]", "[[karl-marx]]", "[[milton-friedman]]", "[[john-maynard-keynes]]", "[[international-trade]]", "[[enlightenment]]"]
-requires: []
+related: ["[[adam-smith]]", "[[karl-marx]]", "[[milton-friedman]]", "[[john-maynard-keynes]]", "[[international-trade]]", "[[enlightenment]]", "[[soviet-union]]", "[[cold-war]]", "[[british-empire]]"]
+requires: ["[[adam-smith]]", "[[karl-marx]]"]
 lists: []
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Friedrich Hayek
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

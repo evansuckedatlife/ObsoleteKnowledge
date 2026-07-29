@@ -2,15 +2,22 @@
 type: work
 category: pop-culture
 defines: ["The Cosby Show"]
-related: ["[[friends]]", "[[the-simpsons]]", "[[bill-cosby]]"]
-requires: []
+related: ["[[friends]]", "[[the-simpsons]]", "[[bill-cosby]]", "[[civil-rights-movement]]"]
+requires: ["[[i-love-lucy]]"]
 lists:
   - "[[landmark-20th-century-american-sitcoms]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The Cosby Show
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

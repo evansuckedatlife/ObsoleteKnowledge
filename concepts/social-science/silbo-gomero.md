@@ -16,6 +16,7 @@ read: false
 # Silbo Gomero
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

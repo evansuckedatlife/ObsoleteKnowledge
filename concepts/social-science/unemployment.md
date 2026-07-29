@@ -2,14 +2,21 @@
 type: concept
 category: social-science
 defines: [Unemployment, unemployment rate]
-related: ["[[labor-force]]", "[[inflation]]", "[[phillips-curve]]", "[[economic-cycle]]"]
-requires: []
+related: ["[[labor-force]]", "[[inflation]]", "[[phillips-curve]]", "[[economic-cycle]]", "[[great-depression]]", "[[industrial-revolution]]", "[[world-war-ii]]", "[[cold-war]]"]
+requires: ["[[gross-domestic-product]]", "[[inflation]]"]
 lists: ["[[economic-concepts]]"]
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Unemployment
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

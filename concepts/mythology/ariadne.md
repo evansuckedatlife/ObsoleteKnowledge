@@ -12,6 +12,7 @@ read: false
 # Ariadne
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -4,15 +4,22 @@ category: performance
 defines:
   - Oklahoma!
   - Oklahoma
-related: ["[[rodgers-and-hammerstein]]", "[[the-sound-of-music]]", "[[carousel]]"]
-requires: []
+related: ["[[rodgers-and-hammerstein]]", "[[the-sound-of-music]]", "[[carousel]]", "[[united-states]]"]
+requires: ["[[agnes-de-mille]]"]
 lists:
   - "[[musicals-part-1]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Oklahoma!
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -2,14 +2,21 @@
 type: concept
 category: social-science
 defines: [Invisible Hand, self-interest]
-related: ["[[market-mechanism]]", "[[supply-and-demand]]", "[[perfect-competition]]", "[[market-failure]]"]
-requires: []
+related: ["[[market-mechanism]]", "[[supply-and-demand]]", "[[perfect-competition]]", "[[market-failure]]", "[[enlightenment]]", "[[french-revolution]]", "[[utilitarianism]]", "[[pragmatism]]"]
+requires: ["[[adam-smith]]"]
 lists: ["[[economic-concepts]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Invisible Hand
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

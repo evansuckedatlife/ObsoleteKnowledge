@@ -5,11 +5,12 @@ defines: [Hanuman]
 related: ["[[rama]]", "[[sita]]", "[[ramayana]]"]
 requires: ["[[vishnu]]"]
 lists: ["[[hindu-heroes]]"]
-tour_order: 1
+tour_order: 3
 read: false
 ---
 
 # Hanuman
+
 
 
 <!-- foundations -->

@@ -12,6 +12,7 @@ read: false
 # F. W. Murnau
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -2,15 +2,22 @@
 type: event
 category: social-science
 defines: ["The Milgram Obedience Experiment"]
-related: ["[[stanley-milgram]]", "[[obedience]]", "[[authority]]", "[[nazi-germany]]", "[[ethics-in-psychology]]"]
-requires: []
+related: ["[[stanley-milgram]]", "[[obedience]]", "[[authority]]", "[[nazi-germany]]", "[[ethics-in-psychology]]", "[[world-war-ii]]", "[[cold-war]]", "[[enlightenment]]"]
+requires: ["[[asch-conformity]]", "[[behaviorism]]"]
 lists:
   - "[[psychological-experiments]]"
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # The Milgram Obedience Experiment
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

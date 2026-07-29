@@ -2,7 +2,7 @@
 type: hero
 category: mythology
 defines: [Atalanta]
-related: ["[[phidias]]"]
+related: ["[[phidias]]", "[[serena-williams]]"]
 requires: []
 lists: ["[[greek-heroes]]", "[[mortal-women-in-greek-myth]]"]
 tour_order: 0

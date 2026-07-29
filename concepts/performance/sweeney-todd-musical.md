@@ -4,7 +4,7 @@ category: performance
 defines:
   - Sweeney Todd
   - Sweeney Todd: The Demon Barber of Fleet Street
-related: ["[[stephen-sondheim]]", "[[grand-guignol]]", "[[victorian-london]]", "[[revenge-tragedy]]"]
+related: ["[[stephen-sondheim]]", "[[grand-guignol]]", "[[victorian-london]]", "[[revenge-tragedy]]", "[[gothic-literature]]", "[[london]]"]
 requires: []
 lists:
   - "[[musicals-part-2]]"

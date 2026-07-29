@@ -2,14 +2,21 @@
 type: person
 category: social-science
 defines: ["John Stuart Mill"]
-related: ["[[adam-smith]]", "[[david-ricardo]]", "[[utilitarian-ethics]]", "[[utilitarianism]]"]
-requires: []
+related: ["[[adam-smith]]", "[[david-ricardo]]", "[[utilitarian-ethics]]", "[[utilitarianism]]", "[[enlightenment]]", "[[french-revolution]]", "[[pragmatism]]"]
+requires: ["[[adam-smith]]", "[[supply-and-demand]]"]
 lists: ["[[economists]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # John Stuart Mill
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

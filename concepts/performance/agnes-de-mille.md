@@ -2,14 +2,21 @@
 type: person
 category: performance
 defines: [Agnes de Mille, Agnes George de Mille]
-related: ["[[oklahoma-musical]]", "[[rodgers-and-hammerstein]]", "[[jerome-robbins]]", "[[ballet-theatre]]", "[[modernism]]"]
-requires: []
+related: ["[[oklahoma-musical]]", "[[rodgers-and-hammerstein]]", "[[jerome-robbins]]", "[[ballet-theatre]]", "[[modernism]]", "[[united-states]]"]
+requires: ["[[ballet]]"]
 lists: ["[[choreographers]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Agnes de Mille
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

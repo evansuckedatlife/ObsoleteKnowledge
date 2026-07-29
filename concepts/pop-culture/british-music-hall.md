@@ -2,7 +2,7 @@
 type: concept
 category: pop-culture
 defines: [British Music Hall, Music Hall]
-related: ["[[charlie-chaplin]]", "[[vaudeville]]", "[[slapstick-comedy]]", "[[variety-show]]", "[[music-hall-era]]"]
+related: ["[[charlie-chaplin]]", "[[vaudeville]]", "[[slapstick-comedy]]", "[[variety-show]]", "[[music-hall-era]]", "[[british-empire]]"]
 requires: []
 lists: []
 tour_order: 0

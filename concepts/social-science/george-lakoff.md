@@ -14,6 +14,7 @@ read: false
 # George Lakoff
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

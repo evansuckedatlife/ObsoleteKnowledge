@@ -2,14 +2,21 @@
 type: person
 category: social-science
 defines: ["John Maynard Keynes", "J.M. Keynes"]
-related: ["[[milton-friedman]]", "[[alfred-marshall]]", "[[aggregate-demand]]"]
-requires: []
+related: ["[[milton-friedman]]", "[[alfred-marshall]]", "[[aggregate-demand]]", "[[great-depression]]", "[[world-war-i]]", "[[enlightenment]]", "[[industrial-revolution]]"]
+requires: ["[[adam-smith]]", "[[supply-and-demand]]"]
 lists: ["[[economists]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # John Maynard Keynes
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

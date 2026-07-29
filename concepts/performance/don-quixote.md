@@ -5,11 +5,12 @@ defines: [Don Quixote, Cervantes Ballet]
 related: ["[[cervantes]]", "[[spanish-literature]]", "[[spain]]"]
 requires: ["[[marius-petipa]]"]
 lists: ["[[ballets-2]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Don Quixote
+
 
 
 <!-- foundations -->

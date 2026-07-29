@@ -2,14 +2,21 @@
 type: person
 category: performance
 defines: [Alvin Ailey]
-related: ["[[modern-dance]]", "[[martha-graham]]", "[[merce-cunningham]]", "[[alvin-ailey-american-dance-theater]]", "[[harlem-renaissance]]", "[[modernism]]"]
-requires: []
+related: ["[[modern-dance]]", "[[martha-graham]]", "[[merce-cunningham]]", "[[alvin-ailey-american-dance-theater]]", "[[harlem-renaissance]]", "[[modernism]]", "[[civil-rights-movement]]", "[[united-states]]"]
+requires: ["[[modern-dance]]"]
 lists: ["[[choreographers]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Alvin Ailey
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -2,14 +2,21 @@
 type: work
 category: performance
 defines: [Spartacus, Khachaturian's Spartacus]
-related: ["[[khachaturian]]", "[[ancient-rome]]"]
-requires: []
+related: ["[[khachaturian]]", "[[ancient-rome]]", "[[roman-empire]]", "[[soviet-union]]"]
+requires: ["[[ballet]]"]
 lists: ["[[ballets-2]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Spartacus
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

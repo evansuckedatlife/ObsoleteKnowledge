@@ -14,6 +14,7 @@ read: false
 # The General
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -2,14 +2,21 @@
 type: person
 category: performance
 defines: [George Balanchine, Giorgi Melitonovich Balanchivadze]
-related: ["[[swan-lake]]", "[[the-nutcracker]]", "[[stravinsky]]", "[[new-york-city-ballet]]", "[[modernism]]"]
-requires: []
+related: ["[[swan-lake]]", "[[the-nutcracker]]", "[[stravinsky]]", "[[new-york-city-ballet]]", "[[modernism]]", "[[russian-empire]]", "[[soviet-union]]", "[[united-states]]"]
+requires: ["[[ballet]]"]
 lists: ["[[choreographers]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # George Balanchine
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

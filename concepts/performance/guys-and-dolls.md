@@ -3,7 +3,7 @@ type: work
 category: performance
 defines:
   - Guys and Dolls
-related: ["[[frank-loesser]]", "[[damon-runyon]]", "[[carousel]]", "[[modernism]]"]
+related: ["[[frank-loesser]]", "[[damon-runyon]]", "[[carousel]]", "[[modernism]]", "[[new-york-city]]"]
 requires: []
 lists:
   - "[[musicals-part-1]]"

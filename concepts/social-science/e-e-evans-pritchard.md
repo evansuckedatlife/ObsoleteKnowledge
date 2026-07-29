@@ -4,15 +4,22 @@ category: social-science
 defines:
   - E.E. Evans-Pritchard
   - Edward Evan Evans-Pritchard
-related: ["[[bronislaw-malinowski]]", "[[nuer]]", "[[witchcraft-oracles-magic]]"]
-requires: []
+related: ["[[bronislaw-malinowski]]", "[[nuer]]", "[[witchcraft-oracles-magic]]", "[[ancient-greece]]", "[[rome]]", "[[middle-east]]", "[[ottoman-empire]]"]
+requires: ["[[franz-boas]]", "[[bronislaw-malinowski]]"]
 lists:
   - "[[anthropologists]]"
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # E.E. Evans-Pritchard
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

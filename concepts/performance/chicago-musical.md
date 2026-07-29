@@ -4,16 +4,23 @@ category: performance
 defines:
   - Chicago
   - Chicago The Musical
-related: ["[[john-kander]]", "[[fred-ebb]]", "[[bob-fosse]]", "[[1920s-america]]", "[[modernism]]"]
-requires: []
+related: ["[[john-kander]]", "[[fred-ebb]]", "[[bob-fosse]]", "[[1920s-america]]", "[[modernism]]", "[[jazz]]", "[[vaudeville]]"]
+requires: ["[[bob-fosse]]"]
 lists:
   - "[[musicals-part-2]]"
-tour_order: 0
+tour_order: 1
 read: false
 aliases: [chicago]
 ---
 
 # Chicago
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

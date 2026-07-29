@@ -15,6 +15,7 @@ read: false
 # Maltese
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

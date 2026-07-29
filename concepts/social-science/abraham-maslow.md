@@ -2,14 +2,21 @@
 type: person
 category: social-science
 defines: ["Abraham Maslow", Maslow]
-related: ["[[maslow-hierarchy-of-needs]]", "[[self-actualization]]", "[[humanistic-psychology]]", "[[peak-experiences]]", "[[motivation]]", "[[positive-psychology]]"]
-requires: []
+related: ["[[maslow-hierarchy-of-needs]]", "[[self-actualization]]", "[[humanistic-psychology]]", "[[peak-experiences]]", "[[motivation]]", "[[positive-psychology]]", "[[existentialism]]", "[[pragmatism]]", "[[consciousness]]", "[[kant]]"]
+requires: ["[[william-james]]", "[[behaviorism]]"]
 lists: ["[[psychologists]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Abraham Maslow
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

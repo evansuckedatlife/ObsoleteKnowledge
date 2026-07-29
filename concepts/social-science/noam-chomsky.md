@@ -4,15 +4,22 @@ category: social-science
 defines:
   - Noam Chomsky
   - Avram Noam Chomsky
-related: ["[[generative-grammar]]", "[[universal-grammar]]", "[[cognitive-science]]"]
-requires: []
+related: ["[[generative-grammar]]", "[[universal-grammar]]", "[[cognitive-science]]", "[[algorithm]]", "[[modernism]]", "[[logic]]", "[[consciousness]]"]
+requires: ["[[linguistics]]", "[[leonard-bloomfield]]"]
 lists:
   - "[[linguists]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Noam Chomsky
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -3,7 +3,7 @@ type: place
 category: social-science
 defines:
   - Pompeii
-related: ["[[vesuvius]]", "[[roman-empire]]", "[[herculaneum]]"]
+related: ["[[vesuvius]]", "[[roman-empire]]", "[[herculaneum]]", "[[ancient-greece]]"]
 requires: []
 lists:
   - "[[archaeological-sites]]"

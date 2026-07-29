@@ -12,6 +12,7 @@ read: false
 # Galahad
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -2,15 +2,22 @@
 type: work
 category: pop-culture
 defines: ["The Mary Tyler Moore Show"]
-related: ["[[i-love-lucy]]", "[[all-in-the-family]]", "[[mary-tyler-moore]]"]
-requires: []
+related: ["[[i-love-lucy]]", "[[all-in-the-family]]", "[[mary-tyler-moore]]", "[[civil-rights-movement]]"]
+requires: ["[[i-love-lucy]]"]
 lists:
   - "[[landmark-20th-century-american-sitcoms]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The Mary Tyler Moore Show
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

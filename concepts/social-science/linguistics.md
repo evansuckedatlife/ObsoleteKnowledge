@@ -2,7 +2,7 @@
 type: term
 category: social-science
 defines: [Linguistics, Linguistic science]
-related: ["[[language]]", "[[noam-chomsky]]", "[[structural-linguistics]]", "[[generative-grammar]]", "[[psycholinguistics]]"]
+related: ["[[language]]", "[[noam-chomsky]]", "[[structural-linguistics]]", "[[generative-grammar]]", "[[psycholinguistics]]", "[[logic]]", "[[modernism]]", "[[descartes]]", "[[algorithm]]"]
 requires: []
 lists: []
 tour_order: 0

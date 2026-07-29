@@ -2,14 +2,21 @@
 type: person
 category: social-science
 defines: ["Carl Jung", Jung]
-related: ["[[sigmund-freud]]", "[[collective-unconscious]]", "[[archetypes]]", "[[psychoanalysis]]", "[[personality-types]]"]
-requires: []
+related: ["[[sigmund-freud]]", "[[collective-unconscious]]", "[[archetypes]]", "[[psychoanalysis]]", "[[personality-types]]", "[[zoroastrianism]]", "[[the-iliad]]", "[[tao-te-ching]]", "[[existentialism]]"]
+requires: ["[[sigmund-freud]]", "[[william-james]]"]
 lists: ["[[psychologists]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Carl Jung
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

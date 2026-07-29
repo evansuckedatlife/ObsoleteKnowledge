@@ -12,6 +12,7 @@ read: false
 # Hathor
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

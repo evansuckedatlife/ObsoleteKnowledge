@@ -5,14 +5,21 @@ defines:
   - Sonic the Hedgehog
   - Sonic
 related: ["[[sonic-team]]", "[[sega]]", "[[tails]]", "[[dr-robotnik]]"]
-requires: []
+requires: ["[[super-mario]]"]
 lists:
   - "[[video-game-series]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Sonic the Hedgehog
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

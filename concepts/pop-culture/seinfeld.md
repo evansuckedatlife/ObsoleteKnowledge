@@ -2,15 +2,22 @@
 type: work
 category: pop-culture
 defines: ["Seinfeld"]
-related: ["[[cheers]]", "[[friends]]", "[[jerry-seinfeld]]"]
-requires: []
+related: ["[[cheers]]", "[[friends]]", "[[jerry-seinfeld]]", "[[new-york-city]]"]
+requires: ["[[i-love-lucy]]"]
 lists:
   - "[[landmark-20th-century-american-sitcoms]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Seinfeld
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

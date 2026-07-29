@@ -5,11 +5,12 @@ defines: [Arachne]
 related: ["[[athena]]", "[[phidias]]", "[[bernini]]"]
 requires: ["[[athena]]"]
 lists: ["[[mortal-women-in-greek-myth]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Arachne
+
 
 
 <!-- foundations -->

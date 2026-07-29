@@ -2,14 +2,21 @@
 type: concept
 category: social-science
 defines: [Factors of Production, inputs]
-related: ["[[labor]]", "[[capital]]", "[[production-function]]", "[[marginal-product]]", "[[industrial-revolution]]"]
-requires: []
+related: ["[[labor]]", "[[capital]]", "[[production-function]]", "[[marginal-product]]", "[[industrial-revolution]]", "[[ancient-greece]]", "[[roman-empire]]", "[[enlightenment]]"]
+requires: ["[[adam-smith]]"]
 lists: ["[[economic-concepts]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Factors of Production
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

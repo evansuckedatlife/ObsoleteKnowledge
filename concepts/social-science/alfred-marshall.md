@@ -12,6 +12,7 @@ read: false
 # Alfred Marshall
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

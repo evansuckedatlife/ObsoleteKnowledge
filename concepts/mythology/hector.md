@@ -14,6 +14,7 @@ read: true
 # Hector
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

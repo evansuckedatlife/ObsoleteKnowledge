@@ -2,15 +2,22 @@
 type: event
 category: social-science
 defines: ["The Asch Conformity Experiment", "Asch line experiment"]
-related: ["[[solomon-asch]]", "[[conformity]]", "[[peer-pressure]]", "[[group-dynamics]]"]
-requires: []
+related: ["[[solomon-asch]]", "[[conformity]]", "[[peer-pressure]]", "[[group-dynamics]]", "[[civil-rights-movement]]", "[[brown-v-board-of-education]]", "[[cold-war]]"]
+requires: ["[[behaviorism]]", "[[william-james]]"]
 lists:
   - "[[psychological-experiments]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # The Asch Conformity Experiment
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

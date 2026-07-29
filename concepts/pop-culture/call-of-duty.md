@@ -3,7 +3,7 @@ type: work
 category: pop-culture
 defines:
   - Call of Duty
-related: ["[[activision]]", "[[first-person-shooter]]", "[[esports]]"]
+related: ["[[activision]]", "[[first-person-shooter]]", "[[esports]]", "[[world-war-ii]]"]
 requires: []
 lists:
   - "[[video-game-series]]"

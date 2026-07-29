@@ -5,15 +5,22 @@ defines:
   - Basque
   - Euskera
   - Euskal
-related: ["[[language-isolates]]", "[[pyrenean-languages]]", "[[indigenous-languages-europe]]"]
-requires: []
+related: ["[[language-isolates]]", "[[pyrenean-languages]]", "[[indigenous-languages-europe]]", "[[spain]]", "[[iberian-peninsula]]", "[[age-of-exploration]]", "[[ottoman-empire]]"]
+requires: ["[[linguistics]]"]
 lists:
   - "[[unique-languages]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Basque
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

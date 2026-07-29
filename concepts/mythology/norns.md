@@ -12,6 +12,7 @@ read: false
 # Norns
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

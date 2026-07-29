@@ -2,15 +2,22 @@
 type: event
 category: social-science
 defines: ["The Stanford Prison Experiment"]
-related: ["[[philip-zimbardo]]", "[[authority]]", "[[dehumanization]]", "[[role-playing]]", "[[ethics-in-psychology]]"]
-requires: []
+related: ["[[philip-zimbardo]]", "[[authority]]", "[[dehumanization]]", "[[role-playing]]", "[[ethics-in-psychology]]", "[[cold-war]]", "[[world-war-ii]]"]
+requires: ["[[asch-conformity]]", "[[milgram-obedience]]"]
 lists:
   - "[[psychological-experiments]]"
-tour_order: 0
+tour_order: 4
 read: false
 ---
 
 # The Stanford Prison Experiment
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -2,15 +2,22 @@
 type: event
 category: social-science
 defines: ["The Small-World Experiment", "Milgram's small-world problem"]
-related: ["[[stanley-milgram]]", "[[social-networks]]", "[[degrees-of-separation]]", "[[network-analysis]]"]
-requires: []
+related: ["[[stanley-milgram]]", "[[social-networks]]", "[[degrees-of-separation]]", "[[network-analysis]]", "[[cold-war]]", "[[world-war-ii]]"]
+requires: ["[[stanley-milgram]]", "[[asch-conformity]]"]
 lists:
   - "[[psychological-experiments]]"
-tour_order: 0
+tour_order: 4
 read: false
 ---
 
 # The Small-World Experiment
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

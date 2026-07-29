@@ -4,14 +4,21 @@ category: pop-culture
 defines:
   - Wingspan
 related: ["[[agricola]]", "[[dominion]]", "[[scythe]]", "[[ornithology]]"]
-requires: []
+requires: ["[[settlers-of-catan]]"]
 lists:
   - "[[modern-board-games]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Wingspan
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

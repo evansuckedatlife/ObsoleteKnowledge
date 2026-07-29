@@ -15,6 +15,7 @@ read: false
 # General American
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

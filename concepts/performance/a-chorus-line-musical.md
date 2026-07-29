@@ -4,15 +4,22 @@ category: performance
 defines:
   - A Chorus Line
   - A Chorus Line Musical
-related: ["[[marvin-hamlisch]]", "[[edward-kleban]]", "[[michael-bennett]]", "[[broadway-dancers]]", "[[modernism]]"]
-requires: []
+related: ["[[marvin-hamlisch]]", "[[edward-kleban]]", "[[michael-bennett]]", "[[broadway-dancers]]", "[[modernism]]", "[[new-york-city]]", "[[civil-rights-movement]]", "[[harlem-renaissance]]"]
+requires: ["[[ballet]]"]
 lists:
   - "[[musicals-part-2]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # A Chorus Line
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -2,7 +2,7 @@
 type: concept
 category: pop-culture
 defines: [Silent Film, Silent Films]
-related: ["[[charlie-chaplin]]", "[[buster-keaton]]", "[[d-w-griffith]]", "[[f-w-murnau]]", "[[the-gold-rush]]", "[[metropolis-film]]", "[[the-general]]", "[[sherlock-jr]]", "[[german-expressionism]]", "[[intertitles]]", "[[the-jazz-singer]]", "[[edison-kinetoscope]]"]
+related: ["[[charlie-chaplin]]", "[[buster-keaton]]", "[[d-w-griffith]]", "[[f-w-murnau]]", "[[the-gold-rush]]", "[[metropolis-film]]", "[[the-general]]", "[[sherlock-jr]]", "[[german-expressionism]]", "[[intertitles]]", "[[the-jazz-singer]]", "[[edison-kinetoscope]]", "[[eadweard-muybridge]]"]
 requires: []
 lists: []
 tour_order: 0

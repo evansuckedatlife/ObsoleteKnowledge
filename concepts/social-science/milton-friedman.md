@@ -12,6 +12,7 @@ read: false
 # Milton Friedman
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

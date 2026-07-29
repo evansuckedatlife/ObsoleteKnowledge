@@ -2,7 +2,7 @@
 type: concept
 category: performance
 defines: [Ballet]
-related: ["[[swan-lake]]", "[[the-nutcracker]]", "[[the-firebird]]", "[[the-rite-of-spring]]", "[[giselle]]", "[[la-sylphide]]", "[[pyotr-ilyich-tchaikovsky]]", "[[george-balanchine]]", "[[marius-petipa]]", "[[classical-dance]]", "[[music-and-dance]]", "[[romantic-era]]", "[[russia]]", "[[france]]"]
+related: ["[[swan-lake]]", "[[the-nutcracker]]", "[[the-firebird]]", "[[the-rite-of-spring]]", "[[giselle]]", "[[la-sylphide]]", "[[pyotr-ilyich-tchaikovsky]]", "[[george-balanchine]]", "[[marius-petipa]]", "[[classical-dance]]", "[[music-and-dance]]", "[[romantic-era]]", "[[russia]]", "[[france]]", "[[italy]]", "[[renaissance]]"]
 requires: []
 lists: []
 tour_order: 0

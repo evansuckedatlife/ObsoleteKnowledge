@@ -12,6 +12,7 @@ read: false
 # Jean Piaget
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

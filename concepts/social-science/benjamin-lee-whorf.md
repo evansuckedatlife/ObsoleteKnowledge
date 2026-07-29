@@ -15,6 +15,7 @@ read: false
 # Benjamin Lee Whorf
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

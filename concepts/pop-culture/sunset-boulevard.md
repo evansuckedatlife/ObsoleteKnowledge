@@ -4,14 +4,21 @@ category: pop-culture
 defines:
   - Sunset Boulevard
 related: ["[[billy-wilder]]", "[[gloria-swanson]]", "[[william-holden]]"]
-requires: []
+requires: ["[[silent-film]]"]
 lists:
   - "[[pre-1960s-movies]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Sunset Boulevard
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

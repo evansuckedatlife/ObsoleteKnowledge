@@ -16,6 +16,7 @@ read: false
 # Battleship Potemkin
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

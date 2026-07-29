@@ -4,7 +4,7 @@ category: performance
 defines:
   - Les Misérables
   - Les Misérables: The Musical
-related: ["[[victor-hugo]]", "[[claude-michel-schönberg]]", "[[alain-boublil]]", "[[19th-century-france]]", "[[french-revolution]]"]
+related: ["[[victor-hugo]]", "[[claude-michel-schönberg]]", "[[alain-boublil]]", "[[19th-century-france]]", "[[french-revolution]]", "[[france]]"]
 requires: []
 lists:
   - "[[musicals-part-2]]"

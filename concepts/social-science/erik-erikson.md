@@ -2,14 +2,21 @@
 type: person
 category: social-science
 defines: ["Erik Erikson", Erikson]
-related: ["[[sigmund-freud]]", "[[jean-piaget]]", "[[psychosocial-development]]", "[[identity-formation]]", "[[life-stages]]", "[[developmental-psychology]]"]
-requires: []
+related: ["[[sigmund-freud]]", "[[jean-piaget]]", "[[psychosocial-development]]", "[[identity-formation]]", "[[life-stages]]", "[[developmental-psychology]]", "[[existentialism]]", "[[pragmatism]]", "[[consciousness]]"]
+requires: ["[[sigmund-freud]]", "[[william-james]]"]
 lists: ["[[psychologists]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Erik Erikson
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

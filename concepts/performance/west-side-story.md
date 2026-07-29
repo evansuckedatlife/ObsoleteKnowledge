@@ -3,15 +3,22 @@ type: work
 category: performance
 defines:
   - West Side Story
-related: ["[[leonard-bernstein]]", "[[stephen-sondheim]]", "[[romeo-and-juliet]]", "[[the-sound-of-music]]"]
-requires: []
+related: ["[[leonard-bernstein]]", "[[stephen-sondheim]]", "[[romeo-and-juliet]]", "[[the-sound-of-music]]", "[[new-york-city]]", "[[william-shakespeare]]"]
+requires: ["[[jerome-robbins]]"]
 lists:
   - "[[musicals-part-1]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # West Side Story
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

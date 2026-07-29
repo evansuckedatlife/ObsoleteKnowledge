@@ -12,6 +12,7 @@ read: false
 # Comparative Advantage
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

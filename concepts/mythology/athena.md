@@ -2,14 +2,21 @@
 type: deity
 category: mythology
 defines: [Athena, Athene, Minerva]
-related: ["[[zeus]]", "[[arachne]]", "[[medusa]]", "[[odysseus]]", "[[diomedes]]", "[[perseus]]"]
-requires: []
+related: ["[[zeus]]", "[[arachne]]", "[[medusa]]", "[[odysseus]]", "[[diomedes]]", "[[perseus]]", "[[socrates]]", "[[ancient-greece]]"]
+requires: ["[[zeus]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Athena
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -3,7 +3,7 @@ type: place
 category: social-science
 defines:
   - Machu Picchu
-related: ["[[inca-empire]]", "[[peru]]", "[[incas]]"]
+related: ["[[inca-empire]]", "[[peru]]", "[[incas]]", "[[age-of-exploration]]", "[[christopher-columbus]]", "[[ancient-greece]]", "[[ottoman-empire]]"]
 requires: []
 lists:
   - "[[archaeological-sites]]"

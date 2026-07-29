@@ -3,7 +3,7 @@ type: work
 category: pop-culture
 defines:
   - Halo
-related: ["[[master-chief]]", "[[bungie]]", "[[microsoft]]"]
+related: ["[[master-chief]]", "[[bungie]]", "[[microsoft]]", "[[science-fiction]]"]
 requires: []
 lists:
   - "[[video-game-series]]"

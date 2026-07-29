@@ -4,7 +4,7 @@ category: performance
 defines:
   - Wicked
   - Wicked The Musical
-related: ["[[stephen-schwartz]]", "[[gregory-maguire]]", "[[wizard-of-oz]]", "[[musical-theatre]]"]
+related: ["[[stephen-schwartz]]", "[[gregory-maguire]]", "[[wizard-of-oz]]", "[[musical-theatre]]", "[[modernism]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[musicals-part-2]]"

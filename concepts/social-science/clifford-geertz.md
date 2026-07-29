@@ -4,15 +4,22 @@ category: social-science
 defines:
   - Clifford Geertz
   - Clifford James Geertz
-related: ["[[thick-description]]", "[[interpretive-anthropology]]"]
-requires: []
+related: ["[[thick-description]]", "[[interpretive-anthropology]]", "[[existentialism]]", "[[skepticism]]", "[[modernism]]"]
+requires: ["[[franz-boas]]", "[[bronislaw-malinowski]]"]
 lists:
   - "[[anthropologists]]"
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Clifford Geertz
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

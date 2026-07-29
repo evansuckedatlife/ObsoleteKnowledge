@@ -16,6 +16,7 @@ read: false
 # Geordie
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

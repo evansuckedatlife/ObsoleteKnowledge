@@ -2,7 +2,7 @@
 type: deity
 category: mythology
 defines: [Ra, Re]
-related: ["[[amon]]", "[[aten]]", "[[thoth]]", "[[pharaoh]]", "[[jupiter]]"]
+related: ["[[amon]]", "[[aten]]", "[[thoth]]", "[[pharaoh]]", "[[jupiter]]", "[[egypt]]", "[[photosynthesis]]"]
 requires: []
 lists: ["[[egyptian-deities]]"]
 tour_order: 0

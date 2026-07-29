@@ -4,14 +4,21 @@ category: pop-culture
 defines:
   - Scythe
 related: ["[[agricola]]", "[[ticket-to-ride]]", "[[worker-placement-mechanics]]", "[[steampunk-aesthetic]]"]
-requires: []
+requires: ["[[agricola]]"]
 lists:
   - "[[modern-board-games]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Scythe
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

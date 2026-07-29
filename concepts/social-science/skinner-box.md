@@ -6,11 +6,12 @@ related: ["[[pavlovs-classical-conditioning]]", "[[b-f-skinner]]", "[[operant-co
 requires: ["[[behaviorism]]"]
 lists:
   - "[[psychological-experiments]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # The Skinner Box
+
 
 
 <!-- foundations -->

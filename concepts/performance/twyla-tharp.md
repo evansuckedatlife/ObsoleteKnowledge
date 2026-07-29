@@ -2,14 +2,21 @@
 type: person
 category: performance
 defines: [Twyla Tharp]
-related: ["[[modern-dance]]", "[[ballet]]", "[[billy-joel]]", "[[mikhail-baryshnikov]]"]
-requires: []
+related: ["[[modern-dance]]", "[[ballet]]", "[[billy-joel]]", "[[mikhail-baryshnikov]]", "[[modernism]]", "[[united-states]]"]
+requires: ["[[modern-dance]]"]
 lists: ["[[choreographers]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Twyla Tharp
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

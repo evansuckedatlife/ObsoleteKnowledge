@@ -2,7 +2,7 @@
 type: person
 category: social-science
 defines: ["Wilhelm Wundt", Wundt]
-related: ["[[experimental-psychology]]", "[[structuralism]]", "[[introspection]]", "[[psychology-as-science]]", "[[consciousness]]", "[[apperception]]"]
+related: ["[[experimental-psychology]]", "[[structuralism]]", "[[introspection]]", "[[psychology-as-science]]", "[[consciousness]]", "[[apperception]]", "[[existentialism]]", "[[empiricism]]", "[[enlightenment]]"]
 requires: []
 lists: ["[[psychologists]]"]
 tour_order: 0

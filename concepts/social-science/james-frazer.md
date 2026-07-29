@@ -4,15 +4,22 @@ category: social-science
 defines:
   - James Frazer
   - Sir James George Frazer
-related: ["[[ritual]]", "[[mythology]]", "[[magic]]"]
-requires: []
+related: ["[[ritual]]", "[[mythology]]", "[[magic]]", "[[the-iliad]]", "[[the-odyssey]]", "[[zoroastrianism]]"]
+requires: ["[[franz-boas]]", "[[bronislaw-malinowski]]"]
 lists:
   - "[[anthropologists]]"
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # James Frazer
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

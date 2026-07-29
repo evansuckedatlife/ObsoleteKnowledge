@@ -12,6 +12,7 @@ read: false
 # Heimdall
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -3,7 +3,7 @@ type: work
 category: pop-culture
 defines:
   - The Sims
-related: ["[[maxis]]", "[[will-wright]]", "[[simulation-games]]"]
+related: ["[[maxis]]", "[[will-wright]]", "[[simulation-games]]", "[[behaviorism]]"]
 requires: []
 lists:
   - "[[video-game-series]]"

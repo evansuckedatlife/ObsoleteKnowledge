@@ -2,7 +2,7 @@
 type: deity
 category: mythology
 defines: [Amon, Amun, Amon-Ra]
-related: ["[[ra]]", "[[thoth]]", "[[hathor]]"]
+related: ["[[ra]]", "[[thoth]]", "[[hathor]]", "[[stoicism]]", "[[zoroastrianism]]"]
 requires: []
 lists: ["[[egyptian-deities]]"]
 tour_order: 0

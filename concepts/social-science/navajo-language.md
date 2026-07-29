@@ -16,6 +16,7 @@ read: false
 # Navajo (language)
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

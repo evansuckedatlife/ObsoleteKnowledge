@@ -3,7 +3,7 @@ type: place
 category: social-science
 defines:
   - Stonehenge
-related: ["[[bronze-age]]", "[[england]]", "[[neolithic-monuments]]"]
+related: ["[[bronze-age]]", "[[england]]", "[[neolithic-monuments]]", "[[ancient-greece]]"]
 requires: []
 lists:
   - "[[archaeological-sites]]"

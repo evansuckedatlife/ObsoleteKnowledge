@@ -4,15 +4,22 @@ category: social-science
 defines:
   - Southern American English
   - Southern American English
-related: ["[[general-american]]", "[[aave]]", "[[appalachian-english]]"]
-requires: []
+related: ["[[general-american]]", "[[aave]]", "[[appalachian-english]]", "[[united-states]]", "[[american-civil-war]]", "[[civil-rights-movement]]", "[[reconstruction-era]]"]
+requires: ["[[linguistics]]"]
 lists:
   - "[[accents-and-dialects-of-english]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Southern American English
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

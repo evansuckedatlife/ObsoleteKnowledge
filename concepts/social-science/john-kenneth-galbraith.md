@@ -2,14 +2,21 @@
 type: person
 category: social-science
 defines: ["John Kenneth Galbraith"]
-related: ["[[milton-friedman]]", "[[john-maynard-keynes]]", "[[thorstein-veblen]]"]
-requires: []
+related: ["[[milton-friedman]]", "[[john-maynard-keynes]]", "[[thorstein-veblen]]", "[[great-depression]]", "[[soviet-union]]", "[[world-war-ii]]", "[[cold-war]]"]
+requires: ["[[karl-marx]]", "[[john-maynard-keynes]]"]
 lists: ["[[economists]]"]
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # John Kenneth Galbraith
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

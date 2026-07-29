@@ -3,15 +3,22 @@ type: person
 category: social-science
 defines:
   - Panini
-related: ["[[sanskrit]]", "[[grammar]]"]
-requires: []
+related: ["[[sanskrit]]", "[[grammar]]", "[[ancient-greece]]", "[[logic]]", "[[descartes]]"]
+requires: ["[[linguistics]]"]
 lists:
   - "[[linguists]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Panini
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

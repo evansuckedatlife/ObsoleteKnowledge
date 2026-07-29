@@ -2,14 +2,21 @@
 type: deity
 category: mythology
 defines: [Brahma]
-related: ["[[vishnu]]", "[[shiva]]", "[[trimurti]]", "[[vedas]]"]
-requires: []
+related: ["[[vishnu]]", "[[shiva]]", "[[trimurti]]", "[[vedas]]", "[[upanishads]]"]
+requires: ["[[trimurti]]"]
 lists: ["[[hindu-heroes]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Brahma
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

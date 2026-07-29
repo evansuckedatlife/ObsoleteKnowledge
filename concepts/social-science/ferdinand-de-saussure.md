@@ -15,6 +15,7 @@ read: false
 # Ferdinand de Saussure
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -2,14 +2,21 @@
 type: concept
 category: social-science
 defines: [Inflation, deflation]
-related: ["[[price-level]]", "[[purchasing-power]]", "[[phillips-curve]]", "[[monetary-policy]]"]
-requires: []
+related: ["[[price-level]]", "[[purchasing-power]]", "[[phillips-curve]]", "[[monetary-policy]]", "[[industrial-revolution]]", "[[great-depression]]", "[[world-war-i]]"]
+requires: ["[[supply-and-demand]]", "[[adam-smith]]"]
 lists: ["[[economic-concepts]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Inflation
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

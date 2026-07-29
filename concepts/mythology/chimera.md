@@ -2,7 +2,7 @@
 type: monster
 category: mythology
 defines: [Chimera, Chimaera]
-related: ["[[bellerophon]]", "[[pegasus]]", "[[echidna]]", "[[rodin]]", "[[bernini]]"]
+related: ["[[bellerophon]]", "[[pegasus]]", "[[echidna]]", "[[rodin]]", "[[bernini]]", "[[leonardo-da-vinci]]"]
 requires: []
 lists: ["[[greek-mythological-monsters]]"]
 tour_order: 0

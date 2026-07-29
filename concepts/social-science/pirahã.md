@@ -17,6 +17,7 @@ read: false
 # Pirahã
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

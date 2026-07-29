@@ -5,11 +5,12 @@ defines: [Krishna]
 related: ["[[vishnu]]", "[[arjuna]]", "[[bhagavad-gita]]", "[[mahabharata]]", "[[gopi]]"]
 requires: ["[[vishnu]]"]
 lists: ["[[hindu-heroes]]"]
-tour_order: 1
+tour_order: 3
 read: false
 ---
 
 # Krishna
+
 
 
 <!-- foundations -->

@@ -12,6 +12,7 @@ read: false
 # Elasticity
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

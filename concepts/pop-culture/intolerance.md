@@ -15,6 +15,7 @@ read: false
 # Intolerance
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

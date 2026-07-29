@@ -2,14 +2,21 @@
 type: person
 category: performance
 defines: [Jerome Robbins, Jerome Wilson Rabinowitz]
-related: ["[[west-side-story]]", "[[new-york-city-ballet]]", "[[the-king-and-i]]", "[[fancy-free]]", "[[modernism]]"]
-requires: []
+related: ["[[west-side-story]]", "[[new-york-city-ballet]]", "[[the-king-and-i]]", "[[fancy-free]]", "[[modernism]]", "[[united-states]]"]
+requires: ["[[ballet]]"]
 lists: ["[[choreographers]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Jerome Robbins
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

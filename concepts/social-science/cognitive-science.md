@@ -2,7 +2,7 @@
 type: term
 category: social-science
 defines: [Cognitive science]
-related: ["[[linguistics]]", "[[noam-chomsky]]", "[[jean-piaget]]", "[[behaviorism]]", "[[generative-grammar]]"]
+related: ["[[linguistics]]", "[[noam-chomsky]]", "[[jean-piaget]]", "[[behaviorism]]", "[[generative-grammar]]", "[[algorithm]]", "[[quantum-mechanics]]", "[[logic]]", "[[consciousness]]"]
 requires: []
 lists: []
 tour_order: 0

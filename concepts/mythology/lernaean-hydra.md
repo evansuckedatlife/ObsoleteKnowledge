@@ -12,6 +12,7 @@ read: false
 # Lernaean Hydra
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

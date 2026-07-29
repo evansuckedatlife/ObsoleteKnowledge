@@ -4,15 +4,22 @@ category: social-science
 defines:
   - Scouse
   - Liverpool English
-related: ["[[scottish-english]]", "[[geordie]]", "[[cockney]]"]
-requires: []
+related: ["[[scottish-english]]", "[[geordie]]", "[[cockney]]", "[[england]]", "[[industrial-revolution]]", "[[british-empire]]", "[[world-war-ii]]"]
+requires: ["[[linguistics]]"]
 lists:
   - "[[accents-and-dialects-of-english]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Scouse
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

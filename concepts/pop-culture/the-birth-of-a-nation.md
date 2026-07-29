@@ -15,6 +15,7 @@ read: false
 # The Birth of a Nation
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

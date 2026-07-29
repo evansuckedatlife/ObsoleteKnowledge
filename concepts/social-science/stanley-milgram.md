@@ -2,14 +2,21 @@
 type: person
 category: social-science
 defines: ["Stanley Milgram", Milgram]
-related: ["[[milgram-obedience-experiment]]", "[[obedience-authority]]", "[[psychological-experiments]]", "[[small-world-phenomenon]]", "[[social-psychology]]", "[[ethics-in-psychology]]"]
-requires: []
+related: ["[[milgram-obedience-experiment]]", "[[obedience-authority]]", "[[psychological-experiments]]", "[[small-world-phenomenon]]", "[[social-psychology]]", "[[ethics-in-psychology]]", "[[cold-war]]", "[[world-war-ii]]", "[[nazi-germany]]", "[[enlightenment]]"]
+requires: ["[[asch-conformity]]", "[[behaviorism]]"]
 lists: ["[[psychologists]]"]
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Stanley Milgram
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

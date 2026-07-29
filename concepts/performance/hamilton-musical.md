@@ -4,7 +4,7 @@ category: performance
 defines:
   - Hamilton
   - Hamilton: An American Musical
-related: ["[[lin-manuel-miranda]]", "[[american-founding-fathers]]", "[[hip-hop]]", "[[andrew-jackson]]", "[[modernism]]"]
+related: ["[[lin-manuel-miranda]]", "[[american-founding-fathers]]", "[[hip-hop]]", "[[andrew-jackson]]", "[[modernism]]", "[[american-revolution]]", "[[new-york-city]]"]
 requires: []
 lists:
   - "[[musicals-part-2]]"

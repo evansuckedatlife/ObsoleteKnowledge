@@ -12,6 +12,7 @@ read: false
 # Ymir
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

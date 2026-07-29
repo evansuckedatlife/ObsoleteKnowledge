@@ -2,14 +2,21 @@
 type: term
 category: social-science
 defines: [Behaviorism, Behavioural psychology]
-related: ["[[b-f-skinner]]", "[[john-b-watson]]", "[[ivan-pavlov]]", "[[cognitive-science]]", "[[pavlovs-classical-conditioning]]"]
-requires: []
+related: ["[[b-f-skinner]]", "[[john-b-watson]]", "[[ivan-pavlov]]", "[[cognitive-science]]", "[[pavlovs-classical-conditioning]]", "[[empiricism]]", "[[enlightenment]]", "[[positivism]]", "[[consciousness]]"]
+requires: ["[[william-james]]", "[[wilhelm-wundt]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Behaviorism
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

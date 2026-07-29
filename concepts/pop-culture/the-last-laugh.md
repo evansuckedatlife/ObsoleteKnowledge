@@ -12,6 +12,7 @@ read: false
 # The Last Laugh
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

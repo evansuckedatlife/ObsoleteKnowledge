@@ -3,7 +3,7 @@ type: place
 category: social-science
 defines:
   - Çatalhöyük
-related: ["[[neolithic-settlement]]", "[[turkey]]", "[[early-agriculture]]"]
+related: ["[[neolithic-settlement]]", "[[turkey]]", "[[early-agriculture]]", "[[ottoman-empire]]", "[[middle-east]]"]
 requires: []
 lists:
   - "[[archaeological-sites]]"

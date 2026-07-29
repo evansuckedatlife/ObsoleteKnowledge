@@ -2,7 +2,7 @@
 type: event
 category: mythology
 defines: [The Trojan War]
-related: ["[[achilles]]", "[[hector]]", "[[agamemnon]]", "[[helen-of-troy]]", "[[paris]]", "[[the-iliad]]", "[[the-odyssey]]", "[[the-aeneid]]"]
+related: ["[[achilles]]", "[[hector]]", "[[agamemnon]]", "[[helen-of-troy]]", "[[paris]]", "[[the-iliad]]", "[[the-odyssey]]", "[[the-aeneid]]", "[[ancient-greece]]"]
 requires: []
 lists: []
 tour_order: 0

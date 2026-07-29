@@ -3,15 +3,22 @@ type: work
 category: performance
 defines:
   - Fiddler on the Roof
-related: ["[[jerry-bock]]", "[[sheldon-harnick]]", "[[tevye]]", "[[jewish-tradition]]"]
-requires: []
+related: ["[[jerry-bock]]", "[[sheldon-harnick]]", "[[tevye]]", "[[jewish-tradition]]", "[[judaism]]", "[[russian-empire]]"]
+requires: ["[[agnes-de-mille]]"]
 lists:
   - "[[musicals-part-1]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Fiddler on the Roof
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -2,14 +2,21 @@
 type: deity
 category: mythology
 defines: [Aphrodite, Venus]
-related: ["[[zeus]]", "[[aeneas]]", "[[atalanta]]", "[[helen-of-troy]]", "[[paris]]", "[[diomedes]]", "[[hephaestus]]", "[[ares]]"]
-requires: []
+related: ["[[zeus]]", "[[aeneas]]", "[[atalanta]]", "[[helen-of-troy]]", "[[paris]]", "[[diomedes]]", "[[hephaestus]]", "[[ares]]", "[[romeo-and-juliet]]", "[[michelangelo]]"]
+requires: ["[[zeus]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Aphrodite
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

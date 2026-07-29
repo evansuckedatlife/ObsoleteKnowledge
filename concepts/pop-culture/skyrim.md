@@ -4,7 +4,7 @@ category: pop-culture
 defines:
   - The Elder Scrolls V: Skyrim
   - Skyrim
-related: ["[[the-witcher-3-wild-hunt]]", "[[grand-theft-auto-v]]"]
+related: ["[[the-witcher-3-wild-hunt]]", "[[grand-theft-auto-v]]", "[[odin]]"]
 requires: []
 lists:
   - "[[sandbox-and-open-world-video-games]]"

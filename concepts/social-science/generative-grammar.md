@@ -5,11 +5,12 @@ defines: [Generative grammar, Transformational grammar]
 related: ["[[linguistics]]", "[[noam-chomsky]]", "[[structural-linguistics]]", "[[universal-grammar]]", "[[cognitive-science]]"]
 requires: ["[[structural-linguistics]]"]
 lists: []
-tour_order: 1
+tour_order: 3
 read: false
 ---
 
 # Generative grammar
+
 
 
 <!-- foundations -->

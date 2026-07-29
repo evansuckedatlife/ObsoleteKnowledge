@@ -4,14 +4,21 @@ category: pop-culture
 defines:
   - Puerto Rico
 related: ["[[agricola]]", "[[settlers-of-catan]]", "[[ticket-to-ride]]", "[[worker-placement-mechanics]]"]
-requires: []
+requires: ["[[settlers-of-catan]]"]
 lists:
   - "[[modern-board-games]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Puerto Rico
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

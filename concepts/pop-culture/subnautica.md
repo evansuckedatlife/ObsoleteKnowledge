@@ -3,7 +3,7 @@ type: work
 category: pop-culture
 defines:
   - Subnautica
-related: ["[[minecraft]]", "[[stardew-valley]]"]
+related: ["[[minecraft]]", "[[stardew-valley]]", "[[space-race]]"]
 requires: []
 lists:
   - "[[sandbox-and-open-world-video-games]]"

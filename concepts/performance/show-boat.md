@@ -3,7 +3,7 @@ type: work
 category: performance
 defines:
   - Show Boat
-related: ["[[jerome-kern]]", "[[oscar-hammerstein-ii]]", "[[edna-ferber]]", "[[american-racism]]"]
+related: ["[[jerome-kern]]", "[[oscar-hammerstein-ii]]", "[[edna-ferber]]", "[[american-racism]]", "[[mississippi-river]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[musicals-part-1]]"

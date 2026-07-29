@@ -2,14 +2,21 @@
 type: person
 category: social-science
 defines: ["Karl Marx"]
-related: ["[[friedrich-engels]]", "[[adam-smith]]", "[[surplus-value]]"]
-requires: []
+related: ["[[friedrich-engels]]", "[[adam-smith]]", "[[surplus-value]]", "[[enlightenment]]", "[[french-revolution]]", "[[russian-revolution]]", "[[industrial-revolution]]"]
+requires: ["[[adam-smith]]", "[[supply-and-demand]]"]
 lists: ["[[economists]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Karl Marx
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

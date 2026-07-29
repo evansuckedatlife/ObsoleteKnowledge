@@ -4,7 +4,7 @@ category: performance
 defines:
   - Cats
   - Cats Musical
-related: ["[[andrew-lloyd-webber]]", "[[t-s-eliot]]", "[[old-possum-book-of-practical-cats]]", "[[modernism]]"]
+related: ["[[andrew-lloyd-webber]]", "[[t-s-eliot]]", "[[old-possum-book-of-practical-cats]]", "[[modernism]]", "[[london]]"]
 requires: []
 lists:
   - "[[musicals-part-2]]"

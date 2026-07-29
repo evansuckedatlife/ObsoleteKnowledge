@@ -9,11 +9,12 @@ related: ["[[uralic-languages]]", "[[agglutinative-languages]]", "[[european-lan
 requires: ["[[structural-linguistics]]"]
 lists:
   - "[[unique-languages]]"
-tour_order: 1
+tour_order: 3
 read: false
 ---
 
 # Hungarian
+
 
 
 <!-- foundations -->

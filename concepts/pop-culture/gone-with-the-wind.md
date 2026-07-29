@@ -3,7 +3,7 @@ type: work
 category: pop-culture
 defines:
   - Gone with the Wind
-related: ["[[american-civil-war]]", "[[vivien-leigh]]", "[[clark-gable]]"]
+related: ["[[american-civil-war]]", "[[vivien-leigh]]", "[[clark-gable]]", "[[reconstruction-era]]"]
 requires: []
 lists:
   - "[[pre-1960s-movies]]"

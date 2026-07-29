@@ -5,7 +5,7 @@ defines:
   - Odin
   - Wodin
   - Wotan
-related: ["[[ymir]]", "[[frigg]]", "[[thor]]", "[[loki]]", "[[balder]]"]
+related: ["[[ymir]]", "[[frigg]]", "[[thor]]", "[[loki]]", "[[balder]]", "[[england]]"]
 requires: []
 lists:
   - "[[norse-gods]]"

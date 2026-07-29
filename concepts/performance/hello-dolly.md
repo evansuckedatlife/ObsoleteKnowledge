@@ -3,7 +3,7 @@ type: work
 category: performance
 defines:
   - Hello, Dolly!
-related: ["[[jerry-herman]]", "[[thornton-wilder]]", "[[carol-channing]]", "[[modernism]]"]
+related: ["[[jerry-herman]]", "[[thornton-wilder]]", "[[carol-channing]]", "[[modernism]]", "[[new-york-city]]"]
 requires: []
 lists:
   - "[[musicals-part-1]]"

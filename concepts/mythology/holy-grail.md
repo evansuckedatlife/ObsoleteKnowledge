@@ -12,6 +12,7 @@ read: false
 # Holy Grail
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

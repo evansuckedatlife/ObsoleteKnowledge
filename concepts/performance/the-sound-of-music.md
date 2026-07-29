@@ -3,7 +3,7 @@ type: work
 category: performance
 defines:
   - The Sound of Music
-related: ["[[rodgers-and-hammerstein]]", "[[oklahoma]]", "[[carousel]]", "[[maria-von-trapp]]"]
+related: ["[[rodgers-and-hammerstein]]", "[[oklahoma]]", "[[carousel]]", "[[maria-von-trapp]]", "[[world-war-ii]]"]
 requires: []
 lists:
   - "[[musicals-part-1]]"

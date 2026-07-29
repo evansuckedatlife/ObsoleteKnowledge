@@ -4,15 +4,22 @@ category: social-science
 defines:
   - Esperanto
   - "Esperanto"
-related: ["[[constructed-languages]]", "[[international-auxiliary-languages]]", "[[linguistic-idealism]]"]
-requires: []
+related: ["[[constructed-languages]]", "[[international-auxiliary-languages]]", "[[linguistic-idealism]]", "[[enlightenment]]", "[[utilitarianism]]", "[[russian-revolution]]", "[[positivism]]"]
+requires: ["[[linguistics]]"]
 lists:
   - "[[unique-languages]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Esperanto
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -9,11 +9,12 @@ related: ["[[caucasian-languages]]", "[[unique-writing-systems]]", "[[eastern-ca
 requires: ["[[structural-linguistics]]"]
 lists:
   - "[[unique-languages]]"
-tour_order: 1
+tour_order: 3
 read: false
 ---
 
 # Georgian
+
 
 
 <!-- foundations -->

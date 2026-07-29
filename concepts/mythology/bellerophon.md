@@ -2,14 +2,21 @@
 type: hero
 category: mythology
 defines: [Bellerophon]
-related: ["[[rodin]]", "[[bernini]]"]
-requires: []
+related: ["[[rodin]]", "[[bernini]]", "[[michelangelo]]"]
+requires: ["[[chimera]]"]
 lists: ["[[greek-heroes]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Bellerophon
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

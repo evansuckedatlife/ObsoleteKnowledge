@@ -2,14 +2,21 @@
 type: person
 category: social-science
 defines: ["Thorstein Veblen"]
-related: ["[[alfred-marshall]]", "[[john-kenneth-galbraith]]"]
-requires: []
+related: ["[[alfred-marshall]]", "[[john-kenneth-galbraith]]", "[[enlightenment]]", "[[industrial-revolution]]", "[[world-war-i]]", "[[pragmatism]]"]
+requires: ["[[adam-smith]]", "[[karl-marx]]"]
 lists: ["[[economists]]"]
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Thorstein Veblen
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

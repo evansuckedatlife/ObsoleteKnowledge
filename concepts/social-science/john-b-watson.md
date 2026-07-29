@@ -5,11 +5,12 @@ defines: ["John B. Watson", Watson]
 related: ["[[ivan-pavlov]]", "[[b-f-skinner]]", "[[behaviorism]]", "[[little-albert-experiment]]", "[[classical-conditioning]]", "[[psychological-experiments]]"]
 requires: ["[[behaviorism]]"]
 lists: ["[[psychologists]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # John B. Watson
+
 
 
 <!-- foundations -->

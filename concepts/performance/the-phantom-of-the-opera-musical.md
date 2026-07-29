@@ -4,7 +4,7 @@ category: performance
 defines:
   - The Phantom of the Opera
   - The Phantom of the Opera Musical
-related: ["[[andrew-lloyd-webber]]", "[[gaston-leroux]]", "[[musical-theatre]]"]
+related: ["[[andrew-lloyd-webber]]", "[[gaston-leroux]]", "[[musical-theatre]]", "[[gothic-literature]]", "[[france]]"]
 requires: []
 lists:
   - "[[musicals-part-2]]"

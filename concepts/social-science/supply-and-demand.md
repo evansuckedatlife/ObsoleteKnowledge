@@ -2,14 +2,21 @@
 type: concept
 category: social-science
 defines: [Supply and Demand]
-related: ["[[elasticity]]", "[[equilibrium-price]]", "[[market-mechanism]]", "[[shortage-and-surplus]]"]
-requires: []
+related: ["[[elasticity]]", "[[equilibrium-price]]", "[[market-mechanism]]", "[[shortage-and-surplus]]", "[[enlightenment]]", "[[french-revolution]]", "[[industrial-revolution]]", "[[great-depression]]"]
+requires: ["[[adam-smith]]"]
 lists: ["[[economic-concepts]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Supply and Demand
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

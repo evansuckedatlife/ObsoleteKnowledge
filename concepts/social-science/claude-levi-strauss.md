@@ -5,15 +5,22 @@ defines:
   - Claude Lévi-Strauss
   - Levi-Strauss
   - Claude Strauss
-related: ["[[structuralism]]", "[[myth]]"]
-requires: []
+related: ["[[structuralism]]", "[[myth]]", "[[modernism]]", "[[logic]]", "[[descartes]]", "[[stream-of-consciousness]]"]
+requires: ["[[franz-boas]]", "[[linguistics]]"]
 lists:
   - "[[anthropologists]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Claude Lévi-Strauss
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

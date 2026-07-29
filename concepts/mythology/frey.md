@@ -12,6 +12,7 @@ read: false
 # Frey
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

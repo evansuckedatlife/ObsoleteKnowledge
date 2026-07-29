@@ -4,14 +4,21 @@ category: pop-culture
 defines:
   - Agricola
 related: ["[[settlers-of-catan]]", "[[puerto-rico]]", "[[dominion]]", "[[worker-placement-mechanics]]"]
-requires: []
+requires: ["[[settlers-of-catan]]"]
 lists:
   - "[[modern-board-games]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Agricola
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

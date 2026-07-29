@@ -12,6 +12,7 @@ read: false
 # D. W. Griffith
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

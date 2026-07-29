@@ -15,6 +15,7 @@ read: true
 # Helen of Troy
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -2,7 +2,7 @@
 type: person
 category: social-science
 defines: ["William James", James]
-related: ["[[functionalism]]", "[[pragmatism]]", "[[consciousness]]", "[[stream-of-consciousness]]", "[[emotion-theory]]", "[[psychology-as-science]]"]
+related: ["[[functionalism]]", "[[pragmatism]]", "[[consciousness]]", "[[stream-of-consciousness]]", "[[emotion-theory]]", "[[psychology-as-science]]", "[[existentialism]]", "[[empiricism]]"]
 requires: []
 lists: ["[[psychologists]]"]
 tour_order: 0

@@ -3,15 +3,22 @@ type: work
 category: pop-culture
 defines:
   - Ticket to Ride
-related: ["[[settlers-of-catan]]", "[[carcassonne]]", "[[puerto-rico]]", "[[agricola]]"]
-requires: []
+related: ["[[settlers-of-catan]]", "[[carcassonne]]", "[[puerto-rico]]", "[[agricola]]", "[[industrial-revolution]]"]
+requires: ["[[settlers-of-catan]]"]
 lists:
   - "[[modern-board-games]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Ticket to Ride
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

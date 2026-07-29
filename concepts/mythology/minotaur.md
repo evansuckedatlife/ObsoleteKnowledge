@@ -12,6 +12,7 @@ read: false
 # Minotaur
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

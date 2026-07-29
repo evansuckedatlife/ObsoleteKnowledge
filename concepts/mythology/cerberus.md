@@ -2,7 +2,7 @@
 type: monster
 category: mythology
 defines: [Cerberus]
-related: ["[[heracles]]", "[[hades]]", "[[the-twelve-labors]]", "[[rodin]]", "[[bernini]]"]
+related: ["[[heracles]]", "[[hades]]", "[[the-twelve-labors]]", "[[rodin]]", "[[bernini]]", "[[mary-shelley]]"]
 requires: []
 lists: ["[[greek-mythological-monsters]]"]
 tour_order: 0

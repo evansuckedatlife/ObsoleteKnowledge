@@ -2,14 +2,21 @@
 type: term
 category: social-science
 defines: [Structural linguistics, Structuralism]
-related: ["[[linguistics]]", "[[ferdinand-de-saussure]]", "[[leonard-bloomfield]]", "[[noam-chomsky]]", "[[claude-levi-strauss]]"]
-requires: []
+related: ["[[linguistics]]", "[[ferdinand-de-saussure]]", "[[leonard-bloomfield]]", "[[noam-chomsky]]", "[[claude-levi-strauss]]", "[[modernism]]", "[[descartes]]", "[[logic]]", "[[t-s-eliot]]"]
+requires: ["[[linguistics]]", "[[leonard-bloomfield]]"]
 lists: []
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Structural linguistics
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

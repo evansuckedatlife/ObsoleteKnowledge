@@ -2,14 +2,21 @@
 type: person
 category: social-science
 defines: ["Alfred Adler", Adler]
-related: ["[[sigmund-freud]]", "[[inferiority-complex]]", "[[birth-order]]", "[[individual-psychology]]", "[[social-interest]]"]
-requires: []
+related: ["[[sigmund-freud]]", "[[inferiority-complex]]", "[[birth-order]]", "[[individual-psychology]]", "[[social-interest]]", "[[existentialism]]", "[[stoicism]]", "[[cynicism]]", "[[consciousness]]"]
+requires: ["[[sigmund-freud]]", "[[william-james]]"]
 lists: ["[[psychologists]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Alfred Adler
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

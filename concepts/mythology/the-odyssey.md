@@ -13,6 +13,7 @@ aliases: [odyssey]
 # The Odyssey
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

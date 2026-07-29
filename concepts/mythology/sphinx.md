@@ -2,7 +2,7 @@
 type: monster
 category: mythology
 defines: [Sphinx]
-related: ["[[oedipus]]", "[[thebes]]"]
+related: ["[[oedipus]]", "[[thebes]]", "[[ancient-greece]]", "[[detective-fiction]]"]
 requires: []
 lists: ["[[greek-mythological-monsters]]"]
 tour_order: 0

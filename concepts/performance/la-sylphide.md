@@ -2,14 +2,21 @@
 type: work
 category: performance
 defines: [La Sylphide, "The Sylph"]
-related: ["[[romantic-ballet]]", "[[taglioli]]", "[[france]]"]
-requires: []
+related: ["[[romantic-ballet]]", "[[taglioli]]", "[[france]]", "[[scotland]]"]
+requires: ["[[ballet]]"]
 lists: ["[[ballets-2]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # La Sylphide
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

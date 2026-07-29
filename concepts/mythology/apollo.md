@@ -2,14 +2,21 @@
 type: deity
 category: mythology
 defines: [Apollo, Phoebus]
-related: ["[[zeus]]", "[[athena]]", "[[cassandra]]", "[[laocoon]]", "[[artemis]]", "[[daphne]]", "[[apollo-program]]"]
-requires: []
+related: ["[[zeus]]", "[[athena]]", "[[cassandra]]", "[[laocoon]]", "[[artemis]]", "[[daphne]]", "[[apollo-program]]", "[[aaron-copland]]"]
+requires: ["[[zeus]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Apollo
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

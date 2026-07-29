@@ -6,11 +6,12 @@ related: ["[[martin-seligman]]", "[[depression]]", "[[motivation]]", "[[conditio
 requires: ["[[pavlovs-classical-conditioning]]"]
 lists:
   - "[[psychological-experiments]]"
-tour_order: 1
+tour_order: 3
 read: false
 ---
 
 # Learned Helplessness Experiments
+
 
 
 <!-- foundations -->

@@ -3,7 +3,7 @@ type: work
 category: pop-culture
 defines:
   - 60 Minutes
-related: ["[[television-journalism]]", "[[television-news]]", "[[broadcast-journalism]]"]
+related: ["[[television-journalism]]", "[[television-news]]", "[[broadcast-journalism]]", "[[space-race]]", "[[cold-war]]"]
 requires: []
 lists:
   - "[[classic-american-television-series]]"

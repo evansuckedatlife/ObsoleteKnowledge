@@ -2,14 +2,21 @@
 type: term
 category: social-science
 defines: [International trade, World trade]
-related: ["[[david-ricardo]]", "[[adam-smith]]", "[[comparative-advantage]]", "[[tariff]]", "[[friedrich-hayek]]"]
-requires: []
+related: ["[[david-ricardo]]", "[[adam-smith]]", "[[comparative-advantage]]", "[[tariff]]", "[[friedrich-hayek]]", "[[enlightenment]]", "[[dutch-golden-age]]", "[[silk-road]]", "[[british-empire]]"]
+requires: ["[[supply-and-demand]]", "[[adam-smith]]"]
 lists: []
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # International trade
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -4,15 +4,22 @@ category: social-science
 defines:
   - Scottish English
   - Scots English
-related: ["[[scouse]]", "[[geordie]]", "[[received-pronunciation]]"]
-requires: []
+related: ["[[scouse]]", "[[geordie]]", "[[received-pronunciation]]", "[[scotland]]", "[[enlightenment]]", "[[british-empire]]", "[[industrial-revolution]]"]
+requires: ["[[linguistics]]"]
 lists:
   - "[[accents-and-dialects-of-english]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Scottish English
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

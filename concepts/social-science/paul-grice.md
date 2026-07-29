@@ -15,6 +15,7 @@ read: false
 # Paul Grice
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

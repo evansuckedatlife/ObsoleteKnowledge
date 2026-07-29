@@ -12,6 +12,7 @@ read: false
 # Diomedes
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

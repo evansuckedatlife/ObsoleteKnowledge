@@ -12,6 +12,7 @@ read: false
 # David Ricardo
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

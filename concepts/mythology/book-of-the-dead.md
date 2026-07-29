@@ -12,6 +12,7 @@ read: false
 # Book of the Dead
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

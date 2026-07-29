@@ -2,14 +2,21 @@
 type: person
 category: performance
 defines: [Marius Petipa, Jean-Antoine-Alfred Marius Petipa]
-related: ["[[swan-lake]]", "[[the-sleeping-beauty]]", "[[the-nutcracker]]", "[[tchaikovsky]]", "[[imperial-ballet]]"]
-requires: []
+related: ["[[swan-lake]]", "[[the-sleeping-beauty]]", "[[the-nutcracker]]", "[[tchaikovsky]]", "[[imperial-ballet]]", "[[france]]", "[[russian-empire]]"]
+requires: ["[[ballet]]"]
 lists: ["[[choreographers]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Marius Petipa
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

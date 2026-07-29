@@ -5,11 +5,12 @@ defines: [Parvati, Devi]
 related: ["[[shiva]]", "[[ganesha]]"]
 requires: ["[[shiva]]"]
 lists: ["[[hindu-heroes]]"]
-tour_order: 1
+tour_order: 3
 read: false
 ---
 
 # Parvati
+
 
 
 <!-- foundations -->

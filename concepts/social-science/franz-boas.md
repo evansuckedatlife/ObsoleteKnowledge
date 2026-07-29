@@ -4,15 +4,22 @@ category: social-science
 defines:
   - Franz Boas
   - Franz Uri Boas
-related: ["[[margaret-mead]]", "[[ruth-benedict]]", "[[cultural-relativism]]"]
-requires: []
+related: ["[[margaret-mead]]", "[[ruth-benedict]]", "[[cultural-relativism]]", "[[ottoman-empire]]", "[[enlightenment]]", "[[ancient-greece]]"]
+requires: ["[[william-james]]"]
 lists:
   - "[[anthropologists]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Franz Boas
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -5,11 +5,12 @@ defines: [Cassandra]
 related: ["[[priam]]", "[[hecuba]]", "[[the-iliad]]", "[[chapmans-homer]]", "[[james-joyce]]"]
 requires: ["[[apollo]]"]
 lists: ["[[trojan-war-heroes]]", "[[mortal-women-in-greek-myth]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Cassandra
+
 
 
 <!-- foundations -->

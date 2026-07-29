@@ -2,14 +2,21 @@
 type: concept
 category: performance
 defines: [Modern dance, Contemporary dance]
-related: ["[[martha-graham]]", "[[isadora-duncan]]", "[[alvin-ailey]]", "[[merce-cunningham]]", "[[twyla-tharp]]", "[[ballet]]", "[[dance]]", "[[body-movement]]", "[[expressionism]]", "[[postmodernism]]", "[[twentieth-century-art]]", "[[american-culture]]"]
-requires: []
+related: ["[[martha-graham]]", "[[isadora-duncan]]", "[[alvin-ailey]]", "[[merce-cunningham]]", "[[twyla-tharp]]", "[[ballet]]", "[[dance]]", "[[body-movement]]", "[[expressionism]]", "[[postmodernism]]", "[[twentieth-century-art]]", "[[american-culture]]", "[[modernism]]", "[[united-states]]"]
+requires: ["[[ballet]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Modern Dance
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

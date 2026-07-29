@@ -12,6 +12,7 @@ read: false
 # Ma'at
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

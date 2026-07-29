@@ -5,11 +5,12 @@ defines: [Phillips Curve]
 related: ["[[monetary-policy]]", "[[inflation]]", "[[unemployment]]", "[[john-maynard-keynes]]", "[[milton-friedman]]"]
 requires: ["[[monetary-policy]]"]
 lists: []
-tour_order: 1
+tour_order: 4
 read: false
 ---
 
 # Phillips Curve
+
 
 
 <!-- foundations -->

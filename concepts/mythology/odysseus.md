@@ -12,6 +12,7 @@ read: false
 # Odysseus
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
