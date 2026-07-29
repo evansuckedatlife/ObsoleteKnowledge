@@ -3,7 +3,7 @@ type: person
 category: literature
 defines: [William Shakespeare, Shakespeare, shakespearean-drama]
 aliases: [shakespeare, Shakespeare]
-related: ["[[hamlet]]", "[[macbeth]]", "[[a-midsummer-nights-dream]]", "[[othello]]", "[[king-lear]]", "[[the-tempest]]", "[[romeo-and-juliet]]", "[[the-merchant-of-venice]]", "[[sonnet]]", "[[elizabethan-england]]", "[[the-globe-theatre]]", "[[tragedy]]", "[[comedy]]", "[[iambic-pentameter]]", "[[england]]"]
+related: ["[[hamlet]]", "[[macbeth]]", "[[a-midsummer-nights-dream]]", "[[othello]]", "[[king-lear]]", "[[the-tempest]]", "[[romeo-and-juliet]]", "[[the-merchant-of-venice]]", "[[sonnet]]", "[[elizabethan-england]]", "[[the-globe-theatre]]", "[[tragedy]]", "[[comedy]]", "[[iambic-pentameter]]", "[[england]]", "[[renaissance]]"]
 requires: []
 lists: []
 tour_order: 0

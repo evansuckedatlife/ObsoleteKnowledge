@@ -2,7 +2,7 @@
 type: person
 category: music
 defines: ["Dmitri Shostakovich", "Shostakovich"]
-related: ["[[20th-century-composers]]", "[[cold-war]]"]
+related: ["[[20th-century-composers]]", "[[cold-war]]", "[[soviet-union]]"]
 requires: []
 lists: ["[[20th-century-composers]]"]
 tour_order: 0

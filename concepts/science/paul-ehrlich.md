@@ -2,7 +2,7 @@
 type: person
 category: science
 defines: [Paul Ehrlich]
-related: ["[[chemotherapy]]", "[[immunology]]", "[[syphilis]]"]
+related: ["[[chemotherapy]]", "[[immunology]]", "[[syphilis]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[nobel-prize-winners-in-medicine]]"]
 tour_order: 0

@@ -2,7 +2,7 @@
 type: person
 category: visual-art
 defines: ["Frank Lloyd Wright"]
-related: ["[[walter-gropius]]", "[[le-corbusier]]", "[[mies-van-der-rohe]]", "[[bauhaus]]"]
+related: ["[[walter-gropius]]", "[[le-corbusier]]", "[[mies-van-der-rohe]]", "[[bauhaus]]", "[[united-states]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[architects]]"]
 tour_order: 0

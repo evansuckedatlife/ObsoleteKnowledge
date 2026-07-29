@@ -2,7 +2,7 @@
 type: person
 category: history
 defines: ["Alexander I"]
-related: ["[[catherine-ii]]", "[[napoleon]]", "[[congress-of-vienna]]", "[[patriotic-war-1812]]", "[[holy-alliance]]"]
+related: ["[[catherine-ii]]", "[[napoleon]]", "[[congress-of-vienna]]", "[[patriotic-war-1812]]", "[[holy-alliance]]", "[[st-petersburg]]"]
 requires: []
 lists: ["[[russian-tsars]]"]
 tour_order: 0

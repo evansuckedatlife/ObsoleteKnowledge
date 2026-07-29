@@ -4,14 +4,21 @@ category: geography
 defines:
   - Delaware River
 related: ["[[new-jersey]]", "[[pennsylvania]]", "[[atlantic-ocean]]", "[[american-revolution]]", "[[george-washington]]"]
-requires: []
+requires: ["[[united-states]]"]
 lists:
   - "[[north-american-rivers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Delaware River
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

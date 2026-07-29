@@ -12,6 +12,7 @@ read: false
 # Jefferson's First Inauguration
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -4,18 +4,22 @@ category: history
 defines:
   - "Bush v. Gore"
   - "2000 presidential election"
-related:
-  - "[[2000-united-states-presidential-election]]"
-  - "[[florida-recount]]"
-  - "[[equal-protection-clause]]"
-requires: []
+related: ["[[2000-united-states-presidential-election]]", "[[florida-recount]]", "[[equal-protection-clause]]", "[[united-states]]"]
+requires: ["[[american-revolution]]"]
 lists:
   - "[[supreme-court-cases-2]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Bush v. Gore
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

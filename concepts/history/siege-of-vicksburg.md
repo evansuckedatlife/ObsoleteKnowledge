@@ -5,11 +5,12 @@ defines: [Siege of Vicksburg, Vicksburg]
 related: ["[[american-civil-war]]", "[[ulysses-grant]]", "[[john-pemberton]]", "[[western-theater]]", "[[mississippi-river]]"]
 requires: ["[[american-civil-war]]"]
 lists: ["[[civil-war-battles]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Siege of Vicksburg
+
 
 
 <!-- foundations -->

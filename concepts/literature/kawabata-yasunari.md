@@ -4,7 +4,7 @@ category: literature
 defines:
   - "Kawabata Yasunari"
   - "Yasunari Kawabata"
-related: ["[[showa-period]]", "[[snow-country]]", "[[beauty-and-sadness]]", "[[nobel-prize-in-literature]]", "[[japan]]", "[[existentialism]]", "[[buddhism]]"]
+related: ["[[showa-period]]", "[[snow-country]]", "[[beauty-and-sadness]]", "[[nobel-prize-in-literature]]", "[[japan]]", "[[existentialism]]", "[[buddhism]]", "[[world-war-ii]]"]
 requires: []
 lists:
   - "[[japanese-authors]]"

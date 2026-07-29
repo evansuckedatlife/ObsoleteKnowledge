@@ -14,6 +14,7 @@ read: false
 # Virginia Hall
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -3,25 +3,16 @@ type: person
 category: literature
 defines:
   - Gwendolyn Brooks
-related:
-  - "[[harlem-renaissance]]"
-  - "[[modern-american-poetry]]"
-requires:
-  - "[[harlem-renaissance]]"
+related: ["[[harlem-renaissance]]", "[[modern-american-poetry]]", "[[civil-rights-movement]]"]
+requires: []
 lists:
   - "[[african-american-authors]]"
-tour_order: 1
+tour_order: 0
 read: true
 ---
 
 # Gwendolyn Brooks
 
-
-<!-- foundations -->
-```dataviewjs
-dv.view("_dv/foundations")
-```
-<!-- /foundations -->
 
 ## summary
 

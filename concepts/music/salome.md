@@ -2,14 +2,21 @@
 type: work
 category: music
 defines: [Salome]
-related: ["[[operas]]", "[[christianity]]"]
-requires: []
+related: ["[[operas]]", "[[christianity]]", "[[germany]]", "[[jesus]]"]
+requires: ["[[opera]]"]
 lists: ["[[operas]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Salome
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

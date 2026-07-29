@@ -4,15 +4,22 @@ category: history
 defines:
   - Bull Moose Party
   - Progressive Party (1912)
-related: ["[[theodore-roosevelt]]", "[[william-howard-taft]]", "[[woodrow-wilson]]", "[[american-third-parties]]"]
-requires: []
+related: ["[[theodore-roosevelt]]", "[[william-howard-taft]]", "[[woodrow-wilson]]", "[[american-third-parties]]", "[[united-states]]"]
+requires: ["[[american-revolution]]"]
 lists:
   - "[[american-third-parties]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Bull Moose Party
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

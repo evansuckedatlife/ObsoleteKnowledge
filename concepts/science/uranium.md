@@ -2,7 +2,7 @@
 type: element
 category: science
 defines: ["Uranium", "U"]
-related: ["[[helium]]", "[[gold]]", "[[plutonium]]", "[[manhattan-project]]"]
+related: ["[[helium]]", "[[gold]]", "[[plutonium]]", "[[manhattan-project]]", "[[cold-war]]"]
 requires: []
 lists: ["[[chemical-elements]]"]
 tour_order: 0

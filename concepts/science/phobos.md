@@ -2,7 +2,7 @@
 type: place
 category: science
 defines: [Phobos]
-related: ["[[mars]]", "[[deimos]]", "[[tidal-forces]]"]
+related: ["[[mars]]", "[[deimos]]", "[[tidal-forces]]", "[[space-race]]"]
 requires: []
 lists: ["[[moons]]"]
 tour_order: 0

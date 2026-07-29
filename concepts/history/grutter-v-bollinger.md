@@ -15,6 +15,7 @@ read: false
 # Grutter v. Bollinger
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

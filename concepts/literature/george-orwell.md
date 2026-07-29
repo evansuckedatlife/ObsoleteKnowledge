@@ -2,7 +2,7 @@
 type: person
 category: literature
 defines: ["George Orwell", "Eric Arthur Blair"]
-related: ["[[nineteen-eighty-four]]", "[[animal-farm]]", "[[dystopia]]", "[[totalitarianism]]", "[[political-satire]]", "[[world-war-ii]]", "[[cold-war]]"]
+related: ["[[nineteen-eighty-four]]", "[[animal-farm]]", "[[dystopia]]", "[[totalitarianism]]", "[[political-satire]]", "[[world-war-ii]]", "[[cold-war]]", "[[soviet-union]]"]
 requires: []
 lists: ["[[authors-of-speculative-fiction]]"]
 tour_order: 0

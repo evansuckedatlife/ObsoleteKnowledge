@@ -2,14 +2,21 @@
 type: event
 category: history
 defines: [Assassination of Martin Luther King Jr., King assassination, MLK assassination]
-related: ["[[martin-luther-king-jr]]", "[[james-earl-ray]]", "[[civil-rights-movement]]", "[[memphis-tennessee]]"]
-requires: []
+related: ["[[martin-luther-king-jr]]", "[[james-earl-ray]]", "[[civil-rights-movement]]", "[[memphis-tennessee]]", "[[united-states]]", "[[christianity]]"]
+requires: ["[[civil-rights-movement]]"]
 lists: ["[[assassinations]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Assassination of Martin Luther King Jr.
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

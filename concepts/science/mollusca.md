@@ -2,7 +2,7 @@
 type: species
 category: science
 defines: ["Mollusca", "mollusks"]
-related: ["[[annelida]]", "[[arthropoda]]"]
+related: ["[[annelida]]", "[[arthropoda]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[phyla]]"]
 tour_order: 0

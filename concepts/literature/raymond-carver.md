@@ -2,7 +2,7 @@
 type: person
 category: literature
 defines: ["Raymond Carver", Carver]
-related: ["[[american-literature]]", "[[minimalism]]", "[[working-class-literature]]", "[[dirty-realism]]"]
+related: ["[[american-literature]]", "[[minimalism]]", "[[working-class-literature]]", "[[dirty-realism]]", "[[united-states]]"]
 requires: []
 lists: ["[[short-story-authors]]"]
 tour_order: 0

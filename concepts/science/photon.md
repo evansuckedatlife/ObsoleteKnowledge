@@ -12,6 +12,7 @@ read: false
 # Photon
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

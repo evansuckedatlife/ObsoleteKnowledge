@@ -12,6 +12,7 @@ read: false
 # Ernest Hemingway
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

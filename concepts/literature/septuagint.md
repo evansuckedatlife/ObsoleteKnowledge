@@ -9,11 +9,12 @@ related: ["[[hebrew-bible]]", "[[koine-greek]]", "[[alexandria]]", "[[jewish-dia
 requires: ["[[hebrew-bible]]"]
 lists:
   - "[[translations]]"
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Septuagint
+
 
 
 <!-- foundations -->

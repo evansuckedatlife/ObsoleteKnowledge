@@ -14,6 +14,7 @@ read: false
 # The Last Supper
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

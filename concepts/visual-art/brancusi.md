@@ -4,15 +4,22 @@ category: visual-art
 defines:
   - Constantin Brancusi
   - Brancusi
-related: ["[[bird-in-space]]", "[[modernist-sculpture]]", "[[abstraction]]", "[[rodin]]"]
-requires: []
+related: ["[[bird-in-space]]", "[[modernist-sculpture]]", "[[abstraction]]", "[[rodin]]", "[[france]]", "[[world-war-i]]"]
+requires: ["[[constructivism]]"]
 lists:
   - "[[sculptors]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Constantin Brancusi
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

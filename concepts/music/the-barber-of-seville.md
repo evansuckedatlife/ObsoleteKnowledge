@@ -2,14 +2,21 @@
 type: work
 category: music
 defines: ["The Barber of Seville", "Il barbiere di Siviglia"]
-related: ["[[operas]]", "[[the-marriage-of-figaro]]"]
-requires: []
+related: ["[[operas]]", "[[the-marriage-of-figaro]]", "[[spain]]"]
+requires: ["[[opera]]"]
 lists: ["[[operas]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The Barber of Seville
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

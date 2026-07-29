@@ -12,6 +12,7 @@ read: false
 # George III
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

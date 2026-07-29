@@ -15,6 +15,7 @@ read: false
 # Marat
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

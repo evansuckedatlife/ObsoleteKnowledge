@@ -5,12 +5,13 @@ defines: [Battle of Hampton Roads, USS Monitor, CSS Virginia, Ironclads]
 related: ["[[american-civil-war]]", "[[naval-warfare]]", "[[ironclad-ships]]", "[[virginia]]"]
 requires: ["[[american-civil-war]]"]
 lists: ["[[civil-war-battles]]"]
-tour_order: 1
+tour_order: 2
 read: false
 aliases: [hampton-roads]
 ---
 
 # Battle of Hampton Roads
+
 
 
 <!-- foundations -->

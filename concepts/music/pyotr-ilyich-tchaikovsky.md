@@ -3,7 +3,7 @@ type: person
 category: music
 defines: ["Pyotr Ilyich Tchaikovsky", "Tchaikovsky"]
 aliases: [tchaikovsky]
-related: ["[[romantic-era-composers]]", "[[ballets]]"]
+related: ["[[romantic-era-composers]]", "[[ballets]]", "[[st-petersburg]]"]
 requires: []
 lists: ["[[romantic-era-composers]]"]
 tour_order: 0

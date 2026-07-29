@@ -15,6 +15,7 @@ read: false
 # Doctor Faustus
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

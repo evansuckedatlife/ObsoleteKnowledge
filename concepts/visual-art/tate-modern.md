@@ -3,7 +3,7 @@ type: place
 category: visual-art
 defines:
   - Tate Modern
-related: ["[[modern-and-contemporary-art]]", "[[london]]", "[[industrial-repurposing]]", "[[abstract-expressionism]]"]
+related: ["[[modern-and-contemporary-art]]", "[[london]]", "[[industrial-repurposing]]", "[[abstract-expressionism]]", "[[england]]", "[[british-empire]]"]
 requires: []
 lists:
   - "[[art-museums]]"

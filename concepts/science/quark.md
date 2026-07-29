@@ -4,7 +4,7 @@ category: science
 defines:
   - Quark
 related: ["[[fermion]]", "[[hadron]]", "[[baryon]]", "[[meson]]", "[[quantum-chromodynamics]]"]
-requires: ["[[fermion]]", "[[hadron]]", "[[standard-model]]"]
+requires: ["[[fermion]]", "[[standard-model]]"]
 lists:
   - "[[classes-of-particles]]"
 tour_order: 3
@@ -12,6 +12,7 @@ read: true
 ---
 
 # Quark
+
 
 
 <!-- foundations -->

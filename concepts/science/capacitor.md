@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [Capacitor]
-related: ["[[resistor]]", "[[dielectric]]", "[[capacitance]]", "[[energy-storage]]"]
+related: ["[[resistor]]", "[[dielectric]]", "[[capacitance]]", "[[energy-storage]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[circuit-components]]"]
 tour_order: 0

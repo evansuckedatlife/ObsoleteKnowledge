@@ -3,15 +3,22 @@ type: event
 category: history
 defines:
   - Battle of Tarawa
-related: ["[[battle-of-guadalcanal]]", "[[united-states-marine-corps]]", "[[gilbert-islands]]"]
-requires: []
+related: ["[[battle-of-guadalcanal]]", "[[united-states-marine-corps]]", "[[gilbert-islands]]", "[[japan]]"]
+requires: ["[[world-war-ii]]"]
 lists:
   - "[[world-war-ii-pacific-campaigns]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Battle of Tarawa
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

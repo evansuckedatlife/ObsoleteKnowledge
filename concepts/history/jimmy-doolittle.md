@@ -15,6 +15,7 @@ read: false
 # Jimmy Doolittle
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

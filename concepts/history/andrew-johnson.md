@@ -5,11 +5,12 @@ defines: [Andrew Johnson]
 related: ["[[reconstruction-era]]", "[[impeachment-of-andrew-johnson]]", "[[14th-amendment]]", "[[reconstruction-acts]]", "[[freedmen-bureau]]", "[[abraham-lincoln]]", "[[radical-republicans]]", "[[andrew-johnson-inauguration]]"]
 requires: ["[[american-civil-war]]"]
 lists: []
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Andrew Johnson
+
 
 
 <!-- foundations -->

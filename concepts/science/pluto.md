@@ -2,7 +2,7 @@
 type: place
 category: science
 defines: [Pluto]
-related: ["[[kuiper-belt]]", "[[eris]]", "[[neptune]]", "[[dwarf-planet]]"]
+related: ["[[kuiper-belt]]", "[[eris]]", "[[neptune]]", "[[dwarf-planet]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[dwarf-planets-comets-and-asteroids]]"]
 tour_order: 0

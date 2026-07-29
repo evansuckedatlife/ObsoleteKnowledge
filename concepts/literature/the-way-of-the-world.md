@@ -3,7 +3,7 @@ type: work
 category: literature
 defines:
   - The Way of the World
-related: ["[[william-congreve]]", "[[restoration-comedy]]", "[[wit-and-manners]]"]
+related: ["[[william-congreve]]", "[[restoration-comedy]]", "[[wit-and-manners]]", "[[england]]", "[[london]]"]
 requires: []
 lists:
   - "[[non-shakespeare-classical-english-dramas]]"

@@ -3,15 +3,22 @@ type: person
 category: music
 defines:
   - Charles Mingus
-related: ["[[duke-ellington]]", "[[jazz]]", "[[john-coltrane]]", "[[harlem-renaissance]]"]
-requires: []
+related: ["[[duke-ellington]]", "[[jazz]]", "[[john-coltrane]]", "[[harlem-renaissance]]", "[[united-states]]"]
+requires: ["[[jazz]]"]
 lists:
   - "[[jazz-musicians]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Charles Mingus
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

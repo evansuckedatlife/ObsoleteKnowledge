@@ -2,14 +2,21 @@
 type: person
 category: science
 defines: [James Watson, Francis Crick]
-related: ["[[dna]]", "[[molecular-biology]]", "[[rosalind-franklin]]"]
-requires: []
+related: ["[[dna]]", "[[molecular-biology]]", "[[rosalind-franklin]]", "[[world-war-ii]]", "[[england]]"]
+requires: ["[[dna]]"]
 lists: ["[[nobel-prize-winners-in-medicine]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # James Watson and Francis Crick
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

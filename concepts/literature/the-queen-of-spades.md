@@ -3,15 +3,22 @@ type: work
 category: literature
 defines:
   - The Queen of Spades
-related: ["[[alexander-pushkin]]", "[[supernatural-fiction]]", "[[obsession]]"]
-requires: []
+related: ["[[alexander-pushkin]]", "[[supernatural-fiction]]", "[[obsession]]", "[[st-petersburg]]"]
+requires: ["[[russian-literature]]"]
 lists:
   - "[[works-of-russian-short-fiction]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The Queen of Spades
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

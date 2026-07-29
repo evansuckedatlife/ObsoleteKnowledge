@@ -8,11 +8,12 @@ related: ["[[css-virginia]]", "[[american-civil-war]]", "[[ironclad-warships]]",
 requires: ["[[american-civil-war]]"]
 lists:
   - "[[american-warships]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # USS Monitor
+
 
 
 <!-- foundations -->

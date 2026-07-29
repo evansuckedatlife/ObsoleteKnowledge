@@ -17,6 +17,7 @@ read: true
 # Alcohol
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

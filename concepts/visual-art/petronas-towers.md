@@ -4,7 +4,7 @@ category: visual-art
 defines:
   - Petronas Twin Towers
   - Petronas Towers
-related: ["[[cesar-pelli]]", "[[kuala-lumpur]]", "[[postmodernism]]"]
+related: ["[[cesar-pelli]]", "[[kuala-lumpur]]", "[[postmodernism]]", "[[china]]", "[[industrial-revolution]]"]
 requires: []
 lists:
   - "[[skyscrapers]]"

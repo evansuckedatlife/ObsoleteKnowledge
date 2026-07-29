@@ -6,11 +6,12 @@ aliases: [reconstruction]
 related: ["[[abraham-lincoln]]", "[[andrew-johnson]]", "[[ulysses-s-grant]]", "[[14th-amendment]]", "[[radical-republicans]]", "[[ku-klux-klan]]", "[[american-civil-war]]"]
 requires: ["[[american-civil-war]]"]
 lists: []
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Reconstruction Era
+
 
 
 <!-- foundations -->

@@ -13,6 +13,7 @@ read: false
 # And Then There Were None
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

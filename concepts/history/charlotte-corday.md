@@ -15,6 +15,7 @@ read: false
 # Charlotte Corday
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

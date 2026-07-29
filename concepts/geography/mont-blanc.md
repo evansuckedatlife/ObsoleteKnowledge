@@ -5,14 +5,21 @@ defines:
   - Mont Blanc
   - Monte Bianco
 related: ["[[the-matterhorn]]", "[[mount-fuji]]", "[[alps]]", "[[france]]", "[[italy]]"]
-requires: []
+requires: ["[[france]]", "[[italy]]"]
 lists:
   - "[[mountains]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Mont Blanc
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -15,6 +15,7 @@ read: true
 # Nazi Germany
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

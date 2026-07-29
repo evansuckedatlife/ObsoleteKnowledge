@@ -2,7 +2,7 @@
 type: element
 category: science
 defines: ["Helium", "He"]
-related: ["[[hydrogen]]", "[[neon]]", "[[uranium]]"]
+related: ["[[hydrogen]]", "[[neon]]", "[[uranium]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[chemical-elements]]"]
 tour_order: 0

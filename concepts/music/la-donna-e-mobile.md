@@ -12,6 +12,7 @@ read: false
 # La donna è mobile
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

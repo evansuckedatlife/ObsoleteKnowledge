@@ -12,6 +12,7 @@ read: false
 # Vesti la giubba
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

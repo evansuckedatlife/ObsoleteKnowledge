@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: ["Ketone", "ketones"]
-related: ["[[aldehyde]]", "[[alcohol]]", "[[organic-reactions]]"]
+related: ["[[aldehyde]]", "[[alcohol]]", "[[organic-reactions]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[functional-groups]]"]
 tour_order: 0

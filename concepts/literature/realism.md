@@ -2,7 +2,7 @@
 type: concept
 category: literature
 defines: [Realism, Literary Realism]
-related: ["[[gustave-flaubert]]", "[[balzac]]", "[[leo-tolstoy]]", "[[george-eliot]]", "[[fyodor-dostoevsky]]", "[[naturalism]]", "[[romanticism]]"]
+related: ["[[gustave-flaubert]]", "[[balzac]]", "[[leo-tolstoy]]", "[[george-eliot]]", "[[fyodor-dostoevsky]]", "[[naturalism]]", "[[romanticism]]", "[[industrial-revolution]]"]
 requires: []
 lists: []
 tour_order: 0

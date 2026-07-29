@@ -12,6 +12,7 @@ read: false
 # Spin
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

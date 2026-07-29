@@ -2,15 +2,22 @@
 type: event
 category: history
 defines: [Battle of Salamis]
-related: ["[[themistocles]]", "[[xerxes]]", "[[persian-wars]]"]
-requires: []
+related: ["[[themistocles]]", "[[xerxes]]", "[[persian-wars]]", "[[ancient-greece]]"]
+requires: ["[[achaemenid-empire]]"]
 lists: ["[[battles-of-the-ancient-world]]"]
-tour_order: 0
+tour_order: 1
 read: false
 aliases: [salamis]
 ---
 
 # Battle of Salamis
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

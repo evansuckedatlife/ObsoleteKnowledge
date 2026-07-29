@@ -4,7 +4,7 @@ category: visual-art
 defines:
   - One World Trade Center
   - Freedom Tower
-related: ["[[david-childs]]", "[[new-york-city]]", "[[september-11]]"]
+related: ["[[david-childs]]", "[[new-york-city]]", "[[september-11]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[skyscrapers]]"

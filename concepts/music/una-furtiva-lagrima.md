@@ -2,14 +2,21 @@
 type: phrase
 category: music
 defines: ["Una furtiva lagrima", "A furtive tear"]
-related: ["[[elisir-d-amore]]", "[[donizetti]]", "[[tenor]]"]
-requires: []
+related: ["[[elisir-d-amore]]", "[[donizetti]]", "[[tenor]]", "[[italy]]"]
+requires: ["[[opera]]"]
 lists: ["[[arias]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Una furtiva lagrima
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

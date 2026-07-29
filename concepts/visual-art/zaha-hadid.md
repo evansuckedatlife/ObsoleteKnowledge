@@ -2,7 +2,7 @@
 type: person
 category: visual-art
 defines: ["Zaha Hadid"]
-related: ["[[frank-gehry]]", "[[deconstruction]]", "[[parametric-design]]"]
+related: ["[[frank-gehry]]", "[[deconstruction]]", "[[parametric-design]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[architects]]"]
 tour_order: 0

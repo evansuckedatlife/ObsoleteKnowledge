@@ -3,7 +3,7 @@ type: place
 category: history
 defines:
   - Apache
-related: ["[[native-american-peoples]]", "[[geronimo]]"]
+related: ["[[native-american-peoples]]", "[[geronimo]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[native-american-peoples]]"

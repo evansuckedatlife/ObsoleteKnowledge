@@ -12,6 +12,7 @@ read: false
 # Ralph Ellison
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

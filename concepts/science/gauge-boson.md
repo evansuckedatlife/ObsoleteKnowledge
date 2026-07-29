@@ -4,15 +4,22 @@ category: science
 defines:
   - Gauge boson
   - vector boson
-related: ["[[boson]]", "[[photon]]", "[[w-boson]]", "[[z-boson]]", "[[gluon]]"]
-requires: []
+related: ["[[boson]]", "[[photon]]", "[[w-boson]]", "[[z-boson]]", "[[gluon]]", "[[isaac-newton]]"]
+requires: ["[[quark]]"]
 lists:
   - "[[classes-of-particles]]"
-tour_order: 0
+tour_order: 4
 read: true
 ---
 
 # Gauge boson
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

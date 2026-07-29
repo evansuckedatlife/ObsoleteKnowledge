@@ -2,14 +2,21 @@
 type: work
 category: literature
 defines: [Poor Folk]
-related: ["[[fyodor-dostoevsky]]", "[[st-petersburg]]", "[[russian-literature]]"]
-requires: []
+related: ["[[fyodor-dostoevsky]]", "[[st-petersburg]]", "[[russian-literature]]", "[[industrial-revolution]]"]
+requires: ["[[fyodor-dostoevsky]]"]
 lists: ["[[works-by-dostoevsky]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Poor Folk
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

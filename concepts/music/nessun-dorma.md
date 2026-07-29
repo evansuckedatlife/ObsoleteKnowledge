@@ -2,14 +2,21 @@
 type: phrase
 category: music
 defines: ["Nessun dorma", "None shall sleep"]
-related: ["[[turandot]]", "[[luciano-pavarotti]]", "[[puccini-arias]]", "[[italy]]"]
-requires: []
+related: ["[[turandot]]", "[[luciano-pavarotti]]", "[[puccini-arias]]", "[[italy]]", "[[china]]"]
+requires: ["[[opera]]"]
 lists: ["[[arias]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Nessun dorma
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -3,13 +3,20 @@ type: work
 category: music
 defines: ["Appassionata Sonata", "Piano Sonata No. 23", "Appassionata"]
 related: ["[[works-by-beethoven]]", "[[piano-sonatas]]"]
-requires: []
+requires: ["[[sonata-form]]"]
 lists: ["[[works-by-beethoven]]", "[[piano-sonatas]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Appassionata Sonata
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

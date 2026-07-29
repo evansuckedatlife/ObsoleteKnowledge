@@ -12,6 +12,7 @@ read: false
 # Miranda v. Arizona
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

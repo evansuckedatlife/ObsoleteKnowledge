@@ -2,7 +2,7 @@
 type: person
 category: music
 defines: ["Maurice Ravel", "Ravel"]
-related: ["[[20th-century-composers]]", "[[early-20th-century-european-composers]]", "[[modernism]]"]
+related: ["[[20th-century-composers]]", "[[early-20th-century-european-composers]]", "[[modernism]]", "[[france]]"]
 requires: []
 lists: ["[[20th-century-composers]]", "[[early-20th-century-european-composers]]"]
 tour_order: 0

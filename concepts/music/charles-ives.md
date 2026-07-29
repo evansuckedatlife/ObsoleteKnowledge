@@ -2,7 +2,7 @@
 type: person
 category: music
 defines: ["Charles Ives", "Ives"]
-related: ["[[20th-century-composers]]", "[[american-composers]]", "[[united-states]]"]
+related: ["[[20th-century-composers]]", "[[american-composers]]", "[[united-states]]", "[[modernism]]"]
 requires: []
 lists: ["[[20th-century-composers]]", "[[american-composers]]"]
 tour_order: 0

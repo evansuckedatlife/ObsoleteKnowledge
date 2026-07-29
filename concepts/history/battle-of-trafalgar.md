@@ -3,15 +3,22 @@ type: event
 category: history
 defines:
   - Battle of Trafalgar
-related: ["[[napoleon-bonaparte]]", "[[nelson-horatio]]", "[[british-navy]]", "[[spanish-armada]]", "[[england]]", "[[france]]"]
-requires: []
+related: ["[[napoleon-bonaparte]]", "[[nelson-horatio]]", "[[british-navy]]", "[[spanish-armada]]", "[[england]]", "[[france]]", "[[spain]]"]
+requires: ["[[napoleon-bonaparte]]"]
 lists:
   - "[[napoleonic-battles]]"
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Battle of Trafalgar
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: ["Kelvin scale", "absolute temperature scale"]
-related: ["[[celsius-scale]]", "[[fahrenheit-scale]]", "[[temperature]]"]
+related: ["[[celsius-scale]]", "[[fahrenheit-scale]]", "[[temperature]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[scientific-scales]]"]
 tour_order: 0

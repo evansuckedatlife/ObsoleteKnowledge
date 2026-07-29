@@ -3,13 +3,20 @@ type: work
 category: music
 defines: [Carmen]
 related: ["[[operas]]", "[[arias]]", "[[spain]]", "[[france]]"]
-requires: []
+requires: ["[[opera]]"]
 lists: ["[[operas]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Carmen
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

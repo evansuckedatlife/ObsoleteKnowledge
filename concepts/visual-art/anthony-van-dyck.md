@@ -2,7 +2,7 @@
 type: person
 category: visual-art
 defines: [Anthony van Dyck, Van Dyck]
-related: ["[[peter-paul-rubens]]", "[[rembrandt-van-rijn]]", "[[diego-velazquez]]", "[[baroque-painters]]"]
+related: ["[[peter-paul-rubens]]", "[[rembrandt-van-rijn]]", "[[diego-velazquez]]", "[[baroque-painters]]", "[[england]]", "[[british-empire]]"]
 requires: []
 lists: ["[[baroque-painters]]"]
 tour_order: 0

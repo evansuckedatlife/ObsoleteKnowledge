@@ -3,7 +3,7 @@ type: person
 category: literature
 defines:
   - Arthur Miller
-related: ["[[american-drama]]", "[[moral-conscience]]", "[[mccarthyism]]", "[[tragedy]]", "[[new-york-city]]"]
+related: ["[[american-drama]]", "[[moral-conscience]]", "[[mccarthyism]]", "[[tragedy]]", "[[new-york-city]]", "[[great-depression]]"]
 requires: []
 lists:
   - "[[jewish-american-authors]]"

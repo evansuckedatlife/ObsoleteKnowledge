@@ -2,7 +2,7 @@
 type: person
 category: science
 defines: ["Werner Heisenberg", "Werner Karl Heisenberg"]
-related: ["[[niels-bohr]]", "[[albert-einstein]]", "[[erwin-schrodinger]]"]
+related: ["[[niels-bohr]]", "[[albert-einstein]]", "[[erwin-schrodinger]]", "[[cold-war]]", "[[consciousness]]"]
 requires: []
 lists: ["[[20th-century-physicists]]"]
 tour_order: 0

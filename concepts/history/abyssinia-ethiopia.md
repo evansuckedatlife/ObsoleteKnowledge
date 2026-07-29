@@ -2,7 +2,7 @@
 type: place
 category: history
 defines: ["Abyssinia", "Ethiopia"]
-related: ["[[greek-africa]]", "[[italian-invasion-of-ethiopia]]", "[[haile-selassie]]", "[[axumite-empire]]"]
+related: ["[[greek-africa]]", "[[italian-invasion-of-ethiopia]]", "[[haile-selassie]]", "[[axumite-empire]]", "[[egypt]]", "[[christianity]]"]
 requires: []
 lists:
   - "[[countries-once-known-by-different-names]]"

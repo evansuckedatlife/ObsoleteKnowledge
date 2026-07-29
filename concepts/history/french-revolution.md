@@ -12,6 +12,7 @@ read: false
 # French Revolution
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

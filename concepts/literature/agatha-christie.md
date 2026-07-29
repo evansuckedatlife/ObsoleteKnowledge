@@ -2,7 +2,7 @@
 type: person
 category: literature
 defines: [Agatha Christie, Mary Clarissa Miller]
-related: ["[[hercule-poirot]]", "[[miss-marple]]", "[[murder-on-the-orient-express]]", "[[the-murder-of-roger-ackroyd]]", "[[and-then-there-were-none]]", "[[detective-fiction]]", "[[mystery-novel]]", "[[british-crime-fiction]]", "[[england]]"]
+related: ["[[hercule-poirot]]", "[[miss-marple]]", "[[murder-on-the-orient-express]]", "[[the-murder-of-roger-ackroyd]]", "[[and-then-there-were-none]]", "[[detective-fiction]]", "[[mystery-novel]]", "[[british-crime-fiction]]", "[[england]]", "[[world-war-i]]"]
 requires: []
 lists: []
 tour_order: 0

@@ -12,6 +12,7 @@ read: false
 # Horatio Gates
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

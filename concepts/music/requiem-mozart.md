@@ -2,14 +2,21 @@
 type: work
 category: music
 defines: ["Requiem in D minor", "Mozart Requiem", "Requiem (Mozart)"]
-related: ["[[works-by-mozart]]"]
-requires: []
+related: ["[[works-by-mozart]]", "[[christianity]]"]
+requires: ["[[mass-form]]"]
 lists: ["[[works-by-mozart]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Requiem in D minor
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

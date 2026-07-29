@@ -2,7 +2,7 @@
 type: person
 category: science
 defines: ["George Gamow", "Georgiy Antonovich Gamov"]
-related: ["[[albert-einstein]]", "[[enrico-fermi]]"]
+related: ["[[albert-einstein]]", "[[enrico-fermi]]", "[[soviet-union]]", "[[world-war-ii]]"]
 requires: []
 lists: ["[[20th-century-physicists]]"]
 tour_order: 0

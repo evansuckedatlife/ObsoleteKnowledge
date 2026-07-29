@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: ["Grignard reaction", "Grignard reagent", "Grignard reagents", "Grignard reactions"]
-related: ["[[organic-halide]]", "[[alcohol]]", "[[ketone]]", "[[aldehyde]]"]
+related: ["[[organic-halide]]", "[[alcohol]]", "[[ketone]]", "[[aldehyde]]", "[[industrial-revolution]]", "[[france]]"]
 requires: []
 lists: ["[[organic-reactions]]"]
 tour_order: 0

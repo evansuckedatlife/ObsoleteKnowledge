@@ -2,7 +2,7 @@
 type: work
 category: music
 defines: ["Mozart string quartets", "String quartets of Mozart"]
-related: ["[[works-by-mozart]]", "[[enlightenment]]"]
+related: ["[[works-by-mozart]]", "[[enlightenment]]", "[[italy]]"]
 requires: []
 lists: ["[[works-by-mozart]]"]
 tour_order: 0

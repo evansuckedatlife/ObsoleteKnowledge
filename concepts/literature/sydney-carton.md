@@ -3,14 +3,21 @@ type: person
 category: literature
 defines: [Sydney Carton]
 related: ["[[a-tale-of-two-cities]]", "[[charles-dickens]]", "[[madame-defarge]]", "[[france]]", "[[french-revolution]]"]
-requires: []
+requires: ["[[charles-dickens]]"]
 lists:
   - "[[charles-dickens-characters-not-protagonists]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Sydney Carton
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

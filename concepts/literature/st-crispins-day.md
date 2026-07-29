@@ -2,14 +2,21 @@
 type: work
 category: literature
 defines: ["Saint Crispin's Day speech", "Agincourt speech", "We few, we happy few"]
-related: ["[[henry-v]]", "[[english-nationalism]]", "[[battle-of-agincourt]]", "[[england]]"]
-requires: []
+related: ["[[henry-v]]", "[[english-nationalism]]", "[[battle-of-agincourt]]", "[[england]]", "[[france]]"]
+requires: ["[[william-shakespeare]]"]
 lists: ["[[shakespearean-speeches]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Saint Crispin's Day speech
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

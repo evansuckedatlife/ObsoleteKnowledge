@@ -3,13 +3,20 @@ type: work
 category: music
 defines: ["Mozart piano sonatas", "Piano sonatas of Mozart"]
 related: ["[[works-by-mozart]]", "[[piano-sonatas]]"]
-requires: []
+requires: ["[[sonata-form]]"]
 lists: ["[[works-by-mozart]]", "[[piano-sonatas]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Mozart piano sonatas
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

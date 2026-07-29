@@ -12,6 +12,7 @@ read: false
 # CPU
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

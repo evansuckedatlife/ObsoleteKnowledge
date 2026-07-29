@@ -16,6 +16,7 @@ read: false
 # Malcolm X
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

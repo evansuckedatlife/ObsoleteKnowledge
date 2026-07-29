@@ -2,7 +2,7 @@
 type: concept
 category: literature
 defines: [Satire, Satirical Literature]
-related: ["[[jonathan-swift]]", "[[alexander-pope]]", "[[voltaire]]", "[[mark-twain]]", "[[george-orwell]]", "[[juvenal]]", "[[horace]]"]
+related: ["[[jonathan-swift]]", "[[alexander-pope]]", "[[voltaire]]", "[[mark-twain]]", "[[george-orwell]]", "[[juvenal]]", "[[horace]]", "[[socrates]]"]
 requires: []
 lists: []
 tour_order: 0

@@ -15,6 +15,7 @@ read: false
 # A Streetcar Named Desire
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

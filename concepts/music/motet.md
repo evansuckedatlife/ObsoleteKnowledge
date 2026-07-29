@@ -2,14 +2,21 @@
 type: concept
 category: music
 defines: [Motet]
-related: ["[[renaissance-music]]", "[[polyphony]]", "[[counterpoint]]", "[[josquin-des-prez]]", "[[orlando-di-lasso]]", "[[palestrrina]]", "[[liturgical-music]]", "[[sacred-music]]", "[[mass-form]]", "[[gregorian-chant]]", "[[medieval-music]]", "[[renaissance]]"]
-requires: []
+related: ["[[renaissance-music]]", "[[polyphony]]", "[[counterpoint]]", "[[josquin-des-prez]]", "[[orlando-di-lasso]]", "[[palestrrina]]", "[[liturgical-music]]", "[[sacred-music]]", "[[mass-form]]", "[[gregorian-chant]]", "[[medieval-music]]", "[[renaissance]]", "[[christianity]]"]
+requires: ["[[polyphony]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Motet
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

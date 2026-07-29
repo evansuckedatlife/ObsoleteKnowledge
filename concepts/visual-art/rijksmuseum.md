@@ -3,7 +3,7 @@ type: place
 category: visual-art
 defines:
   - Rijksmuseum
-related: ["[[dutch-golden-age]]", "[[rembrandt]]", "[[vermeer]]", "[[amsterdam]]"]
+related: ["[[dutch-golden-age]]", "[[rembrandt]]", "[[vermeer]]", "[[amsterdam]]", "[[industrial-revolution]]"]
 requires: []
 lists:
   - "[[art-museums]]"

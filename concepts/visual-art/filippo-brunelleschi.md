@@ -12,6 +12,7 @@ read: false
 # Filippo Brunelleschi
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

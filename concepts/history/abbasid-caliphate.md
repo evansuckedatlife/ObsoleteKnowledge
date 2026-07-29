@@ -5,7 +5,7 @@ defines:
   - Abbasid Caliphate
   - Abbasid Dynasty
   - House of Wisdom
-related: ["[[umayyad-caliphate]]", "[[fatimid-caliphate]]", "[[seljuk-empire]]"]
+related: ["[[umayyad-caliphate]]", "[[fatimid-caliphate]]", "[[seljuk-empire]]", "[[middle-east]]", "[[islam]]"]
 requires: []
 lists:
   - "[[medieval-islamic-dynasties]]"

@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [Gymnosperms, "gymnosperms", conifers, cycads, ginkgos, gnetophytes]
-related: ["[[pterophytes]]", "[[angiosperms]]", "[[seed]]", "[[monocots]]"]
+related: ["[[pterophytes]]", "[[angiosperms]]", "[[seed]]", "[[monocots]]", "[[age-of-exploration]]"]
 requires: []
 lists: ["[[plant-distinctions]]"]
 tour_order: 0

@@ -2,14 +2,21 @@
 type: phrase
 category: music
 defines: ["Casta diva", "Chaste goddess"]
-related: ["[[norma]]", "[[bellini]]", "[[soprano]]"]
-requires: []
+related: ["[[norma]]", "[[bellini]]", "[[soprano]]", "[[france]]"]
+requires: ["[[opera]]"]
 lists: ["[[arias]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Casta diva
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

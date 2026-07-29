@@ -13,6 +13,7 @@ read: false
 # Mr. Bumble
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

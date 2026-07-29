@@ -12,6 +12,7 @@ read: false
 # Francisco Madero
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

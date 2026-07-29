@@ -6,14 +6,21 @@ defines:
   - Mont Cervin
   - Monte Cervino
 related: ["[[mont-blanc]]", "[[alps]]", "[[mountain-climbing]]", "[[switzerland]]", "[[italy]]"]
-requires: []
+requires: ["[[italy]]"]
 lists:
   - "[[mountains]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The Matterhorn
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

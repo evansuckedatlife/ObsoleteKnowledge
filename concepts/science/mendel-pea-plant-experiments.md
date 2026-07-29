@@ -2,7 +2,7 @@
 type: event
 category: science
 defines: ["Mendel's pea-plant experiments", "Gregor Mendel's experiments with pea plants"]
-related: ["[[genetics]]", "[[heredity]]", "[[dominant-and-recessive]]", "[[law-of-segregation]]", "[[law-of-independent-assortment]]"]
+related: ["[[genetics]]", "[[heredity]]", "[[dominant-and-recessive]]", "[[law-of-segregation]]", "[[law-of-independent-assortment]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[scientific-experiments]]"]
 tour_order: 0

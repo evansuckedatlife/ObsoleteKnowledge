@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [DNA, "deoxyribonucleic acid"]
-related: ["[[rna]]", "[[dna-replication]]", "[[protein-synthesis]]", "[[gene]]", "[[chromosome]]"]
+related: ["[[rna]]", "[[dna-replication]]", "[[protein-synthesis]]", "[[gene]]", "[[chromosome]]", "[[world-war-ii]]"]
 requires: []
 lists: []
 tour_order: 0

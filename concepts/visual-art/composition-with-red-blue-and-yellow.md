@@ -4,15 +4,22 @@ category: visual-art
 defines:
   - Composition with Red, Blue and Yellow
   - Composition with Red Blue and Yellow
-related: ["[[piet-mondrian]]", "[[de-stijl]]", "[[abstract-art]]"]
-requires: []
+related: ["[[piet-mondrian]]", "[[de-stijl]]", "[[abstract-art]]", "[[industrial-revolution]]"]
+requires: ["[[de-stijl]]", "[[constructivism]]"]
 lists:
   - "[[20th-century-paintings]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Composition with Red, Blue and Yellow
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

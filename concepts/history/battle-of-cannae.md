@@ -2,15 +2,22 @@
 type: event
 category: history
 defines: [Battle of Cannae]
-related: ["[[hannibal]]", "[[scipio-africanus]]", "[[second-punic-war]]", "[[rome]]"]
-requires: []
+related: ["[[hannibal]]", "[[scipio-africanus]]", "[[second-punic-war]]", "[[rome]]", "[[italy]]"]
+requires: ["[[roman-empire]]"]
 lists: ["[[battles-of-the-ancient-world]]"]
-tour_order: 0
+tour_order: 1
 read: false
 aliases: [cannae]
 ---
 
 # Battle of Cannae
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

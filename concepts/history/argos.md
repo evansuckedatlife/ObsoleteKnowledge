@@ -4,7 +4,7 @@ category: history
 defines:
   - Argos
   - Argive
-related: ["[[diomedes]]", "[[agamemnon]]", "[[heracles]]", "[[danaus]]"]
+related: ["[[diomedes]]", "[[agamemnon]]", "[[heracles]]", "[[danaus]]", "[[ancient-greece]]"]
 requires: []
 lists:
   - "[[ancient-greek-places]]"

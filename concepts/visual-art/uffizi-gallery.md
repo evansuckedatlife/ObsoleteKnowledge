@@ -4,7 +4,7 @@ category: visual-art
 defines:
   - Uffizi Gallery
   - Uffizi
-related: ["[[italian-renaissance]]", "[[florence]]", "[[medici-family]]", "[[botticelli]]"]
+related: ["[[italian-renaissance]]", "[[florence]]", "[[medici-family]]", "[[botticelli]]", "[[italy]]", "[[renaissance]]"]
 requires: []
 lists:
   - "[[art-museums]]"

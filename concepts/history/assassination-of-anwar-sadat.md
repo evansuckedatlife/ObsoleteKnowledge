@@ -2,14 +2,21 @@
 type: event
 category: history
 defines: [Assassination of Anwar Sadat, Sadat assassination]
-related: ["[[anwar-sadat]]", "[[egyptian-islamic-jihad]]", "[[camp-david-accords]]", "[[egypt-israel-relations]]"]
-requires: []
+related: ["[[anwar-sadat]]", "[[egyptian-islamic-jihad]]", "[[camp-david-accords]]", "[[egypt-israel-relations]]", "[[egypt]]"]
+requires: ["[[anwar-sadat]]"]
 lists: ["[[assassinations]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Assassination of Anwar Sadat
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -4,7 +4,7 @@ category: visual-art
 defines:
   - Louvre
   - Musée du Louvre
-related: ["[[mona-lisa]]", "[[venus-de-milo]]", "[[winged-victory]]", "[[french-neoclassicism]]"]
+related: ["[[mona-lisa]]", "[[venus-de-milo]]", "[[winged-victory]]", "[[french-neoclassicism]]", "[[france]]"]
 requires: []
 lists:
   - "[[art-museums]]"

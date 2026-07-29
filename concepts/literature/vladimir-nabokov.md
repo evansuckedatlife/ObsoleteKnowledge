@@ -4,7 +4,7 @@ category: literature
 defines:
   - Vladimir Nabokov
   - Vladimir Vladimirovich Nabokov
-related: ["[[james-joyce]]", "[[literary-modernism]]"]
+related: ["[[james-joyce]]", "[[literary-modernism]]", "[[soviet-union]]", "[[cold-war]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[postmodern-authors]]"

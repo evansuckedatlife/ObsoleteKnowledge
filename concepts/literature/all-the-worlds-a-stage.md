@@ -3,13 +3,20 @@ type: work
 category: literature
 defines: ["All the world's a stage", "Seven Ages of Man", "Jacques's speech"]
 related: ["[[as-you-like-it]]", "[[theatrum-mundi]]", "[[existentialism]]"]
-requires: []
+requires: ["[[william-shakespeare]]"]
 lists: ["[[shakespearean-speeches]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # All the world's a stage
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -2,7 +2,7 @@
 type: person
 category: science
 defines: ["Enrico Fermi"]
-related: ["[[albert-einstein]]", "[[paul-dirac]]", "[[richard-feynman]]", "[[manhattan-project]]"]
+related: ["[[albert-einstein]]", "[[paul-dirac]]", "[[richard-feynman]]", "[[manhattan-project]]", "[[world-war-ii]]"]
 requires: []
 lists: ["[[20th-century-physicists]]"]
 tour_order: 0

@@ -2,14 +2,21 @@
 type: person
 category: literature
 defines: [William Faulkner]
-related: ["[[modernist-authors]]", "[[american-south]]", "[[stream-of-consciousness]]", "[[the-sound-and-the-fury]]"]
-requires: []
+related: ["[[modernist-authors]]", "[[american-south]]", "[[stream-of-consciousness]]", "[[the-sound-and-the-fury]]", "[[united-states]]", "[[civil-rights-movement]]"]
+requires: ["[[modernism]]"]
 lists: ["[[modernist-authors]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # William Faulkner
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

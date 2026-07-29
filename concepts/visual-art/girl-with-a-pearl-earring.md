@@ -3,14 +3,21 @@ type: work
 category: visual-art
 defines: ["Girl with a Pearl Earring"]
 related: ["[[vermeer]]", "[[dutch-golden-age]]"]
-requires: []
+requires: ["[[johannes-vermeer]]", "[[dutch-golden-age]]"]
 lists:
   - "[[dutch-paintings]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Girl with a Pearl Earring
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

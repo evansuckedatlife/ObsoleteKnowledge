@@ -14,6 +14,7 @@ read: false
 # Mary Wollstonecraft
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

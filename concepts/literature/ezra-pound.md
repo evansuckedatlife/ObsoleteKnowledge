@@ -12,6 +12,7 @@ read: false
 # Ezra Pound
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -15,6 +15,7 @@ read: false
 # The Virgin and Child with St. Anne
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

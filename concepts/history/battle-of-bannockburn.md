@@ -4,7 +4,7 @@ category: history
 defines:
   - Battle of Bannockburn
   - Bannockburn
-related: ["[[robert-the-bruce]]", "[[scottish-independence]]", "[[english-feudalism]]", "[[edward-ii]]", "[[medieval-scotland]]", "[[scotland]]"]
+related: ["[[robert-the-bruce]]", "[[scottish-independence]]", "[[english-feudalism]]", "[[edward-ii]]", "[[medieval-scotland]]", "[[scotland]]", "[[england]]"]
 requires: []
 lists:
   - "[[medieval-battles]]"

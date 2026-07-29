@@ -12,6 +12,7 @@ read: false
 # Battle of Britain
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

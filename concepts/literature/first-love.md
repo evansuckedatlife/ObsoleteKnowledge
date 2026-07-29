@@ -3,7 +3,7 @@ type: work
 category: literature
 defines:
   - First Love
-related: ["[[ivan-turgenev]]", "[[coming-of-age]]", "[[romantic-awakening]]"]
+related: ["[[ivan-turgenev]]", "[[coming-of-age]]", "[[romantic-awakening]]", "[[russian-empire]]"]
 requires: []
 lists:
   - "[[works-of-russian-short-fiction]]"

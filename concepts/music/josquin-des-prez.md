@@ -4,7 +4,7 @@ category: music
 defines:
   - Josquin des Prez
   - Joßquin
-related: ["[[renaissance-music]]", "[[motet]]", "[[mass-form]]", "[[renaissance]]"]
+related: ["[[renaissance-music]]", "[[motet]]", "[[mass-form]]", "[[renaissance]]", "[[france]]"]
 requires: []
 lists:
   - "[[pre-1700-composers]]"

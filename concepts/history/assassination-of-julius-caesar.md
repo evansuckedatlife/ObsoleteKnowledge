@@ -2,14 +2,21 @@
 type: event
 category: history
 defines: [Assassination of Julius Caesar, Caesar assassination]
-related: ["[[julius-caesar]]", "[[marcus-brutus]]", "[[roman-republic]]", "[[pompey]]", "[[octavian]]"]
-requires: []
+related: ["[[julius-caesar]]", "[[marcus-brutus]]", "[[roman-republic]]", "[[pompey]]", "[[octavian]]", "[[italy]]", "[[rome]]"]
+requires: ["[[roman-empire]]"]
 lists: ["[[assassinations]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Assassination of Julius Caesar
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

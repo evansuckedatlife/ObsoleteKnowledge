@@ -2,7 +2,7 @@
 type: person
 category: visual-art
 defines: ["Robert Bresson"]
-related: ["[[jean-renoir]]", "[[pickpocket]]"]
+related: ["[[jean-renoir]]", "[[pickpocket]]", "[[france]]"]
 requires: []
 lists:
   - "[[french-directors]]"

@@ -2,14 +2,21 @@
 type: work
 category: music
 defines: [Fidelio]
-related: ["[[operas]]", "[[works-by-beethoven]]", "[[enlightenment]]", "[[french-revolution]]"]
-requires: []
+related: ["[[operas]]", "[[works-by-beethoven]]", "[[enlightenment]]", "[[french-revolution]]", "[[spain]]"]
+requires: ["[[opera]]"]
 lists: ["[[works-by-beethoven]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Fidelio
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -2,7 +2,7 @@
 type: person
 category: literature
 defines: ["Gabriela Mistral", "Lucila Godoy Alcayaga"]
-related: ["[[chilean-literature]]", "[[poetry]]", "[[modernism]]", "[[desolation-poetry]]"]
+related: ["[[chilean-literature]]", "[[poetry]]", "[[modernism]]", "[[desolation-poetry]]", "[[world-war-ii]]"]
 requires: []
 lists: ["[[latin-american-authors]]"]
 tour_order: 0

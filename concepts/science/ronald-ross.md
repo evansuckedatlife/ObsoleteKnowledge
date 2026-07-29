@@ -2,7 +2,7 @@
 type: person
 category: science
 defines: [Ronald Ross]
-related: ["[[malaria]]", "[[parasite]]", "[[vector-borne-disease]]"]
+related: ["[[malaria]]", "[[parasite]]", "[[vector-borne-disease]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[nobel-prize-winners-in-medicine]]"]
 tour_order: 0

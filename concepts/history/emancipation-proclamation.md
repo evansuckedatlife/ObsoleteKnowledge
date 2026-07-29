@@ -5,11 +5,12 @@ defines: [Emancipation Proclamation]
 related: ["[[abraham-lincoln]]", "[[american-civil-war]]", "[[slavery-in-the-united-states]]", "[[reconstruction-era]]", "[[13th-amendment]]", "[[united-states-constitution]]", "[[gettysburg-address]]"]
 requires: ["[[american-civil-war]]"]
 lists: []
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Emancipation Proclamation
+
 
 
 <!-- foundations -->

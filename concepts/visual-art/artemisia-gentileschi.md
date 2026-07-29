@@ -2,14 +2,21 @@
 type: person
 category: visual-art
 defines: [Artemisia Gentileschi]
-related: ["[[caravaggio]]", "[[judith-leyster]]", "[[baroque-painters]]"]
-requires: []
+related: ["[[caravaggio]]", "[[judith-leyster]]", "[[baroque-painters]]", "[[italy]]", "[[roman-empire]]", "[[renaissance]]"]
+requires: ["[[caravaggio]]"]
 lists: ["[[baroque-painters]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Artemisia Gentileschi
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

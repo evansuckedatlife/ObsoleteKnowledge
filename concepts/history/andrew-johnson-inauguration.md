@@ -5,11 +5,12 @@ defines: ["Andrew Johnson's Inauguration", "Andrew Johnson Inauguration 1865"]
 related: ["[[andrew-johnson]]", "[[reconstruction]]", "[[thomas-jefferson]]"]
 requires: ["[[american-civil-war]]"]
 lists: ["[[presidential-inaugurations]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Andrew Johnson's Inauguration
+
 
 
 <!-- foundations -->

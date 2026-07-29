@@ -4,15 +4,22 @@ category: literature
 defines:
   - "Soylent Green"
   - Soylent Green (film)
-related: ["[[richard-fleischer]]", "[[dystopian-fiction]]", "[[science-fiction-film]]"]
-requires: []
+related: ["[[richard-fleischer]]", "[[dystopian-fiction]]", "[[science-fiction-film]]", "[[united-states]]"]
+requires: ["[[science-fiction]]"]
 lists:
   - "[[plot-twists]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Soylent Green
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

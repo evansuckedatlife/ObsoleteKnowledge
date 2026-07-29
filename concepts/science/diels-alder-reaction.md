@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: ["Diels-Alder reaction", "Diels-Alder reactions"]
-related: ["[[grignard-reaction]]", "[[ketone]]", "[[organic-reactions]]"]
+related: ["[[grignard-reaction]]", "[[ketone]]", "[[organic-reactions]]", "[[industrial-revolution]]", "[[france]]"]
 requires: []
 lists: ["[[organic-reactions]]"]
 tour_order: 0

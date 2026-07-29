@@ -12,6 +12,7 @@ read: false
 # German Expressionism
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -5,11 +5,12 @@ defines: [Election of 1876, "1876 US presidential election"]
 related: ["[[rutherford-hayes]]", "[[samuel-tilden]]", "[[reconstruction-era]]", "[[compromise-of-1877]]", "[[electoral-commission]]"]
 requires: ["[[reconstruction-era]]"]
 lists: ["[[elections]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Election of 1876
+
 
 
 <!-- foundations -->

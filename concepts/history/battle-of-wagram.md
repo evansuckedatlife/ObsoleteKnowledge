@@ -3,15 +3,22 @@ type: event
 category: history
 defines:
   - Battle of Wagram
-related: ["[[napoleon-bonaparte]]", "[[austria-hungary]]", "[[archduke-charles-of-austria]]", "[[france]]"]
-requires: []
+related: ["[[napoleon-bonaparte]]", "[[austria-hungary]]", "[[archduke-charles-of-austria]]", "[[france]]", "[[germany]]"]
+requires: ["[[napoleon-bonaparte]]"]
 lists:
   - "[[napoleonic-battles]]"
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Battle of Wagram
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

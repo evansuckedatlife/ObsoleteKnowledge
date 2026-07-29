@@ -2,7 +2,7 @@
 type: concept
 category: literature
 defines: [Russian literature, Russian novel, Russian canon]
-related: ["[[fyodor-dostoevsky]]", "[[leo-tolstoy]]", "[[ivan-turgenev]]", "[[anton-chekhov]]", "[[crime-and-punishment]]", "[[war-and-peace]]", "[[the-brothers-karamazov]]", "[[russian-empire]]", "[[nihilism-and-idealism]]", "[[psychological-realism]]"]
+related: ["[[fyodor-dostoevsky]]", "[[leo-tolstoy]]", "[[ivan-turgenev]]", "[[anton-chekhov]]", "[[crime-and-punishment]]", "[[war-and-peace]]", "[[the-brothers-karamazov]]", "[[russian-empire]]", "[[nihilism-and-idealism]]", "[[psychological-realism]]", "[[soviet-union]]", "[[russian-revolution]]", "[[st-petersburg]]"]
 requires: []
 lists: []
 tour_order: 0

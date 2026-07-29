@@ -2,7 +2,7 @@
 type: event
 category: history
 defines: ["American Revolution"]
-related: ["[[george-washington]]", "[[thomas-jefferson]]", "[[benjamin-franklin]]", "[[declaration-of-independence]]", "[[continental-congress]]", "[[boston-tea-party]]", "[[treaty-of-paris]]"]
+related: ["[[george-washington]]", "[[thomas-jefferson]]", "[[benjamin-franklin]]", "[[declaration-of-independence]]", "[[continental-congress]]", "[[boston-tea-party]]", "[[treaty-of-paris]]", "[[united-states]]", "[[england]]"]
 requires: []
 lists: []
 tour_order: 0

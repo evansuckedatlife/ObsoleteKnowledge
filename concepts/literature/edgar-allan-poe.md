@@ -2,7 +2,7 @@
 type: person
 category: literature
 defines: ["Edgar Allan Poe", Poe]
-related: ["[[the-raven]]", "[[romanticism]]", "[[gothic-literature]]", "[[american-literature]]"]
+related: ["[[the-raven]]", "[[romanticism]]", "[[gothic-literature]]", "[[american-literature]]", "[[american-civil-war]]"]
 requires: []
 lists: ["[[short-story-authors]]"]
 tour_order: 0

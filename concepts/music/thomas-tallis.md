@@ -3,7 +3,7 @@ type: person
 category: music
 defines:
   - Thomas Tallis
-related: ["[[chapel-royal]]", "[[english-renaissance]]", "[[motet]]"]
+related: ["[[chapel-royal]]", "[[english-renaissance]]", "[[motet]]", "[[england]]"]
 requires: []
 lists:
   - "[[pre-1700-composers]]"

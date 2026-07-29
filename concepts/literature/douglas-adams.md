@@ -2,7 +2,7 @@
 type: person
 category: literature
 defines: ["Douglas Adams"]
-related: ["[[the-hitchhiker-s-guide-to-the-galaxy]]", "[[dirk-gently]]", "[[science-fiction-comedy]]", "[[absurdist-speculative-fiction]]", "[[england]]"]
+related: ["[[the-hitchhiker-s-guide-to-the-galaxy]]", "[[dirk-gently]]", "[[science-fiction-comedy]]", "[[absurdist-speculative-fiction]]", "[[england]]", "[[cold-war]]"]
 requires: []
 lists: ["[[authors-of-speculative-fiction]]"]
 tour_order: 0

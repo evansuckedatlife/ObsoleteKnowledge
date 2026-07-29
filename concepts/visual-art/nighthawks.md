@@ -14,6 +14,7 @@ read: false
 # Nighthawks
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

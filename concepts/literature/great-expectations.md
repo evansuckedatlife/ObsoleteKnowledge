@@ -12,6 +12,7 @@ read: false
 # Great Expectations
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

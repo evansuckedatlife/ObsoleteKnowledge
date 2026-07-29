@@ -4,7 +4,7 @@ category: history
 defines:
   - Almoravid Dynasty
   - Almoravids
-related: ["[[almohad-caliphate]]", "[[al-andalus]]", "[[umayyad-caliphate]]"]
+related: ["[[almohad-caliphate]]", "[[al-andalus]]", "[[umayyad-caliphate]]", "[[spain]]", "[[islam]]", "[[sahara-desert]]"]
 requires: []
 lists:
   - "[[medieval-islamic-dynasties]]"

@@ -5,15 +5,22 @@ defines:
   - Rebecca
   - Rebecca (novel)
   - Rebecca (film)
-related: ["[[daphne-du-maurier]]", "[[gothic-fiction]]", "[[psychological-suspense]]", "[[england]]"]
-requires: []
+related: ["[[daphne-du-maurier]]", "[[gothic-fiction]]", "[[psychological-suspense]]", "[[england]]", "[[world-war-ii]]"]
+requires: ["[[gothic-literature]]"]
 lists:
   - "[[plot-twists]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Rebecca
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

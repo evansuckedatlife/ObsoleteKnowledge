@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: ["Fujita–Pearson scale", "Enhanced Fujita scale", "EF scale"]
-related: ["[[tornado]]", "[[wind-speed]]", "[[damage-assessment]]", "[[beaufort-wind-force-scale]]"]
+related: ["[[tornado]]", "[[wind-speed]]", "[[damage-assessment]]", "[[beaufort-wind-force-scale]]", "[[united-states]]"]
 requires: []
 lists: ["[[scientific-scales]]"]
 tour_order: 0

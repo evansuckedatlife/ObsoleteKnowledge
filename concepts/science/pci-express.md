@@ -2,14 +2,21 @@
 type: term
 category: science
 defines: [PCIe, PCI Express, PCI]
-related: ["[[motherboard]]", "[[graphics-card]]", "[[solid-state-drive]]"]
-requires: []
+related: ["[[motherboard]]", "[[graphics-card]]", "[[solid-state-drive]]", "[[cold-war]]"]
+requires: ["[[motherboard]]"]
 lists: ["[[computer-components]]"]
-tour_order: 0
+tour_order: 9
 read: false
 ---
 
 # PCI Express
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

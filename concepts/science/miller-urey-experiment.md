@@ -2,7 +2,7 @@
 type: event
 category: science
 defines: ["Miller–Urey experiment"]
-related: ["[[prebiotic-chemistry]]", "[[amino-acid]]", "[[early-earth-atmosphere]]", "[[abiogenesis]]", "[[organic-chemistry]]"]
+related: ["[[prebiotic-chemistry]]", "[[amino-acid]]", "[[early-earth-atmosphere]]", "[[abiogenesis]]", "[[organic-chemistry]]", "[[cold-war]]"]
 requires: []
 lists: ["[[scientific-experiments]]"]
 tour_order: 0

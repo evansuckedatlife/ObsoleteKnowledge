@@ -5,11 +5,12 @@ defines: ["Man Ray", "Emmanuel Radnitzky"]
 related: ["[[alfred-stieglitz]]", "[[eadweard-muybridge]]", "[[henri-cartier-bresson]]", "[[france]]", "[[world-war-i]]"]
 requires: ["[[surrealism]]"]
 lists: ["[[photography-pioneers]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Man Ray
+
 
 
 <!-- foundations -->

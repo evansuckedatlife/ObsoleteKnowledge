@@ -2,14 +2,21 @@
 type: person
 category: history
 defines: [Alexander the Great, Alexander III of Macedon]
-related: ["[[philip-ii-of-macedon]]", "[[aristotle]]", "[[darius-iii]]", "[[bucephalus]]", "[[macedonian-empire]]", "[[battle-of-issus]]", "[[battle-of-gaugamela]]", "[[hellenism]]"]
-requires: []
+related: ["[[philip-ii-of-macedon]]", "[[aristotle]]", "[[darius-iii]]", "[[bucephalus]]", "[[macedonian-empire]]", "[[battle-of-issus]]", "[[battle-of-gaugamela]]", "[[hellenism]]", "[[ancient-greece]]"]
+requires: ["[[athens]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Alexander the Great
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -12,6 +12,7 @@ read: false
 # Marcel Proust
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

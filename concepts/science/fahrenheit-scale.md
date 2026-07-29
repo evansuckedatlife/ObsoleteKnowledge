@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: ["Fahrenheit scale"]
-related: ["[[celsius-scale]]", "[[kelvin-scale]]", "[[temperature]]"]
+related: ["[[celsius-scale]]", "[[kelvin-scale]]", "[[temperature]]", "[[germany]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[scientific-scales]]"]
 tour_order: 0

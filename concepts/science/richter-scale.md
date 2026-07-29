@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: ["Richter scale", "Richter magnitude scale", "local magnitude"]
-related: ["[[earthquake]]", "[[seismic-waves]]", "[[moment-magnitude-scale]]", "[[logarithmic-scale]]"]
+related: ["[[earthquake]]", "[[seismic-waves]]", "[[moment-magnitude-scale]]", "[[logarithmic-scale]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[scientific-scales]]"]
 tour_order: 0

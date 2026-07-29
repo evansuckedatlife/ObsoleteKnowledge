@@ -3,7 +3,7 @@ type: work
 category: literature
 defines:
   - Roll of Thunder, Hear My Cry
-related: ["[[mildred-taylor]]", "[[american-south]]", "[[children-literature]]"]
+related: ["[[mildred-taylor]]", "[[american-south]]", "[[children-literature]]", "[[united-states]]", "[[civil-rights-movement]]"]
 requires: []
 lists:
   - "[[20th-century-newbery-medal-winners]]"

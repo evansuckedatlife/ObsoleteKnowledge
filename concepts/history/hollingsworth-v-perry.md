@@ -13,6 +13,7 @@ read: false
 # Hollingsworth v. Perry
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

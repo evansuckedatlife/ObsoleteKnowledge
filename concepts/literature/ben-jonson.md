@@ -3,13 +3,20 @@ type: person
 category: literature
 defines: ["Ben Jonson", "Benjamin Jonson"]
 related: ["[[william-shakespeare]]", "[[volpone]]", "[[the-alchemist]]", "[[english-renaissance]]", "[[elizabethan-theatre]]", "[[comedy-of-humours]]", "[[shakespeare-first-folio]]", "[[england]]", "[[renaissance]]"]
-requires: []
+requires: ["[[william-shakespeare]]"]
 lists: ["[[elizabethan-playwrights]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Ben Jonson
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

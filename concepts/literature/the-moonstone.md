@@ -3,14 +3,21 @@ type: work
 category: literature
 defines: ["The Moonstone", "The Moonstone: A Romance of English Life"]
 related: ["[[wilkie-collins]]", "[[detective-fiction]]", "[[victorian-novel]]", "[[england]]", "[[india]]"]
-requires: []
+requires: ["[[detective-fiction]]"]
 lists:
   - "[[works-of-mystery-and-detective-fiction]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The Moonstone
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

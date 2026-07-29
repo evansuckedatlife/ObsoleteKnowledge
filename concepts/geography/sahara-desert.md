@@ -5,14 +5,21 @@ defines:
   - Sahara Desert
   - Sahara
 related: ["[[nile-river]]", "[[african-empires]]", "[[trans-saharan-trade]]", "[[silk-road]]", "[[islam]]"]
-requires: []
+requires: ["[[egypt]]"]
 lists:
   - "[[deserts]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Sahara Desert
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

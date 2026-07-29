@@ -15,6 +15,7 @@ read: false
 # Death of a Salesman
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

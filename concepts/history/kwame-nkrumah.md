@@ -15,6 +15,7 @@ read: false
 # Kwame Nkrumah
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

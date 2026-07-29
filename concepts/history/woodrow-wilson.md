@@ -12,6 +12,7 @@ read: false
 # Woodrow Wilson
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

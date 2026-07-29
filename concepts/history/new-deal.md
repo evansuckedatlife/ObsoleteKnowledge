@@ -12,6 +12,7 @@ read: false
 # New Deal
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

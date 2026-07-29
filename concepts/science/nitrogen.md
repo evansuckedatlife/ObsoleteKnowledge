@@ -2,7 +2,7 @@
 type: element
 category: science
 defines: ["Nitrogen", "N"]
-related: ["[[carbon]]", "[[oxygen]]", "[[hydrogen]]"]
+related: ["[[carbon]]", "[[oxygen]]", "[[hydrogen]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[chemical-elements]]"]
 tour_order: 0

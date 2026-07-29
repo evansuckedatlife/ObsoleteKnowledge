@@ -2,14 +2,21 @@
 type: work
 category: literature
 defines: ["The quality of mercy", "Portia's plea", "Merchant of Venice mercy speech"]
-related: ["[[the-merchant-of-venice]]", "[[mercy-vs-justice]]", "[[shylock]]", "[[england]]"]
-requires: []
+related: ["[[the-merchant-of-venice]]", "[[mercy-vs-justice]]", "[[shylock]]", "[[england]]", "[[italy]]"]
+requires: ["[[william-shakespeare]]"]
 lists: ["[[shakespearean-speeches]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The quality of mercy
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

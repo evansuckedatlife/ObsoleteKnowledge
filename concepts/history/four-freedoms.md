@@ -12,6 +12,7 @@ read: false
 # Four Freedoms
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -5,14 +5,21 @@ defines:
   - Painted Desert
   - Painted Desert of Arizona
 related: ["[[arizona]]", "[[petrified-forest]]", "[[colorado-plateau]]", "[[native-american-history]]"]
-requires: []
+requires: ["[[united-states]]"]
 lists:
   - "[[deserts]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Painted Desert
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

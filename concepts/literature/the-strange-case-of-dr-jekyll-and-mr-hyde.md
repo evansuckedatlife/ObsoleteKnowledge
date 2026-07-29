@@ -4,15 +4,22 @@ category: literature
 defines:
   - "The Strange Case of Dr. Jekyll and Mr. Hyde"
   - "Dr. Jekyll and Mr. Hyde"
-related: ["[[robert-louis-stevenson]]", "[[gothic-literature]]", "[[dual-nature]]"]
-requires: []
+related: ["[[robert-louis-stevenson]]", "[[gothic-literature]]", "[[dual-nature]]", "[[england]]"]
+requires: ["[[gothic-literature]]"]
 lists:
   - "[[works-of-horror-fiction]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The Strange Case of Dr. Jekyll and Mr. Hyde
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

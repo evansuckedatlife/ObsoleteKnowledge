@@ -2,7 +2,7 @@
 type: person
 category: history
 defines: ["Agustín de Iturbide"]
-related: ["[[mexican-independence]]", "[[miguel-hidalgo]]", "[[spanish-conquest-of-mexico]]"]
+related: ["[[mexican-independence]]", "[[miguel-hidalgo]]", "[[spanish-conquest-of-mexico]]", "[[spain]]"]
 requires: []
 lists: ["[[mexican-leaders]]"]
 tour_order: 0

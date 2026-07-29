@@ -3,15 +3,22 @@ type: work
 category: literature
 defines:
   - "The Haunting of Hill House"
-related: ["[[shirley-jackson]]", "[[gothic-literature]]", "[[psychological-horror]]", "[[american-gothic]]"]
-requires: []
+related: ["[[shirley-jackson]]", "[[gothic-literature]]", "[[psychological-horror]]", "[[american-gothic]]", "[[united-states]]", "[[england]]"]
+requires: ["[[gothic-literature]]"]
 lists:
   - "[[works-of-horror-fiction]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The Haunting of Hill House
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

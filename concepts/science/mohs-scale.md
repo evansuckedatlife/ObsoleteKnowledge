@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: ["Mohs scale", "Mohs hardness scale"]
-related: ["[[mineral]]", "[[hardness]]", "[[crystal-structure]]"]
+related: ["[[mineral]]", "[[hardness]]", "[[crystal-structure]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[scientific-scales]]"]
 tour_order: 0

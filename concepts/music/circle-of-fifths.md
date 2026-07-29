@@ -3,14 +3,21 @@ type: term
 category: music
 defines: [Circle of Fifths]
 related: ["[[key-signature]]", "[[tonality]]", "[[interval]]", "[[transposition]]"]
-requires: []
+requires: ["[[tonality]]"]
 lists:
   - "[[music-theory-terms]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Circle of Fifths
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

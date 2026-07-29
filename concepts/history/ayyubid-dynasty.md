@@ -16,6 +16,7 @@ read: false
 # Ayyubid Dynasty
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

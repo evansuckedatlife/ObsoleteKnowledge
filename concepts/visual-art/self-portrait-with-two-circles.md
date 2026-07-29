@@ -13,6 +13,7 @@ read: false
 # Self-Portrait with Two Circles
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

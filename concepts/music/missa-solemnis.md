@@ -2,14 +2,21 @@
 type: work
 category: music
 defines: ["Missa solemnis", "Missa solemnis in D major"]
-related: ["[[works-by-beethoven]]"]
-requires: []
+related: ["[[works-by-beethoven]]", "[[christianity]]"]
+requires: ["[[mass-form]]"]
 lists: ["[[works-by-beethoven]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Missa solemnis
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

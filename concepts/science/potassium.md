@@ -2,7 +2,7 @@
 type: element
 category: science
 defines: [Potassium, "K"]
-related: ["[[sodium]]", "[[electrolyte]]", "[[ion]]", "[[nerve-transmission]]", "[[muscle-contraction]]", "[[plant-nutrition]]"]
+related: ["[[sodium]]", "[[electrolyte]]", "[[ion]]", "[[nerve-transmission]]", "[[muscle-contraction]]", "[[plant-nutrition]]", "[[industrial-revolution]]"]
 requires: []
 lists: []
 tour_order: 0

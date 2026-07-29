@@ -2,14 +2,21 @@
 type: work
 category: music
 defines: ["The Magic Flute", "Die Zauberflote", "Die Zauberflöte"]
-related: ["[[operas]]", "[[works-by-mozart]]", "[[enlightenment]]"]
-requires: []
+related: ["[[operas]]", "[[works-by-mozart]]", "[[enlightenment]]", "[[germany]]"]
+requires: ["[[opera]]"]
 lists: ["[[works-by-mozart]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The Magic Flute
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

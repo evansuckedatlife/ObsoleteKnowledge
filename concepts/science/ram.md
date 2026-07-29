@@ -2,14 +2,21 @@
 type: term
 category: science
 defines: ["RAM", "Random-Access Memory", "random-access-memory"]
-related: ["[[computer-memory]]", "[[cpu]]", "[[cache-memory]]", "[[virtual-memory]]", "[[volatile-memory]]"]
-requires: []
+related: ["[[computer-memory]]", "[[cpu]]", "[[cache-memory]]", "[[virtual-memory]]", "[[volatile-memory]]", "[[cold-war]]"]
+requires: ["[[central-processing-unit]]"]
 lists: []
-tour_order: 0
+tour_order: 8
 read: false
 ---
 
 # RAM
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

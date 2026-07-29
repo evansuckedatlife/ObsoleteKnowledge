@@ -4,14 +4,21 @@ category: geography
 defines:
   - Yukon River
 related: ["[[alaska]]", "[[canada]]", "[[arctic-ocean]]", "[[age-of-exploration]]"]
-requires: []
+requires: ["[[united-states]]"]
 lists:
   - "[[north-american-rivers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Yukon River
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

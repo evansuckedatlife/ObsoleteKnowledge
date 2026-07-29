@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: ["Thiol", "mercaptan", "thiols", "mercaptans"]
-related: ["[[alcohol]]", "[[mercury]]", "[[amino-acids]]"]
+related: ["[[alcohol]]", "[[mercury]]", "[[amino-acids]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[functional-groups]]"]
 tour_order: 0

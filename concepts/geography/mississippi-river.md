@@ -4,14 +4,21 @@ category: geography
 defines:
   - Mississippi River
 related: ["[[missouri-river]]", "[[ohio-river]]", "[[mississippi-delta]]", "[[mark-twain]]", "[[american-civil-war]]"]
-requires: []
+requires: ["[[united-states]]"]
 lists:
   - "[[north-american-rivers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Mississippi River
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -4,14 +4,21 @@ category: geography
 defines:
   - Ohio River
 related: ["[[mississippi-river]]", "[[appalachian-mountains]]"]
-requires: []
+requires: ["[[united-states]]"]
 lists:
   - "[[north-american-rivers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Ohio River
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

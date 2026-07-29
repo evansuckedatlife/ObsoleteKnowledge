@@ -12,6 +12,7 @@ read: false
 # Quantization
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

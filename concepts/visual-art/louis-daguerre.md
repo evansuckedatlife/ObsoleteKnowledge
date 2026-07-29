@@ -12,6 +12,7 @@ read: false
 # Louis Daguerre
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -2,7 +2,7 @@
 type: person
 category: science
 defines: [Sergei Korolev, Sergei Pavlovich Korolev]
-related: ["[[konstantin-tsiolkovsky]]", "[[wernher-von-braun]]", "[[sputnik]]", "[[vostok-program]]", "[[apollo-program]]", "[[cold-war]]", "[[space-race]]"]
+related: ["[[konstantin-tsiolkovsky]]", "[[wernher-von-braun]]", "[[sputnik]]", "[[vostok-program]]", "[[apollo-program]]", "[[cold-war]]", "[[space-race]]", "[[soviet-union]]"]
 requires: []
 lists: ["[[rocket-scientists]]"]
 tour_order: 0

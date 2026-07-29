@@ -2,7 +2,7 @@
 type: event
 category: science
 defines: [SpaceX CRS-1]
-related: ["[[spacex]]", "[[international-space-station]]", "[[commercial-spaceflight]]", "[[dragon-spacecraft]]"]
+related: ["[[spacex]]", "[[international-space-station]]", "[[commercial-spaceflight]]", "[[dragon-spacecraft]]", "[[space-race]]"]
 requires: []
 lists: ["[[space-missions]]"]
 tour_order: 0

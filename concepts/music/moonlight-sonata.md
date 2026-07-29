@@ -3,13 +3,20 @@ type: work
 category: music
 defines: ["Moonlight Sonata", "Piano Sonata No. 14", "Sonata quasi una fantasia"]
 related: ["[[works-by-beethoven]]", "[[piano-sonatas]]"]
-requires: []
+requires: ["[[sonata-form]]"]
 lists: ["[[works-by-beethoven]]", "[[piano-sonatas]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Moonlight Sonata
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -2,7 +2,7 @@
 type: person
 category: science
 defines: [Thomas Hunt Morgan]
-related: ["[[drosophila]]", "[[genetics]]", "[[chromosome-theory]]"]
+related: ["[[drosophila]]", "[[genetics]]", "[[chromosome-theory]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[nobel-prize-winners-in-medicine]]"]
 tour_order: 0

@@ -2,7 +2,7 @@
 type: practice
 category: science
 defines: [gel electrophoresis]
-related: ["[[dna]]", "[[protein]]", "[[pcr]]", "[[dna-sequencing]]"]
+related: ["[[dna]]", "[[protein]]", "[[pcr]]", "[[dna-sequencing]]", "[[world-war-ii]]"]
 requires: []
 lists: ["[[techniques-in-biotechnology]]"]
 tour_order: 0

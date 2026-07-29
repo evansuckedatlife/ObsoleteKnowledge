@@ -12,6 +12,7 @@ read: false
 # I Have a Dream
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -7,11 +7,12 @@ related: ["[[abraham-lincoln]]", "[[andrew-johnson]]", "[[the-american-civil-war
 requires: ["[[american-civil-war]]"]
 lists:
   - "[[vice-presidents-who-never-became-president]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Hannibal Hamlin
+
 
 
 <!-- foundations -->

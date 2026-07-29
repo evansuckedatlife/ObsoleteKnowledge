@@ -2,7 +2,7 @@
 type: person
 category: visual-art
 defines: ["Alfred Stieglitz"]
-related: ["[[ansel-adams]]", "[[eadweard-muybridge]]", "[[henri-cartier-bresson]]", "[[dorothea-lange]]"]
+related: ["[[ansel-adams]]", "[[eadweard-muybridge]]", "[[henri-cartier-bresson]]", "[[dorothea-lange]]", "[[united-states]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[photography-pioneers]]"]
 tour_order: 0

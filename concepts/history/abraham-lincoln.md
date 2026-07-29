@@ -5,11 +5,12 @@ defines: [Abraham Lincoln]
 related: ["[[american-civil-war]]", "[[emancipation-proclamation]]", "[[assassination-of-abraham-lincoln]]", "[[gettysburg-address]]", "[[reconstruction-era]]", "[[frederick-douglass]]", "[[united-states-constitution]]", "[[13th-amendment]]"]
 requires: ["[[american-civil-war]]"]
 lists: []
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Abraham Lincoln
+
 
 
 <!-- foundations -->

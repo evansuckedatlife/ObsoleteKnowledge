@@ -12,6 +12,7 @@ read: false
 # Schrödinger equation
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

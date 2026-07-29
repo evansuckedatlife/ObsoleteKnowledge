@@ -3,15 +3,22 @@ type: work
 category: visual-art
 defines:
   - Black Square
-related: ["[[kazimir-malevich]]", "[[suprematism]]", "[[abstract-art]]"]
-requires: []
+related: ["[[kazimir-malevich]]", "[[suprematism]]", "[[abstract-art]]", "[[soviet-union]]", "[[world-war-i]]"]
+requires: ["[[constructivism]]"]
 lists:
   - "[[20th-century-paintings]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Black Square
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

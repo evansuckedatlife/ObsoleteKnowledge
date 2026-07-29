@@ -5,11 +5,12 @@ defines: [Battle of Gettysburg, Gettysburg]
 related: ["[[american-civil-war]]", "[[robert-e-lee]]", "[[george-meade]]", "[[union-army]]", "[[confederate-army]]"]
 requires: ["[[american-civil-war]]"]
 lists: ["[[civil-war-battles]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Battle of Gettysburg
+
 
 
 <!-- foundations -->

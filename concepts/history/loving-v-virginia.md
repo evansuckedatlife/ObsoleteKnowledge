@@ -15,6 +15,7 @@ read: false
 # Loving v. Virginia
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -2,7 +2,7 @@
 type: person
 category: literature
 defines: ["Flannery O'Connor", "O'Connor"]
-related: ["[[american-literature]]", "[[southern-gothic]]", "[[grotesque]]", "[[catholicism-in-literature]]", "[[grace-and-violence]]", "[[christianity]]"]
+related: ["[[american-literature]]", "[[southern-gothic]]", "[[grotesque]]", "[[catholicism-in-literature]]", "[[grace-and-violence]]", "[[christianity]]", "[[civil-rights-movement]]"]
 requires: []
 lists: ["[[short-story-authors]]"]
 tour_order: 0

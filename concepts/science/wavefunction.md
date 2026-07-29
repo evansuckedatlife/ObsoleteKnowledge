@@ -12,6 +12,7 @@ read: false
 # Wavefunction
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

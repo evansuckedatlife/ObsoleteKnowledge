@@ -2,7 +2,7 @@
 type: person
 category: science
 defines: [Hermann Oberth]
-related: ["[[konstantin-tsiolkovsky]]", "[[robert-goddard]]", "[[wernher-von-braun]]", "[[v-2-rocket]]"]
+related: ["[[konstantin-tsiolkovsky]]", "[[robert-goddard]]", "[[wernher-von-braun]]", "[[v-2-rocket]]", "[[space-race]]"]
 requires: []
 lists: ["[[rocket-scientists]]"]
 tour_order: 0

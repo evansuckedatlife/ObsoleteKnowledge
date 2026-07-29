@@ -12,6 +12,7 @@ read: false
 # Paul Dirac
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

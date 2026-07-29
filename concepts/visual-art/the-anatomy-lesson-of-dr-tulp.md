@@ -13,6 +13,7 @@ read: false
 # The Anatomy Lesson of Dr. Tulp
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

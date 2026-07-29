@@ -12,6 +12,7 @@ read: false
 # Rutherford Gold-Foil Experiment
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

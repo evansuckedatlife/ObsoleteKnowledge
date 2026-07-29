@@ -12,6 +12,7 @@ read: false
 # Gertrude Stein
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

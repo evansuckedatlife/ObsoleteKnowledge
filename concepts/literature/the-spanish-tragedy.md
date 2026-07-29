@@ -4,15 +4,22 @@ category: literature
 defines:
   - The Spanish Tragedy
   - The Spanish Tragedy or Hieronimo is Mad Again
-related: ["[[thomas-kyd]]", "[[revenge-tragedy]]", "[[hamlet]]"]
-requires: []
+related: ["[[thomas-kyd]]", "[[revenge-tragedy]]", "[[hamlet]]", "[[england]]", "[[spain]]"]
+requires: ["[[revenge-tragedy]]"]
 lists:
   - "[[non-shakespeare-classical-english-dramas]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The Spanish Tragedy
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

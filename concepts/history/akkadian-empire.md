@@ -2,7 +2,7 @@
 type: place
 category: history
 defines: [Akkadian Empire, Akkad, Akkadian]
-related: ["[[mesopotamia]]", "[[sargon-of-akkad]]", "[[sumeria]]", "[[babylonian-empire]]"]
+related: ["[[mesopotamia]]", "[[sargon-of-akkad]]", "[[sumeria]]", "[[babylonian-empire]]", "[[middle-east]]"]
 requires: []
 lists: ["[[ancient-empires]]"]
 tour_order: 0

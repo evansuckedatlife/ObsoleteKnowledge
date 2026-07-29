@@ -5,14 +5,21 @@ defines:
   - Rhône River
   - Rhone
 related: ["[[switzerland]]", "[[france]]", "[[mediterranean]]", "[[roman-empire]]"]
-requires: []
+requires: ["[[france]]"]
 lists:
   - "[[western-european-rivers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Rhône River
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

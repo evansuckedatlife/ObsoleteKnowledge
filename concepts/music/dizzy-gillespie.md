@@ -4,15 +4,22 @@ category: music
 defines:
   - Dizzy Gillespie
   - John Birks Gillespie
-related: ["[[charlie-parker]]", "[[jazz]]", "[[bebop]]", "[[harlem-renaissance]]"]
-requires: []
+related: ["[[charlie-parker]]", "[[jazz]]", "[[bebop]]", "[[harlem-renaissance]]", "[[united-states]]"]
+requires: ["[[jazz]]"]
 lists:
   - "[[jazz-musicians]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Dizzy Gillespie
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

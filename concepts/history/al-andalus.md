@@ -2,7 +2,7 @@
 type: event
 category: history
 defines: [Al-Andalus, Islamic Spain, Muslim Iberia]
-related: ["[[islam]]", "[[umayyad-caliphate]]", "[[reconquista]]", "[[medieval-spain]]", "[[jewish-golden-age]]", "[[islamic-civilization]]", "[[arab-conquest]]", "[[isabella-and-ferdinand]]"]
+related: ["[[islam]]", "[[umayyad-caliphate]]", "[[reconquista]]", "[[medieval-spain]]", "[[jewish-golden-age]]", "[[islamic-civilization]]", "[[arab-conquest]]", "[[isabella-and-ferdinand]]", "[[spain]]"]
 requires: []
 lists: []
 tour_order: 0

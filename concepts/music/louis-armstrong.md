@@ -4,15 +4,22 @@ category: music
 defines:
   - Louis Armstrong
   - Satchmo
-related: ["[[duke-ellington]]", "[[jazz]]", "[[new-orleans]]"]
-requires: []
+related: ["[[duke-ellington]]", "[[jazz]]", "[[new-orleans]]", "[[united-states]]"]
+requires: ["[[jazz]]"]
 lists:
   - "[[jazz-musicians]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Louis Armstrong
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

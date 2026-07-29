@@ -2,7 +2,7 @@
 type: person
 category: visual-art
 defines: ["Jean Renoir"]
-related: ["[[grand-illusion]]", "[[la-regle-du-jeu]]"]
+related: ["[[grand-illusion]]", "[[la-regle-du-jeu]]", "[[france]]", "[[industrial-revolution]]"]
 requires: []
 lists:
   - "[[french-directors]]"

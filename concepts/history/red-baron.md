@@ -15,6 +15,7 @@ read: false
 # Red Baron
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

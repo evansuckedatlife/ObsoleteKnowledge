@@ -3,15 +3,22 @@ type: event
 category: history
 defines:
   - Battle of Marengo
-related: ["[[napoleon-bonaparte]]", "[[austria-hungary]]", "[[italian-campaigns]]", "[[france]]"]
-requires: []
+related: ["[[napoleon-bonaparte]]", "[[austria-hungary]]", "[[italian-campaigns]]", "[[france]]", "[[italy]]"]
+requires: ["[[napoleon-bonaparte]]"]
 lists:
   - "[[napoleonic-battles]]"
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Battle of Marengo
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

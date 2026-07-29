@@ -15,6 +15,7 @@ read: false
 # Heart of Atlanta Motel v. United States
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

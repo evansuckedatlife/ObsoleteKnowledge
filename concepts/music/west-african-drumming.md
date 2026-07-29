@@ -2,7 +2,7 @@
 type: concept
 category: music
 defines: [West African drumming traditions, West African percussion]
-related: ["[[west-africa]]", "[[africa]]", "[[griot]]", "[[djembe]]", "[[talking-drum]]"]
+related: ["[[west-africa]]", "[[africa]]", "[[griot]]", "[[djembe]]", "[[talking-drum]]", "[[harlem-renaissance]]"]
 requires: []
 lists:
   - "[[non-western-classical-music-traditions]]"

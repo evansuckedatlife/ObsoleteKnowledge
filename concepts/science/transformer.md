@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [Transformer]
-related: ["[[inductor]]", "[[magnetic-coupling]]", "[[voltage-transformation]]", "[[step-up-down]]"]
+related: ["[[inductor]]", "[[magnetic-coupling]]", "[[voltage-transformation]]", "[[step-up-down]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[circuit-components]]"]
 tour_order: 0

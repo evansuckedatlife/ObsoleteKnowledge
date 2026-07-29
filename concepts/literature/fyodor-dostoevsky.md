@@ -2,7 +2,7 @@
 type: person
 category: literature
 defines: [Fyodor Dostoevsky, Dostoevski]
-related: ["[[crime-and-punishment]]", "[[the-brothers-karamazov]]", "[[notes-from-underground]]", "[[demons]]", "[[the-idiot]]", "[[russian-literature]]", "[[existentialism]]", "[[nihilism]]", "[[orthodoxy-christianity]]", "[[siberian-imprisonment]]", "[[russian-revolution]]"]
+related: ["[[crime-and-punishment]]", "[[the-brothers-karamazov]]", "[[notes-from-underground]]", "[[demons]]", "[[the-idiot]]", "[[russian-literature]]", "[[existentialism]]", "[[nihilism]]", "[[orthodoxy-christianity]]", "[[siberian-imprisonment]]", "[[russian-revolution]]", "[[russian-empire]]"]
 requires: []
 lists: []
 tour_order: 0

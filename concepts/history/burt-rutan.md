@@ -4,7 +4,7 @@ category: history
 defines:
   - Burt Rutan
   - Elbert Leander Rutan
-related: ["[[chuck-yeager]]", "[[howard-hughes]]", "[[nasa]]"]
+related: ["[[chuck-yeager]]", "[[howard-hughes]]", "[[nasa]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[aviators]]"

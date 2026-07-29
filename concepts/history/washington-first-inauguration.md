@@ -12,6 +12,7 @@ read: false
 # Washington's First Inauguration
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -12,6 +12,7 @@ read: false
 # Nicholas II
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

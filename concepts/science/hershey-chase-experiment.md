@@ -2,14 +2,21 @@
 type: event
 category: science
 defines: ["Hershey–Chase experiment"]
-related: ["[[dna]]", "[[genetic-material]]", "[[bacteriophage]]", "[[protein]]", "[[radioactive-isotope]]"]
-requires: []
+related: ["[[dna]]", "[[genetic-material]]", "[[bacteriophage]]", "[[protein]]", "[[radioactive-isotope]]", "[[world-war-ii]]", "[[united-states]]"]
+requires: ["[[dna]]"]
 lists: ["[[scientific-experiments]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Hershey–Chase Experiment
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

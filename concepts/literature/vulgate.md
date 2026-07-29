@@ -4,15 +4,22 @@ category: literature
 defines:
   - Vulgate
   - Jerome's translation
-related: ["[[jerome]]", "[[latin-language]]", "[[roman-catholicism]]", "[[new-testament]]", "[[hebrew-bible]]", "[[christianity]]"]
-requires: []
+related: ["[[jerome]]", "[[latin-language]]", "[[roman-catholicism]]", "[[new-testament]]", "[[hebrew-bible]]", "[[christianity]]", "[[roman-empire]]"]
+requires: ["[[hebrew-bible]]"]
 lists:
   - "[[translations]]"
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Vulgate
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

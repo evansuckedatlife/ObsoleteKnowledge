@@ -2,7 +2,7 @@
 type: person
 category: visual-art
 defines: ["Dorothea Lange"]
-related: ["[[henri-cartier-bresson]]", "[[alfred-stieglitz]]", "[[walker-evans]]"]
+related: ["[[henri-cartier-bresson]]", "[[alfred-stieglitz]]", "[[walker-evans]]", "[[united-states]]", "[[great-depression]]"]
 requires: []
 lists: ["[[photography-pioneers]]"]
 tour_order: 0

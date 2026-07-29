@@ -5,11 +5,12 @@ defines: [Battle of Antietam, Sharpsburg]
 related: ["[[american-civil-war]]", "[[robert-e-lee]]", "[[george-mcclellan]]", "[[emancipation-proclamation]]"]
 requires: ["[[american-civil-war]]"]
 lists: ["[[civil-war-battles]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Battle of Antietam
+
 
 
 <!-- foundations -->

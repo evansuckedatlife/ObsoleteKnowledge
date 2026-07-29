@@ -14,6 +14,7 @@ read: false
 # Cordell Hull
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

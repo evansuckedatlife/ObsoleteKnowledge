@@ -4,14 +4,21 @@ category: history
 defines:
   - Battle of Iwo Jima
 related: ["[[douglas-macarthur]]", "[[united-states-marine-corps]]", "[[japan-world-war-ii]]", "[[japan]]"]
-requires: []
+requires: ["[[world-war-ii]]"]
 lists:
   - "[[world-war-ii-pacific-campaigns]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Battle of Iwo Jima
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -4,7 +4,7 @@ category: visual-art
 defines:
   - Burj Khalifa
   - Burj Dubai
-related: ["[[adrian-smith]]", "[[dubai]]", "[[modern-architecture]]"]
+related: ["[[adrian-smith]]", "[[dubai]]", "[[modern-architecture]]", "[[china]]"]
 requires: []
 lists:
   - "[[skyscrapers]]"

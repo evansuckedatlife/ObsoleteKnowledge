@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: ["Electrophilic addition", "electrophilic additions"]
-related: ["[[organic-halide]]", "[[alcohol]]", "[[mercury]]"]
+related: ["[[organic-halide]]", "[[alcohol]]", "[[mercury]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[organic-reactions]]"]
 tour_order: 0

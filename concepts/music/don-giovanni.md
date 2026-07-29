@@ -2,14 +2,21 @@
 type: work
 category: music
 defines: ["Don Giovanni"]
-related: ["[[operas]]", "[[works-by-mozart]]", "[[italy]]"]
-requires: []
+related: ["[[operas]]", "[[works-by-mozart]]", "[[italy]]", "[[spain]]"]
+requires: ["[[opera]]"]
 lists: ["[[operas]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Don Giovanni
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

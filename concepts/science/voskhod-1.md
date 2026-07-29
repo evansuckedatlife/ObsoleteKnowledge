@@ -12,6 +12,7 @@ read: false
 # Voskhod 1
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

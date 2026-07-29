@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: ["Nucleophilic substitution", "nucleophilic substitutions", "SN1", "SN2"]
-related: ["[[organic-halide]]", "[[elimination-reaction]]", "[[alcohol]]"]
+related: ["[[organic-halide]]", "[[elimination-reaction]]", "[[alcohol]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[organic-reactions]]"]
 tour_order: 0

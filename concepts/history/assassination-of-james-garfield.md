@@ -2,14 +2,21 @@
 type: event
 category: history
 defines: [Assassination of James Garfield, Garfield assassination, President Garfield assassination]
-related: ["[[james-a-garfield]]", "[[charles-j-guiteau]]", "[[chester-arthur]]", "[[american-civil-war]]"]
-requires: []
+related: ["[[james-a-garfield]]", "[[charles-j-guiteau]]", "[[chester-arthur]]", "[[american-civil-war]]", "[[united-states]]"]
+requires: ["[[american-civil-war]]"]
 lists: ["[[assassinations]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Assassination of James A. Garfield
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -3,15 +3,22 @@ type: work
 category: literature
 defines:
   - "The Turn of the Screw"
-related: ["[[henry-james]]", "[[gothic-literature]]", "[[psychological-horror]]"]
-requires: []
+related: ["[[henry-james]]", "[[gothic-literature]]", "[[psychological-horror]]", "[[england]]"]
+requires: ["[[gothic-literature]]"]
 lists:
   - "[[works-of-horror-fiction]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The Turn of the Screw
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

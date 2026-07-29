@@ -12,6 +12,7 @@ read: false
 # Divide and conquer
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

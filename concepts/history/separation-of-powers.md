@@ -12,6 +12,7 @@ read: false
 # Separation of Powers
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

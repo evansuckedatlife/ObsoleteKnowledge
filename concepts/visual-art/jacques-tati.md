@@ -2,7 +2,7 @@
 type: person
 category: visual-art
 defines: ["Jacques Tati"]
-related: ["[[playtime]]", "[[mon-oncle]]"]
+related: ["[[playtime]]", "[[mon-oncle]]", "[[france]]"]
 requires: []
 lists:
   - "[[french-directors]]"

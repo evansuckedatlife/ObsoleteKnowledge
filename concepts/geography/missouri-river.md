@@ -4,14 +4,21 @@ category: geography
 defines:
   - Missouri River
 related: ["[[mississippi-river]]", "[[lewis-and-clark-expedition]]", "[[rocky-mountains]]"]
-requires: []
+requires: ["[[united-states]]"]
 lists:
   - "[[north-american-rivers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Missouri River
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -13,6 +13,7 @@ read: false
 # United States v. Windsor
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

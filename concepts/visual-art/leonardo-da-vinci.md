@@ -12,6 +12,7 @@ read: false
 # Leonardo da Vinci
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

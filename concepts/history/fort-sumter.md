@@ -5,11 +5,12 @@ defines: [Fort Sumter, Sumter]
 related: ["[[american-civil-war]]", "[[abraham-lincoln]]", "[[jefferson-davis]]", "[[confederate-states-of-america]]", "[[south-carolina]]"]
 requires: ["[[american-civil-war]]"]
 lists: ["[[civil-war-battles]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Fort Sumter
+
 
 
 <!-- foundations -->

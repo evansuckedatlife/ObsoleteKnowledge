@@ -2,14 +2,21 @@
 type: term
 category: science
 defines: [Phloem, phloem, "nutrient transport", "sugar transport"]
-related: ["[[xylem]]", "[[vascular-plants]]", "[[photosynthesis]]", "[[pterophytes]]"]
-requires: []
+related: ["[[xylem]]", "[[vascular-plants]]", "[[photosynthesis]]", "[[pterophytes]]", "[[industrial-revolution]]"]
+requires: ["[[vascular-plants]]"]
 lists: ["[[plant-distinctions]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Phloem
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

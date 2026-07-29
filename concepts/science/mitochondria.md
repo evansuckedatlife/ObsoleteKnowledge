@@ -12,6 +12,7 @@ read: false
 # Mitochondria
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

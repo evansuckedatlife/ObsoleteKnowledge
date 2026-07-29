@@ -3,7 +3,7 @@ type: person
 category: literature
 defines:
   - Michael Chabon
-related: ["[[philip-roth]]", "[[jewish-identity]]", "[[comic-books]]", "[[contemporary-american-fiction]]"]
+related: ["[[philip-roth]]", "[[jewish-identity]]", "[[comic-books]]", "[[contemporary-american-fiction]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[jewish-american-authors]]"

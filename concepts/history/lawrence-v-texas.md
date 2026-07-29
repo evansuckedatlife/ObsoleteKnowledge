@@ -13,6 +13,7 @@ read: false
 # Lawrence v. Texas
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

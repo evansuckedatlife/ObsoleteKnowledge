@@ -2,14 +2,21 @@
 type: concept
 category: music
 defines: [Mass form, Musical mass]
-related: ["[[renaissance-music]]", "[[baroque-music]]", "[[polyphony]]", "[[counterpoint]]", "[[motet]]", "[[requiem]]", "[[giovanni-pierluigi-da-palestrina]]", "[[w-a-mozart]]", "[[ludwig-van-beethoven]]", "[[liturgical-music]]", "[[sacred-music]]", "[[renaissance]]"]
-requires: []
+related: ["[[renaissance-music]]", "[[baroque-music]]", "[[polyphony]]", "[[counterpoint]]", "[[motet]]", "[[requiem]]", "[[giovanni-pierluigi-da-palestrina]]", "[[w-a-mozart]]", "[[ludwig-van-beethoven]]", "[[liturgical-music]]", "[[sacred-music]]", "[[renaissance]]", "[[christianity]]"]
+requires: ["[[polyphony]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Mass Form
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

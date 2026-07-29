@@ -2,7 +2,7 @@
 type: person
 category: visual-art
 defines: ["Alain Resnais"]
-related: ["[[last-year-at-marienbad]]", "[[hiroshima-mon-amour]]"]
+related: ["[[last-year-at-marienbad]]", "[[hiroshima-mon-amour]]", "[[france]]", "[[world-war-ii]]"]
 requires: []
 lists:
   - "[[french-directors]]"

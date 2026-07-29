@@ -12,6 +12,7 @@ read: false
 # Franklin Delano Roosevelt
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

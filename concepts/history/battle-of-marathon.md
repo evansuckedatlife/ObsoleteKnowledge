@@ -3,14 +3,21 @@ type: event
 category: history
 defines: [Battle of Marathon]
 related: ["[[themistocles]]", "[[persian-wars]]", "[[ancient-greece]]"]
-requires: []
+requires: ["[[achaemenid-empire]]"]
 lists: ["[[battles-of-the-ancient-world]]"]
-tour_order: 0
+tour_order: 1
 read: false
 aliases: [marathon]
 ---
 
 # Battle of Marathon
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

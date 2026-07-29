@@ -3,15 +3,22 @@ type: work
 category: literature
 defines:
   - The Westing Game
-related: ["[[ellen-raskin]]", "[[mystery]]", "[[puzzle-narrative]]"]
-requires: []
+related: ["[[ellen-raskin]]", "[[mystery]]", "[[puzzle-narrative]]", "[[united-states]]"]
+requires: ["[[detective-fiction]]"]
 lists:
   - "[[20th-century-newbery-medal-winners]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The Westing Game
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

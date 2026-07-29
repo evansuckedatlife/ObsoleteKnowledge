@@ -5,14 +5,21 @@ defines:
   - Yangtze River
   - Chang Jiang
 related: ["[[yellow-river]]", "[[china]]", "[[three-gorges-dam]]", "[[confucius]]"]
-requires: []
+requires: ["[[china]]"]
 lists:
   - "[[asian-rivers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Yangtze River
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

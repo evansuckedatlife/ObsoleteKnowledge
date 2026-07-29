@@ -13,6 +13,7 @@ read: false
 # Masterpiece Cakeshop v. Colorado
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

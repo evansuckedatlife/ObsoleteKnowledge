@@ -14,6 +14,7 @@ read: false
 # Ward No. 6
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

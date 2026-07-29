@@ -12,6 +12,7 @@ read: false
 # Hamlet
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -12,6 +12,7 @@ read: false
 # Greedy algorithm
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

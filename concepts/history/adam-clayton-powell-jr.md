@@ -2,7 +2,7 @@
 type: person
 category: history
 defines: ["Adam Clayton Powell Jr."]
-related: ["[[united-states-house]]", "[[harlem-new-york]]", "[[civil-rights-movement]]", "[[abyssinian-baptist-church]]"]
+related: ["[[united-states-house]]", "[[harlem-new-york]]", "[[civil-rights-movement]]", "[[abyssinian-baptist-church]]", "[[united-states]]"]
 requires: []
 lists: ["[[black-american-legislators]]"]
 tour_order: 0

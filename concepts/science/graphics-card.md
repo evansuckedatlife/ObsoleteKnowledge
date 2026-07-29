@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [GPU, graphics processing unit, graphics card, video card]
-related: ["[[central-processing-unit]]", "[[pci-express]]", "[[motherboard]]", "[[power-supply-unit]]"]
+related: ["[[central-processing-unit]]", "[[pci-express]]", "[[motherboard]]", "[[power-supply-unit]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[computer-components]]"]
 tour_order: 0

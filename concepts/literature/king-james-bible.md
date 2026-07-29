@@ -9,11 +9,12 @@ related: ["[[hebrew-bible]]", "[[new-testament]]", "[[hebrew-language]]", "[[bib
 requires: ["[[hebrew-bible]]"]
 lists:
   - "[[translations]]"
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # King James Bible
+
 
 
 <!-- foundations -->

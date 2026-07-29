@@ -4,7 +4,7 @@ category: visual-art
 defines:
   - Hermitage
   - State Hermitage Museum
-related: ["[[russian-imperial-collection]]", "[[saint-petersburg]]", "[[catherine-the-great]]", "[[rembrandt]]"]
+related: ["[[russian-imperial-collection]]", "[[saint-petersburg]]", "[[catherine-the-great]]", "[[rembrandt]]", "[[st-petersburg]]", "[[russian-empire]]"]
 requires: []
 lists:
   - "[[art-museums]]"

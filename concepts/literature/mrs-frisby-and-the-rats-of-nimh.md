@@ -4,15 +4,22 @@ category: literature
 defines:
   - Mrs. Frisby and the Rats of NIMH
   - Frisby
-related: ["[[robert-obrien]]", "[[animal-fiction]]", "[[science-fiction]]"]
-requires: []
+related: ["[[robert-obrien]]", "[[animal-fiction]]", "[[science-fiction]]", "[[nasa]]"]
+requires: ["[[science-fiction]]"]
 lists:
   - "[[20th-century-newbery-medal-winners]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Mrs. Frisby and the Rats of NIMH
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

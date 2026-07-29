@@ -2,15 +2,22 @@
 type: person
 category: history
 defines: [Arthur Wellesley, Duke of Wellington]
-related: ["[[napoleonic-wars]]", "[[peninsula-war]]", "[[george-iv]]"]
-requires: []
+related: ["[[napoleonic-wars]]", "[[peninsula-war]]", "[[george-iv]]", "[[england]]", "[[france]]"]
+requires: ["[[napoleon-bonaparte]]"]
 lists:
   - "[[british-prime-ministers]]"
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Arthur Wellesley, Duke of Wellington
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

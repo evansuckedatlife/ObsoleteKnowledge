@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [Diode, "PN junction"]
-related: ["[[rectifier]]", "[[led]]", "[[junction-voltage]]", "[[forward-bias]]", "[[reverse-bias]]"]
+related: ["[[rectifier]]", "[[led]]", "[[junction-voltage]]", "[[forward-bias]]", "[[reverse-bias]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[circuit-components]]"]
 tour_order: 0

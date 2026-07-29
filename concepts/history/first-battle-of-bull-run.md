@@ -5,11 +5,12 @@ defines: [First Battle of Bull Run, First Manassas, Bull Run]
 related: ["[[american-civil-war]]", "[[pierre-beauregard]]", "[[irvin-mcdowell]]", "[[confederate-army]]", "[[union-army]]"]
 requires: ["[[american-civil-war]]"]
 lists: ["[[civil-war-battles]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # First Battle of Bull Run
+
 
 
 <!-- foundations -->

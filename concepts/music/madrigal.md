@@ -3,13 +3,20 @@ type: concept
 category: music
 defines: [Madrigal]
 related: ["[[renaissance-music]]", "[[polyphony]]", "[[orlando-di-lasso]]", "[[carlo-gesualdo]]", "[[luca-marenzio]]", "[[counterpoint]]", "[[motet]]", "[[secular-music]]", "[[vocal-music]]", "[[italy]]", "[[sonnet]]", "[[renaissance]]"]
-requires: []
+requires: ["[[renaissance-music]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Madrigal
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

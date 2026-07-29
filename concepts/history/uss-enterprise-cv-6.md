@@ -16,6 +16,7 @@ read: false
 # USS Enterprise (CV-6)
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

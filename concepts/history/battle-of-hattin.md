@@ -15,6 +15,7 @@ read: false
 # Battle of Hattin
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

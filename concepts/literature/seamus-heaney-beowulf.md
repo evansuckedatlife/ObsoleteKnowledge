@@ -4,7 +4,7 @@ category: literature
 defines:
   - "Heaney's Beowulf"
   - Seamus Heaney's Beowulf
-related: ["[[beowulf]]", "[[seamus-heaney]]", "[[old-english]]", "[[anglo-saxon-literature]]", "[[modern-poetry]]"]
+related: ["[[beowulf]]", "[[seamus-heaney]]", "[[old-english]]", "[[anglo-saxon-literature]]", "[[modern-poetry]]", "[[dublin]]", "[[england]]"]
 requires: []
 lists:
   - "[[translations]]"

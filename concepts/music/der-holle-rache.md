@@ -2,14 +2,21 @@
 type: phrase
 category: music
 defines: ["Der Hölle Rache", "Queen of the Night aria", "The Queen of the Night's aria"]
-related: ["[[the-magic-flute]]", "[[mozart]]", "[[coloratura-soprano]]"]
-requires: []
+related: ["[[the-magic-flute]]", "[[mozart]]", "[[coloratura-soprano]]", "[[germany]]"]
+requires: ["[[the-magic-flute]]"]
 lists: ["[[arias]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Der Hölle Rache
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

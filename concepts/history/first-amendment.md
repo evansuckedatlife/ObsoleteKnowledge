@@ -12,6 +12,7 @@ read: false
 # First Amendment
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -13,6 +13,7 @@ read: false
 # Madame Defarge
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

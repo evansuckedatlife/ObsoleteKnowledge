@@ -2,14 +2,21 @@
 type: person
 category: history
 defines: [Andrew Jackson]
-related: ["[[jacksonian-democracy]]", "[[indian-removal-act]]", "[[trail-of-tears]]", "[[nullification-crisis]]", "[[second-bank-of-the-united-states]]", "[[spoils-system]]", "[[election-of-1824]]", "[[corrupt-bargain]]"]
-requires: []
+related: ["[[jacksonian-democracy]]", "[[indian-removal-act]]", "[[trail-of-tears]]", "[[nullification-crisis]]", "[[second-bank-of-the-united-states]]", "[[spoils-system]]", "[[election-of-1824]]", "[[corrupt-bargain]]", "[[united-states]]"]
+requires: ["[[american-revolution]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Andrew Jackson
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

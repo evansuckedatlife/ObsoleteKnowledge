@@ -3,7 +3,7 @@ type: person
 category: literature
 defines:
   - Philip Roth
-related: ["[[saul-bellow]]", "[[norman-mailer]]", "[[american-identity]]", "[[postmodernism]]"]
+related: ["[[saul-bellow]]", "[[norman-mailer]]", "[[american-identity]]", "[[postmodernism]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[jewish-american-authors]]"

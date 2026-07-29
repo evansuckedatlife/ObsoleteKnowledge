@@ -5,15 +5,22 @@ defines:
   - "Pope's Iliad"
   - Pope's translation of the Iliad
   - Alexander Pope's Homer
-related: ["[[iliad]]", "[[alexander-pope]]", "[[homer]]", "[[heroic-couplet]]", "[[chapmans-homer]]", "[[england]]"]
-requires: []
+related: ["[[iliad]]", "[[alexander-pope]]", "[[homer]]", "[[heroic-couplet]]", "[[chapmans-homer]]", "[[england]]", "[[ancient-greece]]"]
+requires: ["[[the-iliad]]"]
 lists:
   - "[[translations]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Pope's Iliad
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -12,6 +12,7 @@ read: false
 # Hard Times
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

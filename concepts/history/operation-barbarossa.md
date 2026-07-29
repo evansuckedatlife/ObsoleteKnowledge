@@ -12,6 +12,7 @@ read: false
 # Operation Barbarossa
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -2,15 +2,22 @@
 type: event
 category: history
 defines: [Battle of Plataea]
-related: ["[[pausanias]]", "[[mardonius]]", "[[persian-wars]]"]
-requires: []
+related: ["[[pausanias]]", "[[mardonius]]", "[[persian-wars]]", "[[ancient-greece]]"]
+requires: ["[[achaemenid-empire]]"]
 lists: ["[[battles-of-the-ancient-world]]"]
-tour_order: 0
+tour_order: 1
 read: false
 aliases: [plataea]
 ---
 
 # Battle of Plataea
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

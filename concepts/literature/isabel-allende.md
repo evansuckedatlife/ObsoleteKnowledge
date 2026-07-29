@@ -2,7 +2,7 @@
 type: person
 category: literature
 defines: ["Isabel Allende"]
-related: ["[[magical-realism]]", "[[chilean-literature]]", "[[the-house-of-the-spirits]]", "[[feminism-in-literature]]"]
+related: ["[[magical-realism]]", "[[chilean-literature]]", "[[the-house-of-the-spirits]]", "[[feminism-in-literature]]", "[[world-war-ii]]"]
 requires: []
 lists: ["[[latin-american-authors]]"]
 tour_order: 0

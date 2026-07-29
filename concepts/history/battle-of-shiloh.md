@@ -5,11 +5,12 @@ defines: [Battle of Shiloh, Shiloh]
 related: ["[[american-civil-war]]", "[[albert-sidney-johnston]]", "[[ulysses-grant]]", "[[don-carlos-buell]]", "[[western-theater]]"]
 requires: ["[[american-civil-war]]"]
 lists: ["[[civil-war-battles]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Battle of Shiloh
+
 
 
 <!-- foundations -->

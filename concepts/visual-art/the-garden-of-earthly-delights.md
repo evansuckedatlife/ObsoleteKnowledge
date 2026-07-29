@@ -2,7 +2,7 @@
 type: work
 category: visual-art
 defines: ["The Garden of Earthly Delights"]
-related: ["[[hieronymus-bosch]]", "[[northern-renaissance]]"]
+related: ["[[hieronymus-bosch]]", "[[northern-renaissance]]", "[[renaissance]]"]
 requires: []
 lists:
   - "[[dutch-paintings]]"

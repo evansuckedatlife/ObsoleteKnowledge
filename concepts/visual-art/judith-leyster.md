@@ -3,13 +3,20 @@ type: person
 category: visual-art
 defines: [Judith Leyster]
 related: ["[[frans-hals]]", "[[artemisia-gentileschi]]", "[[baroque-painters]]", "[[dutch-golden-age]]"]
-requires: []
+requires: ["[[dutch-golden-age]]"]
 lists: ["[[baroque-painters]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Judith Leyster
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

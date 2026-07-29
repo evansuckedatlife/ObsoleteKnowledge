@@ -2,7 +2,7 @@
 type: practice
 category: science
 defines: ["Chromatography"]
-related: ["[[distillation]]", "[[filtration]]", "[[spectroscopy]]"]
+related: ["[[distillation]]", "[[filtration]]", "[[spectroscopy]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[chemistry-lab-techniques]]"]
 tour_order: 0

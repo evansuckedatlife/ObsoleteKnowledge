@@ -12,6 +12,7 @@ read: false
 # Gideon v. Wainwright
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

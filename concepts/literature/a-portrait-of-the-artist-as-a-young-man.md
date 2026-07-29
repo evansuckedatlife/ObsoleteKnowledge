@@ -15,6 +15,7 @@ read: false
 # A Portrait of the Artist as a Young Man
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

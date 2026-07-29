@@ -4,18 +4,22 @@ category: history
 defines:
   - "Augusto Pinochet"
   - "Augusto Ugarte Pinochet"
-related:
-  - "[[salvador-allende]]"
-  - "[[hugo-chavez]]"
-  - "[[getulio-vargas]]"
-requires: []
+related: ["[[salvador-allende]]", "[[hugo-chavez]]", "[[getulio-vargas]]", "[[atacama-desert]]"]
+requires: ["[[cold-war]]"]
 lists:
   - "[[south-american-political-leaders]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Augusto Pinochet
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

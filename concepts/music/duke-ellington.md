@@ -4,15 +4,22 @@ category: music
 defines:
   - Duke Ellington
   - Edward Kennedy Ellington
-related: ["[[louis-armstrong]]", "[[jazz]]", "[[count-basie]]", "[[harlem-renaissance]]"]
-requires: []
+related: ["[[louis-armstrong]]", "[[jazz]]", "[[count-basie]]", "[[harlem-renaissance]]", "[[united-states]]"]
+requires: ["[[jazz]]"]
 lists:
   - "[[jazz-musicians]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Duke Ellington
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

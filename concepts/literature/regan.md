@@ -3,13 +3,20 @@ type: person
 category: literature
 defines: [Regan]
 related: ["[[king-lear]]", "[[goneril]]", "[[cornwall]]", "[[edmund]]", "[[gloucester-blindness]]", "[[england]]"]
-requires: []
+requires: ["[[william-shakespeare]]"]
 lists: ["[[shakespearean-villains]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Regan
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -5,15 +5,22 @@ defines:
   - "1984"
   - Nineteen Eighty-Four
   - The ending of 1984
-related: ["[[george-orwell]]", "[[totalitarianism]]", "[[dystopian-fiction]]", "[[cold-war]]"]
-requires: []
+related: ["[[george-orwell]]", "[[totalitarianism]]", "[[dystopian-fiction]]", "[[cold-war]]", "[[soviet-union]]"]
+requires: ["[[george-orwell]]"]
 lists:
   - "[[plot-twists]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # 1984 (Ending Twist)
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

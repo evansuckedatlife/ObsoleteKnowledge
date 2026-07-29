@@ -12,6 +12,7 @@ read: false
 # Reign of Terror
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

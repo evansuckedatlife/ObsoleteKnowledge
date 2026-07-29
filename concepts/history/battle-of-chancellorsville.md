@@ -5,11 +5,12 @@ defines: [Battle of Chancellorsville, Chancellorsville]
 related: ["[[american-civil-war]]", "[[robert-e-lee]]", "[[joseph-hooker]]", "[[thomas-jackson]]", "[[virginia]]"]
 requires: ["[[american-civil-war]]"]
 lists: ["[[civil-war-battles]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Battle of Chancellorsville
+
 
 
 <!-- foundations -->

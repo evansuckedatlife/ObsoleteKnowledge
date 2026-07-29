@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [Programming language, language]
-related: ["[[compiler]]", "[[type-system]]", "[[object-oriented-programming]]", "[[functional-programming]]"]
+related: ["[[compiler]]", "[[type-system]]", "[[object-oriented-programming]]", "[[functional-programming]]", "[[cold-war]]", "[[logic]]"]
 requires: []
 lists: ["[[programming-terms]]"]
 tour_order: 0

@@ -3,15 +3,22 @@ type: term
 category: science
 defines:
   - Gluon
-related: ["[[gauge-boson]]", "[[quark]]", "[[quantum-chromodynamics]]", "[[hadron]]"]
-requires: []
+related: ["[[gauge-boson]]", "[[quark]]", "[[quantum-chromodynamics]]", "[[hadron]]", "[[isaac-newton]]"]
+requires: ["[[quark]]"]
 lists:
   - "[[classes-of-particles]]"
-tour_order: 0
+tour_order: 4
 read: true
 ---
 
 # Gluon
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

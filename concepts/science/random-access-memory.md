@@ -2,14 +2,21 @@
 type: term
 category: science
 defines: [RAM, random access memory, DRAM, SDRAM]
-related: ["[[central-processing-unit]]", "[[motherboard]]", "[[cache-memory]]"]
-requires: []
+related: ["[[central-processing-unit]]", "[[motherboard]]", "[[cache-memory]]", "[[cold-war]]"]
+requires: ["[[central-processing-unit]]"]
 lists: ["[[computer-components]]"]
-tour_order: 0
+tour_order: 8
 read: false
 ---
 
 # RAM
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

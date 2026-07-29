@@ -2,14 +2,21 @@
 type: person
 category: history
 defines: [Bill Clinton]
-related: ["[[the-lewinsky-scandal]]", "[[impeachment-of-bill-clinton]]", "[[nafta]]", "[[end-of-cold-war]]", "[[rwanda-genocide]]", "[[kosovo-intervention]]", "[[1990s-prosperity]]", "[[welfare-reform]]"]
-requires: []
+related: ["[[the-lewinsky-scandal]]", "[[impeachment-of-bill-clinton]]", "[[nafta]]", "[[end-of-cold-war]]", "[[rwanda-genocide]]", "[[kosovo-intervention]]", "[[1990s-prosperity]]", "[[welfare-reform]]", "[[united-states]]"]
+requires: ["[[cold-war]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Bill Clinton
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

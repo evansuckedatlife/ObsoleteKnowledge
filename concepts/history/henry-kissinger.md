@@ -14,6 +14,7 @@ read: false
 # Henry Kissinger
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

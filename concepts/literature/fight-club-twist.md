@@ -5,7 +5,7 @@ defines:
   - "Fight Club"
   - Tyler Durden
   - Fight Club (film)
-related: ["[[david-fincher]]", "[[chuck-palahniuk]]", "[[psychological-thriller]]", "[[disassociation]]"]
+related: ["[[david-fincher]]", "[[chuck-palahniuk]]", "[[psychological-thriller]]", "[[disassociation]]", "[[cold-war]]"]
 requires: []
 lists:
   - "[[plot-twists]]"

@@ -12,6 +12,7 @@ read: false
 # Operator (quantum mechanics)
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

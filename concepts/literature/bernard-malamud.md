@@ -3,7 +3,7 @@ type: person
 category: literature
 defines:
   - Bernard Malamud
-related: ["[[saul-bellow]]", "[[grace-paley]]", "[[jewish-experience]]", "[[moral-redemption]]", "[[new-york-city]]"]
+related: ["[[saul-bellow]]", "[[grace-paley]]", "[[jewish-experience]]", "[[moral-redemption]]", "[[new-york-city]]", "[[world-war-ii]]"]
 requires: []
 lists:
   - "[[jewish-american-authors]]"

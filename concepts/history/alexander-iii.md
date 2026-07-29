@@ -2,14 +2,21 @@
 type: person
 category: history
 defines: ["Alexander III"]
-related: ["[[alexander-ii]]", "[[nicholas-ii]]", "[[counter-reforms-1880s]]", "[[russian-empire]]", "[[official-nationality]]"]
-requires: []
+related: ["[[alexander-ii]]", "[[nicholas-ii]]", "[[counter-reforms-1880s]]", "[[russian-empire]]", "[[official-nationality]]", "[[st-petersburg]]"]
+requires: ["[[alexander-ii]]"]
 lists: ["[[russian-tsars]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Alexander III
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

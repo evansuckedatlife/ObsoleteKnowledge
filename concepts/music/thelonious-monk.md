@@ -3,15 +3,22 @@ type: person
 category: music
 defines:
   - Thelonious Monk
-related: ["[[charlie-parker]]", "[[dizzy-gillespie]]", "[[jazz]]", "[[bebop]]"]
-requires: []
+related: ["[[charlie-parker]]", "[[dizzy-gillespie]]", "[[jazz]]", "[[bebop]]", "[[united-states]]"]
+requires: ["[[jazz]]"]
 lists:
   - "[[jazz-musicians]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Thelonious Monk
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

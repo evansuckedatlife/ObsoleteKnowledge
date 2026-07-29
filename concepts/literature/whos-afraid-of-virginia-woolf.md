@@ -4,7 +4,7 @@ category: literature
 defines:
   - Who's Afraid of Virginia Woolf?
   - George and Martha
-related: ["[[edward-albee]]", "[[american-absurdism]]"]
+related: ["[[edward-albee]]", "[[american-absurdism]]", "[[united-states]]", "[[world-war-ii]]"]
 requires: []
 lists:
   - "[[american-plays]]"

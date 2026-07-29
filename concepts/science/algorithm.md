@@ -12,6 +12,7 @@ read: false
 # Algorithm
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

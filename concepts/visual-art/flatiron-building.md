@@ -3,7 +3,7 @@ type: place
 category: visual-art
 defines:
   - Flatiron Building
-related: ["[[daniel-burnham]]", "[[new-york-city]]", "[[beaux-arts]]"]
+related: ["[[daniel-burnham]]", "[[new-york-city]]", "[[beaux-arts]]", "[[united-states]]", "[[industrial-revolution]]"]
 requires: []
 lists:
   - "[[skyscrapers]]"

@@ -3,7 +3,7 @@ type: work
 category: literature
 defines:
   - "The Yellow Wallpaper"
-related: ["[[charlotte-perkins-gilman]]", "[[feminist-literature]]", "[[gothic-literature]]"]
+related: ["[[charlotte-perkins-gilman]]", "[[feminist-literature]]", "[[gothic-literature]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[works-of-horror-fiction]]"

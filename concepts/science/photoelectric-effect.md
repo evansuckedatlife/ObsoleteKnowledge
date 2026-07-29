@@ -12,6 +12,7 @@ read: false
 # Photoelectric Effect
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

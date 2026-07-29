@@ -13,6 +13,7 @@ read: false
 # Ebenezer Scrooge
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

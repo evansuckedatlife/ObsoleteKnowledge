@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [Quartz, SiO₂]
-related: ["[[feldspar]]", "[[granite]]", "[[sandstone]]", "[[mohs-scale]]", "[[silicate]]"]
+related: ["[[feldspar]]", "[[granite]]", "[[sandstone]]", "[[mohs-scale]]", "[[silicate]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[rocks-and-minerals]]"]
 tour_order: 0

@@ -14,6 +14,7 @@ read: false
 # The Nose
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

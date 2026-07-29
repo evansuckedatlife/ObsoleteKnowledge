@@ -2,7 +2,7 @@
 type: person
 category: visual-art
 defines: ["Claire Denis"]
-related: ["[[chocolat]]", "[[beau-travail]]"]
+related: ["[[chocolat]]", "[[beau-travail]]", "[[france]]"]
 requires: []
 lists:
   - "[[french-directors]]"

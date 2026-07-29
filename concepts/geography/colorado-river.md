@@ -4,14 +4,21 @@ category: geography
 defines:
   - Colorado River
 related: ["[[grand-canyon]]", "[[hoover-dam]]", "[[rio-grande]]"]
-requires: []
+requires: ["[[united-states]]"]
 lists:
   - "[[north-american-rivers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Colorado River
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

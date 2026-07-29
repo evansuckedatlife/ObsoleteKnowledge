@@ -3,13 +3,20 @@ type: person
 category: literature
 defines: [Macbeth, the Thane of Glamis]
 related: ["[[lady-macbeth]]", "[[witches]]", "[[ambition]]", "[[banquo]]", "[[duncan]]", "[[england]]", "[[scotland]]"]
-requires: []
+requires: ["[[william-shakespeare]]"]
 lists: ["[[shakespearean-villains]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Macbeth
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

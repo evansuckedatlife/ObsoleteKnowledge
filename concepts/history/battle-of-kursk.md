@@ -12,6 +12,7 @@ read: false
 # Battle of Kursk
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

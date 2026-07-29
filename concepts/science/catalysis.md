@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [Catalysis, catalytic, catalyst]
-related: ["[[active-site]]", "[[enzyme]]", "[[reaction-kinetics]]", "[[thermodynamics]]"]
+related: ["[[active-site]]", "[[enzyme]]", "[[reaction-kinetics]]", "[[thermodynamics]]", "[[industrial-revolution]]"]
 requires: []
 lists: []
 tour_order: 0

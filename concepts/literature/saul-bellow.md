@@ -3,7 +3,7 @@ type: person
 category: literature
 defines:
   - Saul Bellow
-related: ["[[philip-roth]]", "[[bernard-malamud]]", "[[american-modernism]]", "[[existentialism]]"]
+related: ["[[philip-roth]]", "[[bernard-malamud]]", "[[american-modernism]]", "[[existentialism]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[jewish-american-authors]]"

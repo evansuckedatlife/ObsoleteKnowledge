@@ -5,11 +5,12 @@ defines: ["Lady Macbeth"]
 related: ["[[macbeth]]", "[[duncan]]", "[[guilt]]", "[[ambition]]", "[[gender-and-power]]"]
 requires: ["[[macbeth]]"]
 lists: ["[[shakespearean-villains]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Lady Macbeth
+
 
 
 <!-- foundations -->

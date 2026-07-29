@@ -5,14 +5,21 @@ defines:
   - Denali
   - Mount McKinley
 related: ["[[mount-everest]]", "[[k2]]", "[[mount-aconcagua]]", "[[alaska]]"]
-requires: []
+requires: ["[[united-states]]"]
 lists:
   - "[[mountains]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Denali
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -12,6 +12,7 @@ read: false
 # John Adams
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

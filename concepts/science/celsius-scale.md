@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: ["Celsius scale", "centigrade scale"]
-related: ["[[kelvin-scale]]", "[[fahrenheit-scale]]", "[[temperature]]"]
+related: ["[[kelvin-scale]]", "[[fahrenheit-scale]]", "[[temperature]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[scientific-scales]]"]
 tour_order: 0

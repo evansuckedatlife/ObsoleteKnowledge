@@ -3,15 +3,22 @@ type: event
 category: history
 defines:
   - Battle of Guadalcanal
-related: ["[[battle-of-midway]]", "[[douglas-macarthur]]", "[[imperial-japanese-army]]", "[[japan]]"]
-requires: []
+related: ["[[battle-of-midway]]", "[[douglas-macarthur]]", "[[imperial-japanese-army]]", "[[japan]]", "[[australia]]"]
+requires: ["[[world-war-ii]]"]
 lists:
   - "[[world-war-ii-pacific-campaigns]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Battle of Guadalcanal
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

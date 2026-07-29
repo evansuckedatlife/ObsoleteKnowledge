@@ -13,6 +13,7 @@ read: false
 # The Murders in the Rue Morgue
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

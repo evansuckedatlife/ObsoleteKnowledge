@@ -4,14 +4,21 @@ category: music
 defines:
   - John Coltrane
 related: ["[[miles-davis]]", "[[charlie-parker]]", "[[jazz]]", "[[united-states]]", "[[harlem-renaissance]]"]
-requires: []
+requires: ["[[jazz]]"]
 lists:
   - "[[jazz-musicians]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # John Coltrane
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

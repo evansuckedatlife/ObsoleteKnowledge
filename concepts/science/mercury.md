@@ -2,7 +2,7 @@
 type: element
 category: science
 defines: ["Mercury", "Hg", "quicksilver"]
-related: ["[[gold]]", "[[oxygen]]", "[[sodium]]"]
+related: ["[[gold]]", "[[oxygen]]", "[[sodium]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[chemical-elements]]"]
 tour_order: 0

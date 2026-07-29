@@ -5,14 +5,21 @@ defines:
   - Rhine River
   - Rhine
 related: ["[[holy-roman-empire]]", "[[netherlands]]", "[[germany]]", "[[roman-empire]]", "[[world-war-ii]]", "[[charlemagne]]"]
-requires: []
+requires: ["[[france]]", "[[germany]]"]
 lists:
   - "[[western-european-rivers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Rhine River
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

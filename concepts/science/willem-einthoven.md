@@ -2,7 +2,7 @@
 type: person
 category: science
 defines: [Willem Einthoven]
-related: ["[[ecg]]", "[[electrocardiography]]", "[[cardiac-physiology]]"]
+related: ["[[ecg]]", "[[electrocardiography]]", "[[cardiac-physiology]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[nobel-prize-winners-in-medicine]]"]
 tour_order: 0

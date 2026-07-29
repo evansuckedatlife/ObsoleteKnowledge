@@ -2,7 +2,7 @@
 type: person
 category: visual-art
 defines: ["Frank Gehry"]
-related: ["[[antoni-gaudi]]", "[[deconstruction]]", "[[zaha-hadid]]"]
+related: ["[[antoni-gaudi]]", "[[deconstruction]]", "[[zaha-hadid]]", "[[united-states]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[architects]]"]
 tour_order: 0

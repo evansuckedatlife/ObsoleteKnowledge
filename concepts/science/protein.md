@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [Protein]
-related: ["[[amino-acids]]", "[[protein-synthesis]]", "[[ribosome]]", "[[enzyme]]", "[[antibody]]"]
+related: ["[[amino-acids]]", "[[protein-synthesis]]", "[[ribosome]]", "[[enzyme]]", "[[antibody]]", "[[industrial-revolution]]"]
 requires: []
 lists: []
 tour_order: 0

@@ -2,14 +2,21 @@
 type: place
 category: science
 defines: [Io]
-related: ["[[jupiter]]", "[[galilean-moons]]", "[[volcanic-activity]]", "[[europa]]", "[[ganymede]]", "[[callisto]]"]
-requires: []
+related: ["[[jupiter]]", "[[galilean-moons]]", "[[volcanic-activity]]", "[[europa]]", "[[ganymede]]", "[[callisto]]", "[[space-race]]", "[[zeus]]"]
+requires: ["[[jupiter]]"]
 lists: ["[[moons]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Io
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

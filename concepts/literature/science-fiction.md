@@ -2,7 +2,7 @@
 type: concept
 category: literature
 defines: [Science fiction, Speculative fiction, SF]
-related: ["[[jules-verne]]", "[[h-g-wells]]", "[[isaac-asimov]]", "[[ray-bradbury]]", "[[mary-shelley]]", "[[technology]]", "[[scientific-method]]", "[[futurism]]", "[[the-time-machine]]", "[[frankenstein]]"]
+related: ["[[jules-verne]]", "[[h-g-wells]]", "[[isaac-asimov]]", "[[ray-bradbury]]", "[[mary-shelley]]", "[[technology]]", "[[scientific-method]]", "[[futurism]]", "[[the-time-machine]]", "[[frankenstein]]", "[[nasa]]", "[[apollo-program]]"]
 requires: []
 lists: []
 tour_order: 0

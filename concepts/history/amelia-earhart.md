@@ -3,7 +3,7 @@ type: person
 category: history
 defines:
   - Amelia Earhart
-related: ["[[charles-lindbergh]]", "[[wiley-post]]", "[[bessie-coleman]]"]
+related: ["[[charles-lindbergh]]", "[[wiley-post]]", "[[bessie-coleman]]", "[[united-states]]", "[[nasa]]"]
 requires: []
 lists:
   - "[[aviators]]"

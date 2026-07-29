@@ -2,7 +2,7 @@
 type: practice
 category: science
 defines: ["Centrifugation"]
-related: ["[[filtration]]", "[[uranium]]", "[[nitrogen]]"]
+related: ["[[filtration]]", "[[uranium]]", "[[nitrogen]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[chemistry-lab-techniques]]"]
 tour_order: 0

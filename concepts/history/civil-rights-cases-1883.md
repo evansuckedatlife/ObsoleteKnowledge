@@ -16,6 +16,7 @@ read: false
 # The Civil Rights Cases (1883)
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

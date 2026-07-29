@@ -4,9 +4,7 @@ category: science
 defines:
   - Mount Tambora
   - Tambora
-related:
-  - "[[krakatoa]]"
-  - "[[mount-pinatubo]]"
+related: ["[[krakatoa]]", "[[mount-pinatubo]]", "[[industrial-revolution]]"]
 requires: []
 lists:
   - "[[active-volcanoes]]"

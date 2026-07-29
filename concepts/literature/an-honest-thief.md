@@ -12,6 +12,7 @@ read: false
 # An Honest Thief
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

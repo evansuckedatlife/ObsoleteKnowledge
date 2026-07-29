@@ -4,15 +4,22 @@ category: history
 defines:
   - Battle of Leipzig
   - Battle of the Nations
-related: ["[[napoleon-bonaparte]]", "[[coalition-wars]]", "[[prussia]]", "[[russia]]", "[[austria]]", "[[france]]"]
-requires: []
+related: ["[[napoleon-bonaparte]]", "[[coalition-wars]]", "[[prussia]]", "[[russia]]", "[[austria]]", "[[france]]", "[[germany]]"]
+requires: ["[[napoleon-bonaparte]]"]
 lists:
   - "[[napoleonic-battles]]"
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Battle of Leipzig
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -2,7 +2,7 @@
 type: event
 category: science
 defines: ["Michelson–Morley experiment"]
-related: ["[[speed-of-light]]", "[[ether]]", "[[special-relativity]]", "[[interferometer]]"]
+related: ["[[speed-of-light]]", "[[ether]]", "[[special-relativity]]", "[[interferometer]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[scientific-experiments]]"]
 tour_order: 0

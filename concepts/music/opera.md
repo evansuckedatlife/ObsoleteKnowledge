@@ -2,7 +2,7 @@
 type: concept
 category: music
 defines: [Opera]
-related: ["[[giuseppe-verdi]]", "[[richard-wagner]]", "[[claudio-monteverdi]]", "[[carl-maria-von-weber]]", "[[gioachino-rossini]]", "[[carmen]]", "[[don-giovanni]]", "[[the-magic-flute]]", "[[la-boheme]]", "[[madama-butterfly]]", "[[the-marriage-of-figaro]]", "[[leitmotif]]", "[[bel-canto]]", "[[singspiel]]", "[[music-drama]]"]
+related: ["[[giuseppe-verdi]]", "[[richard-wagner]]", "[[claudio-monteverdi]]", "[[carl-maria-von-weber]]", "[[gioachino-rossini]]", "[[carmen]]", "[[don-giovanni]]", "[[the-magic-flute]]", "[[la-boheme]]", "[[madama-butterfly]]", "[[the-marriage-of-figaro]]", "[[leitmotif]]", "[[bel-canto]]", "[[singspiel]]", "[[music-drama]]", "[[italy]]"]
 requires: []
 lists: []
 tour_order: 0

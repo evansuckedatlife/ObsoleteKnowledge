@@ -12,6 +12,7 @@ read: false
 # Le Corbusier
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

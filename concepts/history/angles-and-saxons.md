@@ -6,15 +6,22 @@ defines:
   - Anglo-Saxons
   - Angles
   - Saxons
-related: ["[[britain]]", "[[anglo-saxon-period]]", "[[germanic-peoples]]", "[[heptarchy]]"]
-requires: []
+related: ["[[britain]]", "[[anglo-saxon-period]]", "[[germanic-peoples]]", "[[heptarchy]]", "[[england]]"]
+requires: ["[[roman-empire]]"]
 lists:
   - "[[peoples-of-the-early-middle-ages]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Angles and Saxons
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [Dinosaurs, dinosaur, Dinosauria]
-related: ["[[cretaceous-period]]", "[[mesozoic-era]]", "[[extinction-event]]", "[[theropod]]", "[[sauropod]]", "[[ornithischian]]"]
+related: ["[[cretaceous-period]]", "[[mesozoic-era]]", "[[extinction-event]]", "[[theropod]]", "[[sauropod]]", "[[ornithischian]]", "[[industrial-revolution]]"]
 requires: []
 lists: []
 tour_order: 0

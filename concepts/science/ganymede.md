@@ -2,14 +2,21 @@
 type: place
 category: science
 defines: [Ganymede]
-related: ["[[jupiter]]", "[[galilean-moons]]", "[[subsurface-ocean]]", "[[io]]", "[[europa]]", "[[callisto]]", "[[space-race]]"]
-requires: []
+related: ["[[jupiter]]", "[[galilean-moons]]", "[[subsurface-ocean]]", "[[io]]", "[[europa]]", "[[callisto]]", "[[space-race]]", "[[zeus]]"]
+requires: ["[[jupiter]]"]
 lists: ["[[moons]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Ganymede
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

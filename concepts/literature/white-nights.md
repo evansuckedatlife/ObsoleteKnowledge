@@ -12,6 +12,7 @@ read: false
 # White Nights
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

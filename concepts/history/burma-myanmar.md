@@ -2,7 +2,7 @@
 type: place
 category: history
 defines: ["Burma", "Myanmar"]
-related: ["[[burmese-people]]", "[[state-law-and-order-restoration-council]]", "[[aung-san-suu-kyi]]", "[[british-burma]]"]
+related: ["[[burmese-people]]", "[[state-law-and-order-restoration-council]]", "[[aung-san-suu-kyi]]", "[[british-burma]]", "[[china]]", "[[india]]"]
 requires: []
 lists:
   - "[[countries-once-known-by-different-names]]"

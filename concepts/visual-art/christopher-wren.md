@@ -2,7 +2,7 @@
 type: person
 category: visual-art
 defines: ["Christopher Wren"]
-related: ["[[baroque]]", "[[st-pauls-cathedral]]", "[[filippo-brunelleschi]]"]
+related: ["[[baroque]]", "[[st-pauls-cathedral]]", "[[filippo-brunelleschi]]", "[[england]]", "[[london]]", "[[british-empire]]"]
 requires: []
 lists: ["[[architects]]"]
 tour_order: 0

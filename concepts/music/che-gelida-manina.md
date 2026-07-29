@@ -2,14 +2,21 @@
 type: phrase
 category: music
 defines: ["Che gelida manina", "What a cold little hand"]
-related: ["[[la-boheme]]", "[[puccini]]", "[[tenor]]"]
-requires: []
+related: ["[[la-boheme]]", "[[puccini]]", "[[tenor]]", "[[france]]"]
+requires: ["[[la-boheme]]"]
 lists: ["[[arias]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Che gelida manina
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

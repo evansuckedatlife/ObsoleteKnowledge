@@ -12,6 +12,7 @@ read: false
 # Bose–Einstein condensate
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

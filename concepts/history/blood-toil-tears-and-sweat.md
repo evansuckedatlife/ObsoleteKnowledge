@@ -12,6 +12,7 @@ read: false
 # Blood, Toil, Tears and Sweat
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

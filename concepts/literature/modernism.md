@@ -3,7 +3,7 @@ type: concept
 category: literature
 aliases: [literary-modernism]
 defines: [Modernism, High Modernism, Anglo-American modernism]
-related: ["[[james-joyce]]", "[[virginia-woolf]]", "[[t-s-eliot]]", "[[ezra-pound]]", "[[stream-of-consciousness]]", "[[the-waste-land]]", "[[world-war-i]]", "[[cubism]]", "[[sigmund-freud]]", "[[friedrich-nietzsche]]", "[[existentialism]]"]
+related: ["[[james-joyce]]", "[[virginia-woolf]]", "[[t-s-eliot]]", "[[ezra-pound]]", "[[stream-of-consciousness]]", "[[the-waste-land]]", "[[world-war-i]]", "[[cubism]]", "[[sigmund-freud]]", "[[friedrich-nietzsche]]", "[[existentialism]]", "[[industrial-revolution]]"]
 requires: []
 lists: []
 tour_order: 0

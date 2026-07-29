@@ -14,11 +14,12 @@ requires:
 lists:
   - "[[african-american-authors]]"
   - "[[african-american-civil-rights-leaders]]"
-tour_order: 1
+tour_order: 2
 read: true
 ---
 
 # Frederick Douglass
+
 
 
 <!-- foundations -->

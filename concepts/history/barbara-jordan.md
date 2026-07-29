@@ -12,6 +12,7 @@ read: false
 # Barbara Jordan
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

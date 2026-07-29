@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: ["Mach number", "Mach"]
-related: ["[[speed-of-sound]]", "[[supersonic]]", "[[aerodynamics]]"]
+related: ["[[speed-of-sound]]", "[[supersonic]]", "[[aerodynamics]]", "[[cold-war]]", "[[space-race]]"]
 requires: []
 lists: ["[[scientific-scales]]"]
 tour_order: 0

@@ -12,6 +12,7 @@ read: false
 # Equal Protection
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

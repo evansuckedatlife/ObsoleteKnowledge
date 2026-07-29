@@ -3,10 +3,7 @@ type: person
 category: literature
 defines:
   - Alice Walker
-related:
-  - "[[civil-rights-era]]"
-  - "[[feminist-literature]]"
-  - "[[harlem-renaissance]]"
+related: ["[[civil-rights-era]]", "[[feminist-literature]]", "[[harlem-renaissance]]", "[[civil-rights-movement]]"]
 requires: []
 lists:
   - "[[african-american-authors]]"

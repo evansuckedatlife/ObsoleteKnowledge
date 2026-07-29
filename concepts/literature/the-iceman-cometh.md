@@ -4,7 +4,7 @@ category: literature
 defines:
   - The Iceman Cometh
   - Harry Hope's saloon
-related: ["[[eugene-oneill]]", "[[american-naturalism]]", "[[new-york-city]]", "[[existentialism]]"]
+related: ["[[eugene-oneill]]", "[[american-naturalism]]", "[[new-york-city]]", "[[existentialism]]", "[[united-states]]", "[[world-war-ii]]"]
 requires: []
 lists:
   - "[[american-plays]]"

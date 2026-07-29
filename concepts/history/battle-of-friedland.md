@@ -3,15 +3,22 @@ type: event
 category: history
 defines:
   - Battle of Friedland
-related: ["[[napoleon-bonaparte]]", "[[russian-empire]]", "[[tilsit-treaty]]", "[[france]]"]
-requires: []
+related: ["[[napoleon-bonaparte]]", "[[russian-empire]]", "[[tilsit-treaty]]", "[[france]]", "[[germany]]"]
+requires: ["[[napoleon-bonaparte]]"]
 lists:
   - "[[napoleonic-battles]]"
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Battle of Friedland
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -2,7 +2,7 @@
 type: element
 category: science
 defines: ["Copper", "Cu"]
-related: ["[[iron]]", "[[gold]]", "[[zinc]]"]
+related: ["[[iron]]", "[[gold]]", "[[zinc]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[chemical-elements]]"]
 tour_order: 0

@@ -4,7 +4,7 @@ category: literature
 defines:
   - Kurt Vonnegut
   - Kurt Vonnegut Jr.
-related: ["[[don-delillo]]", "[[thomas-pynchon]]", "[[david-foster-wallace]]", "[[world-war-ii]]", "[[existentialism]]", "[[cold-war]]"]
+related: ["[[don-delillo]]", "[[thomas-pynchon]]", "[[david-foster-wallace]]", "[[world-war-ii]]", "[[existentialism]]", "[[cold-war]]", "[[vietnam-war]]"]
 requires: []
 lists:
   - "[[postmodern-authors]]"

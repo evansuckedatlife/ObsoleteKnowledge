@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [Seed, seeds]
-related: ["[[plant]]", "[[cotyledon]]", "[[embryo]]", "[[photosynthesis]]", "[[plant-reproduction]]"]
+related: ["[[plant]]", "[[cotyledon]]", "[[embryo]]", "[[photosynthesis]]", "[[plant-reproduction]]", "[[industrial-revolution]]"]
 requires: []
 lists: []
 tour_order: 0

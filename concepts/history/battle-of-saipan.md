@@ -3,15 +3,22 @@ type: event
 category: history
 defines:
   - Battle of Saipan
-related: ["[[battle-of-iwo-jima]]", "[[battle-of-okinawa]]", "[[mariana-islands]]"]
-requires: []
+related: ["[[battle-of-iwo-jima]]", "[[battle-of-okinawa]]", "[[mariana-islands]]", "[[japan]]"]
+requires: ["[[world-war-ii]]"]
 lists:
   - "[[world-war-ii-pacific-campaigns]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Battle of Saipan
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -3,13 +3,20 @@ type: person
 category: literature
 defines: [Edmund, Edmund the Bastard]
 related: ["[[king-lear]]", "[[edgar]]", "[[goneril]]", "[[regan]]", "[[gloucester]]", "[[illegitimacy]]"]
-requires: []
+requires: ["[[william-shakespeare]]"]
 lists: ["[[shakespearean-villains]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Edmund
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

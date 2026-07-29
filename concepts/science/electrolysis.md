@@ -2,7 +2,7 @@
 type: practice
 category: science
 defines: ["Electrolysis"]
-related: ["[[sodium]]", "[[copper]]", "[[hydrogen]]"]
+related: ["[[sodium]]", "[[copper]]", "[[hydrogen]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[chemistry-lab-techniques]]"]
 tour_order: 0

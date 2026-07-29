@@ -2,14 +2,21 @@
 type: event
 category: history
 defines: [Battle of Pharsalus]
-related: ["[[julius-caesar]]", "[[pompey]]", "[[roman-civil-war]]", "[[rome]]"]
-requires: []
+related: ["[[julius-caesar]]", "[[pompey]]", "[[roman-civil-war]]", "[[rome]]", "[[italy]]"]
+requires: ["[[roman-empire]]"]
 lists: ["[[battles-of-the-ancient-world]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Battle of Pharsalus
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -3,14 +3,21 @@ type: person
 category: visual-art
 defines: [Johannes Vermeer, Jan Vermeer]
 related: ["[[rembrandt-van-rijn]]", "[[frans-hals]]", "[[judith-leyster]]", "[[baroque-painters]]", "[[dutch-golden-age]]"]
-requires: []
+requires: ["[[dutch-golden-age]]"]
 lists: ["[[baroque-painters]]"]
-tour_order: 0
+tour_order: 1
 read: false
 aliases: [vermeer]
 ---
 
 # Johannes Vermeer
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -3,15 +3,22 @@ type: work
 category: literature
 defines:
   - The Duchess of Malfi
-related: ["[[john-webster]]", "[[revenge-tragedy]]", "[[white-devil]]", "[[england]]", "[[italian-renaissance]]"]
-requires: []
+related: ["[[john-webster]]", "[[revenge-tragedy]]", "[[white-devil]]", "[[england]]", "[[italian-renaissance]]", "[[italy]]"]
+requires: ["[[revenge-tragedy]]"]
 lists:
   - "[[non-shakespeare-classical-english-dramas]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The Duchess of Malfi
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

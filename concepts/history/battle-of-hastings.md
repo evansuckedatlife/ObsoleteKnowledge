@@ -4,15 +4,22 @@ category: history
 defines:
   - Battle of Hastings
   - Hastings
-related: ["[[norman-conquest]]", "[[william-the-conqueror]]", "[[harold-godwinson]]", "[[anglo-saxon-england]]", "[[medieval-feudalism]]", "[[england]]"]
-requires: []
+related: ["[[norman-conquest]]", "[[william-the-conqueror]]", "[[harold-godwinson]]", "[[anglo-saxon-england]]", "[[medieval-feudalism]]", "[[england]]", "[[france]]"]
+requires: ["[[angles-and-saxons]]"]
 lists:
   - "[[medieval-battles]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Battle of Hastings
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -2,7 +2,7 @@
 type: element
 category: science
 defines: ["Iron", "Fe"]
-related: ["[[carbon]]", "[[oxygen]]", "[[nickel]]", "[[copper]]"]
+related: ["[[carbon]]", "[[oxygen]]", "[[nickel]]", "[[copper]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[chemical-elements]]"]
 tour_order: 0

@@ -12,6 +12,7 @@ read: false
 # Princeton
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -2,7 +2,7 @@
 type: person
 category: history
 defines: ["Boris Godunov", "Boris Fyodorovich Godunov"]
-related: ["[[ivan-iv]]", "[[time-of-troubles]]", "[[false-dmitri]]", "[[russian-empire]]", "[[mikhail-romanov]]"]
+related: ["[[ivan-iv]]", "[[time-of-troubles]]", "[[false-dmitri]]", "[[russian-empire]]", "[[mikhail-romanov]]", "[[st-petersburg]]"]
 requires: []
 lists: ["[[russian-tsars]]"]
 tour_order: 0

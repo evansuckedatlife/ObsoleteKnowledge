@@ -6,14 +6,21 @@ defines:
   - Tejo
   - Tajo
 related: ["[[spain]]", "[[portugal]]", "[[iberian-peninsula]]"]
-requires: []
+requires: ["[[spain]]"]
 lists:
   - "[[western-european-rivers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Tagus River
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

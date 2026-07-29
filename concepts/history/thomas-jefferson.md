@@ -15,6 +15,7 @@ read: false
 # Thomas Jefferson
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

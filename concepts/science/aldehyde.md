@@ -12,6 +12,7 @@ read: false
 # Aldehyde
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

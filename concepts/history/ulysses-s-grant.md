@@ -5,11 +5,12 @@ defines: ["Ulysses S. Grant", "Grant"]
 related: ["[[american-civil-war]]", "[[robert-e-lee]]", "[[abraham-lincoln]]", "[[reconstruction-era]]", "[[battle-of-appomattox]]"]
 requires: ["[[american-civil-war]]"]
 lists: []
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Ulysses S. Grant
+
 
 
 <!-- foundations -->

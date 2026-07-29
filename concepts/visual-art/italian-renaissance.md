@@ -2,7 +2,7 @@
 type: concept
 category: visual-art
 defines: [Italian Renaissance]
-related: ["[[leonardo-da-vinci]]", "[[michelangelo]]", "[[raphael]]", "[[botticelli]]", "[[florence]]", "[[perspective]]", "[[humanism]]", "[[classical-art]]", "[[the-renaissance]]", "[[medici-family]]"]
+related: ["[[leonardo-da-vinci]]", "[[michelangelo]]", "[[raphael]]", "[[botticelli]]", "[[florence]]", "[[perspective]]", "[[humanism]]", "[[classical-art]]", "[[the-renaissance]]", "[[medici-family]]", "[[italy]]", "[[rome]]", "[[athens]]"]
 requires: []
 lists: []
 tour_order: 0

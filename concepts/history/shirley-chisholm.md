@@ -12,6 +12,7 @@ read: false
 # Shirley Chisholm
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

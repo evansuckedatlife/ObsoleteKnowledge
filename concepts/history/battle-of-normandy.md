@@ -12,6 +12,7 @@ read: false
 # Battle of Normandy
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

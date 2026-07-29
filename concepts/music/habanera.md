@@ -3,13 +3,20 @@ type: phrase
 category: music
 defines: [Habanera, "L'amour est un oiseau rebelle"]
 related: ["[[carmen]]", "[[mezzo-soprano]]", "[[spanish-music-in-opera]]", "[[spain]]"]
-requires: []
+requires: ["[[carmen]]"]
 lists: ["[[arias]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Habanera
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

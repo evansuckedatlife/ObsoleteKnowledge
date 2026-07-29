@@ -2,7 +2,7 @@
 type: practice
 category: science
 defines: ["Titration", "volumetric analysis"]
-related: ["[[chromatography]]", "[[distillation]]"]
+related: ["[[chromatography]]", "[[distillation]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[chemistry-lab-techniques]]"]
 tour_order: 0

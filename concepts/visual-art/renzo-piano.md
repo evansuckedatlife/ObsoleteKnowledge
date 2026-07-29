@@ -12,6 +12,7 @@ read: false
 # Renzo Piano
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

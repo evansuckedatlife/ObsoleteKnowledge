@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: ["Friedel-Crafts reaction", "Friedel-Crafts alkylation", "Friedel-Crafts acylation", "Friedel-Crafts reactions"]
-related: ["[[organic-halide]]", "[[ketone]]", "[[carbon]]"]
+related: ["[[organic-halide]]", "[[ketone]]", "[[carbon]]", "[[industrial-revolution]]", "[[france]]"]
 requires: []
 lists: ["[[organic-reactions]]"]
 tour_order: 0

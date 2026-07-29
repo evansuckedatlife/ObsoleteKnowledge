@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: ["Ester", "esters"]
-related: ["[[carboxylic-acid]]", "[[alcohol]]", "[[organic-reactions]]"]
+related: ["[[carboxylic-acid]]", "[[alcohol]]", "[[organic-reactions]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[functional-groups]]"]
 tour_order: 0

@@ -12,6 +12,7 @@ read: false
 # The Idiot
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

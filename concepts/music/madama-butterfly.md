@@ -3,13 +3,20 @@ type: work
 category: music
 defines: ["Madama Butterfly", "Madame Butterfly"]
 related: ["[[operas]]", "[[la-boheme]]", "[[japan]]"]
-requires: []
+requires: ["[[opera]]"]
 lists: ["[[operas]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Madama Butterfly
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -3,7 +3,7 @@ type: person
 category: literature
 defines:
   - Grace Paley
-related: ["[[bernard-malamud]]", "[[women-writers]]", "[[political-activism]]", "[[minimalism-fiction]]", "[[new-york-city]]"]
+related: ["[[bernard-malamud]]", "[[women-writers]]", "[[political-activism]]", "[[minimalism-fiction]]", "[[new-york-city]]", "[[world-war-ii]]"]
 requires: []
 lists:
   - "[[jewish-american-authors]]"

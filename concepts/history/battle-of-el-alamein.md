@@ -12,6 +12,7 @@ read: false
 # Battle of El Alamein
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

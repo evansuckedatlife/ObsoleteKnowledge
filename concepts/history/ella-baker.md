@@ -15,6 +15,7 @@ read: false
 # Ella Baker
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -3,7 +3,7 @@ type: concept
 category: visual-art
 defines:
   - Futurism
-related: ["[[filippo-tommaso-marinetti]]", "[[umberto-boccioni]]", "[[cubism]]"]
+related: ["[[filippo-tommaso-marinetti]]", "[[umberto-boccioni]]", "[[cubism]]", "[[italy]]", "[[world-war-i]]", "[[industrial-revolution]]"]
 requires: []
 lists:
   - "[[early-20th-century-art-movements]]"

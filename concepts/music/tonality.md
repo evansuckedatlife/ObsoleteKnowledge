@@ -2,7 +2,7 @@
 type: concept
 category: music
 defines: [Tonality, Tonal music]
-related: ["[[major-minor-tonality]]", "[[key-signature]]", "[[modulation]]", "[[chord-progression]]", "[[harmonic-function]]", "[[atonality]]", "[[twelve-tone-technique]]", "[[arnold-schoenberg]]", "[[classical-music]]", "[[the-well-tempered-clavier]]"]
+related: ["[[major-minor-tonality]]", "[[key-signature]]", "[[modulation]]", "[[chord-progression]]", "[[harmonic-function]]", "[[atonality]]", "[[twelve-tone-technique]]", "[[arnold-schoenberg]]", "[[classical-music]]", "[[the-well-tempered-clavier]]", "[[renaissance]]"]
 requires: []
 lists: []
 tour_order: 0

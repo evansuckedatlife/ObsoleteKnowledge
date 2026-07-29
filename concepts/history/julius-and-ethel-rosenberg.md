@@ -16,6 +16,7 @@ read: false
 # Julius and Ethel Rosenberg
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

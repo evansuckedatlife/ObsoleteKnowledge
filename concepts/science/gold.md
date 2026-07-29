@@ -2,7 +2,7 @@
 type: element
 category: science
 defines: ["Gold", "Au"]
-related: ["[[copper]]", "[[mercury]]", "[[uranium]]"]
+related: ["[[copper]]", "[[mercury]]", "[[uranium]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[chemical-elements]]"]
 tour_order: 0

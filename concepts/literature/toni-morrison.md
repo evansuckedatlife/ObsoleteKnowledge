@@ -3,9 +3,7 @@ type: person
 category: literature
 defines:
   - Toni Morrison
-related:
-  - "[[contemporary-american-literature]]"
-  - "[[nobel-prize-in-literature]]"
+related: ["[[contemporary-american-literature]]", "[[nobel-prize-in-literature]]", "[[united-states]]", "[[civil-rights-movement]]"]
 requires: []
 lists:
   - "[[african-american-authors]]"

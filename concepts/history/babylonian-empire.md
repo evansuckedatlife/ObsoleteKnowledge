@@ -2,14 +2,21 @@
 type: place
 category: history
 defines: [Babylonian Empire, Babylon, Babylonia]
-related: ["[[mesopotamia]]", "[[hammurabi]]", "[[nebuchadnezzar-ii]]", "[[code-of-hammurabi]]", "[[akkadian-empire]]"]
-requires: []
+related: ["[[mesopotamia]]", "[[hammurabi]]", "[[nebuchadnezzar-ii]]", "[[code-of-hammurabi]]", "[[akkadian-empire]]", "[[middle-east]]"]
+requires: ["[[akkadian-empire]]"]
 lists: ["[[ancient-empires]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Babylonian Empire
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

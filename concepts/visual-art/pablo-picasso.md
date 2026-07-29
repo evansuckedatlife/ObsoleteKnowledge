@@ -12,6 +12,7 @@ read: false
 # Pablo Picasso
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

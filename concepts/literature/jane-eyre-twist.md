@@ -5,7 +5,7 @@ defines:
   - "Jane Eyre"
   - Jane Eyre (novel)
   - Bertha Mason
-related: ["[[charlotte-bronte]]", "[[gothic-fiction]]", "[[madwoman-in-the-attic]]", "[[england]]"]
+related: ["[[charlotte-bronte]]", "[[gothic-fiction]]", "[[madwoman-in-the-attic]]", "[[england]]", "[[industrial-revolution]]"]
 requires: []
 lists:
   - "[[plot-twists]]"

@@ -3,7 +3,7 @@ type: person
 category: literature
 defines:
   - Allen Ginsberg
-related: ["[[beat-generation]]", "[[counter-culture]]", "[[american-poetry]]", "[[william-carlos-williams]]"]
+related: ["[[beat-generation]]", "[[counter-culture]]", "[[american-poetry]]", "[[william-carlos-williams]]", "[[vietnam-war]]"]
 requires: []
 lists:
   - "[[jewish-american-authors]]"

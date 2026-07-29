@@ -12,6 +12,7 @@ read: false
 # Cnidaria
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

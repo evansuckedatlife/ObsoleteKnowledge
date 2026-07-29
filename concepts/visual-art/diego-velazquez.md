@@ -2,7 +2,7 @@
 type: person
 category: visual-art
 defines: [Diego Velázquez, Velazquez]
-related: ["[[rembrandt-van-rijn]]", "[[peter-paul-rubens]]", "[[nicolas-poussin]]", "[[baroque-painters]]"]
+related: ["[[rembrandt-van-rijn]]", "[[peter-paul-rubens]]", "[[nicolas-poussin]]", "[[baroque-painters]]", "[[spain]]", "[[rome]]", "[[renaissance]]"]
 requires: []
 lists: ["[[baroque-painters]]"]
 tour_order: 0

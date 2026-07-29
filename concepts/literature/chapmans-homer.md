@@ -4,7 +4,7 @@ category: literature
 defines:
   - "Chapman's Homer"
   - Chapman's translation of the Iliad
-related: ["[[iliad]]", "[[odyssey]]", "[[george-chapman]]", "[[english-renaissance-poetry]]", "[[homer]]", "[[ancient-greece]]", "[[renaissance]]"]
+related: ["[[iliad]]", "[[odyssey]]", "[[george-chapman]]", "[[english-renaissance-poetry]]", "[[homer]]", "[[ancient-greece]]", "[[renaissance]]", "[[the-iliad]]"]
 requires: []
 lists:
   - "[[translations]]"

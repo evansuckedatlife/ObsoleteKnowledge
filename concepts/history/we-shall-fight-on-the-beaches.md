@@ -12,6 +12,7 @@ read: false
 # We Shall Fight on the Beaches
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

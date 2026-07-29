@@ -4,15 +4,22 @@ category: literature
 defines:
   - The Overcoat
   - Shinel
-related: ["[[nikolai-gogol]]", "[[russian-realism]]", "[[social-satire]]"]
-requires: []
+related: ["[[nikolai-gogol]]", "[[russian-realism]]", "[[social-satire]]", "[[st-petersburg]]"]
+requires: ["[[russian-literature]]"]
 lists:
   - "[[works-of-russian-short-fiction]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The Overcoat
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

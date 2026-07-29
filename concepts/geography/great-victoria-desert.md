@@ -5,14 +5,21 @@ defines:
   - Great Victoria Desert
   - Great Victoria Desert of Australia
 related: ["[[australia]]", "[[aboriginal-peoples]]", "[[australian-deserts]]"]
-requires: []
+requires: ["[[australia]]"]
 lists:
   - "[[deserts]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Great Victoria Desert
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

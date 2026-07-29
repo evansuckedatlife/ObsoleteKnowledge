@@ -2,7 +2,7 @@
 type: event
 category: history
 defines: [Arab–Israeli Conflict]
-related: ["[[israel]]", "[[palestine]]", "[[zionism]]", "[[world-war-ii]]", "[[united-nations]]", "[[suez-crisis]]", "[[six-day-war]]", "[[yom-kippur-war]]", "[[middle-east]]"]
+related: ["[[israel]]", "[[palestine]]", "[[zionism]]", "[[world-war-ii]]", "[[united-nations]]", "[[suez-crisis]]", "[[six-day-war]]", "[[yom-kippur-war]]", "[[middle-east]]", "[[islam]]", "[[judaism]]"]
 requires: []
 lists: []
 tour_order: 0

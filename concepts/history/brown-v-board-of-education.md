@@ -16,6 +16,7 @@ read: false
 # Brown v. Board of Education
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

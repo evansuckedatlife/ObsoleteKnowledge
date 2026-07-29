@@ -2,7 +2,7 @@
 type: place
 category: history
 defines: [Assyrian Empire, Assyria, Neo-Assyrian Empire]
-related: ["[[mesopotamia]]", "[[ashurnasirpal-ii]]", "[[sennacherib]]", "[[tigris-river]]"]
+related: ["[[mesopotamia]]", "[[ashurnasirpal-ii]]", "[[sennacherib]]", "[[tigris-river]]", "[[middle-east]]"]
 requires: []
 lists: ["[[ancient-empires]]"]
 tour_order: 0

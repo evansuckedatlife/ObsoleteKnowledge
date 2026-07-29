@@ -2,7 +2,7 @@
 type: place
 category: science
 defines: [Halley's Comet, Halley Comet]
-related: ["[[edmund-halley]]", "[[comet]]", "[[oort-cloud]]"]
+related: ["[[edmund-halley]]", "[[comet]]", "[[oort-cloud]]", "[[age-of-exploration]]"]
 requires: []
 lists: ["[[dwarf-planets-comets-and-asteroids]]"]
 tour_order: 0

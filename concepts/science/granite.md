@@ -2,14 +2,21 @@
 type: term
 category: science
 defines: [Granite, felsic]
-related: ["[[quartz]]", "[[feldspar]]", "[[mica]]", "[[igneous-rock]]", "[[metamorphic-rock]]"]
-requires: []
+related: ["[[quartz]]", "[[feldspar]]", "[[mica]]", "[[igneous-rock]]", "[[metamorphic-rock]]", "[[italy]]"]
+requires: ["[[feldspar]]"]
 lists: ["[[rocks-and-minerals]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Granite
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

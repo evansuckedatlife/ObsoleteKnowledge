@@ -2,7 +2,7 @@
 type: element
 category: science
 defines: ["Oxygen", "O"]
-related: ["[[carbon]]", "[[nitrogen]]", "[[hydrogen]]", "[[mercury]]"]
+related: ["[[carbon]]", "[[nitrogen]]", "[[hydrogen]]", "[[mercury]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[chemical-elements]]"]
 tour_order: 0

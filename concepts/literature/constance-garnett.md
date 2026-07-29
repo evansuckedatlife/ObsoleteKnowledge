@@ -4,7 +4,7 @@ category: literature
 defines:
   - Constance Garnett
   - Constance Clara Black
-related: ["[[russian-literature]]", "[[fyodor-dostoevsky]]", "[[leo-tolstoy]]", "[[anton-chekhov]]", "[[literary-translation]]"]
+related: ["[[russian-literature]]", "[[fyodor-dostoevsky]]", "[[leo-tolstoy]]", "[[anton-chekhov]]", "[[literary-translation]]", "[[russian-empire]]"]
 requires: []
 lists:
   - "[[translations]]"

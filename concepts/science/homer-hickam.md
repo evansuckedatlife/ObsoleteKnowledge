@@ -2,7 +2,7 @@
 type: person
 category: science
 defines: [Homer Hickam, Homer Hadley Hickam Jr.]
-related: ["[[rocket-scientists]]"]
+related: ["[[rocket-scientists]]", "[[space-race]]", "[[united-states]]"]
 requires: []
 lists: ["[[rocket-scientists]]"]
 tour_order: 0

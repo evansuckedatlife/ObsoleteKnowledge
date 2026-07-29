@@ -3,7 +3,7 @@ type: place
 category: visual-art
 defines:
   - Home Insurance Building
-related: ["[[louis-sullivan]]", "[[chicago]]", "[[steel-frame-construction]]"]
+related: ["[[louis-sullivan]]", "[[chicago]]", "[[steel-frame-construction]]", "[[united-states]]", "[[industrial-revolution]]"]
 requires: []
 lists:
   - "[[skyscrapers]]"

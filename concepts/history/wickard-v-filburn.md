@@ -14,6 +14,7 @@ read: false
 # Wickard v. Filburn
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

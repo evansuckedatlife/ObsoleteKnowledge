@@ -2,14 +2,21 @@
 type: event
 category: history
 defines: [Assassination of John F. Kennedy, JFK assassination, Kennedy assassination]
-related: ["[[lee-harvey-oswald]]", "[[john-f-kennedy]]", "[[warren-commission]]", "[[cold-war]]"]
-requires: []
+related: ["[[lee-harvey-oswald]]", "[[john-f-kennedy]]", "[[warren-commission]]", "[[cold-war]]", "[[united-states]]"]
+requires: ["[[cold-war]]"]
 lists: ["[[assassinations]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Assassination of John F. Kennedy
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

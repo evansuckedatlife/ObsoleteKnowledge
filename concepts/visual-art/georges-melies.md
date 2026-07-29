@@ -2,7 +2,7 @@
 type: person
 category: visual-art
 defines: ["Georges Méliès"]
-related: ["[[a-trip-to-the-moon]]", "[[cinema-origins]]"]
+related: ["[[a-trip-to-the-moon]]", "[[cinema-origins]]", "[[france]]"]
 requires: []
 lists:
   - "[[french-directors]]"

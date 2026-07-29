@@ -2,14 +2,21 @@
 type: person
 category: science
 defines: ["Erwin Schrödinger", "Erwin Rudolf Josef Alexander Schrödinger"]
-related: ["[[albert-einstein]]", "[[niels-bohr]]", "[[werner-heisenberg]]"]
-requires: []
+related: ["[[albert-einstein]]", "[[niels-bohr]]", "[[werner-heisenberg]]", "[[isaac-newton]]"]
+requires: ["[[quantum-mechanics]]"]
 lists: ["[[20th-century-physicists]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Erwin Schrödinger
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

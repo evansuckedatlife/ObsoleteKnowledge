@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: ["Quantum mechanics", "quantum theory", QM]
-related: ["[[standard-model]]", "[[photon]]", "[[planck-constant]]", "[[photoelectric-effect]]", "[[werner-heisenberg]]", "[[erwin-schrodinger]]", "[[paul-dirac]]", "[[wave-particle-duality]]", "[[superposition]]", "[[quantization]]"]
+related: ["[[standard-model]]", "[[photon]]", "[[planck-constant]]", "[[photoelectric-effect]]", "[[werner-heisenberg]]", "[[erwin-schrodinger]]", "[[paul-dirac]]", "[[wave-particle-duality]]", "[[superposition]]", "[[quantization]]", "[[cold-war]]", "[[consciousness]]"]
 requires: []
 lists: []
 tour_order: 0

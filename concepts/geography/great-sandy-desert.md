@@ -5,14 +5,21 @@ defines:
   - Great Sandy Desert
   - Great Sandy Desert of Australia
 related: ["[[australia]]", "[[aboriginal-peoples]]", "[[australian-outback]]"]
-requires: []
+requires: ["[[australia]]"]
 lists:
   - "[[deserts]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Great Sandy Desert
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

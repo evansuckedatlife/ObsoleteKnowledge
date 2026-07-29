@@ -12,6 +12,7 @@ read: false
 # Barbara McClintock
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

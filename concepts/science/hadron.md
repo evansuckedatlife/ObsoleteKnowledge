@@ -3,15 +3,22 @@ type: term
 category: science
 defines:
   - Hadron
-related: ["[[quark]]", "[[gluon]]", "[[baryon]]", "[[meson]]", "[[quantum-chromodynamics]]"]
-requires: []
+related: ["[[quark]]", "[[gluon]]", "[[baryon]]", "[[meson]]", "[[quantum-chromodynamics]]", "[[isaac-newton]]"]
+requires: ["[[quark]]"]
 lists:
   - "[[classes-of-particles]]"
-tour_order: 0
+tour_order: 4
 read: true
 ---
 
 # Hadron
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

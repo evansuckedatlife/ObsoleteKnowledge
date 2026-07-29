@@ -3,10 +3,7 @@ type: person
 category: literature
 defines:
   - Phillis Wheatley
-related:
-  - "[[american-revolution]]"
-  - "[[african-diaspora]]"
-  - "[[harlem-renaissance]]"
+related: ["[[american-revolution]]", "[[african-diaspora]]", "[[harlem-renaissance]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[african-american-authors]]"

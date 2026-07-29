@@ -4,14 +4,21 @@ category: geography
 defines:
   - Mekong River
 related: ["[[brahmaputra-river]]", "[[southeast-asia]]", "[[vietnam]]", "[[vietnam-war]]"]
-requires: []
+requires: ["[[china]]"]
 lists:
   - "[[asian-rivers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Mekong River
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

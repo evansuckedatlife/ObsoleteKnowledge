@@ -2,7 +2,7 @@
 type: place
 category: science
 defines: [Triton]
-related: ["[[neptune]]", "[[retrograde-orbit]]", "[[cryovolcanism]]", "[[pluto]]"]
+related: ["[[neptune]]", "[[retrograde-orbit]]", "[[cryovolcanism]]", "[[pluto]]", "[[space-race]]"]
 requires: []
 lists: ["[[moons]]"]
 tour_order: 0

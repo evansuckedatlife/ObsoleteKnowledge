@@ -12,6 +12,7 @@ read: false
 # Emiliano Zapata
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

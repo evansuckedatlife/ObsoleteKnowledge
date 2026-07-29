@@ -3,7 +3,7 @@ type: person
 category: visual-art
 defines:
   - Gutzon Borglum
-related: ["[[mount-rushmore]]", "[[stone-carving]]", "[[american-monuments]]"]
+related: ["[[mount-rushmore]]", "[[stone-carving]]", "[[american-monuments]]", "[[united-states]]", "[[industrial-revolution]]"]
 requires: []
 lists:
   - "[[sculptors]]"

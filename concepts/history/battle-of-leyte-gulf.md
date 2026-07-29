@@ -4,14 +4,21 @@ category: history
 defines:
   - Battle of Leyte Gulf
 related: ["[[battle-of-midway]]", "[[douglas-macarthur]]", "[[philippines]]", "[[japan]]"]
-requires: []
+requires: ["[[world-war-ii]]"]
 lists:
   - "[[world-war-ii-pacific-campaigns]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Battle of Leyte Gulf
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

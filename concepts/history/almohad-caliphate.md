@@ -5,15 +5,22 @@ defines:
   - Almohad Caliphate
   - Almohads
   - Muwahhidun
-related: ["[[almoravid-dynasty]]", "[[al-andalus]]", "[[mamluk-sultanate]]"]
-requires: []
+related: ["[[almoravid-dynasty]]", "[[al-andalus]]", "[[mamluk-sultanate]]", "[[spain]]", "[[islam]]"]
+requires: ["[[almoravid-dynasty]]"]
 lists:
   - "[[medieval-islamic-dynasties]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Almohad Caliphate
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

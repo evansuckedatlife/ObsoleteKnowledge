@@ -2,7 +2,7 @@
 type: place
 category: science
 defines: [Vesta]
-related: ["[[asteroid-belt]]", "[[ceres]]", "[[basaltic]]", "[[giant-impact]]"]
+related: ["[[asteroid-belt]]", "[[ceres]]", "[[basaltic]]", "[[giant-impact]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[dwarf-planets-comets-and-asteroids]]"]
 tour_order: 0

@@ -12,6 +12,7 @@ read: false
 # Graph (data structure)
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

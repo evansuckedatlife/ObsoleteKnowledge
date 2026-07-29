@@ -2,7 +2,7 @@
 type: person
 category: music
 defines: [Rodgers and Hammerstein]
-related: ["[[oklahoma]]", "[[the-sound-of-music]]", "[[musicals-part-1]]", "[[south-pacific]]", "[[the-king-and-i]]", "[[carousel]]", "[[musical-theatre]]"]
+related: ["[[oklahoma]]", "[[the-sound-of-music]]", "[[musicals-part-1]]", "[[south-pacific]]", "[[the-king-and-i]]", "[[carousel]]", "[[musical-theatre]]", "[[united-states]]"]
 requires: []
 lists: []
 tour_order: 0

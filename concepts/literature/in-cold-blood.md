@@ -3,7 +3,7 @@ type: work
 category: literature
 defines:
   - In Cold Blood
-related: ["[[truman-capote]]", "[[true-crime]]", "[[detective-fiction]]", "[[kansas-murders]]", "[[cold-war]]"]
+related: ["[[truman-capote]]", "[[true-crime]]", "[[detective-fiction]]", "[[kansas-murders]]", "[[cold-war]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[works-of-mystery-and-detective-fiction]]"

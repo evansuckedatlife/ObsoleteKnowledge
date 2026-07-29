@@ -2,14 +2,21 @@
 type: work
 category: music
 defines: ["Boris Godunov (opera)"]
-related: ["[[operas]]"]
-requires: []
+related: ["[[operas]]", "[[st-petersburg]]"]
+requires: ["[[opera]]"]
 lists: ["[[operas]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Boris Godunov (opera)
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

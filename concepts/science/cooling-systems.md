@@ -12,6 +12,7 @@ read: false
 # Cooling
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

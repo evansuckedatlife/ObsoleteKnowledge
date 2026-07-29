@@ -4,15 +4,22 @@ category: music
 defines:
   - Charlie Parker
   - Bird
-related: ["[[dizzy-gillespie]]", "[[miles-davis]]", "[[john-coltrane]]", "[[bebop]]", "[[jazz]]", "[[harlem-renaissance]]"]
-requires: []
+related: ["[[dizzy-gillespie]]", "[[miles-davis]]", "[[john-coltrane]]", "[[bebop]]", "[[jazz]]", "[[harlem-renaissance]]", "[[united-states]]"]
+requires: ["[[jazz]]"]
 lists:
   - "[[jazz-musicians]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Charlie Parker
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

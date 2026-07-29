@@ -2,7 +2,7 @@
 type: person
 category: visual-art
 defines: ["Ansel Adams"]
-related: ["[[alfred-stieglitz]]", "[[eadweard-muybridge]]", "[[henri-cartier-bresson]]"]
+related: ["[[alfred-stieglitz]]", "[[eadweard-muybridge]]", "[[henri-cartier-bresson]]", "[[united-states]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[photography-pioneers]]"]
 tour_order: 0

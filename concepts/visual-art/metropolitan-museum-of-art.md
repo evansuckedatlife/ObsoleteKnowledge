@@ -4,7 +4,7 @@ category: visual-art
 defines:
   - Metropolitan Museum of Art
   - The Met
-related: ["[[american-art-collecting]]", "[[egyptian-antiquities]]", "[[armor-and-weapons]]"]
+related: ["[[american-art-collecting]]", "[[egyptian-antiquities]]", "[[armor-and-weapons]]", "[[united-states]]", "[[new-york-city]]"]
 requires: []
 lists:
   - "[[art-museums]]"

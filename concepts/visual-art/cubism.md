@@ -5,7 +5,7 @@ defines:
   - Cubism
   - Analytical Cubism
   - Synthetic Cubism
-related: ["[[pablo-picasso]]", "[[georges-braque]]", "[[juan-gris]]", "[[modernism]]"]
+related: ["[[pablo-picasso]]", "[[georges-braque]]", "[[juan-gris]]", "[[modernism]]", "[[france]]", "[[industrial-revolution]]"]
 requires: []
 lists:
   - "[[early-20th-century-art-movements]]"

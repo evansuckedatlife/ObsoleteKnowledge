@@ -2,14 +2,21 @@
 type: event
 category: history
 defines: [Battle of Gaugamela]
-related: ["[[alexander-the-great]]", "[[darius-iii]]", "[[macedonian-conquest]]"]
-requires: []
+related: ["[[alexander-the-great]]", "[[darius-iii]]", "[[macedonian-conquest]]", "[[ancient-greece]]", "[[middle-east]]"]
+requires: ["[[alexander-the-great]]"]
 lists: ["[[battles-of-the-ancient-world]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Battle of Gaugamela
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -12,6 +12,7 @@ read: false
 # Comet 67P
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

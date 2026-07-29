@@ -12,6 +12,7 @@ read: false
 # George Washington
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

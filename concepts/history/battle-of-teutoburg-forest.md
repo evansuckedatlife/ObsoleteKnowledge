@@ -2,14 +2,21 @@
 type: event
 category: history
 defines: [Battle of Teutoburg Forest]
-related: ["[[arminius]]", "[[roman-empire]]", "[[germanicus-caesar]]", "[[rome]]"]
-requires: []
+related: ["[[arminius]]", "[[roman-empire]]", "[[germanicus-caesar]]", "[[rome]]", "[[germany]]"]
+requires: ["[[roman-empire]]"]
 lists: ["[[battles-of-the-ancient-world]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Battle of Teutoburg Forest
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

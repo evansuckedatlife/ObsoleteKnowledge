@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: [Metamorphic rock, metamorphism]
-related: ["[[igneous-rock]]", "[[sedimentary-rock]]", "[[rock-cycle]]", "[[mineral]]", "[[plate-tectonics]]", "[[marble]]", "[[slate]]"]
+related: ["[[igneous-rock]]", "[[sedimentary-rock]]", "[[rock-cycle]]", "[[mineral]]", "[[plate-tectonics]]", "[[marble]]", "[[slate]]", "[[industrial-revolution]]"]
 requires: []
 lists: []
 tour_order: 0

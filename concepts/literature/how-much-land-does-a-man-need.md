@@ -14,6 +14,7 @@ read: false
 # How Much Land Does a Man Need?
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

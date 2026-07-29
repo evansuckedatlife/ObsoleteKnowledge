@@ -2,7 +2,7 @@
 type: person
 category: literature
 defines: ["Mario Vargas Llosa"]
-related: ["[[peruvian-literature]]", "[[the-time-of-the-hero]]", "[[the-green-house]]", "[[totalitarianism-in-literature]]"]
+related: ["[[peruvian-literature]]", "[[the-time-of-the-hero]]", "[[the-green-house]]", "[[totalitarianism-in-literature]]", "[[world-war-ii]]"]
 requires: []
 lists: ["[[latin-american-authors]]"]
 tour_order: 0

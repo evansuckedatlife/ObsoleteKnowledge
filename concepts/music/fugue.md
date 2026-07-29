@@ -3,14 +3,21 @@ type: term
 category: music
 defines: [Fugue]
 related: ["[[counterpoint]]", "[[bach]]", "[[subject-and-answer]]", "[[stretto]]"]
-requires: []
+requires: ["[[counterpoint]]"]
 lists:
   - "[[music-theory-terms]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Fugue
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

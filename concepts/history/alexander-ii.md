@@ -2,14 +2,21 @@
 type: person
 category: history
 defines: ["Alexander II"]
-related: ["[[nicholas-i]]", "[[crimean-war]]", "[[emancipation-edict-1861]]", "[[russian-reforms-1860s]]", "[[russo-turkish-war-1877]]"]
-requires: []
+related: ["[[nicholas-i]]", "[[crimean-war]]", "[[emancipation-edict-1861]]", "[[russian-reforms-1860s]]", "[[russo-turkish-war-1877]]", "[[st-petersburg]]"]
+requires: ["[[alexander-i]]"]
 lists: ["[[russian-tsars]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Alexander II
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

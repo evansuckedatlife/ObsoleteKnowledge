@@ -12,6 +12,7 @@ read: false
 # FDR's First Inauguration
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

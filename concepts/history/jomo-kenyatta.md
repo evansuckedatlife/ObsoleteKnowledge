@@ -15,6 +15,7 @@ read: false
 # Jomo Kenyatta
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

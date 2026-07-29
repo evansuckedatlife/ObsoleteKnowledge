@@ -4,7 +4,7 @@ category: literature
 defines:
   - Long Day's Journey into Night
   - Tyrone family
-related: ["[[eugene-oneill]]", "[[american-realism]]"]
+related: ["[[eugene-oneill]]", "[[american-realism]]", "[[world-war-i]]"]
 requires: []
 lists:
   - "[[american-plays]]"

@@ -12,6 +12,7 @@ read: false
 # Soviet Space Program
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

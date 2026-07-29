@@ -15,6 +15,7 @@ read: false
 # USS Arizona
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

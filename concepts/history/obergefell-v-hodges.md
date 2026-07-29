@@ -13,6 +13,7 @@ read: false
 # Obergefell v. Hodges
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

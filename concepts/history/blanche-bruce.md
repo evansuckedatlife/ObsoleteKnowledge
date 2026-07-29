@@ -5,11 +5,12 @@ defines: [Blanche Bruce]
 related: ["[[reconstruction-era]]", "[[united-states-senate]]", "[[mississippi]]"]
 requires: ["[[reconstruction-era]]"]
 lists: ["[[black-american-legislators]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Blanche Bruce
+
 
 
 <!-- foundations -->

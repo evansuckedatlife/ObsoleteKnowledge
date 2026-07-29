@@ -2,14 +2,21 @@
 type: work
 category: music
 defines: ["La boheme", "La bohème"]
-related: ["[[operas]]", "[[italy]]"]
-requires: []
+related: ["[[operas]]", "[[italy]]", "[[france]]"]
+requires: ["[[opera]]"]
 lists: ["[[operas]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # La bohème
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

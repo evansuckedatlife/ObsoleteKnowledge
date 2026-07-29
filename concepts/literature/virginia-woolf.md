@@ -2,14 +2,21 @@
 type: person
 category: literature
 defines: [Virginia Woolf, Adeline Virginia Stephen]
-related: ["[[modernist-authors]]", "[[james-joyce]]", "[[t-s-eliot]]", "[[stream-of-consciousness]]", "[[feminism]]", "[[england]]"]
-requires: []
+related: ["[[modernist-authors]]", "[[james-joyce]]", "[[t-s-eliot]]", "[[stream-of-consciousness]]", "[[feminism]]", "[[england]]", "[[world-war-i]]"]
+requires: ["[[modernism]]"]
 lists: ["[[modernist-authors]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Virginia Woolf
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

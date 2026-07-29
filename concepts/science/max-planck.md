@@ -12,6 +12,7 @@ read: false
 # Max Planck
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

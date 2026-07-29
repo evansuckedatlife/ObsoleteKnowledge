@@ -4,7 +4,7 @@ category: literature
 defines:
   - The Glass Menagerie
   - Tom Wingfield
-related: ["[[tennessee-williams]]", "[[memory-play]]", "[[great-depression]]"]
+related: ["[[tennessee-williams]]", "[[memory-play]]", "[[great-depression]]", "[[united-states]]", "[[world-war-ii]]"]
 requires: []
 lists:
   - "[[american-plays]]"

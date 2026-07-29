@@ -15,6 +15,7 @@ read: false
 # Marquis de Lafayette
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

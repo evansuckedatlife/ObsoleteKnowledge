@@ -5,15 +5,22 @@ defines:
   - Antonine Plague
   - Plague of Galen
   - Antonine Plague of Smallpox
-related: ["[[roman-empire]]", "[[marcus-aurelius]]", "[[plague-of-justinian]]"]
-requires: []
+related: ["[[roman-empire]]", "[[marcus-aurelius]]", "[[plague-of-justinian]]", "[[italy]]"]
+requires: ["[[roman-empire]]"]
 lists:
   - "[[plagues-and-pandemics]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Antonine Plague
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

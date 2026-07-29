@@ -3,13 +3,20 @@ type: concept
 category: music
 defines: [Chord progression, Harmonic progression]
 related: ["[[tonality]]", "[[key-signature]]", "[[harmonic-function]]", "[[modulation]]", "[[circle-of-fifths]]", "[[blues]]", "[[jazz]]", "[[sonata-form]]", "[[roman-numeral-analysis]]", "[[major-minor-tonality]]"]
-requires: []
+requires: ["[[tonality]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Chord Progression
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -3,7 +3,7 @@ type: person
 category: literature
 defines:
   - Norman Mailer
-related: ["[[philip-roth]]", "[[saul-bellow]]", "[[american-excess]]", "[[new-journalism]]", "[[world-war-ii]]"]
+related: ["[[philip-roth]]", "[[saul-bellow]]", "[[american-excess]]", "[[new-journalism]]", "[[world-war-ii]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[jewish-american-authors]]"

@@ -3,7 +3,7 @@ type: person
 category: history
 defines:
   - Aldrich Ames
-related: ["[[cold-war]]", "[[cia]]", "[[soviet-intelligence]]"]
+related: ["[[cold-war]]", "[[cia]]", "[[soviet-intelligence]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[spies]]"

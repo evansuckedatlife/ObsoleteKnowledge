@@ -12,6 +12,7 @@ read: false
 # Notes from Underground
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

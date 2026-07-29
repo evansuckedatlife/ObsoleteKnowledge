@@ -3,7 +3,7 @@ type: work
 category: literature
 defines:
   - Sounder
-related: ["[[william-armstrong]]", "[[american-south]]", "[[children-literature]]"]
+related: ["[[william-armstrong]]", "[[american-south]]", "[[children-literature]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[20th-century-newbery-medal-winners]]"

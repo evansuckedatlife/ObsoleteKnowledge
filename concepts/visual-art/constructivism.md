@@ -3,7 +3,7 @@ type: concept
 category: visual-art
 defines:
   - Constructivism
-related: ["[[kazimir-malevich]]", "[[alexander-rodchenko]]", "[[el-lissitzky]]", "[[cubism]]"]
+related: ["[[kazimir-malevich]]", "[[alexander-rodchenko]]", "[[el-lissitzky]]", "[[cubism]]", "[[soviet-union]]", "[[russian-revolution]]", "[[world-war-i]]"]
 requires: []
 lists:
   - "[[early-20th-century-art-movements]]"

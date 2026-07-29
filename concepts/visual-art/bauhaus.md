@@ -3,15 +3,22 @@ type: concept
 category: visual-art
 defines:
   - Bauhaus
-related: ["[[walter-gropius]]", "[[paul-klee]]", "[[wassily-kandinsky]]", "[[constructivism]]"]
-requires: []
+related: ["[[walter-gropius]]", "[[paul-klee]]", "[[wassily-kandinsky]]", "[[constructivism]]", "[[germany]]", "[[world-war-i]]"]
+requires: ["[[walter-gropius]]", "[[constructivism]]"]
 lists:
   - "[[early-20th-century-art-movements]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Bauhaus
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -5,14 +5,21 @@ defines:
   - Yellow River
   - Huang He
 related: ["[[yangtze-river]]", "[[china]]", "[[loess-plateau]]", "[[confucius]]"]
-requires: []
+requires: ["[[china]]"]
 lists:
   - "[[asian-rivers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Yellow River
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

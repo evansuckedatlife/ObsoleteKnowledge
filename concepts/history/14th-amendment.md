@@ -13,6 +13,7 @@ read: false
 # Fourteenth Amendment
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

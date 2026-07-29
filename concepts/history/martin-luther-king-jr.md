@@ -16,6 +16,7 @@ read: false
 # Martin Luther King Jr.
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

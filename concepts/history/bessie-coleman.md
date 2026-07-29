@@ -3,7 +3,7 @@ type: person
 category: history
 defines:
   - Bessie Coleman
-related: ["[[amelia-earhart]]"]
+related: ["[[amelia-earhart]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[aviators]]"

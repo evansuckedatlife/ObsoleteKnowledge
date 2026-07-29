@@ -2,7 +2,7 @@
 type: person
 category: visual-art
 defines: ["I. M. Pei"]
-related: ["[[mies-van-der-rohe]]", "[[le-corbusier]]", "[[modernism]]"]
+related: ["[[mies-van-der-rohe]]", "[[le-corbusier]]", "[[modernism]]", "[[united-states]]", "[[china]]"]
 requires: []
 lists: ["[[architects]]"]
 tour_order: 0

@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [Water, "H₂O"]
-related: ["[[hydrogen]]", "[[oxygen]]", "[[photosynthesis]]", "[[polarity]]", "[[hydrogen-bond]]", "[[solvent]]"]
+related: ["[[hydrogen]]", "[[oxygen]]", "[[photosynthesis]]", "[[polarity]]", "[[hydrogen-bond]]", "[[solvent]]", "[[industrial-revolution]]", "[[pre-socratic-philosophy]]"]
 requires: []
 lists: []
 tour_order: 0

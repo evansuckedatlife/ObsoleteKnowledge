@@ -2,7 +2,7 @@
 type: person
 category: science
 defines: [Robert Goddard, Robert Hutchings Goddard]
-related: ["[[konstantin-tsiolkovsky]]", "[[hermann-oberth]]", "[[wernher-von-braun]]", "[[v-2-rocket]]"]
+related: ["[[konstantin-tsiolkovsky]]", "[[hermann-oberth]]", "[[wernher-von-braun]]", "[[v-2-rocket]]", "[[space-race]]", "[[united-states]]"]
 requires: []
 lists: ["[[rocket-scientists]]"]
 tour_order: 0

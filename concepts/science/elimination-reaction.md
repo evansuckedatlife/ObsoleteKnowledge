@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: ["Elimination reaction", "elimination reactions", "E1", "E2"]
-related: ["[[nucleophilic-substitution]]", "[[organic-halide]]", "[[potassium]]"]
+related: ["[[nucleophilic-substitution]]", "[[organic-halide]]", "[[potassium]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[organic-reactions]]"]
 tour_order: 0

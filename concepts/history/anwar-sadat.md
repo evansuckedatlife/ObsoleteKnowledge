@@ -2,14 +2,21 @@
 type: person
 category: history
 defines: ["Anwar Sadat", "Muhammad Anwar el-Sadat"]
-related: ["[[egypt]]", "[[gamal-abdel-nasser]]", "[[arab-israeli-conflict]]", "[[camp-david-accords]]", "[[suez-crisis]]"]
-requires: []
+related: ["[[egypt]]", "[[gamal-abdel-nasser]]", "[[arab-israeli-conflict]]", "[[camp-david-accords]]", "[[suez-crisis]]", "[[islam]]"]
+requires: ["[[arab-israeli-conflict]]"]
 lists: ["[[20th-century-middle-eastern-leaders]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Anwar Sadat
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

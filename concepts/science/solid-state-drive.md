@@ -2,14 +2,21 @@
 type: term
 category: science
 defines: [SSD, solid state drive, flash storage, NVMe]
-related: ["[[hard-disk-drive]]", "[[pci-express]]", "[[motherboard]]"]
-requires: []
+related: ["[[hard-disk-drive]]", "[[pci-express]]", "[[motherboard]]", "[[cold-war]]"]
+requires: ["[[central-processing-unit]]"]
 lists: ["[[computer-components]]"]
-tour_order: 0
+tour_order: 8
 read: false
 ---
 
 # Solid State Drive
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

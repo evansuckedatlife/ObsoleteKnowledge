@@ -2,14 +2,21 @@
 type: person
 category: visual-art
 defines: [Nicolas Poussin]
-related: ["[[peter-paul-rubens]]", "[[diego-velazquez]]", "[[baroque-painters]]", "[[france]]", "[[italy]]"]
-requires: []
+related: ["[[peter-paul-rubens]]", "[[diego-velazquez]]", "[[baroque-painters]]", "[[france]]", "[[italy]]", "[[rome]]", "[[renaissance]]"]
+requires: ["[[italian-renaissance]]"]
 lists: ["[[baroque-painters]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Nicolas Poussin
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

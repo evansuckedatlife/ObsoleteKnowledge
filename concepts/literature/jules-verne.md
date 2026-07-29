@@ -2,7 +2,7 @@
 type: person
 category: literature
 defines: ["Jules Verne"]
-related: ["[[twenty-thousand-leagues-under-the-sea]]", "[[journey-to-the-center-of-the-earth]]", "[[around-the-world-in-eighty-days]]", "[[science-fiction]]", "[[adventure-fiction]]"]
+related: ["[[twenty-thousand-leagues-under-the-sea]]", "[[journey-to-the-center-of-the-earth]]", "[[around-the-world-in-eighty-days]]", "[[science-fiction]]", "[[adventure-fiction]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[authors-of-speculative-fiction]]"]
 tour_order: 0

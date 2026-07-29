@@ -13,6 +13,7 @@ read: false
 # Benedict Arnold
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

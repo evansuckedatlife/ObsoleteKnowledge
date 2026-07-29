@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [Non-vascular plants, "non-vascular plants", "non-vascular", bryophytes]
-related: ["[[vascular-plants]]", "[[bryophytes]]", "[[xylem]]", "[[phloem]]", "[[rhizoid]]"]
+related: ["[[vascular-plants]]", "[[bryophytes]]", "[[xylem]]", "[[phloem]]", "[[rhizoid]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[plant-distinctions]]"]
 tour_order: 0

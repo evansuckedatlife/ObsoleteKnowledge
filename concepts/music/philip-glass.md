@@ -2,7 +2,7 @@
 type: person
 category: music
 defines: ["Philip Glass", "Glass"]
-related: ["[[american-composers]]", "[[operas]]", "[[modernism]]"]
+related: ["[[american-composers]]", "[[operas]]", "[[modernism]]", "[[united-states]]"]
 requires: []
 lists: ["[[american-composers]]"]
 tour_order: 0

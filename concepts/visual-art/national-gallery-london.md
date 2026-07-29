@@ -4,7 +4,7 @@ category: visual-art
 defines:
   - National Gallery
   - National Gallery, London
-related: ["[[italian-renaissance]]", "[[dutch-golden-age]]", "[[london]]", "[[vermeer]]", "[[england]]"]
+related: ["[[italian-renaissance]]", "[[dutch-golden-age]]", "[[london]]", "[[vermeer]]", "[[england]]", "[[british-empire]]"]
 requires: []
 lists:
   - "[[art-museums]]"

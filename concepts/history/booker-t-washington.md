@@ -4,15 +4,22 @@ category: history
 defines:
   - Booker T. Washington
   - Booker Taliaferro Washington
-related: ["[[w-e-b-du-bois]]", "[[tuskegee-university]]", "[[malcolm-x]]"]
-requires: []
+related: ["[[w-e-b-du-bois]]", "[[tuskegee-university]]", "[[malcolm-x]]", "[[united-states]]"]
+requires: ["[[civil-rights-movement]]"]
 lists:
   - "[[african-american-civil-rights-leaders]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Booker T. Washington
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

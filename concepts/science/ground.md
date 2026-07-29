@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [Ground, Earth, Reference]
-related: ["[[circuit-topology]]", "[[potential-difference]]", "[[signal-integrity]]", "[[return-path]]"]
+related: ["[[circuit-topology]]", "[[potential-difference]]", "[[signal-integrity]]", "[[return-path]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[circuit-components]]"]
 tour_order: 0

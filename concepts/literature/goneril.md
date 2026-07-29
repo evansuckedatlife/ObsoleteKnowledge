@@ -3,13 +3,20 @@ type: person
 category: literature
 defines: [Goneril]
 related: ["[[king-lear]]", "[[regan]]", "[[albany]]", "[[edmund]]", "[[cruelty-and-ingratitude]]"]
-requires: []
+requires: ["[[william-shakespeare]]"]
 lists: ["[[shakespearean-villains]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Goneril
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

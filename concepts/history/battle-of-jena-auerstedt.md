@@ -5,15 +5,22 @@ defines:
   - Battle of Jena-Auerstedt
   - Battle of Jena
   - Battle of Auerstedt
-related: ["[[napoleon-bonaparte]]", "[[prussia]]", "[[frederick-william-iii]]", "[[france]]"]
-requires: []
+related: ["[[napoleon-bonaparte]]", "[[prussia]]", "[[frederick-william-iii]]", "[[france]]", "[[germany]]"]
+requires: ["[[napoleon-bonaparte]]"]
 lists:
   - "[[napoleonic-battles]]"
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Battle of Jena-Auerstedt
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

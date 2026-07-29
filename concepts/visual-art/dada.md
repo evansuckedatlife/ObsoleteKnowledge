@@ -4,7 +4,7 @@ category: visual-art
 defines:
   - Dada
   - Dadaism
-related: ["[[hugo-ball]]", "[[marcel-duchamp]]", "[[hannah-hoch]]", "[[expressionism]]"]
+related: ["[[hugo-ball]]", "[[marcel-duchamp]]", "[[hannah-hoch]]", "[[expressionism]]", "[[world-war-i]]", "[[nihilism]]"]
 requires: []
 lists:
   - "[[early-20th-century-art-movements]]"

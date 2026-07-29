@@ -12,6 +12,7 @@ read: false
 # Battle of the Bulge
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

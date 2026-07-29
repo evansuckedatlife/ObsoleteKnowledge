@@ -2,7 +2,7 @@
 type: element
 category: science
 defines: ["Sodium", "Na"]
-related: ["[[potassium]]", "[[chlorine]]", "[[mercury]]"]
+related: ["[[potassium]]", "[[chlorine]]", "[[mercury]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[chemical-elements]]"]
 tour_order: 0

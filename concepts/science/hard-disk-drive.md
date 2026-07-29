@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [HDD, hard disk drive, hard drive]
-related: ["[[solid-state-drive]]", "[[motherboard]]", "[[mechanical-storage]]"]
+related: ["[[solid-state-drive]]", "[[motherboard]]", "[[mechanical-storage]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[computer-components]]"]
 tour_order: 0

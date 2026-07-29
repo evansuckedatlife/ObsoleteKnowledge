@@ -12,6 +12,7 @@ read: false
 # Richard Feynman
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

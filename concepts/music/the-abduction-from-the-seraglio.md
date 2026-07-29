@@ -3,13 +3,20 @@ type: work
 category: music
 defines: ["The Abduction from the Seraglio", "Die Entfuhrung aus dem Serail", "Die Entführung aus dem Serail"]
 related: ["[[operas]]", "[[works-by-mozart]]", "[[ottoman-empire]]", "[[enlightenment]]"]
-requires: []
+requires: ["[[opera]]"]
 lists: ["[[works-by-mozart]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The Abduction from the Seraglio
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

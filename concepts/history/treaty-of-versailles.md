@@ -12,6 +12,7 @@ read: false
 # Treaty of Versailles
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -13,6 +13,7 @@ read: false
 # Charles Cornwallis
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

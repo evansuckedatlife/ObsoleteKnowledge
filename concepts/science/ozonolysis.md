@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: ["Ozonolysis", "ozonolyses"]
-related: ["[[oxygen]]", "[[zinc]]", "[[aldehyde]]"]
+related: ["[[oxygen]]", "[[zinc]]", "[[aldehyde]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[organic-reactions]]"]
 tour_order: 0

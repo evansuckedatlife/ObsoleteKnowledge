@@ -15,6 +15,7 @@ read: false
 # Plessy v. Ferguson
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

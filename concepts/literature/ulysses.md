@@ -15,6 +15,7 @@ read: false
 # Ulysses
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

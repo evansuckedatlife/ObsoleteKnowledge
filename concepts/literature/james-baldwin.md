@@ -3,10 +3,7 @@ type: person
 category: literature
 defines:
   - James Baldwin
-related:
-  - "[[harlem-renaissance]]"
-  - "[[african-american-literature]]"
-  - "[[new-york-city]]"
+related: ["[[harlem-renaissance]]", "[[african-american-literature]]", "[[new-york-city]]", "[[civil-rights-movement]]"]
 requires: []
 lists:
   - "[[african-american-authors]]"

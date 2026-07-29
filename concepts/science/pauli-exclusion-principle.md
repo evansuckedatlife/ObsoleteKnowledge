@@ -12,6 +12,7 @@ read: false
 # Pauli exclusion principle
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

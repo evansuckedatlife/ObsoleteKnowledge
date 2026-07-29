@@ -12,6 +12,7 @@ read: false
 # Pablo Neruda
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

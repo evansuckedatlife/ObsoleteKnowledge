@@ -15,6 +15,7 @@ read: false
 # The Death of Ivan Ilyich
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -5,11 +5,12 @@ defines: [Battle of Chickamauga, Chickamauga]
 related: ["[[american-civil-war]]", "[[braxton-bragg]]", "[[william-rosecrans]]", "[[george-thomas]]", "[[chattanooga]]"]
 requires: ["[[american-civil-war]]"]
 lists: ["[[civil-war-battles]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Battle of Chickamauga
+
 
 
 <!-- foundations -->

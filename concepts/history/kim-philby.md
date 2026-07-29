@@ -16,6 +16,7 @@ read: false
 # Kim Philby
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

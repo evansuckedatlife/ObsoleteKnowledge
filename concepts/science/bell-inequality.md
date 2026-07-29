@@ -12,6 +12,7 @@ read: false
 # Bell Inequality
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

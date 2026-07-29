@@ -3,14 +3,21 @@ type: term
 category: music
 defines: [Cadence]
 related: ["[[chord-progression]]", "[[harmony]]", "[[tonality]]"]
-requires: []
+requires: ["[[tonality]]"]
 lists:
   - "[[music-theory-terms]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Cadence
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

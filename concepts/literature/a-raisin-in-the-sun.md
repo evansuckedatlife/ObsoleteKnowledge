@@ -15,6 +15,7 @@ read: false
 # A Raisin in the Sun
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

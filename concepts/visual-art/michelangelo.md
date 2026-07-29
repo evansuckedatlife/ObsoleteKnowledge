@@ -15,6 +15,7 @@ read: false
 # Michelangelo
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

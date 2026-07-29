@@ -3,7 +3,7 @@ type: work
 category: literature
 defines:
   - The Alchemist
-related: ["[[ben-jonson]]", "[[satire]]", "[[con-artist]]", "[[middle-east]]"]
+related: ["[[ben-jonson]]", "[[satire]]", "[[con-artist]]", "[[middle-east]]", "[[england]]", "[[london]]"]
 requires: []
 lists:
   - "[[non-shakespeare-classical-english-dramas]]"

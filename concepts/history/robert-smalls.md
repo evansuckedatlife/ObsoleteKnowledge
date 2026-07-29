@@ -5,11 +5,12 @@ defines: [Robert Smalls]
 related: ["[[reconstruction-era]]", "[[south-carolina]]", "[[united-states-congress]]", "[[civil-war]]"]
 requires: ["[[american-civil-war]]"]
 lists: ["[[black-american-legislators]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Robert Smalls
+
 
 
 <!-- foundations -->

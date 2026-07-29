@@ -4,7 +4,7 @@ category: literature
 defines:
   - Our Town
   - Groves Corners
-related: ["[[thornton-wilder]]", "[[american-pastoral]]"]
+related: ["[[thornton-wilder]]", "[[american-pastoral]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[american-plays]]"

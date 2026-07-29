@@ -2,14 +2,21 @@
 type: term
 category: science
 defines: [motherboard, mainboard]
-related: ["[[central-processing-unit]]", "[[ram]]", "[[pci-express]]", "[[bios]]"]
-requires: []
+related: ["[[central-processing-unit]]", "[[ram]]", "[[pci-express]]", "[[bios]]", "[[cold-war]]"]
+requires: ["[[central-processing-unit]]"]
 lists: ["[[computer-components]]"]
-tour_order: 0
+tour_order: 8
 read: false
 ---
 
 # Motherboard
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

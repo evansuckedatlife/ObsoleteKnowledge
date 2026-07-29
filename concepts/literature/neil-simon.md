@@ -3,7 +3,7 @@ type: person
 category: literature
 defines:
   - Neil Simon
-related: ["[[american-comedy]]", "[[broadway-theatre]]", "[[domestic-life]]", "[[arthur-miller]]", "[[new-york-city]]"]
+related: ["[[american-comedy]]", "[[broadway-theatre]]", "[[domestic-life]]", "[[arthur-miller]]", "[[new-york-city]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[jewish-american-authors]]"

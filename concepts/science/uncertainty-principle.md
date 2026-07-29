@@ -12,6 +12,7 @@ read: false
 # Uncertainty principle
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -2,7 +2,7 @@
 type: place
 category: history
 defines: [Achaemenid Empire, Achaemenid Persian Empire, Persian Empire]
-related: ["[[cyrus-the-great]]", "[[darius-i]]", "[[xerxes-i]]", "[[zoroastrianism]]"]
+related: ["[[cyrus-the-great]]", "[[darius-i]]", "[[xerxes-i]]", "[[zoroastrianism]]", "[[iran]]", "[[middle-east]]"]
 requires: []
 lists: ["[[ancient-empires]]"]
 tour_order: 0

@@ -5,10 +5,7 @@ defines:
   - Mount Etna
   - Etna
   - Mongibello
-related:
-  - "[[vesuvius]]"
-  - "[[zeus]]"
-  - "[[typhon]]"
+related: ["[[vesuvius]]", "[[zeus]]", "[[typhon]]", "[[roman-empire]]", "[[italy]]"]
 requires: []
 lists:
   - "[[active-volcanoes]]"

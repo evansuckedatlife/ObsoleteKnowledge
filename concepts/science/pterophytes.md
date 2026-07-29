@@ -2,14 +2,21 @@
 type: term
 category: science
 defines: [Pterophytes, "pterophytes", ferns, "fern allies"]
-related: ["[[bryophytes]]", "[[gymnosperms]]", "[[xylem]]", "[[vascular-plants]]"]
-requires: []
+related: ["[[bryophytes]]", "[[gymnosperms]]", "[[xylem]]", "[[vascular-plants]]", "[[industrial-revolution]]"]
+requires: ["[[vascular-plants]]"]
 lists: ["[[plant-distinctions]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Pterophytes
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

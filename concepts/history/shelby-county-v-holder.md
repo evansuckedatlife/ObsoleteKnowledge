@@ -15,6 +15,7 @@ read: false
 # Shelby County v. Holder
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

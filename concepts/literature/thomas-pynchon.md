@@ -4,7 +4,7 @@ category: literature
 defines:
   - Thomas Pynchon
   - Thomas Ruggles Pynchon Jr.
-related: ["[[don-delillo]]", "[[gravity-s-rainbow]]"]
+related: ["[[don-delillo]]", "[[gravity-s-rainbow]]", "[[united-states]]", "[[cold-war]]"]
 requires: []
 lists:
   - "[[postmodern-authors]]"

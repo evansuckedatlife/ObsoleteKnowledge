@@ -4,15 +4,22 @@ category: history
 defines:
   - Battle of Austerlitz
   - Battle of the Three Emperors
-related: ["[[napoleon-bonaparte]]", "[[austria-hungary]]", "[[russian-empire]]", "[[france]]"]
-requires: []
+related: ["[[napoleon-bonaparte]]", "[[austria-hungary]]", "[[russian-empire]]", "[[france]]", "[[germany]]"]
+requires: ["[[napoleon-bonaparte]]"]
 lists:
   - "[[napoleonic-battles]]"
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Battle of Austerlitz
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

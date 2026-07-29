@@ -3,14 +3,21 @@ type: term
 category: music
 defines: [Counterpoint]
 related: ["[[fugue]]", "[[polyphony]]", "[[bach]]", "[[sonata-form]]"]
-requires: []
+requires: ["[[polyphony]]"]
 lists:
   - "[[music-theory-terms]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Counterpoint
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -2,15 +2,22 @@
 type: event
 category: history
 defines: [Battle of Zama]
-related: ["[[scipio-africanus]]", "[[hannibal]]", "[[second-punic-war]]", "[[rome]]"]
-requires: []
+related: ["[[scipio-africanus]]", "[[hannibal]]", "[[second-punic-war]]", "[[rome]]", "[[italy]]"]
+requires: ["[[roman-empire]]"]
 lists: ["[[battles-of-the-ancient-world]]"]
-tour_order: 0
+tour_order: 1
 read: false
 aliases: [zama]
 ---
 
 # Battle of Zama
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

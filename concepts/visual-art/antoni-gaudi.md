@@ -2,7 +2,7 @@
 type: person
 category: visual-art
 defines: ["Antoni Gaudí"]
-related: ["[[frank-lloyd-wright]]", "[[modernisme]]"]
+related: ["[[frank-lloyd-wright]]", "[[modernisme]]", "[[spain]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[architects]]"]
 tour_order: 0

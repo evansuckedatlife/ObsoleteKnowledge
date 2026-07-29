@@ -3,7 +3,7 @@ type: place
 category: visual-art
 defines:
   - Shanghai Tower
-related: ["[[gensler]]", "[[shanghai]]", "[[modern-architecture]]"]
+related: ["[[gensler]]", "[[shanghai]]", "[[modern-architecture]]", "[[china]]", "[[industrial-revolution]]"]
 requires: []
 lists:
   - "[[skyscrapers]]"

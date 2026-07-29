@@ -3,15 +3,22 @@ type: concept
 category: visual-art
 defines:
   - Surrealism
-related: ["[[salvador-dali]]", "[[andre-breton]]", "[[max-ernst]]", "[[dada]]"]
-requires: []
+related: ["[[salvador-dali]]", "[[andre-breton]]", "[[max-ernst]]", "[[dada]]", "[[france]]", "[[existentialism]]"]
+requires: ["[[dada]]"]
 lists:
   - "[[early-20th-century-art-movements]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Surrealism
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

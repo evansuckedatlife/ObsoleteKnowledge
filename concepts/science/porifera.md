@@ -2,7 +2,7 @@
 type: species
 category: science
 defines: ["Porifera", "sponges"]
-related: ["[[cnidaria]]", "[[ctenophora]]"]
+related: ["[[cnidaria]]", "[[ctenophora]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[phyla]]"]
 tour_order: 0

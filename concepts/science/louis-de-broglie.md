@@ -12,6 +12,7 @@ read: false
 # Louis de Broglie
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

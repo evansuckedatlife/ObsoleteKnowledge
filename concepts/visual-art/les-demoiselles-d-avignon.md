@@ -15,6 +15,7 @@ read: false
 # Les Demoiselles d'Avignon
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

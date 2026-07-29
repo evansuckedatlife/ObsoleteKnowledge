@@ -6,14 +6,21 @@ defines:
   - Taklamakan
   - Taklimakan
 related: ["[[central-asia]]", "[[silk-road]]", "[[xinjiang]]", "[[china]]", "[[buddhism]]"]
-requires: []
+requires: ["[[china]]"]
 lists:
   - "[[deserts]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Taklamakan Desert
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

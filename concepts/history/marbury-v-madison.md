@@ -12,6 +12,7 @@ read: false
 # Marbury v. Madison
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

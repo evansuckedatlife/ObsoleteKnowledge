@@ -12,6 +12,7 @@ read: false
 # Nanjing Massacre
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

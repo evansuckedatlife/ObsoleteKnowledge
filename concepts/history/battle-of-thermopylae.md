@@ -2,15 +2,22 @@
 type: event
 category: history
 defines: [Battle of Thermopylae]
-related: ["[[leonidas]]", "[[xerxes]]", "[[persian-wars]]"]
-requires: []
+related: ["[[leonidas]]", "[[xerxes]]", "[[persian-wars]]", "[[ancient-greece]]"]
+requires: ["[[achaemenid-empire]]"]
 lists: ["[[battles-of-the-ancient-world]]"]
-tour_order: 0
+tour_order: 1
 read: false
 aliases: [thermopylae]
 ---
 
 # Battle of Thermopylae
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [Op-amp, "operational amplifier"]
-related: ["[[amplifier]]", "[[feedback-control]]", "[[filter-circuit]]", "[[analog-computation]]"]
+related: ["[[amplifier]]", "[[feedback-control]]", "[[filter-circuit]]", "[[analog-computation]]", "[[cold-war]]"]
 requires: []
 lists: ["[[circuit-components]]"]
 tour_order: 0

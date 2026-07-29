@@ -14,6 +14,7 @@ read: false
 # Italo Calvino
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

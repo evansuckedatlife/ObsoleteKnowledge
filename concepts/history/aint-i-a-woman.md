@@ -2,14 +2,21 @@
 type: event
 category: history
 defines: ["Ain't I a Woman?", Sojourner Truth's abolitionist testimony]
-related: ["[[sojourner-truth]]", "[[women-s-suffrage]]", "[[abolitionism]]"]
-requires: []
+related: ["[[sojourner-truth]]", "[[women-s-suffrage]]", "[[abolitionism]]", "[[united-states]]"]
+requires: ["[[abolitionism]]"]
 lists: ["[[modern-speeches]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Ain't I a Woman?
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

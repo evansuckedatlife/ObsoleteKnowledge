@@ -12,6 +12,7 @@ read: false
 # Civil Rights Act of 1964
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

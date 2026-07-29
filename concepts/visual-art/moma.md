@@ -4,7 +4,7 @@ category: visual-art
 defines:
   - Museum of Modern Art
   - MoMA
-related: ["[[modern-art]]", "[[abstract-expressionism]]", "[[photographic-canon]]", "[[modernism]]"]
+related: ["[[modern-art]]", "[[abstract-expressionism]]", "[[photographic-canon]]", "[[modernism]]", "[[united-states]]", "[[new-york-city]]"]
 requires: []
 lists:
   - "[[art-museums]]"

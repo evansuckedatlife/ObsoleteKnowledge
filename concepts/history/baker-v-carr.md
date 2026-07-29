@@ -14,6 +14,7 @@ read: false
 # Baker v. Carr
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

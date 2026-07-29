@@ -2,14 +2,21 @@
 type: event
 category: history
 defines: [Assassination of Tsar Alexander II, Alexander II assassination, Tsar Alexander II of Russia assassination]
-related: ["[[alexander-ii-of-russia]]", "[[russian-empire]]", "[[narodnaya-volya]]", "[[russian-nihilism]]"]
-requires: []
+related: ["[[alexander-ii-of-russia]]", "[[russian-empire]]", "[[narodnaya-volya]]", "[[russian-nihilism]]", "[[st-petersburg]]"]
+requires: ["[[alexander-ii]]"]
 lists: ["[[assassinations]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Assassination of Tsar Alexander II
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

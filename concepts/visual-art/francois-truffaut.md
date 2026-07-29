@@ -2,7 +2,7 @@
 type: person
 category: visual-art
 defines: ["François Truffaut"]
-related: ["[[jean-luc-godard]]", "[[nouvelle-vague]]"]
+related: ["[[jean-luc-godard]]", "[[nouvelle-vague]]", "[[france]]", "[[world-war-ii]]"]
 requires: []
 lists:
   - "[[french-directors]]"

@@ -2,14 +2,21 @@
 type: term
 category: science
 defines: [Type system, typing, static typing, dynamic typing]
-related: ["[[programming-language]]", "[[compiler]]", "[[object-oriented-programming]]"]
-requires: []
+related: ["[[programming-language]]", "[[compiler]]", "[[object-oriented-programming]]", "[[cold-war]]", "[[logic]]"]
+requires: ["[[programming-language]]"]
 lists: ["[[programming-terms]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Type system
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

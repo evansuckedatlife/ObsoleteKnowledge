@@ -2,7 +2,7 @@
 type: concept
 category: literature
 defines: [Absurdism, Theatre of the Absurd, Absurdist Drama]
-related: ["[[samuel-beckett]]", "[[ionesco]]", "[[harold-pinter]]", "[[albert-camus]]", "[[existentialism]]", "[[waiting-for-godot]]", "[[the-bald-soprano]]"]
+related: ["[[samuel-beckett]]", "[[ionesco]]", "[[harold-pinter]]", "[[albert-camus]]", "[[existentialism]]", "[[waiting-for-godot]]", "[[the-bald-soprano]]", "[[nihilism]]"]
 requires: []
 lists: []
 tour_order: 0

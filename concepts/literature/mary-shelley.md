@@ -12,6 +12,7 @@ read: false
 # Mary Shelley
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

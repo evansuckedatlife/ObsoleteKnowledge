@@ -12,6 +12,7 @@ read: false
 # A Tale of Two Cities
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

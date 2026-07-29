@@ -3,13 +3,20 @@ type: work
 category: music
 defines: ["Mozart piano concertos", "Piano concertos of Mozart"]
 related: ["[[works-by-mozart]]"]
-requires: []
+requires: ["[[sonata-form]]"]
 lists: ["[[works-by-mozart]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Mozart piano concertos
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

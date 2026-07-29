@@ -2,7 +2,7 @@
 type: event
 category: science
 defines: [Hubble Space Telescope Servicing Missions]
-related: ["[[nasa]]", "[[hubble-space-telescope]]", "[[space-shuttle-program]]", "[[astronaut-repair]]"]
+related: ["[[nasa]]", "[[hubble-space-telescope]]", "[[space-shuttle-program]]", "[[astronaut-repair]]", "[[space-race]]", "[[united-states]]"]
 requires: []
 lists: ["[[space-missions]]"]
 tour_order: 0

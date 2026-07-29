@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: ["Power Supply", "PSU", "power-supply unit"]
-related: ["[[electricity]]", "[[voltage]]", "[[current-electricity]]", "[[transformer]]", "[[rectifier]]", "[[motherboard]]", "[[cooling]]"]
+related: ["[[electricity]]", "[[voltage]]", "[[current-electricity]]", "[[transformer]]", "[[rectifier]]", "[[motherboard]]", "[[cooling]]", "[[industrial-revolution]]"]
 requires: []
 lists: []
 tour_order: 0

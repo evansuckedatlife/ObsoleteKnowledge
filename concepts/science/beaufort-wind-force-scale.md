@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: ["Beaufort wind force scale", "Beaufort scale"]
-related: ["[[wind]]", "[[wind-speed]]", "[[storm]]", "[[hurricane]]"]
+related: ["[[wind]]", "[[wind-speed]]", "[[storm]]", "[[hurricane]]", "[[age-of-exploration]]"]
 requires: []
 lists: ["[[scientific-scales]]"]
 tour_order: 0

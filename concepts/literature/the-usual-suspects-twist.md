@@ -4,7 +4,7 @@ category: literature
 defines:
   - "The Usual Suspects"
   - Keyser Söze
-related: ["[[christopher-mcquarrie]]", "[[bryan-singer]]", "[[crime-cinema]]"]
+related: ["[[christopher-mcquarrie]]", "[[bryan-singer]]", "[[crime-cinema]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[plot-twists]]"

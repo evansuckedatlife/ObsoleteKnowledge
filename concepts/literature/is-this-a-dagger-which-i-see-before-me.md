@@ -5,11 +5,12 @@ defines: ["Is this a dagger which I see before me", "Macbeth's dagger soliloquy"
 related: ["[[macbeth]]", "[[hallucination]]", "[[regicide]]"]
 requires: ["[[macbeth]]", "[[william-shakespeare]]"]
 lists: ["[[shakespearean-speeches]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Is this a dagger which I see before me
+
 
 
 <!-- foundations -->

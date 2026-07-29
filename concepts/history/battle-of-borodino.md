@@ -3,15 +3,22 @@ type: event
 category: history
 defines:
   - Battle of Borodino
-related: ["[[napoleon-bonaparte]]", "[[russian-empire]]", "[[kutuzov-mikhail]]", "[[moscow-campaign]]", "[[france]]"]
-requires: []
+related: ["[[napoleon-bonaparte]]", "[[russian-empire]]", "[[kutuzov-mikhail]]", "[[moscow-campaign]]", "[[france]]", "[[st-petersburg]]"]
+requires: ["[[napoleon-bonaparte]]"]
 lists:
   - "[[napoleonic-battles]]"
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Battle of Borodino
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

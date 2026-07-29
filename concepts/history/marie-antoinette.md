@@ -14,6 +14,7 @@ read: false
 # Marie Antoinette
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

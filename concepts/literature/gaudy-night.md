@@ -2,7 +2,7 @@
 type: work
 category: literature
 defines: ["Gaudy Night"]
-related: ["[[dorothy-l-sayers]]", "[[lord-peter-wimsey]]", "[[detective-fiction]]", "[[england]]"]
+related: ["[[dorothy-l-sayers]]", "[[lord-peter-wimsey]]", "[[detective-fiction]]", "[[england]]", "[[world-war-ii]]"]
 requires: []
 lists:
   - "[[works-of-mystery-and-detective-fiction]]"

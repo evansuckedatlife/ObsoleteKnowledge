@@ -2,7 +2,7 @@
 type: person
 category: literature
 defines: ["Aldous Huxley"]
-related: ["[[brave-new-world]]", "[[brave-new-world-revisited]]", "[[dystopia]]", "[[drug-literature]]", "[[social-critique]]", "[[england]]"]
+related: ["[[brave-new-world]]", "[[brave-new-world-revisited]]", "[[dystopia]]", "[[drug-literature]]", "[[social-critique]]", "[[england]]", "[[world-war-ii]]"]
 requires: []
 lists: ["[[authors-of-speculative-fiction]]"]
 tour_order: 0

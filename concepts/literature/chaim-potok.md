@@ -4,7 +4,7 @@ category: literature
 defines:
   - Chaim Potok
   - Chaim Tzvi Potok
-related: ["[[orthodox-judaism]]", "[[isaac-bashevis-singer]]", "[[generational-conflict]]"]
+related: ["[[orthodox-judaism]]", "[[isaac-bashevis-singer]]", "[[generational-conflict]]", "[[world-war-ii]]"]
 requires: []
 lists:
   - "[[jewish-american-authors]]"

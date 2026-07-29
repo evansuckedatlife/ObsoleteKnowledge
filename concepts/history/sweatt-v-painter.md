@@ -15,6 +15,7 @@ read: false
 # Sweatt v. Painter
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

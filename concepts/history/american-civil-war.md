@@ -3,21 +3,21 @@ type: event
 category: history
 defines:
   - American Civil War
-related:
-  - "[[abraham-lincoln]]"
-  - "[[ulysses-s-grant]]"
-  - "[[robert-e-lee]]"
-  - "[[gettysburg-address]]"
-  - "[[emancipation-proclamation]]"
-  - "[[confederate-states-of-america]]"
-  - "[[reconstruction-era]]"
-requires: []
+related: ["[[abraham-lincoln]]", "[[ulysses-s-grant]]", "[[robert-e-lee]]", "[[gettysburg-address]]", "[[emancipation-proclamation]]", "[[confederate-states-of-america]]", "[[reconstruction-era]]", "[[united-states]]"]
+requires: ["[[american-revolution]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: true
 ---
 
 # American Civil War
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

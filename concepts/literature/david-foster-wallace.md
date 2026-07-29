@@ -4,7 +4,7 @@ category: literature
 defines:
   - David Foster Wallace
   - David Wallace
-related: ["[[infinite-jest]]", "[[thomas-pynchon]]"]
+related: ["[[infinite-jest]]", "[[thomas-pynchon]]", "[[cold-war]]"]
 requires: []
 lists:
   - "[[postmodern-authors]]"

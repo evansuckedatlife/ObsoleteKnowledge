@@ -2,15 +2,22 @@
 type: work
 category: literature
 defines: ["The Big Sleep"]
-related: ["[[raymond-chandler]]", "[[philip-marlowe]]", "[[detective-fiction]]", "[[noir]]", "[[great-depression]]"]
-requires: []
+related: ["[[raymond-chandler]]", "[[philip-marlowe]]", "[[detective-fiction]]", "[[noir]]", "[[great-depression]]", "[[united-states]]"]
+requires: ["[[detective-fiction]]"]
 lists:
   - "[[works-of-mystery-and-detective-fiction]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The Big Sleep
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -4,7 +4,7 @@ category: literature
 defines:
   - "Zeami"
   - "Zeami Motokiyo"
-related: ["[[noh-theatre]]", "[[muromachi-period]]", "[[shogun]]"]
+related: ["[[noh-theatre]]", "[[muromachi-period]]", "[[shogun]]", "[[japan]]"]
 requires: []
 lists:
   - "[[japanese-authors]]"

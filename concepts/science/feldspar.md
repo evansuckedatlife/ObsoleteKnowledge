@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [Feldspar]
-related: ["[[quartz]]", "[[granite]]", "[[mica]]", "[[silicate]]", "[[mohs-scale]]"]
+related: ["[[quartz]]", "[[granite]]", "[[mica]]", "[[silicate]]", "[[mohs-scale]]", "[[italy]]"]
 requires: []
 lists: ["[[rocks-and-minerals]]"]
 tour_order: 0

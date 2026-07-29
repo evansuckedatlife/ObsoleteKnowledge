@@ -2,14 +2,21 @@
 type: concept
 category: history
 defines: [Abolitionism, Abolition Movement]
-related: ["[[slavery-in-the-united-states]]", "[[african-american-history]]", "[[william-lloyd-garrison]]", "[[frederick-douglass]]", "[[john-brown]]", "[[american-civil-war]]", "[[13th-amendment]]", "[[emancipation-proclamation]]"]
-requires: []
+related: ["[[slavery-in-the-united-states]]", "[[african-american-history]]", "[[william-lloyd-garrison]]", "[[frederick-douglass]]", "[[john-brown]]", "[[american-civil-war]]", "[[13th-amendment]]", "[[emancipation-proclamation]]", "[[united-states]]"]
+requires: ["[[american-revolution]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Abolitionism
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

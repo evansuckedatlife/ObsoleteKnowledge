@@ -3,7 +3,7 @@ type: place
 category: visual-art
 defines:
   - Taipei 101
-related: ["[[c-y-lee]]", "[[taiwan]]", "[[modern-architecture]]"]
+related: ["[[c-y-lee]]", "[[taiwan]]", "[[modern-architecture]]", "[[china]]"]
 requires: []
 lists:
   - "[[skyscrapers]]"

@@ -12,6 +12,7 @@ read: false
 # Friends, Romans, countrymen
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

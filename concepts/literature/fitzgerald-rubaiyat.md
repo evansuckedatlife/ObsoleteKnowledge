@@ -5,7 +5,7 @@ defines:
   - "FitzGerald's Rubáiyát of Omar Khayyám"
   - Rubáiyát of Omar Khayyám
   - Edward FitzGerald's version
-related: ["[[omar-khayyam]]", "[[persian-poetry]]", "[[edward-fitzgerald]]", "[[victorian-literature]]", "[[rubai]]"]
+related: ["[[omar-khayyam]]", "[[persian-poetry]]", "[[edward-fitzgerald]]", "[[victorian-literature]]", "[[rubai]]", "[[iran]]", "[[islam]]"]
 requires: []
 lists:
   - "[[translations]]"

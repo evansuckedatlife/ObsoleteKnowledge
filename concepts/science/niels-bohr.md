@@ -12,6 +12,7 @@ read: false
 # Niels Bohr
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

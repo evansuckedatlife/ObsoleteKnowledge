@@ -5,15 +5,22 @@ defines:
   - Murphy
   - Murphy (novel)
   - Murphy (Beckett)
-related: ["[[samuel-beckett]]", "[[existentialism]]", "[[stream-of-consciousness]]", "[[dublin]]"]
-requires: []
+related: ["[[samuel-beckett]]", "[[existentialism]]", "[[stream-of-consciousness]]", "[[dublin]]", "[[england]]", "[[world-war-ii]]"]
+requires: ["[[modernism]]"]
 lists:
   - "[[works-by-irish-authors]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Murphy
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

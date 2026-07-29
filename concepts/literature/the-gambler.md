@@ -12,6 +12,7 @@ read: false
 # The Gambler
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

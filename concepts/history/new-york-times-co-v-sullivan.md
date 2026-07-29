@@ -14,6 +14,7 @@ read: false
 # New York Times Co. v. Sullivan
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

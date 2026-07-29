@@ -2,7 +2,7 @@
 type: person
 category: music
 defines: ["Samuel Barber", "Barber"]
-related: ["[[american-composers]]"]
+related: ["[[american-composers]]", "[[united-states]]"]
 requires: []
 lists: ["[[american-composers]]"]
 tour_order: 0

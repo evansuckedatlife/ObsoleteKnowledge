@@ -13,6 +13,7 @@ read: false
 # Wackford Squeers
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -15,6 +15,7 @@ read: false
 # Youngstown Sheet & Tube Co. v. Sawyer
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

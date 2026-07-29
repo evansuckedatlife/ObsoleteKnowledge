@@ -2,14 +2,21 @@
 type: work
 category: literature
 defines: ["Once more unto the breach", "Henry V battle exhortation"]
-related: ["[[henry-v]]", "[[battle-of-agincourt]]", "[[martial-heroism]]", "[[england]]"]
-requires: []
+related: ["[[henry-v]]", "[[battle-of-agincourt]]", "[[martial-heroism]]", "[[england]]", "[[france]]"]
+requires: ["[[william-shakespeare]]"]
 lists: ["[[shakespearean-speeches]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Once more unto the breach
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

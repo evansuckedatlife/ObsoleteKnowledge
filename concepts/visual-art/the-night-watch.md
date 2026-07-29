@@ -13,6 +13,7 @@ read: false
 # The Night Watch
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

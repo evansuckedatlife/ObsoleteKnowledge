@@ -12,6 +12,7 @@ read: false
 # Double-Slit Experiment
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

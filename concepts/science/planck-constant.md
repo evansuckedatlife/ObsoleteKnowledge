@@ -12,6 +12,7 @@ read: false
 # Planck Constant
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

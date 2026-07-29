@@ -4,10 +4,7 @@ category: science
 defines:
   - Mount Vesuvius
   - Vesuvius
-related:
-  - "[[krakatoa]]"
-  - "[[mount-pelee]]"
-  - "[[mount-saint-helens]]"
+related: ["[[krakatoa]]", "[[mount-pelee]]", "[[mount-saint-helens]]", "[[roman-empire]]", "[[italy]]"]
 requires: []
 lists:
   - "[[active-volcanoes]]"

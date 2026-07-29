@@ -2,7 +2,7 @@
 type: person
 category: literature
 defines: ["Arthur Conan Doyle", "Sir Arthur Conan Doyle"]
-related: ["[[sherlock-holmes]]", "[[dr-watson]]", "[[the-adventures-of-sherlock-holmes]]", "[[the-hound-of-the-baskervilles]]", "[[detective-fiction]]", "[[the-final-problem]]", "[[england]]"]
+related: ["[[sherlock-holmes]]", "[[dr-watson]]", "[[the-adventures-of-sherlock-holmes]]", "[[the-hound-of-the-baskervilles]]", "[[detective-fiction]]", "[[the-final-problem]]", "[[england]]", "[[industrial-revolution]]"]
 requires: []
 lists: []
 tour_order: 0

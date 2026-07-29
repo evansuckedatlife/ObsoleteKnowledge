@@ -2,7 +2,7 @@
 type: place
 category: science
 defines: [Hale-Bopp, Comet Hale-Bopp]
-related: ["[[comet]]", "[[oort-cloud]]", "[[naked-eye]]"]
+related: ["[[comet]]", "[[oort-cloud]]", "[[naked-eye]]", "[[space-race]]"]
 requires: []
 lists: ["[[dwarf-planets-comets-and-asteroids]]"]
 tour_order: 0

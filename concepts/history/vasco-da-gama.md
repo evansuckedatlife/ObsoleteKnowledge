@@ -12,6 +12,7 @@ read: false
 # Vasco da Gama
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

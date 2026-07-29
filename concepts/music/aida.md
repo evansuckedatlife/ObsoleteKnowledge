@@ -12,6 +12,7 @@ read: false
 # Aida
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

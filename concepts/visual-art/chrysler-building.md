@@ -3,7 +3,7 @@ type: place
 category: visual-art
 defines:
   - Chrysler Building
-related: ["[[art-deco]]", "[[william-van-alen]]", "[[new-york-city]]"]
+related: ["[[art-deco]]", "[[william-van-alen]]", "[[new-york-city]]", "[[united-states]]", "[[industrial-revolution]]"]
 requires: []
 lists:
   - "[[skyscrapers]]"

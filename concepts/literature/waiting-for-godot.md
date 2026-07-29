@@ -4,15 +4,22 @@ category: literature
 defines:
   - Waiting for Godot
   - En attendant Godot
-related: ["[[samuel-beckett]]", "[[absurdism]]", "[[theatre-of-the-absurd]]", "[[vladimir]]", "[[estragon]]"]
-requires: []
+related: ["[[samuel-beckett]]", "[[absurdism]]", "[[theatre-of-the-absurd]]", "[[vladimir]]", "[[estragon]]", "[[france]]", "[[dublin]]", "[[world-war-ii]]"]
+requires: ["[[modernism]]"]
 lists:
   - "[[works-by-irish-authors]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Waiting for Godot
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

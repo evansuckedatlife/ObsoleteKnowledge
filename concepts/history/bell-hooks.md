@@ -4,15 +4,22 @@ category: history
 defines:
   - bell hooks
   - Gloria Jean Watkins
-related: ["[[race]]", "[[class]]", "[[intersectionality]]", "[[critical-pedagogy]]", "[[modernism]]"]
-requires: []
+related: ["[[race]]", "[[class]]", "[[intersectionality]]", "[[critical-pedagogy]]", "[[modernism]]", "[[united-states]]"]
+requires: ["[[civil-rights-movement]]"]
 lists:
   - "[[feminists]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # bell hooks
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

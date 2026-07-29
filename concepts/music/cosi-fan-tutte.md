@@ -3,13 +3,20 @@ type: work
 category: music
 defines: ["Cosi fan tutte", "Così fan tutte"]
 related: ["[[operas]]", "[[works-by-mozart]]", "[[italy]]"]
-requires: []
+requires: ["[[opera]]"]
 lists: ["[[works-by-mozart]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Così fan tutte
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

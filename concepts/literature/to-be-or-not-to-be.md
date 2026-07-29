@@ -3,13 +3,20 @@ type: work
 category: literature
 defines: ["To be or not to be", "Hamlet's soliloquy"]
 related: ["[[hamlet]]", "[[existentialism]]", "[[revenge-tragedy]]", "[[england]]"]
-requires: []
+requires: ["[[william-shakespeare]]"]
 lists: ["[[shakespearean-speeches]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # To be or not to be
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -2,15 +2,22 @@
 type: work
 category: visual-art
 defines: ["The Potato Eaters"]
-related: ["[[vincent-van-gogh]]", "[[post-impressionism]]"]
-requires: []
+related: ["[[vincent-van-gogh]]", "[[post-impressionism]]", "[[industrial-revolution]]"]
+requires: ["[[expressionism]]"]
 lists:
   - "[[dutch-paintings]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The Potato Eaters
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

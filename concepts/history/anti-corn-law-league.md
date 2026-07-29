@@ -2,14 +2,21 @@
 type: concept
 category: history
 defines: ["Anti-Corn Law League", "Anti-Corn Law agitation"]
-related: ["[[corn-laws]]", "[[robert-peel]]", "[[free-trade]]", "[[chartism]]", "[[great-reform-act-of-1832]]"]
-requires: []
+related: ["[[corn-laws]]", "[[robert-peel]]", "[[free-trade]]", "[[chartism]]", "[[great-reform-act-of-1832]]", "[[england]]"]
+requires: ["[[industrial-revolution]]"]
 lists: ["[[british-reform-movements]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Anti-Corn Law League
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

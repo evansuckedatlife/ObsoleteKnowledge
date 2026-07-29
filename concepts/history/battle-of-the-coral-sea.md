@@ -3,15 +3,22 @@ type: event
 category: history
 defines:
   - Battle of the Coral Sea
-related: ["[[battle-of-midway]]", "[[attack-on-pearl-harbor]]", "[[imperial-japanese-navy]]", "[[australia]]"]
-requires: []
+related: ["[[battle-of-midway]]", "[[attack-on-pearl-harbor]]", "[[imperial-japanese-navy]]", "[[australia]]", "[[japan]]"]
+requires: ["[[world-war-ii]]"]
 lists:
   - "[[world-war-ii-pacific-campaigns]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Battle of the Coral Sea
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

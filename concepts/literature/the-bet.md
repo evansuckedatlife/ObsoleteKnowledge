@@ -14,6 +14,7 @@ read: false
 # The Bet
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

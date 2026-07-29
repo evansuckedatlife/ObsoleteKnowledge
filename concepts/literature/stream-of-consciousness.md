@@ -12,6 +12,7 @@ read: false
 # Stream-of-Consciousness
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

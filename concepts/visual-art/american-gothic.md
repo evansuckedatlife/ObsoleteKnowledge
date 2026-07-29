@@ -3,7 +3,7 @@ type: work
 category: visual-art
 defines:
   - American Gothic
-related: ["[[grant-wood]]", "[[american-regionalism]]", "[[american-realism]]"]
+related: ["[[grant-wood]]", "[[american-regionalism]]", "[[american-realism]]", "[[united-states]]", "[[great-depression]]"]
 requires: []
 lists:
   - "[[20th-century-paintings]]"

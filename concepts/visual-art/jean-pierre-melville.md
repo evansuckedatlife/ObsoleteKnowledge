@@ -2,7 +2,7 @@
 type: person
 category: visual-art
 defines: ["Jean-Pierre Melville"]
-related: ["[[the-samurai]]", "[[bob-le-flambeur]]"]
+related: ["[[the-samurai]]", "[[bob-le-flambeur]]", "[[france]]"]
 requires: []
 lists:
   - "[[french-directors]]"

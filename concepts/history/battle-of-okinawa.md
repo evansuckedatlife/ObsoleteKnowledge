@@ -4,14 +4,21 @@ category: history
 defines:
   - Battle of Okinawa
 related: ["[[battle-of-iwo-jima]]", "[[united-states-marine-corps]]", "[[atomic-bomb]]", "[[japan]]"]
-requires: []
+requires: ["[[world-war-ii]]"]
 lists:
   - "[[world-war-ii-pacific-campaigns]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Battle of Okinawa
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

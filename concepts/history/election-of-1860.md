@@ -5,11 +5,12 @@ defines: [Election of 1860, "1860 US presidential election"]
 related: ["[[abraham-lincoln]]", "[[stephen-douglas]]", "[[john-breckinridge]]", "[[john-bell]]", "[[american-civil-war]]", "[[secession-crisis]]"]
 requires: ["[[american-civil-war]]"]
 lists: ["[[elections]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Election of 1860
+
 
 
 <!-- foundations -->

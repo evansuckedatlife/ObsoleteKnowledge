@@ -2,7 +2,7 @@
 type: person
 category: visual-art
 defines: ["Jacques Demy"]
-related: ["[[the-umbrellas-of-cherbourg]]", "[[lola]]"]
+related: ["[[the-umbrellas-of-cherbourg]]", "[[lola]]", "[[france]]"]
 requires: []
 lists:
   - "[[french-directors]]"

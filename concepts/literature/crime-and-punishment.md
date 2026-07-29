@@ -12,6 +12,7 @@ read: false
 # Crime and Punishment
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -11,6 +11,13 @@ read: false
 
 # Higgs Boson
 
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
+
 ## summary
 
 The **Higgs boson** is an elementary particle in the *Standard Model* of particle physics, the quantized excitation of the *Higgs field* — an energy field thought to permeate all of space. Its existence explains how other fundamental particles acquire *mass*: particles that interact strongly with the Higgs field behave as though they are heavier, while those that do not (like the *photon*) remain massless. Proposed in 1964 and long the last missing piece of the Standard Model, it was finally detected in 2012 at *CERN*'s Large Hadron Collider, confirming a half-century-old prediction.

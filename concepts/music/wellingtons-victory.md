@@ -2,7 +2,7 @@
 type: work
 category: music
 defines: ["Wellington's Victory", "Wellingtons Sieg", "Battle Symphony"]
-related: ["[[works-by-beethoven]]"]
+related: ["[[works-by-beethoven]]", "[[spain]]", "[[napoleon-bonaparte]]"]
 requires: []
 lists: ["[[works-by-beethoven]]"]
 tour_order: 0

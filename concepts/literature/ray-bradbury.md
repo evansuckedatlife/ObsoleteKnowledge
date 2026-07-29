@@ -12,6 +12,7 @@ read: false
 # Ray Bradbury
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

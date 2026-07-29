@@ -3,15 +3,22 @@ type: work
 category: visual-art
 defines:
   - The Persistence of Memory
-related: ["[[salvador-dali]]", "[[surrealism]]"]
-requires: []
+related: ["[[salvador-dali]]", "[[surrealism]]", "[[spain]]", "[[existentialism]]"]
+requires: ["[[surrealism]]"]
 lists:
   - "[[20th-century-paintings]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # The Persistence of Memory
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

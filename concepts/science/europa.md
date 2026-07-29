@@ -2,14 +2,21 @@
 type: place
 category: science
 defines: [Europa]
-related: ["[[jupiter]]", "[[galilean-moons]]", "[[subsurface-ocean]]", "[[io]]", "[[ganymede]]", "[[callisto]]"]
-requires: []
+related: ["[[jupiter]]", "[[galilean-moons]]", "[[subsurface-ocean]]", "[[io]]", "[[ganymede]]", "[[callisto]]", "[[space-race]]", "[[zeus]]"]
+requires: ["[[jupiter]]"]
 lists: ["[[moons]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Europa
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -2,7 +2,7 @@
 type: person
 category: music
 defines: ["Franz Schubert", "Schubert"]
-related: ["[[romantic-era-composers]]"]
+related: ["[[romantic-era-composers]]", "[[germany]]"]
 requires: []
 lists: ["[[romantic-era-composers]]"]
 tour_order: 0

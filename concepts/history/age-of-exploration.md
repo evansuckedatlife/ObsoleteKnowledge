@@ -2,7 +2,7 @@
 type: event
 category: history
 defines: ["Age of Exploration"]
-related: ["[[christopher-columbus]]", "[[vasco-da-gama]]", "[[ferdinand-magellan]]", "[[prince-henry-the-navigator]]", "[[portuguese-empire]]", "[[spanish-empire]]", "[[columbian-exchange]]"]
+related: ["[[christopher-columbus]]", "[[vasco-da-gama]]", "[[ferdinand-magellan]]", "[[prince-henry-the-navigator]]", "[[portuguese-empire]]", "[[spanish-empire]]", "[[columbian-exchange]]", "[[spain]]", "[[italy]]", "[[atlantic-ocean]]"]
 requires: []
 lists: []
 tour_order: 0

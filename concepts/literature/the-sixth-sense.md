@@ -4,7 +4,7 @@ category: literature
 defines:
   - "The Sixth Sense"
   - The Sixth Sense (film)
-related: ["[[m-night-shyamalan]]", "[[supernatural-cinema]]", "[[psychological-thriller]]"]
+related: ["[[m-night-shyamalan]]", "[[supernatural-cinema]]", "[[psychological-thriller]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[plot-twists]]"

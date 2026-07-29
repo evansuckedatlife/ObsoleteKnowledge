@@ -12,6 +12,7 @@ read: false
 # Nicéphore Niépce
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

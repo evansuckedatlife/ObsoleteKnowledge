@@ -4,7 +4,7 @@ category: history
 defines:
   - "Bernardo O'Higgins"
   - "Bernardo O'Higgins Riquelme"
-related: ["[[jose-de-san-martin]]", "[[simon-bolivar]]"]
+related: ["[[jose-de-san-martin]]", "[[simon-bolivar]]", "[[atacama-desert]]"]
 requires: []
 lists:
   - "[[south-american-political-leaders]]"

@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: ["Cooling System", "heat dissipation", "thermal management", "heatsink", "liquid cooling"]
-related: ["[[thermodynamics]]", "[[power-supply]]", "[[cpu]]", "[[gpu]]", "[[conduction]]", "[[convection]]", "[[radiation-heat]]"]
+related: ["[[thermodynamics]]", "[[power-supply]]", "[[cpu]]", "[[gpu]]", "[[conduction]]", "[[convection]]", "[[radiation-heat]]", "[[industrial-revolution]]"]
 requires: []
 lists: []
 tour_order: 0

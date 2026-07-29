@@ -15,6 +15,7 @@ read: false
 # Thurgood Marshall
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -2,15 +2,22 @@
 type: work
 category: visual-art
 defines: ["The Arnolfini Portrait", "The Arnolfini Wedding"]
-related: ["[[jan-van-eyck]]", "[[flemish-renaissance]]"]
-requires: []
+related: ["[[jan-van-eyck]]", "[[flemish-renaissance]]", "[[renaissance]]"]
+requires: ["[[italian-renaissance]]"]
 lists:
   - "[[dutch-paintings]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The Arnolfini Portrait
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

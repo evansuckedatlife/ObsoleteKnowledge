@@ -2,14 +2,21 @@
 type: work
 category: literature
 defines: ["What a piece of work is a man", "Hamlet's praise of mankind", "Renaissance man"]
-related: ["[[hamlet]]", "[[humanism]]", "[[depression]]", "[[england]]"]
-requires: []
+related: ["[[hamlet]]", "[[humanism]]", "[[depression]]", "[[england]]", "[[existentialism]]"]
+requires: ["[[william-shakespeare]]"]
 lists: ["[[shakespearean-speeches]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # What a piece of work is a man
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

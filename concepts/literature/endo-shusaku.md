@@ -4,7 +4,7 @@ category: literature
 defines:
   - "Endō Shusaku"
   - "Endo Shusaku"
-related: ["[[showa-period]]", "[[silence]]", "[[deep-river]]", "[[christianity]]", "[[japan]]"]
+related: ["[[showa-period]]", "[[silence]]", "[[deep-river]]", "[[christianity]]", "[[japan]]", "[[world-war-ii]]"]
 requires: []
 lists:
   - "[[japanese-authors]]"

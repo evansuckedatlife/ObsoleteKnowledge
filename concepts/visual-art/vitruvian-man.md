@@ -14,6 +14,7 @@ read: false
 # Vitruvian Man
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

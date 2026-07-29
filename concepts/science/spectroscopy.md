@@ -2,7 +2,7 @@
 type: practice
 category: science
 defines: ["Spectroscopy"]
-related: ["[[chromatography]]", "[[calorimetry]]"]
+related: ["[[chromatography]]", "[[calorimetry]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[chemistry-lab-techniques]]"]
 tour_order: 0

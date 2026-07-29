@@ -2,14 +2,21 @@
 type: event
 category: history
 defines: [Assassination of Abraham Lincoln, Lincoln assassination]
-related: ["[[john-wilkes-booth]]", "[[american-civil-war]]", "[[reconstruction-era]]", "[[andrew-johnson]]"]
-requires: []
+related: ["[[john-wilkes-booth]]", "[[american-civil-war]]", "[[reconstruction-era]]", "[[andrew-johnson]]", "[[united-states]]"]
+requires: ["[[american-civil-war]]"]
 lists: ["[[assassinations]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Assassination of Abraham Lincoln
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

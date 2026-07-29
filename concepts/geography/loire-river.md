@@ -5,14 +5,21 @@ defines:
   - Loire River
   - Loire
 related: ["[[france]]", "[[french-renaissance]]", "[[atlantic-ocean]]", "[[leonardo-da-vinci]]"]
-requires: []
+requires: ["[[france]]"]
 lists:
   - "[[western-european-rivers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Loire River
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -3,7 +3,7 @@ type: work
 category: literature
 defines:
   - Dracula
-related: ["[[bram-stoker]]", "[[gothic-literature]]", "[[vampire-fiction]]", "[[transylvania]]", "[[england]]"]
+related: ["[[bram-stoker]]", "[[gothic-literature]]", "[[vampire-fiction]]", "[[transylvania]]", "[[england]]", "[[world-war-i]]"]
 requires: []
 lists:
   - "[[works-of-horror-fiction]]"

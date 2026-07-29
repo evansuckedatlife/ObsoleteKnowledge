@@ -3,13 +3,20 @@ type: phrase
 category: music
 defines: ["O mio babbino caro", "Oh my dear father"]
 related: ["[[gianni-schicchi]]", "[[puccini]]", "[[soprano]]", "[[italy]]"]
-requires: []
+requires: ["[[opera]]"]
 lists: ["[[arias]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # O mio babbino caro
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

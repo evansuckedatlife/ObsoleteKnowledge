@@ -2,7 +2,7 @@
 type: person
 category: science
 defines: [Gene Kranz, Eugène Adelin Kranz]
-related: ["[[apollo-program]]", "[[mission-control]]", "[[apollo-13]]"]
+related: ["[[apollo-program]]", "[[mission-control]]", "[[apollo-13]]", "[[space-race]]", "[[united-states]]"]
 requires: []
 lists: ["[[rocket-scientists]]"]
 tour_order: 0

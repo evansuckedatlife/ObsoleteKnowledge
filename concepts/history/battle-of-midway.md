@@ -4,14 +4,21 @@ category: history
 defines:
   - Battle of Midway
 related: ["[[attack-on-pearl-harbor]]", "[[battle-of-the-coral-sea]]", "[[imperial-japanese-navy]]", "[[japan]]"]
-requires: []
+requires: ["[[world-war-ii]]"]
 lists:
   - "[[world-war-ii-pacific-campaigns]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Battle of Midway
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

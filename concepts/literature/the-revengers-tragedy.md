@@ -3,15 +3,22 @@ type: work
 category: literature
 defines:
   - The Revenger's Tragedy
-related: ["[[thomas-middleton]]", "[[cyril-tourneur]]", "[[revenge-tragedy]]"]
-requires: []
+related: ["[[thomas-middleton]]", "[[cyril-tourneur]]", "[[revenge-tragedy]]", "[[england]]"]
+requires: ["[[revenge-tragedy]]"]
 lists:
   - "[[non-shakespeare-classical-english-dramas]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The Revenger's Tragedy
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

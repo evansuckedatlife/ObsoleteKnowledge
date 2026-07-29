@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [Basalt, mafic]
-related: ["[[feldspar]]", "[[granite]]", "[[igneous-rock]]", "[[metamorphic-rock]]", "[[plagioclase]]"]
+related: ["[[feldspar]]", "[[granite]]", "[[igneous-rock]]", "[[metamorphic-rock]]", "[[plagioclase]]", "[[italy]]"]
 requires: []
 lists: ["[[rocks-and-minerals]]"]
 tour_order: 0

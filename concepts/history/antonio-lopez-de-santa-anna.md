@@ -2,7 +2,7 @@
 type: person
 category: history
 defines: ["Antonio López de Santa Anna"]
-related: ["[[mexican-independence]]", "[[texas-independence]]", "[[mexican-american-war]]"]
+related: ["[[mexican-independence]]", "[[texas-independence]]", "[[mexican-american-war]]", "[[spain]]"]
 requires: []
 lists: ["[[mexican-leaders]]"]
 tour_order: 0

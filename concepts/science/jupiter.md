@@ -2,7 +2,7 @@
 type: place
 category: science
 defines: [Jupiter]
-related: ["[[galilean-moons]]", "[[galileo-galilei]]", "[[nasa]]", "[[great-red-spot]]", "[[asteroid-belt]]"]
+related: ["[[galilean-moons]]", "[[galileo-galilei]]", "[[nasa]]", "[[great-red-spot]]", "[[asteroid-belt]]", "[[space-race]]", "[[zeus]]"]
 requires: []
 lists: []
 tour_order: 0

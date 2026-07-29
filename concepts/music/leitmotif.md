@@ -3,14 +3,21 @@ type: term
 category: music
 defines: [Leitmotif, Leitmotiv]
 related: ["[[wagner]]", "[[opera]]", "[[motif]]"]
-requires: []
+requires: ["[[tonality]]"]
 lists:
   - "[[music-theory-terms]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Leitmotif
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -3,15 +3,22 @@ type: person
 category: music
 defines:
   - Miles Davis
-related: ["[[louis-armstrong]]", "[[john-coltrane]]", "[[jazz]]", "[[bebop]]", "[[cool-jazz]]"]
-requires: []
+related: ["[[louis-armstrong]]", "[[john-coltrane]]", "[[jazz]]", "[[bebop]]", "[[cool-jazz]]", "[[united-states]]"]
+requires: ["[[jazz]]"]
 lists:
   - "[[jazz-musicians]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Miles Davis
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

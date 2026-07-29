@@ -2,14 +2,21 @@
 type: phrase
 category: music
 defines: ["Largo al factotum", "Figaro's aria"]
-related: ["[[the-barber-of-seville]]", "[[rossini]]", "[[baritone]]", "[[italy]]"]
-requires: []
+related: ["[[the-barber-of-seville]]", "[[rossini]]", "[[baritone]]", "[[italy]]", "[[spain]]"]
+requires: ["[[the-barber-of-seville]]"]
 lists: ["[[arias]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Largo al factotum
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

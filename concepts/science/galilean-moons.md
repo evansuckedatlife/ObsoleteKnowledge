@@ -2,14 +2,21 @@
 type: concept
 category: science
 defines: [Galilean moons]
-related: ["[[jupiter]]", "[[galileo-galilei]]", "[[io]]", "[[europa]]", "[[ganymede]]", "[[callisto]]"]
-requires: []
+related: ["[[jupiter]]", "[[galileo-galilei]]", "[[io]]", "[[europa]]", "[[ganymede]]", "[[callisto]]", "[[space-race]]"]
+requires: ["[[jupiter]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Galilean Moons
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

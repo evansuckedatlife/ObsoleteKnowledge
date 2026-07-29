@@ -12,6 +12,7 @@ read: false
 # Andrea Palladio
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

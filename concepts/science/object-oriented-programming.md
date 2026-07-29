@@ -2,14 +2,21 @@
 type: term
 category: science
 defines: [Object-oriented programming, OOP, object-oriented]
-related: ["[[programming-language]]", "[[functional-programming]]", "[[type-system]]"]
-requires: []
+related: ["[[programming-language]]", "[[functional-programming]]", "[[type-system]]", "[[cold-war]]"]
+requires: ["[[programming-language]]"]
 lists: ["[[programming-terms]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Object-oriented programming
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

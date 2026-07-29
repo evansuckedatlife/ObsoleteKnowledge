@@ -3,7 +3,7 @@ type: place
 category: visual-art
 defines:
   - Empire State Building
-related: ["[[art-deco]]", "[[new-york-city]]", "[[louis-sullivan]]"]
+related: ["[[art-deco]]", "[[new-york-city]]", "[[louis-sullivan]]", "[[united-states]]", "[[great-depression]]"]
 requires: []
 lists:
   - "[[skyscrapers]]"

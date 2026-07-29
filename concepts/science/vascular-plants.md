@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [Vascular plants, "vascular plants", "tracheophytes"]
-related: ["[[non-vascular-plants]]", "[[xylem]]", "[[phloem]]", "[[pterophytes]]", "[[gymnosperms]]", "[[angiosperms]]"]
+related: ["[[non-vascular-plants]]", "[[xylem]]", "[[phloem]]", "[[pterophytes]]", "[[gymnosperms]]", "[[angiosperms]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[plant-distinctions]]"]
 tour_order: 0

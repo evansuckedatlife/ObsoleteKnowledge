@@ -15,6 +15,7 @@ read: false
 # Lady with an Ermine
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

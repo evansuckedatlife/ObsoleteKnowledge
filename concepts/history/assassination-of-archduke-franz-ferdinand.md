@@ -2,14 +2,21 @@
 type: event
 category: history
 defines: [Assassination of Archduke Franz Ferdinand, Franz Ferdinand assassination]
-related: ["[[archduke-franz-ferdinand]]", "[[gavrilo-princip]]", "[[world-war-i]]", "[[austro-hungarian-empire]]", "[[black-hand]]"]
-requires: []
+related: ["[[archduke-franz-ferdinand]]", "[[gavrilo-princip]]", "[[world-war-i]]", "[[austro-hungarian-empire]]", "[[black-hand]]", "[[germany]]"]
+requires: ["[[austro-hungarian-empire]]"]
 lists: ["[[assassinations]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Assassination of Archduke Franz Ferdinand
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -15,6 +15,7 @@ read: false
 # Rosa Parks
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

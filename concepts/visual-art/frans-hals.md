@@ -2,14 +2,21 @@
 type: person
 category: visual-art
 defines: [Frans Hals]
-related: ["[[judith-leyster]]", "[[rembrandt-van-rijn]]", "[[baroque-painters]]"]
-requires: []
+related: ["[[judith-leyster]]", "[[rembrandt-van-rijn]]", "[[baroque-painters]]", "[[dutch-golden-age]]"]
+requires: ["[[dutch-golden-age]]"]
 lists: ["[[baroque-painters]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Frans Hals
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

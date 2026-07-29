@@ -2,7 +2,7 @@
 type: person
 category: science
 defines: [Hellmuth Walter, Hellmuth Walter Rudolph]
-related: ["[[v-2-rocket]]", "[[wernher-von-braun]]"]
+related: ["[[v-2-rocket]]", "[[wernher-von-braun]]", "[[space-race]]"]
 requires: []
 lists: ["[[rocket-scientists]]"]
 tour_order: 0

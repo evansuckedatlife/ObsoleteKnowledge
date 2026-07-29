@@ -5,7 +5,7 @@ defines:
   - Black Death
   - Great Mortality
   - Great Pestilence
-related: ["[[plague-of-justinian]]", "[[third-plague-pandemic]]", "[[medieval-europe]]", "[[england]]", "[[france]]"]
+related: ["[[plague-of-justinian]]", "[[third-plague-pandemic]]", "[[medieval-europe]]", "[[england]]", "[[france]]", "[[italy]]"]
 requires: []
 lists:
   - "[[plagues-and-pandemics]]"

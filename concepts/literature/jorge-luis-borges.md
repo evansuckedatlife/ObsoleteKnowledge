@@ -2,7 +2,7 @@
 type: person
 category: literature
 defines: ["Jorge Luis Borges", Borges]
-related: ["[[argentine-literature]]", "[[magical-realism]]", "[[labyrinth]]", "[[metafiction]]"]
+related: ["[[argentine-literature]]", "[[magical-realism]]", "[[labyrinth]]", "[[metafiction]]", "[[world-war-ii]]"]
 requires: []
 lists:
   - "[[short-story-authors]]"

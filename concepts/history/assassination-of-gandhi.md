@@ -2,7 +2,7 @@
 type: event
 category: history
 defines: [Assassination of Mohandas Gandhi, Gandhi assassination, Mahatma Gandhi assassination]
-related: ["[[mohandas-gandhi]]", "[[nathuram-godse]]", "[[india-independence]]", "[[hindu-nationalism]]"]
+related: ["[[mohandas-gandhi]]", "[[nathuram-godse]]", "[[india-independence]]", "[[hindu-nationalism]]", "[[india]]", "[[hinduism]]"]
 requires: []
 lists: ["[[assassinations]]"]
 tour_order: 0

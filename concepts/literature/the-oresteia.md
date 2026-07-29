@@ -4,7 +4,7 @@ category: literature
 defines:
   - The Oresteia
   - Oresteia
-related: ["[[aeschylus]]", "[[orestes]]", "[[clytemnestra]]", "[[the-furies]]", "[[greek-tragedy]]", "[[ancient-greece]]"]
+related: ["[[aeschylus]]", "[[orestes]]", "[[clytemnestra]]", "[[the-furies]]", "[[greek-tragedy]]", "[[ancient-greece]]", "[[agamemnon]]"]
 requires: []
 lists:
   - "[[ancient-greek-plays]]"

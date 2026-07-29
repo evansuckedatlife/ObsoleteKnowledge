@@ -12,6 +12,7 @@ read: false
 # Boson
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

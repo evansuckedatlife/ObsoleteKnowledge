@@ -15,6 +15,7 @@ read: false
 # Napoleon Bonaparte
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

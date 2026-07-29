@@ -16,6 +16,7 @@ read: false
 # Fall of Constantinople
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

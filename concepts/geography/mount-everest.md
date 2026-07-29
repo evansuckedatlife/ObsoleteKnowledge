@@ -6,14 +6,21 @@ defines:
   - Sagarmatha
   - Chomolungma
 related: ["[[mount-fuji]]", "[[k2]]", "[[denali]]", "[[tenzing-norgay]]", "[[edmund-hillary]]"]
-requires: []
+requires: ["[[china]]"]
 lists:
   - "[[mountains]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Mount Everest
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

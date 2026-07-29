@@ -3,13 +3,20 @@ type: person
 category: literature
 defines: ["Don John", "the bastard"]
 related: ["[[much-ado-about-nothing]]", "[[hero-much-ado]]", "[[claudio]]", "[[borachio]]", "[[slander-and-reputation]]"]
-requires: []
+requires: ["[[william-shakespeare]]"]
 lists: ["[[shakespearean-villains]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Don John
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

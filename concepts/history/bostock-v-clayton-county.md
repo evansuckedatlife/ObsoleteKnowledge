@@ -13,6 +13,7 @@ read: false
 # Bostock v. Clayton County
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

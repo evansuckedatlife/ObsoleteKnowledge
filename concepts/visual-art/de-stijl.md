@@ -4,15 +4,22 @@ category: visual-art
 defines:
   - De Stijl
   - The Style
-related: ["[[piet-mondrian]]", "[[theo-van-doesburg]]", "[[constructivism]]"]
-requires: []
+related: ["[[piet-mondrian]]", "[[theo-van-doesburg]]", "[[constructivism]]", "[[world-war-i]]"]
+requires: ["[[cubism]]"]
 lists:
   - "[[early-20th-century-art-movements]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # De Stijl
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

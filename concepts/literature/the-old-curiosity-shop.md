@@ -12,6 +12,7 @@ read: false
 # The Old Curiosity Shop
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

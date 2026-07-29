@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [Fuse, Circuit breaker, Overcurrent protection]
-related: ["[[resistor]]", "[[current-limiting]]", "[[safety-device]]", "[[thermal-design]]"]
+related: ["[[resistor]]", "[[current-limiting]]", "[[safety-device]]", "[[thermal-design]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[circuit-components]]"]
 tour_order: 0

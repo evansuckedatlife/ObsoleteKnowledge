@@ -12,6 +12,7 @@ read: false
 # Centriole
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

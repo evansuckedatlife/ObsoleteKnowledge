@@ -3,15 +3,22 @@ type: concept
 category: history
 defines:
   - Anti-Masonic Party
-related: ["[[william-henry-harrison]]", "[[american-third-parties]]", "[[1832-u-s-presidential-election]]"]
-requires: []
+related: ["[[william-henry-harrison]]", "[[american-third-parties]]", "[[1832-u-s-presidential-election]]", "[[united-states]]"]
+requires: ["[[american-revolution]]"]
 lists:
   - "[[american-third-parties]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Anti-Masonic Party
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

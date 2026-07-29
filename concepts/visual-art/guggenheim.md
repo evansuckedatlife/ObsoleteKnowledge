@@ -4,7 +4,7 @@ category: visual-art
 defines:
   - Guggenheim
   - Solomon R. Guggenheim Museum
-related: ["[[frank-lloyd-wright]]", "[[modern-art-architecture]]", "[[abstract-art]]", "[[new-york-city]]"]
+related: ["[[frank-lloyd-wright]]", "[[modern-art-architecture]]", "[[abstract-art]]", "[[new-york-city]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[art-museums]]"

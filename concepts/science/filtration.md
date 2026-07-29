@@ -2,7 +2,7 @@
 type: practice
 category: science
 defines: ["Filtration"]
-related: ["[[chromatography]]", "[[distillation]]", "[[centrifugation]]"]
+related: ["[[chromatography]]", "[[distillation]]", "[[centrifugation]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[chemistry-lab-techniques]]"]
 tour_order: 0

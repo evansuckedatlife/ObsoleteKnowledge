@@ -4,14 +4,21 @@ category: geography
 defines:
   - Rio Grande
 related: ["[[colorado-river]]", "[[gulf-of-mexico]]", "[[mexico]]", "[[american-civil-war]]"]
-requires: []
+requires: ["[[united-states]]"]
 lists:
   - "[[north-american-rivers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Rio Grande
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

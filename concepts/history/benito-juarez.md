@@ -2,7 +2,7 @@
 type: person
 category: history
 defines: [Benito Juárez]
-related: ["[[maximilian-i]]", "[[lázaro-cardenas]]", "[[mexico-independence]]"]
+related: ["[[maximilian-i]]", "[[lázaro-cardenas]]", "[[mexico-independence]]", "[[spain]]"]
 requires: []
 lists: ["[[mexican-leaders]]"]
 tour_order: 0

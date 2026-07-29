@@ -12,6 +12,7 @@ read: false
 # Octavio Paz
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

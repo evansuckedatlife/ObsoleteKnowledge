@@ -7,11 +7,12 @@ related: ["[[hadron]]", "[[quark]]", "[[baryon]]", "[[pion]]"]
 requires: ["[[hadron]]", "[[quark]]"]
 lists:
   - "[[classes-of-particles]]"
-tour_order: 4
+tour_order: 5
 read: true
 ---
 
 # Meson
+
 
 
 <!-- foundations -->

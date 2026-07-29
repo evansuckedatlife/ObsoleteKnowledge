@@ -2,14 +2,21 @@
 type: work
 category: music
 defines: ["The Marriage of Figaro", "Le nozze di Figaro"]
-related: ["[[operas]]", "[[works-by-mozart]]", "[[french-revolution]]", "[[enlightenment]]"]
-requires: []
+related: ["[[operas]]", "[[works-by-mozart]]", "[[french-revolution]]", "[[enlightenment]]", "[[spain]]"]
+requires: ["[[opera]]"]
 lists: ["[[operas]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The Marriage of Figaro
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

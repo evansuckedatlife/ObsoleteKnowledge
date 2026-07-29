@@ -2,7 +2,7 @@
 type: place
 category: science
 defines: [Eris]
-related: ["[[kuiper-belt]]", "[[pluto]]", "[[dwarf-planet]]", "[[makemake]]"]
+related: ["[[kuiper-belt]]", "[[pluto]]", "[[dwarf-planet]]", "[[makemake]]", "[[space-race]]"]
 requires: []
 lists: ["[[dwarf-planets-comets-and-asteroids]]"]
 tour_order: 0

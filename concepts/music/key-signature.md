@@ -3,14 +3,21 @@ type: term
 category: music
 defines: [Key Signature]
 related: ["[[tonality]]", "[[major-scale]]", "[[minor-scale]]", "[[accidental]]"]
-requires: []
+requires: ["[[tonality]]"]
 lists:
   - "[[music-theory-terms]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Key Signature
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

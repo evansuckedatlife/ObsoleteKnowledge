@@ -13,6 +13,7 @@ read: false
 # Bill Sikes
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

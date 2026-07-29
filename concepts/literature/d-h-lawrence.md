@@ -12,6 +12,7 @@ read: false
 # D. H. Lawrence
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

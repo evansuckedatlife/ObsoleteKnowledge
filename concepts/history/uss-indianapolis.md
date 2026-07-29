@@ -15,6 +15,7 @@ read: false
 # USS Indianapolis
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

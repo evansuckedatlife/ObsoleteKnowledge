@@ -3,7 +3,7 @@ type: person
 category: music
 defines:
   - William Byrd
-related: ["[[english-renaissance]]", "[[madrigal]]", "[[mass-form]]"]
+related: ["[[english-renaissance]]", "[[madrigal]]", "[[mass-form]]", "[[england]]"]
 requires: []
 lists:
   - "[[pre-1700-composers]]"

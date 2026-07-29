@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: ["Ether", "ethers"]
-related: ["[[alcohol]]", "[[ester]]", "[[sodium]]"]
+related: ["[[alcohol]]", "[[ester]]", "[[sodium]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[functional-groups]]"]
 tour_order: 0

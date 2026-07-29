@@ -4,7 +4,7 @@ category: visual-art
 defines:
   - Fauvism
   - Fauve
-related: ["[[henri-matisse]]", "[[andre-derain]]", "[[cubism]]"]
+related: ["[[henri-matisse]]", "[[andre-derain]]", "[[cubism]]", "[[france]]", "[[industrial-revolution]]"]
 requires: []
 lists:
   - "[[early-20th-century-art-movements]]"

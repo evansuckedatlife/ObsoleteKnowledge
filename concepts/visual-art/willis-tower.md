@@ -4,7 +4,7 @@ category: visual-art
 defines:
   - Willis Tower
   - Sears Tower
-related: ["[[skidmore-owings-merrill]]", "[[chicago]]", "[[postmodernism]]"]
+related: ["[[skidmore-owings-merrill]]", "[[chicago]]", "[[postmodernism]]", "[[united-states]]", "[[industrial-revolution]]"]
 requires: []
 lists:
   - "[[skyscrapers]]"

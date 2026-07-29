@@ -3,10 +3,7 @@ type: person
 category: literature
 defines:
   - Lorraine Hansberry
-related:
-  - "[[american-drama]]"
-  - "[[civil-rights-era]]"
-  - "[[harlem-renaissance]]"
+related: ["[[american-drama]]", "[[civil-rights-era]]", "[[harlem-renaissance]]", "[[civil-rights-movement]]"]
 requires: []
 lists:
   - "[[african-american-authors]]"

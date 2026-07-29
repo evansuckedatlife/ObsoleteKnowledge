@@ -5,15 +5,22 @@ defines:
   - Billie Holiday
   - Lady Day
   - Eleanora Fagan
-related: ["[[ella-fitzgerald]]", "[[jazz]]", "[[louis-armstrong]]", "[[harlem-renaissance]]"]
-requires: []
+related: ["[[ella-fitzgerald]]", "[[jazz]]", "[[louis-armstrong]]", "[[harlem-renaissance]]", "[[united-states]]"]
+requires: ["[[jazz]]"]
 lists:
   - "[[jazz-musicians]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Billie Holiday
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

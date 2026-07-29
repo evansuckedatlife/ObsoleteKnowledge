@@ -3,7 +3,7 @@ type: practice
 category: history
 defines:
   - Bustle
-related: ["[[crinoline]]", "[[corset]]", "[[victoria]]"]
+related: ["[[crinoline]]", "[[corset]]", "[[victoria]]", "[[england]]", "[[france]]"]
 requires: []
 lists:
   - "[[historical-fashions]]"

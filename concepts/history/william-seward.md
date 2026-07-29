@@ -8,11 +8,12 @@ related: ["[[abraham-lincoln]]", "[[alaska-purchase]]", "[[american-civil-war]]"
 requires: ["[[american-civil-war]]"]
 lists:
   - "[[secretaries-of-state]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # William Seward
+
 
 
 <!-- foundations -->

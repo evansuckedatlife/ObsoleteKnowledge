@@ -3,7 +3,7 @@ type: work
 category: literature
 defines:
   - The View from Saturday
-related: ["[[lois-lowry]]", "[[children-literature]]", "[[quiz-bowl]]"]
+related: ["[[lois-lowry]]", "[[children-literature]]", "[[quiz-bowl]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[20th-century-newbery-medal-winners]]"

@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: ["Pauling scale", "electronegativity scale"]
-related: ["[[electronegativity]]", "[[chemical-bond]]", "[[atom]]", "[[polarity]]"]
+related: ["[[electronegativity]]", "[[chemical-bond]]", "[[atom]]", "[[polarity]]", "[[cold-war]]"]
 requires: []
 lists: ["[[scientific-scales]]"]
 tour_order: 0

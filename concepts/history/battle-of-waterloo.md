@@ -5,14 +5,21 @@ defines:
   - Battle of Waterloo
   - Waterloo
 related: ["[[napoleon-bonaparte]]", "[[coalition-wars]]", "[[duke-of-wellington]]", "[[hundred-days]]", "[[france]]", "[[england]]"]
-requires: []
+requires: ["[[napoleon-bonaparte]]"]
 lists:
   - "[[napoleonic-battles]]"
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Battle of Waterloo
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

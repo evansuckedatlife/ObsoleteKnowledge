@@ -2,7 +2,7 @@
 type: species
 category: science
 defines: ["Platyhelminthes", "flatworms"]
-related: ["[[nematoda]]", "[[annelida]]"]
+related: ["[[nematoda]]", "[[annelida]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[phyla]]"]
 tour_order: 0

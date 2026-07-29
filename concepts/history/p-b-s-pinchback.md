@@ -5,11 +5,12 @@ defines: ["P.B.S. Pinchback", "Pinckney Benton Stewart Pinchback"]
 related: ["[[reconstruction-era]]", "[[louisiana]]", "[[governor]]"]
 requires: ["[[reconstruction-era]]"]
 lists: ["[[black-american-legislators]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # P.B.S. Pinchback
+
 
 
 <!-- foundations -->

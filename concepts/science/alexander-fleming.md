@@ -2,7 +2,7 @@
 type: person
 category: science
 defines: [Alexander Fleming]
-related: ["[[penicillin]]", "[[antibiotics]]", "[[bacteriology]]"]
+related: ["[[penicillin]]", "[[antibiotics]]", "[[bacteriology]]", "[[world-war-ii]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[nobel-prize-winners-in-medicine]]"]
 tour_order: 0

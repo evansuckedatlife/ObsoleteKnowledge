@@ -12,6 +12,7 @@ read: false
 # Resistor
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

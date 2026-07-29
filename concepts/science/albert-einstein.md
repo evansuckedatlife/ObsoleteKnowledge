@@ -12,6 +12,7 @@ read: false
 # Albert Einstein
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -12,6 +12,7 @@ read: false
 # Treaty of Paris (1783)
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -4,7 +4,7 @@ category: visual-art
 defines:
   - Auguste Rodin
   - Rodin
-related: ["[[the-thinker]]", "[[the-gates-of-hell]]", "[[camille-claudel]]", "[[michelangelo]]"]
+related: ["[[the-thinker]]", "[[the-gates-of-hell]]", "[[camille-claudel]]", "[[michelangelo]]", "[[france]]", "[[industrial-revolution]]"]
 requires: []
 lists:
   - "[[sculptors]]"

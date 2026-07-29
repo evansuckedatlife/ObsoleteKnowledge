@@ -4,15 +4,22 @@ category: history
 defines:
   - Battle of the Nile
   - Battle of Aboukir Bay
-related: ["[[napoleon-bonaparte]]", "[[nelson-horatio]]", "[[british-navy]]", "[[egyptian-campaign]]", "[[egypt]]"]
-requires: []
+related: ["[[napoleon-bonaparte]]", "[[nelson-horatio]]", "[[british-navy]]", "[[egyptian-campaign]]", "[[egypt]]", "[[france]]", "[[nile-river]]"]
+requires: ["[[napoleon-bonaparte]]"]
 lists:
   - "[[napoleonic-battles]]"
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Battle of the Nile
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

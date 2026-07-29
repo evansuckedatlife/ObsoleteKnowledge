@@ -2,7 +2,7 @@
 type: person
 category: visual-art
 defines: [Caravaggio, Michelangelo Merisi]
-related: ["[[artemisia-gentileschi]]", "[[rembrandt-van-rijn]]", "[[baroque-painters]]"]
+related: ["[[artemisia-gentileschi]]", "[[rembrandt-van-rijn]]", "[[baroque-painters]]", "[[italy]]", "[[rome]]", "[[renaissance]]"]
 requires: []
 lists: ["[[baroque-painters]]"]
 tour_order: 0

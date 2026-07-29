@@ -2,7 +2,7 @@
 type: element
 category: science
 defines: ["Carbon", "C"]
-related: ["[[helium]]", "[[oxygen]]", "[[nitrogen]]", "[[organic-reactions]]"]
+related: ["[[helium]]", "[[oxygen]]", "[[nitrogen]]", "[[organic-reactions]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[chemical-elements]]"]
 tour_order: 0

@@ -16,6 +16,7 @@ read: false
 # Regents v. Bakke
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

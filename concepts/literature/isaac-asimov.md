@@ -2,7 +2,7 @@
 type: person
 category: literature
 defines: ["Isaac Asimov"]
-related: ["[[foundation-series]]", "[[the-naked-sun]]", "[[the-three-laws-of-robotics]]", "[[science-fiction]]", "[[robot-fiction]]"]
+related: ["[[foundation-series]]", "[[the-naked-sun]]", "[[the-three-laws-of-robotics]]", "[[science-fiction]]", "[[robot-fiction]]", "[[world-war-ii]]"]
 requires: []
 lists:
   - "[[authors-of-speculative-fiction]]"

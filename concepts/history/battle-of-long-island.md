@@ -12,6 +12,7 @@ read: false
 # Long Island
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

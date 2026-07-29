@@ -12,6 +12,7 @@ read: false
 # Mapp v. Ohio
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

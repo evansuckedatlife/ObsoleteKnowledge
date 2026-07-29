@@ -2,14 +2,21 @@
 type: person
 category: literature
 defines: [Aaron, "Aaron the Moor", Aaron the blackamoor]
-related: ["[[titus-andronicus]]", "[[tamora]]", "[[racism-and-villainy]]", "[[infanticide]]", "[[mutilation]]", "[[rome]]"]
-requires: []
+related: ["[[titus-andronicus]]", "[[tamora]]", "[[racism-and-villainy]]", "[[infanticide]]", "[[mutilation]]", "[[rome]]", "[[agamemnon]]"]
+requires: ["[[william-shakespeare]]"]
 lists: ["[[shakespearean-villains]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Aaron the Moor
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

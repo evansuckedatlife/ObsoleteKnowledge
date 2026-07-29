@@ -3,7 +3,7 @@ type: person
 category: history
 defines:
   - Betty Friedan
-related: ["[[the-feminine-mystique]]", "[[womens-liberation]]", "[[national-organization-for-women]]", "[[second-wave-feminism]]", "[[modernism]]"]
+related: ["[[the-feminine-mystique]]", "[[womens-liberation]]", "[[national-organization-for-women]]", "[[second-wave-feminism]]", "[[modernism]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[feminists]]"

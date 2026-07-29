@@ -2,7 +2,7 @@
 type: person
 category: literature
 defines: ["O. Henry", "William Sydney Porter"]
-related: ["[[american-literature]]", "[[realism]]", "[[new-york-city]]"]
+related: ["[[american-literature]]", "[[realism]]", "[[new-york-city]]", "[[united-states]]"]
 requires: []
 lists: ["[[short-story-authors]]"]
 tour_order: 0

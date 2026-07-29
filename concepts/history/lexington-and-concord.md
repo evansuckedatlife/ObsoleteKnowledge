@@ -12,6 +12,7 @@ read: false
 # Lexington and Concord
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

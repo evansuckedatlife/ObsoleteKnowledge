@@ -4,13 +4,20 @@ category: visual-art
 defines: [Rembrandt van Rijn, Rembrandt, Rembrandt Harmenszoon van Rijn]
 aliases: [rembrandt]
 related: ["[[the-night-watch]]", "[[the-anatomy-lesson-of-dr-tulp]]", "[[self-portrait-with-two-circles]]", "[[chiaroscuro]]", "[[baroque]]", "[[dutch-golden-age]]", "[[jewish-amsterdam]]", "[[caravaggio]]", "[[frans-hals]]", "[[diego-velazquez]]", "[[baroque-painters]]"]
-requires: []
+requires: ["[[dutch-golden-age]]"]
 lists: ["[[baroque-painters]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Rembrandt van Rijn
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

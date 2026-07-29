@@ -2,7 +2,7 @@
 type: place
 category: science
 defines: [Earth's Moon, Moon, Luna]
-related: ["[[earth]]", "[[tides]]", "[[galileo-galilei]]", "[[space-race]]"]
+related: ["[[earth]]", "[[tides]]", "[[galileo-galilei]]", "[[space-race]]", "[[age-of-exploration]]"]
 requires: []
 lists: ["[[moons]]"]
 tour_order: 0

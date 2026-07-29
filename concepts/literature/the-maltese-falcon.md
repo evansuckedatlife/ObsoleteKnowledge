@@ -2,15 +2,22 @@
 type: work
 category: literature
 defines: ["The Maltese Falcon"]
-related: ["[[dashiell-hammett]]", "[[sam-spade]]", "[[detective-fiction]]", "[[noir]]"]
-requires: []
+related: ["[[dashiell-hammett]]", "[[sam-spade]]", "[[detective-fiction]]", "[[noir]]", "[[united-states]]"]
+requires: ["[[detective-fiction]]"]
 lists:
   - "[[works-of-mystery-and-detective-fiction]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The Maltese Falcon
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

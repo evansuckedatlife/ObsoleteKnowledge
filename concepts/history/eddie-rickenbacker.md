@@ -15,6 +15,7 @@ read: false
 # Eddie Rickenbacker
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

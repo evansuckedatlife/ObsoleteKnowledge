@@ -2,7 +2,7 @@
 type: person
 category: science
 defines: [Robert Koch]
-related: ["[[tuberculosis]]", "[[bacteriology]]", "[[germ-theory]]"]
+related: ["[[tuberculosis]]", "[[bacteriology]]", "[[germ-theory]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[nobel-prize-winners-in-medicine]]"]
 tour_order: 0

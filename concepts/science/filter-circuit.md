@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: ["Filter Circuit", "electrical filter", "active filter", "passive filter"]
-related: ["[[capacitor]]", "[[inductor]]", "[[resistor]]", "[[frequency]]", "[[signal-processing]]", "[[rectifier]]", "[[power-supply]]"]
+related: ["[[capacitor]]", "[[inductor]]", "[[resistor]]", "[[frequency]]", "[[signal-processing]]", "[[rectifier]]", "[[power-supply]]", "[[industrial-revolution]]"]
 requires: []
 lists: []
 tour_order: 0

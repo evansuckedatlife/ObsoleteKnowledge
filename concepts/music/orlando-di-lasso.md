@@ -5,7 +5,7 @@ defines:
   - Orlando di Lasso
   - Roland de Lassus
   - Orlande de Lassus
-related: ["[[madrigal]]", "[[motet]]", "[[renaissance-music]]", "[[renaissance]]"]
+related: ["[[madrigal]]", "[[motet]]", "[[renaissance-music]]", "[[renaissance]]", "[[france]]"]
 requires: []
 lists:
   - "[[pre-1700-composers]]"

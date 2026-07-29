@@ -6,11 +6,12 @@ related: ["[[vermeer]]", "[[dutch-golden-age]]"]
 requires: ["[[johannes-vermeer]]"]
 lists:
   - "[[dutch-paintings]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # The Milkmaid
+
 
 
 <!-- foundations -->

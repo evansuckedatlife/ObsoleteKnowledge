@@ -2,7 +2,7 @@
 type: person
 category: science
 defines: [Konstantin Tsiolkovsky, Konstantin Eduardovich Tsiolkovsky, Konstantin Ciołkowski]
-related: ["[[robert-goddard]]", "[[sergei-korolev]]", "[[sputnik]]"]
+related: ["[[robert-goddard]]", "[[sergei-korolev]]", "[[sputnik]]", "[[space-race]]", "[[soviet-union]]", "[[cold-war]]"]
 requires: []
 lists: ["[[rocket-scientists]]"]
 tour_order: 0

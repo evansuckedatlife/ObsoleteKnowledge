@@ -4,7 +4,7 @@ category: history
 defines:
   - Adlai Stevenson Sr.
   - Adlai Ewing Stevenson
-related: ["[[grover-cleveland]]", "[[william-mckinley]]"]
+related: ["[[grover-cleveland]]", "[[william-mckinley]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[vice-presidents-who-never-became-president]]"

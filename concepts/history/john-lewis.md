@@ -12,6 +12,7 @@ read: false
 # John Lewis
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

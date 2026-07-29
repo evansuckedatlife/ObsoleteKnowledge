@@ -12,6 +12,7 @@ read: false
 # Battle of Stalingrad
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

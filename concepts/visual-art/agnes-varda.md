@@ -2,7 +2,7 @@
 type: person
 category: visual-art
 defines: ["Agnès Varda"]
-related: ["[[vagabond]]", "[[cleo-from-5-to-7]]"]
+related: ["[[vagabond]]", "[[cleo-from-5-to-7]]", "[[france]]"]
 requires: []
 lists:
   - "[[french-directors]]"

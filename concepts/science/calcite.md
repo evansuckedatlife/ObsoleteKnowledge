@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [Calcite, calcium carbonate, CaCO₃]
-related: ["[[limestone]]", "[[marble]]", "[[diamond]]", "[[mohs-scale]]", "[[metamorphic-rock]]"]
+related: ["[[limestone]]", "[[marble]]", "[[diamond]]", "[[mohs-scale]]", "[[metamorphic-rock]]", "[[italy]]"]
 requires: []
 lists: ["[[rocks-and-minerals]]"]
 tour_order: 0

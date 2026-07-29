@@ -12,6 +12,7 @@ read: false
 # Stern–Gerlach Experiment
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

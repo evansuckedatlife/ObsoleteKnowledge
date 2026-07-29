@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: ["Organic Halide", "alkyl halide", "haloalkane", "organic halides", "alkyl halides"]
-related: ["[[alcohol]]", "[[ether]]", "[[chlorine]]"]
+related: ["[[alcohol]]", "[[ether]]", "[[chlorine]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[functional-groups]]"]
 tour_order: 0

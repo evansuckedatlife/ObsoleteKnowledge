@@ -2,7 +2,7 @@
 type: person
 category: history
 defines: [Augustus, Octavian, Gaius Octavius, Augustus Caesar]
-related: ["[[julius-caesar]]", "[[mark-antony]]", "[[tiberius]]", "[[battle-of-actium]]", "[[rome]]"]
+related: ["[[julius-caesar]]", "[[mark-antony]]", "[[tiberius]]", "[[battle-of-actium]]", "[[rome]]", "[[italy]]"]
 requires: []
 lists: ["[[roman-emperors]]"]
 tour_order: 0

@@ -12,6 +12,7 @@ read: false
 # James Madison
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

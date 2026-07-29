@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [Switch, Contact]
-related: ["[[resistor]]", "[[relay]]", "[[logic-gate]]", "[[control-circuit]]"]
+related: ["[[resistor]]", "[[relay]]", "[[logic-gate]]", "[[control-circuit]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[circuit-components]]"]
 tour_order: 0

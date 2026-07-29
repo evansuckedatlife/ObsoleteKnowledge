@@ -2,7 +2,7 @@
 type: work
 category: visual-art
 defines: ["The Hunters in the Snow", "Hunters in the Snow"]
-related: ["[[pieter-bruegel-the-elder]]", "[[flemish-renaissance]]"]
+related: ["[[pieter-bruegel-the-elder]]", "[[flemish-renaissance]]", "[[renaissance]]"]
 requires: []
 lists:
   - "[[dutch-paintings]]"

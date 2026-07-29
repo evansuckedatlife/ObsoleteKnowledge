@@ -6,14 +6,21 @@ defines:
   - Tiber
   - Tevere
 related: ["[[rome]]", "[[italy]]", "[[roman-republic]]", "[[roman-empire]]"]
-requires: []
+requires: ["[[italy]]"]
 lists:
   - "[[western-european-rivers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Tiber River
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

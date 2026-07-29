@@ -2,7 +2,7 @@
 type: practice
 category: science
 defines: ["Calorimetry"]
-related: ["[[titration]]", "[[spectroscopy]]"]
+related: ["[[titration]]", "[[spectroscopy]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[chemistry-lab-techniques]]"]
 tour_order: 0

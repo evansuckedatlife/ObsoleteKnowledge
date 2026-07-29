@@ -3,7 +3,7 @@ type: person
 category: literature
 defines:
   - Cynthia Ozick
-related: ["[[jewish-ethics]]", "[[metaphysics]]", "[[literary-modernism]]", "[[philip-roth]]", "[[new-york-city]]", "[[judaism]]"]
+related: ["[[jewish-ethics]]", "[[metaphysics]]", "[[literary-modernism]]", "[[philip-roth]]", "[[new-york-city]]", "[[judaism]]", "[[world-war-ii]]"]
 requires: []
 lists:
   - "[[jewish-american-authors]]"

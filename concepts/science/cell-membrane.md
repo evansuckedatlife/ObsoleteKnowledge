@@ -12,6 +12,7 @@ read: false
 # Cell Membrane
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

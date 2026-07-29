@@ -3,15 +3,22 @@ type: work
 category: visual-art
 defines:
   - Guernica
-related: ["[[pablo-picasso]]", "[[spanish-civil-war]]", "[[cubism]]"]
-requires: []
+related: ["[[pablo-picasso]]", "[[spanish-civil-war]]", "[[cubism]]", "[[spain]]", "[[world-war-ii]]"]
+requires: ["[[pablo-picasso]]", "[[cubism]]"]
 lists:
   - "[[20th-century-paintings]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Guernica
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

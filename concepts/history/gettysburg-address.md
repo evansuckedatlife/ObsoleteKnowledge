@@ -5,11 +5,12 @@ defines: [Gettysburg Address]
 related: ["[[abraham-lincoln]]", "[[american-civil-war]]", "[[battle-of-gettysburg]]"]
 requires: ["[[american-civil-war]]"]
 lists: ["[[modern-speeches]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Gettysburg Address
+
 
 
 <!-- foundations -->

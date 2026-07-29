@@ -12,6 +12,7 @@ read: false
 # Nathanael Greene
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -12,6 +12,7 @@ read: false
 # William Howe
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

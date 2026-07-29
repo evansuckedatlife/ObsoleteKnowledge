@@ -2,7 +2,7 @@
 type: person
 category: music
 defines: ["Benjamin Britten", "Britten"]
-related: ["[[20th-century-composers]]", "[[united-kingdom]]"]
+related: ["[[20th-century-composers]]", "[[united-kingdom]]", "[[england]]"]
 requires: []
 lists: ["[[20th-century-composers]]"]
 tour_order: 0

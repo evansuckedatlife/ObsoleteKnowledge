@@ -15,6 +15,7 @@ read: false
 # Dred Scott v. Sandford
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -4,15 +4,22 @@ category: visual-art
 defines:
   - Annunciation
   - Leonardo's Annunciation
-related: ["[[leonardo-da-vinci]]", "[[mary-mother-of-jesus]]", "[[gabriel-archangel]]"]
-requires: []
+related: ["[[leonardo-da-vinci]]", "[[mary-mother-of-jesus]]", "[[gabriel-archangel]]", "[[italy]]", "[[christianity]]", "[[virgin-mary]]"]
+requires: ["[[leonardo-da-vinci]]", "[[italian-renaissance]]"]
 lists:
   - "[[works-by-leonardo-da-vinci]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Annunciation
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

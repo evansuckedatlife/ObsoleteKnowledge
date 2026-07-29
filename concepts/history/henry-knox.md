@@ -12,6 +12,7 @@ read: false
 # Henry Knox
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

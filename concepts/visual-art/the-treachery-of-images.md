@@ -4,15 +4,22 @@ category: visual-art
 defines:
   - The Treachery of Images
   - La Trahison des images
-related: ["[[rene-magritte]]", "[[surrealism]]", "[[semiotics]]"]
-requires: []
+related: ["[[rene-magritte]]", "[[surrealism]]", "[[semiotics]]", "[[existentialism]]"]
+requires: ["[[surrealism]]"]
 lists:
   - "[[20th-century-paintings]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # The Treachery of Images
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

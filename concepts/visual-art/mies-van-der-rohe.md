@@ -12,6 +12,7 @@ read: false
 # Mies van der Rohe
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -2,14 +2,21 @@
 type: term
 category: science
 defines: [Golgi apparatus, Golgi body]
-related: ["[[endoplasmic-reticulum]]", "[[protein-synthesis]]", "[[lysosome]]"]
-requires: []
+related: ["[[endoplasmic-reticulum]]", "[[protein-synthesis]]", "[[lysosome]]", "[[italian-renaissance]]"]
+requires: ["[[cell]]"]
 lists: ["[[organelles]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Golgi apparatus
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

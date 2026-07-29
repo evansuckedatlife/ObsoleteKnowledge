@@ -12,6 +12,7 @@ read: false
 # Vacuole
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

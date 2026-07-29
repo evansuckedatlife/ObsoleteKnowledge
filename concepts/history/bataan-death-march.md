@@ -5,14 +5,21 @@ defines:
   - Bataan Death March
   - Bataan Peninsula Campaign
 related: ["[[douglas-macarthur]]", "[[philippines]]", "[[imperial-japanese-army]]", "[[japan]]"]
-requires: []
+requires: ["[[world-war-ii]]"]
 lists:
   - "[[world-war-ii-pacific-campaigns]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Bataan Death March
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

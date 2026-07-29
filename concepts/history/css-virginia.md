@@ -9,11 +9,12 @@ related: ["[[uss-monitor]]", "[[american-civil-war]]", "[[confederate-navy]]", "
 requires: ["[[american-civil-war]]"]
 lists:
   - "[[american-warships]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # CSS Virginia
+
 
 
 <!-- foundations -->

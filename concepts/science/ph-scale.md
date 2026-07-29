@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: ["pH scale", "pH"]
-related: ["[[acid]]", "[[base]]", "[[hydrogen-ion-concentration]]", "[[logarithmic-scale]]"]
+related: ["[[acid]]", "[[base]]", "[[hydrogen-ion-concentration]]", "[[logarithmic-scale]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[scientific-scales]]"]
 tour_order: 0

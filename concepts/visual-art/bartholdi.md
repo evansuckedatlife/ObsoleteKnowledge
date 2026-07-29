@@ -4,7 +4,7 @@ category: visual-art
 defines:
   - Frédéric-Auguste Bartholdi
   - Bartholdi
-related: ["[[statue-of-liberty]]", "[[french-sculpture]]", "[[monumental-sculpture]]", "[[liberty-enlightening-the-world]]"]
+related: ["[[statue-of-liberty]]", "[[french-sculpture]]", "[[monumental-sculpture]]", "[[liberty-enlightening-the-world]]", "[[france]]", "[[united-states]]", "[[new-york-city]]"]
 requires: []
 lists:
   - "[[sculptors]]"

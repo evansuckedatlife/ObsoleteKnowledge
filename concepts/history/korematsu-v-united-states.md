@@ -12,6 +12,7 @@ read: false
 # Korematsu v. United States
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

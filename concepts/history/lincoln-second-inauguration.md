@@ -5,11 +5,12 @@ defines: ["Lincoln's Second Inauguration", "Abraham Lincoln Inauguration 1865"]
 related: ["[[abraham-lincoln]]", "[[american-civil-war]]", "[[reconstruction]]"]
 requires: ["[[american-civil-war]]"]
 lists: ["[[presidential-inaugurations]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Lincoln's Second Inauguration
+
 
 
 <!-- foundations -->

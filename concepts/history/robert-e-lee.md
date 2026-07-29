@@ -5,11 +5,12 @@ defines: [Robert E. Lee, Robert Edward Lee]
 related: ["[[ulysses-s-grant]]", "[[american-civil-war]]", "[[confederate-states-of-america]]", "[[battle-of-gettysburg]]", "[[appomattox-court-house]]", "[[virginia]]"]
 requires: ["[[american-civil-war]]"]
 lists: []
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Robert E. Lee
+
 
 
 <!-- foundations -->

@@ -2,14 +2,21 @@
 type: event
 category: history
 defines: [Battle of Actium]
-related: ["[[octavian]]", "[[mark-antony]]", "[[cleopatra]]", "[[rome]]"]
-requires: []
+related: ["[[octavian]]", "[[mark-antony]]", "[[cleopatra]]", "[[rome]]", "[[italy]]"]
+requires: ["[[roman-empire]]"]
 lists: ["[[battles-of-the-ancient-world]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Battle of Actium
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

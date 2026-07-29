@@ -3,7 +3,7 @@ type: work
 category: literature
 defines:
   - The Giver
-related: ["[[lois-lowry]]", "[[dystopian-fiction]]", "[[science-fiction]]"]
+related: ["[[lois-lowry]]", "[[dystopian-fiction]]", "[[science-fiction]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[20th-century-newbery-medal-winners]]"

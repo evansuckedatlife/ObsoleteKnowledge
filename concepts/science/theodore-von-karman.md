@@ -2,7 +2,7 @@
 type: person
 category: science
 defines: [Theodore von Kármán, Tivadar Mihály Kármán, Theodor von Kármán]
-related: ["[[wernher-von-braun]]", "[[jet-propulsion-laboratory]]"]
+related: ["[[wernher-von-braun]]", "[[jet-propulsion-laboratory]]", "[[space-race]]", "[[cold-war]]"]
 requires: []
 lists: ["[[rocket-scientists]]"]
 tour_order: 0
