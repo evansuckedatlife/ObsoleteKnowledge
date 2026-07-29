@@ -1,7 +1,7 @@
 ---
 type: person
 category: history
-defines: ["Boris Godunov"]
+defines: ["Boris Godunov", "Boris Fyodorovich Godunov"]
 related: ["[[ivan-iv]]", "[[time-of-troubles]]", "[[false-dmitri]]", "[[russian-empire]]", "[[mikhail-romanov]]"]
 requires: []
 lists: ["[[russian-tsars]]"]

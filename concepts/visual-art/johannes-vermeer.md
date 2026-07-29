@@ -2,7 +2,7 @@
 type: person
 category: visual-art
 defines: [Johannes Vermeer, Jan Vermeer]
-related: ["[[rembrandt-van-rijn]]", "[[franz-hals]]", "[[judith-leyster]]", "[[baroque-painters]]", "[[dutch-golden-age]]"]
+related: ["[[rembrandt-van-rijn]]", "[[frans-hals]]", "[[judith-leyster]]", "[[baroque-painters]]", "[[dutch-golden-age]]"]
 requires: []
 lists: ["[[baroque-painters]]"]
 tour_order: 0
@@ -30,11 +30,11 @@ aliases: [vermeer]
 
 - [[rembrandt-van-rijn]] — Dutch contemporary working in a more dramatic and psychologically turbulent register; both are supreme masters of Dutch Golden Age painting.
 - [[judith-leyster]] — fellow Dutch painter of domestic interiors and genre scenes, though working in a warmer, more animated style.
-- [[franz-hals]] — Dutch contemporary; both were based in Holland, but Vermeer's stillness contrasts sharply with Hals' boisterous spontaneity.
+- [[frans-hals]] — Dutch contemporary; both were based in Holland, but Vermeer's stillness contrasts sharply with Hals' boisterous spontaneity.
 
 ## see also
 
-- [[rembrandt-van-rijn]] · [[judith-leyster]] · [[franz-hals]]
+- [[rembrandt-van-rijn]] · [[judith-leyster]] · [[frans-hals]]
 
 <!-- crosslinks -->
 ```dataviewjs

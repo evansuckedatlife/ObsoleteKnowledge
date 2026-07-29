@@ -1,7 +1,7 @@
 ---
 type: work
 category: music
-defines: ["Boris Godunov"]
+defines: ["Boris Godunov (opera)"]
 related: ["[[operas]]"]
 requires: []
 lists: ["[[operas]]"]
@@ -9,7 +9,7 @@ tour_order: 0
 read: false
 ---
 
-# Boris Godunov
+# Boris Godunov (opera)
 
 ## summary
 
