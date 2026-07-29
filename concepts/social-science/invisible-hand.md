@@ -3,6 +3,7 @@ type: concept
 category: social-science
 defines: [Invisible Hand, self-interest]
 related: ["[[market-mechanism]]", "[[supply-and-demand]]", "[[perfect-competition]]", "[[market-failure]]"]
+requires: []
 lists: ["[[economic-concepts]]"]
 tour_order: 0
 read: false

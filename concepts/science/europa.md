@@ -3,6 +3,7 @@ type: place
 category: science
 defines: [Europa]
 related: ["[[jupiter]]", "[[galilean-moons]]", "[[subsurface-ocean]]", "[[io]]", "[[ganymede]]", "[[callisto]]"]
+requires: []
 lists: ["[[moons]]"]
 tour_order: 0
 read: false

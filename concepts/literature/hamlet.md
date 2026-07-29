@@ -4,7 +4,7 @@ category: literature
 defines: [Hamlet, "Hamlet, Prince of Denmark"]
 related: ["[[william-shakespeare]]", "[[claudius-hamlet]]", "[[gertrude]]", "[[ghost-hamlet]]", "[[ophelia]]", "[[the-mousetrap]]", "[[revenge-tragedy]]", "[[english-renaissance]]"]
 requires: ["[[william-shakespeare]]"]
-lists: ["[[shakespearean-tragedies]]"]
+lists: []
 tour_order: 1
 read: false
 ---
@@ -78,4 +78,4 @@ dv.view("_dv/tournav")
 
 ---
 
-Lists: [[shakespearean-tragedies]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`

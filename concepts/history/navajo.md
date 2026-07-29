@@ -7,6 +7,7 @@ defines:
 related:
   - "[[native-american-peoples]]"
   - "[[long-walk]]"
+requires: []
 lists:
   - "[[native-american-peoples]]"
 tour_order: 0

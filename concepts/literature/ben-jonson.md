@@ -4,7 +4,7 @@ category: literature
 defines: ["Ben Jonson", "Benjamin Jonson"]
 related: ["[[william-shakespeare]]", "[[volpone]]", "[[the-alchemist]]", "[[english-renaissance]]", "[[elizabethan-theatre]]", "[[comedy-of-humours]]", "[[shakespeare-first-folio]]", "[[england]]", "[[renaissance]]"]
 requires: []
-lists: ["[[english-renaissance-dramatists]]", "[[elizabethan-playwrights]]"]
+lists: ["[[elizabethan-playwrights]]"]
 tour_order: 0
 read: false
 ---
@@ -59,4 +59,4 @@ dv.view("_dv/tournav")
 
 ---
 
-Lists: [[english-renaissance-dramatists]], [[elizabethan-playwrights]] · Mark read: `INPUT[toggle:read]`
+Lists: [[elizabethan-playwrights]] · Mark read: `INPUT[toggle:read]`

@@ -4,9 +4,7 @@ category: sports
 defines: [US Open, United States Open, USGA Open]
 related: ["[[tennis]]", "[[golf]]", "[[roger-federer]]", "[[serena-williams]]", "[[tiger-woods]]", "[[jack-nicklaus]]", "[[united-states]]"]
 requires: []
-lists:
-  - "[[tennis-grand-slams]]"
-  - "[[golf-major-championships]]"
+lists: ["[[tennis-grand-slams]]"]
 tour_order: 0
 read: false
 ---
@@ -58,4 +56,4 @@ dv.view("_dv/tournav")
 
 ---
 
-Lists: [[tennis-grand-slams]], [[golf-major-championships]] · Mark read: `INPUT[toggle:read]`
+Lists: [[tennis-grand-slams]] · Mark read: `INPUT[toggle:read]`

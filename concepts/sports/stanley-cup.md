@@ -4,8 +4,7 @@ category: sports
 defines: [Stanley Cup, Lord Stanley's Cup]
 related: ["[[ice-hockey]]", "[[wayne-gretzky]]", "[[bobby-orr]]", "[[gordie-howe]]", "[[mario-lemieux]]"]
 requires: []
-lists:
-  - "[[ice-hockey-championships]]"
+lists: []
 tour_order: 0
 read: false
 ---
@@ -55,4 +54,4 @@ dv.view("_dv/tournav")
 
 ---
 
-Lists: [[ice-hockey-championships]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`

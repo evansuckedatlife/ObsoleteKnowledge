@@ -4,7 +4,7 @@ category: literature
 defines: ["Sherlock Holmes"]
 related: ["[[arthur-conan-doyle]]", "[[dr-watson]]", "[[baker-street]]", "[[the-adventures-of-sherlock-holmes]]", "[[the-hound-of-the-baskervilles]]", "[[detective-fiction]]", "[[the-final-problem]]", "[[england]]"]
 requires: ["[[arthur-conan-doyle]]"]
-lists: ["[[detective-fiction-protagonists]]"]
+lists: ["[[detective-fiction-characters]]"]
 tour_order: 1
 read: false
 ---
@@ -94,4 +94,4 @@ dv.view("_dv/tournav")
 
 ---
 
-Lists: [[detective-fiction-protagonists]] · Mark read: `INPUT[toggle:read]`
+Lists: [[detective-fiction-characters]] · Mark read: `INPUT[toggle:read]`

@@ -4,7 +4,7 @@ category: literature
 defines: [Euripides]
 related: ["[[medea-play]]", "[[the-bacchae]]", "[[greek-tragedy]]", "[[sophocles]]", "[[aeschylus]]", "[[athens-classical-period]]", "[[ancient-greece]]"]
 requires: []
-lists: ["[[ancient-greek-dramatists]]", "[[greek-tragedians]]"]
+lists: []
 tour_order: 0
 read: false
 ---
@@ -59,4 +59,4 @@ dv.view("_dv/tournav")
 
 ---
 
-Lists: [[ancient-greek-dramatists]], [[greek-tragedians]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`

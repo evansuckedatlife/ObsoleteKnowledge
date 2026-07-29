@@ -4,7 +4,7 @@ category: literature
 defines: ["Arthur Conan Doyle", "Sir Arthur Conan Doyle"]
 related: ["[[sherlock-holmes]]", "[[dr-watson]]", "[[the-adventures-of-sherlock-holmes]]", "[[the-hound-of-the-baskervilles]]", "[[detective-fiction]]", "[[the-final-problem]]", "[[england]]"]
 requires: []
-lists: ["[[victorian-prose-writers]]", "[[mystery-writers]]"]
+lists: []
 tour_order: 0
 read: false
 ---
@@ -54,4 +54,4 @@ dv.view("_dv/tournav")
 
 ---
 
-Lists: [[victorian-prose-writers]], [[mystery-writers]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`

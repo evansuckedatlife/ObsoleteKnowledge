@@ -4,7 +4,7 @@ category: literature
 defines: ["Christopher Marlowe", "Kit Marlowe"]
 related: ["[[william-shakespeare]]", "[[doctor-faustus]]", "[[tamburlaine]]", "[[english-renaissance]]", "[[elizabethan-theatre]]", "[[tragic-hero]]", "[[england]]"]
 requires: ["[[modernism]]"]
-lists: ["[[english-renaissance-dramatists]]", "[[elizabethan-playwrights]]"]
+lists: ["[[elizabethan-playwrights]]"]
 tour_order: 1
 read: false
 ---
@@ -65,4 +65,4 @@ dv.view("_dv/tournav")
 
 ---
 
-Lists: [[english-renaissance-dramatists]], [[elizabethan-playwrights]] · Mark read: `INPUT[toggle:read]`
+Lists: [[elizabethan-playwrights]] · Mark read: `INPUT[toggle:read]`

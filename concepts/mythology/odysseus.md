@@ -61,6 +61,10 @@ Odysseus represents a turning point in heroic literature: the shift from the war
 - [[poseidon]] — the god who cursed him, representing the irrational forces arrayed against human will.
 - [[wisdom-and-cunning]] — Odysseus embodies *metis* (cunning wisdom) as the highest form of heroism.
 
+## see also
+
+- [[achilles]] · [[agamemnon]] · [[hector]] · [[penelope]] · [[aeneas]]
+
 <!-- crosslinks -->
 ```dataviewjs
 dv.view("_dv/crosslinks")

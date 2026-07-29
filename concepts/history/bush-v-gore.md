@@ -8,6 +8,7 @@ related:
   - "[[2000-united-states-presidential-election]]"
   - "[[florida-recount]]"
   - "[[equal-protection-clause]]"
+requires: []
 lists:
   - "[[supreme-court-cases-2]]"
 tour_order: 0

@@ -4,8 +4,7 @@ category: sports
 defines: [New York Yankees, Yankees, Bronx Bombers]
 related: ["[[tom-brady]]", "[[babe-ruth]]", "[[mickey-mantle]]", "[[joe-dimaggio]]", "[[lou-gehrig]]", "[[derek-jeter]]", "[[new-york-city]]"]
 requires: []
-lists:
-  - "[[baseball-teams]]"
+lists: []
 tour_order: 0
 read: false
 ---
@@ -87,4 +86,4 @@ dv.view("_dv/tournav")
 
 ---
 
-Lists: [[baseball-teams]] · Mark read: `INPUT[toggle:read]`
+Lists:  · Mark read: `INPUT[toggle:read]`

@@ -8,6 +8,7 @@ related:
   - "[[salvador-allende]]"
   - "[[hugo-chavez]]"
   - "[[getulio-vargas]]"
+requires: []
 lists:
   - "[[south-american-political-leaders]]"
 tour_order: 0
