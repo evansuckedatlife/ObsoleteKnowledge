@@ -2,6 +2,7 @@
 type: person
 category: music
 defines: ["Igor Stravinsky"]
+aliases: [stravinsky]
 related: ["[[romantic-era-composers]]", "[[ballets]]", "[[modernism]]"]
 requires: []
 lists: ["[[20th-century-composers]]"]

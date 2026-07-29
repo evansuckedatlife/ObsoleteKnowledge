@@ -2,6 +2,7 @@
 type: event
 category: history
 defines: ["Reconstruction"]
+aliases: [reconstruction]
 related: ["[[abraham-lincoln]]", "[[andrew-johnson]]", "[[ulysses-s-grant]]", "[[14th-amendment]]", "[[radical-republicans]]", "[[ku-klux-klan]]", "[[american-civil-war]]"]
 requires: ["[[american-civil-war]]"]
 lists: []

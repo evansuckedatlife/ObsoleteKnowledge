@@ -4,6 +4,7 @@ category: history
 defines:
   - Attack on Pearl Harbor
   - Pearl Harbor
+aliases: [pearl-harbor]
 related: ["[[franklin-d-roosevelt]]", "[[united-states-entry-into-world-war-ii]]", "[[imperial-japanese-navy]]", "[[japan]]"]
 requires: ["[[world-war-ii]]"]
 lists:

@@ -2,6 +2,7 @@
 type: person
 category: history
 defines: ["Charles Cornwallis"]
+aliases: [cornwallis]
 related: ["[[george-washington]]", "[[nathanael-greene]]", "[[yorktown-campaign]]", "[[american-revolution]]", "[[william-howe]]"]
 requires: ["[[american-revolution]]"]
 lists: ["[[revolutionary-war-generals]]"]

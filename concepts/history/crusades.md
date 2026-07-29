@@ -2,6 +2,7 @@
 type: event
 category: history
 defines: [Crusades, Crusading Movement]
+aliases: [the-crusades]
 related: ["[[jerusalem]]", "[[saladin]]", "[[richard-the-lionheart]]", "[[islam]]", "[[byzantine-empire]]", "[[medieval-europe]]", "[[christian-theology]]", "[[muslim-world]]", "[[christianity]]"]
 requires: []
 lists: []

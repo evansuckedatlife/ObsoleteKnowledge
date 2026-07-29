@@ -5,6 +5,7 @@ defines:
   - Pirahã
   - Piraha
   - Múra
+aliases: [piraha]
 related: ["[[amazonian-languages]]", "[[linguistic-relativity]]", "[[indigenous-languages-americas]]", "[[language-contact-amazonia]]"]
 requires: ["[[linguistics]]"]
 lists:

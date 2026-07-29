@@ -5,6 +5,7 @@ defines:
   - Battle of Crécy
   - Crécy
   - Battle of Crecy
+aliases: [battle-of-crecy, crecy]
 related: ["[[hundred-years-war]]", "[[edward-iii]]", "[[philip-vi]]", "[[longbow]]", "[[medieval-feudalism]]", "[[france]]", "[[england]]"]
 requires: []
 lists:

@@ -4,6 +4,7 @@ category: history
 defines:
   - Cold War
   - The Cold War
+aliases: [the-cold-war]
 related:
   - "[[iron-curtain]]"
   - "[[nikita-khrushchev]]"
