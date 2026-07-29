@@ -5,11 +5,12 @@ defines: [Four Freedoms, FDR's freedom speech]
 related: ["[[franklin-delano-roosevelt]]", "[[world-war-ii]]", "[[lend-lease]]"]
 requires: ["[[world-war-ii]]"]
 lists: ["[[modern-speeches]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Four Freedoms
+
 
 
 

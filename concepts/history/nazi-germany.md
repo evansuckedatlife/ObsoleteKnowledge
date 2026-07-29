@@ -8,11 +8,12 @@ defines:
 related: ["[[adolf-hitler]]", "[[world-war-ii]]", "[[holocaust]]", "[[weimar-republic]]", "[[soviet-union]]", "[[fascism]]", "[[the-blitzkrieg]]"]
 requires: ["[[world-war-ii]]"]
 lists: []
-tour_order: 1
+tour_order: 2
 read: true
 ---
 
 # Nazi Germany
+
 
 
 

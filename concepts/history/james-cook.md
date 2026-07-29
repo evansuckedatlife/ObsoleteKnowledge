@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [James Cook, Captain Cook]
 related: ["[[age-of-exploration]]", "[[polynesia]]", "[[british-empire]]"]
-requires: []
+requires: ["[[age-of-exploration]]"]
 lists: ["[[explorers]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # James Cook
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

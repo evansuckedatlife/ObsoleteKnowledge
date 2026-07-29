@@ -3,14 +3,21 @@ type: event
 category: history
 defines: [Sacco and Vanzetti, Sacco-Vanzetti case]
 related: ["[[nicola-sacco]]", "[[bartolomeo-vanzetti]]", "[[anarchism-in-america]]", "[[1920s-american-politics]]"]
-requires: []
+requires: ["[[industrial-revolution]]"]
 lists:
   - "[[american-murders-and-murderers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Sacco and Vanzetti
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

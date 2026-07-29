@@ -5,11 +5,12 @@ defines: ["Katyn", "Katyn Massacre"]
 related: ["[[soviet-union]]", "[[secret-police]]", "[[world-war-ii]]", "[[poland]]", "[[stalin]]"]
 requires: ["[[world-war-ii]]"]
 lists: ["[[massacres]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Katyn
+
 
 
 

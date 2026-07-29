@@ -3,14 +3,21 @@ type: person
 category: history
 defines: [Clement Attlee]
 related: ["[[labour-party]]", "[[welfare-state]]", "[[national-health-service]]", "[[british-empire]]", "[[england]]"]
-requires: []
+requires: ["[[british-empire]]"]
 lists:
   - "[[british-prime-ministers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Clement Attlee
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

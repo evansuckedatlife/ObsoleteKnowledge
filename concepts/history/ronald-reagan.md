@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [Ronald Reagan]
 related: ["[[reaganomics]]", "[[cold-war-end]]", "[[soviet-union-collapse]]", "[[iran-contra]]", "[[star-wars-program]]", "[[reagan-doctrine]]", "[[morning-in-america]]", "[[tear-down-this-wall]]"]
-requires: []
+requires: ["[[cold-war]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Ronald Reagan
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -4,14 +4,21 @@ category: history
 defines:
   - Robert Hanssen
 related: ["[[cold-war]]", "[[fbi]]", "[[soviet-intelligence]]"]
-requires: []
+requires: ["[[cold-war]]"]
 lists:
   - "[[spies]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Robert Hanssen
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

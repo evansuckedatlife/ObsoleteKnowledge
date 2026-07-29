@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [John F. Kennedy, JFK]
 related: ["[[assassination-of-jfk]]", "[[cuban-missile-crisis]]", "[[bay-of-pigs]]", "[[civil-rights-movement]]", "[[cold-war]]", "[[space-race]]", "[[jfk-inauguration]]", "[[lyndon-b-johnson]]", "[[nikita-khrushchev]]"]
-requires: []
+requires: ["[[cold-war]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # John F. Kennedy
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

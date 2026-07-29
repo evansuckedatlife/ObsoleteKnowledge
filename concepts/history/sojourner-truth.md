@@ -5,14 +5,21 @@ defines:
   - Sojourner Truth
   - Isabella Baumfree
 related: ["[[slavery]]", "[[womens-rights]]", "[[abolitionism]]", "[[elizabeth-cady-stanton]]"]
-requires: []
+requires: ["[[american-civil-war]]"]
 lists:
   - "[[feminists]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Sojourner Truth
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

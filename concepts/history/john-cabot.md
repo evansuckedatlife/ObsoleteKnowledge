@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [John Cabot, Giovanni Caboto, Jean Cabot]
 related: ["[[christopher-columbus]]", "[[henry-vii]]", "[[age-of-exploration]]"]
-requires: []
+requires: ["[[age-of-exploration]]"]
 lists: ["[[explorers]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # John Cabot
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

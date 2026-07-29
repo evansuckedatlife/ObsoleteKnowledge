@@ -8,11 +8,12 @@ related: ["[[voting-rights-act]]", "[[section-5]]", "[[voter-suppression]]"]
 requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-concerned-with-african-americans]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Shelby County v. Holder
+
 
 
 

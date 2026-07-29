@@ -7,14 +7,21 @@ defines:
   - Aztec Plague
   - Smallpox Epidemic Indigenous Americas
 related: ["[[spanish-conquest-of-mexico]]", "[[aztec-empire]]", "[[columbian-exchange]]"]
-requires: []
+requires: ["[[age-of-exploration]]"]
 lists:
   - "[[plagues-and-pandemics]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Smallpox in the Americas
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -12,6 +12,7 @@ read: false
 # Assassination of Anwar Sadat
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

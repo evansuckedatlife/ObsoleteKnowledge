@@ -5,14 +5,21 @@ defines:
   - "Simón Bolívar"
   - "El Libertador"
 related: ["[[jose-de-san-martin]]", "[[juan-peron]]", "[[bernardo-ohiggins]]"]
-requires: []
+requires: ["[[napoleon-bonaparte]]"]
 lists:
   - "[[south-american-political-leaders]]"
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Simón Bolívar
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

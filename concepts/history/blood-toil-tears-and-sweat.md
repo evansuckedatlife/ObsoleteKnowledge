@@ -5,11 +5,12 @@ defines: ["Blood, Toil, Tears and Sweat", Churchill's first wartime address]
 related: ["[[winston-churchill]]", "[[world-war-ii]]", "[[neville-chamberlain]]", "[[england]]"]
 requires: ["[[world-war-ii]]"]
 lists: ["[[modern-speeches]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Blood, Toil, Tears and Sweat
+
 
 
 

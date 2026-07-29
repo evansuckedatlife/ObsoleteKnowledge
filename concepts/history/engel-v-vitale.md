@@ -7,11 +7,12 @@ related: ["[[first-amendment]]", "[[establishment-clause]]", "[[separation-of-ch
 requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-2]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Engel v. Vitale
+
 
 
 

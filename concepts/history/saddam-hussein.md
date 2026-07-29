@@ -2,14 +2,21 @@
 type: person
 category: history
 defines: ["Saddam Hussein", "Saddam Hussein al-Tikriti"]
-related: ["[[iraq]]", "[[baath-party]]", "[[iran-iraq-war]]", "[[gulf-war]]", "[[ayatollah-khomeini]]"]
-requires: []
+related: ["[[iraq]]", "[[baath-party]]", "[[iran-iraq-war]]", "[[gulf-war]]", "[[ayatollah-khomeini]]", "[[middle-east]]"]
+requires: ["[[cold-war]]"]
 lists: ["[[20th-century-middle-eastern-leaders]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Saddam Hussein
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

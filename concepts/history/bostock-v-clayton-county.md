@@ -6,11 +6,12 @@ related: ["[[title-vii]]", "[[employment-discrimination]]", "[[obergefell-v-hodg
 requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-involving-lgbt-rights]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Bostock v. Clayton County
+
 
 
 

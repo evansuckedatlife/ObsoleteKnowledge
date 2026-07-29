@@ -5,11 +5,12 @@ defines: ["Mapp v. Ohio", "1961"]
 related: ["[[exclusionary-rule]]", "[[fourth-amendment]]", "[[search-and-seizure]]", "[[due-process]]"]
 requires: ["[[united-states-constitution]]"]
 lists: ["[[supreme-court-cases]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Mapp v. Ohio
+
 
 
 

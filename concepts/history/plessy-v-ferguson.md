@@ -8,11 +8,12 @@ related: ["[[jim-crow-laws]]", "[[dred-scott-v-sandford]]", "[[reconstruction]]"
 requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-concerned-with-african-americans]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Plessy v. Ferguson
+
 
 
 

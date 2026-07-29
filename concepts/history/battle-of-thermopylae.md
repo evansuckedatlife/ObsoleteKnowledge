@@ -13,6 +13,7 @@ aliases: [thermopylae]
 # Battle of Thermopylae
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -5,14 +5,21 @@ defines:
   - Spiro Agnew
   - Spiro Theodore Agnew
 related: ["[[richard-nixon]]", "[[watergate]]"]
-requires: []
+requires: ["[[richard-nixon]]"]
 lists:
   - "[[vice-presidents-who-never-became-president]]"
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Spiro Agnew
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

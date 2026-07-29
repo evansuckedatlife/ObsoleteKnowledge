@@ -5,11 +5,12 @@ defines: ["We Shall Fight on the Beaches", Churchill's defiance speech]
 related: ["[[winston-churchill]]", "[[world-war-ii]]", "[[battle-of-britain]]", "[[england]]"]
 requires: ["[[world-war-ii]]"]
 lists: ["[[modern-speeches]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # We Shall Fight on the Beaches
+
 
 
 

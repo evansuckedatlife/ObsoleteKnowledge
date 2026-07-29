@@ -5,11 +5,12 @@ defines: [First Amendment]
 related: ["[[united-states-constitution]]", "[[bill-of-rights]]", "[[schenck-v-united-states]]", "[[tinker-v-des-moines]]", "[[engel-v-vitale]]", "[[freedom-of-speech]]", "[[freedom-of-religion]]", "[[freedom-of-the-press]]", "[[civil-rights-movement]]"]
 requires: ["[[united-states-constitution]]"]
 lists: []
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # First Amendment
+
 
 
 

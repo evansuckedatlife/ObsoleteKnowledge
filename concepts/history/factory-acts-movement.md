@@ -3,13 +3,20 @@ type: concept
 category: history
 defines: ["Factory Acts movement", "Factory reform movement"]
 related: ["[[chartism]]", "[[industrial-revolution]]", "[[luddites]]", "[[tolpuddle-martyrs]]", "[[british-abolitionism]]"]
-requires: []
+requires: ["[[industrial-revolution]]"]
 lists: ["[[british-reform-movements]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Factory Acts Movement
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

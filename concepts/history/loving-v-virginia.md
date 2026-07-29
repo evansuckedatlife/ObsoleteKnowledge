@@ -8,11 +8,12 @@ related: ["[[miscegenation-laws]]", "[[civil-rights-movement]]", "[[14th-amendme
 requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-concerned-with-african-americans]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Loving v. Virginia
+
 
 
 

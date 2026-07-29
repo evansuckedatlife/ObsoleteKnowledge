@@ -5,11 +5,12 @@ defines: [Equal Protection, Equal Protection Clause]
 related: ["[[14th-amendment]]", "[[united-states-constitution]]", "[[brown-v-board-of-education]]", "[[loving-v-virginia]]", "[[civil-rights-movement]]", "[[racial-discrimination]]", "[[gender-discrimination]]", "[[constitutional-law]]"]
 requires: ["[[united-states-constitution]]"]
 lists: []
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Equal Protection
+
 
 
 

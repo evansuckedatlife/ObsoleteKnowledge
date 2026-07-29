@@ -5,14 +5,21 @@ defines:
   - Lombards
   - Lombard
 related: ["[[theodoric]]", "[[ostrogoths]]", "[[italy]]", "[[charlemagne]]"]
-requires: []
+requires: ["[[roman-empire]]"]
 lists:
   - "[[peoples-of-the-early-middle-ages]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Lombards
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

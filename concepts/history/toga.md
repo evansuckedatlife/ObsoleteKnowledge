@@ -3,15 +3,22 @@ type: practice
 category: history
 defines:
   - Toga
-related: ["[[roman-empire]]", "[[ancient-rome]]", "[[marcus-aurelius]]", "[[rome]]"]
-requires: []
+related: ["[[roman-empire]]", "[[ancient-rome]]", "[[marcus-aurelius]]", "[[rome]]", "[[michelangelo]]"]
+requires: ["[[roman-empire]]"]
 lists:
   - "[[historical-fashions]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Toga
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

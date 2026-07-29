@@ -4,7 +4,7 @@ category: history
 defines:
   - Umayyad Caliphate
   - Umayyad Dynasty
-related: ["[[rashidun-caliphate]]", "[[abbasid-caliphate]]", "[[al-andalus]]", "[[islam]]"]
+related: ["[[rashidun-caliphate]]", "[[abbasid-caliphate]]", "[[al-andalus]]", "[[islam]]", "[[middle-east]]"]
 requires: []
 lists:
   - "[[medieval-islamic-dynasties]]"

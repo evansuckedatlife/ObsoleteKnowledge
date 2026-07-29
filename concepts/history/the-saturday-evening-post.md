@@ -3,13 +3,20 @@ type: work
 category: history
 defines: ["The Saturday Evening Post", "Saturday Evening Post"]
 related: ["[[norman-rockwell]]", "[[advertising]]", "[[american-culture]]"]
-requires: []
+requires: ["[[industrial-revolution]]"]
 lists: ["[[magazines-from-american-history]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The Saturday Evening Post
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -7,14 +7,21 @@ defines:
   - H1N1 Influenza
   - Influenza Pandemic of 1918-1919
 related: ["[[world-war-i]]", "[[pandemic-virology]]", "[[public-health-history]]"]
-requires: []
+requires: ["[[world-war-i]]"]
 lists:
   - "[[plagues-and-pandemics]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Spanish Flu
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

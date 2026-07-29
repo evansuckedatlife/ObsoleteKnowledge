@@ -15,6 +15,7 @@ read: false
 # Augusto Pinochet
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

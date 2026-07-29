@@ -4,14 +4,21 @@ category: history
 defines:
   - "United States v. Nixon"
 related: ["[[watergate-scandal]]", "[[richard-nixon]]", "[[executive-privilege]]"]
-requires: []
+requires: ["[[richard-nixon]]"]
 lists:
   - "[[supreme-court-cases-2]]"
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # United States v. Nixon
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

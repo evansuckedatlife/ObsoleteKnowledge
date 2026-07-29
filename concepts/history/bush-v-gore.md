@@ -15,6 +15,7 @@ read: false
 # Bush v. Gore
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

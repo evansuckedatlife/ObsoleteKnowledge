@@ -4,14 +4,21 @@ category: history
 defines:
   - John C. Calhoun
 related: ["[[andrew-jackson]]", "[[james-k-polk]]", "[[nullification-crisis]]"]
-requires: []
+requires: ["[[american-civil-war]]"]
 lists:
   - "[[vice-presidents-who-never-became-president]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # John C. Calhoun
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

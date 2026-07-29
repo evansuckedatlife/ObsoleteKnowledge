@@ -3,13 +3,20 @@ type: person
 category: history
 defines: ["Mustafa Kemal Atatürk", "Mustafa Kemal", "Kemal Pasha"]
 related: ["[[ottoman-empire]]", "[[turkish-war-of-independence]]", "[[secularism]]"]
-requires: []
+requires: ["[[ottoman-empire]]"]
 lists: ["[[20th-century-middle-eastern-leaders]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Mustafa Kemal Atatürk
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

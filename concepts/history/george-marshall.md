@@ -8,11 +8,12 @@ related: ["[[harry-s-truman]]", "[[marshall-plan]]", "[[cold-war]]", "[[nato]]",
 requires: ["[[world-war-ii]]"]
 lists:
   - "[[secretaries-of-state]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # George Marshall
+
 
 
 

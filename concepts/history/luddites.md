@@ -3,13 +3,20 @@ type: concept
 category: history
 defines: ["Luddites", "Luddism"]
 related: ["[[industrial-revolution]]", "[[chartism]]", "[[factory-acts-movement]]", "[[peterloo]]", "[[british-abolitionism]]"]
-requires: []
+requires: ["[[industrial-revolution]]"]
 lists: ["[[british-reform-movements]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Luddites
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -5,14 +5,21 @@ defines:
   - "Salvador Allende"
   - "Salvador Gossens Allende"
 related: ["[[augusto-pinochet]]", "[[juan-peron]]", "[[hugo-chavez]]"]
-requires: []
+requires: ["[[cold-war]]"]
 lists:
   - "[[south-american-political-leaders]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Salvador Allende
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

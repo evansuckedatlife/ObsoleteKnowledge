@@ -3,13 +3,20 @@ type: event
 category: history
 defines: [Election of 1800, "1800 US presidential election"]
 related: ["[[thomas-jefferson]]", "[[john-adams]]", "[[alexander-hamilton]]", "[[federalist-party]]", "[[democratic-republican-party]]"]
-requires: []
+requires: ["[[american-revolution]]"]
 lists: ["[[elections]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Election of 1800
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

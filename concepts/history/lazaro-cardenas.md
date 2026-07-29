@@ -3,13 +3,20 @@ type: person
 category: history
 defines: ["Lázaro Cárdenas"]
 related: ["[[mexican-revolution]]", "[[emiliano-zapata]]", "[[benito-juarez]]"]
-requires: []
+requires: ["[[mexican-revolution]]"]
 lists: ["[[mexican-leaders]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Lázaro Cárdenas
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

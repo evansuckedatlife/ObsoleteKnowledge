@@ -6,11 +6,12 @@ related: ["[[bowers-v-hardwick]]", "[[obergefell-v-hodges]]", "[[criminalization
 requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-involving-lgbt-rights]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Lawrence v. Texas
+
 
 
 

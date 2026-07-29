@@ -5,11 +5,12 @@ defines: [Battle of Normandy, D-Day, Normandy Invasion]
 related: ["[[world-war-ii]]", "[[western-europe-campaign]]", "[[dwight-eisenhower]]", "[[operation-overlord]]", "[[france]]"]
 requires: ["[[world-war-ii]]"]
 lists: ["[[world-war-ii-battles]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Battle of Normandy
+
 
 
 

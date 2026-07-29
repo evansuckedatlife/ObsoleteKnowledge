@@ -6,11 +6,12 @@ related: ["[[homophile-movement]]", "[[first-amendment]]", "[[postal-censorship]
 requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-involving-lgbt-rights]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # One Inc. v. Olesen
+
 
 
 

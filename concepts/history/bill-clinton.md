@@ -12,6 +12,7 @@ read: false
 # Bill Clinton
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

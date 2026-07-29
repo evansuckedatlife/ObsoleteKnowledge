@@ -5,14 +5,21 @@ defines:
   - Robert Mugabe
   - Robert Gabriel Mugabe
 related: ["[[zimbabwe]]", "[[rhodesia]]", "[[zimbabwean-independence]]"]
-requires: []
+requires: ["[[rhodesia-zimbabwe]]"]
 lists:
   - "[[20th-century-african-leaders]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Robert Mugabe
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

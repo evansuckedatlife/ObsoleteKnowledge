@@ -4,15 +4,22 @@ category: history
 defines:
   - USS Constellation
   - USS Constellation (CV-64)
-related: ["[[aircraft-carrier]]", "[[cold-war]]", "[[kitty-hawk-class]]", "[[vietnam-war]]"]
-requires: []
+related: ["[[aircraft-carrier]]", "[[cold-war]]", "[[kitty-hawk-class]]", "[[vietnam-war]]", "[[nasa]]"]
+requires: ["[[cold-war]]"]
 lists:
   - "[[american-warships]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # USS Constellation
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

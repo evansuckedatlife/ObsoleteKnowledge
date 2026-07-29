@@ -3,14 +3,21 @@ type: concept
 category: history
 defines: [Women's Rights, Women's Liberation]
 related: ["[[suffrage]]", "[[feminism]]", "[[seneca-falls-convention]]", "[[elizabeth-cady-stanton]]", "[[susan-b-anthony]]", "[[nineteenth-amendment]]", "[[equal-rights-amendment]]", "[[title-ix]]"]
-requires: []
+requires: ["[[enlightenment]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 aliases: [womens-liberation, womens-rights-movement]
 ---
 
 # Women's Rights
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

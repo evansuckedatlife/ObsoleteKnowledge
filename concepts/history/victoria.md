@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [Victoria, Queen Victoria, Alexandrina Victoria]
 related: ["[[prince-albert]]", "[[benjamin-disraeli]]", "[[william-gladstone]]", "[[house-of-hanover]]"]
-requires: []
+requires: ["[[british-empire]]"]
 lists: ["[[british-monarchs]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Victoria
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

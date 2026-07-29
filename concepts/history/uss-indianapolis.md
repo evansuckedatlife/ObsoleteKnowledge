@@ -8,11 +8,12 @@ related: ["[[world-war-ii]]", "[[atomic-bomb]]", "[[shark-attack]]", "[[pacific-
 requires: ["[[world-war-ii]]"]
 lists:
   - "[[american-warships]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # USS Indianapolis
+
 
 
 

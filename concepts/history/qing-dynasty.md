@@ -3,13 +3,20 @@ type: event
 category: history
 defines: [Qing Dynasty]
 related: ["[[ming-dynasty]]", "[[manchu-people]]", "[[kangxi-emperor]]", "[[opium-wars]]", "[[mandate-of-heaven]]", "[[china]]"]
-requires: []
+requires: ["[[ming-dynasty]]"]
 lists: ["[[chinese-dynasties]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Qing Dynasty
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

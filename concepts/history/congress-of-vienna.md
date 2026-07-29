@@ -3,13 +3,20 @@ type: event
 category: history
 defines: [Congress of Vienna]
 related: ["[[napoleon-bonaparte]]", "[[metternich]]", "[[alexander-i]]", "[[the-napoleonic-wars]]", "[[conservatism]]", "[[balance-of-power]]", "[[concert-of-europe]]", "[[british-empire]]"]
-requires: []
+requires: ["[[french-revolution]]"]
 lists: []
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Congress of Vienna
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

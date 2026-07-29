@@ -12,6 +12,7 @@ read: false
 # Andrew Jackson
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

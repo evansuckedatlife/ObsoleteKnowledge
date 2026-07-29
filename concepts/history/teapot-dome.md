@@ -3,13 +3,20 @@ type: event
 category: history
 defines: [Teapot Dome, Teapot Dome scandal]
 related: ["[[warren-g-harding]]", "[[albert-b-fall]]", "[[harry-sinclair]]"]
-requires: []
+requires: ["[[industrial-revolution]]"]
 lists: ["[[presidential-scandals]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Teapot Dome
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

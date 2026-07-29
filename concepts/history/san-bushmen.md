@@ -5,7 +5,7 @@ defines:
   - San
   - Bushmen
   - San people
-related: ["[[southern-africa]]", "[[rock-art]]"]
+related: ["[[southern-africa]]", "[[rock-art]]", "[[kalahari-desert]]"]
 requires: []
 lists:
   - "[[indigenous-peoples]]"

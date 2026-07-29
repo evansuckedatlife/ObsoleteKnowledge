@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [John, King John, John Lackland, Jean sans Terre]
 related: ["[[richard-i]]", "[[henry-ii]]", "[[magna-carta]]", "[[barons-war]]", "[[england]]"]
-requires: []
+requires: ["[[house-of-plantagenet]]"]
 lists: ["[[british-monarchs]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # John
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -4,14 +4,21 @@ category: history
 defines:
   - Susan B. Anthony
 related: ["[[elizabeth-cady-stanton]]", "[[suffrage]]", "[[womens-rights]]", "[[temperance-movement]]"]
-requires: []
+requires: ["[[american-civil-war]]"]
 lists:
   - "[[feminists]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Susan B. Anthony
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

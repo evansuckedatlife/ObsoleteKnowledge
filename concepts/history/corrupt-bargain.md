@@ -3,13 +3,20 @@ type: event
 category: history
 defines: ["Corrupt Bargain", "corrupt bargain of 1824"]
 related: ["[[john-quincy-adams]]", "[[henry-clay]]", "[[andrew-jackson]]"]
-requires: []
+requires: ["[[american-revolution]]"]
 lists: ["[[presidential-scandals]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Corrupt Bargain
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

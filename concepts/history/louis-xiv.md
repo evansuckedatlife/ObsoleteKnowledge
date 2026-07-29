@@ -6,14 +6,21 @@ defines:
   - The Sun King
   - Louis the Great
 related: ["[[versailles]]", "[[louis-xiii]]", "[[colbert]]", "[[felix]]", "[[france]]"]
-requires: []
+requires: ["[[louis-xiii]]"]
 lists:
   - "[[kings-of-france]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Louis XIV
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

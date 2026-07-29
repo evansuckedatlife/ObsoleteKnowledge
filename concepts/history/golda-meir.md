@@ -2,14 +2,21 @@
 type: person
 category: history
 defines: ["Golda Meir", "Goldie Mabovitch"]
-related: ["[[israel]]", "[[david-ben-gurion]]", "[[arab-israeli-conflict]]", "[[yom-kippur-war]]"]
-requires: []
+related: ["[[israel]]", "[[david-ben-gurion]]", "[[arab-israeli-conflict]]", "[[yom-kippur-war]]", "[[judaism]]"]
+requires: ["[[arab-israeli-conflict]]"]
 lists: ["[[20th-century-middle-eastern-leaders]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Golda Meir
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

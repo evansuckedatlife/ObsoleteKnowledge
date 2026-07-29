@@ -4,14 +4,21 @@ category: history
 defines:
   - World War II
   - The Second World War
-related: ["[[hitler]]", "[[benito-mussolini]]", "[[franklin-d-roosevelt]]", "[[winston-churchill]]", "[[the-holocaust]]", "[[hiroshima-and-nagasaki]]", "[[d-day]]", "[[pearl-harbor]]", "[[the-atomic-bomb]]", "[[the-cold-war]]"]
-requires: []
+related: ["[[hitler]]", "[[benito-mussolini]]", "[[franklin-d-roosevelt]]", "[[winston-churchill]]", "[[the-holocaust]]", "[[hiroshima-and-nagasaki]]", "[[d-day]]", "[[pearl-harbor]]", "[[the-atomic-bomb]]", "[[the-cold-war]]", "[[albert-einstein]]", "[[dna]]"]
+requires: ["[[world-war-i]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: true
 ---
 
 # World War II
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

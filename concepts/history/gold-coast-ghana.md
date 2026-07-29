@@ -3,14 +3,21 @@ type: place
 category: history
 defines: ["Gold Coast", "Ghana"]
 related: ["[[british-west-africa]]", "[[kwame-nkrumah]]", "[[asante-empire]]", "[[pan-africanism]]"]
-requires: []
+requires: ["[[british-empire]]"]
 lists:
   - "[[countries-once-known-by-different-names]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Gold Coast → Ghana
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -9,11 +9,12 @@ related: ["[[plessy-v-ferguson]]", "[[desegregation]]", "[[civil-rights-movement
 requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-concerned-with-african-americans]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Brown v. Board of Education
+
 
 
 

@@ -3,13 +3,20 @@ type: concept
 category: history
 defines: ["Chartism", "Chartist movement"]
 related: ["[[great-reform-act-of-1832]]", "[[british-abolitionism]]", "[[peterloo]]", "[[factory-acts-movement]]", "[[tolpuddle-martyrs]]", "[[england]]"]
-requires: []
+requires: ["[[british-empire]]"]
 lists: ["[[british-reform-movements]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Chartism
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

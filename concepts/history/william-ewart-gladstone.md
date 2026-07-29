@@ -3,14 +3,21 @@ type: person
 category: history
 defines: [William Ewart Gladstone]
 related: ["[[liberal-party]]", "[[irish-home-rule]]", "[[benjamin-disraeli]]", "[[victorian-era]]", "[[england]]"]
-requires: []
+requires: ["[[british-empire]]"]
 lists:
   - "[[british-prime-ministers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # William Ewart Gladstone
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

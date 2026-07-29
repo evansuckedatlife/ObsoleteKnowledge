@@ -5,14 +5,21 @@ defines:
   - Chuck Yeager
   - Charles Elwood Yeager
 related: ["[[jimmy-doolittle]]", "[[howard-hughes]]"]
-requires: []
+requires: ["[[space-race]]"]
 lists:
   - "[[aviators]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Chuck Yeager
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

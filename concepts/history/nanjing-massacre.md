@@ -5,11 +5,12 @@ defines: ["Nanjing Massacre", "Rape of Nanking", "Massacre of Nanking"]
 related: ["[[second-sino-japanese-war]]", "[[imperial-japan]]", "[[world-war-ii]]", "[[china]]", "[[war-crimes]]", "[[japan]]"]
 requires: ["[[world-war-ii]]"]
 lists: ["[[massacres]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Nanjing Massacre
+
 
 
 

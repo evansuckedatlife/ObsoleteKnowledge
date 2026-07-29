@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [Marco Polo]
 related: ["[[kublai-khan]]", "[[zheng-he]]", "[[mongol-empire]]", "[[china]]"]
-requires: []
+requires: ["[[silk-road]]"]
 lists: ["[[explorers]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Marco Polo
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

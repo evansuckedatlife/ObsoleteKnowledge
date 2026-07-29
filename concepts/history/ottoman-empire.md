@@ -2,7 +2,7 @@
 type: event
 category: history
 defines: [Ottoman Empire]
-related: ["[[mehmed-ii]]", "[[suleiman-the-magnificent]]", "[[fall-of-constantinople]]", "[[byzantine-empire]]", "[[the-crusades]]", "[[the-silk-road]]", "[[austro-hungarian-empire]]", "[[russian-empire]]"]
+related: ["[[mehmed-ii]]", "[[suleiman-the-magnificent]]", "[[fall-of-constantinople]]", "[[byzantine-empire]]", "[[the-crusades]]", "[[the-silk-road]]", "[[austro-hungarian-empire]]", "[[russian-empire]]", "[[islam]]"]
 requires: []
 lists: []
 tour_order: 0

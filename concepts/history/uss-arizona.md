@@ -8,11 +8,12 @@ related: ["[[pearl-harbor]]", "[[world-war-ii]]", "[[battleship]]", "[[december-
 requires: ["[[world-war-ii]]"]
 lists:
   - "[[american-warships]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # USS Arizona
+
 
 
 

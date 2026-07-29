@@ -15,6 +15,7 @@ read: false
 # bell hooks
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -2,7 +2,7 @@
 type: event
 category: history
 defines: [Russian Empire]
-related: ["[[peter-i]]", "[[catherine-ii]]", "[[alexander-i]]", "[[nicholas-i]]", "[[alexander-ii]]", "[[ottoman-empire]]", "[[austro-hungarian-empire]]", "[[the-romanov-dynasty]]", "[[russian-revolution]]"]
+related: ["[[peter-i]]", "[[catherine-ii]]", "[[alexander-i]]", "[[nicholas-i]]", "[[alexander-ii]]", "[[ottoman-empire]]", "[[austro-hungarian-empire]]", "[[the-romanov-dynasty]]", "[[russian-revolution]]", "[[st-petersburg]]"]
 requires: []
 lists: []
 tour_order: 0

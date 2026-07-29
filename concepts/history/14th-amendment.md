@@ -6,11 +6,12 @@ aliases: [fourteenth-amendment, "14th Amendment"]
 related: ["[[united-states-constitution]]", "[[reconstruction-era]]", "[[equal-protection]]", "[[due-process]]", "[[brown-v-board-of-education]]", "[[civil-rights-act-of-1964]]", "[[voting-rights-act-of-1965]]", "[[civil-rights-movement]]"]
 requires: ["[[united-states-constitution]]"]
 lists: []
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Fourteenth Amendment
+
 
 
 

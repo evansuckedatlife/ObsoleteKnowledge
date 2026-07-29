@@ -3,13 +3,20 @@ type: work
 category: history
 defines: ["The Atlantic", "The Atlantic Monthly"]
 related: ["[[american-intellectual-history]]", "[[literary-magazines]]", "[[political-discourse]]"]
-requires: []
+requires: ["[[industrial-revolution]]"]
 lists: ["[[magazines-from-american-history]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The Atlantic
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

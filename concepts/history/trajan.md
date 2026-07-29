@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [Trajan, Imperator Caesar Nerva Trajanus Divi Nervae filius Augustus]
 related: ["[[hadrian]]", "[[nerva]]", "[[trajans-column]]", "[[dacian-wars]]", "[[rome]]"]
-requires: []
+requires: ["[[roman-empire]]"]
 lists: ["[[roman-emperors]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Trajan
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

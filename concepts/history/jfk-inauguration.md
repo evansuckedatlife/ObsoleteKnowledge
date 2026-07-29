@@ -3,13 +3,20 @@ type: event
 category: history
 defines: ["JFK's Inauguration", "John F. Kennedy Inauguration 1961"]
 related: ["[[john-f-kennedy]]", "[[cold-war]]", "[[berlin-wall]]"]
-requires: []
+requires: ["[[john-f-kennedy]]"]
 lists: ["[[presidential-inaugurations]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # JFK's Inauguration
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

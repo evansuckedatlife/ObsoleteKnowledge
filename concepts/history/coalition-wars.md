@@ -3,13 +3,20 @@ type: event
 category: history
 defines: [Coalition Wars, French Revolutionary Wars]
 related: ["[[french-revolution]]", "[[napoleon-bonaparte]]", "[[marie-antoinette]]", "[[great-britain]]", "[[austria]]", "[[russia]]", "[[revolutionary-warfare]]", "[[the-napoleonic-wars]]"]
-requires: []
+requires: ["[[french-revolution]]"]
 lists: []
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Coalition Wars
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

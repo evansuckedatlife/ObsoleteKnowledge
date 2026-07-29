@@ -16,6 +16,7 @@ read: false
 # Battle of Jena-Auerstedt
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

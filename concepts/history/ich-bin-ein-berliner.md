@@ -3,13 +3,20 @@ type: event
 category: history
 defines: ["Ich bin ein Berliner", JFK's Berlin speech]
 related: ["[[john-f-kennedy]]", "[[cold-war]]", "[[berlin-wall]]"]
-requires: []
+requires: ["[[cold-war]]"]
 lists: ["[[modern-speeches]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Ich bin ein Berliner
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

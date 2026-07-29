@@ -9,11 +9,12 @@ related: ["[[affirmative-action]]", "[[equal-protection]]", "[[14th-amendment]]"
 requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-concerned-with-african-americans]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Regents v. Bakke
+
 
 
 

@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [Constantine the Great, Constantine I, Flavius Valerius Constantinus]
 related: ["[[diocletian]]", "[[battle-of-the-milvian-bridge]]", "[[edict-of-milan]]", "[[council-of-nicaea]]", "[[christianity]]", "[[rome]]"]
-requires: []
+requires: ["[[roman-empire]]"]
 lists: ["[[roman-emperors]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Constantine the Great
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

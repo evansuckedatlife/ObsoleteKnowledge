@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [Theodoric, Theodoric the Great, Theodoric of the Ostrogoths]
 related: ["[[ostrogoth]]", "[[roman-empire]]", "[[byzantine-empire]]", "[[zeno]]", "[[barbarian-invasions]]", "[[boethius]]", "[[italy]]", "[[rome]]"]
-requires: []
+requires: ["[[roman-empire]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Theodoric
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

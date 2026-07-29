@@ -2,7 +2,7 @@
 type: person
 category: history
 defines: [Henry VIII]
-related: ["[[catherine-of-aragon]]", "[[anne-boleyn]]", "[[thomas-cromwell]]", "[[english-reformation]]", "[[house-of-tudor]]", "[[england]]"]
+related: ["[[catherine-of-aragon]]", "[[anne-boleyn]]", "[[thomas-cromwell]]", "[[english-reformation]]", "[[house-of-tudor]]", "[[england]]", "[[christianity]]"]
 requires: []
 lists: ["[[british-monarchs]]"]
 tour_order: 0

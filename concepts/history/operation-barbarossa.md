@@ -5,11 +5,12 @@ defines: ["Operation Barbarossa", Barbarossa]
 related: ["[[world-war-ii]]", "[[nazi-germany]]", "[[soviet-union]]", "[[eastern-front]]", "[[adolf-hitler]]"]
 requires: ["[[world-war-ii]]"]
 lists: ["[[world-war-ii-battles]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Operation Barbarossa
+
 
 
 

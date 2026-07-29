@@ -3,7 +3,7 @@ type: person
 category: history
 defines:
   - Howard Hughes
-related: ["[[chuck-yeager]]", "[[wiley-post]]", "[[jimmy-doolittle]]"]
+related: ["[[chuck-yeager]]", "[[wiley-post]]", "[[jimmy-doolittle]]", "[[apollo-program]]"]
 requires: []
 lists:
   - "[[aviators]]"

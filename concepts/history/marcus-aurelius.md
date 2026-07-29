@@ -2,14 +2,21 @@
 type: person
 category: history
 defines: [Marcus Aurelius, Marcus Aurelius Antoninus]
-related: ["[[lucius-verus]]", "[[commodus]]", "[[meditations]]", "[[rome]]"]
-requires: []
+related: ["[[lucius-verus]]", "[[commodus]]", "[[meditations]]", "[[rome]]", "[[stoicism]]"]
+requires: ["[[roman-empire]]"]
 lists: ["[[roman-emperors]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Marcus Aurelius
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

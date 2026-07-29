@@ -6,11 +6,12 @@ related: ["[[world-war-ii]]", "[[british-empire]]", "[[cold-war]]", "[[nazi-germ
 requires: ["[[world-war-ii]]"]
 lists:
   - "[[british-prime-ministers]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Winston Churchill
+
 
 
 

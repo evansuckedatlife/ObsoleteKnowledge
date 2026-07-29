@@ -3,13 +3,20 @@ type: event
 category: history
 defines: ["Massacre of Glencoe", "Glencoe Massacre"]
 related: ["[[scotland]]", "[[clan-system]]", "[[jacobite-rising]]", "[[highland-clearances]]", "[[william-ii]]"]
-requires: []
+requires: ["[[house-of-stuart]]"]
 lists: ["[[massacres]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Massacre of Glencoe
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -3,13 +3,20 @@ type: event
 category: history
 defines: ["I Am Prepared to Die", Mandela's Rivonia Trial statement]
 related: ["[[nelson-mandela]]", "[[apartheid]]", "[[african-national-congress]]"]
-requires: []
+requires: ["[[nelson-mandela]]"]
 lists: ["[[modern-speeches]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # I Am Prepared to Die
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

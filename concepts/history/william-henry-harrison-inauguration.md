@@ -2,7 +2,7 @@
 type: event
 category: history
 defines: ["William Henry Harrison's Inauguration", "Harrison Inauguration 1841"]
-related: ["[[william-henry-harrison]]", "[[john-tyler]]", "[[whig-party]]"]
+related: ["[[william-henry-harrison]]", "[[john-tyler]]", "[[whig-party]]", "[[united-states]]"]
 requires: []
 lists: ["[[presidential-inaugurations]]"]
 tour_order: 0

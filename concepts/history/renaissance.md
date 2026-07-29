@@ -2,7 +2,7 @@
 type: event
 category: history
 defines: ["Renaissance"]
-related: ["[[leonardo-da-vinci]]", "[[michelangelo]]", "[[dante-alighieri]]", "[[petrarch]]", "[[humanisme]]", "[[medici-family]]", "[[florence]]", "[[italian-renaissance]]"]
+related: ["[[leonardo-da-vinci]]", "[[michelangelo]]", "[[dante-alighieri]]", "[[petrarch]]", "[[humanisme]]", "[[medici-family]]", "[[florence]]", "[[italian-renaissance]]", "[[italy]]"]
 requires: []
 lists: []
 tour_order: 0

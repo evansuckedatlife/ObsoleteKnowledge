@@ -5,11 +5,12 @@ defines: ["Gibbons v. Ogden", "1824"]
 related: ["[[interstate-commerce]]", "[[federal-commerce-power]]", "[[steamship-monopoly]]", "[[john-marshall]]"]
 requires: ["[[united-states-constitution]]"]
 lists: ["[[supreme-court-cases]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Gibbons v. Ogden
+
 
 
 

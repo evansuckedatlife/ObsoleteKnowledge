@@ -8,11 +8,12 @@ related: ["[[douglas-macarthur]]", "[[philippines]]", "[[imperial-japanese-army]
 requires: ["[[world-war-ii]]"]
 lists:
   - "[[world-war-ii-pacific-campaigns]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Bataan Death March
+
 
 
 <!-- foundations -->

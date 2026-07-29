@@ -5,11 +5,12 @@ defines: ["Schenck v. United States", "1919"]
 related: ["[[free-speech]]", "[[first-amendment]]", "[[clear-and-present-danger]]", "[[sedition-act-of-1918]]"]
 requires: ["[[united-states-constitution]]"]
 lists: ["[[supreme-court-cases]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Schenck v. United States
+
 
 
 

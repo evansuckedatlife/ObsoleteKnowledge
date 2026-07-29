@@ -3,13 +3,20 @@ type: event
 category: history
 defines: ["Space Race", "The Space Race"]
 related: ["[[yuri-gagarin]]", "[[neil-armstrong]]", "[[wernher-von-braun]]", "[[john-f-kennedy]]", "[[nasa]]", "[[sputnik]]", "[[apollo-11]]", "[[cold-war]]", "[[rocket-science]]", "[[science-fiction]]"]
-requires: []
+requires: ["[[cold-war]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Space Race
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

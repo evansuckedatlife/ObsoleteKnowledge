@@ -3,13 +3,20 @@ type: person
 category: history
 defines: ["Ivan III", "Ivan the Great"]
 related: ["[[moscow-principality]]", "[[ivan-iv]]", "[[ottoman-empire]]", "[[moscow-kremlin]]", "[[golden-horde]]"]
-requires: []
+requires: ["[[russian-empire]]"]
 lists: ["[[russian-tsars]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Ivan III
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

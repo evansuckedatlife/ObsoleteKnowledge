@@ -13,6 +13,7 @@ aliases: [plataea]
 # Battle of Plataea
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -16,6 +16,7 @@ read: false
 # Almohad Caliphate
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

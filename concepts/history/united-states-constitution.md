@@ -3,13 +3,20 @@ type: text
 category: history
 defines: [United States Constitution]
 related: ["[[separation-of-powers]]", "[[first-amendment]]", "[[14th-amendment]]", "[[bill-of-rights]]", "[[supreme-court]]", "[[checks-and-balances]]", "[[federalism]]"]
-requires: []
+requires: ["[[american-revolution]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # United States Constitution
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

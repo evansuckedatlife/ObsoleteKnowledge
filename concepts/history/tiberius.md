@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [Tiberius, Tiberius Caesar Augustus, Tiberius Claudius Nero]
 related: ["[[augustus]]", "[[caligula]]", "[[sejanus]]", "[[jesus]]", "[[rome]]"]
-requires: []
+requires: ["[[roman-empire]]"]
 lists: ["[[roman-emperors]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Tiberius
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

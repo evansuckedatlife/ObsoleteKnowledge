@@ -3,15 +3,22 @@ type: person
 category: history
 defines:
   - Wiley Post
-related: ["[[howard-hughes]]", "[[charles-lindbergh]]", "[[amelia-earhart]]"]
-requires: []
+related: ["[[howard-hughes]]", "[[charles-lindbergh]]", "[[amelia-earhart]]", "[[albert-einstein]]"]
+requires: ["[[industrial-revolution]]"]
 lists:
   - "[[aviators]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Wiley Post
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -3,13 +3,20 @@ type: event
 category: history
 defines: ["Great Reform Act of 1832", "Reform Act of 1832"]
 related: ["[[chartism]]", "[[peterloo]]", "[[british-abolitionism]]", "[[william-ewart-gladstone]]", "[[robert-peel]]", "[[england]]"]
-requires: []
+requires: ["[[british-empire]]"]
 lists: ["[[british-reform-movements]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Great Reform Act of 1832
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

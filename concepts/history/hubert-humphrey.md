@@ -5,14 +5,21 @@ defines:
   - Hubert Humphrey
   - Hubert Horatio Humphrey
 related: ["[[lyndon-b-johnson]]", "[[richard-nixon]]", "[[the-vietnam-war]]"]
-requires: []
+requires: ["[[cold-war]]"]
 lists:
   - "[[vice-presidents-who-never-became-president]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Hubert Humphrey
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -5,14 +5,21 @@ defines:
   - Francis I
   - François Ier
 related: ["[[renaissance]]", "[[holy-roman-empire]]", "[[charles-v]]", "[[italian-wars]]", "[[france]]"]
-requires: []
+requires: ["[[renaissance]]"]
 lists:
   - "[[kings-of-france]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Francis I
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

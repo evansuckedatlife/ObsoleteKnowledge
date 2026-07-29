@@ -3,13 +3,20 @@ type: person
 category: history
 defines: ["Nicholas I"]
 related: ["[[alexander-i]]", "[[alexander-ii]]", "[[crimean-war]]", "[[decembrist-revolt]]", "[[official-nationality]]"]
-requires: []
+requires: ["[[russian-empire]]"]
 lists: ["[[russian-tsars]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Nicholas I
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

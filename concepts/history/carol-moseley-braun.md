@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [Carol Moseley Braun]
 related: ["[[united-states-senate]]", "[[illinois]]", "[[united-states-ambassador]]"]
-requires: []
+requires: ["[[civil-rights-movement]]"]
 lists: ["[[black-american-legislators]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Carol Moseley Braun
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

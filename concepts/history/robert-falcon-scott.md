@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [Robert Falcon Scott]
 related: ["[[antarctic-exploration]]", "[[roald-amundsen]]", "[[south-pole]]", "[[world-war-i]]", "[[antarctica]]"]
-requires: []
+requires: ["[[age-of-exploration]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Robert Falcon Scott
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

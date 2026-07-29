@@ -5,11 +5,12 @@ defines: [Douglas MacArthur]
 related: ["[[world-war-ii]]", "[[korean-war]]", "[[harry-s-truman]]", "[[imperial-japan]]", "[[philippines]]", "[[atomic-bomb]]", "[[japan]]"]
 requires: ["[[world-war-ii]]"]
 lists: []
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Douglas MacArthur
+
 
 
 

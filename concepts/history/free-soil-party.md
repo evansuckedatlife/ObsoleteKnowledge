@@ -4,14 +4,21 @@ category: history
 defines:
   - Free Soil Party
 related: ["[[slavery-expansion-debate]]", "[[martin-van-buren]]", "[[american-third-parties]]"]
-requires: []
+requires: ["[[american-civil-war]]"]
 lists:
   - "[[american-third-parties]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Free Soil Party
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -5,11 +5,12 @@ defines: ["My Lai", "My Lai Massacre"]
 related: ["[[vietnam-war]]", "[[william-calley]]", "[[u-s-military-crimes]]", "[[operation-wheeler-wallowa]]", "[[war-crimes-tribunal]]"]
 requires: ["[[vietnam-war]]"]
 lists: ["[[massacres]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # My Lai
+
 
 
 

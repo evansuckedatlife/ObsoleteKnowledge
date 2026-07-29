@@ -5,11 +5,12 @@ defines: [Battle of Stalingrad, Stalingrad]
 related: ["[[operation-barbarossa]]", "[[soviet-union]]", "[[nazi-germany]]", "[[world-war-ii]]", "[[eastern-front]]"]
 requires: ["[[world-war-ii]]"]
 lists: ["[[world-war-ii-battles]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Battle of Stalingrad
+
 
 
 

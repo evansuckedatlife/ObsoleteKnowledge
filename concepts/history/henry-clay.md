@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [Henry Clay]
 related: ["[[andrew-jackson]]", "[[daniel-webster]]", "[[john-c-calhoun]]", "[[missouri-compromise]]", "[[compromise-of-1850]]", "[[american-system]]", "[[war-of-1812]]"]
-requires: []
+requires: ["[[american-revolution]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Henry Clay
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

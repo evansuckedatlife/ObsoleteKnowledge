@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [Nero, Nero Claudius Caesar Augustus Germanicus]
 related: ["[[claudius]]", "[[agrippina-the-younger]]", "[[great-fire-of-rome]]", "[[boudica]]", "[[rome]]"]
-requires: []
+requires: ["[[roman-empire]]"]
 lists: ["[[roman-emperors]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Nero
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

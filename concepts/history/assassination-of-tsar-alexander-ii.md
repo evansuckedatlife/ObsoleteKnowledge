@@ -12,6 +12,7 @@ read: false
 # Assassination of Tsar Alexander II
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

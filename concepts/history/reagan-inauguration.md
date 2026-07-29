@@ -3,13 +3,20 @@ type: event
 category: history
 defines: ["Reagan's Inauguration", "Ronald Reagan Inauguration 1981"]
 related: ["[[ronald-reagan]]", "[[cold-war]]", "[[american-conservatism]]"]
-requires: []
+requires: ["[[cold-war]]", "[[ronald-reagan]]"]
 lists: ["[[presidential-inaugurations]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Reagan's Inauguration
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

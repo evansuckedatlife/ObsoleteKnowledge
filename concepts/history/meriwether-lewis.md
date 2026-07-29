@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [Meriwether Lewis]
 related: ["[[william-clark]]", "[[thomas-jefferson]]", "[[louisiana-purchase]]"]
-requires: []
+requires: ["[[louisiana-purchase]]"]
 lists: ["[[explorers]]"]
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Meriwether Lewis
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

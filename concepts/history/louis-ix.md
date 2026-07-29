@@ -6,14 +6,21 @@ defines:
   - Saint Louis
   - Louis the Pious
 related: ["[[crusades]]", "[[medieval-france]]", "[[papal-authority]]", "[[canonization]]"]
-requires: []
+requires: ["[[crusades]]"]
 lists:
   - "[[kings-of-france]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Louis IX
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -2,14 +2,21 @@
 type: event
 category: history
 defines: ["XYZ Affair", "X.Y.Z. Affair", "French diplomatic crisis"]
-related: ["[[john-adams]]", "[[charles-maurice-de-talleyrand]]", "[[quasi-war]]"]
-requires: []
+related: ["[[john-adams]]", "[[charles-maurice-de-talleyrand]]", "[[quasi-war]]", "[[france]]"]
+requires: ["[[american-revolution]]"]
 lists: ["[[presidential-scandals]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # XYZ Affair
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

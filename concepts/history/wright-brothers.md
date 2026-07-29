@@ -5,15 +5,22 @@ defines:
   - Wright Brothers
   - Orville Wright
   - Wilbur Wright
-related: ["[[glenn-curtiss]]", "[[charles-lindbergh]]"]
-requires: []
+related: ["[[glenn-curtiss]]", "[[charles-lindbergh]]", "[[albert-einstein]]"]
+requires: ["[[industrial-revolution]]"]
 lists:
   - "[[aviators]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Wright Brothers
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

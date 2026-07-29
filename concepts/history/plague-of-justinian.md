@@ -5,14 +5,21 @@ defines:
   - Plague of Justinian
   - Justinianic Plague
 related: ["[[black-death]]", "[[byzantine-empire]]", "[[justinian-i]]"]
-requires: []
+requires: ["[[byzantine-empire]]"]
 lists:
   - "[[plagues-and-pandemics]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Plague of Justinian
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

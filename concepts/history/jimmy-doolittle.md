@@ -8,11 +8,12 @@ related: ["[[chuck-yeager]]", "[[eddie-rickenbacker]]", "[[howard-hughes]]"]
 requires: ["[[world-war-ii]]"]
 lists:
   - "[[aviators]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Jimmy Doolittle
+
 
 
 

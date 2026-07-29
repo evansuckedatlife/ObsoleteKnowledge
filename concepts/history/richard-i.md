@@ -2,14 +2,21 @@
 type: person
 category: history
 defines: [Richard I, Richard the Lionheart, Richard Coeur de Lion]
-related: ["[[henry-ii]]", "[[king-john]]", "[[saladin]]", "[[third-crusade]]"]
-requires: []
+related: ["[[henry-ii]]", "[[king-john]]", "[[saladin]]", "[[third-crusade]]", "[[france]]"]
+requires: ["[[crusades]]"]
 lists: ["[[british-monarchs]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Richard I
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

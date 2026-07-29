@@ -3,13 +3,20 @@ type: event
 category: history
 defines: [Election of 1932, "1932 US presidential election"]
 related: ["[[franklin-d-roosevelt]]", "[[herbert-hoover]]", "[[great-depression]]", "[[new-deal]]", "[[democratic-realignment]]"]
-requires: []
+requires: ["[[great-depression]]"]
 lists: ["[[elections]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Election of 1932
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

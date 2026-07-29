@@ -3,14 +3,21 @@ type: person
 category: history
 defines: [Tony Blair]
 related: ["[[labour-party]]", "[[devolution]]", "[[iraq-war]]", "[[northern-ireland-peace-process]]"]
-requires: []
+requires: ["[[cold-war]]"]
 lists:
   - "[[british-prime-ministers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Tony Blair
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

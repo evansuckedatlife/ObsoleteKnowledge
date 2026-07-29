@@ -5,14 +5,21 @@ defines:
   - The Cambridge Five
   - Cambridge Spy Ring
 related: ["[[kim-philby]]", "[[donald-maclean]]", "[[soviet-intelligence]]", "[[british-intelligence]]"]
-requires: []
+requires: ["[[cold-war]]"]
 lists:
   - "[[spies]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The Cambridge Five
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

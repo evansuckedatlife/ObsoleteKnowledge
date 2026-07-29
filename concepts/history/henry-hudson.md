@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [Henry Hudson]
 related: ["[[age-of-exploration]]", "[[arctic-exploration]]", "[[hudson-bay]]"]
-requires: []
+requires: ["[[age-of-exploration]]"]
 lists: ["[[explorers]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Henry Hudson
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

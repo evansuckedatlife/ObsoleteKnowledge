@@ -4,14 +4,21 @@ category: history
 defines:
   - Madeleine Albright
 related: ["[[bill-clinton]]", "[[nato-expansion-1990s]]", "[[bosnian-war]]", "[[kosovo-war]]", "[[post-cold-war-order]]"]
-requires: []
+requires: ["[[cold-war]]"]
 lists:
   - "[[secretaries-of-state]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Madeleine Albright
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

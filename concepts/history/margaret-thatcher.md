@@ -3,14 +3,21 @@ type: person
 category: history
 defines: [Margaret Thatcher]
 related: ["[[conservative-party]]", "[[cold-war]]", "[[falkland-islands-war]]", "[[trade-union-movement]]"]
-requires: []
+requires: ["[[cold-war]]"]
 lists:
   - "[[british-prime-ministers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Margaret Thatcher
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -3,13 +3,20 @@ type: person
 category: history
 defines: ["Lyndon B. Johnson", "LBJ"]
 related: ["[[john-f-kennedy]]", "[[great-society]]", "[[civil-rights-act-of-1964]]", "[[voting-rights-act]]", "[[vietnam-war]]", "[[martin-luther-king-jr]]"]
-requires: []
+requires: ["[[cold-war]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Lyndon B. Johnson
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

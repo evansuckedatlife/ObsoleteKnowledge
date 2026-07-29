@@ -6,11 +6,12 @@ related: ["[[masterpiece-cakeshop-v-colorado]]", "[[religious-freedom]]", "[[pub
 requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-involving-lgbt-rights]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # 303 Creative v. Elenis
+
 
 
 

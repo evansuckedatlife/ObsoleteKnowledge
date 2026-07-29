@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [Ferdinand Magellan, Fernão de Magalhães]
 related: ["[[christopher-columbus]]", "[[age-of-exploration]]", "[[philippines]]", "[[spain]]"]
-requires: []
+requires: ["[[age-of-exploration]]"]
 lists: ["[[explorers]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Ferdinand Magellan
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

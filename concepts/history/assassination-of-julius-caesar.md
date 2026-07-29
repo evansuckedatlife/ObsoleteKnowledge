@@ -12,6 +12,7 @@ read: false
 # Assassination of Julius Caesar
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

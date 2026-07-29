@@ -4,15 +4,22 @@ category: history
 defines:
   - Vandals
   - Vandal
-related: ["[[gaiseric]]", "[[roman-empire]]", "[[north-africa]]", "[[mediterranean]]", "[[rome]]"]
-requires: []
+related: ["[[gaiseric]]", "[[roman-empire]]", "[[north-africa]]", "[[mediterranean]]", "[[rome]]", "[[iberian-peninsula]]"]
+requires: ["[[roman-empire]]"]
 lists:
   - "[[peoples-of-the-early-middle-ages]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Vandals
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

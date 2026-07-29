@@ -5,14 +5,21 @@ defines:
   - Rashidun Caliphate
   - Rightly Guided Caliphates
 related: ["[[umayyad-caliphate]]", "[[abbasid-caliphate]]", "[[muhammad]]", "[[islam]]"]
-requires: []
+requires: ["[[islam]]"]
 lists:
   - "[[medieval-islamic-dynasties]]"
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Rashidun Caliphate
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

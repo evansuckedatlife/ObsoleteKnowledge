@@ -5,14 +5,21 @@ defines:
   - Louis XIII
   - Louis the Just
 related: ["[[henry-iv]]", "[[richelieu]]", "[[louis-xiv]]", "[[thirty-years-war]]", "[[france]]"]
-requires: []
+requires: ["[[house-of-valois]]"]
 lists:
   - "[[kings-of-france]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Louis XIII
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

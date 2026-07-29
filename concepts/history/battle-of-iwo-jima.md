@@ -7,11 +7,12 @@ related: ["[[douglas-macarthur]]", "[[united-states-marine-corps]]", "[[japan-wo
 requires: ["[[world-war-ii]]"]
 lists:
   - "[[world-war-ii-pacific-campaigns]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Battle of Iwo Jima
+
 
 
 <!-- foundations -->

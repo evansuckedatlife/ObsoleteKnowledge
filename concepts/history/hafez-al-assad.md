@@ -3,13 +3,20 @@ type: person
 category: history
 defines: ["Hafez al-Assad", "Hafez al-Asad", "Hafez Assad"]
 related: ["[[syria]]", "[[baath-party]]", "[[arab-israeli-conflict]]", "[[lebanese-civil-war]]", "[[saddam-hussein]]"]
-requires: []
+requires: ["[[arab-israeli-conflict]]"]
 lists: ["[[20th-century-middle-eastern-leaders]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Hafez al-Assad
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

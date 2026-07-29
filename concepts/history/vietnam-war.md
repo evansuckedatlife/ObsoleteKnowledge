@@ -3,13 +3,20 @@ type: event
 category: history
 defines: ["Vietnam War", "Indochina War"]
 related: ["[[ho-chi-minh]]", "[[lyndon-b-johnson]]", "[[richard-nixon]]", "[[tet-offensive]]", "[[gulf-of-tonkin]]", "[[operation-rolling-thunder]]", "[[anti-war-movement]]", "[[hippie-culture]]", "[[tom-hayden]]", "[[joan-baez]]"]
-requires: []
+requires: ["[[cold-war]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Vietnam War
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

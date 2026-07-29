@@ -3,13 +3,20 @@ type: event
 category: history
 defines: [Election of 1960, "1960 US presidential election"]
 related: ["[[john-f-kennedy]]", "[[richard-nixon]]", "[[cold-war]]", "[[television-debate]]", "[[civil-rights]]"]
-requires: []
+requires: ["[[cold-war]]"]
 lists: ["[[elections]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Election of 1960
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

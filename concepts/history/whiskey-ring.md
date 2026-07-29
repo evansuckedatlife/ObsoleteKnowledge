@@ -3,13 +3,20 @@ type: event
 category: history
 defines: ["Whiskey Ring", "Whiskey Rebellion", "whiskey scandal"]
 related: ["[[ulysses-s-grant]]", "[[treasury-department]]", "[[benjamin-bristow]]"]
-requires: []
+requires: ["[[reconstruction-era]]"]
 lists: ["[[presidential-scandals]]"]
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Whiskey Ring
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

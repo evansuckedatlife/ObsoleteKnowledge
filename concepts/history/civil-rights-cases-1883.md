@@ -9,11 +9,12 @@ related: ["[[14th-amendment]]", "[[reconstruction]]", "[[civil-rights-act-of-187
 requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-concerned-with-african-americans]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # The Civil Rights Cases (1883)
+
 
 
 

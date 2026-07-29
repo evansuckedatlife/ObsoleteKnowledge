@@ -4,14 +4,21 @@ category: history
 defines:
   - Christopher Columbus
 related: ["[[marco-polo]]", "[[age-of-exploration]]", "[[conquistadors]]", "[[spain]]"]
-requires: []
+requires: ["[[age-of-exploration]]"]
 lists:
   - "[[explorers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Christopher Columbus
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

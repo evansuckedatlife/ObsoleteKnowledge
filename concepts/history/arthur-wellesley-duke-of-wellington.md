@@ -13,6 +13,7 @@ read: false
 # Arthur Wellesley, Duke of Wellington
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

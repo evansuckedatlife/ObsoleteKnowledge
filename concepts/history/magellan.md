@@ -3,13 +3,20 @@ type: person
 category: history
 defines: ["Ferdinand Magellan"]
 related: ["[[age-of-exploration]]", "[[circumnavigation]]", "[[spice-trade]]", "[[juan-sebastian-el-cano]]", "[[treaty-of-tordesillas]]"]
-requires: []
+requires: ["[[age-of-exploration]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Ferdinand Magellan
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

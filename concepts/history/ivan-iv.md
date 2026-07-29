@@ -3,13 +3,20 @@ type: person
 category: history
 defines: ["Ivan IV", "Ivan the Terrible"]
 related: ["[[peter-i]]", "[[alexander-i]]", "[[moscow-principality]]", "[[oprichnina]]", "[[russo-kazan-war]]"]
-requires: []
+requires: ["[[ivan-iii]]"]
 lists: ["[[russian-tsars]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Ivan IV
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

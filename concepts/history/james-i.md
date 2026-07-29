@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [James I, James VI of Scotland, James VI and I]
 related: ["[[elizabeth-i]]", "[[charles-i]]", "[[gunpowder-plot]]", "[[house-of-stuart]]", "[[england]]"]
-requires: []
+requires: ["[[house-of-stuart]]"]
 lists: ["[[british-monarchs]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # James I
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

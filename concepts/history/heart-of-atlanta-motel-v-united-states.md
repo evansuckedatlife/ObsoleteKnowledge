@@ -8,11 +8,12 @@ related: ["[[civil-rights-act-of-1964]]", "[[commerce-clause]]", "[[public-accom
 requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-concerned-with-african-americans]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Heart of Atlanta Motel v. United States
+
 
 
 

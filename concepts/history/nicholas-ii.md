@@ -5,11 +5,12 @@ defines: ["Nicholas II"]
 related: ["[[alexander-iii]]", "[[russian-revolution-1917]]", "[[russo-japanese-war]]", "[[october-manifesto-1905]]", "[[romanov-dynasty]]"]
 requires: ["[[russian-revolution]]"]
 lists: ["[[russian-tsars]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Nicholas II
+
 
 
 

@@ -15,6 +15,7 @@ read: false
 # Booker T. Washington
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

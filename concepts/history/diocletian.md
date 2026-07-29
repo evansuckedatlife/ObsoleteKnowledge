@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [Diocletian, Gaius Aurelius Valerius Diocletianus]
 related: ["[[maximian]]", "[[constantine-the-great]]", "[[tetrarchy]]", "[[diocletianic-persecution]]", "[[rome]]"]
-requires: []
+requires: ["[[roman-empire]]"]
 lists: ["[[roman-emperors]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Diocletian
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

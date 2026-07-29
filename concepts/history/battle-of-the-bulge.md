@@ -5,11 +5,12 @@ defines: [Battle of the Bulge, Ardennes Offensive]
 related: ["[[world-war-ii]]", "[[western-europe-campaign]]", "[[nazi-germany]]", "[[dwight-eisenhower]]", "[[belgium]]", "[[france]]"]
 requires: ["[[world-war-ii]]"]
 lists: ["[[world-war-ii-battles]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Battle of the Bulge
+
 
 
 

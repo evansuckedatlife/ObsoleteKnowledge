@@ -5,11 +5,12 @@ defines: ["Miranda v. Arizona", "1966"]
 related: ["[[fifth-amendment]]", "[[self-incrimination]]", "[[criminal-procedure]]", "[[miranda-rights]]"]
 requires: ["[[united-states-constitution]]"]
 lists: ["[[supreme-court-cases]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Miranda v. Arizona
+
 
 
 

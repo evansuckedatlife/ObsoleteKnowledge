@@ -15,6 +15,7 @@ read: false
 # Bull Moose Party
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

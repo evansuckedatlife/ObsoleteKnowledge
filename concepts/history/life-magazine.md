@@ -2,7 +2,7 @@
 type: work
 category: history
 defines: ["Life", "Life Magazine"]
-related: ["[[henry-luce]]", "[[magazine-photography]]", "[[american-visual-culture]]"]
+related: ["[[henry-luce]]", "[[magazine-photography]]", "[[american-visual-culture]]", "[[ansel-adams]]", "[[alfred-stieglitz]]"]
 requires: []
 lists: ["[[magazines-from-american-history]]"]
 tour_order: 0

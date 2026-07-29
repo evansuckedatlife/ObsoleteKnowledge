@@ -5,11 +5,12 @@ defines: ["Marbury v. Madison", "1803"]
 related: ["[[judicial-review]]", "[[separation-of-powers]]", "[[john-marshall]]", "[[thomas-jefferson]]"]
 requires: ["[[united-states-constitution]]"]
 lists: ["[[supreme-court-cases]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Marbury v. Madison
+
 
 
 

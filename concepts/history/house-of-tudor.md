@@ -3,14 +3,21 @@ type: concept
 category: history
 defines: ["House of Tudor", "Tudor Dynasty"]
 related: ["[[henry-viii]]", "[[elizabeth-i]]", "[[english-reformation]]", "[[spanish-armada]]", "[[wars-of-roses]]", "[[england]]"]
-requires: []
+requires: ["[[house-of-plantagenet]]"]
 lists:
   - "[[european-royal-families]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # House of Tudor
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

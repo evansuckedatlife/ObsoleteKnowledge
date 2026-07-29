@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [Roald Amundsen]
 related: ["[[robert-falcon-scott]]", "[[south-pole]]", "[[arctic-exploration]]", "[[antarctica]]"]
-requires: []
+requires: ["[[age-of-exploration]]"]
 lists: ["[[explorers]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Roald Amundsen
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

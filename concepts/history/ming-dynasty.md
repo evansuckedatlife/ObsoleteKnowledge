@@ -3,13 +3,20 @@ type: event
 category: history
 defines: [Ming Dynasty]
 related: ["[[yuan-dynasty]]", "[[qing-dynasty]]", "[[zhu-yuanzhang]]", "[[forbidden-city]]", "[[zheng-he]]", "[[great-wall-of-china]]", "[[china]]"]
-requires: []
+requires: ["[[mongol-empire]]"]
 lists: ["[[chinese-dynasties]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Ming Dynasty
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

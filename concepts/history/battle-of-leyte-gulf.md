@@ -7,11 +7,12 @@ related: ["[[battle-of-midway]]", "[[douglas-macarthur]]", "[[philippines]]", "[
 requires: ["[[world-war-ii]]"]
 lists:
   - "[[world-war-ii-pacific-campaigns]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Battle of Leyte Gulf
+
 
 
 <!-- foundations -->

@@ -3,13 +3,20 @@ type: concept
 category: history
 defines: ["Levellers", "Leveller movement"]
 related: ["[[english-civil-war]]", "[[oliver-cromwell]]", "[[thomas-hobbes]]", "[[republicanism]]", "[[chartism]]"]
-requires: []
+requires: ["[[enlightenment]]"]
 lists: ["[[british-reform-movements]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Levellers
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

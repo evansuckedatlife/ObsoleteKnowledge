@@ -14,6 +14,7 @@ read: false
 # Anti-Masonic Party
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -5,11 +5,12 @@ defines: [Battle of Britain]
 related: ["[[nazi-germany]]", "[[united-kingdom]]", "[[world-war-ii]]", "[[luftwaffe]]", "[[royal-air-force]]", "[[england]]", "[[germany]]"]
 requires: ["[[world-war-ii]]"]
 lists: ["[[world-war-ii-battles]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Battle of Britain
+
 
 
 

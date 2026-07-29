@@ -3,13 +3,20 @@ type: work
 category: history
 defines: ["Time", "Time Magazine"]
 related: ["[[henry-luce]]", "[[news-media]]", "[[twentieth-century-journalism]]"]
-requires: []
+requires: ["[[industrial-revolution]]"]
 lists: ["[[magazines-from-american-history]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Time Magazine
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

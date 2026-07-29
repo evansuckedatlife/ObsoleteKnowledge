@@ -9,11 +9,12 @@ related: ["[[aircraft-carrier]]", "[[world-war-ii]]", "[[pearl-harbor]]", "[[bat
 requires: ["[[world-war-ii]]"]
 lists:
   - "[[american-warships]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # USS Enterprise (CV-6)
+
 
 
 

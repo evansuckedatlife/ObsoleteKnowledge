@@ -3,14 +3,21 @@ type: person
 category: history
 defines: [Robert Walpole, 1st Earl of Orford]
 related: ["[[george-i]]", "[[whig-party]]", "[[british-parliament]]", "[[england]]"]
-requires: []
+requires: ["[[british-empire]]"]
 lists:
   - "[[british-prime-ministers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Robert Walpole
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

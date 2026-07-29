@@ -3,13 +3,20 @@ type: person
 category: history
 defines: ["Mohammad Reza Pahlavi", "The Shah", "Shah Mohammad Reza Pahlavi"]
 related: ["[[iran]]", "[[ayatollah-khomeini]]", "[[islamic-revolution]]", "[[white-revolution]]"]
-requires: []
+requires: ["[[cold-war]]"]
 lists: ["[[20th-century-middle-eastern-leaders]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Mohammad Reza Pahlavi
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

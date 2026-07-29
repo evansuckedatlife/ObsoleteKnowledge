@@ -3,13 +3,20 @@ type: work
 category: history
 defines: ["The New Yorker", "New Yorker"]
 related: ["[[harold-ross]]", "[[literary-magazines]]", "[[american-humor-and-satire]]", "[[modernism]]"]
-requires: []
+requires: ["[[industrial-revolution]]"]
 lists: ["[[magazines-from-american-history]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The New Yorker
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

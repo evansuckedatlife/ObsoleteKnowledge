@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [Theodore Roosevelt]
 related: ["[[progressive-era]]", "[[conservation-movement]]", "[[american-imperialism]]", "[[panama-canal]]", "[[trust-busting]]", "[[bull-moose-party]]", "[[roosevelt-corollary]]", "[[square-deal]]"]
-requires: []
+requires: ["[[industrial-revolution]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Theodore Roosevelt
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -3,13 +3,20 @@ type: event
 category: history
 defines: ["Iran-Contra", "Iran-Contra affair"]
 related: ["[[ronald-reagan]]", "[[oliver-north]]", "[[john-poindexter]]", "[[iran-iraq-war]]"]
-requires: []
+requires: ["[[cold-war]]"]
 lists: ["[[presidential-scandals]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Iran-Contra
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

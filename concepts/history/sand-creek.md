@@ -2,14 +2,21 @@
 type: event
 category: history
 defines: ["Sand Creek", "Sand Creek Massacre"]
-related: ["[[cheyenne]]", "[[arapaho]]", "[[colorado-territory]]", "[[indian-wars]]", "[[john-m-chivington]]"]
-requires: []
+related: ["[[cheyenne]]", "[[arapaho]]", "[[colorado-territory]]", "[[indian-wars]]", "[[john-m-chivington]]", "[[united-states]]"]
+requires: ["[[american-civil-war]]"]
 lists: ["[[massacres]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Sand Creek
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

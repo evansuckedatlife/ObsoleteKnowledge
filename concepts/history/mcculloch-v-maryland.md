@@ -5,11 +5,12 @@ defines: ["McCulloch v. Maryland", "1819"]
 related: ["[[federal-power]]", "[[implied-powers]]", "[[federalism]]", "[[second-bank-of-the-united-states]]"]
 requires: ["[[united-states-constitution]]"]
 lists: ["[[supreme-court-cases]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # McCulloch v. Maryland
+
 
 
 

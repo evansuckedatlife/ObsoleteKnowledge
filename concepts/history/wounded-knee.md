@@ -4,21 +4,22 @@ category: history
 defines:
   - Wounded Knee
   - Wounded Knee Massacre
-related:
-  - "[[sioux]]"
-  - "[[lakota]]"
-  - "[[native-american-resistance]]"
-  - "[[seventh-cavalry]]"
-  - "[[ghost-dance]]"
-  - "[[sitting-bull]]"
-requires: []
+related: ["[[sioux]]", "[[lakota]]", "[[native-american-resistance]]", "[[seventh-cavalry]]", "[[ghost-dance]]", "[[sitting-bull]]", "[[united-states]]"]
+requires: ["[[american-civil-war]]"]
 lists:
   - "[[massacres]]"
-tour_order: 0
+tour_order: 2
 read: true
 ---
 
 # Wounded Knee
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

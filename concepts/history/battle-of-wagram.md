@@ -14,6 +14,7 @@ read: false
 # Battle of Wagram
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

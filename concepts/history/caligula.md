@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [Caligula, Gaius Caesar Augustus Germanicus, Gaius]
 related: ["[[tiberius]]", "[[claudius]]", "[[incitatus]]", "[[rome]]"]
-requires: []
+requires: ["[[roman-empire]]"]
 lists: ["[[roman-emperors]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Caligula
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

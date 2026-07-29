@@ -3,13 +3,20 @@ type: event
 category: history
 defines: [Election of 1968, "1968 US presidential election"]
 related: ["[[richard-nixon]]", "[[hubert-humphrey]]", "[[george-wallace]]", "[[vietnamwar]]", "[[civil-rights-backlash]]"]
-requires: []
+requires: ["[[vietnam-war]]"]
 lists: ["[[elections]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Election of 1968
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

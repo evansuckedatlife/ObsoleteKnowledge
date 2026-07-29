@@ -2,7 +2,7 @@
 type: event
 category: history
 defines: [Treaty of Utrecht, Utrecht Treaty]
-related: ["[[war-of-spanish-succession]]", "[[british-empire]]", "[[spain]]", "[[france]]", "[[balance-of-power]]"]
+related: ["[[war-of-spanish-succession]]", "[[british-empire]]", "[[spain]]", "[[france]]", "[[balance-of-power]]", "[[england]]"]
 requires: []
 lists: ["[[treaties]]"]
 tour_order: 0

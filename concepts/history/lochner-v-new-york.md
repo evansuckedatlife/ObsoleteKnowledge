@@ -5,11 +5,12 @@ defines: ["Lochner v. New York", "1905"]
 related: ["[[substantive-due-process]]", "[[freedom-of-contract]]", "[[police-power]]", "[[labor-law]]"]
 requires: ["[[united-states-constitution]]"]
 lists: ["[[supreme-court-cases]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Lochner v. New York
+
 
 
 

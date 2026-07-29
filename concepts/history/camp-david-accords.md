@@ -2,14 +2,21 @@
 type: event
 category: history
 defines: [Camp David Accords, Camp David Agreement]
-related: ["[[arab-israeli-conflict]]", "[[anwar-sadat]]", "[[menachem-begin]]", "[[jimmy-carter]]", "[[israel]]", "[[egypt]]"]
-requires: []
+related: ["[[arab-israeli-conflict]]", "[[anwar-sadat]]", "[[menachem-begin]]", "[[jimmy-carter]]", "[[israel]]", "[[egypt]]", "[[judaism]]", "[[islam]]"]
+requires: ["[[arab-israeli-conflict]]"]
 lists: ["[[treaties]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Camp David Accords
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

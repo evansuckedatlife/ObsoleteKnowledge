@@ -8,11 +8,12 @@ related: ["[[affirmative-action]]", "[[regents-v-bakke]]", "[[diversity]]"]
 requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-concerned-with-african-americans]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Grutter v. Bollinger
+
 
 
 

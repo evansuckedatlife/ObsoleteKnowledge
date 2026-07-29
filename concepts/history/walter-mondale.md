@@ -5,14 +5,21 @@ defines:
   - Walter Mondale
   - Walter Frederick Mondale
 related: ["[[jimmy-carter]]", "[[ronald-reagan]]"]
-requires: []
+requires: ["[[cold-war]]"]
 lists:
   - "[[vice-presidents-who-never-became-president]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Walter Mondale
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

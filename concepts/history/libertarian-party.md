@@ -4,14 +4,21 @@ category: history
 defines:
   - Libertarian Party
 related: ["[[american-third-parties]]", "[[libertarianism]]", "[[david-koch]]"]
-requires: []
+requires: ["[[enlightenment]]"]
 lists:
   - "[[american-third-parties]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Libertarian Party
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -3,13 +3,20 @@ type: person
 category: history
 defines: ["Catherine II", "Catherine the Great"]
 related: ["[[peter-i]]", "[[frederick-the-great]]", "[[russian-empire]]", "[[enlightenment]]", "[[russo-turkish-wars]]"]
-requires: []
+requires: ["[[russian-empire]]"]
 lists: ["[[russian-tsars]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Catherine II
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

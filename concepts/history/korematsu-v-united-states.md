@@ -5,11 +5,12 @@ defines: ["Korematsu v. United States", "1944"]
 related: ["[[japanese-american-internment]]", "[[world-war-two]]", "[[civil-liberties]]", "[[strict-scrutiny]]"]
 requires: ["[[united-states-constitution]]"]
 lists: ["[[supreme-court-cases]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Korematsu v. United States
+
 
 
 

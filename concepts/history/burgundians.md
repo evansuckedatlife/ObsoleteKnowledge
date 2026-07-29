@@ -15,6 +15,7 @@ read: false
 # Burgundians
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

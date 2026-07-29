@@ -6,14 +6,21 @@ defines:
   - Philip Augustus
   - Philip of France
 related: ["[[crusades]]", "[[richard-the-lionheart]]", "[[john-of-england]]", "[[capetian-dynasty]]", "[[france]]"]
-requires: []
+requires: ["[[house-of-valois]]"]
 lists:
   - "[[kings-of-france]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Philip II Augustus
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

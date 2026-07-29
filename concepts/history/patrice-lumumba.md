@@ -5,14 +5,21 @@ defines:
   - Patrice Lumumba
   - Patrice Émery Lumumba
 related: ["[[congo]]", "[[congo-crisis]]", "[[belgian-congo]]"]
-requires: []
+requires: ["[[cold-war]]"]
 lists:
   - "[[20th-century-african-leaders]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Patrice Lumumba
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

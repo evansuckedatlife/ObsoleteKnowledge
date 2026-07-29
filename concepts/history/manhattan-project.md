@@ -5,11 +5,12 @@ defines: ["Manhattan Project", "The Manhattan Project"]
 related: ["[[j-robert-oppenheimer]]", "[[enrico-fermi]]", "[[leo-szilard]]", "[[albert-einstein]]", "[[nuclear-fission]]", "[[hiroshima-and-nagasaki]]", "[[nuclear-weapons]]", "[[theoretical-physics]]", "[[world-war-ii]]", "[[trinity-test]]"]
 requires: ["[[world-war-ii]]"]
 lists: []
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Manhattan Project
+
 
 
 

@@ -5,11 +5,12 @@ defines: ["Gideon v. Wainwright", "1963"]
 related: ["[[right-to-counsel]]", "[[sixth-amendment]]", "[[criminal-procedure]]", "[[due-process]]"]
 requires: ["[[united-states-constitution]]"]
 lists: ["[[supreme-court-cases]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Gideon v. Wainwright
+
 
 
 

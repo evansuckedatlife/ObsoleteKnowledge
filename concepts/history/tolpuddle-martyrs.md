@@ -3,13 +3,20 @@ type: event
 category: history
 defines: ["Tolpuddle Martyrs", "Martyrs of Tolpuddle"]
 related: ["[[chartism]]", "[[peterloo]]", "[[trade-unions]]", "[[british-abolitionism]]", "[[factory-acts-movement]]"]
-requires: []
+requires: ["[[industrial-revolution]]"]
 lists: ["[[british-reform-movements]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Tolpuddle Martyrs
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

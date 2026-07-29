@@ -8,11 +8,12 @@ related: ["[[korean-war]]", "[[harry-truman]]", "[[separation-of-powers]]"]
 requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-2]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Youngstown Sheet & Tube Co. v. Sawyer
+
 
 
 

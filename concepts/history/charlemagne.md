@@ -6,14 +6,21 @@ defines:
   - Charles the Great
   - Charles I
 related: ["[[frankish-empire]]", "[[holy-roman-empire]]", "[[papal-authority]]", "[[carolingian-renaissance]]", "[[christianity]]"]
-requires: []
+requires: ["[[roman-empire]]"]
 lists:
   - "[[kings-of-france]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Charlemagne
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

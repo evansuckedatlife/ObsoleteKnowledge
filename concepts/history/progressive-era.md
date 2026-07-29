@@ -3,13 +3,20 @@ type: event
 category: history
 defines: ["Progressive Era", "Progressivism", "The Progressive Era"]
 related: ["[[theodore-roosevelt]]", "[[woodrow-wilson]]", "[[ida-tarbell]]", "[[upton-sinclair]]", "[[muckraking]]", "[[trust-busting]]", "[[conservation-movement]]", "[[women-suffrage]]", "[[trust-busting]]", "[[antitrust-law]]"]
-requires: []
+requires: ["[[industrial-revolution]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Progressive Era
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [Richard Nixon]
 related: ["[[watergate]]", "[[resignation-of-richard-nixon]]", "[[vietnam-war]]", "[[detente]]", "[[opening-to-china]]", "[[silent-majority]]", "[[enemies-list]]", "[[united-states-v-nixon]]"]
-requires: []
+requires: ["[[cold-war]]", "[[vietnam-war]]"]
 lists: []
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Richard Nixon
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

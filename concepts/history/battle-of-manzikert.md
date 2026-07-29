@@ -8,11 +8,12 @@ related: ["[[byzantine-empire]]", "[[seljuk-turks]]", "[[alp-arslan]]", "[[east-
 requires: ["[[byzantine-empire]]"]
 lists:
   - "[[medieval-battles]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Battle of Manzikert
+
 
 
 

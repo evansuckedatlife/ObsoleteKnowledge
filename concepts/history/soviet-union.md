@@ -3,13 +3,20 @@ type: event
 category: history
 defines: [Soviet Union, USSR]
 related: ["[[lenin]]", "[[stalin]]", "[[russian-revolution]]", "[[cold-war]]", "[[world-war-ii]]", "[[russian-empire]]", "[[marxism]]", "[[collectivization]]"]
-requires: []
+requires: ["[[russian-revolution]]"]
 lists: []
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Soviet Union
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

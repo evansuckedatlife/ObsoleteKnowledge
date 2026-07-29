@@ -3,14 +3,21 @@ type: person
 category: history
 defines: [Robert Peel, 2nd Baronet]
 related: ["[[tory-party]]", "[[corn-laws]]", "[[conservative-party]]", "[[potato-famine]]", "[[england]]"]
-requires: []
+requires: ["[[british-empire]]"]
 lists:
   - "[[british-prime-ministers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Robert Peel
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

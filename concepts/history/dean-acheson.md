@@ -4,14 +4,21 @@ category: history
 defines:
   - Dean Acheson
 related: ["[[harry-s-truman]]", "[[cold-war]]", "[[nato-expansion]]", "[[korean-war]]", "[[domino-theory]]"]
-requires: []
+requires: ["[[cold-war]]"]
 lists:
   - "[[secretaries-of-state]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Dean Acheson
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

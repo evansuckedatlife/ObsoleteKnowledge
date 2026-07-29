@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [Claudius, Tiberius Claudius Caesar Augustus Germanicus]
 related: ["[[caligula]]", "[[nero]]", "[[agrippina-the-younger]]", "[[messalina]]", "[[rome]]"]
-requires: []
+requires: ["[[roman-empire]]"]
 lists: ["[[roman-emperors]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Claudius
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

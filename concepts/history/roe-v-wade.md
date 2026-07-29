@@ -5,11 +5,12 @@ defines: ["Roe v. Wade", "1973"]
 related: ["[[abortion]]", "[[reproductive-rights]]", "[[privacy]]", "[[fourteenth-amendment]]"]
 requires: ["[[united-states-constitution]]"]
 lists: ["[[supreme-court-cases]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Roe v. Wade
+
 
 
 

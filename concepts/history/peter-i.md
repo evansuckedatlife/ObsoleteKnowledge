@@ -3,13 +3,20 @@ type: person
 category: history
 defines: ["Peter I", "Peter the Great"]
 related: ["[[ivan-iv]]", "[[catherine-ii]]", "[[great-northern-war]]", "[[saint-petersburg]]", "[[westernization-russia]]"]
-requires: []
+requires: ["[[house-of-romanov]]"]
 lists: ["[[russian-tsars]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Peter I
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

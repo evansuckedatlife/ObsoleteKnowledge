@@ -14,6 +14,7 @@ read: false
 # Battle of Friedland
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

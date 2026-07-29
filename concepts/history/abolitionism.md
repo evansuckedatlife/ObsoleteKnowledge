@@ -12,6 +12,7 @@ read: false
 # Abolitionism
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

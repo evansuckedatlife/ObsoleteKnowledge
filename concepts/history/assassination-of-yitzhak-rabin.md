@@ -12,6 +12,7 @@ read: false
 # Assassination of Yitzhak Rabin
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

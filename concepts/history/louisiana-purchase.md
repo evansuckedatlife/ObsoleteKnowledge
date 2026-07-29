@@ -3,13 +3,20 @@ type: event
 category: history
 defines: [Louisiana Purchase]
 related: ["[[thomas-jefferson]]", "[[james-madison]]", "[[napoleon-bonaparte]]", "[[expansion-of-the-united-states]]", "[[manifest-destiny]]", "[[lewis-and-clark-expedition]]", "[[united-states-constitution]]", "[[federalism]]", "[[france]]"]
-requires: []
+requires: ["[[christopher-columbus]]"]
 lists: []
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Louisiana Purchase
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

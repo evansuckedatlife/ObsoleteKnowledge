@@ -3,13 +3,20 @@ type: event
 category: history
 defines: ["Theodore Roosevelt's Inauguration", "Theodore Roosevelt Inauguration 1905"]
 related: ["[[theodore-roosevelt]]", "[[american-imperialism]]", "[[progressive-era]]"]
-requires: []
+requires: ["[[theodore-roosevelt]]"]
 lists: ["[[presidential-inaugurations]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Theodore Roosevelt's Inauguration
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

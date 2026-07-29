@@ -2,7 +2,7 @@
 type: place
 category: history
 defines: ["Persia", "Iran"]
-related: ["[[parthian-empire]]", "[[sassanid-empire]]", "[[safavid-empire]]", "[[islamic-revolution]]"]
+related: ["[[parthian-empire]]", "[[sassanid-empire]]", "[[safavid-empire]]", "[[islamic-revolution]]", "[[zoroastrianism]]"]
 requires: []
 lists:
   - "[[countries-once-known-by-different-names]]"

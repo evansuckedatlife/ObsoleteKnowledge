@@ -2,14 +2,21 @@
 type: person
 category: history
 defines: ["Yasser Arafat", "Muhammad Abdel Rahman Abdel Rauf Arafat al-Qudwa al-Husseini"]
-related: ["[[palestinian-liberation-organization]]", "[[palestine]]", "[[arab-israeli-conflict]]", "[[oslo-accords]]"]
-requires: []
+related: ["[[palestinian-liberation-organization]]", "[[palestine]]", "[[arab-israeli-conflict]]", "[[oslo-accords]]", "[[middle-east]]"]
+requires: ["[[arab-israeli-conflict]]"]
 lists: ["[[20th-century-middle-eastern-leaders]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Yasser Arafat
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

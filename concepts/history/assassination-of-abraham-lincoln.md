@@ -12,6 +12,7 @@ read: false
 # Assassination of Abraham Lincoln
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

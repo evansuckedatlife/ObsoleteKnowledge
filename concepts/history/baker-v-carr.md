@@ -7,11 +7,12 @@ related: ["[[voting-rights]]", "[[apportionment]]", "[[federal-courts]]"]
 requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-2]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Baker v. Carr
+
 
 
 

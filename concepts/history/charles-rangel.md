@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [Charles Rangel, "Charles Bernard Rangel"]
 related: ["[[united-states-house]]", "[[harlem-new-york]]", "[[house-ways-and-means-committee]]"]
-requires: []
+requires: ["[[civil-rights-movement]]"]
 lists: ["[[black-american-legislators]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Charles Rangel
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

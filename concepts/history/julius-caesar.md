@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [Julius Caesar, Gaius Julius Caesar, Caesar]
 related: ["[[pompeius]]", "[[cato-the-younger]]", "[[mark-antony]]", "[[cleopatra]]", "[[augustus]]", "[[cicero]]", "[[assassination-of-julius-caesar]]", "[[gallic-wars]]", "[[roman-empire]]", "[[rome]]"]
-requires: []
+requires: ["[[roman-empire]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Julius Caesar
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

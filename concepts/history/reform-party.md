@@ -5,14 +5,21 @@ defines:
   - Reform Party
   - Reform Party of the United States of America
 related: ["[[ross-perot]]", "[[1992-u-s-presidential-election]]", "[[american-third-parties]]"]
-requires: []
+requires: ["[[cold-war]]"]
 lists:
   - "[[american-third-parties]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Reform Party
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

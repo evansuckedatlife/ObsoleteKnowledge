@@ -6,14 +6,21 @@ defines:
   - Clovis I
   - Klovis
 related: ["[[frankish-empire]]", "[[merovingian-dynasty]]", "[[roman-gaul]]", "[[christianity-medieval-europe]]", "[[christianity]]", "[[france]]"]
-requires: []
+requires: ["[[roman-empire]]"]
 lists:
   - "[[kings-of-france]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Clovis
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

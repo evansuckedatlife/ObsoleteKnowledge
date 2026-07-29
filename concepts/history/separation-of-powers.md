@@ -5,11 +5,12 @@ defines: [Separation of Powers]
 related: ["[[united-states-constitution]]", "[[checks-and-balances]]", "[[executive-branch]]", "[[legislative-branch]]", "[[judicial-branch]]", "[[montesquieu]]", "[[federalist-papers]]", "[[united-states-supreme-court]]"]
 requires: ["[[united-states-constitution]]"]
 lists: []
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Separation of Powers
+
 
 
 

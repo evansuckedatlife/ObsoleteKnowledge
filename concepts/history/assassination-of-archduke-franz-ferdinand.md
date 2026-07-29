@@ -12,6 +12,7 @@ read: false
 # Assassination of Archduke Franz Ferdinand
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -4,15 +4,22 @@ category: history
 defines:
   - Seljuk Empire
   - Great Seljuks
-related: ["[[abbasid-caliphate]]", "[[crusades]]", "[[ghaznavid-dynasty]]", "[[islam]]"]
-requires: []
+related: ["[[abbasid-caliphate]]", "[[crusades]]", "[[ghaznavid-dynasty]]", "[[islam]]", "[[middle-east]]"]
+requires: ["[[crusades]]"]
 lists:
   - "[[medieval-islamic-dynasties]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Seljuk Empire
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

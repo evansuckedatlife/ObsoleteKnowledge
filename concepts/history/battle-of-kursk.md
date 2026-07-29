@@ -5,11 +5,12 @@ defines: [Battle of Kursk, Kursk Salient]
 related: ["[[operation-barbarossa]]", "[[soviet-union]]", "[[nazi-germany]]", "[[eastern-front]]", "[[world-war-ii]]", "[[germany]]"]
 requires: ["[[world-war-ii]]"]
 lists: ["[[world-war-ii-battles]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Battle of Kursk
+
 
 
 

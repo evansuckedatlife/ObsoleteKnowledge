@@ -7,11 +7,12 @@ related: ["[[new-deal]]", "[[commerce-clause]]"]
 requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-2]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Wickard v. Filburn
+
 
 
 

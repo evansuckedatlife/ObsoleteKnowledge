@@ -3,14 +3,21 @@ type: person
 category: history
 defines: [William Pitt the Younger]
 related: ["[[george-iii]]", "[[french-revolutionary-wars]]", "[[napoleonic-wars]]", "[[tory-party]]"]
-requires: []
+requires: ["[[napoleon-bonaparte]]"]
 lists:
   - "[[british-prime-ministers]]"
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # William Pitt the Younger
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

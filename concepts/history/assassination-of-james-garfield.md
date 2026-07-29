@@ -12,6 +12,7 @@ read: false
 # Assassination of James A. Garfield
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -6,11 +6,12 @@ related: ["[[defense-of-marriage-act]]", "[[obergefell-v-hodges]]", "[[lawrence-
 requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-involving-lgbt-rights]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # United States v. Windsor
+
 
 
 

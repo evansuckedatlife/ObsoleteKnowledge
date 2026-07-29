@@ -12,6 +12,7 @@ read: false
 # Anwar Sadat
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

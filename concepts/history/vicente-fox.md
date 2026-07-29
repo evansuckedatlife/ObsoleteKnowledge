@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [Vicente Fox]
 related: ["[[mexico-elections]]", "[[pri-mexico]]", "[[pan-mexico]]"]
-requires: []
+requires: ["[[cold-war]]"]
 lists: ["[[mexican-leaders]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Vicente Fox
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -5,14 +5,21 @@ defines:
   - Māori
   - Maori
 related: ["[[pacific-indigenous-peoples]]", "[[new-zealand]]"]
-requires: []
+requires: ["[[james-cook]]"]
 lists:
   - "[[indigenous-peoples]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Māori
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

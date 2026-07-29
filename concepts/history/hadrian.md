@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [Hadrian, Publius Aelius Hadrianus Augustus]
 related: ["[[trajan]]", "[[antoninus-pius]]", "[[hadrians-wall]]", "[[antinous]]", "[[rome]]"]
-requires: []
+requires: ["[[roman-empire]]"]
 lists: ["[[roman-emperors]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Hadrian
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

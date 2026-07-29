@@ -5,14 +5,21 @@ defines:
   - Dixiecrats
   - States' Rights Democratic Party
 related: ["[[strom-thurmond]]", "[[1948-u-s-presidential-election]]", "[[american-third-parties]]", "[[jim-crow-laws]]"]
-requires: []
+requires: ["[[civil-rights-movement]]"]
 lists:
   - "[[american-third-parties]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Dixiecrats
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -5,14 +5,21 @@ defines:
   - Gepids
   - Gepid
 related: ["[[huns]]", "[[ostrogoths]]", "[[pannonia]]", "[[theodoric]]"]
-requires: []
+requires: ["[[roman-empire]]"]
 lists:
   - "[[peoples-of-the-early-middle-ages]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Gepids
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

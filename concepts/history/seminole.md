@@ -3,15 +3,22 @@ type: place
 category: history
 defines:
   - Seminole
-related: ["[[native-american-peoples]]", "[[seminole-wars]]"]
-requires: []
+related: ["[[native-american-peoples]]", "[[seminole-wars]]", "[[united-states]]"]
+requires: ["[[american-revolution]]"]
 lists:
   - "[[native-american-peoples]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Seminole
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

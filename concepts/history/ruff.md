@@ -3,15 +3,22 @@ type: practice
 category: history
 defines:
   - Ruff
-related: ["[[codpiece]]", "[[farthingale]]", "[[elizabeth-i]]"]
-requires: []
+related: ["[[codpiece]]", "[[farthingale]]", "[[elizabeth-i]]", "[[michelangelo]]", "[[italian-renaissance]]"]
+requires: ["[[renaissance]]"]
 lists:
   - "[[historical-fashions]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Ruff
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

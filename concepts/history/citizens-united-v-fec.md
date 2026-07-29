@@ -7,11 +7,12 @@ related: ["[[first-amendment]]", "[[campaign-finance]]", "[[corporate-personhood
 requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-2]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Citizens United v. FEC
+
 
 
 

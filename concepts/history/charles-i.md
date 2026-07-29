@@ -3,13 +3,20 @@ type: person
 category: history
 defines: [Charles I]
 related: ["[[james-i]]", "[[oliver-cromwell]]", "[[english-civil-war]]", "[[house-of-stuart]]", "[[england]]"]
-requires: []
+requires: ["[[british-empire]]"]
 lists: ["[[british-monarchs]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Charles I
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

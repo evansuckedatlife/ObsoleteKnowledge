@@ -7,11 +7,12 @@ related: ["[[john-marshall]]", "[[contract-law]]"]
 requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-2]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Dartmouth College v. Woodward
+
 
 
 

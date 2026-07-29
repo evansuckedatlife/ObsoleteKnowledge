@@ -8,11 +8,12 @@ related: ["[[separate-but-equal]]", "[[brown-v-board-of-education]]", "[[plessy-
 requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-concerned-with-african-americans]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Sweatt v. Painter
+
 
 
 

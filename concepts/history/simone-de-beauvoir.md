@@ -3,15 +3,22 @@ type: person
 category: history
 defines:
   - Simone de Beauvoir
-related: ["[[jean-paul-sartre]]", "[[existentialism]]", "[[gender]]", "[[philosophy]]"]
-requires: []
+related: ["[[jean-paul-sartre]]", "[[existentialism]]", "[[gender]]", "[[philosophy]]", "[[charles-dickens]]", "[[james-joyce]]"]
+requires: ["[[enlightenment]]"]
 lists:
   - "[[feminists]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Simone de Beauvoir
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

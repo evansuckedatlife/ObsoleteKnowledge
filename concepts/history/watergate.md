@@ -3,13 +3,20 @@ type: event
 category: history
 defines: [Watergate, Watergate scandal]
 related: ["[[richard-nixon]]", "[[gerald-ford]]", "[[deep-throat]]"]
-requires: []
+requires: ["[[cold-war]]", "[[richard-nixon]]"]
 lists: ["[[presidential-scandals]]"]
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Watergate
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -3,13 +3,20 @@ type: person
 category: history
 defines: ["Michael Romanov", "Mikhail Romanov"]
 related: ["[[boris-godunov]]", "[[time-of-troubles]]", "[[romanov-dynasty]]", "[[peter-i]]", "[[russian-empire]]"]
-requires: []
+requires: ["[[house-of-romanov]]"]
 lists: ["[[russian-tsars]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Michael Romanov
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

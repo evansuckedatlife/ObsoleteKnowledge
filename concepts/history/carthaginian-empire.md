@@ -3,13 +3,20 @@ type: place
 category: history
 defines: [Carthaginian Empire, Carthage, Punic Empire]
 related: ["[[hannibal]]", "[[roman-empire]]", "[[punic-wars]]", "[[phoenicia]]", "[[rome]]"]
-requires: []
+requires: ["[[roman-empire]]"]
 lists: ["[[ancient-empires]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Carthaginian Empire
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -3,13 +3,20 @@ type: work
 category: history
 defines: ["Reader's Digest"]
 related: ["[[american-mass-media]]", "[[magazine-publishing]]", "[[popular-culture]]"]
-requires: []
+requires: ["[[industrial-revolution]]"]
 lists: ["[[magazines-from-american-history]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Reader's Digest
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -3,13 +3,20 @@ type: event
 category: history
 defines: [Treaty of Tordesillas, Tordesillas Treaty]
 related: ["[[age-of-exploration]]", "[[christopher-columbus]]", "[[portugal]]", "[[spain]]", "[[colonialism]]"]
-requires: []
+requires: ["[[age-of-exploration]]"]
 lists: ["[[treaties]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Treaty of Tordesillas
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

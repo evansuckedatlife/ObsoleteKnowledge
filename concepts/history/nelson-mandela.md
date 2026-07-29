@@ -6,14 +6,21 @@ defines:
   - Madiba
   - Nelson Rolihlahla Mandela
 related: ["[[apartheid]]", "[[f-w-de-klerk]]", "[[south-africa]]"]
-requires: []
+requires: ["[[cold-war]]"]
 lists:
   - "[[20th-century-african-leaders]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Nelson Mandela
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

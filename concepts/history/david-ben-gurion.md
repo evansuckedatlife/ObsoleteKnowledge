@@ -3,13 +3,20 @@ type: person
 category: history
 defines: ["David Ben-Gurion", "David Gruen"]
 related: ["[[israel]]", "[[zionism]]", "[[arab-israeli-conflict]]", "[[golda-meir]]", "[[judaism]]"]
-requires: []
+requires: ["[[arab-israeli-conflict]]"]
 lists: ["[[20th-century-middle-eastern-leaders]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # David Ben-Gurion
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

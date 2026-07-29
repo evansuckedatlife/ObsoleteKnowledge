@@ -7,11 +7,12 @@ related: ["[[battle-of-iwo-jima]]", "[[united-states-marine-corps]]", "[[atomic-
 requires: ["[[world-war-ii]]"]
 lists:
   - "[[world-war-ii-pacific-campaigns]]"
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Battle of Okinawa
+
 
 
 <!-- foundations -->
