@@ -5,11 +5,12 @@ defines: [Mecca, Makkah]
 related: ["[[islam]]", "[[muhammad]]", "[[kaaba]]", "[[hajj]]", "[[hijra]]", "[[saudi-arabia]]"]
 requires: ["[[islam]]"]
 lists: []
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Mecca
+
 
 
 

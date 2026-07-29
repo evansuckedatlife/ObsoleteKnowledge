@@ -14,6 +14,7 @@ tags:
 # NP-Complete
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

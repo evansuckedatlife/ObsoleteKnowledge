@@ -5,22 +5,15 @@ defines:
   - Exodus
   - The Exodus
   - Book of Exodus
-related:
-  - "[[moses]]"
-  - "[[pharaoh]]"
-  - "[[passover]]"
-  - "[[judaism]]"
-  - "[[torah]]"
-  - "[[golden-calf]]"
-  - "[[land-of-milk-and-honey]]"
-requires:
-  - "[[judaism]]"
+related: ["[[moses]]", "[[pharaoh]]", "[[passover]]", "[[judaism]]", "[[torah]]", "[[golden-calf]]", "[[land-of-milk-and-honey]]", "[[egypt]]", "[[nile-river]]"]
+requires: ["[[abraham]]"]
 lists: []
 tour_order: 1
 read: true
 ---
 
 # Exodus
+
 
 
 

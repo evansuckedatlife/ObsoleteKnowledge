@@ -3,15 +3,22 @@ type: person
 category: sports
 defines:
   - Tom Watson
-related: ["[[jack-nicklaus]]", "[[arnold-palmer]]", "[[lee-trevino]]", "[[gary-player]]"]
-requires: []
+related: ["[[jack-nicklaus]]", "[[arnold-palmer]]", "[[lee-trevino]]", "[[gary-player]]", "[[united-states]]"]
+requires: ["[[arnold-palmer]]"]
 lists:
   - "[[golfers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Tom Watson
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

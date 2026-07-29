@@ -15,6 +15,7 @@ read: false
 # Mickey Mantle
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

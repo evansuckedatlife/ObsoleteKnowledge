@@ -3,14 +3,21 @@ type: concept
 category: mathematics
 defines: ["Sorting Algorithms", "Sorting Algorithm", "Sorts"]
 related: ["[[p-vs-np-problem]]", "[[turing-machine]]"]
-requires: []
+requires: ["[[big-o-notation]]"]
 lists:
   - "[[computation-types]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Sorting Algorithms
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

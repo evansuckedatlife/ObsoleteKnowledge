@@ -5,11 +5,12 @@ defines: ["Baháʼu'lláh", "Mirza Husayn-Ali"]
 related: ["[[bahai-faith]]"]
 requires: ["[[islam]]"]
 lists: ["[[founders-of-religious-traditions]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Baháʼu'lláh
+
 
 
 

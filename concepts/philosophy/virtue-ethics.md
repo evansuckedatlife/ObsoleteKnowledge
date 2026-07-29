@@ -12,6 +12,7 @@ read: false
 # Virtue Ethics
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

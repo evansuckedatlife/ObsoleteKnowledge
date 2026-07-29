@@ -4,15 +4,22 @@ category: sports
 defines:
   - 1980 Winter Olympics
   - Lake Placid Winter Olympics
-related: ["[[olympic-games]]", "[[miracle-on-ice]]"]
-requires: []
+related: ["[[olympic-games]]", "[[miracle-on-ice]]", "[[cold-war]]", "[[soviet-union]]"]
+requires: ["[[olympic-games]]"]
 lists:
   - "[[olympics]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # 1980 Winter Olympics
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

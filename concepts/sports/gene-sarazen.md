@@ -4,15 +4,22 @@ category: sports
 defines:
   - Gene Sarazen
   - Eugenio Saraceni
-related: ["[[bobby-jones]]", "[[walter-hagen]]", "[[ben-hogan]]"]
-requires: []
+related: ["[[bobby-jones]]", "[[walter-hagen]]", "[[ben-hogan]]", "[[united-states]]"]
+requires: ["[[walter-hagen]]"]
 lists:
   - "[[golfers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Gene Sarazen
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

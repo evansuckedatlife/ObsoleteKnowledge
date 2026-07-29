@@ -5,11 +5,12 @@ defines: [Rationalism, Rationalist]
 related: ["[[descartes]]", "[[leibniz]]", "[[spinoza]]", "[[reason]]", "[[innate-ideas]]", "[[enlightenment]]", "[[galileo-galilei]]"]
 requires: ["[[descartes]]"]
 lists: ["[[schools-of-western-philosophy]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Rationalism
+
 
 
 <!-- foundations -->

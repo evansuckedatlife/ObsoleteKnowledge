@@ -12,6 +12,7 @@ read: false
 # Aristotle
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

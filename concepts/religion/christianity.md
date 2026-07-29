@@ -3,23 +3,15 @@ type: concept
 category: religion
 defines:
   - Christianity
-related:
-  - "[[jesus]]"
-  - "[[gospels]]"
-  - "[[crucifixion]]"
-  - "[[virgin-mary]]"
-  - "[[the-twelve-apostles]]"
-  - "[[resurrection]]"
-  - "[[trinity]]"
-  - "[[saints]]"
-requires:
-  - "[[judaism]]"
+related: ["[[jesus]]", "[[gospels]]", "[[crucifixion]]", "[[virgin-mary]]", "[[the-twelve-apostles]]", "[[resurrection]]", "[[trinity]]", "[[saints]]", "[[roman-empire]]", "[[middle-east]]", "[[the-last-supper]]", "[[mass-form]]"]
+requires: ["[[judaism]]"]
 lists: []
-tour_order: 1
+tour_order: 2
 read: true
 ---
 
 # Christianity
+
 
 
 

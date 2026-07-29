@@ -5,11 +5,12 @@ defines: [Positivism, Logical positivism, Logical empiricism, Positivist]
 related: ["[[auguste-comte]]", "[[ludwig-wittgenstein]]", "[[empiricism]]", "[[science]]", "[[verification]]", "[[enlightenment]]", "[[industrial-revolution]]"]
 requires: ["[[empiricism]]"]
 lists: ["[[schools-of-western-philosophy]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Positivism
+
 
 
 <!-- foundations -->

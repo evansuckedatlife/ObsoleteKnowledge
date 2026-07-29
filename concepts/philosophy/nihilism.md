@@ -3,13 +3,20 @@ type: concept
 category: philosophy
 defines: [Nihilism]
 related: ["[[friedrich-nietzsche]]", "[[meaning]]", "[[morality]]", "[[existentialism]]", "[[absurdism]]", "[[will-to-power]]", "[[modernism]]", "[[fyodor-dostoevsky]]"]
-requires: []
+requires: ["[[enlightenment]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Nihilism
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

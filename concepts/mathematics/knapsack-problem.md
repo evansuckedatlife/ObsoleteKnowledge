@@ -3,14 +3,21 @@ type: concept
 category: mathematics
 defines: ["Knapsack Problem"]
 related: ["[[p-vs-np-problem]]", "[[traveling-salesman-problem]]"]
-requires: []
+requires: ["[[dynamic-programming]]"]
 lists:
   - "[[computation-types]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Knapsack Problem
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

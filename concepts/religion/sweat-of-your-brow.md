@@ -5,11 +5,12 @@ defines: [the sweat of your brow]
 related: ["[[genesis]]", "[[adam-and-eve]]"]
 requires: ["[[hebrew-bible]]"]
 lists: ["[[biblical-sayings]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # the sweat of your brow
+
 
 
 

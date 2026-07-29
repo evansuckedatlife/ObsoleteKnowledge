@@ -3,13 +3,20 @@ type: person
 category: mathematics
 defines: [Pierre de Fermat, Fermat, "Pierre Fermat"]
 related: ["[[number-theory]]", "[[calculus]]", "[[probability]]", "[[fermat-last-theorem]]", "[[descartes]]"]
-requires: []
+requires: ["[[number-theory]]"]
 lists: ["[[mathematicians]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Pierre de Fermat
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

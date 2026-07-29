@@ -4,7 +4,7 @@ category: geography
 defines:
   - Loire River
   - Loire
-related: ["[[france]]", "[[french-renaissance]]", "[[atlantic-ocean]]"]
+related: ["[[france]]", "[[french-renaissance]]", "[[atlantic-ocean]]", "[[leonardo-da-vinci]]"]
 requires: []
 lists:
   - "[[western-european-rivers]]"

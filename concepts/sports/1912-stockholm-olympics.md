@@ -4,15 +4,22 @@ category: sports
 defines:
   - 1912 Summer Olympics
   - Stockholm Olympics
-related: ["[[olympic-games]]", "[[jim-thorpe]]"]
-requires: []
+related: ["[[olympic-games]]", "[[jim-thorpe]]", "[[world-war-i]]"]
+requires: ["[[olympic-games]]"]
 lists:
   - "[[olympics]]"
-tour_order: 0
+tour_order: 1
 read: true
 ---
 
 # 1912 Summer Olympics
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

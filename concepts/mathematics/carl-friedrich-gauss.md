@@ -12,6 +12,7 @@ read: false
 # Carl Friedrich Gauss
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

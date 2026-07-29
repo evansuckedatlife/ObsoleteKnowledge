@@ -3,14 +3,21 @@ type: concept
 category: mathematics
 defines: ["Shortest Path Problem", "Shortest Path"]
 related: ["[[p-vs-np-problem]]", "[[traveling-salesman-problem]]"]
-requires: []
+requires: ["[[dynamic-programming]]"]
 lists:
   - "[[computation-types]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Shortest Path Problem
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

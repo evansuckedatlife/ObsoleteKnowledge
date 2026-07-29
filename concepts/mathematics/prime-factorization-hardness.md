@@ -12,6 +12,7 @@ read: false
 # Hardness of Prime Factorization
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

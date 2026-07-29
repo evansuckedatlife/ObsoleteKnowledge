@@ -2,7 +2,7 @@
 type: event
 category: sports
 defines: [Wimbledon, The Championships, Wimbledon Championships]
-related: ["[[tennis]]", "[[roger-federer]]", "[[serena-williams]]", "[[rod-laver]]", "[[arthur-ashe]]", "[[england]]"]
+related: ["[[tennis]]", "[[roger-federer]]", "[[serena-williams]]", "[[rod-laver]]", "[[arthur-ashe]]", "[[england]]", "[[world-war-ii]]"]
 requires: []
 lists:
   - "[[tennis-grand-slams]]"

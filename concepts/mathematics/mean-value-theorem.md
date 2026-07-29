@@ -12,6 +12,7 @@ read: false
 # Mean Value Theorem
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

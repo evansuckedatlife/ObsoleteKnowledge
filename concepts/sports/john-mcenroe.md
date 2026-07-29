@@ -4,15 +4,22 @@ category: sports
 defines:
   - John McEnroe
   - Jean-Marie McEnroe
-related: ["[[bjorn-borg]]", "[[wimbledon]]", "[[us-open]]", "[[united-states]]"]
-requires: []
+related: ["[[bjorn-borg]]", "[[wimbledon]]", "[[us-open]]", "[[united-states]]", "[[civil-rights-movement]]"]
+requires: ["[[rod-laver]]"]
 lists:
   - "[[tennis-players]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # John McEnroe
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

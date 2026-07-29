@@ -12,6 +12,7 @@ read: false
 # Differential Equations
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

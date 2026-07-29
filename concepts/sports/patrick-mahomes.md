@@ -4,15 +4,22 @@ category: sports
 defines:
   - Patrick Mahomes
   - Patrick Lavon Mahomes II
-related: ["[[kansas-city-chiefs]]", "[[super-bowl]]", "[[nfl-draft]]", "[[2023-nfl-season]]"]
-requires: []
+related: ["[[kansas-city-chiefs]]", "[[super-bowl]]", "[[nfl-draft]]", "[[2023-nfl-season]]", "[[united-states]]"]
+requires: ["[[super-bowl]]"]
 lists:
   - "[[21st-century-quarterbacks]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Patrick Mahomes
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

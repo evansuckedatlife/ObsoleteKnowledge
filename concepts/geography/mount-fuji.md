@@ -16,6 +16,7 @@ read: false
 # Mount Fuji
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

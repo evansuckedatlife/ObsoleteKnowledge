@@ -3,13 +3,20 @@ type: term
 category: mathematics
 defines: [Exponential Function]
 related: ["[[logarithmic-function]]", "[[continuous-functions]]", "[[derivative]]", "[[e-mathematical-constant]]"]
-requires: []
+requires: ["[[calculus]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Exponential Function
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

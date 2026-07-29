@@ -2,7 +2,7 @@
 type: place
 category: geography
 defines: [France, French Republic, Frankreich]
-related: ["[[french-revolution]]", "[[napoleon-bonaparte]]", "[[paris]]", "[[versailles-palace]]", "[[louvre]]", "[[enlightenment]]", "[[victor-hugo]]", "[[impressionism]]", "[[charlemagne]]"]
+related: ["[[french-revolution]]", "[[napoleon-bonaparte]]", "[[paris]]", "[[versailles-palace]]", "[[louvre]]", "[[enlightenment]]", "[[victor-hugo]]", "[[impressionism]]", "[[charlemagne]]", "[[modernism]]"]
 requires: []
 lists: []
 tour_order: 0

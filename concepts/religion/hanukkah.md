@@ -5,11 +5,12 @@ defines: [Hanukkah, "Chanukah", "Festival of Lights"]
 related: ["[[maccabees]]", "[[temple-in-jerusalem]]", "[[judaism]]"]
 requires: ["[[judaism]]"]
 lists: ["[[jewish-holidays]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Hanukkah
+
 
 
 

@@ -5,11 +5,12 @@ defines: [Yom Kippur, "Day of Atonement"]
 related: ["[[rosh-hashanah]]", "[[high-holy-days]]", "[[judaism]]"]
 requires: ["[[judaism]]"]
 lists: ["[[jewish-holidays]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Yom Kippur
+
 
 
 

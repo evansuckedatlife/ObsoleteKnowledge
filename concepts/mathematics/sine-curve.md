@@ -3,13 +3,20 @@ type: term
 category: mathematics
 defines: ["Sine curve", sinusoid, "sine wave"]
 related: ["[[trigonometric-function]]", "[[periodic-function]]", "[[catenary]]"]
-requires: []
+requires: ["[[trigonometric-function]]"]
 lists: ["[[geometric-curves]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Sine curve
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

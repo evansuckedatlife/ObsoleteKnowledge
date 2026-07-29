@@ -5,11 +5,12 @@ defines: [Jewish conversion, giyur]
 related: ["[[judaism]]", "[[brit-milah]]", "[[jewish-baby-naming]]"]
 requires: ["[[judaism]]"]
 lists: ["[[jewish-lifecycle-events]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Jewish conversion
+
 
 
 

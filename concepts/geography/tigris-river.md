@@ -3,7 +3,7 @@ type: place
 category: geography
 defines:
   - Tigris River
-related: ["[[euphrates-river]]", "[[mesopotamia]]", "[[iraq]]"]
+related: ["[[euphrates-river]]", "[[mesopotamia]]", "[[iraq]]", "[[abraham]]"]
 requires: []
 lists:
   - "[[asian-rivers]]"

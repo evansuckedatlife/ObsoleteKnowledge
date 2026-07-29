@@ -12,6 +12,7 @@ read: false
 # Witch of Agnesi
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

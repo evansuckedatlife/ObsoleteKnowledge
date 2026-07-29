@@ -3,13 +3,20 @@ type: term
 category: mathematics
 defines: [Monomial, Monomial Function]
 related: ["[[polynomial-function]]", "[[power-function]]"]
-requires: []
+requires: ["[[polynomial-function]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Monomial
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

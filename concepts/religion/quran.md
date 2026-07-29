@@ -5,11 +5,12 @@ defines: ["Qur'an", Koran]
 related: ["[[muhammad]]", "[[hadith]]"]
 requires: ["[[islam]]", "[[muhammad]]"]
 lists: ["[[religious-texts]]"]
-tour_order: 3
+tour_order: 4
 read: false
 ---
 
 # Qur'an
+
 
 
 

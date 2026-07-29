@@ -12,6 +12,7 @@ read: false
 # Zeno of Elea
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

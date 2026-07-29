@@ -12,6 +12,7 @@ read: false
 # Lemniscate
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

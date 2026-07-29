@@ -3,13 +3,20 @@ type: term
 category: mathematics
 defines: [Trigonometric Function, Trig Function]
 related: ["[[sine-function]]", "[[cosine-function]]", "[[tangent-function]]", "[[periodic-function]]", "[[inverse-trigonometric-function]]"]
-requires: []
+requires: ["[[calculus]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Trigonometric Function
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -5,11 +5,12 @@ defines: [The Twelve Apostles, The Twelve Disciples]
 related: ["[[jesus]]", "[[peter]]", "[[john-the-apostle]]", "[[judas-iscariot]]", "[[paul]]", "[[gospels]]", "[[acts-of-the-apostles]]"]
 requires: ["[[jesus]]", "[[christianity]]"]
 lists: []
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # The Twelve Apostles
+
 
 
 

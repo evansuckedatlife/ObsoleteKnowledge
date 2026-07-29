@@ -12,6 +12,7 @@ read: false
 # Scholasticism
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

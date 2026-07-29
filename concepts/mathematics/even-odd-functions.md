@@ -12,6 +12,7 @@ read: false
 # Even and odd functions
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

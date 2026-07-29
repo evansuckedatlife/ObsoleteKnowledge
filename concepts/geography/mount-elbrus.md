@@ -4,7 +4,7 @@ category: geography
 defines:
   - Mount Elbrus
   - Elbrus
-related: ["[[mount-kilimanjaro]]", "[[mont-blanc]]", "[[caucasus]]", "[[russia]]", "[[georgia]]"]
+related: ["[[mount-kilimanjaro]]", "[[mont-blanc]]", "[[caucasus]]", "[[russia]]", "[[georgia]]", "[[russian-empire]]"]
 requires: []
 lists:
   - "[[mountains]]"

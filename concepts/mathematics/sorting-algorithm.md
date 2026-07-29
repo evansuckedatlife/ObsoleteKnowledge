@@ -3,13 +3,20 @@ type: term
 category: mathematics
 defines: [Sorting algorithm, comparison sort, merge sort, quicksort, stability]
 related: ["[[algorithm]]", "[[big-o-notation]]", "[[divide-and-conquer]]", "[[recursion]]", "[[binary-search]]", "[[tree-data-structure]]", "[[time-complexity]]"]
-requires: []
+requires: ["[[big-o-notation]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Sorting Algorithm
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

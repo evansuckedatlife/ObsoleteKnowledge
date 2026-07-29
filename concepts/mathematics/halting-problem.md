@@ -3,14 +3,21 @@ type: term
 category: mathematics
 defines: ["Halting Problem"]
 related: ["[[turing-machine]]", "[[p-complexity-class]]", "[[p-vs-np-problem]]"]
-requires: []
+requires: ["[[decision-problem]]"]
 lists:
   - "[[computation-types]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Halting Problem
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

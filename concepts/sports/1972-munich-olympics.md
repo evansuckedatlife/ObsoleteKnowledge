@@ -4,15 +4,22 @@ category: sports
 defines:
   - 1972 Summer Olympics
   - Munich Olympics
-related: ["[[olympic-games]]", "[[munich-massacre]]"]
-requires: []
+related: ["[[olympic-games]]", "[[munich-massacre]]", "[[arab-israeli-conflict]]", "[[israel]]", "[[middle-east]]"]
+requires: ["[[olympic-games]]"]
 lists:
   - "[[olympics]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # 1972 Summer Olympics
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

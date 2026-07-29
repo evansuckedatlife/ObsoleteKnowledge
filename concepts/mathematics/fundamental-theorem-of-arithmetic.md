@@ -13,6 +13,7 @@ read: false
 # Fundamental Theorem of Arithmetic
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

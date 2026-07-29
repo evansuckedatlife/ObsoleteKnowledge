@@ -2,15 +2,22 @@
 type: person
 category: mathematics
 defines: [Gottfried Leibniz, Leibniz, Gottfried Wilhelm Leibniz]
-related: ["[[calculus]]", "[[notation]]", "[[logic]]", "[[monad]]", "[[isaac-newton]]", "[[enlightenment]]"]
-requires: []
+related: ["[[calculus]]", "[[notation]]", "[[logic]]", "[[monad]]", "[[isaac-newton]]", "[[enlightenment]]", "[[renaissance]]"]
+requires: ["[[calculus]]"]
 lists: ["[[mathematicians]]"]
-tour_order: 0
+tour_order: 1
 read: false
 aliases: [leibniz]
 ---
 
 # Gottfried Leibniz
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

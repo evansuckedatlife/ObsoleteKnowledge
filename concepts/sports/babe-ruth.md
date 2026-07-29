@@ -6,7 +6,7 @@ defines:
   - George Herman Ruth
   - The Bambino
   - The Sultan of Swat
-related: ["[[lou-gehrig]]", "[[joe-dimaggio]]", "[[whitey-ford]]", "[[the-new-york-yankees]]"]
+related: ["[[lou-gehrig]]", "[[joe-dimaggio]]", "[[whitey-ford]]", "[[the-new-york-yankees]]", "[[united-states]]", "[[industrial-revolution]]"]
 requires: []
 lists:
   - "[[new-york-yankees]]"

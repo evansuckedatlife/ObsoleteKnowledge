@@ -5,14 +5,21 @@ defines:
   - Mario Lemieux
   - The Magnificent One
 related: ["[[pittsburgh-penguins]]", "[[stanley-cup]]", "[[nhl-scoring]]"]
-requires: []
+requires: ["[[wayne-gretzky]]"]
 lists:
   - "[[hockey-hall-of-famers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Mario Lemieux
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

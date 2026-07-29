@@ -2,14 +2,21 @@
 type: person
 category: mathematics
 defines: ["Henri Poincaré", Poincaré, Henri Poincare]
-related: ["[[topology]]", "[[chaos-theory]]", "[[three-body-problem]]", "[[special-relativity]]"]
-requires: []
+related: ["[[topology]]", "[[chaos-theory]]", "[[three-body-problem]]", "[[special-relativity]]", "[[albert-einstein]]"]
+requires: ["[[calculus]]"]
 lists: ["[[mathematicians]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Henri Poincaré
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

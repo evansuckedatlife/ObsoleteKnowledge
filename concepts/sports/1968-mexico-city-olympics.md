@@ -4,15 +4,22 @@ category: sports
 defines:
   - 1968 Summer Olympics
   - Mexico City Olympics
-related: ["[[olympic-games]]", "[[tommie-smith]]", "[[john-carlos]]", "[[black-power-salute]]"]
-requires: []
+related: ["[[olympic-games]]", "[[tommie-smith]]", "[[john-carlos]]", "[[black-power-salute]]", "[[civil-rights-movement]]", "[[united-states]]", "[[martin-luther-king-jr]]"]
+requires: ["[[olympic-games]]"]
 lists:
   - "[[olympics]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # 1968 Summer Olympics
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

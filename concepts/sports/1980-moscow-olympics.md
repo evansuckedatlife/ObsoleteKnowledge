@@ -4,15 +4,22 @@ category: sports
 defines:
   - 1980 Summer Olympics
   - Moscow Olympics
-related: ["[[olympic-games]]", "[[soviet-union]]", "[[cold-war]]"]
-requires: []
+related: ["[[olympic-games]]", "[[soviet-union]]", "[[cold-war]]", "[[vietnam-war]]"]
+requires: ["[[olympic-games]]"]
 lists:
   - "[[olympics]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # 1980 Summer Olympics
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

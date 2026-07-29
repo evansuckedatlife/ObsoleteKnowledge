@@ -2,14 +2,21 @@
 type: person
 category: mathematics
 defines: [William Rowan Hamilton, Hamilton, "Sir William Rowan Hamilton"]
-related: ["[[quaternions]]", "[[hamiltonian-mechanics]]", "[[complex-numbers]]", "[[vector-algebra]]", "[[optics]]"]
-requires: []
+related: ["[[quaternions]]", "[[hamiltonian-mechanics]]", "[[complex-numbers]]", "[[vector-algebra]]", "[[optics]]", "[[albert-einstein]]"]
+requires: ["[[calculus]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # William Rowan Hamilton
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

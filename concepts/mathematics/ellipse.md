@@ -12,6 +12,7 @@ read: false
 # Ellipse
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

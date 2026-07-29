@@ -12,6 +12,7 @@ read: false
 # Partial Derivative
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -5,11 +5,12 @@ defines: ["Leo X", "Pope Leo X", "Giovanni de' Medici", "Giovanni di Lorenzo de'
 related: ["[[peter]]", "[[julius-ii]]", "[[clement-vii]]"]
 requires: ["[[christianity]]"]
 lists: ["[[popes]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Leo X
+
 
 
 

@@ -12,6 +12,7 @@ read: false
 # Monotonic Function
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

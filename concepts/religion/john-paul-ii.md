@@ -5,11 +5,12 @@ defines: ["John Paul II", "Pope John Paul II", "Karol Wojtyła", "Karol Józef W
 related: ["[[peter]]", "[[innocent-iii]]", "[[gregory-i]]"]
 requires: ["[[christianity]]"]
 lists: ["[[popes]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # John Paul II
+
 
 
 

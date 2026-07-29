@@ -13,6 +13,7 @@ read: false
 # Infinitude of Primes
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

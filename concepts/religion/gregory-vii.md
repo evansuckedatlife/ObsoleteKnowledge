@@ -5,11 +5,12 @@ defines: ["Gregory VII", "Pope Gregory VII", "Hildebrand", "Hildebrand of Sovana
 related: ["[[peter]]", "[[gregory-i]]", "[[innocent-iii]]"]
 requires: ["[[christianity]]"]
 lists: ["[[popes]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Gregory VII
+
 
 
 

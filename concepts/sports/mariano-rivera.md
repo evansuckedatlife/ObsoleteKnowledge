@@ -16,6 +16,7 @@ read: false
 # Mariano Rivera
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

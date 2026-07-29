@@ -3,7 +3,7 @@ type: person
 category: sports
 defines:
   - Serena Williams
-related: ["[[venus-williams]]", "[[wimbledon]]", "[[us-open]]", "[[australian-open]]"]
+related: ["[[venus-williams]]", "[[wimbledon]]", "[[us-open]]", "[[australian-open]]", "[[united-states]]", "[[civil-rights-movement]]"]
 requires: []
 lists:
   - "[[tennis-players]]"

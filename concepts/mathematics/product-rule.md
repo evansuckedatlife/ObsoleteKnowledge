@@ -12,6 +12,7 @@ read: false
 # Product Rule
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

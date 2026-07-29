@@ -4,15 +4,22 @@ category: sports
 defines:
   - Pete Sampras
   - Peter Sampras
-related: ["[[wimbledon]]", "[[us-open]]", "[[grand-slam-tournaments]]"]
-requires: []
+related: ["[[wimbledon]]", "[[us-open]]", "[[grand-slam-tournaments]]", "[[united-states]]"]
+requires: ["[[john-mcenroe]]"]
 lists:
   - "[[tennis-players]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Pete Sampras
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

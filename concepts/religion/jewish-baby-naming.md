@@ -5,11 +5,12 @@ defines: [Jewish baby naming, "simchat bat", "zeved habat"]
 related: ["[[brit-milah]]", "[[bar-bat-mitzvah]]"]
 requires: ["[[judaism]]"]
 lists: ["[[jewish-lifecycle-events]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Jewish baby naming
+
 
 
 

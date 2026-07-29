@@ -5,15 +5,22 @@ defines:
   - 1936 Summer Olympics
   - Berlin Olympics
   - Nazi Olympics
-related: ["[[jesse-owens]]", "[[nazi-germany]]", "[[olympic-games]]"]
-requires: []
+related: ["[[jesse-owens]]", "[[nazi-germany]]", "[[olympic-games]]", "[[germany]]", "[[world-war-ii]]"]
+requires: ["[[olympic-games]]"]
 lists:
   - "[[olympics]]"
-tour_order: 0
+tour_order: 1
 read: true
 ---
 
 # 1936 Summer Olympics
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

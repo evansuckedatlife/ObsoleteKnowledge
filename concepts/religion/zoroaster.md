@@ -3,13 +3,14 @@ type: person
 category: religion
 defines: [Zoroaster, Zarathustra]
 related: ["[[avesta]]"]
-requires: ["[[zoroastrianism]]"]
+requires: []
 lists: ["[[founders-of-religious-traditions]]"]
-tour_order: 1
+tour_order: 0
 read: false
 ---
 
 # Zoroaster
+
 
 
 

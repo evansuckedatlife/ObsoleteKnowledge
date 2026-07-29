@@ -5,11 +5,12 @@ defines: [Jewish marriage, kiddushin]
 related: ["[[ketubah]]", "[[jewish-divorce]]", "[[jewish-mourning]]"]
 requires: ["[[judaism]]"]
 lists: ["[[jewish-lifecycle-events]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Jewish marriage
+
 
 
 

@@ -14,6 +14,7 @@ read: true
 # NP-Hard
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

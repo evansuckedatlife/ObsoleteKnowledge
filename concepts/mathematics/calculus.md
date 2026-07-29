@@ -2,7 +2,7 @@
 type: term
 category: mathematics
 defines: [Calculus, differential calculus, integral calculus]
-related: ["[[derivative]]", "[[integral]]", "[[limit]]", "[[isaac-newton]]", "[[gottfried-leibniz]]", "[[fundamental-theorem-of-calculus]]", "[[taylor-series]]"]
+related: ["[[derivative]]", "[[integral]]", "[[limit]]", "[[isaac-newton]]", "[[gottfried-leibniz]]", "[[fundamental-theorem-of-calculus]]", "[[taylor-series]]", "[[albert-einstein]]"]
 requires: []
 lists: []
 tour_order: 0

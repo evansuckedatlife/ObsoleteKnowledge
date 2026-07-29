@@ -5,11 +5,12 @@ defines: [Jewish divorce, get]
 related: ["[[jewish-marriage]]", "[[jewish-mourning]]"]
 requires: ["[[judaism]]"]
 lists: ["[[jewish-lifecycle-events]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Jewish divorce
+
 
 
 

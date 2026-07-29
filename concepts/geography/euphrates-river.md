@@ -4,7 +4,7 @@ category: geography
 defines:
   - Euphrates River
   - Al-Furat
-related: ["[[tigris-river]]", "[[mesopotamia]]", "[[syria]]", "[[silk-road]]"]
+related: ["[[tigris-river]]", "[[mesopotamia]]", "[[syria]]", "[[silk-road]]", "[[abraham]]"]
 requires: []
 lists:
   - "[[asian-rivers]]"

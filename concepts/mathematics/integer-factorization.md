@@ -13,6 +13,7 @@ read: false
 # Integer Factorization
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

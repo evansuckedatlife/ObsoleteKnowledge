@@ -5,14 +5,21 @@ defines:
   - Björn Borg
   - Bjorn Borg
 related: ["[[wimbledon]]", "[[french-open]]", "[[john-mcenroe]]"]
-requires: []
+requires: ["[[rod-laver]]"]
 lists:
   - "[[tennis-players]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Björn Borg
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

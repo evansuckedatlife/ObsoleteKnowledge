@@ -4,7 +4,7 @@ category: geography
 defines:
   - Rhône River
   - Rhone
-related: ["[[switzerland]]", "[[france]]", "[[mediterranean]]"]
+related: ["[[switzerland]]", "[[france]]", "[[mediterranean]]", "[[roman-empire]]"]
 requires: []
 lists:
   - "[[western-european-rivers]]"

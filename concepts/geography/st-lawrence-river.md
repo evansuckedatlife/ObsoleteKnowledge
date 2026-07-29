@@ -3,7 +3,7 @@ type: place
 category: geography
 defines:
   - St. Lawrence River
-related: ["[[great-lakes]]", "[[niagara-falls]]", "[[seaway]]"]
+related: ["[[great-lakes]]", "[[niagara-falls]]", "[[seaway]]", "[[french-revolution]]"]
 requires: []
 lists:
   - "[[north-american-rivers]]"

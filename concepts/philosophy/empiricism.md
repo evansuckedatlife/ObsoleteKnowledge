@@ -2,14 +2,21 @@
 type: concept
 category: philosophy
 defines: [Empiricism, Empiricist]
-related: ["[[john-locke]]", "[[david-hume]]", "[[sense-experience]]", "[[induction]]"]
-requires: []
+related: ["[[john-locke]]", "[[david-hume]]", "[[sense-experience]]", "[[induction]]", "[[cognitive-science]]"]
+requires: ["[[pre-socratic-philosophy]]"]
 lists: ["[[schools-of-western-philosophy]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Empiricism
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

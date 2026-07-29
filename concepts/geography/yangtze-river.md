@@ -4,7 +4,7 @@ category: geography
 defines:
   - Yangtze River
   - Chang Jiang
-related: ["[[yellow-river]]", "[[china]]", "[[three-gorges-dam]]"]
+related: ["[[yellow-river]]", "[[china]]", "[[three-gorges-dam]]", "[[confucius]]"]
 requires: []
 lists:
   - "[[asian-rivers]]"

@@ -3,13 +3,20 @@ type: concept
 category: mathematics
 defines: [Continuity, continuous, discontinuous]
 related: ["[[limit]]", "[[intermediate-value-theorem]]"]
-requires: []
+requires: ["[[calculus]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Continuity
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

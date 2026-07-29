@@ -6,11 +6,12 @@ aliases: [immanuel-kant]
 related: ["[[critiques-of-pure-reason]]", "[[categorical-imperative]]", "[[deontological-ethics]]", "[[transcendental-idealism]]", "[[enlightenment]]", "[[david-hume]]"]
 requires: ["[[empiricism]]", "[[rationalism]]"]
 lists: []
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Immanuel Kant
+
 
 
 <!-- foundations -->

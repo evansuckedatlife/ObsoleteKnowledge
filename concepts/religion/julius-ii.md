@@ -5,11 +5,12 @@ defines: ["Julius II", "Pope Julius II", "Giuliano della Rovere", "Warrior Pope"
 related: ["[[peter]]", "[[alexander-vi]]", "[[leo-x]]", "[[michelangelo]]", "[[raphael]]"]
 requires: ["[[christianity]]"]
 lists: ["[[popes]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Julius II
+
 
 
 

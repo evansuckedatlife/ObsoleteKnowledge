@@ -5,11 +5,12 @@ defines: ["Bar/bat mitzvah", "b'nai mitzvah"]
 related: ["[[jewish-baby-naming]]", "[[jewish-confirmation]]", "[[jewish-marriage]]"]
 requires: ["[[judaism]]"]
 lists: ["[[jewish-lifecycle-events]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Bar/bat mitzvah
+
 
 
 

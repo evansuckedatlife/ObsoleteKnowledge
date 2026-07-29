@@ -4,14 +4,21 @@ category: sports
 defines:
   - Rory McIlroy
 related: ["[[tiger-woods]]", "[[jordan-spieth]]", "[[phil-mickelson]]"]
-requires: []
+requires: ["[[tiger-woods]]"]
 lists:
   - "[[golfers]]"
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Rory McIlroy
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

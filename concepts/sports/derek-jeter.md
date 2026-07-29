@@ -16,6 +16,7 @@ read: false
 # Derek Jeter
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

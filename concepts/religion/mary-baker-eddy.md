@@ -5,11 +5,12 @@ defines: [Mary Baker Eddy]
 related: ["[[christian-science]]"]
 requires: ["[[christianity]]", "[[christian-science]]"]
 lists: ["[[founders-of-religious-traditions]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Mary Baker Eddy
+
 
 
 

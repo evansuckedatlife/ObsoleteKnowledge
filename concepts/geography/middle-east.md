@@ -2,7 +2,7 @@
 type: place
 category: geography
 defines: [Middle East]
-related: ["[[israel]]", "[[palestine]]", "[[iraq]]", "[[iran]]", "[[saudi-arabia]]", "[[arab-israeli-conflict]]", "[[islam]]", "[[ottoman-empire]]", "[[mesopotamia]]", "[[suez-canal]]"]
+related: ["[[israel]]", "[[palestine]]", "[[iraq]]", "[[iran]]", "[[saudi-arabia]]", "[[arab-israeli-conflict]]", "[[islam]]", "[[ottoman-empire]]", "[[mesopotamia]]", "[[suez-canal]]", "[[crusades]]"]
 requires: []
 lists: []
 tour_order: 0

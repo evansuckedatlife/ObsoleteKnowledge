@@ -2,7 +2,7 @@
 type: place
 category: geography
 defines: [India, Republic of India, Bharat]
-related: ["[[hinduism]]", "[[buddhism]]", "[[vedas]]", "[[taj-mahal]]", "[[british-raj]]", "[[gandhi]]", "[[caste-system]]", "[[vedic-civilization]]", "[[silk-road]]", "[[british-empire]]"]
+related: ["[[hinduism]]", "[[buddhism]]", "[[vedas]]", "[[taj-mahal]]", "[[british-raj]]", "[[gandhi]]", "[[caste-system]]", "[[vedic-civilization]]", "[[silk-road]]", "[[british-empire]]", "[[krishna]]"]
 requires: []
 lists: []
 tour_order: 0

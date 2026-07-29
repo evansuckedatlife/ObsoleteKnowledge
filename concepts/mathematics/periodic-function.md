@@ -3,13 +3,20 @@ type: term
 category: mathematics
 defines: [Periodic Function]
 related: ["[[trigonometric-function]]", "[[sine-function]]", "[[cosine-function]]", "[[fourier-series]]"]
-requires: []
+requires: ["[[trigonometric-function]]"]
 lists: ["[[classifications-of-functions]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Periodic Function
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

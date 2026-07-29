@@ -5,11 +5,12 @@ defines: [Jacob, Israel]
 related: ["[[abraham]]", "[[moses]]", "[[joseph]]"]
 requires: ["[[hebrew-bible]]"]
 lists: ["[[hebrew-bible-characters]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Jacob
+
 
 
 

@@ -12,6 +12,7 @@ read: false
 # Quotient Rule
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

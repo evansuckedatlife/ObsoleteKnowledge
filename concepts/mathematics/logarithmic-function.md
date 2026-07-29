@@ -5,11 +5,12 @@ defines: [Logarithmic Function, Logarithm]
 related: ["[[exponential-function]]", "[[e-mathematical-constant]]", "[[inverse-function]]"]
 requires: ["[[exponential-function]]"]
 lists: []
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Logarithmic Function
+
 
 
 <!-- foundations -->

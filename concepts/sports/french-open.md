@@ -4,7 +4,7 @@ category: sports
 defines: [French Open, Roland-Garros, French Championships]
 aliases:
   - roland-garros
-related: ["[[tennis]]", "[[roger-federer]]", "[[rafael-nadal]]", "[[serena-williams]]", "[[chris-evert]]", "[[france]]", "[[paris]]"]
+related: ["[[tennis]]", "[[roger-federer]]", "[[rafael-nadal]]", "[[serena-williams]]", "[[chris-evert]]", "[[france]]", "[[paris]]", "[[world-war-ii]]"]
 requires: []
 lists:
   - "[[tennis-grand-slams]]"

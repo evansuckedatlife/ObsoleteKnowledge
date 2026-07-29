@@ -4,7 +4,7 @@ category: sports
 defines:
   - Rod Laver
   - Rodney George Laver
-related: ["[[grand-slam-tournaments]]", "[[australian-open]]", "[[wimbledon]]", "[[australia]]"]
+related: ["[[grand-slam-tournaments]]", "[[australian-open]]", "[[wimbledon]]", "[[australia]]", "[[world-war-ii]]"]
 requires: []
 lists:
   - "[[tennis-players]]"

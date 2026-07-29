@@ -2,7 +2,7 @@
 type: place
 category: geography
 defines: [Israel, "State of Israel"]
-related: ["[[judaism]]", "[[middle-east]]", "[[zionism]]", "[[palestine]]", "[[jerusalem]]", "[[torah]]", "[[holocaust]]", "[[jewish-diaspora]]", "[[arab-israeli-conflict]]"]
+related: ["[[judaism]]", "[[middle-east]]", "[[zionism]]", "[[palestine]]", "[[jerusalem]]", "[[torah]]", "[[holocaust]]", "[[jewish-diaspora]]", "[[arab-israeli-conflict]]", "[[moses]]", "[[crucifixion]]"]
 requires: []
 lists: []
 tour_order: 0

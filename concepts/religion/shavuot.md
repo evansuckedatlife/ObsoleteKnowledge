@@ -5,11 +5,12 @@ defines: [Shavuot, "Feast of Weeks"]
 related: ["[[torah]]", "[[passover]]", "[[judaism]]"]
 requires: ["[[judaism]]", "[[torah]]"]
 lists: ["[[jewish-holidays]]"]
-tour_order: 2
+tour_order: 4
 read: false
 ---
 
 # Shavuot
+
 
 
 

@@ -15,6 +15,7 @@ read: false
 # Seine River
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

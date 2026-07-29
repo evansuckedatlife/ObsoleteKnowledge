@@ -5,16 +5,7 @@ defines:
   - China
   - People's Republic of China
   - Zhongguo
-related:
-  - "[[great-wall-of-china]]"
-  - "[[silk-road]]"
-  - "[[confucianism]]"
-  - "[[taoism]]"
-  - "[[chinese-dynasties]]"
-  - "[[forbidden-city]]"
-  - "[[mao-zedong]]"
-  - "[[kung-fu]]"
-  - "[[chinese-philosophy]]"
+related: ["[[great-wall-of-china]]", "[[silk-road]]", "[[confucianism]]", "[[taoism]]", "[[chinese-dynasties]]", "[[forbidden-city]]", "[[mao-zedong]]", "[[kung-fu]]", "[[chinese-philosophy]]", "[[confucius]]"]
 requires: []
 lists: []
 tour_order: 0

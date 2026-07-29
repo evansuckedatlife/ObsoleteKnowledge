@@ -5,11 +5,12 @@ defines: [Jezebel]
 related: ["[[elijah]]", "[[1-kings]]"]
 requires: ["[[hebrew-bible]]"]
 lists: ["[[biblical-sayings]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Jezebel
+
 
 
 

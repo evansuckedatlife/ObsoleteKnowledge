@@ -5,11 +5,12 @@ defines: ["Urban II", "Pope Urban II", "Odo of Châtillon", "Odo of Lagery"]
 related: ["[[peter]]", "[[gregory-vii]]", "[[innocent-iii]]"]
 requires: ["[[christianity]]"]
 lists: ["[[popes]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Urban II
+
 
 
 

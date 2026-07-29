@@ -5,11 +5,12 @@ defines: [Judas Iscariot, Judas]
 related: ["[[jesus]]", "[[peter]]", "[[crucifixion]]"]
 requires: ["[[jesus]]"]
 lists: ["[[new-testament-characters]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Judas Iscariot
+
 
 
 

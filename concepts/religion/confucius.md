@@ -2,7 +2,7 @@
 type: person
 category: religion
 defines: [Confucius, Kongzi, Kong Qiu]
-related: ["[[analects]]", "[[tao-te-ching]]"]
+related: ["[[analects]]", "[[tao-te-ching]]", "[[confucianism]]", "[[china]]"]
 requires: []
 lists: ["[[founders-of-religious-traditions]]"]
 tour_order: 0

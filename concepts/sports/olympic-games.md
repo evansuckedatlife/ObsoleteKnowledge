@@ -2,7 +2,7 @@
 type: event
 category: sports
 defines: ["Olympic Games", Olympics, Olympic competition]
-related: ["[[ancient-greece]]", "[[ancient-greek-athletics]]", "[[1896-athens-olympics]]", "[[1996-atlanta-olympics]]", "[[1936-berlin-olympics]]", "[[1980-lake-placid-winter-olympics]]", "[[pierre-de-coubertin]]", "[[international-olympic-committee]]", "[[athleticism]]", "[[nationalism]]"]
+related: ["[[ancient-greece]]", "[[ancient-greek-athletics]]", "[[1896-athens-olympics]]", "[[1996-atlanta-olympics]]", "[[1936-berlin-olympics]]", "[[1980-lake-placid-winter-olympics]]", "[[pierre-de-coubertin]]", "[[international-olympic-committee]]", "[[athleticism]]", "[[nationalism]]", "[[world-war-ii]]"]
 requires: []
 lists: []
 tour_order: 0

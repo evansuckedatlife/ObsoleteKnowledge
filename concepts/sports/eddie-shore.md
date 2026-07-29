@@ -4,7 +4,7 @@ category: sports
 defines:
   - Eddie Shore
   - The Old Lamplighter
-related: ["[[boston-bruins]]", "[[stanley-cup]]", "[[defenseman]]"]
+related: ["[[boston-bruins]]", "[[stanley-cup]]", "[[defenseman]]", "[[industrial-revolution]]"]
 requires: []
 lists:
   - "[[hockey-hall-of-famers]]"

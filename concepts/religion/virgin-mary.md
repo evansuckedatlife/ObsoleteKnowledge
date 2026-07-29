@@ -5,11 +5,12 @@ defines: [Virgin Mary, Mary]
 related: ["[[jesus]]", "[[joseph]]"]
 requires: ["[[jesus]]", "[[christianity]]"]
 lists: ["[[new-testament-characters]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Virgin Mary
+
 
 
 

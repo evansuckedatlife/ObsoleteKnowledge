@@ -5,11 +5,12 @@ defines: ["Innocent III", "Pope Innocent III", "Lothar of Segni"]
 related: ["[[peter]]", "[[gregory-vii]]", "[[king-john]]", "[[boniface-viii]]"]
 requires: ["[[christianity]]"]
 lists: ["[[popes]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Innocent III
+
 
 
 

@@ -12,6 +12,7 @@ read: false
 # Transcendental Function
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

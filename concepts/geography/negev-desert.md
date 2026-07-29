@@ -16,6 +16,7 @@ read: false
 # Negev Desert
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

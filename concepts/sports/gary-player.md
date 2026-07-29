@@ -5,14 +5,21 @@ defines:
   - Gary Player
   - The Black Knight
 related: ["[[jack-nicklaus]]", "[[arnold-palmer]]", "[[tom-watson]]"]
-requires: []
+requires: ["[[jack-nicklaus]]"]
 lists:
   - "[[golfers]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Gary Player
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

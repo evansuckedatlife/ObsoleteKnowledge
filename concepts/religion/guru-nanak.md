@@ -5,11 +5,12 @@ defines: [Guru Nanak]
 related: ["[[founders-of-religious-traditions]]"]
 requires: ["[[hinduism]]", "[[islam]]"]
 lists: ["[[founders-of-religious-traditions]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Guru Nanak
+
 
 
 

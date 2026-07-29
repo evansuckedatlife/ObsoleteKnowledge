@@ -4,15 +4,22 @@ category: sports
 defines:
   - 1896 Summer Olympics
   - Athens Olympics
-related: ["[[olympic-games]]", "[[baron-de-coubertin]]", "[[ancient-greece]]"]
-requires: []
+related: ["[[olympic-games]]", "[[baron-de-coubertin]]", "[[ancient-greece]]", "[[athens]]", "[[world-war-ii]]"]
+requires: ["[[olympic-games]]"]
 lists:
   - "[[olympics]]"
-tour_order: 0
+tour_order: 1
 read: true
 ---
 
 # 1896 Summer Olympics
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

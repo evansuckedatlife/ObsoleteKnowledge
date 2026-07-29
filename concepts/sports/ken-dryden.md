@@ -4,14 +4,21 @@ category: sports
 defines:
   - Ken Dryden
 related: ["[[montreal-canadiens]]", "[[stanley-cup]]", "[[goaltender]]"]
-requires: []
+requires: ["[[stanley-cup]]"]
 lists:
   - "[[hockey-hall-of-famers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Ken Dryden
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

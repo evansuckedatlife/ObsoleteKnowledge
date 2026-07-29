@@ -5,11 +5,12 @@ defines: [Pontius Pilate, Pilate]
 related: ["[[jesus]]", "[[crucifixion]]", "[[herod]]"]
 requires: ["[[jesus]]", "[[christianity]]", "[[roman-empire]]"]
 lists: ["[[new-testament-characters]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Pontius Pilate
+
 
 
 

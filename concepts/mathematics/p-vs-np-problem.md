@@ -13,6 +13,7 @@ read: false
 # P vs NP Problem
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

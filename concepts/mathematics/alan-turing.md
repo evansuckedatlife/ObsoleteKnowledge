@@ -4,7 +4,7 @@ category: mathematics
 defines:
   - Alan Turing
   - Turing
-related: ["[[turing-machine]]", "[[halting-problem]]", "[[decision-problem]]", "[[kurt-godel]]"]
+related: ["[[turing-machine]]", "[[halting-problem]]", "[[decision-problem]]", "[[kurt-godel]]", "[[world-war-ii]]"]
 requires: []
 lists:
   - "[[mathematicians]]"

@@ -3,13 +3,20 @@ type: concept
 category: mathematics
 defines: ["Euclid–Euler Theorem", "Euclid-Euler Theorem"]
 related: ["[[perfect-numbers]]", "[[mersenne-primes]]", "[[euclid]]"]
-requires: []
+requires: ["[[number-theory]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Euclid–Euler Theorem
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

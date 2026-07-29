@@ -3,13 +3,20 @@ type: concept
 category: philosophy
 defines: [Stoicism, Stoic]
 related: ["[[marcus-aurelius]]", "[[epictetus]]", "[[virtue]]", "[[reason]]", "[[ancient-greece]]", "[[roman-empire]]"]
-requires: []
+requires: ["[[pre-socratic-philosophy]]"]
 lists: ["[[schools-of-western-philosophy]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Stoicism
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

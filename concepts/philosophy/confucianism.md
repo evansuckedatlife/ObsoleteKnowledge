@@ -4,13 +4,7 @@ category: philosophy
 defines:
   - Confucianism
   - Confucian
-related:
-  - "[[confucius]]"
-  - "[[mencius]]"
-  - "[[ritual]]"
-  - "[[virtue]]"
-  - "[[filial-piety]]"
-  - "[[virtue-ethics]]"
+related: ["[[confucius]]", "[[mencius]]", "[[ritual]]", "[[virtue]]", "[[filial-piety]]", "[[virtue-ethics]]", "[[china]]", "[[tao-te-ching]]"]
 requires: []
 lists: []
 tour_order: 0

@@ -2,7 +2,7 @@
 type: place
 category: geography
 defines: [Germany, Deutschland, German Empire]
-related: ["[[holy-roman-empire]]", "[[bismarck]]", "[[martin-luther]]", "[[world-war-i]]", "[[world-war-ii]]", "[[goethe]]", "[[classical-music]]", "[[protestant-reformation]]", "[[beethoven]]", "[[nazi-germany]]"]
+related: ["[[holy-roman-empire]]", "[[bismarck]]", "[[martin-luther]]", "[[world-war-i]]", "[[world-war-ii]]", "[[goethe]]", "[[classical-music]]", "[[protestant-reformation]]", "[[beethoven]]", "[[nazi-germany]]", "[[bauhaus]]"]
 requires: []
 lists: []
 tour_order: 0

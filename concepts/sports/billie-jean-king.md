@@ -4,7 +4,7 @@ category: sports
 defines:
   - Billie Jean King
   - Billie Jean Moffitt King
-related: ["[[wimbledon]]", "[[us-open]]", "[[tennis-equality]]", "[[civil-rights-movement]]"]
+related: ["[[wimbledon]]", "[[us-open]]", "[[tennis-equality]]", "[[civil-rights-movement]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[tennis-players]]"

@@ -4,15 +4,22 @@ category: sports
 defines:
   - Andre Agassi
   - André Agassi
-related: ["[[pete-sampras]]", "[[roger-federer]]", "[[grand-slam-tournaments]]"]
-requires: []
+related: ["[[pete-sampras]]", "[[roger-federer]]", "[[grand-slam-tournaments]]", "[[united-states]]", "[[civil-rights-movement]]"]
+requires: ["[[rod-laver]]"]
 lists:
   - "[[tennis-players]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Andre Agassi
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

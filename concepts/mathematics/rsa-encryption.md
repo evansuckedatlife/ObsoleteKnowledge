@@ -12,6 +12,7 @@ read: false
 # RSA Encryption
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

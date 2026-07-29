@@ -5,11 +5,12 @@ defines: [the writing on the wall, the handwriting on the wall]
 related: ["[[book-of-daniel]]", "[[daniel]]"]
 requires: ["[[hebrew-bible]]"]
 lists: ["[[biblical-sayings]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # the writing on the wall
+
 
 
 

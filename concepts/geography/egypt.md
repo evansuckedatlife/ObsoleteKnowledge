@@ -2,7 +2,7 @@
 type: place
 category: geography
 defines: [Egypt, "Arab Republic of Egypt"]
-related: ["[[nile-river]]", "[[pharaoh]]", "[[ancient-egypt]]", "[[cairo]]", "[[suez-canal]]", "[[middle-east]]", "[[islam]]", "[[hieroglyphics]]", "[[pyramids]]", "[[cleopatra]]"]
+related: ["[[nile-river]]", "[[pharaoh]]", "[[ancient-egypt]]", "[[cairo]]", "[[suez-canal]]", "[[middle-east]]", "[[islam]]", "[[hieroglyphics]]", "[[pyramids]]", "[[cleopatra]]", "[[moses]]"]
 requires: []
 lists: []
 tour_order: 0

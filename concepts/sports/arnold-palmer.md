@@ -4,7 +4,7 @@ category: sports
 defines:
   - Arnold Palmer
   - The King
-related: ["[[jack-nicklaus]]", "[[gary-player]]", "[[tom-watson]]", "[[tiger-woods]]"]
+related: ["[[jack-nicklaus]]", "[[gary-player]]", "[[tom-watson]]", "[[tiger-woods]]", "[[united-states]]", "[[space-race]]"]
 requires: []
 lists:
   - "[[golfers]]"

@@ -4,14 +4,21 @@ category: sports
 defines:
   - Martina Navratilova
 related: ["[[wimbledon]]", "[[billie-jean-king]]", "[[chris-evert]]"]
-requires: []
+requires: ["[[billie-jean-king]]"]
 lists:
   - "[[tennis-players]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Martina Navratilova
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

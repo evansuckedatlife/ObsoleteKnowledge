@@ -5,11 +5,12 @@ defines: [Temple in Jerusalem, Holy Temple, Beit HaMikdash]
 related: ["[[solomon]]", "[[david]]", "[[tisha-bav]]", "[[hanukkah]]", "[[judaism]]", "[[crucifixion]]", "[[western-wall]]"]
 requires: ["[[judaism]]", "[[hebrew-bible]]"]
 lists: []
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Temple in Jerusalem
+
 
 
 

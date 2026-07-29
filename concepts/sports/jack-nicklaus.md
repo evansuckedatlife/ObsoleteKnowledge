@@ -4,15 +4,22 @@ category: sports
 defines:
   - Jack Nicklaus
   - The Golden Bear
-related: ["[[tiger-woods]]", "[[arnold-palmer]]", "[[gary-player]]", "[[tom-watson]]"]
-requires: []
+related: ["[[tiger-woods]]", "[[arnold-palmer]]", "[[gary-player]]", "[[tom-watson]]", "[[united-states]]", "[[space-race]]"]
+requires: ["[[arnold-palmer]]"]
 lists:
   - "[[golfers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Jack Nicklaus
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

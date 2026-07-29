@@ -3,13 +3,20 @@ type: term
 category: mathematics
 defines: [Rational Function]
 related: ["[[polynomial-function]]", "[[quadratic-function]]", "[[discontinuity]]"]
-requires: []
+requires: ["[[polynomial-function]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Rational Function
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

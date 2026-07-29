@@ -12,6 +12,7 @@ read: false
 # Riemann Sums
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

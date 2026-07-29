@@ -2,7 +2,7 @@
 type: event
 category: sports
 defines: ["Super Bowl", NFL championship, professional football championship]
-related: ["[[national-football-league]]", "[[american-football]]", "[[tom-brady]]", "[[peyton-manning]]", "[[joe-montana]]", "[[patrick-mahomes]]", "[[sports-broadcasting]]", "[[television-advertising]]", "[[american-culture]]", "[[professional-sports-leagues]]"]
+related: ["[[national-football-league]]", "[[american-football]]", "[[tom-brady]]", "[[peyton-manning]]", "[[joe-montana]]", "[[patrick-mahomes]]", "[[sports-broadcasting]]", "[[television-advertising]]", "[[american-culture]]", "[[professional-sports-leagues]]", "[[united-states]]"]
 requires: []
 lists: []
 tour_order: 0

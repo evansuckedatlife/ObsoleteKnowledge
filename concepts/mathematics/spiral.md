@@ -3,13 +3,20 @@ type: term
 category: mathematics
 defines: [Spiral]
 related: ["[[cycloid]]", "[[catenary]]", "[[lemniscate]]", "[[cardioid]]"]
-requires: []
+requires: ["[[conic-sections]]"]
 lists: ["[[geometric-curves]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Spiral
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

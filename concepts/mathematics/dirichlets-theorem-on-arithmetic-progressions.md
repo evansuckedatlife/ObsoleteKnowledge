@@ -13,6 +13,7 @@ read: false
 # Dirichlet's Theorem on Arithmetic Progressions
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

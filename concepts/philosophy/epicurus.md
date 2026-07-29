@@ -3,13 +3,20 @@ type: person
 category: philosophy
 defines: [Epicurus, Epicureanism]
 related: ["[[stoicism]]", "[[atomism]]", "[[pleasure-and-pain]]", "[[lucretius]]", "[[ancient-greece]]"]
-requires: []
+requires: ["[[pre-socratic-philosophy]]"]
 lists: ["[[ancient-philosophers]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Epicurus
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

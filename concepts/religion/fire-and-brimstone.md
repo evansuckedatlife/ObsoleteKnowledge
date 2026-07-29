@@ -5,11 +5,12 @@ defines: [fire and brimstone]
 related: ["[[sodom-and-gomorrah]]", "[[book-of-revelation]]"]
 requires: ["[[judaism]]", "[[christianity]]"]
 lists: ["[[biblical-sayings]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # fire and brimstone
+
 
 
 

@@ -5,21 +5,15 @@ defines:
   - Torah
   - Pentateuch
   - Written Law
-related:
-  - "[[judaism]]"
-  - "[[moses]]"
-  - "[[talmud]]"
-  - "[[hebrew-bible-characters]]"
-  - "[[shavuot]]"
-  - "[[ark-of-the-covenant]]"
-requires:
-  - "[[judaism]]"
+related: ["[[judaism]]", "[[moses]]", "[[talmud]]", "[[hebrew-bible-characters]]", "[[shavuot]]", "[[ark-of-the-covenant]]", "[[israel]]", "[[the-odyssey]]"]
+requires: ["[[hebrew-bible]]"]
 lists: []
-tour_order: 1
+tour_order: 3
 read: true
 ---
 
 # Torah
+
 
 
 

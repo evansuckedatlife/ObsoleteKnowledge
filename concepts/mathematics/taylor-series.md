@@ -12,6 +12,7 @@ read: false
 # Taylor Series
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

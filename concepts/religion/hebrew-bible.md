@@ -5,22 +5,15 @@ defines:
   - Hebrew Bible
   - Tanakh
   - Old Testament
-related:
-  - "[[torah]]"
-  - "[[moses]]"
-  - "[[david]]"
-  - "[[abraham]]"
-  - "[[judaism]]"
-  - "[[christianity]]"
-  - "[[septuagint]]"
-requires:
-  - "[[judaism]]"
+related: ["[[torah]]", "[[moses]]", "[[david]]", "[[abraham]]", "[[judaism]]", "[[christianity]]", "[[septuagint]]", "[[euripides]]", "[[israel]]"]
+requires: ["[[judaism]]"]
 lists: []
-tour_order: 1
+tour_order: 2
 read: true
 ---
 
 # Hebrew Bible
+
 
 
 

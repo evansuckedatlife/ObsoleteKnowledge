@@ -13,6 +13,7 @@ read: false
 # Mersenne Primes
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

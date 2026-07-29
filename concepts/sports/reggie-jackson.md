@@ -5,15 +5,22 @@ defines:
   - Reggie Jackson
   - Reginald Martinez Jackson
   - Mr. October
-related: ["[[derek-jeter]]", "[[don-mattingly]]", "[[mariano-rivera]]", "[[the-new-york-yankees]]"]
-requires: []
+related: ["[[derek-jeter]]", "[[don-mattingly]]", "[[mariano-rivera]]", "[[the-new-york-yankees]]", "[[united-states]]"]
+requires: ["[[babe-ruth]]"]
 lists:
   - "[[new-york-yankees]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Reggie Jackson
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

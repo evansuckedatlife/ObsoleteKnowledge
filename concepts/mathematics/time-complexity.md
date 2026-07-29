@@ -6,13 +6,20 @@ defines:
   - Time complexity
   - "Big O notation"
 related: ["[[p-complexity-class]]", "[[np-complexity-class]]", "[[space-complexity]]", "[[turing-machine]]"]
-requires: []
+requires: ["[[big-o-notation]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Time Complexity
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

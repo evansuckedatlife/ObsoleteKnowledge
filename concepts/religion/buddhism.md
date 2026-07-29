@@ -2,14 +2,21 @@
 type: concept
 category: religion
 defines: [Buddhism]
-related: ["[[siddhartha-gautama]]", "[[four-noble-truths]]", "[[noble-eightfold-path]]", "[[upanishads]]", "[[tao-te-ching]]", "[[ashoka]]"]
-requires: []
+related: ["[[siddhartha-gautama]]", "[[four-noble-truths]]", "[[noble-eightfold-path]]", "[[upanishads]]", "[[tao-te-ching]]", "[[ashoka]]", "[[india]]"]
+requires: ["[[hinduism]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Buddhism
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

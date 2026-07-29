@@ -3,14 +3,15 @@ type: person
 category: philosophy
 defines: [René Descartes, Descartes, Rene Descartes]
 aliases: [rene-descartes]
-related: ["[[cogito-ergo-sum]]", "[[dualism]]", "[[rationalism]]", "[[method-of-doubt]]", "[[mind-body-problem]]", "[[god]]", "[[calculus]]"]
-requires: []
+related: ["[[cogito-ergo-sum]]", "[[dualism]]", "[[rationalism]]", "[[method-of-doubt]]", "[[mind-body-problem]]", "[[god]]", "[[calculus]]", "[[french-revolution]]"]
+requires: ["[[pre-socratic-philosophy]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # René Descartes
+
 
 
 <!-- foundations -->

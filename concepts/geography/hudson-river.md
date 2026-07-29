@@ -3,7 +3,7 @@ type: place
 category: geography
 defines:
   - Hudson River
-related: ["[[new-york-city]]", "[[appalachian-mountains]]", "[[atlantic-ocean]]", "[[world-war-ii]]"]
+related: ["[[new-york-city]]", "[[appalachian-mountains]]", "[[atlantic-ocean]]", "[[world-war-ii]]", "[[american-revolution]]"]
 requires: []
 lists:
   - "[[north-american-rivers]]"

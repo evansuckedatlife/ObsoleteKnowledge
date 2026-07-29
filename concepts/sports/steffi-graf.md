@@ -3,15 +3,22 @@ type: person
 category: sports
 defines:
   - Steffi Graf
-related: ["[[wimbledon]]", "[[french-open]]", "[[martina-navratilova]]", "[[germany]]"]
-requires: []
+related: ["[[wimbledon]]", "[[french-open]]", "[[martina-navratilova]]", "[[germany]]", "[[cold-war]]"]
+requires: ["[[rod-laver]]"]
 lists:
   - "[[tennis-players]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Steffi Graf
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -5,7 +5,7 @@ defines:
   - Bobby Jones
   - Robert Tyre Jones
   - Robert Tyre "Bobby" Jones
-related: ["[[walter-hagen]]", "[[gene-sarazen]]", "[[arnold-palmer]]"]
+related: ["[[walter-hagen]]", "[[gene-sarazen]]", "[[arnold-palmer]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[golfers]]"

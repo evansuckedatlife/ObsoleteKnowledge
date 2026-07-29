@@ -12,6 +12,7 @@ read: false
 # Plato
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -12,6 +12,7 @@ read: false
 # Differentiable
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

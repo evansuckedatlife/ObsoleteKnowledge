@@ -5,11 +5,12 @@ defines: [Second Temple Period, Second Temple Judaism]
 related: ["[[temple-in-jerusalem]]", "[[judaism]]", "[[maccabean-revolt]]", "[[roman-jewish-war]]", "[[hebrew-bible]]", "[[rabbinical-judaism]]", "[[pharisees]]"]
 requires: ["[[judaism]]", "[[hebrew-bible]]"]
 lists: []
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Second Temple
+
 
 
 

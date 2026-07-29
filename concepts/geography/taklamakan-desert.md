@@ -5,7 +5,7 @@ defines:
   - Taklamakan Desert
   - Taklamakan
   - Taklimakan
-related: ["[[central-asia]]", "[[silk-road]]", "[[xinjiang]]", "[[china]]"]
+related: ["[[central-asia]]", "[[silk-road]]", "[[xinjiang]]", "[[china]]", "[[buddhism]]"]
 requires: []
 lists:
   - "[[deserts]]"

@@ -4,15 +4,22 @@ category: sports
 defines:
   - Aaron Judge
   - The Slugger
-related: ["[[alex-rodriguez]]", "[[derek-jeter]]", "[[the-new-york-yankees]]"]
-requires: []
+related: ["[[alex-rodriguez]]", "[[derek-jeter]]", "[[the-new-york-yankees]]", "[[new-york-city]]", "[[united-states]]"]
+requires: ["[[the-new-york-yankees]]"]
 lists:
   - "[[new-york-yankees]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Aaron Judge
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

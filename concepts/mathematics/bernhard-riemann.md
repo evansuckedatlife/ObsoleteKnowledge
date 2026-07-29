@@ -2,14 +2,21 @@
 type: person
 category: mathematics
 defines: [Bernhard Riemann, Georg Friedrich Bernhard Riemann, Riemann]
-related: ["[[riemann-hypothesis]]", "[[riemann-sums]]", "[[carl-friedrich-gauss]]", "[[prime-number-theorem]]"]
-requires: []
+related: ["[[riemann-hypothesis]]", "[[riemann-sums]]", "[[carl-friedrich-gauss]]", "[[prime-number-theorem]]", "[[albert-einstein]]", "[[renaissance]]", "[[descartes]]"]
+requires: ["[[calculus]]"]
 lists: ["[[mathematicians]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Bernhard Riemann
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

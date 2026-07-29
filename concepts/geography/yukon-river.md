@@ -3,7 +3,7 @@ type: place
 category: geography
 defines:
   - Yukon River
-related: ["[[alaska]]", "[[canada]]", "[[arctic-ocean]]"]
+related: ["[[alaska]]", "[[canada]]", "[[arctic-ocean]]", "[[age-of-exploration]]"]
 requires: []
 lists:
   - "[[north-american-rivers]]"

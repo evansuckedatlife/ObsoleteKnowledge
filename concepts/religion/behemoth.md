@@ -3,17 +3,16 @@ type: phrase
 category: religion
 defines:
   - Behemoth
-related:
-  - "[[book-of-job]]"
-requires:
-  - "[[hebrew-bible]]"
+related: ["[[book-of-job]]", "[[medusa]]", "[[book-of-the-dead]]"]
+requires: ["[[hebrew-bible]]"]
 lists:
   - "[[biblical-sayings]]"
-tour_order: 2
+tour_order: 3
 read: true
 ---
 
 # Behemoth
+
 
 
 

@@ -4,15 +4,22 @@ category: sports
 defines:
   - Ben Roethlisberger
   - Benjamin Todd Roethlisberger
-related: ["[[pittsburgh-steelers]]", "[[super-bowl]]", "[[nfl-draft]]", "[[2005-nfl-season]]"]
-requires: []
+related: ["[[pittsburgh-steelers]]", "[[super-bowl]]", "[[nfl-draft]]", "[[2005-nfl-season]]", "[[united-states]]"]
+requires: ["[[super-bowl]]"]
 lists:
   - "[[21st-century-quarterbacks]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Ben Roethlisberger
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

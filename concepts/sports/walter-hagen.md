@@ -4,7 +4,7 @@ category: sports
 defines:
   - Walter Hagen
   - The Haig
-related: ["[[bobby-jones]]", "[[gene-sarazen]]", "[[arnold-palmer]]"]
+related: ["[[bobby-jones]]", "[[gene-sarazen]]", "[[arnold-palmer]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[golfers]]"

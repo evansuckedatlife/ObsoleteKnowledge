@@ -5,11 +5,12 @@ defines: [Jewish death and burial]
 related: ["[[jewish-mourning]]", "[[jewish-marriage]]", "[[kaddish]]"]
 requires: ["[[judaism]]"]
 lists: ["[[jewish-lifecycle-events]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Jewish death and burial
+
 
 
 

@@ -5,11 +5,12 @@ defines: [Brit milah, bris, circumcision]
 related: ["[[jewish-baby-naming]]", "[[covenant-of-abraham]]"]
 requires: ["[[judaism]]"]
 lists: ["[[jewish-lifecycle-events]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Brit milah
+
 
 
 

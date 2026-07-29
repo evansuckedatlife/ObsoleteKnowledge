@@ -12,6 +12,7 @@ read: false
 # Modular Arithmetic
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

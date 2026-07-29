@@ -4,15 +4,22 @@ category: sports
 defines:
   - Aaron Rodgers
   - Aaron Charles Rodgers
-related: ["[[green-bay-packers]]", "[[super-bowl]]", "[[nfl-draft]]", "[[tom-brady]]"]
-requires: []
+related: ["[[green-bay-packers]]", "[[super-bowl]]", "[[nfl-draft]]", "[[tom-brady]]", "[[united-states]]"]
+requires: ["[[super-bowl]]"]
 lists:
   - "[[21st-century-quarterbacks]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Aaron Rodgers
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

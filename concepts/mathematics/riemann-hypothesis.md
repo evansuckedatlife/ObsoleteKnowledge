@@ -3,14 +3,21 @@ type: concept
 category: mathematics
 defines: ["Riemann Hypothesis", "Riemann Zeta Function"]
 related: ["[[prime-number-theorem]]", "[[complex-analysis]]", "[[millennium-prize-problems]]"]
-requires: []
+requires: ["[[number-theory]]"]
 lists:
   - "[[statements-about-prime-numbers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Riemann Hypothesis
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

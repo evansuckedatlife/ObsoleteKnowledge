@@ -5,11 +5,12 @@ defines: [Good Samaritan]
 related: ["[[gospels]]", "[[jesus]]"]
 requires: ["[[jesus]]", "[[christianity]]"]
 lists: ["[[biblical-sayings]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Good Samaritan
+
 
 
 

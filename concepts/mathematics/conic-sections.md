@@ -2,7 +2,7 @@
 type: term
 category: mathematics
 defines: [Conic Sections]
-related: ["[[circle]]", "[[ellipse]]", "[[parabola]]", "[[hyperbola]]", "[[euclid]]"]
+related: ["[[circle]]", "[[ellipse]]", "[[parabola]]", "[[hyperbola]]", "[[euclid]]", "[[leonardo-da-vinci]]"]
 requires: []
 lists: []
 tour_order: 0

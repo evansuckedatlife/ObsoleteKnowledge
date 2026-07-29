@@ -4,15 +4,22 @@ category: sports
 defines:
   - Lee Trevino
   - The Merry Mex
-related: ["[[tom-watson]]", "[[jack-nicklaus]]", "[[arnold-palmer]]"]
-requires: []
+related: ["[[tom-watson]]", "[[jack-nicklaus]]", "[[arnold-palmer]]", "[[united-states]]"]
+requires: ["[[arnold-palmer]]"]
 lists:
   - "[[golfers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Lee Trevino
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

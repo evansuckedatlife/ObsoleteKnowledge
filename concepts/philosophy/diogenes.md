@@ -12,6 +12,7 @@ read: false
 # Diogenes of Sinope
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

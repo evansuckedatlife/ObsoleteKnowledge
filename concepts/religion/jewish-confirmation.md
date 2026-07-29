@@ -5,11 +5,12 @@ defines: [Jewish confirmation]
 related: ["[[bar-bat-mitzvah]]", "[[jewish-marriage]]", "[[shavuot]]"]
 requires: ["[[judaism]]"]
 lists: ["[[jewish-lifecycle-events]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Jewish confirmation
+
 
 
 

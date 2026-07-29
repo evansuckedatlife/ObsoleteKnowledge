@@ -12,6 +12,7 @@ read: false
 # Socrates
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

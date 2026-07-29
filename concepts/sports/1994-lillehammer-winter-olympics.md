@@ -5,14 +5,21 @@ defines:
   - 1994 Winter Olympics
   - Lillehammer Winter Olympics
 related: ["[[olympic-games]]", "[[nancy-kerrigan]]"]
-requires: []
+requires: ["[[olympic-games]]"]
 lists:
   - "[[olympics]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # 1994 Winter Olympics
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

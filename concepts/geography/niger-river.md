@@ -4,7 +4,7 @@ category: geography
 defines:
   - Niger River
   - Niger
-related: ["[[nile-river]]", "[[congo-river]]"]
+related: ["[[nile-river]]", "[[congo-river]]", "[[kwame-nkrumah]]"]
 requires: []
 lists:
   - "[[african-bodies-of-water]]"

@@ -2,7 +2,7 @@
 type: person
 category: mathematics
 defines: [Euclid, Euclid of Alexandria]
-related: ["[[euclidean-geometry]]", "[[axioms]]", "[[prime-numbers]]", "[[the-elements]]", "[[pythagoras]]", "[[ancient-greece]]"]
+related: ["[[euclidean-geometry]]", "[[axioms]]", "[[prime-numbers]]", "[[the-elements]]", "[[pythagoras]]", "[[ancient-greece]]", "[[pre-socratic-philosophy]]"]
 requires: []
 lists: ["[[mathematicians]]"]
 tour_order: 0

@@ -5,11 +5,12 @@ defines: ["Alexander VI", "Pope Alexander VI", "Rodrigo Borgia", "Rodrigo de Bor
 related: ["[[peter]]", "[[julius-ii]]"]
 requires: ["[[christianity]]", "[[roman-empire]]"]
 lists: ["[[popes]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Alexander VI
+
 
 
 

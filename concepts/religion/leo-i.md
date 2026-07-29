@@ -5,11 +5,12 @@ defines: ["Leo I", "Saint Leo the Great", "Pope Leo I"]
 related: ["[[peter]]", "[[jesus]]"]
 requires: ["[[christianity]]"]
 lists: ["[[popes]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Leo I
+
 
 
 

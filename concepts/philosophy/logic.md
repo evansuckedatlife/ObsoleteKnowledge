@@ -12,6 +12,7 @@ read: false
 # Logic
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

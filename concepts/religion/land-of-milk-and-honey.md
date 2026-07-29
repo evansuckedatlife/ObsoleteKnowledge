@@ -3,11 +3,8 @@ type: phrase
 category: religion
 defines:
   - a land of milk and honey
-related:
-  - "[[exodus]]"
-  - "[[moses]]"
-requires:
-  - "[[hebrew-bible]]"
+related: ["[[exodus]]", "[[moses]]", "[[egypt]]", "[[israel]]"]
+requires: ["[[exodus]]"]
 lists:
   - "[[biblical-sayings]]"
 tour_order: 2
@@ -15,6 +12,7 @@ read: true
 ---
 
 # a land of milk and honey
+
 
 
 

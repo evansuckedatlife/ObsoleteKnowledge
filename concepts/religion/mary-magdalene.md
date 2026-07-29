@@ -5,11 +5,12 @@ defines: [Mary Magdalene]
 related: ["[[jesus]]", "[[resurrection]]", "[[crucifixion]]"]
 requires: ["[[jesus]]", "[[christianity]]"]
 lists: ["[[new-testament-characters]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Mary Magdalene
+
 
 
 

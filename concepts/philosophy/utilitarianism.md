@@ -2,14 +2,21 @@
 type: concept
 category: philosophy
 defines: [Utilitarianism, Utilitarian]
-related: ["[[jeremy-bentham]]", "[[john-stuart-mill]]", "[[happiness]]", "[[ethics]]", "[[enlightenment]]", "[[industrial-revolution]]"]
-requires: []
+related: ["[[jeremy-bentham]]", "[[john-stuart-mill]]", "[[happiness]]", "[[ethics]]", "[[enlightenment]]", "[[industrial-revolution]]", "[[john-maynard-keynes]]"]
+requires: ["[[empiricism]]"]
 lists: ["[[schools-of-western-philosophy]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Utilitarianism
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -5,11 +5,12 @@ defines: [Differentiable Function, Differentiability]
 related: ["[[derivative]]", "[[continuous-functions]]", "[[mean-value-theorem]]", "[[polynomial-function]]"]
 requires: ["[[calculus]]", "[[continuity]]"]
 lists: ["[[classifications-of-functions]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Differentiable Function
+
 
 
 <!-- foundations -->

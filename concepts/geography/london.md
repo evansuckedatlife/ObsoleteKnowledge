@@ -12,6 +12,7 @@ read: false
 # London
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

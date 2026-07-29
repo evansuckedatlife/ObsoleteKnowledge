@@ -4,20 +4,15 @@ category: religion
 defines:
   - Kaddish
   - Mourner's Kaddish
-related:
-  - "[[judaism]]"
-  - "[[jewish-mourning]]"
-  - "[[aramaic]]"
-  - "[[prayer]]"
-  - "[[hebrew-prayer-book]]"
-requires:
-  - "[[judaism]]"
+related: ["[[judaism]]", "[[jewish-mourning]]", "[[aramaic]]", "[[prayer]]", "[[hebrew-prayer-book]]", "[[motet]]"]
+requires: ["[[judaism]]"]
 lists: []
-tour_order: 1
+tour_order: 2
 read: true
 ---
 
 # Kaddish
+
 
 
 

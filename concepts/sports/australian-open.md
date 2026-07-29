@@ -2,7 +2,7 @@
 type: event
 category: sports
 defines: [Australian Open, Australian Championships, Australian Nationals]
-related: ["[[tennis]]", "[[roger-federer]]", "[[serena-williams]]", "[[novak-djokovic]]", "[[margaret-smith-court]]"]
+related: ["[[tennis]]", "[[roger-federer]]", "[[serena-williams]]", "[[novak-djokovic]]", "[[margaret-smith-court]]", "[[australia]]", "[[world-war-ii]]"]
 requires: []
 lists:
   - "[[tennis-grand-slams]]"

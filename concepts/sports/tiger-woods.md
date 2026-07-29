@@ -4,15 +4,22 @@ category: sports
 defines:
   - Tiger Woods
   - Eldrick Tont Woods
-related: ["[[jack-nicklaus]]", "[[phil-mickelson]]", "[[rory-mcilroy]]", "[[arnold-palmer]]"]
-requires: []
+related: ["[[jack-nicklaus]]", "[[phil-mickelson]]", "[[rory-mcilroy]]", "[[arnold-palmer]]", "[[united-states]]", "[[space-race]]"]
+requires: ["[[jack-nicklaus]]"]
 lists:
   - "[[golfers]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Tiger Woods
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

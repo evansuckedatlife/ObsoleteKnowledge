@@ -4,15 +4,22 @@ category: sports
 defines:
   - Sam Snead
   - Slammin' Sam
-related: ["[[ben-hogan]]", "[[byron-nelson]]", "[[arnold-palmer]]"]
-requires: []
+related: ["[[ben-hogan]]", "[[byron-nelson]]", "[[arnold-palmer]]", "[[united-states]]"]
+requires: ["[[walter-hagen]]"]
 lists:
   - "[[golfers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Sam Snead
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

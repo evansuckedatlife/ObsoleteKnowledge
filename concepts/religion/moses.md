@@ -5,11 +5,12 @@ defines: [Moses]
 related: ["[[abraham]]", "[[jacob]]", "[[aaron]]", "[[joshua]]"]
 requires: ["[[judaism]]", "[[abraham]]"]
 lists: ["[[hebrew-bible-characters]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Moses
+
 
 
 

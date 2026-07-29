@@ -5,11 +5,12 @@ defines: [Gospels, Canonical Gospels, Four Gospels]
 related: ["[[jesus]]", "[[john-the-apostle]]", "[[peter]]", "[[good-samaritan]]", "[[sermon-on-the-mount]]", "[[synoptic-gospels]]"]
 requires: ["[[jesus]]", "[[christianity]]"]
 lists: []
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Gospels
+
 
 
 

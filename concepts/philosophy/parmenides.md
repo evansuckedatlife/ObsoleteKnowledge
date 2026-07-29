@@ -12,6 +12,7 @@ read: false
 # Parmenides
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

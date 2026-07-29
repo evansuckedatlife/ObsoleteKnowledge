@@ -4,15 +4,22 @@ category: sports
 defines:
   - Drew Brees
   - Andrew Christopher Brees
-related: ["[[san-diego-chargers]]", "[[new-orleans-saints]]", "[[super-bowl]]", "[[nfl-records]]"]
-requires: []
+related: ["[[san-diego-chargers]]", "[[new-orleans-saints]]", "[[super-bowl]]", "[[nfl-records]]", "[[united-states]]"]
+requires: ["[[super-bowl]]"]
 lists:
   - "[[21st-century-quarterbacks]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Drew Brees
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -2,7 +2,7 @@
 type: place
 category: geography
 defines: [United States, United States of America, USA]
-related: ["[[american-revolution]]", "[[united-states-constitution]]", "[[civil-war]]", "[[civil-rights-movement]]", "[[world-war-ii]]", "[[cold-war]]", "[[washington-dc]]", "[[atlantic-ocean]]", "[[pacific-ocean]]", "[[north-america]]", "[[american-civil-war]]"]
+related: ["[[american-revolution]]", "[[united-states-constitution]]", "[[civil-war]]", "[[civil-rights-movement]]", "[[world-war-ii]]", "[[cold-war]]", "[[washington-dc]]", "[[atlantic-ocean]]", "[[pacific-ocean]]", "[[north-america]]", "[[american-civil-war]]", "[[industrial-revolution]]"]
 requires: []
 lists: []
 tour_order: 0

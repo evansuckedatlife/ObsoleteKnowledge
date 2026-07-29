@@ -4,15 +4,22 @@ category: sports
 defines:
   - Tom Brady
   - Thomas Edward Patrick Brady Jr.
-related: ["[[new-england-patriots]]", "[[tampa-bay-buccaneers]]", "[[super-bowl]]", "[[nfl-draft]]"]
-requires: []
+related: ["[[new-england-patriots]]", "[[tampa-bay-buccaneers]]", "[[super-bowl]]", "[[nfl-draft]]", "[[united-states]]"]
+requires: ["[[super-bowl]]"]
 lists:
   - "[[21st-century-quarterbacks]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Tom Brady
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

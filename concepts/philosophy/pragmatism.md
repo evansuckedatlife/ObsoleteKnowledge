@@ -5,11 +5,12 @@ defines: [Pragmatism, Pragmatist]
 related: ["[[charles-peirce]]", "[[william-james]]", "[[john-dewey]]", "[[truth]]", "[[action]]", "[[enlightenment]]"]
 requires: ["[[empiricism]]"]
 lists: ["[[schools-of-western-philosophy]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Pragmatism
+
 
 
 <!-- foundations -->

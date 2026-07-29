@@ -4,15 +4,22 @@ category: sports
 defines:
   - Rafael Nadal
   - Rafa Nadal
-related: ["[[french-open]]", "[[roger-federer]]", "[[novak-djokovic]]", "[[wimbledon]]", "[[spain]]"]
-requires: []
+related: ["[[french-open]]", "[[roger-federer]]", "[[novak-djokovic]]", "[[wimbledon]]", "[[spain]]", "[[world-war-ii]]"]
+requires: ["[[roger-federer]]"]
 lists:
   - "[[tennis-players]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Rafael Nadal
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

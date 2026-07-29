@@ -5,11 +5,12 @@ defines: [Thomas, Doubting Thomas]
 related: ["[[jesus]]", "[[resurrection]]", "[[the-twelve-apostles]]"]
 requires: ["[[jesus]]", "[[christianity]]"]
 lists: ["[[new-testament-characters]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Thomas
+
 
 
 

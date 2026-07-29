@@ -5,11 +5,12 @@ defines: [Siddhartha Gautama, the Buddha, Gautama Buddha]
 related: ["[[buddhism]]"]
 requires: ["[[buddhism]]"]
 lists: ["[[founders-of-religious-traditions]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Siddhartha Gautama
+
 
 
 

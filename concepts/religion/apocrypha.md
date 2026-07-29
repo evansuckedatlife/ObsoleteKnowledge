@@ -5,11 +5,12 @@ defines: [Apocrypha]
 related: ["[[torah]]", "[[bible]]"]
 requires: ["[[hebrew-bible]]", "[[judaism]]"]
 lists: ["[[religious-texts]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Apocrypha
+
 
 
 

@@ -4,14 +4,21 @@ category: sports
 defines:
   - Naomi Osaka
 related: ["[[us-open]]", "[[australian-open]]", "[[wimbledon]]", "[[japan]]"]
-requires: []
+requires: ["[[serena-williams]]"]
 lists:
   - "[[tennis-players]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Naomi Osaka
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

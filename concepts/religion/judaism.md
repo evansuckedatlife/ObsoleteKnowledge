@@ -3,20 +3,21 @@ type: concept
 category: religion
 defines:
   - Judaism
-related:
-  - "[[torah]]"
-  - "[[abraham]]"
-  - "[[moses]]"
-  - "[[temple-in-jerusalem]]"
-  - "[[talmud]]"
-  - "[[exodus]]"
-requires: []
+related: ["[[torah]]", "[[abraham]]", "[[moses]]", "[[temple-in-jerusalem]]", "[[talmud]]", "[[exodus]]", "[[middle-east]]", "[[israel]]"]
+requires: ["[[abraham]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: true
 ---
 
 # Judaism
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

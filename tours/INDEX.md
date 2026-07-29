@@ -3,17 +3,16 @@ type: tour-index
 read: false
 ---
 
-# Guided Tours — Pop-Culture
+# Guided Tours — Geography
 
 Foundations-first reading paths. Pick a tour; the **Next up** line is your bookmark (regenerate to refresh).
 
 | Tour | Items | Read |
 |---|---|---|
-| [[pop-culture-core|Core spine]] | 17 | 0/17 |
-| [[classic-american-television-series|classic American television series]] | 10 | 0/10 |
-| [[landmark-20th-century-american-sitcoms|landmark 20th-century American sitcoms]] | 10 | 0/10 |
-| [[modern-board-games|modern board games]] | 10 | 0/10 |
-| [[pre-1960s-movies|pre-1960s movies]] | 10 | 0/10 |
-| [[sandbox-and-open-world-video-games|sandbox and open-world video games]] | 10 | 1/10 |
-| [[silent-films|silent films]] | 10 | 0/10 |
-| [[video-game-series|video game series]] | 10 | 0/10 |
+| [[geography-core|Core spine]] | 24 | 1/24 |
+| [[african-bodies-of-water|African bodies of water]] | 11 | 1/11 |
+| [[asian-rivers|Asian rivers]] | 10 | 0/10 |
+| [[north-american-rivers|North American rivers]] | 14 | 0/14 |
+| [[deserts|deserts]] | 13 | 0/13 |
+| [[mountains|mountains]] | 11 | 0/11 |
+| [[western-european-rivers|western European rivers]] | 10 | 0/10 |

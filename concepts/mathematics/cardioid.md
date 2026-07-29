@@ -12,6 +12,7 @@ read: false
 # Cardioid
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

@@ -4,15 +4,22 @@ category: sports
 defines:
   - Russell Wilson
   - Russell Carrington Wilson
-related: ["[[seattle-seahawks]]", "[[denver-broncos]]", "[[super-bowl]]", "[[nfl-draft]]"]
-requires: []
+related: ["[[seattle-seahawks]]", "[[denver-broncos]]", "[[super-bowl]]", "[[nfl-draft]]", "[[united-states]]"]
+requires: ["[[super-bowl]]"]
 lists:
   - "[[21st-century-quarterbacks]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Russell Wilson
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

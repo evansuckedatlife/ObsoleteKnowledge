@@ -4,7 +4,7 @@ category: geography
 defines:
   - Rhine River
   - Rhine
-related: ["[[holy-roman-empire]]", "[[netherlands]]", "[[germany]]", "[[roman-empire]]", "[[world-war-ii]]"]
+related: ["[[holy-roman-empire]]", "[[netherlands]]", "[[germany]]", "[[roman-empire]]", "[[world-war-ii]]", "[[charlemagne]]"]
 requires: []
 lists:
   - "[[western-european-rivers]]"

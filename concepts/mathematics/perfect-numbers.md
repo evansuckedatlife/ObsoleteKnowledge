@@ -12,6 +12,7 @@ read: false
 # Perfect Numbers
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

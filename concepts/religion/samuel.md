@@ -5,11 +5,12 @@ defines: [Samuel]
 related: ["[[saul]]", "[[david]]", "[[judges]]"]
 requires: ["[[hebrew-bible]]", "[[judaism]]"]
 lists: ["[[hebrew-bible-characters]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Samuel
+
 
 
 

@@ -12,6 +12,7 @@ read: false
 # Fundamental Theorem of Calculus
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

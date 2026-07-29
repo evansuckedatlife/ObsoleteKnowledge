@@ -4,15 +4,22 @@ category: sports
 defines:
   - Novak Djokovic
   - Novak Djokovic
-related: ["[[roger-federer]]", "[[rafael-nadal]]", "[[australian-open]]", "[[wimbledon]]"]
-requires: []
+related: ["[[roger-federer]]", "[[rafael-nadal]]", "[[australian-open]]", "[[wimbledon]]", "[[world-war-i]]"]
+requires: ["[[roger-federer]]"]
 lists:
   - "[[tennis-players]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Novak Djokovic
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

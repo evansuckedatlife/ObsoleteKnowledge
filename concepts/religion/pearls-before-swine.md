@@ -5,11 +5,12 @@ defines: [pearls before swine, casting pearls before swine]
 related: ["[[sermon-on-the-mount]]", "[[jesus]]"]
 requires: ["[[gospels]]"]
 lists: ["[[biblical-sayings]]"]
-tour_order: 3
+tour_order: 4
 read: false
 ---
 
 # pearls before swine
+
 
 
 

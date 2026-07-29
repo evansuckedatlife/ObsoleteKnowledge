@@ -4,15 +4,22 @@ category: sports
 defines:
   - 1996 Summer Olympics
   - Atlanta Olympics
-related: ["[[olympic-games]]", "[[muhammad-ali]]"]
-requires: []
+related: ["[[olympic-games]]", "[[muhammad-ali]]", "[[cold-war]]", "[[united-states]]"]
+requires: ["[[olympic-games]]"]
 lists:
   - "[[olympics]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # 1996 Summer Olympics
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

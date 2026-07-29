@@ -5,11 +5,12 @@ defines: [David, King David]
 related: ["[[samuel]]", "[[goliath]]", "[[bathsheba]]", "[[solomon]]"]
 requires: ["[[hebrew-bible]]", "[[judaism]]"]
 lists: ["[[hebrew-bible-characters]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # David
+
 
 
 

@@ -5,11 +5,12 @@ defines: [Jewish mourning, shiva, aveilut]
 related: ["[[jewish-death]]", "[[kaddish]]", "[[judaism]]"]
 requires: ["[[judaism]]"]
 lists: ["[[jewish-lifecycle-events]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Jewish mourning
+
 
 
 

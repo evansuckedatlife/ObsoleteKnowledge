@@ -5,11 +5,12 @@ defines: ["Gregory I", "Saint Gregory the Great", "Pope Gregory I", "Pope Gregor
 related: ["[[peter]]", "[[leo-i]]", "[[innocent-iii]]"]
 requires: ["[[christianity]]", "[[roman-empire]]"]
 lists: ["[[popes]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Gregory I
+
 
 
 

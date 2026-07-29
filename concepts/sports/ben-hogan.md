@@ -4,15 +4,22 @@ category: sports
 defines:
   - Ben Hogan
   - Bantam Ben
-related: ["[[sam-snead]]", "[[byron-nelson]]", "[[arnold-palmer]]"]
-requires: []
+related: ["[[sam-snead]]", "[[byron-nelson]]", "[[arnold-palmer]]", "[[united-states]]", "[[world-war-ii]]"]
+requires: ["[[arnold-palmer]]"]
 lists:
   - "[[golfers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Ben Hogan
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

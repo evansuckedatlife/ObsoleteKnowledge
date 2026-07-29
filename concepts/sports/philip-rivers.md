@@ -4,15 +4,22 @@ category: sports
 defines:
   - Philip Rivers
   - Philip Michael Rivers
-related: ["[[san-diego-chargers]]", "[[los-angeles-chargers]]", "[[afl-draft]]", "[[nfl-draft]]"]
-requires: []
+related: ["[[san-diego-chargers]]", "[[los-angeles-chargers]]", "[[afl-draft]]", "[[nfl-draft]]", "[[united-states]]"]
+requires: ["[[super-bowl]]"]
 lists:
   - "[[21st-century-quarterbacks]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Philip Rivers
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -3,19 +3,16 @@ type: text
 category: religion
 defines:
   - Talmud
-related:
-  - "[[torah]]"
-  - "[[moses]]"
-requires:
-  - "[[judaism]]"
-  - "[[torah]]"
+related: ["[[torah]]", "[[moses]]", "[[roman-empire]]", "[[stoicism]]"]
+requires: ["[[torah]]"]
 lists:
   - "[[religious-texts]]"
-tour_order: 2
+tour_order: 4
 read: true
 ---
 
 # Talmud
+
 
 
 

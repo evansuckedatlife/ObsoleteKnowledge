@@ -5,11 +5,12 @@ defines: [Lazarus]
 related: ["[[jesus]]", "[[resurrection]]", "[[gospels]]"]
 requires: ["[[jesus]]", "[[christianity]]"]
 lists: ["[[new-testament-characters]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Lazarus
+
 
 
 

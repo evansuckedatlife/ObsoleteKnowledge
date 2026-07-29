@@ -3,13 +3,20 @@ type: term
 category: mathematics
 defines: [Hilbert space, infinite-dimensional vector space, complete inner product space]
 related: ["[[vector-space]]", "[[inner-product]]", "[[linear-algebra]]", "[[quantum-mechanics]]", "[[functional-analysis]]", "[[david-hilbert]]"]
-requires: []
+requires: ["[[calculus]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Hilbert Space
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

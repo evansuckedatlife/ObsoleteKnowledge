@@ -2,14 +2,21 @@
 type: concept
 category: philosophy
 defines: [Existentialism, Existentialist]
-related: ["[[jean-paul-sartre]]", "[[albert-camus]]", "[[martin-heidegger]]", "[[freedom]]", "[[authenticity]]", "[[modernism]]", "[[fyodor-dostoevsky]]"]
-requires: []
+related: ["[[jean-paul-sartre]]", "[[albert-camus]]", "[[martin-heidegger]]", "[[freedom]]", "[[authenticity]]", "[[modernism]]", "[[fyodor-dostoevsky]]", "[[world-war-ii]]", "[[cold-war]]"]
+requires: ["[[descartes]]"]
 lists: ["[[schools-of-western-philosophy]]"]
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Existentialism
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

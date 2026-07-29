@@ -5,11 +5,12 @@ defines: [Paul, Saul of Tarsus, Saint Paul]
 related: ["[[jesus]]", "[[peter]]", "[[epistles]]"]
 requires: ["[[jesus]]", "[[christianity]]"]
 lists: ["[[new-testament-characters]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Paul
+
 
 
 

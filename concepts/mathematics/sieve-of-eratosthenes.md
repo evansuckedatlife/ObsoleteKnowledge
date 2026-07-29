@@ -3,14 +3,21 @@ type: concept
 category: mathematics
 defines: ["Sieve of Eratosthenes", "Sieve algorithm"]
 related: ["[[prime-number-theorem]]", "[[infinitude-of-primes]]"]
-requires: []
+requires: ["[[number-theory]]"]
 lists:
   - "[[statements-about-prime-numbers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Sieve of Eratosthenes
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -2,7 +2,7 @@
 type: person
 category: philosophy
 defines: [Thales of Miletus, Thales]
-related: ["[[pre-socratic-philosophy]]", "[[natural-philosophy]]", "[[water-element]]", "[[milesian-school]]", "[[ancient-greece]]"]
+related: ["[[pre-socratic-philosophy]]", "[[natural-philosophy]]", "[[water-element]]", "[[milesian-school]]", "[[ancient-greece]]", "[[euclid]]"]
 requires: []
 lists: ["[[ancient-philosophers]]"]
 tour_order: 0

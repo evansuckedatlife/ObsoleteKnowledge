@@ -2,7 +2,7 @@
 type: concept
 category: sports
 defines: [New York Yankees, Yankees, Bronx Bombers]
-related: ["[[tom-brady]]", "[[babe-ruth]]", "[[mickey-mantle]]", "[[joe-dimaggio]]", "[[lou-gehrig]]", "[[derek-jeter]]", "[[new-york-city]]"]
+related: ["[[tom-brady]]", "[[babe-ruth]]", "[[mickey-mantle]]", "[[joe-dimaggio]]", "[[lou-gehrig]]", "[[derek-jeter]]", "[[new-york-city]]", "[[united-states]]"]
 requires: []
 lists: []
 tour_order: 0

@@ -5,11 +5,12 @@ defines: ["Mary, Mother of Jesus", "Mary of Nazareth", "Blessed Virgin Mary"]
 related: ["[[jesus]]", "[[virgin-mary]]", "[[joseph]]", "[[anna]]", "[[simeon]]", "[[wedding-at-cana]]", "[[crucifixion]]"]
 requires: ["[[jesus]]", "[[christianity]]"]
 lists: []
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Mary, Mother of Jesus
+
 
 
 

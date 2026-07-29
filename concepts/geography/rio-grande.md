@@ -3,7 +3,7 @@ type: place
 category: geography
 defines:
   - Rio Grande
-related: ["[[colorado-river]]", "[[gulf-of-mexico]]", "[[mexico]]"]
+related: ["[[colorado-river]]", "[[gulf-of-mexico]]", "[[mexico]]", "[[american-civil-war]]"]
 requires: []
 lists:
   - "[[north-american-rivers]]"

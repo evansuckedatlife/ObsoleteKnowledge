@@ -3,15 +3,22 @@ type: person
 category: sports
 defines:
   - Venus Williams
-related: ["[[serena-williams]]", "[[wimbledon]]", "[[us-open]]"]
-requires: []
+related: ["[[serena-williams]]", "[[wimbledon]]", "[[us-open]]", "[[united-states]]", "[[civil-rights-movement]]"]
+requires: ["[[billie-jean-king]]"]
 lists:
   - "[[tennis-players]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Venus Williams
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

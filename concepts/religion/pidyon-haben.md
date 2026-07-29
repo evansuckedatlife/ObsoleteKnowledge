@@ -5,11 +5,12 @@ defines: [Pidyon ha-ben, "redemption of the firstborn"]
 related: ["[[brit-milah]]", "[[bar-bat-mitzvah]]"]
 requires: ["[[judaism]]"]
 lists: ["[[jewish-lifecycle-events]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Pidyon ha-ben
+
 
 
 

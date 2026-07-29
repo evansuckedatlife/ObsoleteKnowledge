@@ -5,11 +5,12 @@ defines: [Epicureanism, Epicurean]
 related: ["[[epicurus]]", "[[pleasure]]", "[[tranquility]]", "[[stoicism]]", "[[ancient-greece]]"]
 requires: ["[[epicurus]]"]
 lists: ["[[schools-of-western-philosophy]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Epicureanism
+
 
 
 <!-- foundations -->

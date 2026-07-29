@@ -15,6 +15,7 @@ read: false
 # Margaret Smith Court
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

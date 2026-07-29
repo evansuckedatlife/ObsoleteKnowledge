@@ -5,11 +5,12 @@ defines: [Avesta, "Zend-Avesta"]
 related: ["[[zoroaster]]"]
 requires: ["[[zoroastrianism]]"]
 lists: ["[[religious-texts]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Avesta
+
 
 
 

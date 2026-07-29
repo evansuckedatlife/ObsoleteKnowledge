@@ -12,6 +12,7 @@ read: false
 # Chain Rule
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

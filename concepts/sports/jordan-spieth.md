@@ -3,15 +3,22 @@ type: person
 category: sports
 defines:
   - Jordan Spieth
-related: ["[[rory-mcilroy]]", "[[tiger-woods]]", "[[phil-mickelson]]"]
-requires: []
+related: ["[[rory-mcilroy]]", "[[tiger-woods]]", "[[phil-mickelson]]", "[[united-states]]"]
+requires: ["[[tiger-woods]]"]
 lists:
   - "[[golfers]]"
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Jordan Spieth
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

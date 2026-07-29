@@ -3,7 +3,7 @@ type: place
 category: geography
 defines:
   - Columbia River
-related: ["[[snake-river]]", "[[pacific-northwest]]", "[[grand-coulee-dam]]"]
+related: ["[[snake-river]]", "[[pacific-northwest]]", "[[grand-coulee-dam]]", "[[american-revolution]]"]
 requires: []
 lists:
   - "[[north-american-rivers]]"

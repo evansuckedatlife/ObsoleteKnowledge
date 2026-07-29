@@ -13,6 +13,7 @@ read: false
 # Goldbach's Conjecture
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

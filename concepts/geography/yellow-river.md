@@ -4,7 +4,7 @@ category: geography
 defines:
   - Yellow River
   - Huang He
-related: ["[[yangtze-river]]", "[[china]]", "[[loess-plateau]]"]
+related: ["[[yangtze-river]]", "[[china]]", "[[loess-plateau]]", "[[confucius]]"]
 requires: []
 lists:
   - "[[asian-rivers]]"

@@ -5,11 +5,12 @@ defines: [Passover, Pesach]
 related: ["[[exodus]]", "[[moses]]", "[[seder]]", "[[judaism]]"]
 requires: ["[[judaism]]"]
 lists: ["[[jewish-holidays]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Passover
+
 
 
 

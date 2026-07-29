@@ -4,16 +4,7 @@ category: philosophy
 defines:
   - Pre-Socratic Philosophy
   - Pre-Socratic Thought
-related:
-  - "[[heraclitus]]"
-  - "[[parmenides]]"
-  - "[[pythagoras]]"
-  - "[[thales]]"
-  - "[[zeno-of-elea]]"
-  - "[[socrates]]"
-  - "[[logic]]"
-  - "[[metaphysics]]"
-  - "[[ancient-greece]]"
+related: ["[[heraclitus]]", "[[parmenides]]", "[[pythagoras]]", "[[thales]]", "[[zeno-of-elea]]", "[[socrates]]", "[[logic]]", "[[metaphysics]]", "[[ancient-greece]]", "[[the-odyssey]]"]
 requires: []
 lists: []
 tour_order: 0

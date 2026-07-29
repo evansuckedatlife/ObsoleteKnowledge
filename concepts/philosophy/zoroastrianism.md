@@ -3,13 +3,20 @@ type: concept
 category: philosophy
 defines: [Zoroastrianism, Zoroastrian]
 related: ["[[zoroaster]]", "[[dualism]]", "[[good-and-evil]]", "[[monotheism]]", "[[eschatology]]", "[[zoroastrian-cosmology]]", "[[christianity]]", "[[iran]]"]
-requires: []
+requires: ["[[zoroaster]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Zoroastrianism
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

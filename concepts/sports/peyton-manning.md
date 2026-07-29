@@ -4,15 +4,22 @@ category: sports
 defines:
   - Peyton Manning
   - Peyton Williams Manning
-related: ["[[indianapolis-colts]]", "[[denver-broncos]]", "[[tom-brady]]", "[[super-bowl]]"]
-requires: []
+related: ["[[indianapolis-colts]]", "[[denver-broncos]]", "[[tom-brady]]", "[[super-bowl]]", "[[united-states]]"]
+requires: ["[[super-bowl]]"]
 lists:
   - "[[21st-century-quarterbacks]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Peyton Manning
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

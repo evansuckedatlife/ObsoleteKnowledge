@@ -13,6 +13,7 @@ read: false
 # Fermat's Little Theorem
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

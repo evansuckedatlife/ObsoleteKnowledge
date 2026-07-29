@@ -2,14 +2,21 @@
 type: person
 category: mathematics
 defines: [Andrew Wiles, Wiles]
-related: ["[[fermat-last-theorem]]", "[[elliptic-curves]]", "[[modular-forms]]", "[[taniyama-shimura-conjecture]]", "[[pierre-de-fermat]]"]
-requires: []
+related: ["[[fermat-last-theorem]]", "[[elliptic-curves]]", "[[modular-forms]]", "[[taniyama-shimura-conjecture]]", "[[pierre-de-fermat]]", "[[descartes]]", "[[albert-einstein]]", "[[enlightenment]]"]
+requires: ["[[number-theory]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Andrew Wiles
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

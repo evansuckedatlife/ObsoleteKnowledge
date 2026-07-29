@@ -5,11 +5,12 @@ defines: [Joseph Smith]
 related: ["[[book-of-mormon]]"]
 requires: ["[[christianity]]"]
 lists: ["[[founders-of-religious-traditions]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Joseph Smith
+
 
 
 

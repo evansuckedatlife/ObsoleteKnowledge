@@ -4,15 +4,22 @@ category: sports
 defines:
   - Yogi Berra
   - Lawrence Peter Berra
-related: ["[[mickey-mantle]]", "[[whitey-ford]]", "[[mariano-rivera]]", "[[the-new-york-yankees]]", "[[new-york-city]]"]
-requires: []
+related: ["[[mickey-mantle]]", "[[whitey-ford]]", "[[mariano-rivera]]", "[[the-new-york-yankees]]", "[[new-york-city]]", "[[united-states]]"]
+requires: ["[[babe-ruth]]"]
 lists:
   - "[[new-york-yankees]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Yogi Berra
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

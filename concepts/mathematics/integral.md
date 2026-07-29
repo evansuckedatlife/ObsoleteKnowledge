@@ -12,6 +12,7 @@ read: false
 # Integral
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

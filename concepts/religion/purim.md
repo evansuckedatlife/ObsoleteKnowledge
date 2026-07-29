@@ -5,11 +5,12 @@ defines: [Purim]
 related: ["[[esther]]", "[[megillah]]", "[[judaism]]"]
 requires: ["[[judaism]]"]
 lists: ["[[jewish-holidays]]"]
-tour_order: 1
+tour_order: 2
 read: false
 ---
 
 # Purim
+
 
 
 

@@ -3,7 +3,7 @@ type: person
 category: sports
 defines:
   - Vladislav Tretiak
-related: ["[[soviet-hockey]]", "[[ice-hockey-olympics]]", "[[goaltender]]", "[[soviet-union]]"]
+related: ["[[soviet-hockey]]", "[[ice-hockey-olympics]]", "[[goaltender]]", "[[soviet-union]]", "[[cold-war]]"]
 requires: []
 lists:
   - "[[hockey-hall-of-famers]]"

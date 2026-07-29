@@ -3,15 +3,22 @@ type: person
 category: sports
 defines:
   - Byron Nelson
-related: ["[[ben-hogan]]", "[[sam-snead]]", "[[arnold-palmer]]"]
-requires: []
+related: ["[[ben-hogan]]", "[[sam-snead]]", "[[arnold-palmer]]", "[[united-states]]", "[[world-war-ii]]"]
+requires: ["[[walter-hagen]]"]
 lists:
   - "[[golfers]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Byron Nelson
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

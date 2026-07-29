@@ -4,15 +4,22 @@ category: sports
 defines:
   - Arthur Ashe
   - Arthur Robert Ashe Jr.
-related: ["[[wimbledon]]", "[[us-open]]", "[[civil-rights-movement]]"]
-requires: []
+related: ["[[wimbledon]]", "[[us-open]]", "[[civil-rights-movement]]", "[[united-states]]", "[[martin-luther-king-jr]]"]
+requires: ["[[rod-laver]]"]
 lists:
   - "[[tennis-players]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Arthur Ashe
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -5,11 +5,12 @@ defines: ["Clement VII", "Pope Clement VII", "Giulio de' Medici", "Giulio di Giu
 related: ["[[peter]]", "[[leo-x]]", "[[julius-ii]]"]
 requires: ["[[christianity]]", "[[roman-empire]]"]
 lists: ["[[popes]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Clement VII
+
 
 
 

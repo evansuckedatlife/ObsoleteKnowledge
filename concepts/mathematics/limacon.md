@@ -3,13 +3,20 @@ type: term
 category: mathematics
 defines: [Limacon, Limaçon, Limacon of Pascal]
 related: ["[[cardioid]]", "[[pascal]]", "[[polar-curves]]", "[[epicycloid]]"]
-requires: []
+requires: ["[[conic-sections]]"]
 lists: []
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Limacon
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

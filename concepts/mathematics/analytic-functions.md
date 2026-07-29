@@ -12,6 +12,7 @@ read: false
 # Analytic Function
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

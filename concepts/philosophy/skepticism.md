@@ -2,14 +2,21 @@
 type: concept
 category: philosophy
 defines: [Skepticism, Skeptical]
-related: ["[[pyrrho]]", "[[carneades]]", "[[knowledge]]", "[[certainty]]", "[[ancient-greece]]"]
-requires: []
+related: ["[[pyrrho]]", "[[carneades]]", "[[knowledge]]", "[[certainty]]", "[[ancient-greece]]", "[[quantum-mechanics]]"]
+requires: ["[[pre-socratic-philosophy]]"]
 lists: ["[[schools-of-western-philosophy]]"]
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Skepticism
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

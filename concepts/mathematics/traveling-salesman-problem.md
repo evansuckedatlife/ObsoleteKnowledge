@@ -3,14 +3,21 @@ type: concept
 category: mathematics
 defines: ["Traveling Salesman Problem", "TSP", "Travelling Salesman Problem"]
 related: ["[[p-vs-np-problem]]", "[[shortest-path-problem]]"]
-requires: []
+requires: ["[[dynamic-programming]]"]
 lists:
   - "[[computation-types]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Traveling Salesman Problem
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

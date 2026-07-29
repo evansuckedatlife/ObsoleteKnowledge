@@ -5,11 +5,12 @@ defines: ["Book of Mormon"]
 related: ["[[joseph-smith]]"]
 requires: ["[[christianity]]"]
 lists: ["[[religious-texts]]"]
-tour_order: 2
+tour_order: 3
 read: false
 ---
 
 # Book of Mormon
+
 
 
 

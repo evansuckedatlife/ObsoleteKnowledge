@@ -4,15 +4,22 @@ category: sports
 defines:
   - Chris Evert
   - Christine Evert Lloyd
-related: ["[[french-open]]", "[[martina-navratilova]]", "[[billie-jean-king]]"]
-requires: []
+related: ["[[french-open]]", "[[martina-navratilova]]", "[[billie-jean-king]]", "[[united-states]]"]
+requires: ["[[billie-jean-king]]"]
 lists:
   - "[[tennis-players]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Chris Evert
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

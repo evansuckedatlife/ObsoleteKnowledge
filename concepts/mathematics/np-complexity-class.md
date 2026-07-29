@@ -15,6 +15,7 @@ read: true
 # NP (Complexity Class)
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")
