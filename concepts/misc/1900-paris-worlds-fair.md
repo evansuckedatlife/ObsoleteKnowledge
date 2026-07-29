@@ -15,6 +15,7 @@ read: false
 # 1900 Paris Exposition Universelle
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

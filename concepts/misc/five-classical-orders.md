@@ -5,15 +5,22 @@ defines:
   - Five Classical Orders of Architecture
   - Five Orders
   - Classical orders
-related: ["[[greek-architecture]]", "[[roman-architecture]]", "[[architecture]]", "[[classical-antiquity]]"]
-requires: []
+related: ["[[greek-architecture]]", "[[roman-architecture]]", "[[architecture]]", "[[classical-antiquity]]", "[[frank-lloyd-wright]]", "[[leonardo-da-vinci]]"]
+requires: ["[[ancient-greece]]"]
 lists:
   - "[[quintuples]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Five Classical Orders of Architecture
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -5,15 +5,22 @@ defines:
   - Hijri New Year
   - Islamic New Year
   - Muharram
-related: ["[[islam]]", "[[islamic-calendar]]", "[[muharram]]"]
-requires: []
+related: ["[[islam]]", "[[islamic-calendar]]", "[[muharram]]", "[[middle-east]]", "[[zoroastrianism]]"]
+requires: ["[[islam]]"]
 lists:
   - "[[new-year-celebrations]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Hijri New Year
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

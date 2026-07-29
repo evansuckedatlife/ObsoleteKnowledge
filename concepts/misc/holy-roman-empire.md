@@ -15,6 +15,7 @@ read: false
 # Holy Roman Empire
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

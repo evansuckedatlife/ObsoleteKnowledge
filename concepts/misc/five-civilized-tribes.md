@@ -4,15 +4,22 @@ category: misc
 defines:
   - Five Civilized Tribes
   - Civilized Tribes
-related: ["[[native-americans]]", "[[united-states-history]]", "[[indian-removal]]", "[[trail-of-tears]]"]
-requires: []
+related: ["[[native-americans]]", "[[united-states-history]]", "[[indian-removal]]", "[[trail-of-tears]]", "[[american-revolution]]"]
+requires: ["[[united-states]]"]
 lists:
   - "[[quintuples]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Five Civilized Tribes
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

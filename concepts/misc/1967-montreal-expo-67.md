@@ -15,6 +15,7 @@ read: false
 # 1967 Montreal Expo 67
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

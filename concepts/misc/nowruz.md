@@ -6,14 +6,21 @@ defines:
   - Nowroz
   - Persian New Year
 related: ["[[zoroastrianism]]", "[[iranian-culture]]", "[[spring-equinox]]", "[[chinese-new-year]]"]
-requires: []
+requires: ["[[iran]]"]
 lists:
   - "[[new-year-celebrations]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Nowruz
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

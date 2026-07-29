@@ -6,14 +6,21 @@ defines:
   - New Year's Eve Ball
   - Ball Drop
 related: ["[[western-new-year]]"]
-requires: []
+requires: ["[[new-york-city]]"]
 lists:
   - "[[new-year-celebrations]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Times Square Ball Drop
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

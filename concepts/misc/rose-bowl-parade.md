@@ -6,14 +6,21 @@ defines:
   - Tournament of Roses Parade
   - Pasadena Parade
 related: ["[[rose-bowl-game]]", "[[pasadena-california]]", "[[western-new-year-s-day]]"]
-requires: []
+requires: ["[[united-states]]"]
 lists:
   - "[[new-year-celebrations]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Rose Bowl Parade
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

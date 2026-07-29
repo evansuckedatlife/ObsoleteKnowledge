@@ -6,14 +6,21 @@ defines:
   - Five Books of Moses
   - Torah
 related: ["[[hebrew-bible]]", "[[torah]]", "[[judaism]]", "[[moses]]"]
-requires: []
+requires: ["[[hebrew-bible]]"]
 lists:
   - "[[quintuples]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Pentateuch
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

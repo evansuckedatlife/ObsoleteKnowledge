@@ -15,6 +15,7 @@ read: false
 # 1893 Chicago World's Columbian Exposition
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

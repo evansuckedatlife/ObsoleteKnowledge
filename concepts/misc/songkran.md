@@ -5,7 +5,7 @@ defines:
   - Songkran
   - Water Festival
   - Thai New Year
-related: ["[[thailand]]", "[[theravada-buddhism]]", "[[spring-equinox]]"]
+related: ["[[thailand]]", "[[theravada-buddhism]]", "[[spring-equinox]]", "[[buddhism]]"]
 requires: []
 lists:
   - "[[new-year-celebrations]]"

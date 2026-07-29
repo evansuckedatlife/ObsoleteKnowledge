@@ -5,15 +5,22 @@ defines:
   - The Merchant of Venice
   - Shylock
   - Shakespeare antisemitism
-related: ["[[shakespeare]]", "[[pound-of-flesh]]"]
-requires: []
+related: ["[[shakespeare]]", "[[pound-of-flesh]]", "[[judaism]]"]
+requires: ["[[william-shakespeare]]"]
 lists:
   - "[[common-mistakes]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # The Merchant of Venice and Antisemitism
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

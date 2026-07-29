@@ -5,15 +5,22 @@ defines:
   - Chinese New Year
   - Spring Festival
   - Lunar New Year
-related: ["[[nowruz]]", "[[tet]]", "[[shogatsu]]", "[[zodiac]]", "[[china]]"]
-requires: []
+related: ["[[nowruz]]", "[[tet]]", "[[shogatsu]]", "[[zodiac]]", "[[china]]", "[[confucianism]]", "[[buddhism]]"]
+requires: ["[[china]]"]
 lists:
   - "[[new-year-celebrations]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Chinese New Year
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

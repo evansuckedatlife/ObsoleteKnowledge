@@ -4,15 +4,22 @@ category: misc
 defines:
   - Five Pillars of Islam
   - Pillars of Islam
-related: ["[[islam]]", "[[muhammadism]]", "[[quran]]"]
-requires: []
+related: ["[[islam]]", "[[muhammadism]]", "[[quran]]", "[[mecca]]"]
+requires: ["[[islam]]"]
 lists:
   - "[[quintuples]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Five Pillars of Islam
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

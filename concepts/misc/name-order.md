@@ -5,7 +5,7 @@ defines:
   - Name order
   - Family name placement
   - Surname convention
-related: ["[[cultural-naming-conventions]]", "[[geography]]"]
+related: ["[[cultural-naming-conventions]]", "[[geography]]", "[[linguistics]]", "[[china]]", "[[japan]]"]
 requires: []
 lists:
   - "[[common-mistakes-2]]"

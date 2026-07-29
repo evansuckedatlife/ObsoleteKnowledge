@@ -5,14 +5,21 @@ defines:
   - Frankenstein authorship myth
   - Victor Frankenstein vs the creature
 related: ["[[mary-shelley]]", "[[gothic-literature]]"]
-requires: []
+requires: ["[[mary-shelley]]"]
 lists:
   - "[[common-mistakes]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Frankenstein Authorship Myth
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

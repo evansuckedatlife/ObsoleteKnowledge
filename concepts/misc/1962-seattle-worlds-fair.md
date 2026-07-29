@@ -15,6 +15,7 @@ read: false
 # 1962 Seattle World's Fair (Century 21 Exposition)
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

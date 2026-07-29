@@ -5,15 +5,22 @@ defines:
   - Mary Wollstonecraft Shelley
   - Mary Shelley
   - Mary Godwin
-related: ["[[mary-wollstonecraft]]", "[[percy-bysshe-shelley]]", "[[frankenstein]]"]
-requires: []
+related: ["[[mary-wollstonecraft]]", "[[percy-bysshe-shelley]]", "[[frankenstein]]", "[[enlightenment]]"]
+requires: ["[[mary-shelley]]"]
 lists:
   - "[[common-mistakes]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Mary Wollstonecraft Shelley
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -5,15 +5,22 @@ defines:
   - Bloody Mary confusion
   - Mary I of England
   - Mary, Queen of Scots
-related: ["[[mary-i-of-england]]", "[[mary-queen-of-scots]]", "[[tudor-dynasty]]"]
-requires: []
+related: ["[[mary-i-of-england]]", "[[mary-queen-of-scots]]", "[[tudor-dynasty]]", "[[british-empire]]"]
+requires: ["[[england]]"]
 lists:
   - "[[common-mistakes]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Bloody Mary Confusion
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

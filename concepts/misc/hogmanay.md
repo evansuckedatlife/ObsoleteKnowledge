@@ -5,14 +5,21 @@ defines:
   - Hogmanay
   - Scottish New Year
 related: ["[[scotland]]", "[[times-square-ball-drop]]", "[[auld-lang-syne]]"]
-requires: []
+requires: ["[[scotland]]"]
 lists:
   - "[[new-year-celebrations]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Hogmanay
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

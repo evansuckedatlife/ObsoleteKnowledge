@@ -4,7 +4,7 @@ category: misc
 defines:
   - Hudson Bay
   - Hudson Strait
-related: ["[[henry-hudson]]", "[[canada]]", "[[arctic-ocean]]"]
+related: ["[[henry-hudson]]", "[[canada]]", "[[arctic-ocean]]", "[[age-of-exploration]]"]
 requires: []
 lists:
   - "[[common-mistakes]]"

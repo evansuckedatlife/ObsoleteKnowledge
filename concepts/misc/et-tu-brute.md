@@ -4,15 +4,22 @@ category: misc
 defines:
   - Et tu, Brute?
   - Et tu, Brute? Then fall, Caesar!
-related: ["[[julius-caesar]]", "[[marcus-brutus]]", "[[shakespeare]]"]
-requires: []
+related: ["[[julius-caesar]]", "[[marcus-brutus]]", "[[shakespeare]]", "[[william-shakespeare]]", "[[roman-empire]]"]
+requires: ["[[rome]]"]
 lists:
   - "[[common-mistakes]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Et tu, Brute?
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -5,15 +5,22 @@ defines:
   - Shogatsu
   - Koshogatsu
   - Japanese New Year
-related: ["[[japan]]", "[[lunar-calendar]]", "[[chinese-new-year]]"]
-requires: []
+related: ["[[japan]]", "[[lunar-calendar]]", "[[chinese-new-year]]", "[[buddhism]]"]
+requires: ["[[japan]]"]
 lists:
   - "[[new-year-celebrations]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Shogatsu
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

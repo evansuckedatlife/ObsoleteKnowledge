@@ -5,15 +5,22 @@ defines:
   - Platonic Solids
   - five Platonic solids
   - regular solids
-related: ["[[plato]]", "[[euclid]]", "[[geometry]]", "[[mathematics]]"]
-requires: []
+related: ["[[plato]]", "[[euclid]]", "[[geometry]]", "[[mathematics]]", "[[pythagoras]]"]
+requires: ["[[plato]]"]
 lists:
   - "[[quintuples]]"
-tour_order: 0
+tour_order: 3
 read: false
 ---
 
 # Platonic Solids
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

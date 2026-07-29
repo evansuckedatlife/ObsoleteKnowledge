@@ -5,14 +5,21 @@ defines:
   - Five Great Lakes
   - the Great Lakes
 related: ["[[united-states]]", "[[canada]]", "[[fresh-water]]"]
-requires: []
+requires: ["[[united-states]]"]
 lists:
   - "[[quintuples]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Five Great Lakes
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

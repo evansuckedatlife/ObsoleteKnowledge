@@ -15,6 +15,7 @@ read: false
 # 1970 Osaka Exposition (Expo 70)
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

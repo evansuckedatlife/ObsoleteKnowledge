@@ -4,15 +4,22 @@ category: misc
 defines:
   - Five Good Emperors
   - Antonine emperors
-related: ["[[roman-empire]]", "[[rome]]", "[[second-century]]", "[[marcus-aurelius]]"]
-requires: []
+related: ["[[roman-empire]]", "[[rome]]", "[[second-century]]", "[[marcus-aurelius]]", "[[stoicism]]"]
+requires: ["[[roman-empire]]"]
 lists:
   - "[[quintuples]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Five Good Emperors
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

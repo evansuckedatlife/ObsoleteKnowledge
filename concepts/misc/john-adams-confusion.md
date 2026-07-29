@@ -6,15 +6,22 @@ defines:
   - John Adams
   - John Quincy Adams
   - Samuel Adams
-related: ["[[john-adams]]", "[[john-quincy-adams]]", "[[samuel-adams]]", "[[american-revolution]]"]
-requires: []
+related: ["[[john-adams]]", "[[john-quincy-adams]]", "[[samuel-adams]]", "[[american-revolution]]", "[[united-states]]"]
+requires: ["[[american-revolution]]"]
 lists:
   - "[[common-mistakes]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # John Adams Confusion
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

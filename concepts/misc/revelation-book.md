@@ -16,6 +16,7 @@ read: false
 # Revelation
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

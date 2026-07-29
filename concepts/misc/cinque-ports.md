@@ -4,15 +4,22 @@ category: misc
 defines:
   - Cinque Ports
   - Five Ports
-related: ["[[england]]", "[[medieval-england]]", "[[english-coast]]"]
-requires: []
+related: ["[[england]]", "[[medieval-england]]", "[[english-coast]]", "[[british-empire]]"]
+requires: ["[[england]]"]
 lists:
   - "[[quintuples]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Cinque Ports
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -16,6 +16,7 @@ read: false
 # Immaculate Conception
 
 
+
 <!-- foundations -->
 ```dataviewjs
 dv.view("_dv/foundations")

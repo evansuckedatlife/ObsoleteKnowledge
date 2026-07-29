@@ -4,15 +4,22 @@ category: misc
 defines:
   - Daniel Shays
   - Shays' Rebellion
-related: ["[[american-revolution]]", "[[articles-of-confederation]]", "[[massachusetts-history]]"]
-requires: []
+related: ["[[american-revolution]]", "[[articles-of-confederation]]", "[[massachusetts-history]]", "[[united-states]]"]
+requires: ["[[american-revolution]]"]
 lists:
   - "[[common-mistakes-2]]"
-tour_order: 0
+tour_order: 1
 read: false
 ---
 
 # Daniel Shays
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 

@@ -4,7 +4,7 @@ category: misc
 defines:
   - Junkanoo
   - Bahamian Parade
-related: ["[[bahamas]]", "[[african-diaspora]]", "[[caribbean-culture]]"]
+related: ["[[bahamas]]", "[[african-diaspora]]", "[[caribbean-culture]]", "[[franz-boas]]"]
 requires: []
 lists:
   - "[[new-year-celebrations]]"

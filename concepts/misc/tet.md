@@ -5,15 +5,22 @@ defines:
   - Tết
   - Tết Nguyên Đán
   - Vietnamese New Year
-related: ["[[chinese-new-year]]", "[[lunar-calendar]]", "[[vietnam]]"]
-requires: []
+related: ["[[chinese-new-year]]", "[[lunar-calendar]]", "[[vietnam]]", "[[confucianism]]"]
+requires: ["[[chinese-new-year]]"]
 lists:
   - "[[new-year-celebrations]]"
-tour_order: 0
+tour_order: 2
 read: false
 ---
 
 # Tết
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
 
 ## summary
 
