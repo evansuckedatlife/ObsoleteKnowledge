@@ -1,0 +1,15 @@
+First-person shooter. A video game genre defined by gameplay presented from the player's perspective looking through the protagonist's eyes, with guns or weapons as the primary interaction. Beginning with Doom in nineteen ninety-three on PC, the genre expanded to dominate both hardcore PC and console gaming, creating massive franchises and defining esports while emphasizing reflexes, spatial awareness, and weapon mastery in both campaign and multiplayer contexts.
+
+Doom in nineteen ninety-three pioneered the genre on PC, establishing the first-person viewpoint and fast-paced gunplay as the template, fundamentally changing how games could be played and designed.
+
+Quake in nineteen ninety-six popularized internet-based multiplayer first-person shooter gaming, creating the infrastructure for competitive esports through LAN tournaments and online deathmatch modes.
+
+Consoles reshaped first-person shooter design. Halo in two thousand one on Xbox proved first-person shooter games could work with controller input, not just mouse and keyboard, introducing controller-friendly mechanics like aim assist and shield systems.
+
+Call of Duty, beginning in two thousand three, became the dominant mainstream franchise, emphasizing cinematic campaigns with Hollywood production values and accessible multiplayer designed for casual players.
+
+Competitive first-person shooter design splits between arcade—fast, high respawn rate, emphasis on reflexes—and tactical styles that emphasize economy, teamwork, and limited lives per round, appealing to different player psychology.
+
+The genre's appeal rests on immediacy and agency. The player is the protagonist, experiencing action in real time without abstraction or turn-based delays, creating an unmediated sense of presence.
+
+Modern first-person shooter games integrate progression systems, cosmetics, and battle passes, evolving from pure gameplay focus to live-service ecosystems with seasonal content and cosmetic monetization strategies.

@@ -15,6 +15,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import glob
 import json
 import os
 import shutil
@@ -57,6 +58,15 @@ def cli() -> str:
     sys.exit("save-to-spotify CLI not found")
 
 
+class RateLimited(RuntimeError):
+    """Spotify's per-account upload cap. Not an error to retry immediately."""
+
+
+def _rate_limited(payload) -> bool:
+    blob = json.dumps(payload) if isinstance(payload, (dict, list)) else str(payload)
+    return "RATE_LIMIT_EXCEEDED" in blob or "(429)" in blob
+
+
 def run(*argv, check=True) -> dict | str:
     # encoding="utf-8" is load-bearing on Windows: with plain text=True Python
     # decodes stdout using the locale codec (cp1252), which mangles the em dash
@@ -64,8 +74,20 @@ def run(*argv, check=True) -> dict | str:
     # dedup in ensure_show and created a second, empty show.
     proc = subprocess.run([cli(), *argv], capture_output=True,
                           text=True, encoding="utf-8", errors="replace")
+    combined = f"{proc.stdout or ''}\n{proc.stderr or ''}"
+
+    # The CLI reports a rate limit inconsistently: sometimes exit 0 with an
+    # {"error": "API error (429) ..."} payload on stdout, sometimes non-zero
+    # with nothing useful. Check the text, not just the return code.
+    if _rate_limited(combined):
+        raise RateLimited(
+            "Spotify upload rate limit reached. Nothing was lost: the rendered "
+            "audio is on disk and re-running publishes what is still pending."
+        )
     if check and proc.returncode != 0:
-        sys.exit(f"save-to-spotify {' '.join(argv)} failed:\n{proc.stderr or proc.stdout}")
+        sys.exit(f"save-to-spotify {' '.join(argv)} failed (exit {proc.returncode}):\n"
+                 f"{(proc.stderr or proc.stdout or '(no output)').strip()}")
+
     out = (proc.stdout or "").strip()
     for line in reversed(out.splitlines()):
         line = line.strip()
@@ -143,25 +165,10 @@ def ensure_show(state: dict, category: str) -> str:
     return show_id
 
 
-def main() -> None:
-    ap = argparse.ArgumentParser(description=__doc__)
-    ap.add_argument("--episode")
-    ap.add_argument("--keep-audio", action="store_true",
-                    help="keep the local mp3 after a confirmed upload")
-    ap.add_argument("--replace", action="store_true",
-                    help="delete and re-upload an already-published episode (irreversible)")
-    ap.add_argument("--status", action="store_true")
-    args = ap.parse_args()
-
-    state = load_state()
-
-    if args.status:
-        print(json.dumps(state, indent=2))
-        return
-    if not args.episode:
-        ap.error("need --episode or --status")
-
-    epdir = os.path.join(WORK, args.episode)
+def publish_one(slug: str, state: dict, keep_audio: bool = False,
+                replace: bool = False) -> None:
+    """Upload one rendered episode and record it. Raises RateLimited."""
+    epdir = os.path.join(WORK, slug)
     with open(os.path.join(epdir, "plan.json"), encoding="utf-8") as fh:
         plan = json.load(fh)
     mp3 = os.path.join(epdir, "episode.mp3")
@@ -169,18 +176,18 @@ def main() -> None:
     if not os.path.exists(mp3):
         sys.exit(f"no audio at {mp3} — run build.py first")
 
-    if args.episode in state["episodes"] and not args.replace:
-        print(f"{args.episode} already published: {state['episodes'][args.episode]['episode_id']}")
+    if slug in state["episodes"] and not replace:
+        print(f"{slug} already published: {state['episodes'][slug]['episode_id']}")
         return
 
-    if args.replace and args.episode in state["episodes"]:
+    if replace and slug in state["episodes"]:
         # Episode audio and metadata are immutable, so a corrected re-render
         # means delete-then-upload. Deliberately gated behind --replace: the
         # delete is irreversible.
-        old = state["episodes"][args.episode]["episode_id"]
-        print(f"replacing {args.episode}: deleting {old}")
+        old = state["episodes"][slug]["episode_id"]
+        print(f"replacing {slug}: deleting {old}")
         run("episodes", "delete", str(old), check=False)
-        del state["episodes"][args.episode]
+        del state["episodes"][slug]
         save_state(state)
 
     show_id = ensure_show(state, plan["category"])
@@ -205,7 +212,7 @@ def main() -> None:
                 break
 
     if not episode_id:
-        print(f"uploading {args.episode} ({os.path.getsize(mp3) / 1e6:.1f} MB)...")
+        print(f"uploading {slug} ({os.path.getsize(mp3) / 1e6:.1f} MB)...")
         res = run("--json", "--timeout", "10m", "upload", mp3,
                   "--title", plan["title"], "--show-id", str(show_id),
                   "--summary", summary, "--image", cover)
@@ -223,7 +230,7 @@ def main() -> None:
             n = len(json.load(fh)["items"])
         print(f"  {n} chapters set")
 
-    state["episodes"][args.episode] = {
+    state["episodes"][slug] = {
         "episode_id": str(episode_id),
         "show_id": str(show_id),
         "title": plan["title"],
@@ -232,12 +239,69 @@ def main() -> None:
     }
     save_state(state)
 
-    if not args.keep_audio:
+    if not keep_audio:
         os.remove(mp3)
         print("  local mp3 removed (it lives in Spotify now; --keep-audio to retain)")
 
     print(f"done: {plan['title']} -> Spotify > Your Library")
 
 
+def main() -> None:
+    ap = argparse.ArgumentParser(description=__doc__)
+    ap.add_argument("--episode")
+    ap.add_argument("--keep-audio", action="store_true",
+                    help="keep the local mp3 after a confirmed upload")
+    ap.add_argument("--replace", action="store_true",
+                    help="delete and re-upload an already-published episode (irreversible)")
+    ap.add_argument("--status", action="store_true")
+    ap.add_argument("--pending", action="store_true",
+                    help="publish every episode that has local audio but is not "
+                         "yet in state.json, stopping cleanly on a rate limit")
+    args = ap.parse_args()
+
+    state = load_state()
+
+    if args.status:
+        published = state.get("episodes", {})
+        built = {os.path.basename(os.path.dirname(p))
+                 for p in glob.glob(os.path.join(WORK, "*", "episode.mp3"))}
+        pending = sorted(built - set(published))
+        print(f"{len(published)} published, {len(pending)} built but pending")
+        for slug in pending:
+            print(f"  pending  {slug}")
+        return
+
+    if args.pending:
+        built = sorted({os.path.basename(os.path.dirname(p))
+                        for p in glob.glob(os.path.join(WORK, "*", "episode.mp3"))}
+                       - set(state.get("episodes", {})))
+        if not built:
+            print("nothing pending")
+            return
+        print(f"{len(built)} pending: {', '.join(built)}\n")
+        done = 0
+        for slug in built:
+            try:
+                publish_one(slug, state, keep_audio=True, replace=False)
+                done += 1
+            except RateLimited as exc:
+                print(f"\nRATE LIMITED after {done} upload(s): {exc}")
+                print(f"{len(built) - done} still pending — re-run this later.")
+                sys.exit(2)
+            state = load_state()
+        print(f"\npublished {done} episode(s)")
+        return
+
+    if not args.episode:
+        ap.error("need --episode, --pending or --status")
+
+    publish_one(args.episode, state, args.keep_audio, args.replace)
+
+
+
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except RateLimited as exc:
+        print("RATE LIMITED: " + str(exc))
+        sys.exit(2)

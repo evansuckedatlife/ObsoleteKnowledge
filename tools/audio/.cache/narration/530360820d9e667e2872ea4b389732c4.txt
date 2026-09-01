@@ -1,0 +1,9 @@
+Ticket to Ride. The railroad route-building board game designed by Alan R. Moon and released in 2004, where players claim railway routes across a map to connect distant cities and earn points.
+
+Players draw colored train cards and use matching colors to claim routes between cities on the board, placing plastic train tokens as evidence of ownership. Victory points come from claimed routes, which award different points depending on length, and from fulfilling destination cards. These secret point-to-point connections are worth bonus points if completed or penalties if failed.
+
+The longest route card awards ten bonus points, incentivizing players to build continuously connected networks rather than scattered routes. Mechanics are immediately learnable—drawing cards, claiming routes, and scoring—making the game accessible to families and new players while remaining strategically rich.
+
+The game received the Spiel des Jahres in 2005, a year after release, affirming its standing as a modern classic. The base game maps North America. Sequels and expansions map Europe, the United Kingdom, Nordic countries, Asia, South America, and many others.
+
+Multiple digital adaptations on mobile apps and Steam have introduced the game to millions and made asynchronous play convenient.

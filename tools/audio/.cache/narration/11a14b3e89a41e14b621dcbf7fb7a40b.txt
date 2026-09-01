@@ -1,0 +1,15 @@
+Worker-Placement Mechanics. Worker-placement mechanics represent a core board game system in which players assign limited agent tokens, often representing workers, officials, or agents, to specific action spaces on the board, with each space accommodating only a finite number of agents per turn. Pioneered by Agricola and Puerto Rico, this mechanic became one of the most sophisticated and intellectually demanding game systems in modern board gaming. The elegance of worker-placement lies in its intersection of resource scarcity, strategic depth, and elegant ruleset.
+
+Agricola in two thousand seven crystallized the worker-placement archetype. Players place workers on action spaces to plow fields, plant crops, build rooms, and manage family growth, all within a Eurogame framework emphasizing efficiency and long-term planning.
+
+Puerto Rico in two thousand two predates Agricola and established the core mechanic. Players control a limited number of role tokens. Each turn, one player selects a role, and all players perform that action, with the selector gaining a bonus.
+
+The tension in worker-placement is acute scarcity. Every action space can accommodate only one or two workers, forcing choices between competing priorities and creating dramatic blocking moments where denying an opponent their desired action becomes as important as advancing your own strategy.
+
+The mechanic scales elegantly with player count. With more players, fewer actions per turn become available, forcing tighter strategic calculation and more ruthless prioritization.
+
+Worker-placement influenced dozens of subsequent games: Stone Age, Carcassonne, Dominion, and later designs like Scythe layered worker-placement onto other mechanical systems including asymmetry, production chains, and combat.
+
+The mechanic requires minimal luck. Outcomes hinge almost entirely on player decisions, attracting strategy enthusiasts and competitive players who value puzzle-like optimization.
+
+Designer Reiner Knizia and others proved that worker-placement could scale from economic simulations to fantasy epics, making it one of the most adaptable core systems in board game history.

@@ -1,0 +1,7 @@
+Puerto Rico. The worker-placement and trading game designed by Andreas Seyfarth and released in 2002, where players develop colonial plantations on Puerto Rico, managing sugar, corn, tobacco, coffee, and indigo production while shipping goods to gain victory points.
+
+The role-selection system allows the active player to choose a role like Planter, Trader, Builder, Shipper, or Mayor. This choice unlocks actions for all players but gives the selector a bonus, an elegant asymmetry that drives strategy. Players plant crops on their plantation tiles using workers, with a limited supply that grows as players build larger plantations.
+
+The shipping action converts planted goods into victory points, creating a market-based economy where timing and player prediction matter enormously. Building plantations and structures generates points. Goods shipped scale exponentially in value for players who specialize, rewarding focused strategies.
+
+The game won the Spiel des Jahres Kennerspiel award in 2003, validating complex economic simulation in hobby games. No expansions were released. The base game remained complete and balanced, a rarity for modern board games. It's often cited as the first true worker-placement game, predating Agricola's more systematic treatment of the mechanic by five years.

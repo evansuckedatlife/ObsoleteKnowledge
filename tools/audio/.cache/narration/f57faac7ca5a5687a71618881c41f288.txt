@@ -1,0 +1,9 @@
+Codenames. The word-association party game designed by Vladimir Chvatal and released in 2015, where two competing teams race to identify secret agent code names on a grid by interpreting one-word clues from their team's spymaster.
+
+The game uses a five-by-five grid of twenty-five random words. One card reveals which are red agents, which are blue, which are innocent bystanders, and which is the assassin. Guessing the assassin ends the game immediately in a loss.
+
+Each team's spymaster provides a one-word clue and a number, like "Agent: three," indicating how many words on the grid match the clue. Teammates must guess, but they're blocked once they misidentify a word or reach the clue number. Tension escalates as teams balance aggressive guessing, which reveals more words but carries higher risk, with caution.
+
+The game won the Spiel des Jahres Kennerspiel award in 2016, remarkable for a party game's recognition at gaming's highest level. Its minimal components—a deck of four hundred word cards and a key card—and sub-hour playtime made it extremely accessible, driving massive adoption in board game cafes and casual circles.
+
+Numerous spin-off editions adapted the mechanic to different word lists and themes. Codenames: Duels, Codenames: Marvel, Codenames: Pictures all took the core idea in new directions. Online versions on Netflix and Board Game Arena democratized play without physical cards, introducing millions to the game. The game's beauty lies in linguistic creativity and lateral thinking.

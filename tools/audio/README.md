@@ -96,3 +96,17 @@ a published episode on its own.
 Spotify → **Your Library** → **Podcasts & Shows** → the category show. Chapters
 appear in the Now Playing view roughly a minute after the episode goes READY.
 Download for offline.
+
+## Rate limits
+
+Spotify caps uploads per account. Hitting it is normal for a big batch and
+costs nothing: rendering is the expensive step and the audio stays on disk.
+
+```bash
+python tools/audio/publish.py --status     # what is published vs pending
+python tools/audio/publish.py --pending    # drain the backlog when the cap resets
+```
+
+`--pending` stops cleanly on the next 429 and tells you how many remain. The
+CLI reports a rate limit inconsistently (sometimes exit 0 with an error payload
+on stdout), so publish.py matches on the message text, not the exit code.

@@ -1,0 +1,9 @@
+Pandemic. The cooperative board game designed by Matt Leacock and released in 2008, where players assume roles of disease-fighting specialists working together to contain and cure four outbreaking diseases spreading across a global map before they overwhelm civilization. Unlike competitive games where one player wins, Pandemic succeeds only if all players cooperate.
+
+Players collectively control specialists: scientist, dispatcher, medic, researcher, quarantine expert, and others. Each has unique abilities that synergize when coordinated. Four diseases spread each turn through infection cards. Outbreaks cascade into neighboring cities. If three outbreaks occur globally, the team loses.
+
+Victory requires discovering cures for all four diseases by collecting city cards matching a disease's color. This requires players to strategically share information and resources. The difficulty scales with preset epidemic levels. Higher difficulties increase infection spread, rewarding skilled play and creating replayability.
+
+The game won the Spiel des Jahres recommendation in 2009, validating cooperative gameplay as a viable mainstream mechanic. Expansions introduce legacy mechanics in Pandemic Legacy, new roles, harder diseases, and alternate settings, fundamentally reshaping the franchise across multiple sub-games.
+
+The game's 2020 release during the real COVID-19 pandemic made it accidentally culturally resonant, though the game itself is unrelated to actual epidemiology.

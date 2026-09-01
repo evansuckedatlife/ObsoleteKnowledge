@@ -1,0 +1,15 @@
+Doom. Released in nineteen ninety-three, the seminal first-person shooter that defined the genre's core grammar: run, aim, shoot, advance. Developed by id Software and distributed as shareware, Doom proved that a PC-based three-D perspective could deliver visceral, immediate action while remaining accessible to casual players. Its cultural impact extends beyond games into modding communities, competitive esports, and the very language gamers use to discuss perspective, weaponry, and enemy design.
+
+Doom launched in nineteen ninety-three as the killer app for three eighty-six and four eighty-six personal computers. Its technical achievement—real-time three-dimensional rendering when most games were two-D sprites—made it the most talked-about software release of its year and for years after.
+
+Doom pioneered the first-person perspective for action games. Players see through the protagonist's eyes, aiming with crosshairs at onscreen demons in a Hellish Martian base. The immediacy of this view made every shot, reload, and enemy encounter visceral.
+
+The shareware distribution model—free first episode, pay for sequels—made Doom culturally ubiquitous before the internet made downloading feasible. People copied it on floppy disks across offices, schools, and networks worldwide.
+
+Doom spawned an extraordinary modding community. The source code's partial release and built-in level editors spawned thousands of user-created maps and mods, extending Doom's lifespan to decades. The modding culture directly preceded modern content platforms.
+
+The mechanics remain the genre template: run speed identical to strafe speed, eliminating walk-speed weakness. Weapon variety with distinct roles, enemy designs that telegraph attacks through animation, health and ammo pickups rewarding exploration.
+
+Doom triggered moral panic in the nineteen nineties, blamed among other games for the Columbine shooting. This paradoxically increased its cultural prominence and established gaming as a medium significant enough to attract criticism.
+
+Spiritual sequels and competitive play demonstrate the formula's durability. Thirty-plus years later, Doom's core loop remains the gold standard for first-person shooter design.

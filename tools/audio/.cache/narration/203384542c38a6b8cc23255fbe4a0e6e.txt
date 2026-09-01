@@ -1,0 +1,9 @@
+Dominion. The deck-building board game designed by Donald X. Vaccarino and released in 2008, where players construct custom decks of cards during the game by purchasing new cards from a shared market, using their evolving deck to generate resources and victory points.
+
+Each player begins with an identical starter deck: seven coppers and three estates. They improve it by buying cards during the game, creating divergent strategies. Cards serve dual purposes. Treasure cards generate coins for purchasing, while action cards trigger special effects. Victory cards provide end-game points but clog the deck during play.
+
+The kingdom, a set of ten distinct action card stacks available for purchase, varies by expansion or random selection, ensuring different games reward different strategies. Players must balance short-term card quality, buying strong cards, with long-term deck consistency, acquiring cards that synergize.
+
+The game won the Spiel des Jahres Kennerspiel award in 2009, validating deck-building as a core mechanic worthy of top prizes. Numerous expansions introduce new card types and mechanics like duration cards, attacks, and curses. Some standalone sets, Intrigue, Seaside, and Prosperity, play independently or combine with the base game.
+
+The game's streamlined turn structure—action phase, buy phase, cleanup—became a design template adopted by countless deck-building games that followed, defining the entire genre.

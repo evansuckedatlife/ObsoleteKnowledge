@@ -1,0 +1,17 @@
+The Pythagorean Theorem. In a right triangle, the square of the hypotenuse equals the sum of the squares of the other two sides: a squared plus b squared equals c squared. Associated with Pythagoras, it ranks among the most famous mathematical discoveries in history and symbolizes the marriage of mathematical proof and philosophical insight—the rational order underlying reality.
+
+The theorem is attributed to Pythagoras in the sixth century BCE, though evidence suggests earlier Babylonian and Indian mathematicians knew it. Ancient proofs likely involved geometric dissection, not algebraic notation.
+
+Euclid provided the definitive proof in The Elements, Proposition forty-seven, Book One, using rigorous geometric reasoning. This proof exemplified the axiomatic-deductive method that became the gold standard for mathematical demonstration.
+
+The theorem is the foundation of Euclidean geometry and trigonometry. It enables the distance formula, defines perpendicularity, and underlies countless engineering and architectural applications.
+
+Philosophically, Pythagoras and his followers believed numbers and geometric ratios revealed the ultimate structure of reality. The theorem embodied this rational cosmic order. Pythagorean mysticism attributed spiritual and cosmological meaning to numbers. Harmonic ratios, based on the theorem's structure, supposedly governed musical intervals and celestial motion.
+
+An incommensurability crisis arose when Pythagoreans discovered that the diagonal of a unit square—the square root of two—is irrational: not a ratio of integers. This shattered their vision of a purely rational universe and triggered a foundational crisis in mathematics.
+
+Over four hundred distinct proofs exist: geometric dissections, algebraic manipulations, coordinate geometry, and even dynamic or calculus-based approaches, testifying to its centrality.
+
+Modern significance remains profound. The theorem is central to vector spaces, complex numbers, and non-Euclidean geometries. It is the prototype of mathematical proof and beauty.
+
+The Pythagorean theorem connects to Pythagoras, the philosopher and mathematician to whom it is traditionally attributed. The Elements is Euclid's masterwork, which provided the first rigorous proof and systematized geometry. Number theory is the branch of mathematics exploring properties of numbers; Pythagorean mysticism influenced it profoundly. Euclidean geometry is the axiomatic system founded on the Elements; the theorem is central to its structure. Orphism is the religious movement that influenced Pythagoras and his mystical numerology. Plato was heavily influenced by Pythagorean philosophy and incorporated mathematical harmony into his metaphysics. Axioms exemplify how complex truths derive from simple, self-evident starting points.

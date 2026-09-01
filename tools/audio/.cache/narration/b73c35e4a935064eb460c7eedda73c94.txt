@@ -1,0 +1,9 @@
+Settlers of Catan. The foundational modern board game designed by Klaus Teuber and released in Germany in 1995 as Die Siedler von Catan, where players build settlements, cities, and roads on a procedurally generated island while trading resources.
+
+Players collect five resource types: wheat, sheep, ore, clay, and lumber. Each turn, two dice determine which hexes produce resources. Victory is achieved by earning ten points through settlements, which count as one point each, cities, which count as two points each, and longest road or largest army cards.
+
+The robber begins on the desert hex and blocks resource production from that space. It can be moved by rolling a seven or playing a knight card, adding player interaction and blocking strategy to the game.
+
+Trading is central. Players negotiate with each other to swap resources, making diplomacy and deal-making as important as board position. The randomized hex-tile system ensures no two games play identically, encouraging repeated play and reducing advantage from memorization.
+
+The game won the prestigious Spiel des Jahres award in 1995, cementing its status as a landmark title that sparked the global board game renaissance. Numerous expansions exist, including Seafarers, which adds navigation and ship placement, and Cities and Knights, which adds knights, city improvements, and a separate progress track to the foundation Catan established.

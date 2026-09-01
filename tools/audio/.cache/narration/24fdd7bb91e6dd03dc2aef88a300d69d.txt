@@ -1,0 +1,15 @@
+Philosophy of Mind. The branch of philosophy examining the nature of mind, consciousness, and mental states, and their relationship to the physical body. It confronts foundational questions: What is consciousness? How do physical brains generate subjective experience? Do minds and bodies constitute two substances or one? These questions sit at the heart of metaphysics and epistemology.
+
+Philosophy of mind originated as a distinct discipline with Descartes, whose mind-body dualism made the relationship between mind and matter philosophically urgent and created the mind-body problem.
+
+The hard problem of consciousness, articulated by David Chalmers, asks why physical processes produce subjective experience rather than occurring mechanically in the dark. This distinguishes the hard problem from merely explaining behavior.
+
+Major positions include dualism: mind and body are fundamentally different substances. Materialism: mind reduces to physical brain processes. Functionalism: mental states are defined by functional roles. And panpsychism: consciousness is fundamental to matter.
+
+Qualia—the subjective, qualitative character of experiences such as redness, pain, and taste—remain central to philosophy of mind. How can physics explain why seeing red feels a specific way?
+
+Phenomenology offers an alternative methodological approach. It describes the structures of conscious experience from the first-person perspective rather than seeking third-person physical reduction.
+
+The explanatory gap highlights how even complete neural knowledge seems unable to explain subjective experience. Mental states have properties—intentionality and meaning—that seem irreducible to physical properties.
+
+Philosophy of mind connects to consciousness, the central phenomenon it investigates, including its nature, origin, and relationship to physical processes. The mind-body problem is the core philosophical puzzle driving philosophy of mind research: how do physical brains generate or relate to consciousness? Dualism is one major philosophical position claiming mind and body are fundamentally distinct substances or properties requiring separate explanation. Materialism is the opposing physicalist position claiming all mental phenomena reduce to or can be explained entirely by physical brain processes. Qualia are the subjective, qualitative aspects of conscious experience that pose special problems for physicalist and functionalist theories. Phenomenology offers an alternative philosophical method studying consciousness through careful first-person description rather than seeking third-person physical reduction. And Descartes was the early modern originator of the mind-body problem who argued mind and body are distinct substances requiring explanation of their interaction.
