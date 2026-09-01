@@ -11,3 +11,7 @@ _sources/
 ORIGINAL_REQUEST.md
 
 
+
+# Generated audio build artefacts (mp3/wav/plans); narration cache IS tracked
+tools/audio/work/
+tools/audio/state.json
