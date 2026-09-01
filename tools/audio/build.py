@@ -148,6 +148,15 @@ def main() -> None:
     ap.add_argument("--bitrate", default="56k")
     args = ap.parse_args()
 
+    # Chapter titles are node titles, and the vault holds names well outside
+    # cp1252 (Baha'u'llah carries U+02BC). Printing progress must never be the
+    # thing that kills a 20-minute render.
+    try:
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+        sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+    except (AttributeError, ValueError):
+        pass
+
     ensure_kokoro_interpreter()
 
     import numpy as np
