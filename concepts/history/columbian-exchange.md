@@ -1,0 +1,64 @@
+---
+type: event
+category: history
+defines: [Columbian Exchange]
+related: ["[[age-of-exploration]]", "[[christopher-columbus]]", "[[smallpox-in-the-americas]]", "[[spain]]", "[[americas]]"]
+requires: ["[[age-of-exploration]]"]
+lists: ["[[history-hubs]]"]
+tour_order: 0
+read: false
+---
+
+# Columbian Exchange
+
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
+
+## summary
+
+The **Columbian Exchange** was the vast transfer of plants, animals, diseases, technologies, and peoples between the Eastern Hemisphere and the Western Hemisphere following *Christopher Columbus*'s 1492 voyage and the subsequent European colonization of the Americas. This exchange fundamentally transformed global ecosystems, economies, and societies: Old World crops like wheat and sugar transformed American agriculture and demographics, while American crops like maize and potatoes revolutionized agriculture in Europe, Africa, and Asia. Yet the exchange also brought catastrophic diseases to the Americas that decimated indigenous populations and uprooted societies, making it a transformative yet deeply tragic historical process.
+
+## you gotta know
+
+- Named after Columbus, though initiated by the Age of Exploration more broadly; began in earnest after 1492 and accelerated with Spanish colonization and the slave trade.
+- European crops introduced to the Americas included wheat, barley, sugar cane, and rice; American crops introduced to the Old World included maize (corn), potatoes, tomatoes, chocolate, and tobacco—many became staple foods that supported population growth.
+- American crops, particularly potatoes and maize, became critical to feeding growing populations in Europe, Africa, and Asia; the potato, in particular, became a dietary cornerstone in Ireland, Russia, and sub-Saharan Africa.
+- Diseases—smallpox, measles, influenza, typhus, and others—traveled from the Old World to the Americas, where indigenous populations lacked immunity; these epidemics killed an estimated 90% or more of pre-Columbian American populations, far exceeding deaths from warfare.
+- Animals exchanged included cattle, pigs, horses, and chickens from Europe to the Americas, and llamas and alpacas from South America to the Old World; the introduction of the horse transformed indigenous cultures of the North American plains.
+- Technology and ideas flowed in both directions: Europeans gained access to American metallurgy and agricultural knowledge, while Americans acquired European metalworking, weaponry, and organizational systems.
+- The exchange permanently remapped global trade networks, enriched European nations through access to American resources (gold, silver, agricultural products), and drove the development of colonial empires.
+- The exchange had profound environmental consequences: new species invaded ecosystems; forests were cleared for European-style agriculture; animal populations crashed; landscapes were remade in the image of European ecology.
+
+## connections
+
+- [[age-of-exploration]] — the broader historical movement that initiated systematic contact and exchange between hemispheres.
+- [[christopher-columbus]] — the navigator whose voyage served as the catalyst for sustained European presence and the beginning of the exchange.
+- [[smallpox-in-the-americas]] — the most devastating disease aspect of the exchange, which depopulated entire regions and destabilized civilizations.
+- [[spain]] — the primary European nation driving early colonization and exchange in the Americas during the 16th and 17th centuries.
+
+## see also
+
+- [[age-of-exploration]] · [[christopher-columbus]] · [[smallpox-in-the-americas]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
+
+<!-- footer -->
+
+---
+
+Lists: [[history-hubs]] · Mark read: `INPUT[toggle:read]`

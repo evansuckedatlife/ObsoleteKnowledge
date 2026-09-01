@@ -2,6 +2,7 @@
 type: event
 category: history
 defines: ["Progressive Era", "Progressivism", "The Progressive Era"]
+aliases: [progressive-movement, Progressive Movement]
 related: ["[[theodore-roosevelt]]", "[[woodrow-wilson]]", "[[ida-tarbell]]", "[[upton-sinclair]]", "[[muckraking]]", "[[trust-busting]]", "[[conservation-movement]]", "[[women-suffrage]]", "[[trust-busting]]", "[[antitrust-law]]"]
 requires: ["[[industrial-revolution]]"]
 lists: []

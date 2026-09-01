@@ -2,6 +2,7 @@
 type: place
 category: geography
 defines: [Mediterranean Sea]
+aliases: [mediterranean]
 related: ["[[ancient-greece]]", "[[rome]]", "[[egypt]]", "[[phoenicia]]", "[[ottoman-empire]]", "[[greece]]", "[[italy]]", "[[suez-canal]]"]
 requires: []
 lists: []
