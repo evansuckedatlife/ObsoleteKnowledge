@@ -109,12 +109,18 @@ dv.view("_dv/tourpage", {{list: "{slug}", core: false, category: "{category}"}})
 
 
 def untracked_nodes() -> list[str]:
-    out = subprocess.run(["git", "status", "--porcelain"], cwd=ROOT,
-                         capture_output=True, text=True).stdout
+    # core.quotepath=false, or git escapes any non-ASCII path into a quoted
+    # octal form ("concepts/literature/julio-cort\303\241zar.md") that never
+    # matches a real file -- which silently dropped that node from its list
+    # and failed check_symmetry.
+    out = subprocess.run(
+        ["git", "-c", "core.quotepath=false", "status", "--porcelain"],
+        cwd=ROOT, capture_output=True, text=True, encoding="utf-8",
+    ).stdout
     paths = []
     for line in out.splitlines():
         if line.startswith("?? concepts/") and line.endswith(".md"):
-            paths.append(line[3:].strip())
+            paths.append(line[3:].strip().strip('"'))
     return sorted(paths)
 
 

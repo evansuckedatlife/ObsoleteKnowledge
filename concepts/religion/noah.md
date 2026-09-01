@@ -1,0 +1,67 @@
+---
+type: person
+category: religion
+defines: [Noah]
+related: ["[[hebrew-bible]]", "[[genesis]]", "[[covenant]]", "[[adam-and-eve]]", "[[flood-narrative]]"]
+requires: ["[[hebrew-bible]]"]
+lists: ["[[religion-hubs]]"]
+tour_order: 0
+read: false
+---
+
+# Noah
+
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
+
+## summary
+
+**Noah** is the patriarch chosen by God to preserve humanity and animal life through a catastrophic flood that wiped the slate clean after the corruption of early humankind. As the ninth generation from *Adam*, he represents both judgment and mercy—God's decision to destroy an evil world while allowing virtue to survive through one righteous man and his family. His obedience in building the ark and his covenant with God afterward make him a foundational figure bridging creation and the modern world.
+
+## you gotta know
+
+- God instructed *Noah* to build an enormous ark to survive a worldwide flood, warning him of divine judgment on the wickedness of humanity.
+- He was tasked with loading two of every animal species (or seven of clean animals) onto the ark to preserve all life.
+- His sons *Shem*, *Ham*, and *Japheth* boarded the ark with their wives, and these three become the ancestors of all postdiluvian humanity in biblical genealogy.
+- The flood lasted forty days and nights in the Biblical account, with waters subsiding gradually before *Noah* released a raven and then a dove to scout for land.
+- *Noah* received the covenant as the first postdiluvian patriarch, symbolized by the rainbow as God's sign of never sending another such flood.
+- The wine grape appears in his story after the flood—he planted a vineyard and became drunk on wine, an episode that complicated his moral perfection.
+- The genealogies trace his descendants through Shem (ancestor of Abraham and the Hebrew people), Ham (ancestor of Egyptians and other African peoples), and Japheth (ancestor of Indo-European peoples in later tradition).
+- His narrative in *Genesis* chapters 6–9 is among the oldest layers of Biblical tradition and appears in modified form in other ancient Near Eastern flood myths.
+
+## connections
+
+- [[genesis]] — the book where his story is told in full detail.
+- [[hebrew-bible]] — the scriptural tradition that preserves his account.
+- [[adam-and-eve]] — his remote ancestors, establishing him as the bridge between primordial and postdiluvian humanity.
+- [[covenant]] — the divine agreement God makes with him after the flood.
+- [[abraham]] — his descendant through Shem, continuing the patriarchal line.
+- [[flood-narrative]] — the core event of his life and the mythological backdrop across cultures.
+- [[divine-judgment]] — the theological theme underlying the flood's purpose.
+
+## see also
+
+- [[abraham]] · [[moses]] · [[david]] · [[genesis]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
+
+<!-- footer -->
+
+---
+
+Lists: [[religion-hubs]] · Mark read: `INPUT[toggle:read]`

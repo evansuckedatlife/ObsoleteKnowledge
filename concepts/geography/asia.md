@@ -1,0 +1,69 @@
+---
+type: place
+category: geography
+defines: [Asia]
+related: ["[[europe]]", "[[africa]]", "[[indian-ocean]]", "[[pacific-ocean]]", "[[kublai-khan]]"]
+requires: []
+lists: ["[[geography-hubs]]"]
+tour_order: 0
+read: false
+---
+
+# Asia
+
+
+
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
+
+## summary
+
+**Asia** is the world's largest continent, spanning from the Mediterranean in the west to the Pacific in the east, encompassing diverse civilizations, geographies, and cultures. Home to more than half the global population, it has produced the world's major religions, earliest urban centers, and vast empires. Its scale and diversity make it foundational to understanding world history and geography.
+
+## you gotta know
+
+- The birthplace of all major world religions: Buddhism, Hinduism, Islam, Christianity, and Confucianism all emerged or took root in Asia.
+- Contains the world's highest mountains (the Himalayas, including Mount Everest) and largest deserts (the Gobi, the Arabian).
+- The Silk Road trade network connected Asia's markets to Europe and Africa for over a millennium, enabling the exchange of goods, ideas, and technology.
+- Home to the world's earliest cities and civilizations: Mesopotamia, the Indus Valley, and ancient China emerged in Asia before Europe.
+- Dominated by vast empires including the Mongol Empire under Kublai Khan, the Ottoman Empire, and the Chinese dynasties spanning millennia.
+- Contains more than 60 nations, speaking thousands of languages and representing countless ethnic and cultural traditions.
+- Modern Asia drives global economics, hosting the world's most populous countries (China and India) and economic powerhouses (Japan, South Korea).
+- The continent covers approximately 44.5 million square kilometers, making it by far the largest of all continents; its population exceeds 4.6 billion people.
+- Asian geography encompasses tropical rainforests, monsoon regions, vast deserts like the Gobi and Atacama, and high-altitude plateaus, creating extreme ecological diversity and varied climates.
+- The Indian subcontinent, Southeast Asia, East Asia, Central Asia, and the Middle East are the major regional divisions, each with distinct cultural, religious, and historical identities.
+- Asia's rivers including the Yangtze, Yellow, Ganges, Mekong, and Brahmaputra are among the world's most vital, shaping agriculture, commerce, and civilizations across the continent.
+
+## connections
+
+- [[kublai-khan]] — Mongol emperor whose dominions encompassed most of Asia.
+- [[theravada-buddhism]] — the dominant form of Buddhism practiced across Southeast Asia.
+- [[indian-ocean]] — sea linking Asia's coasts to Africa and enabling maritime trade.
+- [[pacific-ocean]] — Asia's eastern boundary and a crucial modern trade corridor.
+- [[europe]] — Asia's western neighbor; the Silk Road connected these continents for centuries.
+
+## see also
+
+[[kublai-khan]] · [[indian-ocean]] · [[silk-road]] · [[theravada-buddhism]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
+
+<!-- footer -->
+
+---
+
+Lists: [[geography-hubs]] · Mark read: `INPUT[toggle:read]`

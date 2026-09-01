@@ -1,0 +1,64 @@
+---
+type: organization
+category: history
+defines: [African National Congress, ANC]
+related: ["[[apartheid]]", "[[nelson-mandela]]", "[[south-africa]]", "[[civil-rights-movement]]", "[[decolonization]]"]
+requires: ["[[apartheid]]"]
+lists: ["[[history-hubs]]"]
+tour_order: 0
+read: false
+---
+
+# African National Congress
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
+
+## summary
+
+The **African National Congress** (ANC) is South Africa's oldest and most influential liberation organization, founded in 1912 to combat racial discrimination and defend Black political rights. Initially pursuing constitutional reform through petitions and negotiation, the ANC evolved into a revolutionary movement under *apartheid*, employing armed resistance and civil disobedience. After leading the struggle against institutionalized racism, the ANC governed *South Africa* post-1994, transforming from opposition force to governing party.
+
+## you gotta know
+
+- Founded in 1912, the ANC originally sought reform through constitutional means, using petitions and lobbying for voting rights and equitable political representation for Black South Africans.
+- Under *apartheid* rule (1948–1994), the ANC was systematically banned and driven underground, adopting armed struggle alongside nonviolent resistance and civil disobedience tactics.
+- *Nelson Mandela* joined in the 1940s and became the ANC's most iconic leader; his imprisonment (1962–1990) made him a global symbol of anti-apartheid resistance.
+- The Sharpeville Massacre (1960), when police killed 69 unarmed anti-pass law protesters, radicalized the ANC leadership and convinced them that armed resistance was strategically necessary.
+- The ANC established *Umkhonto we Sizwe* ("Spear of the Nation"), its armed wing, to conduct sabotage and military operations against the apartheid state.
+- International sanctions, internal resistance, and economic pressure gradually weakened the apartheid government's ability to sustain the system.
+- Negotiations between the ANC and the *National Party* government (1990–1994) led to Mandela's release, multiracial elections, and a new constitution.
+- The ANC's transition from liberation movement to governing party parallels similar patterns in post-colonial Africa and presents ongoing challenges of governance and accountability.
+- Post-apartheid, the ANC government pursued land redistribution, labor reform, and affirmative action; however, widespread corruption scandals, economic mismanagement, and persistent inequality have seriously challenged its legitimacy among supporters.
+
+## connections
+
+- [[apartheid]] — the racist system the ANC fought against for decades.
+- [[nelson-mandela]] — the ANC's most celebrated leader and first president of democratic South Africa.
+- [[south-africa]] — the nation transformed by the ANC's liberation struggle.
+- [[civil-rights-movement]] — a parallel contemporary movement for racial justice in the United States.
+- [[decolonization]] — part of the broader wave of colonial territories achieving independence.
+
+## see also
+
+[[apartheid]] · [[nelson-mandela]] · [[south-africa]] · [[civil-rights-movement]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
+
+<!-- footer -->
+
+---
+
+Lists: [[history-hubs]] · Mark read: `INPUT[toggle:read]`

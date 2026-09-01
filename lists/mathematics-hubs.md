@@ -10,43 +10,56 @@ The underlying objects and ideas the individual theorems and figures depend on.
 
 ## nodes
 
-- [[algebra|Algebra]] — Algebra is the branch of mathematics concerned with operations on abstract symbols and the relationships between quantities.
-- [[apollonius|Apollonius]] — Apollonius was an ancient Greek mathematician (c.
-- [[axioms|Axioms]] — Axioms are self-evident truths or fundamental assumptions accepted without proof as the foundation for a mathematical system.
-- [[bernoulli-family|Bernoulli Family]] — The Bernoulli family was a Swiss mathematical dynasty spanning three generations (late 17th through 18th centuries), with at least eight members makin…
-- [[bertrand-russell|Bertrand Russell]] — Bertrand Russell (1872–1970) was a British philosopher, logician, and social critic whose work fundamentally reshaped both mathematics and philosophy.
-- [[complex-analysis|Complex Analysis]] — Complex analysis is the study of functions that take complex numbers as inputs and produce complex outputs.
-- [[composition|Composition]] — In mathematics, composition refers to applying one function to the output of another, creating a new combined function.
-- [[cosine-function|Cosine Function]] — The cosine function is one of the fundamental trigonometric functions, mapping angles to the ratio of the adjacent side to the hypotenuse in a right t…
-- [[cryptography|Cryptography]] — Cryptography is the mathematical science of secure communication, using algorithms to encode messages so that only intended recipients can decode them.
-- [[david-hilbert|David Hilbert]] — David Hilbert (1862–1943) was a German mathematician whose influence shaped virtually every major area of 20th-century mathematics.
-- [[determinant|Determinant]] — The determinant is a scalar value computed from a square matrix that encodes crucial geometric and algebraic information about the matrix.
-- [[divisibility|Divisibility]] — Divisibility is a fundamental concept in number theory: an integer a divides an integer b (written a | b) if there exists an integer k such that b = a…
-- [[e-mathematical-constant|e (Mathematical Constant)]] — e (approximately 2.71828...) is one of mathematics' most important constants, the base of the natural logarithm and the unique number for which the ex…
-- [[epicycloid|Epicycloid]] — An epicycloid is a curve traced by a point on the circumference of a circle rolling around the outside of another fixed circle.
-- [[euclidean-geometry|Euclidean Geometry]] — Euclidean geometry is the mathematical system of plane and solid geometry founded on Euclid's five axioms and the parallel postulate, codified in The …
-- [[euler-totient-function|Euler Totient Function]] — The Euler totient function, denoted φ(n), counts how many positive integers up to n are relatively prime to n (i.e., share no common factors other tha…
-- [[extreme-value-theorem|Extreme Value Theorem]] — The Extreme Value Theorem (EVT) asserts that a continuous function on a closed and bounded interval a, b attains both a maximum and a minimum value.
-- [[fermat-last-theorem|Fermat's Last Theorem]] — Fermat's Last Theorem states that for any integer n > 2, there exist no three positive integers x, y, z such that x^n + y^n = z^n.
-- [[fourier-series|Fourier Series]] — A Fourier series is an infinite sum of sines and cosines that represents a periodic function on a finite interval.
-- [[fundamental-theorem-of-algebra|Fundamental Theorem of Algebra]] — The Fundamental Theorem of Algebra states that every non-constant polynomial of degree n with complex coefficients has exactly n roots in the complex …
-- [[galois-theory|Galois Theory]] — Galois theory connects the structure of polynomial equations to the symmetries of their solutions through group theory.
-- [[greatest-common-divisor|Greatest Common Divisor]] — The greatest common divisor (GCD) of two integers is the largest positive integer that divides both.
-- [[inner-product|Inner Product]] — An inner product is a generalisation of the familiar dot product from Euclidean space to abstract vector spaces, assigning to each pair of vectors a s…
-- [[intermediate-value-theorem|Intermediate Value Theorem]] — The Intermediate Value Theorem (IVT) asserts that if a continuous function f takes values f(a) and f(b) at two endpoints, then it must take every inte…
-- [[inverse-trigonometric-function|Inverse Trigonometric Function]] — Inverse trigonometric functions recover angles from trigonometric ratios.
-- [[lagrange|Joseph-Louis Lagrange]] — Joseph-Louis Lagrange (1736–1813) was an Italian-born mathematician and astronomer who became one of the most influential figures of the 18th century.
-- [[linear-transformation|Linear Transformation]] — A linear transformation is a function T: V → W between two vector spaces that preserves the vector space structure—formally, T(au + bv) = aT(u) + bT(v…
-- [[non-euclidean-geometry|Non-Euclidean Geometry]] — Non-Euclidean geometry refers to geometric systems that do not satisfy Euclid's parallel postulate—the claim that through a point not on a line, exact…
-- [[notation|Notation]] — Notation refers to the system of symbols and conventions mathematicians use to express ideas precisely and compactly.
-- [[optics|Optics]] — Optics is the mathematical and physical study of light, encompassing how light propagates, interacts with matter, and forms images.
-- [[pascal|Blaise Pascal]] — Blaise Pascal (1623–1662) was a French mathematician, physicist, and religious philosopher whose contributions spanned geometry, probability, fluid me…
-- [[polar-curves|Polar curves]] — Polar curves are curves defined in polar coordinates (r, θ) rather than the familiar Cartesian (x, y) system.
-- [[prime-number|Prime number]] — A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself.
-- [[probability|Probability]] — Probability is the mathematical study of chance and uncertainty, quantifying how likely an event is to occur.
-- [[sine-function|Sine function]] — The sine function is one of the primary trigonometric functions, fundamental to oscillatory phenomena and periodic behaviour.
-- [[special-relativity|Special relativity]] — Special relativity is Albert Einstein's 1905 theory of space, time, and motion at speeds comparable to light.
-- [[topology|Topology]] — This is the branch of mathematics studying spaces and continuity, focusing on properties that remain invariant under continuous deformation.
+- [[algebra|Algebra]] — Algebra is the branch of mathematics concerned with operations on abstract symbols and the relationships between quantities.
+- [[apollonius|Apollonius]] — Apollonius was an ancient Greek mathematician (c.
+- [[axioms|Axioms]] — Axioms are self-evident truths or fundamental assumptions accepted without proof as the foundation for a mathematical system.
+- [[basis|Basis]] — A basis of a vector space is a minimal set of linearly independent vectors that span the entire space.
+- [[bernoulli-family|Bernoulli Family]] — The Bernoulli family was a Swiss mathematical dynasty spanning three generations (late 17th through 18th centuries), with at least eight members makin…
+- [[bertrand-russell|Bertrand Russell]] — Bertrand Russell (1872–1970) was a British philosopher, logician, and social critic whose work fundamentally reshaped both mathematics and philosophy.
+- [[compactness|Compactness]] — Compactness is a topological property that generalizes the familiar finiteness of closed intervals to arbitrary spaces.
+- [[complex-analysis|Complex Analysis]] — Complex analysis is the study of functions that take complex numbers as inputs and produce complex outputs.
+- [[composition|Composition]] — In mathematics, composition refers to applying one function to the output of another, creating a new combined function.
+- [[cosine-function|Cosine Function]] — The cosine function is one of the fundamental trigonometric functions, mapping angles to the ratio of the adjacent side to the hypotenuse in a right t…
+- [[cryptography|Cryptography]] — Cryptography is the mathematical science of secure communication, using algorithms to encode messages so that only intended recipients can decode them.
+- [[david-hilbert|David Hilbert]] — David Hilbert (1862–1943) was a German mathematician whose influence shaped virtually every major area of 20th-century mathematics.
+- [[determinant|Determinant]] — The determinant is a scalar value computed from a square matrix that encodes crucial geometric and algebraic information about the matrix.
+- [[divisibility|Divisibility]] — Divisibility is a fundamental concept in number theory: an integer a divides an integer b (written a | b) if there exists an integer k such that b = a…
+- [[e-mathematical-constant|e (Mathematical Constant)]] — e (approximately 2.71828...) is one of mathematics' most important constants, the base of the natural logarithm and the unique number for which the ex…
+- [[elliptic-curves|Elliptic Curves]] — An elliptic curve is a smooth algebraic curve defined by a cubic equation in two variables, typically written as y² = x³ + ax + b.
+- [[epicycloid|Epicycloid]] — An epicycloid is a curve traced by a point on the circumference of a circle rolling around the outside of another fixed circle.
+- [[euclidean-geometry|Euclidean Geometry]] — Euclidean geometry is the mathematical system of plane and solid geometry founded on Euclid's five axioms and the parallel postulate, codified in The …
+- [[euler-lagrange-equations|Euler-Lagrange Equations]] — The Euler-Lagrange equations are the fundamental differential equations that govern stationary points of variational problems.
+- [[euler-totient-function|Euler Totient Function]] — The Euler totient function, denoted φ(n), counts how many positive integers up to n are relatively prime to n (i.e., share no common factors other tha…
+- [[extreme-value-theorem|Extreme Value Theorem]] — The Extreme Value Theorem (EVT) asserts that a continuous function on a closed and bounded interval a, b attains both a maximum and a minimum value.
+- [[fermat-last-theorem|Fermat's Last Theorem]] — Fermat's Last Theorem states that for any integer n > 2, there exist no three positive integers x, y, z such that x^n + y^n = z^n.
+- [[fourier-series|Fourier Series]] — A Fourier series is an infinite sum of sines and cosines that represents a periodic function on a finite interval.
+- [[function|Function]] — A function is a fundamental mathematical object that assigns to each element of one set (the domain) exactly one element of another set (the codomain).
+- [[fundamental-theorem-of-algebra|Fundamental Theorem of Algebra]] — The Fundamental Theorem of Algebra states that every non-constant polynomial of degree n with complex coefficients has exactly n roots in the complex …
+- [[galois-theory|Galois Theory]] — Galois theory connects the structure of polynomial equations to the symmetries of their solutions through group theory.
+- [[greatest-common-divisor|Greatest Common Divisor]] — The greatest common divisor (GCD) of two integers is the largest positive integer that divides both.
+- [[inner-product|Inner Product]] — An inner product is a generalisation of the familiar dot product from Euclidean space to abstract vector spaces, assigning to each pair of vectors a s…
+- [[intermediate-value-theorem|Intermediate Value Theorem]] — The Intermediate Value Theorem (IVT) asserts that if a continuous function f takes values f(a) and f(b) at two endpoints, then it must take every inte…
+- [[inverse-trigonometric-function|Inverse Trigonometric Function]] — Inverse trigonometric functions recover angles from trigonometric ratios.
+- [[lagrange|Joseph-Louis Lagrange]] — Joseph-Louis Lagrange (1736–1813) was an Italian-born mathematician and astronomer who became one of the most influential figures of the 18th century.
+- [[least-common-multiple|Least Common Multiple]] — The least common multiple (LCM) of two or more integers is the smallest positive integer divisible by each of them.
+- [[linear-transformation|Linear Transformation]] — A linear transformation is a function T: V → W between two vector spaces that preserves the vector space structure—formally, T(au + bv) = aT(u) + bT(v…
+- [[matrix|Matrix]] — A matrix is a rectangular array of numbers, symbols, or expressions arranged in rows and columns.
+- [[modular-forms|Modular Forms]] — A modular form is a highly symmetric complex analytic function on the upper half-plane that transforms in a controlled manner under the action of the …
+- [[non-euclidean-geometry|Non-Euclidean Geometry]] — Non-Euclidean geometry refers to geometric systems that do not satisfy Euclid's parallel postulate—the claim that through a point not on a line, exact…
+- [[notation|Notation]] — Notation refers to the system of symbols and conventions mathematicians use to express ideas precisely and compactly.
+- [[optics|Optics]] — Optics is the mathematical and physical study of light, encompassing how light propagates, interacts with matter, and forms images.
+- [[parametric-equation|Parametric Equation]] — A parametric equation describes a curve by expressing both coordinates as functions of a single parameter, usually t or θ.
+- [[pascal|Blaise Pascal]] — Blaise Pascal (1623–1662) was a French mathematician, physicist, and religious philosopher whose contributions spanned geometry, probability, fluid me…
+- [[pascal-triangle|Pascal's Triangle]] — Pascal's triangle is a triangular array of numbers where each entry is the sum of the two entries above it.
+- [[polar-curves|Polar curves]] — Polar curves are curves defined in polar coordinates (r, θ) rather than the familiar Cartesian (x, y) system.
+- [[prime-number|Prime number]] — A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself.
+- [[probability|Probability]] — Probability is the mathematical study of chance and uncertainty, quantifying how likely an event is to occur.
+- [[set-theory|Set Theory]] — Set theory is the branch of mathematics that studies collections of objects called sets, their properties, and operations.
+- [[sine-function|Sine function]] — The sine function is one of the primary trigonometric functions, fundamental to oscillatory phenomena and periodic behaviour.
+- [[special-relativity|Special relativity]] — Special relativity is Albert Einstein's 1905 theory of space, time, and motion at speeds comparable to light.
+- [[statistics|Statistics]] — Statistics is the science of collecting, analyzing, and drawing inferences from data.
+- [[the-elements|The Elements]] — The Elements is the monumental 13-book mathematical treatise compiled by Euclid around 300 BCE, systematising all of Greek geometry, number theory, an…
+- [[topology|Topology]] — This is the branch of mathematics studying spaces and continuity, focusing on properties that remain invariant under continuous deformation.
 
 ## progress
 

@@ -1,0 +1,63 @@
+---
+type: concept
+category: history
+defines: [Balance of power, Equilibrium, Concert of powers]
+related: ["[[congress-of-vienna]]", "[[treaty-of-utrecht]]", "[[war-of-spanish-succession]]", "[[napoleon-bonaparte]]", "[[international-relations]]"]
+requires: ["[[congress-of-vienna]]"]
+lists: ["[[history-hubs]]"]
+tour_order: 0
+read: false
+---
+
+# Balance of Power
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
+
+## summary
+
+**Balance of power** is a foundational principle of international relations emphasizing that political stability and peace depend on maintaining rough equilibrium between competing states or power blocs. Rather than allow one nation to dominate, statesmen have historically sought coalitions to counterbalance ambitious powers. Formalized after the *Napoleonic Wars* through the *Congress of Vienna* and the *Concert of Europe*, this principle has structured diplomatic strategy for centuries, though it has repeatedly failed to prevent major conflicts.
+
+## you gotta know
+
+- Conceptually rooted in 17th-century European diplomacy, balance-of-power thinking gained systematic expression during the Wars of Louis XIV and the efforts to contain French expansion.
+- The *Treaty of Utrecht* (1713) exemplified the principle, redistributing European territories to prevent any single power from gaining hegemonic dominance.
+- *Napoleonic Wars* disrupted the existing balance catastrophically; *Napoleon's* ambitions convinced European leaders to institutionalize balancing mechanisms.
+- The *Congress of Vienna* (1815) explicitly applied balance-of-power doctrine, creating the *Concert of Europe* to coordinate great-power relations and prevent another Napoleon.
+- The principle posits that if one state grows too powerful, others will band together to oppose it; thus aggressive expansionism is checked by collective action.
+- 19th-century European politics repeatedly invoked balance-of-power language in justifying alliances, territorial negotiations, and interventions from the *Crimean War* to imperial competition.
+- The concept proved insufficient to prevent *World War I*, despite sophisticated diplomatic machinery; nationalist ambitions and alliance rigidities overrode balancing logic.
+- Modern international relations still employs balance-of-power reasoning, especially regarding great-power competition and regional hegemonic stability.
+
+## connections
+
+- [[congress-of-vienna]] — the meeting that institutionalized balance-of-power principles after Napoleon.
+- [[treaty-of-utrecht]] — an earlier precedent establishing the doctrine in post-Spanish-succession diplomacy.
+- [[war-of-spanish-succession]] — the conflict whose settlement established early balance-of-power practice.
+- [[napoleon-bonaparte]] — whose ambitions spurred systematic articulation of balancing doctrine.
+- [[concert-of-europe]] — the institutional mechanism for managing balance-of-power equilibrium in the 19th century.
+
+## see also
+
+[[congress-of-vienna]] · [[treaty-of-utrecht]] · [[concert-of-europe]] · [[napoleon-bonaparte]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
+
+<!-- footer -->
+
+---
+
+Lists: [[history-hubs]] · Mark read: `INPUT[toggle:read]`

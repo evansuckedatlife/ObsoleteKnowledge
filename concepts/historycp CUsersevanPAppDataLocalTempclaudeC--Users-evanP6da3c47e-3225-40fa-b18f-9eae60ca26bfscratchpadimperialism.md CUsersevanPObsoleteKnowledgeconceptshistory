@@ -1,0 +1,65 @@
+---
+type: event
+category: history
+defines: [Spanish-American War]
+related: ["[[united-states]]", "[[american-imperialism]]", "[[philippines]]", "[[cuba]]", "[[theodore-roosevelt]]"]
+requires: ["[[united-states]]", "[[american-imperialism]]"]
+lists: ["[[history-hubs]]"]
+tour_order: 0
+read: false
+---
+
+# Spanish-American War
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
+
+## summary
+
+The **Spanish-American War** (1898) was a brief but consequential conflict between the *United States* and *Spain* over colonial territories, primarily *Cuba*. Lasting barely ten weeks, this war marked America's transition from a regional power to an imperial global force, resulting in U.S. acquisition of *Puerto Rico*, *Guam*, and the *Philippines*, and establishing the nation as a Pacific power. The sinking of the USS *Maine* in Havana harbor galvanized American public opinion and triggered the conflict.
+
+## you gotta know
+
+- The USS *Maine* exploded in Havana harbor in February 1898; American newspapers blamed Spain and rallied public support with "Remember the Maine!"
+- President *William McKinley* initially resisted war but eventually sought congressional approval as popular and political pressure mounted.
+- American forces defeated Spanish squadrons in both the Atlantic and Pacific theaters with decisive naval victories.
+- The war lasted ten weeks of actual combat, making it one of history's briefest major international conflicts.
+- The *Treaty of Paris* (1898) forced Spain to cede *Cuba*, *Puerto Rico*, *Guam*, and the *Philippines* to the United States.
+- American acquisition of the *Philippines* sparked decades of controversy at home and a brutal insurgency abroad, as Filipino independence fighters resisted occupation.
+- The war coincided with American economic and military expansion under *Theodore Roosevelt's* advocacy for imperial power projection.
+- Victory elevated the U.S. to peer status with European imperial powers and committed America to maintaining Pacific territories.
+
+## connections
+
+- [[united-states]] — the nation transformed by its first major overseas war and imperial conquest.
+- [[american-imperialism]] — the broader ideology that justified U.S. acquisition of overseas colonies.
+- [[theodore-roosevelt]] — an architect of American naval power and imperial expansion who championed the conflict.
+- [[william-mckinley]] — the president who reluctantly led the nation into and victory through the war.
+- [[philippines]] — the most strategically significant and controversial prize, sparking decades of conflict.
+- [[cuba]] — the initial focus of American military intervention and strategic interest.
+- [[uss-maine]] — the battleship whose destruction became a flashpoint for American intervention.
+
+## see also
+
+[[american-imperialism]] · [[theodore-roosevelt]] · [[william-mckinley]] · [[philippines]] · [[cuba]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
+
+<!-- footer -->
+
+---
+
+Lists: [[history-hubs]] · Mark read: `INPUT[toggle:read]`
