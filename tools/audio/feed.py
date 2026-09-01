@@ -84,6 +84,8 @@ def main() -> None:
     ap.add_argument("--title", default=TITLE)
     ap.add_argument("--author", default=AUTHOR)
     ap.add_argument("--explicit", default="false", choices=["true", "false"])
+    ap.add_argument("--push", action="store_true",
+                    help="commit and push the feed directory (it is its own public repo)")
     args = ap.parse_args()
 
     base = args.base_url.rstrip("/")
@@ -206,6 +208,17 @@ def main() -> None:
     feed_path = os.path.join(out, "feed.xml")
     with open(feed_path, "w", encoding="utf-8", newline="\n") as fh:
         fh.write("\n".join(parts))
+
+    if args.push:
+        # The feed dir is its own public repo; committing here keeps "render a
+        # new episode" and "it appears in the podcast" a single step.
+        rc = subprocess.run(["git", "add", "-A"], cwd=out).returncode
+        if rc == 0:
+            msg = f"Update feed: {len(items)} episodes"
+            subprocess.run(["git", "commit", "-q", "-m", msg], cwd=out)
+            push = subprocess.run(["git", "push", "-q", "origin", "main"], cwd=out,
+                                  capture_output=True, text=True)
+            print("pushed" if push.returncode == 0 else f"push failed: {push.stderr.strip()}")
 
     total = sum(i["secs"] for i in items)
     print(f"wrote {feed_path}")
