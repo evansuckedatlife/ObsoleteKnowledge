@@ -1,13 +1,26 @@
 ---
 type: place
 category: history
-defines: [Austro-Hungarian Empire, Dual Monarchy]
-aliases: [austria-hungary]
-related: ["[[francis-joseph-i]]", "[[ottoman-empire]]", "[[world-war-i]]", "[[hussite-wars]]", "[[congress-of-vienna]]", "[[habsburg-dynasty]]", "[[serbia]]", "[[romania]]", "[[germany]]", "[[danube]]"]
+defines:
+  - Austro-Hungarian Empire
+  - Dual Monarchy
+aliases:
+  - austria-hungary
+related:
+  - "[[francis-joseph-i]]"
+  - "[[ottoman-empire]]"
+  - "[[world-war-i]]"
+  - "[[hussite-wars]]"
+  - "[[congress-of-vienna]]"
+  - "[[habsburg-dynasty]]"
+  - "[[serbia]]"
+  - "[[romania]]"
+  - "[[germany]]"
+  - "[[danube]]"
 requires: []
 lists: []
 tour_order: 0
-read: false
+read: true
 ---
 
 # Austro-Hungarian Empire

@@ -1,12 +1,22 @@
 ---
 type: event
 category: history
-defines: [Assassination of Archduke Franz Ferdinand, Franz Ferdinand assassination]
-related: ["[[archduke-franz-ferdinand]]", "[[gavrilo-princip]]", "[[world-war-i]]", "[[austro-hungarian-empire]]", "[[black-hand]]", "[[germany]]"]
-requires: ["[[austro-hungarian-empire]]"]
-lists: ["[[assassinations]]"]
+defines:
+  - Assassination of Archduke Franz Ferdinand
+  - Franz Ferdinand assassination
+related:
+  - "[[archduke-franz-ferdinand]]"
+  - "[[gavrilo-princip]]"
+  - "[[world-war-i]]"
+  - "[[austro-hungarian-empire]]"
+  - "[[black-hand]]"
+  - "[[germany]]"
+requires:
+  - "[[austro-hungarian-empire]]"
+lists:
+  - "[[assassinations]]"
 tour_order: 1
-read: false
+read: true
 ---
 
 # Assassination of Archduke Franz Ferdinand
