@@ -198,9 +198,14 @@ def main() -> None:
         audio.append(np.zeros(int(sr * ms / 1000.0), dtype=np.float32))
         audio_ms += ms
 
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    from pronounce import apply as respell
+
     for idx, (title, text) in enumerate(segments):
         pieces = []
-        for chunk in chunks(text):
+        # Respell only what is spoken; the narration cache keeps clean prose,
+        # so the table can be tuned without re-narrating anything.
+        for chunk in chunks(respell(text)):
             samples, rate = kokoro.create(chunk, voice=args.voice,
                                           speed=args.speed, lang="en-us")
             sr = sr or rate

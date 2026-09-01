@@ -148,6 +148,8 @@ def main() -> None:
     ap.add_argument("--episode")
     ap.add_argument("--keep-audio", action="store_true",
                     help="keep the local mp3 after a confirmed upload")
+    ap.add_argument("--replace", action="store_true",
+                    help="delete and re-upload an already-published episode (irreversible)")
     ap.add_argument("--status", action="store_true")
     args = ap.parse_args()
 
@@ -167,9 +169,19 @@ def main() -> None:
     if not os.path.exists(mp3):
         sys.exit(f"no audio at {mp3} — run build.py first")
 
-    if args.episode in state["episodes"]:
+    if args.episode in state["episodes"] and not args.replace:
         print(f"{args.episode} already published: {state['episodes'][args.episode]['episode_id']}")
         return
+
+    if args.replace and args.episode in state["episodes"]:
+        # Episode audio and metadata are immutable, so a corrected re-render
+        # means delete-then-upload. Deliberately gated behind --replace: the
+        # delete is irreversible.
+        old = state["episodes"][args.episode]["episode_id"]
+        print(f"replacing {args.episode}: deleting {old}")
+        run("episodes", "delete", str(old), check=False)
+        del state["episodes"][args.episode]
+        save_state(state)
 
     show_id = ensure_show(state, plan["category"])
     summary = (f"{len(plan['nodes'])} topics: "
