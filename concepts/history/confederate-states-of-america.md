@@ -2,6 +2,7 @@
 type: place
 category: history
 defines: [Confederate States of America, Confederacy, CSA]
+aliases: [confederate-states]
 related: ["[[american-civil-war]]", "[[robert-e-lee]]", "[[fort-sumter]]", "[[american-south]]", "[[slavery]]"]
 requires: ["[[american-civil-war]]"]
 lists: ["[[history-hubs]]"]

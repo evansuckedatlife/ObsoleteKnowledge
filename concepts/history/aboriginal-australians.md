@@ -5,6 +5,7 @@ defines:
   - Aboriginal Australians
   - Aboriginal peoples of Australia
   - Indigenous Australians
+aliases: [aboriginal-peoples, Aboriginal peoples]
 related: ["[[australia]]", "[[dot-painting]]"]
 requires: []
 lists:

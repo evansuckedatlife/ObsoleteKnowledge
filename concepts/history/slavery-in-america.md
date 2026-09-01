@@ -2,6 +2,7 @@
 type: concept
 category: history
 defines: [Slavery in America]
+aliases: [slavery-in-the-united-states]
 related: ["[[thomas-jefferson]]", "[[american-civil-war]]", "[[reconstruction-era]]", "[[14th-amendment]]", "[[election-of-1860]]", "[[plantation-economy]]", "[[abolition-movement]]"]
 requires: ["[[american-civil-war]]"]
 lists: ["[[history-hubs]]"]

@@ -1,0 +1,62 @@
+---
+type: concept
+category: literature
+defines: ["Postcolonial Literature"]
+related: ["[[salman-rushdie]]", "[[zadie-smith]]", "[[colonial-history]]", "[[identity]]", "[[empire]]"]
+requires: ["[[imperialism]]"]
+lists: ["[[literature-hubs]]"]
+tour_order: 0
+read: false
+---
+
+# Postcolonial Literature
+
+<!-- foundations -->
+```dataviewjs
+dv.view("_dv/foundations")
+```
+<!-- /foundations -->
+
+## summary
+
+**Postcolonial literature** comprises works by writers from formerly colonised regions who narrate experiences of displacement, hybridity, cultural erasure, and resistance from positions shaped by empire. Emerging powerfully after World War II, these writers reclaim literary voices from the margins of the colonial centre, rewriting histories from indigenous perspectives and troubling the assumption that the coloniser's language and literary forms were the only legitimate vehicles for expression. Postcolonial literature is not merely a chronological aftermath but a practice of dismantling and reimagining cultural authority.
+
+## you gotta know
+
+- Postcolonial literature originated as colonial powers retreated and formerly subordinated peoples seized the authority to narrate their own histories, using both the coloniser's language and indigenous narrative forms.
+- Major figures like *Salman Rushdie* and *Zadie Smith* employ hybrid narrative techniques—magical realism, fractured timelines, code-switching between languages—to express the fragmented consciousness of diaspora and cultural collision.
+- The movement reclaims and re-examines canonical colonial texts, exposing the complicity of literature in justifying and naturalising empire; rereadings of *Robinson Crusoe* or *Heart of Darkness* reveal the violence beneath their narratives.
+- Postcolonial writers often navigate a paradox: writing in the coloniser's language (English, French, Spanish) means reaching a global audience but also participating in the linguistic systems of domination.
+- Key preoccupations include the invention of national identity after colonialism, the psychological toll of cultural displacement, the question of authenticity and "roots" in diaspora, and the recovery of suppressed histories.
+- The literary forms employed—stream-of-consciousness, nonlinear narrative, intertextuality—reflect postmodern techniques but are given particular weight by their deployment in contexts of historical trauma and cultural recovery.
+- Postcolonial literature extends beyond the English-speaking world: Latin American, African, and Asian writers all produce works interrogating colonial legacies within their specific historical and cultural contexts.
+
+## connections
+
+- [[salman-rushdie]] — a canonical postcolonial novelist whose magical-realist hybrid narratives became emblematic of the movement.
+- [[zadie-smith]] — represents a second generation engaging with postcolonial concerns through contemporary British urban experience.
+- [[magical-realism]] — a narrative technique particularly powerful for expressing postcolonial experience and recovered indigenous knowledge.
+- [[diaspora]] — the lived experience many postcolonial writers narrate; displacement and multiple belonging are central themes.
+- [[imperialism]] — the historical structure postcolonial literature contests and rewrites.
+
+## see also
+
+- [[salman-rushdie]] · [[zadie-smith]] · [[magical-realism]] · [[diaspora]]
+
+<!-- crosslinks -->
+```dataviewjs
+dv.view("_dv/crosslinks")
+```
+<!-- /crosslinks -->
+
+<!-- tournav -->
+```dataviewjs
+dv.view("_dv/tournav")
+```
+<!-- /tournav -->
+
+<!-- footer -->
+
+---
+
+Lists: [[literature-hubs]] · Mark read: `INPUT[toggle:read]`
