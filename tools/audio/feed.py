@@ -15,8 +15,8 @@ Output layout (everything Pages needs, nothing else):
       chapters/<slug>.json      # podcast:chapters, honoured by Overcast etc.
 
 Usage:
-    python tools/audio/feed.py --out ../ObsoleteKnowledge-podcast \\
-        --base-url https://evansuckedatlife.github.io/ObsoleteKnowledge-podcast \\
+    python tools/audio/feed.py --out ../buzzer \\
+        --base-url https://evansuckedatlife.github.io/buzzer \\
         --email you@example.com
 """
 
@@ -37,7 +37,7 @@ ROOT = os.path.dirname(os.path.dirname(HERE))
 WORK = os.path.join(HERE, "work")
 STATE = os.path.join(HERE, "state.json")
 
-TITLE = "ObsoleteKnowledge"
+TITLE = "Buzzer"
 SUBTITLE = "Guided tours through a quiz-bowl knowledge base"
 DESCRIPTION = (
     "Short, chaptered tours through a personal reference collection: mythology, "
@@ -45,7 +45,7 @@ DESCRIPTION = (
     "chapter per entry, ordered so the most recognisable facts come first. "
     "Written from open sources and narrated with a synthetic voice."
 )
-AUTHOR = "ObsoleteKnowledge"
+AUTHOR = "Buzzer"
 CATEGORY = "Education"
 SUBCATEGORY = "Courses"
 
@@ -81,6 +81,8 @@ def main() -> None:
                     help="owner email. Spotify for Creators sends the ownership "
                          "verification code here, and it IS published in the feed, "
                          "so use an address you are willing to make public.")
+    ap.add_argument("--title", default=TITLE)
+    ap.add_argument("--author", default=AUTHOR)
     ap.add_argument("--explicit", default="false", choices=["true", "false"])
     args = ap.parse_args()
 
@@ -149,7 +151,7 @@ def main() -> None:
     if not os.path.exists(cover_src):
         sys.path.insert(0, HERE)
         from covers import make_cover
-        cover_src = make_cover(TITLE, os.path.join(WORK, "_covers", "podcast.jpg"),
+        cover_src = make_cover(args.title, os.path.join(WORK, "_covers", "podcast.jpg"),
                                key="podcast:obsoleteknowledge")
     shutil.copyfile(cover_src, os.path.join(out, "cover.jpg"))
 
@@ -160,13 +162,13 @@ def main() -> None:
         '     xmlns:content="http://purl.org/rss/1.0/modules/content/"',
         '     xmlns:podcast="https://podcastindex.org/namespace/1.0">',
         "  <channel>",
-        f"    <title>{escape(TITLE)}</title>",
+        f"    <title>{escape(args.title)}</title>",
         f"    <link>{escape(base)}</link>",
         f"    <language>en-us</language>",
         f"    <description>{escape(DESCRIPTION)}</description>",
         f"    <itunes:subtitle>{escape(SUBTITLE)}</itunes:subtitle>",
         f"    <itunes:summary>{escape(DESCRIPTION)}</itunes:summary>",
-        f"    <itunes:author>{escape(AUTHOR)}</itunes:author>",
+        f"    <itunes:author>{escape(args.author)}</itunes:author>",
         f"    <itunes:explicit>{args.explicit}</itunes:explicit>",
         f"    <itunes:type>episodic</itunes:type>",
         f'    <itunes:image href="{escape(base)}/cover.jpg"/>',
@@ -174,7 +176,7 @@ def main() -> None:
         f'      <itunes:category text="{SUBCATEGORY}"/>',
         f"    </itunes:category>",
         "    <itunes:owner>",
-        f"      <itunes:name>{escape(AUTHOR)}</itunes:name>",
+        f"      <itunes:name>{escape(args.author)}</itunes:name>",
         f"      <itunes:email>{escape(args.email)}</itunes:email>",
         "    </itunes:owner>",
         f"    <lastBuildDate>{formatdate(items[-1]['mtime'], usegmt=True)}</lastBuildDate>",
