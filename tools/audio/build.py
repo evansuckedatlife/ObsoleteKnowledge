@@ -208,11 +208,15 @@ def main() -> None:
         if sr is None:
             sys.exit("Kokoro returned no audio")
         if idx == 0:
+            # The lead-in silence belongs to the first chapter, not before it:
+            # chapter 0 must start at exactly 0 or the upload is rejected.
             push_silence(LEAD_MS)
+            start_ms = 0
         else:
             push_silence(GAP_MS)
+            start_ms = int(round(audio_ms))
 
-        chapters.append({"title": title, "start_time_ms": int(round(audio_ms))})
+        chapters.append({"title": title, "start_time_ms": start_ms})
         for piece in pieces:
             audio.append(piece)
             audio_ms += 1000.0 * len(piece) / sr
@@ -253,11 +257,9 @@ def main() -> None:
     with open(os.path.join(epdir, "timeline.json"), "w", encoding="utf-8", newline="\r\n") as fh:
         json.dump({"items": [{"chapter": c} for c in chapters]}, fh, indent=2)
 
-    # Covers are mandatory on every episode; generate now so publish can't
-    # reach the upload call without one.
-    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-    from covers import make_cover
-    make_cover(plan["title"], os.path.join(epdir, "cover.jpg"), key=plan["episode_id"])
+    # Covers are mandatory, but they are generated in publish.py: this process
+    # is re-executed under Kokoro's virtualenv, which has no Pillow. publish.py
+    # runs under the system interpreter and makes the cover if it is missing.
 
     size = os.path.getsize(mp3)
     print(f"\n{args.episode}: {len(chapters)} chapters, "
