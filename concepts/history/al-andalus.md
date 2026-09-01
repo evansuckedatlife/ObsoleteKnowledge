@@ -2,6 +2,7 @@
 type: event
 category: history
 defines: [Al-Andalus, Islamic Spain, Muslim Iberia]
+aliases: [moorish-spain, Moorish Spain]
 related: ["[[islam]]", "[[umayyad-caliphate]]", "[[reconquista]]", "[[medieval-spain]]", "[[jewish-golden-age]]", "[[islamic-civilization]]", "[[arab-conquest]]", "[[isabella-and-ferdinand]]", "[[spain]]"]
 requires: []
 lists: []

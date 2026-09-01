@@ -2,6 +2,7 @@
 type: concept
 category: literature
 defines: [Gothic literature, Gothic novel, Gothic romance]
+aliases: [gothic-fiction, Gothic horror]
 related: ["[[mary-shelley]]", "[[frankenstein]]", "[[the-castle-of-otranto]]", "[[jane-eyre]]", "[[the-fall-of-the-house-of-usher]]", "[[edgar-allan-poe]]", "[[romanticism]]", "[[the-sublime]]", "[[early-modern-psychology]]", "[[fear-and-the-uncanny]]", "[[enlightenment]]", "[[industrial-revolution]]", "[[england]]"]
 requires: []
 lists: []

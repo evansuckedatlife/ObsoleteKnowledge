@@ -26,6 +26,7 @@ from __future__ import annotations
 import argparse
 import os
 import re
+import glob
 import subprocess
 import sys
 
@@ -181,14 +182,31 @@ def main() -> None:
     for path in new:
         by_cat.setdefault(path.split("/")[1], []).append(path)
 
-    data = frontier.build(ROOT)
     changed = 0
-
     for category, paths in sorted(by_cat.items()):
-        slug = f"{category}-hubs"
         for path in paths:
-            if set_lists(path, slug, args.dry_run):
+            if set_lists(path, f"{category}-hubs", args.dry_run):
                 changed += 1
+
+    # Build each list from what the nodes actually DECLARE, not from which
+    # folder they sit in. A node may legitimately belong to several lists
+    # (romance and typography are both pop-culture and literature hubs), and
+    # a folder-based build silently drops the extra memberships, which then
+    # fails check_symmetry.
+    membership: dict[str, list[str]] = {}
+    for path in new:
+        declared = frontier.as_list(
+            frontier.parse_frontmatter(frontier.read_text(os.path.join(ROOT, path))).get("lists")
+        )
+        slugs = [frontier.link_basename(x) for x in declared]
+        slugs = [s for s in slugs if s.endswith("-hubs")]
+        if not slugs:
+            slugs = [f"{path.split('/')[1]}-hubs"]
+        for s in slugs:
+            membership.setdefault(s, []).append(path)
+
+    for slug, paths in sorted(membership.items()):
+        category = slug[: -len("-hubs")]
 
         members = []
         for path in sorted(paths):
@@ -210,11 +228,26 @@ def main() -> None:
         list_path = os.path.join(ROOT, "lists", f"{slug}.md")
         tour_path = os.path.join(ROOT, "tours", f"{slug}.md")
 
-        existing = []
+        # Merge by node slug, never by whole line. The rendered hint drifts
+        # between runs (summary edits, ellipsis vs full stop), so a line-level
+        # set-union silently duplicates every member on a re-run.
+        entries: dict[str, str] = {}
         if os.path.exists(list_path):
             prev = frontier.read_text(list_path)
-            existing = re.findall(r"^- \[\[.+$", prev, re.M)
-        merged = sorted(set(existing) | set(members))
+            for line in re.findall(r"^- \[\[.+$", prev, re.M):
+                key = re.match(r"^- \[\[([^\]\|]+)", line)
+                if key:
+                    entries[key.group(1).strip()] = line
+        for line in members:
+            key = re.match(r"^- \[\[([^\]\|]+)", line)
+            if key:
+                entries[key.group(1).strip()] = line       # newest wins
+        # Drop members whose node no longer exists: duplicates get deleted and
+        # aliased onto a survivor after a wave, and a stale entry would leave
+        # the MOC pointing at nothing.
+        alive = {os.path.basename(p)[:-3]
+                 for p in glob.glob(os.path.join(ROOT, "concepts", "*", "*.md"))}
+        merged = [entries[k] for k in sorted(entries) if k in alive]
 
         print(f"{slug:<26} {len(paths):>4} new  ->  {len(merged)} members")
         if args.dry_run:
