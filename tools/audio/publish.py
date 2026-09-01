@@ -58,7 +58,12 @@ def cli() -> str:
 
 
 def run(*argv, check=True) -> dict | str:
-    proc = subprocess.run([cli(), *argv], capture_output=True, text=True)
+    # encoding="utf-8" is load-bearing on Windows: with plain text=True Python
+    # decodes stdout using the locale codec (cp1252), which mangles the em dash
+    # in "ObsoleteKnowledge — Mythology". That silently broke the match-by-title
+    # dedup in ensure_show and created a second, empty show.
+    proc = subprocess.run([cli(), *argv], capture_output=True,
+                          text=True, encoding="utf-8", errors="replace")
     if check and proc.returncode != 0:
         sys.exit(f"save-to-spotify {' '.join(argv)} failed:\n{proc.stderr or proc.stdout}")
     out = (proc.stdout or "").strip()
@@ -84,6 +89,10 @@ def save_state(state: dict) -> None:
         json.dump(state, fh, indent=2)
 
 
+SHOW_KEYS = ("show_uri", "show_id", "uri", "id")
+EPISODE_KEYS = ("episode_uri", "episode_id", "uri", "id")
+
+
 def dig(obj, *keys):
     for k in keys:
         if isinstance(obj, dict) and k in obj:
@@ -106,13 +115,26 @@ def ensure_show(state: dict, category: str) -> str:
     if category in state["shows"]:
         return state["shows"][category]
     title = f"ObsoleteKnowledge — {category.replace('-', ' ').title()}"
+
+    # Always look before creating. Show metadata is immutable and there is no
+    # dedup on the server, so a failed run that created a show and then died
+    # before writing state.json would otherwise create a second one every retry.
+    listing = run("--json", "shows", check=False)
+    for show in (listing or {}).get("shows", []) if isinstance(listing, dict) else []:
+        if show.get("title") == title:
+            show_id = show.get("show_uri") or show.get("uri") or show.get("id")
+            state["shows"][category] = show_id
+            save_state(state)
+            print(f"reusing existing show {title} -> {show_id}")
+            return show_id
+
     summary = SHOW_BLURB.get(category, "A guided tour of the collection.")
     cover = make_cover(category.replace("-", " ").title(),
                        os.path.join(WORK, "_covers", f"show-{category}.jpg"),
                        key=f"show:{category}")
     res = run("--json", "shows", "create", "--title", title, "--summary", summary,
               "--image", cover)
-    show_id = dig(res, "id", "show_id", "uri")
+    show_id = dig(res, *SHOW_KEYS)
     if not show_id:
         sys.exit(f"could not read a show id from: {res}")
     state["shows"][category] = show_id
@@ -157,14 +179,28 @@ def main() -> None:
     if not os.path.exists(cover):
         cover = make_cover(plan["title"], cover, key=plan["episode_id"])
 
-    print(f"uploading {args.episode} ({os.path.getsize(mp3) / 1e6:.1f} MB)...")
-    res = run("--json", "--timeout", "10m", "upload", mp3,
-              "--title", plan["title"], "--show-id", str(show_id),
-              "--summary", summary, "--image", cover)
-    episode_id = dig(res, "episode_id", "id", "uri")
+    # An upload that succeeds and is then interrupted before state.json is
+    # written leaves a real episode this script has no record of, so a retry
+    # would upload a second copy. Look for it by title first. (Recovering the
+    # id also lets the timeline be set on the episode that already exists.)
+    episode_id = None
+    listing = run("--json", "episodes", "--show-id", str(show_id), check=False)
+    if isinstance(listing, dict):
+        for ep in listing.get("episodes", []):
+            if ep.get("title") == plan["title"]:
+                episode_id = ep.get("episode_uri") or ep.get("uri") or ep.get("id")
+                print(f"  found existing episode {episode_id}; not re-uploading")
+                break
+
     if not episode_id:
-        sys.exit(f"could not read an episode id from: {res}")
-    print(f"  episode {episode_id}")
+        print(f"uploading {args.episode} ({os.path.getsize(mp3) / 1e6:.1f} MB)...")
+        res = run("--json", "--timeout", "10m", "upload", mp3,
+                  "--title", plan["title"], "--show-id", str(show_id),
+                  "--summary", summary, "--image", cover)
+        episode_id = dig(res, *EPISODE_KEYS)
+        if not episode_id:
+            sys.exit(f"could not read an episode id from: {res}")
+        print(f"  episode {episode_id}")
 
     run("episodes", "status", str(episode_id), "--wait", "5m", check=False)
 
