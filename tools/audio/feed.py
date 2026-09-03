@@ -84,6 +84,11 @@ def main() -> None:
     ap.add_argument("--title", default=TITLE)
     ap.add_argument("--author", default=AUTHOR)
     ap.add_argument("--explicit", default="false", choices=["true", "false"])
+    ap.add_argument("--asset-base", default="",
+                    help="serve mp3s from here instead of copying them into the "
+                         "site. GitHub Pages caps a published site at 1 GB, which "
+                         "this collection passes around 110 episodes, so audio "
+                         "lives as release assets and only the feed is on Pages.")
     ap.add_argument("--push", action="store_true",
                     help="commit and push the feed directory (it is its own public repo)")
     args = ap.parse_args()
@@ -110,7 +115,8 @@ def main() -> None:
         with open(plan_path, encoding="utf-8") as fh:
             plan = json.load(fh)
 
-        shutil.copyfile(mp3, os.path.join(out, "episodes", f"{slug}.mp3"))
+        if not args.asset_base:
+            shutil.copyfile(mp3, os.path.join(out, "episodes", f"{slug}.mp3"))
         tl = os.path.join(epdir, "timeline.json")
         chapters_url = ""
         if os.path.exists(tl):
@@ -185,7 +191,8 @@ def main() -> None:
     ]
 
     for it in items:
-        url = f"{base}/episodes/{it['slug']}.mp3"
+        host = args.asset_base.rstrip("/") if args.asset_base else f"{base}/episodes"
+        url = f"{host}/{it['slug']}.mp3"
         parts += [
             "    <item>",
             f"      <title>{escape(it['title'])}</title>",
