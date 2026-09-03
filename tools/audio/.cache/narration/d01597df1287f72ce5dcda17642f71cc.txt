@@ -1,0 +1,7 @@
+Closed interval. A set of real numbers including both endpoints, written as the bracket notation for a and b where every x is between a and b inclusive. This simple yet fundamental concept is essential to analysis. Closed intervals are compact in the real numbers, making them the setting where continuous functions attain their maximum and minimum values, as guaranteed by the extreme value theorem.
+
+A closed interval includes both boundary points, expressed symbolically. The complement of a closed interval is an open set. A closed interval is the closure of the open interval. Compactness in the real numbers is characterized by being closed and bounded. All closed intervals are compact.
+
+On a closed interval, every continuous function attains its maximum and minimum values—a foundational result in analysis. Closed intervals are sequentially compact: every sequence in a closed interval has a convergent subsequence, by the Bolzano-Weierstrass theorem. The Heine-Borel theorem states that a subset of Euclidean space is compact if and only if it is closed and bounded.
+
+Closed intervals form the basis for limits and continuity in single-variable calculus. The nested interval property guarantees that the intersection of a decreasing sequence of non-empty closed intervals is non-empty, a key tool in proving existence results. Riemann integrability is defined on closed intervals. The fundamental theorem of calculus connects integration and differentiation specifically on closed domains.

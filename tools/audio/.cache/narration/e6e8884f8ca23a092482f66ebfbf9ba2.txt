@@ -1,0 +1,11 @@
+Perspective is the systematic technique for representing three-dimensional space on a flat surface, transforming visual art from decorative symbol to illusionistic window into an imagined world. Developed and refined during the Renaissance, particularly through the studies of Filippo Brunelleschi, Leonardo da Vinci, and mathematical treatises, linear perspective became the dominant Western convention for painting and drawing. Its discovery marked a conceptual revolution: the realization that space itself could be rationally organized, measured, and depicted.
+
+Filippo Brunelleschi demonstrated the mathematical principles of linear perspective around fourteen fifteen, using mirrors and geometric construction to prove the method works. A single vanishing point, or multiple points, toward which parallel lines recede creates the illusion of depth on a flat plane.
+
+Atmospheric perspective, also called aerial perspective, represents distant objects as hazier, less detailed, and cooler in color to mimic how atmosphere obscures vision. Renaissance artists used perspective not just as a technical achievement but as a philosophical statement—that human reason could decode and represent the visible world. This belief in rational order and human understanding shaped both the technique and its cultural meaning.
+
+Leonardo da Vinci treated perspective as inseparable from anatomy and optics, grounding painting in science. He saw perspective not as a mere trick but as a gateway to understanding vision itself.
+
+Different genres and regions adopted perspective at different rates. Icon painting and much Islamic art never embraced linear perspective, developing alternative spatial systems instead. The Renaissance window was a Western invention, not a universal truth.
+
+Perspective was eventually challenged by modernists who rejected the idea that a single viewpoint was the only valid way to see. Cubism deliberately fragmented and multiplied perspective to show multiple viewpoints simultaneously, dismantling the Renaissance conviction that one point of view could capture all truth.

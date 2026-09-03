@@ -1,0 +1,9 @@
+Light. Electromagnetic radiation visible to the human eye, spanning wavelengths from approximately three hundred eighty to seven hundred nanometers.
+
+Mathematically, light behaves as waves governed by Maxwell's equations, yet also exhibits particle-like properties through photons. Understanding light requires both the calculus of wave propagation and the algebra of geometric optics.
+
+Light travels at approximately two hundred ninety-nine thousand seven hundred ninety-two kilometers per second in vacuum, a fundamental constant denoted c. The wave nature of light is described by sinusoidal functions with amplitude, frequency, and wavelength. Isaac Newton's prism experiments revealed that white light is a superposition of colors, each with distinct wavelengths and refractive indices. Optics mathematizes light propagation through lenses and mirrors using geometry and calculus.
+
+Light exhibits diffraction and interference, phenomena explained by the wave equation and Fourier analysis. The photoelectric effect demonstrates light's particle nature: energy is quantized as photons, where energy equals Planck's constant times frequency. Snell's law governs refraction at boundaries between media with different refractive indices. Maxwell's equations unify electricity, magnetism, and light, predicting electromagnetic waves with the speed of light.
+
+The double-slit experiment exemplifies wave-particle duality: light exhibits both wave-like interference patterns and particle-like detection events. Polarization describes the oscillation direction of electromagnetic waves. Polarizing filters block light vibrating in orthogonal directions. Lens and mirror design relies on mathematical optimization: focal length, aberration correction, and ray tracing are essential to optics and engineering.

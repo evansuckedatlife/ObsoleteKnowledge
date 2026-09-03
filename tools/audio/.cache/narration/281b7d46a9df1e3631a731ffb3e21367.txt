@@ -1,0 +1,13 @@
+Parametric Equation. A description of a curve by expressing both coordinates as functions of a single parameter.
+
+Instead of y equals f of x, parametric form uses x equals f of t and y equals g of t. This approach elegantly handles curves that fail the vertical-line test and naturally represents motion along paths, revealing geometric structure that Cartesian equations often obscure.
+
+A plane curve is given parametrically by x of t, y of t for t in some interval from a to b. The parameter t traces out the curve as it varies, often representing time. This avoids the constraint of functions: a single parameter can represent multi-valued relations like circles and ellipses, and curves failing the vertical-line test.
+
+To eliminate the parameter, solve for t from one equation and substitute into the other to recover a Cartesian relation. This may lose direction and multiplicity information. The derivative dy by dx in parametric form equals dy by dt divided by dx by dt, provided dx by dt is nonzero. This enables tangent lines and calculus without explicitly solving for y in terms of x.
+
+Arc length from t equals a to b uses an elegant formula involving the square root of the sum of the squares of the derivatives. This avoids messy square roots inherent in Cartesian arc length.
+
+The cycloid, epicycloid, and hypocycloid, which are rolling circle curves, are far cleaner parametrically than in Cartesian form. Cartesian forms are polynomials of high degree. Polar curves r equals f of theta are a special parametrization. Convert to parametric form using x equals r cosine theta, y equals r sine theta, enabling unified treatment of curves in polar and Cartesian coordinates.
+
+Curvature and torsion for three-dimensional curves have elegant parametric formulas. Parametrization is essential for studying the intrinsic geometry of curves without reference to coordinate systems. Kinematics and dynamics use parametric equations where t is time. Velocity and acceleration emerge naturally from parametric representations.

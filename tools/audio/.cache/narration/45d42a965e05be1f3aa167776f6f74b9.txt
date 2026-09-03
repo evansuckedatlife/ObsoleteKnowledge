@@ -1,0 +1,11 @@
+Notation. The system of symbols and conventions mathematicians use to express ideas precisely and compactly.
+
+From Leibniz's integral sign to Euler's function notation, mathematical notation evolved to make complex concepts tractable and universal. The choice of notation shapes how mathematicians think, communicate, and solve problems.
+
+Leibniz invented the integral sign and the differential notation d by dx, which dominated calculus symbolism across Europe and remain standard today. He also coined the term function. Euler systematized function notation f of x, introduced the Greek letter sigma for summation, introduced pi for the circle ratio, and popularized e as the natural exponential base and i for the imaginary unit.
+
+Robert Recorde introduced the equals sign in fifteen fifty-seven with the symbolic justification that two quantities are equal when they are of one length. Earlier mathematicians wrote out equations in words or used alternatives like aequalis. Binary and positional notation using the digits zero through nine with place value emerged from Indian and Arabic mathematics. Roman numerals lack these properties, making multiplication tedious and impossible to systematize.
+
+Algebraic notation evolved through three historical phases: rhetorical, purely verbal; syncopated, abbreviated; and symbolic, modern. Each transition enabled more complex reasoning and swifter calculation. The vinculum, an overline, was used for grouping and roots in early mathematics before parentheses became standard. Clearing such notational clutter was essential for algebra to mature. Cayley developed matrix notation systematically, and it was later standardized, enabling linear algebra to flourish. Abstract notation allowed mathematicians to manipulate entire systems without ambiguity.
+
+Standardized vector notation, using bold, arrows, or subscripts, transformed multivariable calculus and physics. Inconsistent notation obscures elegant relationships and renders proofs illegible. Mathematical notation is not universal or unique. Different fields and traditions use different symbols, but shared conventions within a field allow rapid communication and build upon prior work. The Peano axioms use symbolic notation to formalize natural numbers. This formalization showed how notation enables rigorous logical foundations.

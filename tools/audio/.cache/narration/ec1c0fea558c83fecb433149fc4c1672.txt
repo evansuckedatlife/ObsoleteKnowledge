@@ -1,0 +1,9 @@
+Price Signal. A price signal is the information that market prices convey to producers and consumers about relative scarcity, demand, and production costs.
+
+When prices rise, they signal that a good is becoming scarce or demand is increasing, prompting producers to expand production and consumers to reduce consumption. When prices fall, they signal surplus and prompt opposite adjustments. Price signals are the market's decentralized communication mechanism, allowing millions of independent decisions to coordinate without central authority.
+
+Prices adjust automatically in response to supply and demand imbalances, conveying information without requiring bureaucratic coordination. Rising prices incentivize producers to increase supply because expanding production becomes more profitable, and they incentivize consumers to seek substitutes or reduce consumption. These two adjustments restore balance without compulsion. Falling prices incentivize producers to reduce supply or shift to more profitable goods, and incentivize consumers to increase consumption—again, automatic rebalancing without central command.
+
+Prices reflect dispersed information about preferences, production costs, and availability. A single price number condenses vast amounts of information that decision-makers need. Scarcity drives prices up until quantity demanded equals quantity supplied, and excess supply drives prices down until markets clear.
+
+Price signals fail when markets are distorted by monopolies that restrict output to raise prices artificially, by information asymmetries that prevent informed decisions, or by externalities that cause market prices to misrepresent social costs. Price controls imposed by governments override price signals and often create unintended consequences. Rent controls reduce housing supply, and minimum wages can increase unemployment. When signals are suppressed, the adjustment happens through quantity rather than price.

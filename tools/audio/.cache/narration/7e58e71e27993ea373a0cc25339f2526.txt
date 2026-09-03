@@ -1,0 +1,11 @@
+Blaise Pascal. The French mathematician, physicist, and religious philosopher whose contributions spanned geometry, probability, fluid mechanics, and the philosophy of faith.
+
+Though he lived only thirty-nine years, Pascal made profound discoveries. He invented the hydraulic press and conducted the Torricelli barometer experiment. Through correspondence with Fermat, he founded modern probability theory by solving the problem of points. His Pascal triangle, a triangular array of binomial coefficients, remains a cornerstone of combinatorics. His cycloid studies were central to the calculus wars of the seventeenth century.
+
+Pascal's triangle is a triangular arrangement of binomial coefficients where each entry is the sum of the two entries above it. Row n contains the coefficients of x plus y to the n power. Diagonals reveal figurate numbers: triangular and tetrahedral numbers. Correspondence with Fermat on the problem of points addressed how to divide winnings in an interrupted game. This created the foundations of probability. Their exchange introduced expected value and the principle of fair division.
+
+Pascal conducted rigorous mathematical investigations of the cycloid, including its arc length and area. His work on cycloids was part of the vigorous calculus frontier where Newton and Leibniz were simultaneously developing the field. Pascal's principle in physics states that pressure applied to a fluid in a closed system is transmitted uniformly throughout. Practical applications led to hydraulic machinery.
+
+Pascal designed experiments using mercury columns to prove that atmospheric pressure supports a column of liquid, validating that a vacuum can exist. This challenged Aristotle's horror vacui, the belief that nature abhors a vacuum. Pascal's wager is a religious argument that it is rational to believe in God because belief has infinite potential reward if God exists, while disbelief has infinite potential cost. It is influential in philosophy and decision theory.
+
+Pascal was known for elegant geometric arguments and an ability to see deep structure. His lost treatise reportedly contained discoveries later rediscovered independently. He studied the lima ç on curve, and the curve bears his name in some contexts.

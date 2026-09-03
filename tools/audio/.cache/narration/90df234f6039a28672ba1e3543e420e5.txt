@@ -1,0 +1,11 @@
+Alan Turing. A British mathematician, logician, and computer scientist from nineteen twelve to nineteen fifty-four who formalised the concepts of algorithm and computation. During the Second World War, he worked at Bletchley Park, playing a pivotal role in breaking the German Enigma code.
+
+He formulated the Turing machine, a mathematical model of computation that defines the limits of what can be computed by an algorithm. Using this machine, he proved that the halting problem is undecidable—showing that no general algorithm can determine whether an arbitrary program will run forever or eventually halt. This was his way of proving the existence of undecidable problems.
+
+He played a key role at Bletchley Park in breaking the German naval Enigma cipher, designing the electromechanical Bombe search engine that helped crack the code.
+
+Independently of Alonzo Church, he resolved the Entscheidungsproblem, or decision problem, demonstrating that first-order logic has no general decision algorithm.
+
+In nineteen fifty, he proposed the Turing test, originally called the imitation game, as a criterion for machine intelligence. Can a machine imitate a human so convincingly that an observer cannot tell the difference?
+
+And in nineteen fifty-two, he detailed the chemical basis of morphogenesis in a paper, using reaction-diffusion equations to explain how biological patterns form. The mechanisms he described would shape developmental biology for decades to come.

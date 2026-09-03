@@ -1,0 +1,9 @@
+Dimension. A fundamental invariant of a vector space, defined as the cardinality of any basis—the minimum number of linearly independent vectors needed to generate the entire space. For familiar examples: Euclidean three-space has dimension three, while the space of polynomials of degree at most n has dimension n plus one. Dimension measures the size or degrees of freedom of a vector space.
+
+The dimension of R to the n is n. The dimension of a finite-dimensional vector space is the size of any basis. All bases of a given vector space have the same cardinality—this is the dimension theorem, making dimension well-defined. Vector spaces of different dimensions are never isomorphic. Dimension is the complete topological invariant for finite-dimensional vector spaces.
+
+The basis of a vector space has exactly dim V elements. Any set of more than dim V vectors is linearly dependent. The rank-nullity theorem states that for a linear map from V to W, the dimension of the kernel plus the dimension of the image equals the dimension of V.
+
+Dimension extends to infinite-dimensional spaces, like spaces of functions, where bases may be uncountable. In practical applications, dimension represents degrees of freedom: a rigid body in three-dimensional space has six dimensional freedom—three translational and three rotational. The rank of a matrix is the dimension of its column space, or equivalently, its row space. Rank determines the dimensionality of solutions to linear systems.
+
+Hamel and Schauder bases are two types of bases for infinite-dimensional spaces. The concept of dimension generalizes but loses uniqueness of basis size in these settings.

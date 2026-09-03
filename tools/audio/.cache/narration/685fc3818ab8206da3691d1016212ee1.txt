@@ -1,0 +1,17 @@
+Statistics. The science of collecting, analyzing, and drawing inferences from data. It bridges probability theory and the real world, providing tools to understand patterns in noisy data and to make decisions under uncertainty. From quality control in manufacturing to epidemiology to social science, statistics is indispensable for turning data into actionable knowledge.
+
+There are two main branches. Descriptive statistics summarizes data through measures like the mean or average, the median or middle value, the mode or most frequent value, standard deviation which captures the spread, and correlation which measures linear association. Inferential statistics, on the other hand, uses sample data to estimate unknown population parameters or test hypotheses, quantifying uncertainty through confidence intervals and hypothesis tests.
+
+Central to statistics are probability distributions. The normal or Gaussian distribution is particularly ubiquitous—many real phenomena approximate it. One of the most profound results is the central limit theorem, which states that the mean of large random samples is approximately normally distributed, regardless of the underlying distribution. This explains why the normal distribution is so fundamental.
+
+Hypothesis testing quantifies whether observed data support or contradict a null hypothesis. The p-value measures the strength of evidence, and the significance level, often set at zero point zero five, controls the false positive rate. Closely related are confidence intervals—a ninety-five percent confidence interval for a parameter, if the procedure is repeated many times, contains the true value ninety-five percent of the time.
+
+Regression and correlation model relationships between variables. Least-squares fitting minimizes residuals, and Pearson correlation measures the strength of linear association on a scale from negative one to positive one.
+
+Sampling bias and selection effects can distort inference. Random sampling and stratified sampling mitigate bias, and replication and control groups strengthen causal claims in experiments. Machine learning and data mining apply these statistical methods to large datasets, using techniques like classification, clustering, and dimensionality reduction to extract patterns for prediction and understanding.
+
+Bayesian inference complements frequentist methods by combining prior beliefs with observed data through Bayes' theorem. Posterior distributions encode updated uncertainty, and this approach is gaining importance in modern statistics.
+
+Finally, experimental design through randomization, blocking, and factorial designs reduces confounding and maximizes statistical power. Orthogonal contrasts and ANOVA decompose variance to isolate treatment effects.
+
+Statistics applies probability theory to real-world data and draws heavily on the normal distribution developed by Carl Friedrich Gauss. Combinatorics provides the counting methods that underlie sampling, and linear algebra supplies the matrix methods essential in multivariate statistics and regression.

@@ -1,0 +1,9 @@
+The Little Albert Experiment. In 1920, John B. Watson and Rosalie Rayner conducted an experiment that was elegant in its horror. They demonstrated that human emotions could be classically conditioned. The subject was an infant named Albert B., just eleven months old.
+
+Albert initially had no fear of a white rat. Watson presented the rat to him repeatedly, and each time the rat appeared, Watson struck a steel bar with a hammer, creating a deafening clanging sound that frightened the infant. After several pairings of the rat with the loud noise, something fundamental had changed. Albert came to cry and attempt to avoid the rat itself. The rat had become a conditioned stimulus for fear.
+
+But the fear spread in unexpected ways. Albert showed fear not only to the rat but to other white fluffy stimuli as well—a rabbit, cotton wool, a white fur coat. This was stimulus generalization, and it demonstrated that the learning had become abstract, applying to a whole category of objects.
+
+Watson's ambition went beyond the experiment itself. He used Albert to argue against Freudian psychology, claiming that emotions were learned associations, not rooted in unconscious drives. The experiment was conducted at Johns Hopkins University and became one of the first famous psychological studies, widely publicized to the public.
+
+Yet it raised serious ethical concerns that would reverberate through the field for decades. Albert developed a lasting phobia, and he was never desensitized or treated to reverse what Watson had done. This was a fundamental failure of the research. The Little Albert experiment became a cornerstone of behaviourist child psychology, but more importantly, it became a cautionary tale that helped shape modern research ethics, demonstrating that psychological harm could occur even in the pursuit of scientific knowledge.

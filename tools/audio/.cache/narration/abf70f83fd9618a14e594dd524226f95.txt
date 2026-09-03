@@ -1,0 +1,11 @@
+Inverse function. A function that undoes the action of another function. If f maps an element x to f of x, then the inverse function f inverse maps f of x back to x. Inverse functions exist only for bijections, functions that are one-to-one and onto. They are essential across mathematics. Logarithms are inverses of exponentials. Inverse trigonometric functions like arcsin, arccos, and arctan are inverses of sine, cosine, and tangent. Matrix inverses solve systems of linear equations.
+
+The definition is precise: f inverse is the inverse of f if f of f inverse of x equals x and f inverse of f of x equals x for all x in the respective domains. The existence condition is equally clear: f has an inverse if and only if f is bijective.
+
+One-to-one, or injective, means f of a equals f of b implies a equals b. Each output corresponds to exactly one input. Onto, or surjective, means every element in the codomain is mapped to by some input. No outputs are missed.
+
+Graphically, the graph of f inverse is the reflection of the graph of f across the line y equals x. The composition property states that f composed with f inverse of x equals x, and f inverse composed with f of x equals x. Composition with the inverse yields the identity function.
+
+If f is differentiable and invertible, then the derivative of f inverse at y is one divided by f prime of f inverse of y. This relates the slopes of f and f inverse. Simple examples show the concept clearly: f of x equals two x has inverse f inverse of x equals x divided by two. The function f of x equals e to the x has inverse f inverse of x equals ln of x. On restricted domains, sine and arcsine are inverses.
+
+Inverse functions are a cornerstone of algebra and calculus. In algebra, solving equations is fundamentally about finding inverse functions. To solve f of x equals y, you apply f inverse to both sides. In calculus, inverse function theorems ensure smooth invertibility under regularity conditions. The concept scales to linear algebra with matrix inverses solving A times x equals b, and to functional analysis with inverse operators on Banach and Hilbert spaces.

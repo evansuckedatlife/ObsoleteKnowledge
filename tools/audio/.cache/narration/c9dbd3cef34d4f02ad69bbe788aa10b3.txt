@@ -1,0 +1,9 @@
+Business cycle. The alternating pattern of expansion and contraction in economic activity, periods of growth and rising confidence followed by slowdowns, recessions, or depressions. These cycles are inherent to market economies and drive key economic indicators like employment, production, and wealth creation.
+
+The business cycle consists of four phases. Expansion, when growth accelerates. Peak, when growth reaches maximum. Contraction, when decline begins. Trough, the minimum activity before recovery. During expansions, investment, employment, and consumer spending rise. Firms are optimistic and hire aggressively. Capacity utilization rises and inflation pressure builds.
+
+Recessions—two or more consecutive quarters of GDP decline—trigger rising unemployment and falling profits as business confidence collapses. Interest rates are a primary policy tool. Central banks lower rates during recessions to spur borrowing and spending, and raise rates during overheating to cool inflation. Psychological factors amplify cycles. During booms, animal spirits drive excessive investment. During busts, fear and pessimism trigger hoarding and retrenchment.
+
+The cycle's regularity was noted by nineteenth-century economists. John Maynard Keynes emphasized that market economies do not automatically self-correct without intervention. No two cycles are identical in length or severity, and predicting turns remains notoriously difficult, even for economists. Real asset prices—stocks and housing—tend to rise during expansions and crash during recessions. Asset bubbles can exacerbate downturns.
+
+Lagged effects mean unemployment continues rising even after GDP stops falling, and hiring lags recovery, creating jobless recoveries. Automatic stabilizers like unemployment insurance and progressive taxes cushion cycles but do not eliminate them. Fiscal and monetary policy debate centers on whether deliberate intervention smooths cycles or destabilizes them.

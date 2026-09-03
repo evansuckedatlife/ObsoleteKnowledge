@@ -1,0 +1,9 @@
+The Milgram Obedience Experiment. In 1961 and 1962, Stanley Milgram conducted experiments that asked one of the most troubling questions in the history of psychology: How far would ordinary people go in harming another person if ordered to do so by an authority figure?
+
+The setup appeared innocuous. Participants believed they were testing whether punishment aided learning. They sat at a machine with switches labeled from 15 volts to 450 volts, administering shocks to a person in another room—actually a confederate playing a part. When the confederate made prearranged protests and eventually fell silent, the experimenter in a white coat calmly ordered the participant to continue. "You have no choice. You must continue."
+
+What Milgram found shocked the world. In the baseline condition, sixty-five percent of participants continued administering shocks all the way to the maximum 450-volt level, labeled XXX and "Danger: Severe Shock." Participants obeyed not out of sadism but out of felt obligation to the authority figure and confusion about who bore responsibility for the harm.
+
+But obedience was not inevitable. When the experimenter left the room, obedience dropped sharply. When the participant had to touch the victim directly, compliance fell. When peers in the room rebelled against the experimenter, many participants followed suit.
+
+The experiments sparked enormous ethical outcry. Participants experienced severe trauma, and the revelation that ordinary, morally decent people could be induced to commit acts of harm challenged everything humanistic psychology had claimed about human nature. Milgram's work influenced ethics boards worldwide and became the textbook example of how ordinary people enable atrocity under the authority of someone in power.

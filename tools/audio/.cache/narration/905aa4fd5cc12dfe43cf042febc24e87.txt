@@ -1,0 +1,9 @@
+Least Common Multiple. The smallest positive integer divisible by two or more given integers.
+
+The least common multiple of a and b is the smallest positive integer m such that both a and b divide it. The LCM is a dual concept to the greatest common divisor. While GCD finds the largest common factor, LCM finds the smallest common multiple. Together, they encode the factorization structure underlying divisibility.
+
+If you express numbers as products of prime factors, the LCM equals the product of prime powers, taking the maximum exponent for each prime that appears in either factorization. There's a fundamental relationship: the product of LCM and GCD equals the product of the original numbers. Both encode the prime factorization structure, so knowing one determines the other.
+
+If events repeat every a and b time units respectively, they synchronize and occur together every LCM of a and b time units. When you add or compare fractions, you convert to a common denominator of LCM of the denominators. The smallest common denominator minimizes arithmetic. You can compute LCM efficiently by first finding the GCD using the Euclidean algorithm in logarithmic time, then dividing the product by the GCD.
+
+The concept generalizes to finite sets of integers, to polynomials over fields, and to ideals in abstract algebra, capturing the notion of smallest common multiple in any ring. For more than two numbers, you compute LCM step by step, taking LCM of the first two, then LCM of that result with the third. This is useful in scheduling problems and finding common cycles in systems with multiple periodic components. In modular arithmetic, LCM determines the period of congruence cycles.

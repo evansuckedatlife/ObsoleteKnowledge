@@ -1,0 +1,11 @@
+Determinant. A scalar value computed from a square matrix that encodes crucial geometric and algebraic information. It measures whether a matrix is invertible, captures volume scaling in linear transformations, and appears in solutions to systems of equations. Determinants connect linear algebra to geometry, physics, and even topology.
+
+For a two by two matrix with entries a, b, c, d, the determinant is ad minus bc, the simplest non-trivial formula. Higher-order determinants follow more complex recursive patterns. A matrix is invertible if and only if its determinant is nonzero. A zero determinant signals degeneracy or information loss, meaning the transformation collapses space into lower dimensions.
+
+In geometric terms, the absolute value of the determinant gives the factor by which a linear transformation scales volumes. A negative determinant indicates orientation reversal: left-handed becomes right-handed. Determinants satisfy key algebraic properties: the determinant of a product equals the product of determinants, the determinant of a transpose equals the original determinant, and multiplying a row by k multiplies the determinant by k. These properties enable efficient computation.
+
+Cramer's rule uses determinants to solve systems of linear equations in closed form, though it's impractical for large systems due to computational expense. Eigenvalues of a matrix are roots of the characteristic polynomial, found by solving the equation where the determinant of the matrix minus lambda times the identity equals zero. This connects eigenvalue theory to determinant computation and reveals hidden structure.
+
+The permanent, a determinant variant without sign changes, appears in combinatorics and quantum physics, showing how related functions encode different mathematical truths. Computing determinants efficiently is non-trivial. Gaussian elimination runs in cubic time, and no substantially faster classical algorithm exists, but quantum computers might eventually solve this via quantum factorization.
+
+In probability and statistics, the Jacobian determinant—the determinant of the matrix of partial derivatives—is essential for changing variables in multidimensional integrals and probability distributions.

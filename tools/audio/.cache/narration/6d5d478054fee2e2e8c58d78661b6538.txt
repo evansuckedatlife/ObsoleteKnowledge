@@ -1,0 +1,9 @@
+Deadweight loss. The reduction in total economic surplus, the sum of consumer and producer benefit, caused by market inefficiencies. It represents goods and services that could have been produced but were not, or were produced and consumed at suboptimal levels, resulting in a net loss of value to society.
+
+Deadweight loss arises when market quantity or price deviates from the socially optimal level found in perfectly competitive markets under supply and demand. Monopolies create deadweight loss by restricting output below the competitive level. They charge higher prices and produce less, leaving some potential trades unrealized. Consumers lose surplus and producers capture less than they would in perfect competition.
+
+Tariffs and import quotas restrict trade and create deadweight loss by raising domestic prices above world prices, reducing the gains from specialization. Domestic consumers pay more, foreign producers sell less, and trades that would have benefited both parties do not occur. Tax incidence creates deadweight loss—the economic distortion caused by a tax exceeds the revenue collected. Consumers and producers alter behavior to avoid taxation, and the larger the tax rate, the larger the deadweight loss.
+
+In a perfectly competitive market, price equals marginal cost, and quantity is at the point where marginal benefit equals marginal cost, creating no deadweight loss. The size of deadweight loss depends on price elasticity. The more elastic the market, the more responsive to price changes, the larger the loss from a given distortion. Deadweight loss is invisible in GDP accounting but represents real forgone value, motivating arguments for deregulation, antitrust enforcement, and free trade.
+
+Pigouvian taxes, corrective taxes on externalities, can reduce deadweight loss by internalizing costs. However, most real-world taxes create deadweight loss because they distort production and consumption choices.

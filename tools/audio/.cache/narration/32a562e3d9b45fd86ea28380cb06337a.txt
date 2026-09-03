@@ -1,0 +1,9 @@
+Elliptic curves. An elliptic curve is a smooth algebraic curve defined by a cubic equation in two variables, typically written as y squared equals x cubed plus ax plus b. Despite their classical roots in the geometry of ellipses, elliptic curves have become powerful tools in modern number theory, cryptography, and the study of Diophantine equations. Their group law structure and deep connections to modular forms revolutionized twentieth-century mathematics.
+
+A non-singular cubic curve y squared equals x cubed plus ax plus b over a field is an elliptic curve. The discriminant must not equal zero to ensure smoothness. Elliptic curves carry an abelian group structure. The chord and tangent method defines a natural addition operation on points. The point at infinity serves as the identity element of the group, and three collinear points on the curve sum to the identity.
+
+Elliptic curves over the rational numbers are finitely generated abelian groups, according to the Mordell-Weil theorem. The rank measures how many independent points of infinite order exist. These curves connect directly to Fermat's Last Theorem. Solutions to x to the n plus y to the n equals z to the n correspond to elliptic curves through Frey's construction. Proving no such curves exist proved Fermat's claim.
+
+The Taniyama-Shimura conjecture linked elliptic curves to modular forms. Wiles' proof of this conjecture completed the proof of Fermat's Last Theorem. Elliptic curves over finite fields are used in elliptic curve cryptography for secure key exchange and digital signatures. L-functions attached to elliptic curves encode deep arithmetic information. Conjectures about their zeros, like the Birch and Swinnerton-Dyer conjecture, are central to modern number theory.
+
+Elliptic curves appear in descent theory, used to compute rational points. The structure of torsion subgroups, which consist of finite-order points, and the free rank can be computed through explicit algorithms.

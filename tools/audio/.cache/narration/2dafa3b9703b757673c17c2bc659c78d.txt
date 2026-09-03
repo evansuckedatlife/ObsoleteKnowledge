@@ -1,0 +1,13 @@
+Optics. The mathematical and physical study of light, encompassing how light propagates, interacts with matter, and forms images.
+
+From Newton's prism experiments revealing the spectrum to Hamilton's wave theory, optics shaped modern physics and mathematics. It bridges geometry, what we call ray optics, and calculus, what we call wave optics, revealing profound connections between different mathematical frameworks.
+
+Geometric optics treats light as rays traveling in straight lines until reflected or refracted. It explains mirrors, lenses, and basic image formation through simple geometry. Wave optics describes light as electromagnetic waves, explaining interference, diffraction, and the wave nature of light discovered by Christiaan Huygens. This shifted optics from geometry to partial differential equations.
+
+Snell's law governs refraction, the bending of light at a boundary between media of different refractive indices. It was discovered empirically before being explained via wave theory. Newton used prisms to decompose white light into a spectrum, proving that white light is a mixture of colors and challenging older theories that claimed prisms create color.
+
+The Fermat principle states that light travels along the path that takes least time. This elegant variational principle unifies reflection and refraction and foreshadows the principle of least action in dynamics. Hamilton developed quaternions partly motivated by applications to rotations in optics and dynamics. His work on wave surfaces revealed deep connections to algebra and geometry.
+
+Double refraction, or birefringence, occurs in crystals like Iceland spar, creating two refracted rays and revealing light's polarization. A phenomenon that resisted explanation until wave theory matured. The nature of light, whether particle or wave, was hotly debated. Quantum mechanics resolved this via wave-particle duality, showing light exhibits both properties depending on the measurement.
+
+Lens aberrations including spherical and chromatic effects limit optical systems. Minimizing these requires sophisticated mathematical optimization and understanding of ray paths. The index of refraction varies with wavelength in dispersive media. This dispersion enables prisms to separate light and creates rainbows.

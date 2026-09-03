@@ -1,0 +1,13 @@
+Complex numbers. Numbers of the form a plus b i, where a and b are real numbers and i is the imaginary unit defined by i squared equals negative one. Complex numbers extend the number system beyond real numbers, enabling solutions to polynomial equations that have no real solutions and providing a unified framework for many mathematical and physical phenomena. The Argand plane visualizes complex numbers as points in a two-dimensional space. Gaussian integers are complex numbers with integer real and imaginary parts.
+
+The imaginary unit i is defined by i squared equals negative one. While no real number squares to a negative value, i is a useful algebraic construct that enables solving equations like x squared plus one equals zero, which has solution x equals plus or minus i.
+
+Every complex number can be written uniquely as a plus b i in rectangular form, or in polar form as r times the quantity cosine theta plus i sine theta. Here r is the modulus, the distance from the origin, and theta is the argument, the angle from the real axis. Euler's formula states that e to the i theta equals cosine theta plus i sine theta. This connects complex numbers, exponential functions, and trigonometry in one of mathematics' most elegant identities, with applications across engineering, physics, and signal processing.
+
+The Argand plane represents complex numbers as two-dimensional points. The real part is the x-coordinate and the imaginary part the y-coordinate. This geometric interpretation makes complex arithmetic intuitive. Addition is vector addition. Multiplication rotates and scales.
+
+Gaussian integers are complex numbers with integer real and imaginary parts, such as three plus four i. They have unique factorization properties and play roles in algebraic number theory and in proving results like Fermat's theorem on sums of two squares.
+
+The Fundamental Theorem of Algebra states that every non-constant polynomial with complex coefficients has at least one complex root. Complex numbers complete the number system so all polynomial equations have solutions.
+
+Complex numbers are essential in physics and engineering. Quantum mechanics relies on complex wave functions. Electrical engineering uses complex impedances to model AC circuits. Signal processing employs complex Fourier transforms.

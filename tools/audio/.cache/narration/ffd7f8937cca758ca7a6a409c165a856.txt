@@ -1,0 +1,13 @@
+Special Relativity. Albert Einstein's nineteen hundred five theory of space, time, and motion at speeds comparable to light.
+
+It resolves the paradox posed by the Michelson-Morley experiment: that the speed of light is constant in all reference frames. It does so by redefining the geometry of spacetime itself. Mathematically, it unifies space and time into a four-dimensional manifold, revolutionizing physics and mathematics alike.
+
+The theory rests on two postulates. First, the laws of physics are identical in all inertial reference frames. Second, the speed of light is constant at approximately three times ten to the eighth meters per second in every reference frame, independent of the observer's motion.
+
+Moving clocks run slow by a factor called gamma, which equals one divided by the square root of one minus v squared divided by c squared. As v approaches c, gamma approaches infinity, meaning time nearly stops at light speed. Moving objects shrink along their direction of motion by the same factor gamma. Perpendicular dimensions are unaffected.
+
+The Lorentz transformation relates coordinates in one inertial frame to coordinates in another, replacing Galilean transformations and preserving the speed of light. Einstein's mass-energy relation E equals mc squared shows mass and energy are interchangeable. Rest energy alone exceeds any kinetic energy achievable from ordinary speeds.
+
+Spacetime is a four-dimensional pseudo-Riemannian manifold with a specific metric. Geometry replaces force as the language of physics. Henri Poincaré independently derived Lorentz transformations and recognized the four-dimensional structure. Einstein's insight was the physical interpretation and the mass-energy equivalence.
+
+Simultaneity is relative. Events simultaneous in one frame are not simultaneous in another. This breaks the Newtonian assumption of universal time. The speed of light is a cosmic speed limit. Nothing with mass can accelerate to light speed, only approach it asymptotically as energy approaches infinity.

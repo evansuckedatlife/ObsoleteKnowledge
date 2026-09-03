@@ -1,0 +1,13 @@
+Harmony. The combination of simultaneous notes and the system governing which note combinations create coherence, tension, and resolution in music. From the perspective of tonality, harmony organizes pitch relationships through chords, progressions, and functional relationships that create musical architecture and emotional effect. Harmony is foundational to Western classical music, jazz, and most popular music traditions, providing the vertical dimension that complements melody's horizontal unfolding.
+
+Harmony operates through chords, which are simultaneous pitch combinations, typically three or more notes. A triad, three notes spaced in thirds, is the basic harmonic building block in Western music. Harmonic function describes the role a chord plays in a progression. The tonic is the home chord, providing stability. The subdominant creates tension or modulation. The dominant creates tension that demands resolution back to tonic.
+
+A chord progression is a sequence of chords. The most common progression in Western music is the I-IV-V-I, which translates to tonic-subdominant-dominant-tonic. This underlies countless folk songs, pop songs, and classical works.
+
+Harmonic rhythm, the speed at which harmonies change, is independent of melodic rhythm. A slowly changing harmony beneath a fast melody creates textural complexity. Rapid harmonic change beneath a simple melody creates urgency.
+
+Consonance and dissonance are relative concepts that shifted historically. Major and minor thirds were dissonant in medieval music but consonant by the Renaissance. Consonance refers to intervals and chords that sound stable and resolved. Dissonance refers to intervals that sound tense and demand resolution.
+
+In jazz and blues, harmony is often understood through chord changes, abstract patterns not rooted in functional tonality, that musicians improvise over. The harmonic structure is the skeleton for improvisation.
+
+Parallel harmony means all voices move together in the same direction, which contrasts with contrary harmony where voices move in opposite directions. This affects the perceptual clarity and independence of melodic lines. Harmony's organizational system is tonality itself, and harmonic motion defines tonal structure. The basic unit of harmony is the chord. A cadence is a harmonic conclusion, defined by chord progressions. Harmonic function describes the structural roles chords play in progression. Counterpoint relates harmony to independent melodic lines, and harmony unfolds within polyphony, the broader context in which harmonic relationships unfold across multiple voices. Voice leading is the art of connecting harmonies smoothly through individual vocal parts.

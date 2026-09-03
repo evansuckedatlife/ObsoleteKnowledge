@@ -1,0 +1,7 @@
+Decision problem. A computational problem with a yes-or-no, binary answer. Given an input, determine whether it satisfies a specified property. Decision problems form the foundation of complexity theory, since all major complexity classes like P and NP are formally defined for decision problems.
+
+The simplest formal model is input to yes or no. Variants like counting or optimization are distinct but often reducible to decision variants. Examples include: Is this number prime? Does this graph contain a Hamiltonian cycle? Is this Boolean formula satisfiable?
+
+A decision problem is formally represented as a language, the set of input strings for which the answer is yes. An algorithm solves the problem by recognizing this language. P and NP are defined for decision problems. A problem is in P if it can be solved in polynomial time. A problem is in NP if a yes-answer can be verified in polynomial time.
+
+Most NP-complete and NP-hard problems are phrased as decision problems for theoretical purposes. The corresponding optimization problems, like "find the best solution," are typically harder. Decision problems contrast with optimization problems. An optimization problem asks, "Find the shortest path." The decision variant asks, "Is there a path of length less than or equal to k?"

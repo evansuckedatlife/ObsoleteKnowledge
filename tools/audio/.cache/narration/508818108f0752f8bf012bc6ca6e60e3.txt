@@ -1,0 +1,13 @@
+Set Theory. The branch of mathematics that studies collections of objects called sets, their properties, and operations.
+
+Since the late nineteenth century, it has served as the foundational language for nearly all of mathematics. Set theory deals with membership, union, intersection, power sets, and the axiomatic principles that prevent logical paradoxes.
+
+A set is defined by its members. Two sets are equal if they have exactly the same members, known as the axiom of extensionality. Membership is denoted by the element-of symbol. Russell's paradox exposed a fatal flaw in naive set theory. Consider the set of all sets that do not contain themselves. Does this set contain itself? Both yes and no lead to contradiction.
+
+The paradox prompted the ZFC axioms, Zermelo-Fraenkel plus Choice. This is a rigorous axiomatic system avoiding paradoxes through careful restriction on set formation. It has become the standard foundation for mathematics. Cardinality compares sizes of sets via bijections. The natural numbers and rational numbers are countably infinite. The real numbers are uncountably infinite. Cantor proved no bijection exists between them.
+
+The power set of a set S is the set of all subsets. Cantor's theorem states that the cardinality of the power set exceeds that of the original set for any set, creating an infinite hierarchy of infinities. The axiom of choice states that given any collection of nonempty sets, we can simultaneously select one element from each. It is independent of ZF and is equivalent to Zorn's lemma and the well-ordering principle.
+
+Set theory provides rigorous underpinnings for topology, analysis, functions, relations, and abstract algebra. Nearly all modern mathematics is formalized set-theoretically. Transfinite numbers and ordinal arithmetic extend the concept of number beyond finite quantities. The first infinite ordinal represents the ordering of natural numbers.
+
+Gödel's incompleteness theorems showed that no consistent axiomatic system, including ZFC, can prove all truths about sets. This has profound implications for mathematical certainty. Topology is defined in the language of sets. Open and closed sets are fundamental topological objects. Limits are defined rigorously using sets and membership, core to analysis.

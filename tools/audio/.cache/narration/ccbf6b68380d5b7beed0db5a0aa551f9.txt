@@ -1,0 +1,13 @@
+Vector space. An algebraic structure consisting of a set of objects called vectors equipped with operations of vector addition and scalar multiplication. These operations are subject to specific axioms: associativity, distributivity, identity, and inverse elements. Vector spaces generalize geometric vectors to abstract settings, forming the foundation of linear algebra and enabling the systematic study of linearity, dimension, and transformations.
+
+A vector space over a field, usually the real or complex numbers, is closed under addition and scalar multiplication. Adding two vectors yields another vector. Multiplying a vector by a scalar yields another vector. The zero vector serves as the identity for addition. Additive inverses must exist. Scalar multiplication by zero produces the zero vector, and by one leaves vectors unchanged.
+
+A basis is a set of vectors that spans the space, meaning every vector is a linear combination of basis vectors, and the basis vectors are linearly independent. No non-trivial linear combination of basis vectors equals zero. Every vector space, whether finite or infinite-dimensional, has a basis.
+
+Dimension is the number of basis vectors. Finite-dimensional spaces like real n-dimensional space have dimension n. Infinite-dimensional spaces like function spaces and sequence spaces require infinite basis elements. A subspace is a subset of a vector space that is itself a vector space under the same operations. Subspaces are preserved under linear combinations, a key structural property.
+
+Linear transformations, also called linear maps, are functions T from vector space V to vector space W that preserve linearity. Specifically, T applied to a times u plus b times v equals a times T of u plus b times T of v. They are the morphisms of vector spaces.
+
+Eigenvectors are special vectors preserved in direction under a linear transformation. They scale but do not rotate. Finding eigenvectors reveals the principal directions of how a transformation acts, central to understanding linear transformations.
+
+Vector spaces are the foundational structure of linear algebra. Every vector space has a basis. The dimension characterizes the size of a vector space. Subspaces are vector spaces contained within larger vector spaces. Linear transformations are structure-preserving maps between vector spaces.

@@ -1,0 +1,15 @@
+Physics. The fundamental natural science that seeks to understand how matter, energy, and forces interact at all scales—from subatomic particles to galaxies. It is both the most mathematically rigorous and most broadly applicable science, explaining everything from falling apples to nuclear reactions. Modern physics revealed that the universe is far stranger than classical intuition suggests.
+
+Classical mechanics—Isaac Newton's laws of motion and gravitation—governed physics for three hundred years and remains practical for everyday scales. It assumes determinism and instantaneous action at a distance.
+
+Thermodynamics quantifies heat, energy transfer, and entropy through laws. Energy is conserved in the first law. Disorder increases in isolated systems in the second law. Absolute zero is unreachable in the third law.
+
+Electromagnetism—light, magnetism, electricity—was unified as a single phenomenon by James Clerk Maxwell, revealing that light is an electromagnetic wave. This unified theory revolutionized technology and laid groundwork for relativity.
+
+Quantum mechanics in the early twentieth century revealed that at atomic scales, particles behave probabilistically. Observation affects outcome. Particles exist in superposition until measured. Action is quantized—energy comes in packets called quanta.
+
+Relativity, Einstein's revolution, showed that space and time are relative and intertwined. Energy and mass are equivalent, expressed as E equals mc squared. Nothing travels faster than light. Gravity is the curvature of spacetime itself.
+
+Physics distinguishes between real forces—gravity, friction, electromagnetic—and fictitious forces like centrifugal force and Coriolis force, which appear only in rotating or accelerating reference frames.
+
+Quantum field theory reconciles quantum mechanics with relativity for electromagnetic, weak, and strong nuclear forces. Gravity remains stubbornly unquantized. Unifying all four forces remains an open problem, with string theory and loop quantum gravity as candidates.

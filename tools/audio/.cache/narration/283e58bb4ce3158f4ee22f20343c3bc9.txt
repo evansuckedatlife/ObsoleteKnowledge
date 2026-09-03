@@ -1,0 +1,13 @@
+Sine Function. One of the primary trigonometric functions, fundamental to oscillatory phenomena and periodic behavior.
+
+Defined as the ratio of the opposite side to the hypotenuse in a right triangle, it generalizes to all real numbers and lies at the heart of Fourier analysis, physics, and engineering. The sine function captures the essence of periodicity and smooth cyclical motion.
+
+In a right triangle, sine of theta equals opposite divided by hypotenuse. The angle theta is measured from the horizontal baseline. The sine function is defined on all real numbers and maps the real numbers to the interval from negative one to one. It has period two pi, so sine of x plus two pi equals sine of x.
+
+Sine of zero equals zero. Sine of pi over two equals one. Sine of pi equals zero. Sine of three pi over two equals negative one. These key values anchor sine's behavior across the full cycle. The sine function is odd: sine of negative x equals negative sine of x. This means its graph has rotational symmetry about the origin.
+
+The derivative of sine of x with respect to x equals cosine of x. Integrating sine of x gives negative cosine of x plus a constant, making sine and cosine mutually related through calculus.
+
+Fourier's theorem states that any periodic function can be expressed as an infinite sum of sine and cosine functions of various frequencies. This foundation underlies signal processing. The complex exponential form links sine to the exponential function through Euler's formula. The sine function arises naturally in harmonic motion, wave propagation, and oscillations. Any smooth periodic phenomenon can be approximated by sums of sines and cosines.
+
+The Taylor series expansion of sine of x is x minus x cubed over three factorial plus x to the fifth over five factorial minus x to the seventh over seven factorial and so on. This converges for all x and reveals sine's smooth, infinitely differentiable nature. The inverse sine function has domain from negative one to one and range from negative pi over two to pi over two, allowing recovery of angles from sine values.

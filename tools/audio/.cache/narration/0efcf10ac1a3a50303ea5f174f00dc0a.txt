@@ -1,0 +1,11 @@
+Matrix. A rectangular array of numbers, symbols, or expressions arranged in rows and columns.
+
+Matrices are fundamental tools in mathematics for representing linear transformations, systems of equations, and data in compact form. They enable efficient computation and reveal deep structure in linear algebra and applied sciences.
+
+A matrix is denoted as an m by n array with m rows and n columns. Each entry is called an element or component. Matrix multiplication follows a specific rule: the element at row i, column j in the product equals the sum over k of the element at row i, column k in the first matrix times the element at row k, column j in the second. Multiplication is associative but not commutative. Not every matrix has a multiplicative inverse.
+
+The identity matrix has ones on the diagonal and zeros elsewhere. It satisfies the property that A times the identity equals the identity times A, which equals A. This acts like one in multiplication. The determinant of a square matrix measures invertibility and volume scaling of the transformation. A matrix is invertible if and only if its determinant is nonzero.
+
+Eigenvalues and eigenvectors reveal intrinsic directions along which the matrix stretches or contracts by scalar factors. Row operations including swapping, scaling, and adding multiples preserve linear system solution sets. These are used in Gaussian elimination to solve systems and compute inverses. Matrix rank is the dimension of its row or column space. It cannot exceed the minimum of the number of rows and columns. The rank determines whether a system has solutions and whether they're unique.
+
+Over a field, an m by n matrix can be viewed as a linear transformation from an n-dimensional space to an m-dimensional space. This perspective unifies matrix algebra with geometric transformations. The trace, the sum of diagonal entries, equals the sum of eigenvalues and is invariant under similarity transformations. In applications, matrices encode adjacency information in graph theory, transition probabilities in Markov chains, and covariance structure in statistics and machine learning.

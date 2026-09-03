@@ -1,0 +1,9 @@
+Solomon Asch. In the early 1950s, the psychologist conducted a series of experiments that revealed something unsettling about human nature: group pressure causes individuals to conform, even when it contradicts what they can see with their own eyes.
+
+The setup was simple. A participant sat in a group that appeared to be judging which of three comparison lines matched a standard line. But unknown to the participant, the other members were confederates—research assistants instructed to give wrong answers. When those confederates gave obviously incorrect answers, roughly one-third of the participants conformed to them, giving wrong answers on about a third of the critical trials.
+
+What was striking was not just that people conformed, but how it felt to them. Participants who rarely gave wrong answers reported intense internal conflict and stress. Many later said they knew the group was wrong but felt overwhelming social pressure to fit in. Some even doubted their own eyesight afterward.
+
+The pressure, however, was fragile. When the confederates gave correct answers instead, conformity dropped dramatically. Even more striking, when just one confederate broke ranks and dissented from the group, conformity fell sharply. A single ally made all the difference.
+
+Asch interviewed participants after the experiments. Most confirmed what he suspected: they knew the group was wrong, but the social pressure to fit in had felt impossible to resist. When Asch replicated the experiments across different cultures and decades, he found that conformity was robust but not universal. Personality, culture, and the composition of the group all mattered. His work became foundational for understanding how social influence works, laying the groundwork for later research into groupthink and cult dynamics.

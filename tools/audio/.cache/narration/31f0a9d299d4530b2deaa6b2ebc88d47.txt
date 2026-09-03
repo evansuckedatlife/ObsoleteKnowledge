@@ -1,0 +1,13 @@
+Probability. The mathematical study of chance and uncertainty, quantifying how likely an event is to occur.
+
+Born from Pascal and Fermat's correspondence on games of chance in the sixteen-fifties, probability theory transformed random phenomena into a rigorous science. It underpins statistics, physics, and modern finance.
+
+A probability is a number between zero and one, or zero percent to one hundred percent, representing the likelihood of an event. Zero means impossible. One means certain. For equally likely outcomes, probability equals the number of favorable outcomes divided by the total number of outcomes. This works for dice rolls, card draws, and symmetric games.
+
+Blaise Pascal and Pierre de Fermat solved the problem of points, which addressed dividing stakes in an unfinished game. They did this by calculating expected value, founding the subject in rigorous form. The law of large numbers states that as an experiment repeats, the observed frequency approaches the theoretical probability. This connects empirical observation to theory.
+
+The addition rule states that the probability of A or B equals the probability of A plus the probability of B minus the probability of both A and B. The multiplication rule for independent events states that the probability of both A and B equals the probability of A times the probability of B.
+
+Conditional probability models how information updates probability. This leads to Bayes' theorem, which is fundamental to statistics and machine learning. The binomial distribution models the number of successes in n independent trials with constant probability p. Its mean is n times p and its variance is n times p times one minus p.
+
+Expected value is the weighted average of outcomes. Understanding expected value is essential for rational decision-making under uncertainty. The normal distribution, also called the Gaussian distribution, emerges as a limiting case via the central limit theorem and governs many natural phenomena. Independent events are those where the probability of both equals the product of their individual probabilities. Recognizing independence simplifies calculations and is critical in probability modeling. Randomness and determinism coexist in probability. Even deterministic systems can exhibit probabilistic behavior when initial conditions are unknown.

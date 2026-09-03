@@ -1,0 +1,15 @@
+Lunar Calendar. A timekeeping system based on the cycles of the moon, marking months by lunar phases—typically twenty-nine to thirty days per month—rather than Earth's orbit around the sun. Used by cultures worldwide, including Islamic, Hebrew, Hindu, Buddhist, and traditional East Asian societies, lunar and lunisolar calendars organize religious observances, agricultural cycles, and cultural celebrations. Though increasingly superseded by the Gregorian calendar in global commerce, lunar calendars remain central to traditional cultural practices and determine the dates of major festivals including Tet, Chinese New Year, Shogatsu, and Ramadan.
+
+The lunar month derives from the twenty-nine point fifty-three day cycle of lunar phases from new moon to new moon. A twelve-month lunar year spans approximately three hundred and fifty-four days, roughly eleven days shorter than the solar year, causing lunar calendar dates to drift gradually through seasons if uncorrected.
+
+Many cultures adopted lunisolar calendars, which integrate lunar months into a solar framework by intercalating extra months periodically. This system keeps months aligned with lunar phases while ensuring the calendar cycles through seasons consistently—as seen in Hebrew, Hindu, Buddhist, and Traditional Chinese calendars.
+
+Ancient civilizations developed lunar calendars independently. Mesopotamians, Egyptians, Greeks, Romans, Hebrews, and Chinese all used moon-based or lunisolar systems before adopting or being influenced by solar calendars.
+
+The Islamic calendar, the Hijri, remains purely lunar with twelve months of twenty-nine to thirty days, causing Islamic holidays to shift through all seasons over a thirty-three year cycle. Ramadan progresses from summer to winter across years as a result.
+
+East Asian lunisolar calendars govern Lunar New Year celebrations—Chinese New Year, Vietnamese Tet, Korean Seollal, and Japanese Shogatsu—typically falling between January twenty-first and February twentieth by the Gregorian calendar.
+
+Lunar calendars synchronized human activities with observable celestial events, making them more intuitive than abstract solar calculations. Each month's phases provided visible monthly markers and guided agricultural and ritual timing.
+
+The adoption of the Gregorian solar calendar by most of the world reflects both scientific precision and colonial and imperial imposition. Lunar calendar traditions persist because they embed cultural and religious significance beyond mere timekeeping.

@@ -1,0 +1,9 @@
+Turing machine. An abstract mathematical model of computation introduced by Alan Turing in 1936. It consists of an infinite tape, a read-write head, and a finite set of states. It is the foundational model for analyzing what problems are computable, and all major complexity classes like P and NP are defined in terms of Turing machines.
+
+A deterministic Turing machine has a single tape, a read-write head, and a state transition table. This table uniquely determines the next action from the current state and symbol. A nondeterministic Turing machine at each step may follow one of several possible transitions. It accepts an input if any path leads to acceptance.
+
+Turing proved that no algorithm can decide whether an arbitrary Turing machine halts on a given input. The Halting Problem is undecidable. The Church-Turing thesis, formulated in 1936, states that every effectively computable function can be computed by a Turing machine. It is the standard model of computational universality.
+
+Despite simplicity, Turing machines are computationally universal. Any algorithm on any real computer can be simulated by a Turing machine, within a polynomial factor for deterministic machines. The tape is infinite, providing unlimited memory. Most real complexity analysis, however, bounds both time and space.
+
+Formally, P consists of problems decidable by a deterministic Turing machine in polynomial time. NP consists of problems decidable by a nondeterministic Turing machine in polynomial time. These definitions ground the major complexity classes in the Turing machine model.

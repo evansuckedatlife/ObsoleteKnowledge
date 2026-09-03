@@ -1,0 +1,11 @@
+Polar Curves. Curves defined in polar coordinates rather than the familiar Cartesian system.
+
+In polar form, a point's position is given by its distance from the origin and its angle from a reference direction. This coordinate system reveals hidden symmetries and produces elegant curves including spirals, roses, and loops. These would be cumbersome to express in Cartesian form.
+
+A point in polar coordinates is specified by r and theta: r is the radial distance from the origin, and theta is the angle from the positive x-axis, measured counterclockwise. The conversion relations are: x equals r cosine theta, y equals r sine theta. Conversely, r equals the square root of x squared plus y squared, and theta equals the arctangent of y divided by x. These transformations bridge polar and Cartesian worlds.
+
+Common polar curves include the spiral of Archimedes where r equals a theta, the logarithmic spiral where r equals a times e to the b theta power, and rose curves where r equals a cosine n theta. Each exhibits rotational symmetry elegantly. The lemniscate, with r squared equals a squared cosine two theta, is a figure-eight shaped curve. The lima ç on, with r equals a plus b cosine theta, is a looped or dimpled heart shape discovered by Pascal.
+
+Polar curves excel at capturing rotational symmetry and periodic behavior. A rose curve with n petals has a closed form that emphasizes this structure. Integration in polar coordinates uses the area element one-half r squared d-theta, differing from Cartesian form. This Jacobian factor is crucial for finding areas and is often overlooked.
+
+Astronomers and physicists favor polar forms when dealing with orbits, angular momentum, and central-force problems because the symmetry reduces differential equations substantially. The cardioid emerges as a special limiting case of the lima ç on when a equals b. It traces the path of a point on a circle rolling around another circle of equal radius.

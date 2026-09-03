@@ -1,0 +1,9 @@
+Combinatorics. The branch of mathematics devoted to counting, arranging, and selecting objects from finite sets. It answers fundamental questions: how many ways can we arrange these items? In how many ways can we choose a subset? These techniques underpin probability theory, algorithm analysis, and many fields of applied mathematics.
+
+At its core, combinatorics counts discrete structures: permutations are ordered arrangements, and combinations are unordered selections. The n choose k notation counts the number of ways to select k items from n items without regard to order. Pascal's triangle encodes all binomial coefficients, making combinatorial identities visible as number patterns.
+
+Permutations count ordered arrangements. An n-element set has n factorial different orderings. The inclusion-exclusion principle is a fundamental counting technique that avoids double-counting by systematically adding and subtracting overlapping cases. Combinatorics directly underpins probability by enumerating favorable and total outcomes. Many algorithmic problems reduce to combinatorial optimization: finding the best arrangement among an astronomically large set.
+
+Multinomial coefficients generalize binomial coefficients, counting partitions of n objects into k labeled groups of specified sizes. Stirling numbers of the first and second kind enumerate permutations by cycle structure and partitions of sets into subsets, respectively. Generating functions encode combinatorial sequences as power series, transforming counting problems into algebraic manipulations and recurrence relations.
+
+The pigeonhole principle is fundamental: if n plus 1 objects are placed into n boxes, at least one box must contain two or more objects. Combinatorial designs, like Latin squares and block designs, have applications in experimental design, cryptography, and error-correcting codes.

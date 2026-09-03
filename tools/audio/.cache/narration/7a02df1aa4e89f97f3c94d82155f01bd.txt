@@ -1,0 +1,11 @@
+Divisibility. A fundamental concept in number theory: an integer a divides an integer b if there exists an integer k such that b equals ak. This simple notion underlies prime factorization, the structure of the integers, and is the foundation for modular arithmetic and cryptography.
+
+A divisor of n is a number d such that n equals dk for some integer k. Every integer n is divisible by one and itself—these are trivial divisors. Divisibility is transitive: if a divides b and b divides c, then a divides c, forming a partial ordering on the integers.
+
+The greatest common divisor of two numbers is the largest integer that divides both. The Euclidean algorithm efficiently computes it, underlying cryptography and number theory. A number greater than one is prime if and only if it is divisible only by one and itself. Composite numbers have other divisors. Primes are the building blocks of all integers.
+
+The fundamental theorem of arithmetic states that every integer greater than one has a unique factorization into prime divisors. This makes divisibility the foundation of multiplicative number theory. Divisibility patterns are preserved under modular arithmetic: if a divides the difference b minus c, then b is congruent to c modulo a. This connects divisibility to congruence classes.
+
+The divisor function tau of n counts how many divisors n has. Understanding divisor distributions reveals structure in the integers and connects to analytic number theory. Divisibility structures in other algebraic systems, like Gaussian integers and polynomial rings, generalize the classical notion. They reveal that unique factorization is not always guaranteed in non-integer rings. This discovery profoundly influenced modern algebra.
+
+In cryptography, divisibility forms the basis of the RSA algorithm. The security rests on the difficulty of determining divisors—factoring—products of large primes.

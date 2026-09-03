@@ -1,0 +1,11 @@
+Continuity. A function is continuous at a point if the limit of the function as x approaches that point equals the function's value at that point. There are no jumps, gaps, or breaks. Continuity is essential to calculus. Derivatives and integrals are defined only for continuous or piecewise-continuous functions. Continuous functions on closed intervals behave nicely: they attain their maximum and minimum.
+
+Formally, f is continuous at a if the limit as x approaches a of f of x equals f of a. The limit exists, the function is defined, and they agree. A function f is continuous on an interval if it is continuous at every point in that interval.
+
+Three types of discontinuity exist. Removable discontinuity is a hole that could be fixed. Jump discontinuity occurs when left and right limits differ. Infinite discontinuity is a vertical asymptote.
+
+Polynomials and rational functions away from poles are continuous everywhere. The sine and cosine functions and e to the x are continuous everywhere. The function one divided by x is continuous except at x equals zero. The piecewise-defined function f of x equal to x if x does not equal one, and five if x equals one, has a removable discontinuity at x equals one. The floor function has jump discontinuities at every integer.
+
+Two important theorems require continuity. The Intermediate Value Theorem states that if f is continuous on the interval from a to b and y is between f of a and f of b, then there exists some c in that interval where f of c equals y. The Extreme Value Theorem states that a continuous function on a closed interval attains its maximum and minimum.
+
+Continuity is the mathematician's way of formalizing the intuition that nearby inputs give nearby outputs. It is essential scaffolding for calculus: you cannot differentiate or integrate at a discontinuity.

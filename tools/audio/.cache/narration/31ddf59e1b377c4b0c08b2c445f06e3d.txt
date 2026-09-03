@@ -1,0 +1,11 @@
+Pascal's Triangle. A triangular array of numbers where each entry is the sum of the two entries above it.
+
+Despite its simple construction rule, it encodes profound combinatorial and algebraic structure. Each row contains binomial coefficients. The triangle's entries and patterns relate to probability, algebra, and even fractal geometry. Named after Blaise Pascal, it was known centuries earlier in the Islamic world and China.
+
+To construct the triangle, start with one at the apex. Each interior entry is the sum of the two entries diagonally above it. Borders are all ones. This yields a symmetric triangle. The nth row, counting from zero at the apex, contains binomial coefficients. The entry at position k is the binomial coefficient, the number of k-element subsets of n objects.
+
+The binomial theorem states that x plus y to the n power expands as a sum from k equals zero to n of the binomial coefficient times x to the n minus k power times y to the k power. The coefficients are exactly the nth row, providing an elegant algebraic interpretation. The nth row sums to two to the n power, equal to the number of all subsets of an n-element set. This follows from the binomial theorem setting x and y both equal to one.
+
+Hidden in the triangle are many integer sequences. The diagonals sum to Fibonacci numbers. Many other sequences emerge from sums and patterns. Pascal's triangle counts the number of paths in binomial random walks. Row n gives the distribution of successes in n independent coin flips, known as the binomial distribution.
+
+Coloring entries modulo two, with odd entries black and even white, reveals the Sierpinski triangle, a fractal with perfect self-similarity at all scales. The hockey stick identity states that sums of diagonals follow particular patterns. These are useful in combinatorial identities and proofs. Pascal's triangle appears in many areas: binomial expansions, combinatorial identities, probability problems, and even in the structure of certain polynomials and recurrence relations.

@@ -1,0 +1,9 @@
+Neurology. The branch of medicine and biology that studies the structure and function of the nervous system, including the brain, spinal cord, and peripheral nerves. It encompasses how neurons transmit signals, how the brain processes information, and how neural dysfunction causes disease. Modern neurology bridges anatomy, chemistry, and behavior to explain everything from reflexes to consciousness.
+
+The nervous system comprises the central nervous system—the brain and spinal cord—and the peripheral nervous system, the nerves extending throughout the body. Neurons communicate via electrochemical signals. An electrical impulse down the axon, called an action potential, triggers chemical neurotransmitters like dopamine, serotonin, and acetylcholine across the synapse to the next neuron.
+
+The brain's neuroplasticity—its ability to rewire and adapt throughout life—explains learning, recovery from injury, memory formation, and skill mastery even in adulthood. Different brain regions specialize. The prefrontal cortex handles reasoning and impulse control. The cerebellum manages coordination and motor precision. The limbic system—including the amygdala and hippocampus—governs emotion and memory.
+
+The spinal cord contains neural circuits for reflexes, allowing rapid responses like pulling your hand from a flame without waiting for the brain to process. Neurology explains sensation at the mechanism level—how sensory receptors like photoreceptors in the eye and mechanoreceptors in the skin detect stimuli and relay signals via sensory neurons to the spinal cord and brain.
+
+Perception—the conscious interpretation of sensory data—emerges from complex neural processing involving multiple brain regions working in concert, not just passive reception. Neurological diseases like stroke, Alzheimer's, Parkinson's, and Multiple Sclerosis reveal how disruptions to specific neural systems cascade into loss of function, speech, movement, or memory.

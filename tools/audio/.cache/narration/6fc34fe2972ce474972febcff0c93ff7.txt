@@ -1,0 +1,11 @@
+Function. A function is a fundamental mathematical object that assigns to each element of one set, the domain, exactly one element of another set, the codomain. Functions formalize the idea of a rule or correspondence. They are the building blocks of analysis, algebra, and all modern mathematics. Every equation y equals f of x encodes a function.
+
+Formally, a function f from A to B assigns to each element x in A exactly one element f of x in B. It is defined as a set of ordered pairs with no repeated first coordinates. The domain is the set of valid inputs A. The codomain is the target set B, possibly larger than the actual outputs. The range or image is the set of all actual outputs f of x as x varies over A.
+
+Functions are classified by their properties. Injective or one-to-one functions map distinct inputs to distinct outputs. Surjective or onto functions hit every element of the codomain. Bijective functions are both injective and surjective, establishing a one-to-one correspondence, and they have inverses.
+
+Functions compose naturally. If g maps from A to B and f maps from B to C, then their composition f composed with g maps from A to C. The composition is associative but generally not commutative. The inverse function f inverse maps from B back to A and satisfies the property that f inverse of f of x equals x and f of f inverse of y equals y. The inverse exists if and only if f is bijective.
+
+Continuity at a point x zero means the limit as x approaches x zero of f of x equals f of x zero. Continuous functions on compact spaces attain their maximum and minimum values by the extreme value theorem. Functions formalize the idea of dependence and are central to calculus, linear algebra, analysis, and all mathematics. Higher-dimensional functions underlie vector calculus and multivariable analysis.
+
+Partial functions may be undefined on parts of their domain. In computability theory, partial recursive functions distinguish computable functions that may not terminate. Higher-order functions take or return other functions. They appear in functional programming, lambda calculus, and abstract mathematics. Currying converts n-ary functions into nested unary functions.

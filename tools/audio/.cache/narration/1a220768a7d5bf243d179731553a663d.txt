@@ -1,0 +1,17 @@
+Topology. The branch of mathematics studying spaces and continuity, focusing on properties that remain invariant under continuous deformation. Unlike geometry, which cares about distances and angles, topology asks only: which properties survive stretching, twisting, and bending without tearing or gluing? Born from Henri Poincaré's foundational work, topology bridges algebra, geometry, and analysis.
+
+A topological space is a set X with a collection of open sets satisfying three axioms. The empty set and X are open. Finite intersections of open sets are open. Arbitrary unions of open sets are open. Continuous functions generalise from metric spaces to abstract topological spaces: a function is continuous if the preimage of every open set is open.
+
+Homeomorphism is the topological equivalence. Two spaces are homeomorphic if there exists a continuous bijection with a continuous inverse. A classic example is that a coffee cup is homeomorphic to a torus—one handle—because one can be continuously deformed into the other without tearing.
+
+Henri Poincaré founded algebraic topology, studying homology and homotopy groups, which are invariants that distinguish topological spaces and remain unchanged under homeomorphism. These tools allow us to classify spaces precisely.
+
+A space is connected if it cannot be partitioned into two disjoint, nonempty, open sets. Connectedness is a topological property preserved under continuous images. In contrast, compactness, formalized by Heine and Borel, states that a metric space is compact if and only if it is closed and bounded. Compactness is also preserved under continuous images and has profound implications throughout analysis.
+
+Knot theory, a subfield of topology, studies knots and links up to ambient isotopy—a purely topological classification that ignores how tightly or loosely a knot is tied. This gives a rigorous way to distinguish knots that cannot be continuously transformed into each other.
+
+The fundamental group measures holes in a space. Spaces with different fundamental groups cannot be homeomorphic, providing a practical tool for distinguishing topological spaces. This invariant has become essential to classification in topology.
+
+Hausdorff spaces axiomatize separation: any two distinct points can be separated by disjoint open neighborhoods. Many important spaces satisfy this condition, making it a useful property.
+
+Continuity is the central concept of topology, which formalises which functions are continuous in abstract settings. The notion of a limit is fundamental to defining continuity and convergence in topological spaces. Set theory provides the foundational language of sets and functions upon which topology is built.

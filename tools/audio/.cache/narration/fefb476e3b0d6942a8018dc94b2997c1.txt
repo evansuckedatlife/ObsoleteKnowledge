@@ -1,0 +1,11 @@
+Eigenvalue. A scalar that emerges from the action of a square matrix on a vector. When a matrix A multiplies a nonzero vector v and the result is a scalar multiple of v—that is, A times v equals lambda times v—the scalar lambda is an eigenvalue and v is the corresponding eigenvector. Eigenvalues and eigenvectors reveal the principal directions of linear transformations and are fundamental to solving differential equations, understanding vibrations, and modern data science applications like principal component analysis.
+
+The definition is straightforward: lambda is an eigenvalue of matrix A if there exists a nonzero vector v such that A times v equals lambda times v. The geometric interpretation is elegant: an eigenvector is a direction that the matrix does not rotate, only stretches or compresses by the factor lambda.
+
+The characteristic polynomial of A is the determinant of A minus lambda I, where I is the identity matrix. Eigenvalues are the roots of this polynomial. For an n by n matrix, there are at most n eigenvalues, counting multiplicity. Real matrices may have complex eigenvalues, which appear in conjugate pairs.
+
+Diagonalisation occurs when A has n linearly independent eigenvectors. Then A can be written as P times D times P inverse, where D is diagonal with eigenvalues on the diagonal and P contains eigenvectors as columns. The sum of eigenvalues equals the trace, the sum of diagonal entries. The product equals the determinant.
+
+Eigenvalues have powerful applications. In differential equations, e to the lambda t governs exponential growth or decay. In vibrations, eigenvalues equal squared natural frequencies. In stability analysis, the sign of eigenvalues determines whether a system is stable. In data analysis, principal component analysis finds directions of maximum variance using eigenvectors.
+
+Eigenvalues emerged in the eighteenth century from Euler's work on rotating bodies and inertia. Deep theory developed through the nineteenth century with Cauchy and Jacobi. They are indispensable in physics and engineering. The natural frequencies of a vibrating bridge are eigenvalues. The stability of spacecraft attitude control depends on them. Quantum mechanics is built on eigenvalues—observables are Hermitian operators and measured values are eigenvalues.

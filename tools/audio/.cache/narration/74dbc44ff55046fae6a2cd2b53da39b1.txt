@@ -1,0 +1,7 @@
+Semiotics. The study of signs and how meaning is created, communicated, and interpreted through sign systems.
+
+Grounded in the work of linguist Ferdinand de Saussure, semiotics analyzes how cultures construct meaning through symbols, images, words, and gestures. A sign consists of a signifier, the form such as a sound, image, or mark, and a signified, the concept or meaning evoked by that form. The relationship between signifier and signified is arbitrary. No natural or inevitable connection exists between them. The word dog is just a sound that English speakers agree refers to canines.
+
+Saussure's crucial insight is that meaning emerges not from a sign's inherent properties but from its difference from other signs in the system. The word dog means what it does partly because it is not bog or dig. Rene Magritte's painting This is Not a Pipe exemplifies semiotic philosophy. The image is literally a sign, a representation, not the thing itself, raising questions about representation and reality. Semiotics extends beyond language to any system of signs: fashion, architecture, rituals, and advertising. This reveals that all culture is a semiotic system creating meaning through forms and conventions.
+
+Later semioticians like Charles Peirce and Umberto Eco expanded semiotics to include indexical signs, such as smoke indicating fire, and iconic signs, such as a portrait resembling its subject, complicating the purely arbitrary model.
