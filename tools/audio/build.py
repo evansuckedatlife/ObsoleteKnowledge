@@ -83,6 +83,27 @@ def find_model(pattern: str) -> str:
     sys.exit(f"no {pattern} found — run: save-to-spotify tts setup")
 
 
+def available_memory_gb():
+    """Physical memory available right now, or None if it cannot be read."""
+    try:
+        import ctypes
+
+        class Status(ctypes.Structure):
+            _fields_ = [("dwLength", ctypes.c_ulong), ("dwMemoryLoad", ctypes.c_ulong),
+                        ("ullTotalPhys", ctypes.c_ulonglong), ("ullAvailPhys", ctypes.c_ulonglong),
+                        ("ullTotalPageFile", ctypes.c_ulonglong), ("ullAvailPageFile", ctypes.c_ulonglong),
+                        ("ullTotalVirtual", ctypes.c_ulonglong), ("ullAvailVirtual", ctypes.c_ulonglong),
+                        ("ullAvailExtendedVirtual", ctypes.c_ulonglong)]
+
+        st = Status()
+        st.dwLength = ctypes.sizeof(Status)
+        if not ctypes.windll.kernel32.GlobalMemoryStatusEx(ctypes.byref(st)):
+            return None
+        return st.ullAvailPhys / 1e9
+    except Exception:
+        return None
+
+
 def patch_kokoro_speed_dtype() -> None:
     """Work around a dtype bug in kokoro-onnx 0.4.7.
 
@@ -162,6 +183,20 @@ def main() -> None:
     import numpy as np
     import soundfile as sf
     from kokoro_onnx import Kokoro
+
+    # Loading the model needs ~1 GB. Without this check onnxruntime fails with
+    # "Exception during initialization: bad allocation", which looks like a
+    # model problem rather than what it is. Orphaned renders are the usual
+    # cause: killing a background shell does NOT kill the python child it
+    # spawned, so each interrupted batch leaks a process holding ~1 GB.
+    free_gb = available_memory_gb()
+    if free_gb is not None and free_gb < 1.5:
+        sys.exit(
+            f"only {free_gb:.1f} GB RAM available; Kokoro needs ~1 GB to load.\n"
+            "Check for orphaned renders left by an interrupted batch:\n"
+            '  powershell "Get-CimInstance Win32_Process -Filter \\"Name like \'python%\'\\" | '
+            "Where-Object { $_.CommandLine -like '*audio*build.py*' }\""
+        )
 
     patch_kokoro_speed_dtype()
 
