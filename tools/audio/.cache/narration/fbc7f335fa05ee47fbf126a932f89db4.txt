@@ -1,0 +1,9 @@
+Switch. A mechanical or electronic component that opens or closes a circuit path, controlling whether current can flow. Switches range from simple single-pole single-throw hand levers to complex electromechanical relays and solid-state field-effect transistors, all serving to route or block current under user or circuit control.
+
+An ideal switch has zero resistance when closed and infinite resistance when open. Real switches exhibit contact resistance and leakage. Contact bounce, also called chatter, occurs when mechanical contacts vibrate during closure, producing multiple brief open and close transients. Digital systems require debouncing through RC filters or firmware delays.
+
+Switch nomenclature describes their structure. A single pole single throw, or SPST, switch is a simple on-off. A single pole double throw, or SPDT, switch has two outputs. A double pole double throw, or DPDT, controls two circuits simultaneously.
+
+A relay is an electromagnetically actuated switch. A coil energizes an electromagnet that mechanically opens or closes contacts, providing isolation and high-power switching from a weak control signal. Solid-state switches, like transistors, MOSFETs, and IGBTs, have no moving parts and no contact bounce. They switch at nanosecond speeds but dissipate heat in the ON state since they don't have zero resistance.
+
+Analog switches, called transmission gates, pass AC or DC signals with minimal distortion. They are used for audio and video routing and multiplexing. Thermal cycling and arcing degrade mechanical contacts over time, reducing lifecycle. Switch matrices in keyboards and robotics route many inputs through a small number of pins. Debouncing and scanning prevent false reads.

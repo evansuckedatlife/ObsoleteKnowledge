@@ -1,0 +1,9 @@
+Surjective. A function is surjective, also called onto, when its range is equal to its codomain. This means every element in the target set is mapped to by at least one element in the domain. No elements in the codomain are left unpaired, though multiple elements in the domain can map to the same output. Surjectivity is a fundamental classification that, alongside injectivity, is required for a function to be bijective.
+
+Formally, a function f from set A to set B is surjective if for every element b in B, there exists at least one element a in A such that f of a equals b. In other words, every element in the codomain has a preimage.
+
+Here's a subtle but important point: surjectivity depends entirely on how you choose the codomain. For example, the function f of x equals x squared is surjective if the codomain is the non-negative real numbers, but it is not surjective if the codomain is all real numbers. Why? Because negative numbers have no square roots in the real number system. By changing the codomain, you change whether the function is surjective.
+
+If a surjection exists from set A to set B, then the cardinality of A must be greater than or equal to the cardinality of B. And just as with injections, the composition of two surjective functions is always surjective.
+
+Under the Axiom of Choice, there's an elegant characterization: a function is surjective if and only if it has a right inverse. That is, there exists a function g from B back to A such that for every y in the codomain, f of g of y equals y. This property connects surjectivity to the existence of solutions in certain equations and is central to solving systems across mathematics.

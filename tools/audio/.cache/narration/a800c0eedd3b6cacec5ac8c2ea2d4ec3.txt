@@ -1,0 +1,17 @@
+RAM. Random access memory. It's the main working memory of your computer, providing fast, temporary storage for program instructions and data while the CPU executes them. Modern systems typically have 8 to 64 gigabytes of RAM depending on what you're doing.
+
+RAM is volatile. This is the critical point: it loses all its data the moment you power off your computer. That makes it unsuitable for permanent storage. It exists purely as a high-speed staging area for the CPU.
+
+The CPU accesses RAM far more slowly than it accesses its own cache memory, so memory bandwidth—how much data per cycle—is a constant bottleneck in modern systems.
+
+The standard RAM technology is DRAM, or dynamic RAM. It stores electrical charge in tiny capacitors. Here's the thing: those capacitors leak charge. So the capacitor must be recharged thousands of times per second just to retain the data. This constant refreshing is why it's called dynamic memory.
+
+RAM installs on your motherboard in vertical modules called DIMMs—dual in-line memory modules. The number of slots on your motherboard determines your maximum RAM capacity.
+
+Memory speed is measured in megatransfers per second, or MT/s. Common RAM today runs at 3200 MT/s or higher. Faster RAM can marginally improve CPU performance, but it's not always the biggest factor.
+
+Often more important than raw speed is memory latency—the time it takes for a requested byte to actually be delivered. Lower latency, measured in nanoseconds, is better.
+
+Many consumer and server boards use dual-channel or quad-channel memory architectures. If you install multiple RAM sticks properly, they can be accessed in parallel, significantly boosting throughput compared to single-channel access.
+
+RAM capacity directly constrains how much you can do. It limits how many programs can run simultaneously and how large a dataset an application can work with. If you don't have enough RAM, the operating system spills data onto your disk using swap space, and that's dramatically slower. Insufficient RAM forces constant disk access, and your computer feels sluggish.

@@ -1,0 +1,9 @@
+Gene Regulation. The process by which cells control when, where, and how frequently genes are expressed, turning transcription and translation on or off as needed. Without it, every cell would express every gene constantly, which is incompatible with specialization and survival. Gene regulation allows identical cells with identical DNA to differentiate into neurons, liver cells, or immune cells. It also lets cells respond to environmental signals.
+
+Transcriptional control occurs before mRNA synthesis. Transcription factors bind regulatory DNA at promoters, enhancers, and silencers to activate or repress RNA polymerase. Epigenetic regulation involves chemical modifications to DNA or histone proteins without changing the DNA sequence. These marks can be heritable through cell divisions.
+
+Post-transcriptional control includes alternative splicing, where different exons are combined, along with RNA degradation and localization. MicroRNAs and other small RNAs can bind mRNA and trigger degradation or block translation.
+
+Translational control determines whether mRNA is translated into protein. Regulatory proteins can block ribosome binding or trigger mRNA destabilization. Feedback loops, both negative and positive, allow cells to self-regulate. A protein product may inhibit its own gene's transcription to maintain stable levels.
+
+These mechanisms interconnect. Protein synthesis is controlled by gene regulation. RNA molecules, both messenger RNA and regulatory RNAs, are key players. Transcription factors are proteins that bind DNA to control transcription. Enhancers are distant DNA regions that boost transcription. Promoters are the regions where RNA polymerase initiates transcription. And all of this connects to epigenetics, the study of heritable changes in gene expression.

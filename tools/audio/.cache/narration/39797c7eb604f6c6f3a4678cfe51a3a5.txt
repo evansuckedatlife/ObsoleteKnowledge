@@ -1,0 +1,11 @@
+John Maynard Keynes. A twentieth century British economist whose General Theory of Employment, Interest and Money, published in 1936, revolutionized macroeconomics and provided the intellectual basis for government intervention during recessions.
+
+Before Keynes, classical economics assumed that free markets automatically reach full employment. If unemployment rises, wages fall, and workers get rehired. Simple supply and demand. Keynes shattered this assumption. He showed that markets do not automatically reach full employment. They can get stuck in equilibrium with millions of people out of work.
+
+His key innovation was focusing on aggregate demand, the total spending in an economy. If aggregate demand is too low, unemployment persists. Wages don't fall fast enough to restore equilibrium because wages are sticky. Workers and employers resist wage cuts, especially in recessions. So unemployment can persist indefinitely without government intervention.
+
+Keynes introduced the multiplier mechanism. When government spends a dollar, that dollar doesn't just vanish. Workers who receive wages from that spending then spend their wages, which generates more income, which generates more spending. A dollar of government spending generates more than a dollar of total income. This multiplier effect amplified the impact of government stimulus.
+
+He proposed that during recessions, government should run budget deficits to stimulate demand and employment. This was counter-intuitive to balanced-budget orthodoxy. During good times, run surpluses to pay down the debt. During bad times, spend to revive the economy. This became the basis for decades of Keynesian policy.
+
+Keynes was not purely a theorist. He served as the chief British negotiator at Bretton Woods in 1944, designing institutions that would govern the postwar world. His ideas shaped the International Monetary Fund and the World Bank. Milton Friedman became his principal intellectual challenger, arguing that monetary policy, not fiscal stimulus, was the proper tool. Keynes's own teacher, Alfred Marshall, had built the classical equilibrium model that Keynes spent years refuting. Yet Keynes admired Thomas Malthus's skepticism about whether markets clear, and his debates with free-market critic Friedrich Hayek defined macroeconomic discussion for the middle of the twentieth century.

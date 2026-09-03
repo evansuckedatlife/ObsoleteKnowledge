@@ -1,0 +1,11 @@
+Comparative advantage. The ability of one party to produce a good at a lower opportunity cost than another, even if that party has an absolute advantage in all goods. This principle, formalized by the economist David Ricardo in 1817, explains why trade is mutually beneficial even when one party is more productive overall.
+
+The key is understanding opportunity cost. Absolute advantage means producing more output with the same inputs, but opportunity cost is what you must give up to produce one more unit. Consider two countries: Country A can produce 100 bushels of wheat or 50 cars—so one car costs 2 bushels. Country B can produce 40 bushels or 40 cars—so one car costs only 1 bushel. Even though Country A has absolute advantage in both products, Country B has comparative advantage in cars because of that lower opportunity cost.
+
+When each party specializes in what they have comparative advantage in, trade allows both to consume beyond their production possibilities frontier. Mutual benefit occurs as long as trade happens at a price between their respective opportunity costs.
+
+In the real world, capital-abundant countries like the United States and Germany have comparative advantage in capital-intensive goods like machinery and chemicals. Labor-abundant countries like India and Vietnam specialize in labor-intensive goods: textiles and agriculture. Countries with natural resource abundance—oil, minerals—drive specialization in those sectors.
+
+This creates a political tension. Trade with countries like Vietnam and India can displace workers in American textile and manufacturing sectors. Those workers don't instantly retrain for tech jobs; communities decline. Consumer benefits from trade are broad—lower prices, more choice—but the costs are concentrated in specific industries. That gap between the theory and reality drives protectionist politics despite economists' consensus that trade is beneficial overall.
+
+Comparative advantage remains foundational to debates over trade deals, offshoring, and globalization. It clarifies why efforts to bring manufacturing back often fail—they violate comparative advantage. It also explains why economies must invest heavily in education and job transition support if they embrace trade.

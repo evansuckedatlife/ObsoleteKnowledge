@@ -1,0 +1,7 @@
+Platyhelminthes. A phylum of bilaterally symmetrical, unsegmented invertebrates known as flatworms. They're acoelomate triploblasts, which means they completely lack a fluid-filled body cavity between their digestive tract and outer body wall. Lacking specialized respiratory and circulatory systems, they rely on diffusion across their flattened bodies for gas exchange and nutrient transport. The phylum includes both free-living planarians and major human parasites.
+
+Flatworms manage waste removal through specialized excretory cells called flame cells, or protonephridia. These cells are lined with cilia and function in both osmoregulation and waste removal. Planarians are the free-living freshwater flatworms famous for their extraordinary capacity to regenerate complete bodies from tiny tissue fragments—cut one in half and both pieces grow back into whole worms. But flatworms also include major internal parasites. There are tapeworms, or cestodes, which use a hooked scolex on their head to attach to host intestines, and flukes, or trematodes, which are equally invasive.
+
+The reason flatworms maintain such a highly flattened body shape is structural necessity. They have no lungs or blood vessels, so oxygen and carbon dioxide must diffuse directly through their tissues. That extreme flatness enables them to survive.
+
+Nematodes, while also worms, are pseudocoelomates representing a more advanced body plan. Annelids, the segmented worms, are coelomates possessing a closed circulatory system, making them more complex still.

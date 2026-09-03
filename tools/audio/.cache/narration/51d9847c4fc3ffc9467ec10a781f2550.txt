@@ -1,0 +1,17 @@
+P versus NP. The most important unsolved question in theoretical computer science and mathematics. It asks whether every computational problem whose solution can be quickly verified in polynomial time can also be solved quickly in polynomial time. Formulated independently by Stephen Cook and Leonid Levin in 1971, it is widely considered the most important open question in computer science. The resolution of this question would define the fundamental limits of efficient computation and has massive implications for cryptography, optimization, and mathematics. Because of its profound significance, the Clay Mathematics Institute selected it as one of the seven Millennium Prize Problems.
+
+The class P consists of decision problems that can be solved by a deterministic Turing machine in polynomial time. The running time is bounded by O of n to the k for some constant k relative to the input size n. Think of P as the class of problems we can solve quickly.
+
+The class NP consists of decision problems whose positive instances—the yes answers—can be verified by a deterministic Turing machine in polynomial time, given an appropriate proof or certificate. This is the class of problems we can verify quickly, even if we cannot solve them quickly.
+
+It is trivially true that P is a subset of NP. If we can solve a problem quickly, we can verify it by simply running the solver. The core question, the deep mystery, is whether NP is also a subset of P—whether verification and solution are computationally equivalent.
+
+The Cook-Levin Theorem proved that the Boolean Satisfiability Problem, also called SAT, is NP-complete. This foundational theorem established that every other problem in NP can be reduced to SAT in polynomial time. A problem is NP-complete if it is in NP and is NP-hard, meaning it is at least as hard as any problem in NP. If any single NP-complete problem has a polynomial-time algorithm, then P equals NP. Major NP-complete problems include the traveling salesman problem in its decision version, the knapsack problem, and graph coloring.
+
+If the classes are equal, the consequences would be revolutionary. Cryptography including RSA and elliptic curve cryptography would collapse because finding secret keys would be as easy as verifying them. Conversely, optimization, automated theorem proving, and machine learning would become vastly more powerful in ways we cannot predict.
+
+If the classes are unequal, the consequences are also profound. It confirms that finding solutions is inherently harder than verifying them. This secures modern cryptography and validates the search for heuristic and approximation algorithms for NP-complete problems.
+
+The Millennium Prize offers a one million dollar reward for the first formal proof of either outcome.
+
+P versus NP represents the limit of what can be efficiently decided, while the halting problem represents the limit of what is decidable at all. The traveling salesman problem is a classic NP-complete problem that would be solvable in polynomial time if P equals NP. The knapsack problem is an NP-complete resource allocation problem illustrating the difficulty of finding exact solutions. Integer factorization is a problem in NP that is not known to be in P or to be NP-complete, and it forms the basis for RSA encryption. Primality testing was long known to be in NP and was finally proven to be in P in 2002 via the AKS algorithm. Sorting algorithms solve problems lying comfortably within the class P.

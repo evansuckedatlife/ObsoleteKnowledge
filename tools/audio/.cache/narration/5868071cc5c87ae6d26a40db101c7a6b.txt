@@ -1,0 +1,15 @@
+The graphics card, also called a GPU or graphics processing unit. It's a specialized processor that exists for one main purpose: rendering images and video. While your CPU handles most of the computing, a GPU takes over the graphics calculations, letting you play games smoothly, work in 3D modeling software, or run complex machine learning algorithms. Modern GPUs contain thousands of small cores all working in parallel, which is exactly what graphics needs.
+
+The fundamental job of a GPU is rasterization, or sometimes ray tracing—converting 3D scene data into a 2D image on your display, pixel by pixel, using highly parallel arithmetic. GPUs excel at this because they have thousands of small cores, compared to a CPU's handful of large cores. Each GPU core executes the same operation on different pieces of data simultaneously. This design dominates not just graphics, but physics simulation and deep learning too.
+
+A GPU connects to your motherboard via PCI Express, typically using a 16-lane slot that can deliver more than 15 gigabytes of bandwidth per second. That's enough bandwidth for the CPU to quickly transfer geometry and texture data to the GPU.
+
+The GPU has its own memory called VRAM—video memory. This is separate from your system RAM. You'll find anywhere from 4 gigabytes to 24 gigabytes of fast GDDR or HBM memory right on the graphics card itself. The GPU stores textures, framebuffers, and model data in this VRAM.
+
+The framebuffer is a specific portion of that VRAM holding the current image to be displayed. The GPU constantly writes pixels to the framebuffer, and a display controller reads it over and over, refreshing your monitor at 60 hertz or higher.
+
+The major GPU manufacturers are NVIDIA with their GeForce, Tesla, and RTX lines, AMD with Radeon and RDNA, and Intel with Arc. Each one has proprietary drivers and compute ecosystems—CUDA for NVIDIA, HIP for AMD.
+
+Some computers have integrated GPUs built into the CPU itself. These share your system RAM and are slower, but they're sufficient for office work and web browsing. Discrete GPUs—separate cards—are what you need for gaming, professional 3D work, and machine learning.
+
+Discrete graphics cards generate significant heat and consume anywhere from 50 to 450 watts depending on the model. That's why they need dedicated power connectors running straight from your power supply—either 6-pin, 8-pin, or dual 8-pin connectors. They also need proper cooling, which is why high-end cards have fans or liquid loops built right onto the card.

@@ -1,0 +1,7 @@
+Ctenophora. A phylum of marine invertebrates commonly known as comb jellies, famous for their brilliant bioluminescence. They're characterized by rows of cilia they use for swimming and are the largest animals to move using cilia for locomotion.
+
+Ctenophores propel themselves using eight rows of fused cilia called comb rows or ctenes. Unlike their jellyfish-like appearance might suggest, they capture prey using sticky cells called colloblasts, which secrete a glue-like substance to snare prey. This is fundamentally different from the stinging cells of Cnidarians. Ctenophores exhibit widespread bioluminescence, producing green or blue light within specialized internal canals using photoproteins. At their aboral pole—opposite the mouth—they possess an apical organ containing a calcium carbonate statolith that acts as a gravity sensor for balance.
+
+They have a complete gut containing anal pores, which represents a key evolutionary distinction from the blind-gut system of Cnidarians. This more complete digestive system allows them to process food more efficiently.
+
+Ctenophores are often confused with jellyfish because of their gelatinous appearance, but they're fundamentally different organisms. They lack the stinging nematocysts that define cnidarians and possess that complete digestive tract instead. Porifera is an older, tissue-less phylum with which ctenophores share basic marine ancestry, but ctenophores have evolved far beyond sponges in complexity.

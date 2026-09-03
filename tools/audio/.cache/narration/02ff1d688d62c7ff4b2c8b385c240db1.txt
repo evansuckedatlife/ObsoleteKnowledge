@@ -1,0 +1,11 @@
+The Double-Slit Experiment. In 1801, Thomas Young conducted a landmark experiment that proved light behaves as a wave. But when physicists returned to this experiment at the quantum scale, they encountered one of nature's deepest mysteries.
+
+Young's method was straightforward. He split a beam of light through two adjacent slits and observed what appeared on a screen behind them. Instead of two bright patches, he saw alternating bright and dark bands—interference fringes.
+
+This pattern only appears when both slits are open. Close one slit, and the interference vanishes. In its place, you get simple diffraction from a single slit. The pattern reveals that light from one slit interferes with light from the other. Waves constructively interfere where they align, creating bright bands. They destructively interfere where they cancel, creating dark bands.
+
+Young's experiment displaced centuries of theory supporting the corpuscular or particle model of light championed by Isaac Newton. With his interference fringes, the wave model became impossible to deny.
+
+But quantum mechanics introduced a profound paradox. In the quantum variant, single photons or electrons seem to go through both slits simultaneously, yet they behave differently when you try to observe which slit they use. Observe which path a particle takes, and the interference pattern vanishes. Don't observe, and it returns. The measurement itself changes the outcome.
+
+The double-slit experiment embodies the measurement problem at the heart of quantum mechanics. It reveals that photons exist in a superposition of two states until measured. The experiment's elegance lies in proving wave properties from a simple apparatus. Its paradox lies in the measurement: the act of observation fundamentally alters what we observe.

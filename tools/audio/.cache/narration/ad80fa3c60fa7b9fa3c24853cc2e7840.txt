@@ -1,0 +1,11 @@
+Elasticity. A measure of how responsive quantity demanded or supplied is to changes in price, income, or other factors. Elasticity is expressed as a percentage: if a one percent price change causes a two percent quantity change, the elasticity is two.
+
+For demand, elastic means quantity demanded is very responsive to price. A one percent price increase causes a greater than one percent drop in quantity. Inelastic means quantity demanded is unresponsive to price. Even large price changes cause small quantity swings. Unit elastic means quantity and price change proportionally.
+
+What makes a good elastic or inelastic? Necessities like insulin tend to be inelastic—people buy them regardless of price. Luxuries like vacations are elastic—people cut back when budgets tighten. Goods with many substitutes are elastic because switching costs are low. Goods with few substitutes are inelastic. Demand is more elastic over long time periods. People adjust slowly to price hikes but eventually shift behavior. Goods representing a large share of income are more elastic. People scrutinize those purchases. Cheap items are inelastic because they barely register in the budget.
+
+Supply elasticity matters too. Elastic supply means producers can easily increase output in response to price rises. That's often true for manufactured goods. Inelastic supply means output is hard to expand quickly—true for land, minerals, or goods with long production times.
+
+In practice, firms with inelastic products like tobacco and pharmaceuticals can raise prices without losing many customers. Taxes on elastic goods generate little revenue but create large deadweight loss. Taxes on inelastic goods generate substantial revenue with smaller distortions.
+
+Elasticity explains why OPEC can restrict oil output and raise prices. Crude oil is globally inelastic in the short term. Raising cigarette taxes doesn't cut smoking much because it's inelastic. Competition in software keeps prices lower than in pharmaceuticals because software demand is elastic due to substitutes, while pharmaceuticals face inelastic demand and no substitutes or regulatory barriers. Elasticity transforms supply-and-demand analysis from intuition into a quantifiable predictive tool that connects price theory to observable markets.

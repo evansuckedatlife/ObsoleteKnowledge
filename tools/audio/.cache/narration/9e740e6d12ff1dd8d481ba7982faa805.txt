@@ -1,0 +1,11 @@
+Chemical Bond. Attractive forces holding atoms together within molecules and solids, arising from the redistribution of electrons between atoms. There are three primary types: ionic, involving electron transfer; covalent, involving electron sharing; and metallic, involving a delocalized electron cloud. Each type confers distinct properties on the compounds formed. Chemical bonds explain why molecules are stable, why elements combine in specific ratios, and why materials have their characteristic hardness, melting point, and reactivity.
+
+Ionic bonds form between atoms with large electronegativity differences, typically metals and nonmetals. Electrons are transferred from the metal, forming a cation, to the nonmetal, forming an anion. Electrostatic attraction holds them together.
+
+Covalent bonds form when atoms share electron pairs. Single, double, and triple bonds correspond to sharing one, two, or three electron pairs respectively. Higher-order bonds are shorter and stronger. Polar covalent bonds occur when atoms of different electronegativity share electrons unevenly, creating partial charges. Nonpolar covalent bonds occur between identical or very similar atoms.
+
+Electronegativity, measured on the Pauling scale, quantifies an atom's tendency to attract electrons. Large differences predict ionic character and small differences predict covalent character. Bond dissociation energy is the energy required to break a bond. Strong bonds like triple carbon-carbon bonds require about 800 kilojoules per mole. Weak bonds like iodine-iodine bonds require about 150 kilojoules per mole.
+
+Metallic bonds in metals involve delocalized electrons moving freely within a lattice of cations, explaining metals' electrical and thermal conductivity, malleability, and luster. Coordinate covalent bonds, or dative bonds, form when both shared electrons come from a single atom, the donor, to another atom, the acceptor, as in metal-ligand complexes.
+
+Bond properties determine compound properties. Ionic compounds are hard and brittle with high melting points. Covalent compounds are often soft and low-melting. Metals are malleable and conduct electricity.

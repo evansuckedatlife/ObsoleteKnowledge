@@ -1,0 +1,9 @@
+pH scale. The pH scale measures whether a solution is acidic or basic, and it runs from zero to fourteen. Seven is neutral. Values below seven are acidic. Values above seven are alkaline, or basic. The scale is logarithmic, which means it compresses a vast range of hydrogen ion concentrations into a handy numerical framework.
+
+The term stands for "power of hydrogen." Mathematically, pH equals negative one times the logarithm base ten of the molar concentration of hydrogen ions. Each unit on the pH scale represents a tenfold change in acidity or basicity. A solution with a pH of three is ten times more acidic than a solution with a pH of four.
+
+At twenty-five degrees Celsius, pH seven is neutral, where the concentration of hydrogen ions equals the concentration of hydroxide ions, each at ten to the negative seventh molar. Pure water is neutral. Acidic solutions have pH less than seven. Lemon juice has a pH of around two. Vinegar is around three. Stomach acid, which is much stronger, is around one point five.
+
+Basic or alkaline solutions have pH greater than seven. A baking soda solution sits at around pH eight point five. Ammonia solution is around eleven. Sodium hydroxide, which is very strong, reaches pH fourteen.
+
+The scale was introduced in nineteen oh-nine by Søren Peder Lauritz Sørensen, a Danish biochemist. Since then, it has become essential across chemistry, biology, medicine, environmental science, and industry to monitor and control solution chemistry. In medical labs, in water treatment plants, in manufacturing—pH measurement is everywhere because controlling the acidity or basicity of a solution is fundamental to making chemistry work the way you want it to.

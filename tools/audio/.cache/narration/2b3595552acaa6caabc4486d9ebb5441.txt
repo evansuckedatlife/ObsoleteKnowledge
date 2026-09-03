@@ -1,0 +1,17 @@
+The solid state drive, or SSD. It's a storage device with no moving parts. Instead it uses flash memory—transistors arranged in a grid—to store and retrieve data electronically. SSDs are dramatically faster than hard drives, consume less power, and have become the standard boot drive for modern computers.
+
+Flash memory stores data by holding electrical charge in transistors. The absence of any moving parts is revolutionary. There's no seek time. An SSD has random access time measured in microseconds—millionths of a second. Compare that to a hard drive's milliseconds. This gap makes SSDs feel instantaneous to users.
+
+A typical SATA SSD achieves throughput of 500 or more megabytes per second. NVMe SSDs, which connect via PCI Express instead of the older SATA bus, achieve 3,000 to 7,000 megabytes per second. This essentially eliminates I/O as a bottleneck for most workloads.
+
+SSDs have a finite lifespan. It's measured in write cycles. After approximately one thousand to ten thousand rewrites per cell, the transistor degrades and can no longer hold charge reliably.
+
+But here's the thing: modern SSDs use a technique called wear leveling. It distributes writes evenly across all cells rather than repeatedly hitting the same ones. This extends SSD lifespan to 5 to 10 years of normal use. Most consumer SSDs are unlikely to wear out through ordinary operation.
+
+Power consumption is a big advantage. SSDs consume only 1 to 5 watts, compared to 5 to 15 watts for hard drives. This makes them essential for laptop battery life and low-power systems.
+
+Data recovery from SSDs is far more difficult than from hard drives. SSDs use TRIM operations that physically erase unused blocks. When an SSD fails, there are no mechanical recovery clues like there are with hard drives.
+
+SSD capacity ranges from 250 gigabytes to 8 terabytes. The largest capacities are expensive and mostly used in servers and workstations. For consumer machines, 500 gigabytes to 2 terabytes is typical.
+
+Today most systems use an SSD as the main boot drive for the operating system and frequently-accessed programs, and then add hard drives for backup and archival storage. The two technologies coexist because they serve different needs.

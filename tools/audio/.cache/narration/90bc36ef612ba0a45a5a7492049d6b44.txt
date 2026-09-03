@@ -1,0 +1,9 @@
+The Knapsack Problem. A classic combinatorial optimization problem in computer science. Given a set of items, each with a weight and a value, the objective is to select a subset of items to include in a knapsack such that the total weight does not exceed a given capacity, while maximizing the total value. The decision version of this problem is NP-complete, making it a fundamental model for resource allocation and budgeting under constraints.
+
+In the most common version, called the zero-one Knapsack Problem, items cannot be divided. Each item must be either fully accepted or rejected. Although NP-complete, it can be solved in pseudo-polynomial time of O of n W using dynamic programming, where n is the number of items and W is the weight capacity.
+
+The fractional version of the problem is very different. When items can be broken down—like liquids or powders—the problem can be solved optimally in polynomial time using a greedy algorithm. This creates a striking contrast with the NP-completeness of the zero-one version.
+
+Historically, the Knapsack Problem was the basis for the Merkle-Hellman knapsack cryptosystem, one of the first public-key encryption schemes ever developed. However, it was eventually broken because the underlying subset sum problems turned out to be solvable in polynomial time for the chosen keys, which was unexpected at the time.
+
+The knapsack problem admits a fully polynomial-time approximation scheme, or FPTAS, meaning one can find a solution within one minus epsilon of the optimal value in time polynomial in both n and one over epsilon. The problem serves as a representative NP-complete decision problem alongside other famous problems like the traveling salesman problem. Sorting items by their value-to-weight ratio is the primary step in solving the fractional version greedily, and dynamic programming algorithms for knapsack share similarities with the matrix chain multiplication problem.

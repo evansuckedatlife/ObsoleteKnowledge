@@ -1,0 +1,9 @@
+The Michelson-Morley Experiment. In 1887, two physicists named Albert Michelson and Edward Morley used an ingenious optical device called an interferometer to try to detect something fundamental about the universe. They wanted to know whether Earth's motion through space could be revealed by changes in the speed of light.
+
+The experiment relied on a simple idea taken from the physics of waves. They split a beam of light into two perpendicular paths using a half-silvered mirror, sent each beam down a separate arm of their apparatus, then recombined them to observe interference patterns.
+
+Here was their prediction. If space itself was filled with an invisible substance called the luminiferous ether, and if Earth was moving through that ether, then light should travel faster in one direction than perpendicular to Earth's motion. The effect would be like how sound travels slower when you're moving against the wind. They expected to see a measurable shift in their interference fringes.
+
+The result was shocking. The fringe shift they expected simply did not appear. No difference. The null result suggested something impossible to the physics of their time: the speed of light is constant regardless of Earth's motion.
+
+Morley repeated the experiment many times over the years with the same outcome every time. The result was so unexpected that physicists looked for escape clauses, ways to salvage the old theories. But Einstein took a different approach. He embraced the impossibility as fundamental, and it became the observational pillar supporting his theory of special relativity.

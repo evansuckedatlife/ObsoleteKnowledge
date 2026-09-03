@@ -1,0 +1,15 @@
+The power supply unit, or PSU. It's the electrical component that transforms alternating current from your wall outlet into the stable direct current voltages that every computer component needs. PSUs are sized in watts. The capacity must exceed the sum of all your component power draws, or you'll run into problems.
+
+The PSU transforms AC mains voltage—anywhere from 110 to 240 volts depending on what country you're in—into regulated DC outputs at fixed voltages. Typically that's plus 3.3 volts, plus 5 volts, plus 12 volts, and ground. All your components expect these voltages to stay stable, within 5 percent tolerance.
+
+A typical desktop system draws between 300 and 750 watts under full load. Most people oversized their PSU by 20 to 30 percent for efficiency and headroom. For example, if your system draws 450 watts, you'd buy a 550-watt PSU.
+
+Power delivery—how well the PSU maintains stable voltage when your load changes—is critical. A poor-quality PSU exhibits ripple, which is voltage fluctuations that can corrupt data or cause hardware shutdowns.
+
+Inside the PSU is a rectifier that converts AC to pulsating DC, and a switching regulator that uses high-frequency transistor switching to achieve efficient voltage conversion. These circuits generate a lot of heat, so the PSU contains a cooling fan, usually 80 to 140 millimeters in size. The fan speed is variable and adapts to load. High-end PSUs use larger, quieter fans with higher efficiency—they're rated 80 Plus Gold, Platinum, or Titanium.
+
+The cables delivering power include the 24-pin ATX connector for the motherboard, an 8-pin auxiliary connector for the CPU, 6-pin or 8-pin connectors for GPUs, and 4-pin or SATA connectors for other drives.
+
+The efficiency rating—80 Plus Bronze, Silver, Gold, Platinum, or Titanium—tells you what fraction of the AC power from the wall actually makes it to your system versus being lost as heat. Higher ratings mean lower power consumption from the wall and lower energy bills.
+
+If a PSU fails, the consequences can cascade. A failed capacitor or regulator can output incorrect voltage and damage your motherboard and CPU. Protection circuits exist—overcurrent, overvoltage, thermal shutdown—to prevent catastrophic failure. But it's better to prevent problems through proper sizing and buying a quality PSU from the start.

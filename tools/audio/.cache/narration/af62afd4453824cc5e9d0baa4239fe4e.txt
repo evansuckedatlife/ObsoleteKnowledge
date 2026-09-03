@@ -1,0 +1,9 @@
+Saffir-Simpson scale. When a hurricane approaches, how do meteorologists tell the public how dangerous it is? In the nineteen seventies, civil engineer Herbert Saffir and meteorologist Robert Simpson created a scale that classifies tropical cyclones into five categories based on sustained wind speed and the damage they're expected to cause. The scale has become the standard framework for communicating hurricane intensity to the public and to emergency managers.
+
+Category one brings winds of one hundred nineteen to one hundred fifty-three kilometers per hour with minimal damage. Category two is one hundred fifty-four to one hundred seventy-seven kilometers per hour with moderate damage. Category three is one hundred seventy-eight to two hundred eight kilometers per hour with severe damage. Category four ranges from two hundred nine to two hundred fifty-one kilometers per hour with catastrophic damage. Category five starts at two hundred fifty-two kilometers per hour or higher and brings catastrophic damage and conditions that make areas uninhabitable for weeks.
+
+Here's an important caveat: the scale is based solely on wind speed. It doesn't directly account for rainfall, storm surge, or freshwater flooding, which can be equally or even more destructive than wind alone. Yet the scale remains more precise and useful than the broader Beaufort scale for tropical cyclones because it focuses on a specific storm type and provides quantitative wind thresholds.
+
+A Category three hurricane or higher is considered a major hurricane. The scale has been revised slightly over time. Damage descriptions and thresholds have been refined to reflect the actual impacts observed when hurricanes make landfall.
+
+Meteorologists, emergency management agencies, and media outlets use the Saffir-Simpson scale to communicate hurricane risk, to prepare evacuations, and to help the public understand the threat a storm approaching their coast represents.

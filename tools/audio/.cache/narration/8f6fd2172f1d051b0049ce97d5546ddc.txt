@@ -1,0 +1,11 @@
+Dragon Spacecraft. A cargo and crewed spacecraft designed and operated by SpaceX to resupply the International Space Station and transport astronauts to orbit. Launched atop the Falcon Nine rocket, Dragon was the first commercial spacecraft to dock with the ISS, revolutionizing how humanity accesses space.
+
+It was the first cargo vehicle built entirely by a private company to dock with the ISS, proving commercial spaceflight viable. The Dragon capsule is cone-shaped with a PICA-X heat shield for re-entry protection. The unpressurized trunk section carries solar panels, radiators, and external cargo. This modular design allows rapid turnaround between flights.
+
+During rendezvous, the Dragon is powered by Merlin rocket engines. It features an autonomous docking system that eliminates the need for manual control by astronauts. Cargo Dragon has resupplied the ISS with food, equipment, and experiments. Later, it evolved into Crew Dragon, which includes life support systems, passenger seats, and abort systems for transport of astronauts directly to orbit. This reduced reliance on expensive Russian Soyuz vehicles for crew transport.
+
+One of the most distinctive features is its reusable design. The same capsules can fly multiple missions after inspection and refurbishment, dramatically reducing costs per launch compared to expendable spacecraft. This economics of reusability drives the commercial spaceflight industry. At the end of each mission, Dragon splashes down in the Pacific Ocean under parachutes, allowing recovery and refurbishment for future flights.
+
+Crew Dragon features an emergency escape abort system powered by SuperDraco thrusters for crew safety during launch. It seats up to seven passengers with redundant avionics, life-support, and environmental control systems.
+
+SpaceX is the manufacturer and operator of Dragon spacecraft. The Falcon rocket is the launch vehicle that carries Dragon to orbit. The International Space Station is Dragon's primary destination and resupply target. Dragon exemplifies the shift from government-only space access to private enterprise in commercial spaceflight. NASA is the primary customer for cargo and crew transport services. And Elon Musk is the founder of SpaceX who championed reusable spacecraft design.

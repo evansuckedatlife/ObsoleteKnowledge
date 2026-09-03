@@ -1,0 +1,9 @@
+Uncertainty principle. The Heisenberg uncertainty principle states that certain pairs of observables cannot both be known with arbitrary precision. Position and momentum form one pair; energy and time form another. The product of their uncertainties is bounded from below by Planck's constant.
+
+If you know the position precisely, the momentum is completely uncertain, and vice versa. This is not a limitation of measurement apparatus. It is not that you are just ignorant of the momentum. Rather, the momentum literally does not have a definite value when position is sharply localized. This is a fundamental property of quantum reality encoded in the wavefunction itself.
+
+The principle emerges inevitably from the fact that position and momentum operators do not commute. Their commutator equals Planck's constant. Any theory where these observables are represented by non-commuting operators must obey the uncertainty principle.
+
+The principle explains why electrons do not collapse into nuclei. Confining an electron to the tiny nuclear volume would force its momentum to be so uncertain that it would have enormous kinetic energy—far exceeding the attractive Coulomb energy. The system refuses to exist in such a state. This zero-point energy, greater than zero always, is why atoms are stable.
+
+At macroscopic scales, the uncertainty is negligible. A centimeter-scale object has an uncertainty of about ten to the minus thirty-four meters per second—vanishingly small. This is why you never see baseballs in superposition or experiencing tunneling. The macroscopic world emerges from quantum mechanics because uncertainty becomes irrelevant at large scales.

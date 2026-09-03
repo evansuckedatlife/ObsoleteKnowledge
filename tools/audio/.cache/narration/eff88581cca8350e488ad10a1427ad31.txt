@@ -1,0 +1,9 @@
+Kelvin scale. The Kelvin scale is the SI unit for measuring absolute temperature, and it starts at zero at the lowest possible temperature in the universe. That lowest point is called absolute zero, where all molecular motion theoretically ceases. It's approximately minus two hundred seventy-three point one five Celsius.
+
+Unlike Celsius and Fahrenheit, which use reference points tied to water's behavior, the Kelvin scale is rooted in thermodynamic principles. It anchors to the complete absence of thermal energy. This makes it the standard temperature scale in physics and chemistry. It's the scale you need when you're doing the serious work of understanding how energy behaves.
+
+Kelvin intervals are identical in size to Celsius degrees. The only difference between the two scales is the offset: Kelvin equals Celsius plus two hundred seventy-three point one five. Water freezes at two hundred seventy-three point one five Kelvin and boils at three hundred seventy-three point one five Kelvin at standard atmospheric pressure.
+
+The scale is named after William Thomson, the first Baron Kelvin, who developed the concept of absolute temperature back in the nineteenth century. He understood something profound: temperature and thermal energy are connected in a way that requires a scale with no negative values. The scale is linear, not logarithmic, which makes it ideal for calculating ratios of thermal energy or heat transfer. Many gas laws and thermodynamic equations require temperature as an absolute quantity, never negative.
+
+The triple point of water was historically used as the defining reference point, set at two hundred seventy-three point one six Kelvin. But since two thousand nineteen, the scale has been defined by the Boltzmann constant instead. Kelvin connects to Celsius, with which it shares degree size, and to Fahrenheit, though Kelvin is the choice preferred in science.

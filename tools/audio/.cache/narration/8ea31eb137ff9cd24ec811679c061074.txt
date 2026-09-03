@@ -1,0 +1,13 @@
+Interest rate. The cost of borrowing money, expressed as a percentage of the principal per unit time, usually per year. It compensates lenders for the time value of money—the fact that money available today is worth more than the same amount in the future—and for the risk that the borrower defaults.
+
+The nominal interest rate is what you see quoted in markets. The real interest rate is the nominal rate adjusted for inflation. It reflects the actual increase in purchasing power a saver gains or a borrower pays. The Fisher equation says the real rate roughly equals the nominal rate minus the inflation rate. Money available today is worth more than money in one year because it can earn interest or be spent immediately.
+
+A risk premium reflects the borrower's creditworthiness. Riskier borrowers with lower credit scores pay higher rates. U.S. Treasury bonds are the benchmark for risk-free borrowing.
+
+What determines interest rates? Central banks set target rates that ripple through the broader economy. The Federal Reserve and other central banks fundamentally influence market rates. If inflation is expected to rise, interest rates rise because lenders demand compensation. Booming economies with high investment demand push rates up. Contractions push them down. During financial crises, banks' willingness to lend is constrained.
+
+Savers benefit from high interest rates and earn more on savings. Borrowers benefit from low rates. Investment is sensitive to interest rates. Lower rates stimulate borrowing for equipment and construction. Higher rates discourage it. Asset prices are inversely related to rates. As rates rise, future cash flows are discounted more heavily, lowering present value.
+
+Different types of rates serve different purposes. The overnight rate is the central bank target, like the federal funds rate in the U.S. The prime rate is what banks charge their best customers. Credit cards and variable mortgages index to it. Mortgage rates tie to ten-year Treasury yields and bank lending standards. The yield curve plots interest rates across maturities. An inverted curve, where short rates exceed long rates, often precedes recession.
+
+Interest rates are the transmission mechanism of monetary policy. By lowering rates, central banks make borrowing cheaper, stimulating spending and investment. By raising rates, they cool demand and inflation. The political tension is stark. Borrowers and those dependent on asset prices want low rates. Savers and inflation hawks want high rates. Understanding interest rates is essential to interpreting central bank actions and macroeconomic forecasts.

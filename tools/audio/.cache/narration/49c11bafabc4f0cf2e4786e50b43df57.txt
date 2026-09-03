@@ -1,0 +1,7 @@
+Porifera. An ancient phylum of aquatic multicellular organisms commonly known as sponges. They're the most primitive group of animals in existence, characterized by a lack of true tissues, organs, or body symmetry. They're sessile filter feeders that draw water through their porous bodies to trap microscopic food particles.
+
+What makes sponges unique is that they lack true tissues and organs entirely, making them the only major animal phylum classified as Parazoa rather than Eumetazoa. Inside their bodies are flagellated cells called choanocytes, or collar cells, which line the internal chambers and beat their flagella to maintain a constant current of water flowing through the sponge. They maintain structural rigidity using spicules—microscopic structures made of silica or calcium carbonate—or alternatively a flexible protein network called spongin.
+
+Water enters through pores called ostia into a central cavity known as the spongocoel, and the sponge expels it through one or more large exit openings called oscula. Remarkably, sponges are capable of complete regeneration. If a living sponge is completely shredded or even blended into individual cells, those cells can reassociate and reform a functional sponge.
+
+Sponges represent the most basic form of animal life. Cnidarians are a slightly more advanced phylum that possesses true radial symmetry and tissues, contrasting sharply with sponges' lack thereof. Ctenophores, the comb jellies, are another primitive diploblastic phylum that developed tissues and nervous systems beyond what sponges possess.

@@ -1,0 +1,9 @@
+Genetics. The science of inheritance. How traits pass from parents to offspring and how variation arises within populations. It bridges heredity and molecular biology, explaining the mechanisms by which genes are transmitted, expressed, and altered. From Gregor Mendel's pea experiments to modern genomics, genetics has revealed how DNA encodes the information for life.
+
+Gregor Mendel's laws of inheritance established the particulate nature of heredity. Traits are inherited through discrete units, not blended. Segregation and independent assortment are the names of these laws. Genotype, the genetic makeup, and phenotype, the observable traits, are distinct. The same genotype can produce different phenotypes depending on environment.
+
+Alleles are alternate versions of a gene. Dominant alleles mask recessive ones in heterozygotes, where an organism has one dominant and one recessive allele. Thomas Hunt Morgan used fruit flies to map genes to chromosomes, proving that genes reside on chromosomes and can be linked. This was pioneering work in understanding how heredity works.
+
+Pedigree analysis tracks trait inheritance in families, revealing patterns of Mendelian inheritance, X-linked inheritance, and multi-gene inheritance. Population genetics applies statistical methods to understand allele frequencies and how evolution changes them via natural selection, mutation, and genetic drift.
+
+These concepts connect throughout the field. Mendel and his pea plant experiments established Mendelian inheritance. Thomas Hunt Morgan pioneered work linking genes to chromosomes. Heredity is the underlying mechanism that genetics explains. Evolution depends on genetic change as the raw material for natural selection. Mutation creates new genetic variation. And the chromosome theory states that genes are physical components of chromosomes.

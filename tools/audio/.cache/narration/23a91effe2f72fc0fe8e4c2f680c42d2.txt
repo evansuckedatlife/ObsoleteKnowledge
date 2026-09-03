@@ -1,0 +1,11 @@
+Monotonic Function. A monotonic function is a function between ordered sets that preserves or reverses the given order. For real-valued functions, this means the function is either entirely non-increasing or entirely non-decreasing. Monotonicity simplifies the analysis of function behavior, guarantees the existence of limits, and is closely tied to injectivity and differentiability.
+
+A function is monotonically increasing, or non-decreasing, if whenever x is less than or equal to y, we have f of x is less than or equal to f of y. In other words, as the input grows, the output never shrinks. A function is monotonically decreasing, or non-increasing, if whenever x is less than or equal to y, we have f of x is greater than or equal to f of y. The output never grows as the input increases.
+
+When the inequalities are strict—meaning x strictly less than y implies f of x strictly less than f of y, or the decreasing version—we call the function strictly monotonic. Strictly monotonic functions are particularly useful because they guarantee injectivity.
+
+For differentiable functions, you can verify monotonicity by examining the derivative. If the derivative f prime of x is greater than or equal to zero on an interval, the function is increasing on that interval. If the derivative is less than or equal to zero, the function is decreasing. This connection to derivatives makes monotonicity easy to check for smooth functions.
+
+Here's a key result: any strictly monotonic function is injective, meaning it is one-to-one. This automatically guarantees that it has a well-defined inverse on its range. Many functions we rely on—like logarithms and roots—exist precisely because their monotonic counterparts are invertible.
+
+The Monotone Convergence Theorem is a powerful result: any bounded monotonic sequence of real numbers converges to a limit. This theorem is foundational in real analysis and ensures that many limiting processes behave predictably.

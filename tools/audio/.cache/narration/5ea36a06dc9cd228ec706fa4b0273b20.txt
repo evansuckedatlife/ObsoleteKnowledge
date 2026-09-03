@@ -1,0 +1,9 @@
+Mach number. Mach number is a dimensionless ratio expressing the speed of an object relative to the speed of sound in the surrounding medium. When something travels at Mach one, it's moving at the speed of sound. At Mach two, it's moving twice as fast. It's the standard measure of extreme velocity in aeronautics, rocketry, and fluid dynamics, especially when the air starts to compress around a fast-moving object.
+
+The scale is named after physicist and philosopher Ernst Mach, who studied shock waves and the physics of fast-moving objects back in the nineteenth century. Here's a critical point: Mach one is not a fixed speed. It depends on temperature and the medium you're moving through. At sea level on a day that's fifteen degrees Celsius, Mach one is approximately three hundred forty-three meters per second, or about seven hundred sixty-one miles per hour. But at higher altitudes where the air is colder, the speed of sound is lower, so Mach one is a lower airspeed.
+
+Flight regimes have names based on Mach numbers. Subsonic flight is below Mach one. Transonic, which is the tricky zone where you're mixing subsonic and supersonic flow regions, spans roughly Mach zero point eight to one point two. Supersonic flight is Mach one to about five. Hypersonic is Mach five and above.
+
+The scale is derived from the ratio of velocity to the speed of sound. Above Mach one, compressibility effects kick in. Shock waves form. Pressure changes dramatically. Heat generation increases. In the hypersonic regime, these effects become dominant and increase dramatically.
+
+Aircraft designers and ballistics experts use Mach because aerodynamic forces change dramatically across the Mach transition. It's not logarithmic but a ratio scale, which allows meaningful multiplication and division of speeds relative to sound.

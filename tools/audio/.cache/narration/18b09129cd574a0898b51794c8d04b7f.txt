@@ -1,0 +1,7 @@
+Resistor. A two-terminal passive component that opposes the flow of electric current, dissipating electrical energy as heat. Measured in ohms, resistors are fundamental to controlling current magnitude, dividing voltage, and protecting circuits from overcurrent conditions.
+
+Ohms is the SI unit of electrical resistance, defined by Ohm's Law: voltage equals current times resistance. Resistors are passive components—they consume energy and convert it to heat, never generating power. Resistance is inversely proportional to wire cross-sectional area and directly proportional to both length and resistivity.
+
+Carbon-film resistors, identified by their orange, brown, and gold color bands, are the most common. They have axial leads for breadboarding. Potentiometers are variable resistors with a sliding contact and are used in volume knobs and sensor tuning. Thermistors have resistance that changes sharply with temperature. NTC, or negative temperature coefficient types, drop resistance when hot.
+
+Series resistors add directly. The total resistance equals the sum of all individual resistances. Parallel resistors follow the reciprocal rule. One divided by the total resistance equals one divided by the first resistance plus one divided by the second resistance. Power dissipation in a resistor is calculated as current squared times resistance, or voltage squared divided by resistance. Exceeding the power rating causes failure with smoke or charring.

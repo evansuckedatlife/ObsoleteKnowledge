@@ -1,0 +1,9 @@
+Richter scale. When the earth shakes, how much energy is released? In nineteen thirty-five, American seismologists Charles Richter and Beno Gutenberg created the first instrumental standard for measuring earthquake magnitude. They measured the local magnitude of earthquakes by quantifying the energy released through seismic waves as recorded on a Wood-Anderson seismograph. Richter's name became synonymous with earthquake measurement, and the scale remains iconic, though modern seismology has moved beyond it for the largest quakes.
+
+The scale is logarithmic. Each unit increase represents roughly a tenfold increase in the amplitude of seismic waves. A magnitude five earthquake has waves ten times larger than a magnitude four quake. Magnitudes typically range from zero to nine and above. A magnitude one or two earthquake is imperceptible—no one feels it. Magnitude three to four causes minor tremors. Magnitude five and above causes actual damage. Magnitude eight and above is devastating globally.
+
+Here's the critical limitation: the scale saturates, losing accuracy for very large earthquakes above magnitude seven or so. It measures local wave amplitude, which plateaus. For that reason, seismologists developed the moment magnitude scale to handle the largest events. Richter magnitude is also called local magnitude because it depends on how far the seismograph is from the epicenter.
+
+Earthquake frequency follows a power law relationship. Roughly fifteen magnitude eight or above quakes occur per century globally. Magnitude six and above quakes are about one hundred times more frequent.
+
+The scale has been refined and updated over the years as measurement technology improved. But the term "Richter scale" remains part of how the public understands earthquakes. It's the iconic tool that translated the violent motion of the Earth into a number people could understand.

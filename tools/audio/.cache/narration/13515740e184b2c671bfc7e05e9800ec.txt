@@ -1,0 +1,9 @@
+Chemistry. The study of matter, its properties, and how substances interact through chemical reactions and bonding. Chemistry bridges the atomic scale, where electrons and nuclei determine chemical identity, with macroscopic phenomena like burning, rusting, and the synthesis of everyday materials. Chemistry explains why some elements combine easily while others remain inert, and it underpins fields from medicine to manufacturing.
+
+Chemistry is fundamentally about electron transfer and sharing. Ionic bonding involves complete electron transfer. Covalent bonding involves shared electrons. Metallic bonding involves delocalized electrons. Matter is composed of atoms and molecules, and chemical reactions rearrange atomic connections without changing atomic nuclei. Transmutation requires nuclear reactions, not chemistry.
+
+The periodic table organizes elements by atomic number and electron configuration, revealing patterns in reactivity. Alkali metals are highly reactive. Halogens are reactive nonmetals. Noble gases are inert. Chemical equations represent reactions using formulas and stoichiometry, showing how masses and moles are conserved. No atoms are gained or lost, only rearranged.
+
+Oxidation-reduction, or redox, reactions involve electron transfer and explain combustion, corrosion, and battery operation. Oxidation states track electron flow. Equilibrium reactions can proceed in both directions. The equilibrium constant quantifies how far a reaction proceeds before balance is reached.
+
+Acid-base chemistry, including the pH scale and neutralization, describes reactions between electron-accepting, or Lewis acid, and electron-donating, or Lewis base, species. Laboratory techniques like chromatography, titration, and spectroscopy allow chemists to identify and quantify unknown substances.

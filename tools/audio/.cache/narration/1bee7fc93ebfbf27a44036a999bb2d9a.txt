@@ -1,0 +1,7 @@
+Nematoda. A highly diverse phylum of unsegmented, cylindrical invertebrates known as roundworms. They're pseudocoelomate protostomes, meaning they possess a body cavity that is only partially lined with tissue derived from the mesoderm. They're protected by a thick, non-cellular cuticle made of collagen that they must periodically shed through ecdysis or molting in order to grow.
+
+Nematodes play crucial roles as decomposers in soil ecosystems and are widespread as plant and animal parasites. The phylum includes Caenorhabditis elegans, or C. elegans, a soil-dwelling roundworm whose cellular lineage, genetics, and neural connections have been completely mapped by developmental biologists, making it a model organism for genetic research. But the phylum also includes major human parasites like pinworms and hookworms and the filarial worms that cause elephantiasis and trichinosis.
+
+One distinctive feature of roundworms is how they move. They exhibit a characteristic whip-like, thrashing motion because they have only longitudinal muscles that pull against their pressurized, fluid-filled body cavity. This creates that distinctive movement unlike the coordinated locomotion of segmented worms.
+
+They differ from flatworms, which lack a body cavity altogether and don't shed their outer skins. They're distinct from segmented annelids, which have true segments and closed circulatory systems. And they share membership with arthropods in the Ecdysozoa clade—both undergo ecdysis to grow.

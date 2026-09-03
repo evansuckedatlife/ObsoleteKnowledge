@@ -1,0 +1,9 @@
+Inductor. A two-terminal passive component that stores electrical energy in a magnetic field created by current flowing through a coil of wire. Inductance is measured in henries, and inductors oppose changes in current—a core principle in AC circuits, filters, and energy storage.
+
+Inductance relates a changing current to the induced voltage across the coil using the equation voltage equals inductance times the rate of change of current. An inductor resists changes in current. Direct current in steady-state flows freely with zero impedance, but a sudden change produces a large opposing voltage called back-EMF.
+
+Inductive reactance increases with frequency and is calculated as two times pi times frequency times inductance. At direct current, reactance is zero. At high alternating current frequencies, an inductor blocks current. Inductors are wound on a core—either air, iron, or ferrite. The core material amplifies inductance by concentrating the magnetic field.
+
+Mutual inductance occurs when two coils are coupled magnetically. This is the basis for transformers and isolation in switching power supplies. An inductor's energy is proportional to the square of the current. When current is suddenly interrupted, the stored energy causes voltage spikes that risk arcing.
+
+LC oscillators combine inductors and capacitors to generate or select specific frequencies, forming resonant circuits. Ferrite chokes suppress electromagnetic interference by blocking high-frequency noise while passing direct current and low-frequency signals.

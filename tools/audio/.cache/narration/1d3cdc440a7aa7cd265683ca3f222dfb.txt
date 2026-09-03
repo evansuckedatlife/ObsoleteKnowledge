@@ -1,0 +1,15 @@
+The BIOS, or Basic Input Output System. It's firmware—a low-level software program stored directly on your motherboard—that wakes up every time you power on your computer. Before the operating system even loads, the BIOS initializes all your hardware, runs self-tests, and then hands control over to Windows or whatever operating system you're running.
+
+Modern systems don't actually use the old BIOS anymore. They use UEFI, the Unified Extensible Firmware Interface, which is far more advanced. UEFI offers better security, faster boot times, and support for much larger hard drives than the original BIOS could handle.
+
+The BIOS and UEFI live in non-volatile flash memory on your motherboard—it persists even when the power is completely off, unlike RAM which vanishes the moment you shut down. When your CPU first powers up, it runs the BIOS instructions before anything else. The firmware discovers your CPU, RAM, storage drives, and any expansion cards you've installed, and then loads your operating system from the boot device you've specified.
+
+UEFI is faster than the old BIOS because it runs in a 32 or 64-bit protected mode, whereas legacy BIOS ran in 16-bit real mode. You can customize your BIOS settings through the Setup utility—usually by pressing Delete or F2 or F10 as your computer is starting up. You can control things like your CPU clock multiplier, RAM timing, the order of boot devices, and security features.
+
+One important UEFI feature is Secure Boot, which verifies the bootloader's digital signature before executing it. This prevents rootkits from loading before your operating system takes over. Windows requires Secure Boot, though you can disable it if you're running Linux or custom kernels.
+
+Your BIOS settings are stored in a small battery-backed memory chip called CMOS. That coin-cell battery you see on the motherboard keeps your settings alive when the system is powered off. When your motherboard dies and you replace it, you lose those settings.
+
+You can update your BIOS by flashing it—rewriting the firmware with a newer version to fix bugs, add support for newer CPUs, or improve performance. This is delicate work: if power is lost during a BIOS flash, you'll brick your motherboard.
+
+Finally, modern motherboards have a TPM chip—the Trusted Platform Module. The BIOS accesses it to store cryptographic keys and perform secure operations that keep your system protected. The TPM is integrated right on the motherboard itself.

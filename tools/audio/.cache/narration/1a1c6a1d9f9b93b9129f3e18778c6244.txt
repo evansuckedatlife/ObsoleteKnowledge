@@ -1,0 +1,11 @@
+Earthquake. The shaking of the Earth caused by sudden, violent release of stress accumulated along tectonic plate boundaries or within the crust. When plates collide, slide, or subduct, they build up strain over years or centuries. The release of this strain sends shock waves radiating outward, causing ground motion and sometimes structural damage.
+
+Earthquakes occur most frequently at plate boundaries where two plates slide, collide, or separate. These are the world's most seismically active zones. Stress accumulates silently over years or decades as plates push against one another. Then, sudden slip releases accumulated energy as seismic waves.
+
+Seismic waves come in multiple varieties. P-waves, or primary waves, are fast and compressional. S-waves, or secondary waves, are slower and shear waves. Both propagate through the Earth, but surface waves cause the most visible ground shaking. The Richter scale measures amplitude of seismic waves on a logarithmic scale. Each unit increase represents roughly thirty times more energy released.
+
+Aftershocks follow major earthquakes as remaining stress in the rock adjusts. Foreshocks can precede large quakes, but they are not reliably predictive. The hypocenter, also called the focus, is the point where rupture initiates underground. The epicenter is the point on Earth's surface directly above it, located using triangulation of seismic station data.
+
+Earthquakes can have far-reaching consequences. They can trigger volcanic eruptions. Underwater earthquakes create tsunamis. Large quakes can cause landslides and liquefaction of saturated soils.
+
+Plate tectonics is the theory explaining why and where earthquakes occur. Seismic waves are the waves that transmit earthquake energy through Earth. The Richter scale is the magnitude scale for quantifying earthquake size. The moment magnitude scale is a modern scale accounting for seismic moment and earthquake mechanism. A fault is the plane along which rock ruptures during an earthquake. Volcanoes are often triggered or accompanied by earthquake activity. And the Earth is the planetary body where earthquakes occur.

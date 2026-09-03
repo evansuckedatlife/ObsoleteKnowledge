@@ -1,0 +1,11 @@
+Bell's inequality is a mathematical result proving that no local hidden-variable theory can reproduce all the predictions of quantum mechanics. Derived by physicist John Bell in nineteen sixty-four, it showed that if reality is determined by hidden variables that travel no faster than light, then statistical correlations in measurements on entangled particles must obey a certain bound. Experiments since the nineteen eighties have consistently violated Bell's inequality, vindicating quantum mechanics and demonstrating that either locality or realism, or both, must be abandoned.
+
+Bell's original inequality sets a bound on correlation functions for three measurement settings on each of two entangled particles. Any local hidden-variable theory obeys this bound; quantum mechanics can violate it. The CHSH inequality, developed by Clauser, Horne, Shimony, and Holt in nineteen sixty-nine, is a more practical version designed for realistic experiments. Modern Bell tests measure violations of the CHSH inequality to very high statistical significance.
+
+Quantum entanglement means two particles can be prepared in a state where measuring one instantaneously affects the outcomes of measurements on the other, regardless of separation. Bell's theorem shows this non-local correlation cannot be explained by local hidden variables set at the time of entanglement.
+
+One crucial point is that Bell's theorem does not imply instantaneous signaling. No information faster than light can be transmitted; it rules out only a specific class of hidden-variable theories that assume local realism.
+
+Early Bell tests suffered potential loopholes. The detection loophole, the locality loophole, and the freedom-of-choice loophole all made the results ambiguous. Since twenty fifteen, experiments have closed all major loopholes simultaneously, ruling out local hidden-variable theories decisively.
+
+Key experiments include Aspect and colleagues in nineteen eighty-two, who first observed a significant violation. Weihs and colleagues in nineteen ninety-eight closed the locality loophole. Hensen and colleagues in twenty fifteen and Liu and colleagues in twenty twenty-one closed multiple loopholes, confirming quantum mechanics's weirdness beyond reasonable doubt.

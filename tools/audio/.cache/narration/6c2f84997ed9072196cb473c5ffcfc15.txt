@@ -1,0 +1,17 @@
+Versification. The technical craft of poetic form: the systematic patterns of stressed and unstressed syllables, rhyme, line length, and other structural devices that compose verse. It is both the practice of writing according to metrical rules and the analytical discipline of understanding how poets shape language through rhythm and sound.
+
+The fundamental unit is the foot: a group of syllables with a characteristic stress pattern. An iamb is unstressed-stressed. A trochee is stressed-unstressed. These patterns repeat to create the poem's rhythmic foundation. Understanding the foot is essential to understanding the poem.
+
+Scansion is the technical process of analyzing and marking the stressed and unstressed syllables to identify the metrical pattern. Scholars mark this with symbols: an acute accent for stress, a breve for unstressed. By scanning a line, you reveal its architecture.
+
+Iambic pentameter dominated English poetry for centuries. Five iambs per line: ten syllables with alternating stress. Shakespeare wrote in iambic pentameter. Milton. Pope. Generations of poets. The form became so standard that it almost feels natural, like the way English poetry should sound. But it's a convention, and conventions can be broken.
+
+The heroic couplet is two successive lines of iambic pentameter that rhyme. This form became the weapon of choice for neoclassical satire and philosophical poetry. Alexander Pope wielded it brilliantly, turning moral philosophy into couplets so perfect they seem inevitable.
+
+Different metrical feet create different emotional effects. Dactylic verse, stressed-unstressed-unstressed, suggests falling or cascading motion. Anapestic verse, unstressed-unstressed-stressed, builds momentum toward climactic stress. Sound echoes meaning.
+
+Metrical variation and substitution—breaking the expected pattern—is not a flaw but a sophisticated tool. Poets use deviation from the established rhythm to emphasize meaning, to create tension, to surprise readers. Shakespeare's genius partly lies in his ability to vary iambic pentameter, to break it exactly when it serves the meaning.
+
+Rhyme works in concert with metrical structure. It creates formal coherence and sonic satisfaction, binding lines together through sound and rhythm. But it must work with the meter, not against it.
+
+Understanding versification is essential for reading and performing poetry aloud. Hearing the metrical pattern often clarifies emotional and intellectual meaning. The physical rhythm of the words, their rise and fall, their impact and weight—this is poetry's body, and versification is how the body is constructed.

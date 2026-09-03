@@ -1,0 +1,9 @@
+Energy. The capacity of a system to do work or undergo change. It cannot be created or destroyed, only transformed between forms: kinetic from motion, potential from position, thermal from heat, and chemical from bonds, among others. Energy is the central quantity in both classical mechanics and quantum mechanics, making it fundamental to understanding how the universe operates.
+
+Kinetic energy is proportional to mass times velocity squared. Faster objects carry more energy. Potential energy depends on position in a force field. Gravitational potential energy is mass times gravitational acceleration times height. Electrostatic potential is the constant times charge one times charge two divided by distance.
+
+In thermodynamics, energy is quantified as the capacity to raise temperature or perform work. The first law of thermodynamics states that internal energy equals heat added minus work done by the system. In quantum mechanics, the Hamiltonian is the operator representing total energy—kinetic plus potential. Its eigenvalues are the possible measured energies.
+
+Energy conservation constrains all physical processes. Total energy before an interaction equals total energy after. Energy can be transferred or transformed, but never created or destroyed. In relativity, the famous equation E equals mc squared shows that energy and mass are equivalent. A tiny amount of mass yields enormous energy.
+
+Thermodynamics has energy as the core quantity in thermal processes. The Hamiltonian is the quantum operator for energy. Conservation of energy is the principle that energy is never created or destroyed. Work is the transfer of energy via force over distance. Heat is energy transferred due to temperature difference. And temperature is related to the random kinetic energy of molecules.

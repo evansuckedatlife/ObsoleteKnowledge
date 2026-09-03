@@ -1,0 +1,11 @@
+Space Shuttle Program. NASA's initiative to develop a reusable spacecraft for regular orbital missions, operating from 1981 to 2011. Five shuttle orbiters—Columbia, Challenger, Discovery, Atlantis, and Endeavour—flew 135 missions, deploying the Hubble Space Telescope, servicing it repeatedly, and constructing the International Space Station. The program revolutionized spaceflight as a routine transportation system but was marked by two catastrophic failures.
+
+The first launch was Columbia on April 12, 1981, making it the first spacecraft to reach orbit and return intact for reuse. Shuttles could carry up to eight crew and approximately 27 tonnes of cargo to low Earth orbit. Their distinctive delta-wing design enabled gliding reentry and landing on a runway.
+
+On January 28, 1986, the Challenger disaster occurred. An O-ring failure in the solid rocket booster led to structural failure, and all seven crew were killed. The program was suspended for 32 months following this tragedy.
+
+On February 1, 2003, the Columbia disaster struck. Foam insulation struck the heat shield during launch, and the orbiter disintegrated on reentry, killing all seven crew members. Though the program continued, it was significantly modified.
+
+Over its operational life, the shuttles deployed 355 satellites, conducted 24 Hubble Space Telescope servicing missions, and launched the permanent modules of the International Space Station. The program was extraordinarily complex; thermal tiles required painstaking inspection, and each mission cost approximately 500 million dollars and took months of preparation.
+
+The final mission, Atlantis STS-135, flew in July 2011. The shuttles were retired after 30 years of operation, replaced by commercial crew programs and the Space Launch System.

@@ -1,0 +1,9 @@
+Substrate. The molecule or molecules upon which an enzyme acts to catalyze a chemical reaction. Enzymes are highly specific for their substrates, recognizing them through shape and chemical complementarity. The substrate binds to the enzyme's active site, undergoes chemical transformation, and is released as product. This substrate-enzyme interaction is the fundamental mechanism of biochemical regulation and metabolism.
+
+The enzyme-substrate complex forms when a substrate binds to the active site of an enzyme. Specificity arises from complementary shape, often called the lock-and-key model, and from chemical properties. Substrate concentration affects reaction rate. At low concentrations, rate increases linearly. At high concentrations, the enzyme becomes saturated and rate plateaus, described by Michaelis-Menten kinetics.
+
+Enzymes are selective. Lactase breaks down lactose but not other sugars. Pepsin cleaves proteins but not lipids. This specificity allows precise metabolic control.
+
+Enzymes stabilize the transition state of the reaction, lowering activation energy and accelerating the reaction by factors of one million to one trillion relative to the uncatalyzed rate.
+
+Competitive inhibitors compete with substrate for the active site. Non-competitive inhibitors bind elsewhere on the enzyme and reduce its efficiency without competing. Examples include glucose as the substrate for hexokinase in the first step of glycolysis, and hydrogen peroxide as the substrate for catalase in detoxification. Substrate depletion or accumulation of product can regulate enzyme activity, linking metabolism to cellular needs.

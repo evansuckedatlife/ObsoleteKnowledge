@@ -1,0 +1,13 @@
+Force. A push or pull that changes or tends to change an object's state of motion. Quantified in newtons, forces are central to physics and arise from four fundamental interactions: gravity, electromagnetism, strong nuclear force, and weak nuclear force. Understanding forces is essential to predicting motion and interactions in the universe.
+
+Newton's Second Law defines force mathematically: force equals mass times acceleration. A net force on an object causes acceleration proportional to the force and inversely proportional to the object's mass.
+
+Four fundamental forces govern all known interactions. Gravity is long-range but the weakest force, and it mediates celestial mechanics. Electromagnetic force binds atoms and molecules and dominates chemistry. The strong nuclear force binds nucleons and dominates atomic nuclei. The weak nuclear force governs radioactive decay and enables beta particles.
+
+Gravity is the attraction between masses. Its strength depends on the masses and the distance between them, following an inverse-square law. Electromagnetic force comes from interaction between electric charges. It dominates chemistry, binding electrons to nuclei and atoms to each other.
+
+Forces are vectors with both magnitude and direction. Multiple forces on an object sum vectorially to produce a net force that determines acceleration. Contact forces, like friction and normal force, arise from electromagnetic repulsion. Field forces, like gravity and electromagnetism, act over distance without contact. Yet both follow the same fundamental physical laws.
+
+At the scale of atoms and nuclei, quantum mechanics modifies how forces behave. At cosmic scales, general relativity describes gravity not as a traditional force, but as spacetime curvature caused by massive objects.
+
+Newton's laws of motion are the laws quantifying how forces relate to motion. Mass is the property determining how much force is needed to accelerate an object. Acceleration is the effect force produces when applied to mass. Gravity is one of the four fundamental forces, governing celestial mechanics. The electric field is the mechanism by which electromagnetic force acts over distance. And the Standard Model is the particle physics framework describing the fundamental forces.

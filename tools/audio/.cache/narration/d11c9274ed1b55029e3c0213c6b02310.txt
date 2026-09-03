@@ -1,0 +1,9 @@
+Schrödinger equation. The Schrödinger equation is the fundamental law governing how quantum systems evolve in time. In its time-dependent form, it is the quantum analog of Newton's laws—it tells you how a wavefunction changes given the system's total energy, called the Hamiltonian.
+
+Erwin Schrödinger derived this equation in nineteen twenty-six and it works brilliantly for non-relativistic particles. Between measurements, the equation is fully deterministic: if you know the wavefunction now and the energy operator, you can calculate exactly what the wavefunction will be in the future.
+
+Yet the equation is reversible. It respects time-reversal symmetry. You can run time backward and the wavefunction evolves consistently. This creates a paradox: if the equation is reversible, how does quantum measurement appear irreversible? This measurement problem remains unresolved nearly one hundred years later.
+
+The time-independent form is an eigenvalue equation. Solving it tells you the allowed energy levels—the energy eigenvalues—and the corresponding states with definite energy. These stationary states are the solutions to the quantum problem of any confined system, from atoms to molecules to nuclei.
+
+The equation works because it correctly encodes the energy structure of the system. The Hamiltonian combines kinetic energy with whatever potential energy describes the forces. For an electron in an atom, the potential is the Coulomb attraction to the nucleus. Solving this equation yields the atomic energy levels, which perfectly matches what spectroscopy reveals. This success made the Schrödinger equation the foundation of chemistry and materials science.

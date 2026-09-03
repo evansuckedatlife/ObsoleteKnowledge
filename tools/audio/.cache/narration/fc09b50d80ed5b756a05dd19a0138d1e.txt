@@ -1,0 +1,9 @@
+The active site of an enzyme is the specific three-dimensional region where substrate molecules bind and catalysis occurs. Formed by a precise arrangement of amino acids, the active site uses non-covalent interactions to stabilize substrates and facilitate their conversion to products, typically lowering activation energy and conferring the enzyme's characteristic specificity and efficiency.
+
+The active site is a pocket or cleft within the enzyme's tertiary structure, formed by amino acids from distant regions of the protein that fold together. Substrate specificity arises from the shape, charge distribution, and hydrogen-bonding pattern of the active site. The lock-and-key model describes this fit. Though more accurate is the induced-fit model, which allows the enzyme to change shape upon substrate binding.
+
+Non-covalent interactions hold substrate to the active site: hydrogen bonds, van der Waals forces, electrostatic attractions, and hydrophobic effects. These are weak individually but collectively provide both affinity and reversibility. The active site stabilizes the transition state of the reaction more effectively than the ground state, lowering the energy barrier for catalysis.
+
+Some enzymes have allosteric regulation, where regulatory sites distant from the active site, when bound by effector molecules, alter the active site's shape or affinity, enabling feedback control of metabolic pathways. Cofactors and coenzymes, metal ions or small organic molecules like NAD plus or ATP, often participate directly in the active site's catalytic mechanism.
+
+The active site is typically composed of only about five to ten percent of the enzyme's amino acids, despite the whole protein being necessary for its proper fold and function.

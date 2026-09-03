@@ -1,0 +1,9 @@
+Fahrenheit scale. In the early eighteenth century, a German physicist named Daniel Gabriel Fahrenheit set out to create a temperature scale. He defined the freezing point of water as thirty-two degrees Fahrenheit and its boiling point as two hundred twelve degrees Fahrenheit at sea-level atmospheric pressure. Though Celsius has largely replaced it in scientific contexts, Fahrenheit remains the everyday standard in the United States and a few former British territories.
+
+Fahrenheit's original approach was different. He set the lowest temperature he could reliably produce in his laboratory, using a salt-ice mixture, as zero degrees. He set normal human body temperature at ninety-six degrees. The scale was later adjusted so that water would freeze at exactly thirty-two degrees, but the basic proportions remained.
+
+A Fahrenheit degree is smaller than a Celsius degree. One degree Fahrenheit equals five-ninths of a Celsius degree, roughly zero point five six. This means the same temperature difference spans a larger numerical range on the Fahrenheit scale. If you want to convert, the formula is straightforward: Fahrenheit equals Celsius times nine-fifths, plus thirty-two. Or in reverse, Celsius equals Fahrenheit minus thirty-two, times five-ninths.
+
+Water has one hundred eighty degrees between its freezing and boiling points on Fahrenheit. On Celsius, it's one hundred degrees. Negative temperatures are possible on the Fahrenheit scale. Interestingly, minus forty Fahrenheit is the exact point where Fahrenheit and Celsius scales coincide numerically.
+
+The scale is linear, not logarithmic, which enables straightforward arithmetic. It's named after physicist Daniel Gabriel Fahrenheit, who also pioneered the mercury thermometer. Today it competes with the Kelvin scale, which is preferred in physics and chemistry globally, and the Celsius scale, which dominates in scientific use.

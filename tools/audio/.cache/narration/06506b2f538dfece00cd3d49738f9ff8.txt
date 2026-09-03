@@ -1,0 +1,17 @@
+The CPU, or central processing unit. It's the primary computational engine of your computer. It executes program instructions, performs arithmetic and logical operations, and in many ways, orchestrates everything else. Every instruction your programs want to run flows through the CPU.
+
+The CPU works through a fundamental cycle: fetch an instruction from memory, decode what that instruction means, execute it. This fetch-decode-execute cycle is what drives all computation in your computer.
+
+CPUs are measured by clock speed, given in gigahertz, or GHz. This counts how many instruction cycles occur per second. Higher clock speeds generally mean faster computation, though it's not the only factor that matters.
+
+Modern CPUs have multiple cores—independent processing units on a single chip. This allows them to execute different instructions in parallel and handle multitasking much more efficiently. The number of cores and the clock speed together determine how fast your CPU can work.
+
+The CPU connects to all other components through the motherboard and its bus architecture. In a very real sense, the CPU serves as the conductor that orchestrates data flow throughout your entire system.
+
+Right on or near the CPU die sits cache memory in three levels: L1, L2, and L3. This cache holds frequently-used data for rapid access, and it dramatically speeds up computation compared to going all the way to main memory.
+
+Power consumption and heat generation both scale with clock speed and core count. That's why CPUs require cooling solutions—fans or liquid loops—to prevent overheating and performance loss.
+
+Every CPU implements an instruction set architecture, or ISA. The most common are x86 and x64 for Intel and AMD, or ARM for many mobile devices. The ISA defines the vocabulary of instructions a CPU can understand. Software must be compiled for the target ISA, or it simply won't run.
+
+Most consumer CPUs today include integrated graphics. These are called APUs—accelerated processing units. The integrated GPU means you don't need a separate graphics card just to display something on your monitor, though a dedicated GPU is still necessary for demanding graphics work or gaming.

@@ -1,0 +1,13 @@
+Current Limiting. The practice of restricting the maximum electrical current flowing through a component or circuit to safe levels. It prevents damage from overcurrent and is accomplished primarily through resistance, typically via a resistor in series with the load. Current limiting protects sensitive components like LEDs and ICs from burnout, manages power dissipation, and prevents thermal runaway. It is an essential principle in electronics design and circuit protection.
+
+Current limiting is governed by Ohm's Law: current equals voltage divided by resistance. Increasing resistance decreases current, and this relationship is the foundation of the technique. The most straightforward method is placing a resistor in series with the load. For example, an LED driven by a five volt source and requiring twenty milliamps needs a resistor of approximately two hundred and fifty ohms to limit current.
+
+Without current limiting, LEDs would instantly burn out. They have a fixed forward voltage, typically one point eight to three point six volts depending on color, but no internal current regulation. So voltage must be dropped externally through the limiting resistor.
+
+Power dissipation through a current-limiting resistor is given by two equations: P equals I squared times R, or P equals V times I. High dissipation generates heat, requiring adequate resistor power rating—typically one quarter watt, one half watt, or one watt.
+
+There are backup protection devices as well. Fuses and circuit breakers are thermal or magnetic current-limiting devices that protect entire circuits by breaking the connection if current exceeds a threshold. For more sophisticated protection, active current limiting using regulators or operational amplifiers can maintain constant current even as voltage varies, which is critical in precision applications.
+
+Thermal design must account for the heat produced by the current-limiting resistor. Inadequate thermal management can cause the resistor itself to fail or damage nearby components.
+
+The resistor is the primary component used for current limiting, chosen based on desired current and power dissipation. Ohm's Law provides the electrical principle governing the calculations. LEDs are the components most commonly requiring this protection. The circuit is the broader electrical system being protected. Fuses and circuit breakers serve as backup protection devices that limit current when the main limiting fails. And power dissipation represents the energy released as heat by the limiting resistor.

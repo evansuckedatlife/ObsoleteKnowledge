@@ -1,0 +1,7 @@
+Color Charge. An abstract quantum property analogous to electric charge that quarks and gluons possess in quantum chromodynamics, or QCD, the theory of the strong nuclear force. Unlike electric charge, which is called color in analogy, color charge has three types often labeled red, green, and blue, plus their anticolors. It is the source of the strong force and explains why quarks are confined within hadrons and can never exist freely.
+
+Quarks carry color charge. Electrons and photons do not. Only the strong force acts on colored particles. Gluons, the carriers of the strong force, also carry color charge—specifically a color-anticolor pair—making the strong interaction self-coupling.
+
+Unlike electromagnetism, where like charges repel and opposite charges attract, the strong force behaves oppositely at short versus long distances due to asymptotic freedom. Color confinement explains why no isolated quark has ever been observed. As separation increases, the gluon field energy rises until it becomes energetically favorable to create new quark-antiquark pairs.
+
+The three color combinations for baryons must combine to be color-neutral, or white. For example, red plus green plus blue combine to no net color. Meson color must also cancel—a color paired with its anticolor yields white.

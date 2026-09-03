@@ -1,0 +1,9 @@
+Cell Cycle. The regulated sequence of events by which a cell grows, replicates its DNA, and divides into daughter cells. The cell cycle is divided into distinct phases: G1, gap one; S, synthesis; G2, gap two; and M, mitosis. The cycle is orchestrated by checkpoint controls that ensure DNA integrity before progression. Dysregulation of the cell cycle underlies cancer, making it a central topic in biology and medicine.
+
+The cell cycle consists of interphase, which includes G1, S, and G2 phases during which the cell grows and prepares for division, followed by mitosis, or M phase, where the nucleus divides and cytokinesis splits the cytoplasm into two cells. G1 phase is the growth phase after cell division. S phase is when DNA replication occurs via semi-conservative replication. G2 is the final preparation for mitosis.
+
+Checkpoint mechanisms, particularly the G1/S and G2/M checkpoints, monitor DNA integrity, nutrient availability, and growth signals before allowing progression. Damaged DNA can trigger cell-cycle arrest or apoptosis. CDKs, or cyclin-dependent kinases, and cyclins are the molecular regulators of the cell cycle. Cyclin levels rise and fall in concert with cell-cycle phases, activating CDKs at precise times.
+
+The restriction point in G1 is the critical point of no return. After passing it, cells are committed to DNA replication regardless of external signals. Prokaryotes lack a complex cell cycle, dividing by binary fission without the regulatory checkpoints seen in eukaryotes. Eukaryotic cell cycles are far more elaborate and highly controlled.
+
+Cancer cells bypass cell-cycle checkpoints through mutations in tumor suppressors like p53 and oncogenes like RAS, allowing unchecked division and genomic instability.

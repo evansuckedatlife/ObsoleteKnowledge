@@ -1,0 +1,15 @@
+Electron. Negatively charged subatomic particles found in atoms, orbiting nuclei and defining chemical behavior through their arrangement in electron shells. As the lightest charged lepton, they were among the first elementary particles discovered and remain central to understanding atomic structure, chemical bonding, and electricity. Their mass, charge, and quantum properties are precisely defined constants in the Standard Model.
+
+Electrons are elementary particles with negative charge, approximately minus one elementary charge. Their mass is roughly one eighteen hundred thirty-sixth of a proton, or about nine point one one times ten to the negative thirty-first kilograms. They are classified as leptons—the only charged lepton that is stable outside the nucleus. Neutrinos are uncharged leptons.
+
+J.J. Thomson discovered the electron in eighteen ninety-seven through cathode-ray experiments. Robert Millikan later quantified the charge-to-mass ratio through his famous oil-drop experiment. Electrons are spin-one-half fermions following the Pauli Exclusion Principle. No two electrons in an atom can occupy identical quantum states.
+
+They are configured in orbitals around nuclei according to quantum mechanics. Orbital shapes—s, p, d, and f—determine bonding geometry. Electrons form chemical bonds by sharing atoms in covalent bonds or transferring between atoms in ionic bonds. Valence electrons determine chemical properties and reactivity. The electron's antiparticle is the positron, with identical mass but positive charge. When they meet, electron-positron annihilation releases one point zero two two megaelectronvolts of energy as gamma rays.
+
+The flow of electrons through conductors is electric current. Properties like conductivity, semiconductivity, and superconductivity depend on electron availability and mobility. The photoelectric effect demonstrates the particle nature of electrons. Einstein explained how photon energy overcomes work function to eject electrons, proving photons carry discrete energy quanta.
+
+Electrons exhibit wave-particle duality. They show both wave properties like diffraction and interference, and particle properties like localized charge and momentum. Quantum mechanics reconciles these seemingly contradictory behaviors.
+
+Electron shells and valence electrons determine chemical properties. The orbital families predict bonding geometry, electronegativity, and periodic trends in reactivity. In metals, electrons are delocalized across the crystal, forming a sea of electrons that conducts both electricity and heat. In insulators, electrons are tightly bound to atoms.
+
+Electrons belong to the lepton particle family. The Standard Model is the framework predicting electron properties and interactions. Protons are their positively charged counterparts in the nucleus. The nucleus is the structure that attracts electrons via electromagnetic force. Antimatter contains the electron's antiparticle, the positron. And Millikan's oil-drop experiment is the classic experiment measuring electron charge.

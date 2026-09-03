@@ -1,0 +1,15 @@
+Telescope. An optical instrument that uses lenses or mirrors to collect and focus light, magnifying distant objects and enabling observation of faint celestial bodies invisible to the naked eye. Invented in the early seventeenth century and revolutionizing astronomy, telescopes evolved from Galileo's refractors to Newton's reflectors to modern space-based observatories. They are among the most transformative instruments in science, extending human perception across the electromagnetic spectrum.
+
+A refracting telescope uses a large primary lens to focus light. This design is familiar since Galileo's observations in 1610, but large lenses are difficult and expensive to manufacture, and glass absorbs light at wavelengths beyond the visible.
+
+A reflecting telescope uses a concave mirror as the primary element. Invented by Newton in 1668, mirrors are easier to make large and reflect across the entire electromagnetic spectrum from infrared to gamma rays.
+
+Magnification, calculated as primary lens or mirror focal length divided by eyepiece focal length, amplifies angular size. However, light-gathering power, proportional to aperture area, is more important for faint objects and determines limiting magnitude.
+
+Resolving power, the ability to distinguish fine details, is limited by diffraction and is proportional to wavelength and inversely related to aperture diameter. Larger telescopes see finer details.
+
+Chromatic aberration in refractors occurs because different wavelengths focus at different distances, creating color fringes. This is corrected via achromatic lenses or eliminated entirely by reflectors.
+
+Modern ground-based telescopes like Keck with its ten-meter mirror use adaptive optics to correct atmospheric distortion. Space telescopes including Hubble and James Webb escape the atmosphere entirely.
+
+Telescopes operate across the electromagnetic spectrum. Radio telescopes detect centimeter to meter wavelengths. Infrared telescopes observe heat. Ultraviolet and X-ray telescopes require space-based platforms.

@@ -1,0 +1,9 @@
+LED. Light-emitting diode. A semiconductor diode that emits light when forward-biased, converting electrical current directly into photons through electroluminescence. LEDs are among the most efficient light sources available, with lifetimes exceeding fifty thousand hours, and are ubiquitous in indicators, displays, and general illumination.
+
+LEDs emit light via electroluminescence. When a forward-biased diode carries current, electrons recombine with holes in the bandgap, releasing energy as a photon. The bandgap energy of the semiconductor material determines the photon wavelength and thus the color. A wider gap produces shorter wavelength light like blue, while a narrower gap produces longer wavelength light like red.
+
+Forward voltage drop varies with LED color. Red and amber LEDs typically drop one point eight to two point zero volts, green and yellow around two point zero to two point two volts, and blue and white around three point zero to three point five volts. Exceeding the forward voltage by even zero point one to zero point two volts significantly increases current and shortens the LED's life.
+
+Luminous intensity is measured in candelas and depends on forward current. Typical low-power LEDs at twenty milliamps draw one to one hundred millicandelas. A series current-limiting resistor is essential to protect the LED. The resistor is calculated as supply voltage minus the LED's forward voltage drop, divided by the desired current.
+
+High-power LEDs drawing one to one hundred watts require active current limiting, thermal sinking, and careful management to avoid catastrophic failure. RGB LEDs contain red, green, and blue dies in one package. Mixing their brightness levels creates any visible color. Lifespan degrades with temperature and current stress. Operating at fifty percent of rated current extends life significantly compared to operating at maximum current.

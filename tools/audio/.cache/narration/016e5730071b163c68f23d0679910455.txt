@@ -1,0 +1,9 @@
+Quantum tunneling. Quantum tunneling is when a particle penetrates a barrier that classical physics says should block it. Even when the particle's energy is less than the barrier height, the wavefunction does not vanish abruptly at the barrier edge. Instead, it decays exponentially into the forbidden region, with a small but nonzero amplitude on the far side.
+
+The tunneling probability is exponentially sensitive to barrier width and particle mass. Electrons tunnel readily because they are light. Macroscopic objects tunnel with vanishingly small probability because they are heavy. A person will never tunnel through a wall, but electrons tunneling through atoms happens constantly in nature.
+
+Radioactive nuclei decay by alpha tunneling. An alpha particle confined in a nucleus by the strong force tunnels through the Coulomb barrier and escapes, releasing energy in the process. Scientists exploit electron tunneling in scanning tunneling microscopes to image individual atoms and molecules. Tunnel diodes, semiconductor devices, and many biochemical reactions rely on tunneling.
+
+Tunneling emerges directly from the Schrödinger equation. In a classically forbidden region where energy is less than potential, the equation yields exponentially decaying solutions, not zero. The wavefunction never truly vanishes; it just becomes exponentially small. This narrow tail gives a nonzero probability of the particle appearing beyond the barrier.
+
+The uncertainty principle provides a way to understand tunneling. An energy violation is permitted for times on the order of Planck's constant divided by the energy excess. Inside the barrier, brief borrowing of energy allows escape. This time-energy uncertainty is not tight enough to prevent tunneling, especially for light particles tunneling through thin barriers.

@@ -1,0 +1,17 @@
+Evolution. The process by which organisms change over generations through variation, heredity, and differential survival. It is the unifying framework explaining the diversity of life on Earth, driven by natural selection and genetic change. Evolution is not a linear climb toward complexity but a branching tree of adaptive radiation, where populations become increasingly suited to their environments.
+
+Evolution was formally proposed by Charles Darwin and Alfred Russel Wallace. Darwin's Origin of Species, published in eighteen fifty-nine, synthesized biogeography, comparative anatomy, and domestication evidence into a coherent theory.
+
+Natural selection is the primary mechanism. Heritable traits conferring survival or reproductive advantage increase in frequency across generations. It operates on variation within populations. Mutations provide raw genetic variation. Sexual recombination shuffles alleles. Genetic drift causes random frequency changes in small populations.
+
+Adaptation is the result of selection. Traits enhanced by survival or reproductive advantage become common. Directional, disruptive, or stabilizing selection shapes populations in different ways. Fitness, measured as reproductive success, is relative. Alleles increase in frequency if their bearers produce more viable, fertile offspring than the population average.
+
+Fossil record evidence includes transitional forms like Archaeopteryx, the dinosaur-bird. Whale ancestors had hind limbs. Humans and apes share features, demonstrating temporal change in species. Molecular evidence reveals common ancestry. The genetic code is nearly universal across life. DNA and protein homology quantifies relatedness—humans are roughly ninety-eight percent similar to chimpanzees.
+
+Speciation occurs when populations diverge and reproductive isolation prevents gene flow. Geographic, ecological, or polyploid speciation mechanisms are recognized. Microevolution, allele frequency changes in populations, and macroevolution, new species over long timescales, operate on identical mechanisms across geological time.
+
+Key evidence includes comparative anatomy showing homologous structures, embryology showing conserved developmental stages, molecular clocks showing genes mutate predictably, and direct observation in fast-reproducing organisms. Vestigial organs like the appendix, tailbone, and wisdom teeth retain traces of ancestral structures. Genetic junk DNA supports evolutionary continuity from common ancestors.
+
+Evolution is both a scientific fact—populations change—and a theory explaining the mechanism.
+
+Mutations are the source of variation on which selection acts. Genetics is the mechanism of inheritance enabling evolution. Natural selection is the primary driver of adaptive change. The fossil record is the temporal evidence of evolutionary change. Adaptation is the result of evolution, with traits enhanced by natural selection. And Darwin was the naturalist who formulated evolutionary theory.

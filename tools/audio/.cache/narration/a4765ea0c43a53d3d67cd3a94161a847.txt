@@ -1,0 +1,15 @@
+Meiosis. The specialized cell division that produces gametes—sperm and egg—reducing the chromosome number by half, from diploid to haploid, and generating genetic diversity through crossing over and independent assortment. In contrast to mitosis's identical copies, meiosis creates four unique haploid cells from one diploid parent, ensuring that offspring receive exactly one set of chromosomes from each parent. This reduction is essential for sexual reproduction to maintain constant chromosome numbers across generations.
+
+There are two sequential divisions. Meiosis I is the reduction division, separating homologous chromosome pairs. Meiosis II resembles mitosis, separating sister chromatids. Meiosis produces four genetically unique haploid gametes from one diploid precursor. During oogenesis, polar bodies are often non-functional, yielding one egg per meiosis.
+
+In Prophase I, homologous chromosomes pair through synapsis via the synaptonemal complex. Crossing over, or recombination, exchanges DNA segments between non-sister chromatids. In Metaphase I, homologous pairs align randomly at the metaphase plate. Orientation determines which chromosome moves to which pole through independent assortment. In Anaphase I, homologous chromosomes separate—not sister chromatids. Each pole receives one chromosome per homologous pair, randomly assorted.
+
+In Telophase I and cytokinesis, two daughter cells form, each haploid but consisting of unreplicated chromosomes. There is no interphase-like replication before Meiosis II. Meiosis II is essentially mitosis on haploid cells. Sister chromatids separate, yielding four unique haploid gametes in a symmetric division.
+
+Genetic variation arises from crossing over, which occurs approximately 100 to 300 times per human meiosis, and from independent assortment. There are two to the n possibilities for independent assortment; with n equals 23 in humans, there are more than eight million combinations.
+
+Errors in meiosis can occur through nondisjunction—failure to separate homologous chromosomes or sister chromatids, producing aneuploid gametes with the wrong chromosome count. Aneuploidy consequences vary: trisomy twenty-one, or Down syndrome, is viable. Trisomy eighteen and trisomy thirteen are usually embryonic lethal. Monosomy X, or Turner syndrome, is viable. Autosomal monosomies are typically lethal.
+
+Meiosis is the driver of sexual reproduction and genetic diversity. It explains why siblings are unique despite sharing parents.
+
+The cell cycle is a variant in meiosis, specialized for gamete production. Mitosis is the alternative division producing genetically identical somatic cells. Chromosomes are the structures whose segregation defines meiotic stages. Gametes are the end product of meiosis. Sexual reproduction is enabled by meiosis's production of haploid gametes. Genetic recombination is the crossing-over process generating diversity.

@@ -1,0 +1,13 @@
+Gregor Mendel. The Augustinian friar and botanist who conducted systematic breeding experiments on pea plants between 1856 and 1863, uncovering the fundamental laws of heredity. His work launched modern genetics, though no one recognized it during his lifetime.
+
+Mendel chose the garden pea for good reason. The plants were easy to breed, they had many visible traits to track—seed color, plant height, pod shape—and he could make them self-pollinate or cross-pollinate under controlled conditions, which gave him perfect control over his experiments.
+
+He tracked single traits through two generations. When he crossed tall plants with short ones, the offspring all turned out tall. But when he bred those tall offspring together, roughly three quarters came out tall and one quarter came out short. Not a blend, not all tall. Always this precise three-to-one ratio.
+
+From this, Mendel reasoned that each parent contributes one of two trait variants to each offspring. He called this his law of segregation. The paired variants separate during reproduction, which explained why the recessive trait could hide in one generation and reappear in the next.
+
+Then he tracked two traits at once—dihybrid crosses. Different traits segregated independently of each other, a principle now called his law of independent assortment. This founding principle would later be explained by the mechanics of how chromosomes behave during cell division.
+
+Mendel's approach was unusual for biology. He counted thousands of plants and computed ratios. He used mathematics to describe inheritance. This quantitative, statistical approach was pioneering for the field, and his precision gave his conclusions real power.
+
+His work went unrecognized during his lifetime. But in 1900, three biologists independently rediscovered his papers and realized what he had done. He had found the rules that govern heredity, and with that discovery, the science of genetics was born.

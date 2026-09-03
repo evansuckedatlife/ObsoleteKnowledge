@@ -1,0 +1,11 @@
+Factors of production. The resources or inputs that an economy uses to produce goods and services. Economists traditionally identify four: land, which includes natural resources like minerals, forests, and agricultural land; labor, which is human time and effort; capital, which means human-made productive assets like factories and equipment; and entrepreneurship, the organizing force that brings the other three together.
+
+Each factor earns a return. Land earns rent, labor earns wages and salaries, capital earns interest or return on investment, and entrepreneurship earns profit. Understanding how these factors combine is fundamental to analyzing production efficiency and economic growth.
+
+The production function describes how different combinations of factors produce output. As you add more of one factor while holding others constant, you hit diminishing marginal returns—the additional output from each new unit declines. Firms choose input combinations to minimize cost for a given output level or maximize profit at market prices.
+
+Each factor's share of national income reflects its contribution to production. Wages are typically the largest share of income in developed economies, while capital and land earn smaller shares depending on their scarcity and productivity.
+
+Economic growth depends on accumulating more factors—more capital investment, more education to boost labor skill—or using them more efficiently through technology. Poor countries often lack capital and infrastructure. Development requires both capital investment and human capital formation.
+
+This framework explains why wages rise when workers are more educated or when capital is scarce and labor becomes more valuable. It also clarifies why income distribution reflects factor scarcity: countries abundant in agricultural land like Argentina and Ukraine have cheap land and high agricultural output, while countries with little land but educated workers, like Switzerland, specialize in high-value services. It underpins debates about inequality too: if economic growth primarily increases returns to capital, income inequality widens; if growth increases wages, inequality narrows.

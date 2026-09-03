@@ -1,0 +1,33 @@
+The motherboard. It's the central circuit board of your computer—the platform that physically and electrically integrates everything. The CPU, memory, storage, expansion cards—they all plug into the motherboard. It provides sockets and slots for each component, carries the buses that route data and control signals, and distributes power to everything. In many ways, the motherboard is both the nervous system and skeleton of your computer combined. It's where all computation occurs, and it's the interface between all the specialized subsystems.
+
+At its core, the motherboard is a routing and power-distribution layer. Every major component plugs directly into it, or connects via cable. It's the physical backbone.
+
+The chipset is a collection of integrated circuits—historically called the northbridge and southbridge, but now often unified on modern designs—that orchestrates data flow between the CPU, RAM, storage devices, and I/O controllers. The chipset is often the primary determinant of a motherboard's generation, performance class, and features.
+
+Multiple buses route data across the motherboard. The front-side bus, or FSB, is now largely obsolete, but historically connected the CPU to RAM and graphics. The PCI Express bus connects expansion cards. The DMI, or Direct Media Interface, connects chipset components together.
+
+The motherboard has a power delivery network, or PDN. This is a collection of voltage regulators that convert the raw power from the PSU—12 volts, 5 volts, 3.3 volts—into the specific, stable voltages each component needs. The CPU might need 1.2 volts. RAM needs 1.35 volts. I/O circuits need 3.3 volts. The PDN has capacitors and inductors that filter the power supply and smooth out transients to maintain voltage stability even when load changes rapidly.
+
+Every motherboard has a CPU socket—for example, Intel LGA1700 or AMD AM5. Your CPU socket determines which processor generations you can install. Socket compatibility is a critical hardware constraint and defines how long a motherboard stays relevant.
+
+RAM inserts into vertical slots called DIMM sockets. The motherboard provides timing, voltage control, and ECC support if implemented.
+
+Expansion slots let you install graphics cards, network adapters, sound cards, and other peripherals. These are PCIe slots in various lane configurations—x16, x8, x4, x1—and there's also legacy PCI support on some boards. The specific slot configuration and lane allocation varies by motherboard model.
+
+Storage connects via SATA or NVMe M.2 slots. Modern motherboards typically support anywhere from 2 to 6 SATA ports and 2 to 4 NVMe slots.
+
+The firmware on your motherboard is BIOS or UEFI—stored in a non-volatile chip. During boot, this firmware initializes your hardware, performs a power-on self-test, loads the operating system, and provides configuration and diagnostic interfaces.
+
+Your motherboard has a battery-backed real-time clock and CMOS RAM that maintains system time and BIOS settings when the computer is powered off. A coin-cell battery keeps this memory alive.
+
+Modern BIOS also allows overclocking. You can modify CPU frequency, voltage, and timing parameters, though of course there are stability and thermal risks.
+
+Motherboards come in different form factors. ATX is the standard desktop size, approximately 305 by 244 millimeters. It supports 6 to 8 DIMM slots, 6 to 8 SATA connections, and multiple PCIe slots.
+
+Micro-ATX is smaller, about 244 by 244 millimeters. It has fewer expansion slots—typically 4 DIMM, 4 SATA, and 2 to 3 PCIe.
+
+Mini-ITX is even more compact at about 170 by 170 millimeters. It has minimal slots and ports but fits in small-form-factor PCs.
+
+E-ATX is larger than standard ATX. It supports 8 or more DIMM slots and is used in high-end workstations and servers.
+
+The motherboard is the integrating platform that defines what a computer is. It enforces compatibility standards like socket and chipset and bus protocols. It distributes power fairly and stably. It sequences the handshake between all your specialized chips. Understanding the motherboard is essential for building systems, troubleshooting when something fails, and designing specialized machines like gaming rigs with high power delivery, workstations with multiple GPUs, or servers with management interfaces.

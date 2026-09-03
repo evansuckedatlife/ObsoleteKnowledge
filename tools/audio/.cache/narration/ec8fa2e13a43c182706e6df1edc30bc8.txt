@@ -1,0 +1,11 @@
+Frequency. It's the number of complete cycles or oscillations an event undergoes per unit time, measured in hertz or cycles per second. Fundamental to understanding waves, signals, vibrations, and periodic phenomena from sound waves to electromagnetic radiation.
+
+Frequency is the inverse of period. If a wave completes one cycle in point-zero-one seconds, its frequency is exactly one hundred hertz. Higher frequencies correspond to shorter wavelengths, though the relationship depends on wave speed. Wavelength equals speed divided by frequency.
+
+Sound waves range from roughly twenty hertz in the infrasound below human hearing, felt as vibrations, all the way up to twenty thousand hertz in ultrasound beyond human hearing, used in medical applications. Human speech occupies the hundred to eight thousand hertz range, with vocal cords vibrating at fundamental frequencies within this band.
+
+Electromagnetic radiation spans all frequencies from extremely low frequency power lines at fifty to sixty hertz to gamma rays above ten to the nineteenth hertz. Frequency content of a signal can be analyzed using the Fourier transform, a mathematical operation that decomposes any complex waveform into its constituent sine waves at different frequencies.
+
+Filters in electronic circuits can selectively pass, block, or amplify signals at specific frequencies. Their cutoff frequency determines the dividing point, separating signal from noise in audio, radio, and data transmission applications.
+
+In quantum mechanics, the energy of a photon is directly proportional to its frequency. As you explore frequency further, you'll find it connects to waveform, the inverse quantity of period, signal processing, Fourier series, filter circuits, and oscillation itself.

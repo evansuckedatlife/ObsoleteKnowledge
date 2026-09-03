@@ -1,0 +1,11 @@
+The Millikan Oil-Drop Experiment. Between 1909 and 1916, a physicist named Robert Millikan sprayed tiny oil droplets into an electric field and measured their motion. From this simple observation, he determined the charge of the electron and proved that electric charge comes in discrete units—a revolutionary finding.
+
+Millikan's method was elegant. He suspended oil droplets in air, adjusting an upward electric field until the electrostatic force perfectly balanced the droplet's weight. When equilibrium was reached, the droplet hung motionless.
+
+From the droplet's mass—which he calculated from its density and size, measured using a separate terminal velocity test—and the strength of the electric field, he could compute the charge on the droplet. He tested thousands of droplets, each one acquiring a different charge by picking up additional electrons.
+
+Here was the remarkable discovery. The charge on every droplet was always an integer multiple of a base unit. The charge was quantized. This base unit was the charge of a single electron, approximately 1.602 times ten to the minus nineteenth coulombs.
+
+Before Millikan's measurements, the quantization of charge was a radical idea that many physicists rejected. His precision was extraordinary for the era. His values became the accepted standard for decades.
+
+The experiment was also extraordinarily elegant in how it worked. It reduced a submicroscopic property—the charge on an electron—to measurements of macroscopic objects you could actually observe: the motion of oil droplets and the voltage needed to suspend them. This scaling down of the quantum to the visible world exemplified the ingenuity of experimental physics.

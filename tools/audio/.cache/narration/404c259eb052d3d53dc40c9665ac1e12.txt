@@ -1,0 +1,9 @@
+Wavefunction. The wavefunction is the central object of quantum mechanics. It encodes all the information about a quantum system. When you square its magnitude at a location, you get the probability density of finding the particle there.
+
+But the wavefunction itself is complex-valued. It carries phase information that the probability alone does not. This phase is crucial: when two wavefunctions overlap with different phases, they interfere. Constructive and destructive interference determine quantum behavior in ways that probabilities alone cannot explain.
+
+A wavefunction can be a superposition of multiple basis states. Before measurement, all those states coexist. The particle is not in one definite state until you measure it. Upon measurement, the superposition collapses to a single outcome according to probabilities written in the wavefunction's coefficients.
+
+The wavefunction must be normalized: the total probability of finding the particle somewhere is one. It must also be square-integrable, meaning its amplitude decays sufficiently at infinity. For multi-particle systems, the wavefunction lives in a high-dimensional space, one dimension per particle coordinate. When particles are identical fermions, the wavefunction must be antisymmetric under particle exchange—this is how the Pauli exclusion principle enters the picture.
+
+Erwin Schrödinger introduced the wavefunction in nineteen twenty-six. It remains the most mysterious and debated object in physics. What does it mean before measurement? Does it represent reality itself, or merely our knowledge? The measurement problem persists unsolved today.

@@ -1,0 +1,9 @@
+Gene. A discrete functional unit of DNA that encodes instructions for building proteins or producing RNA molecules that cells need to function. Genes are the molecular basis of heredity, passed from parents to offspring, determining inherited traits. A gene's specific sequence of nucleotides dictates the sequence of amino acids in a protein, linking genotype, or genetic makeup, to phenotype, or observable traits.
+
+Genes consist of a promoter region where RNA polymerase binds, the coding sequence, and regulatory elements that control when and how often the gene is transcribed. One gene typically codes for one polypeptide or protein, though some genes produce non-coding RNA like rRNA, tRNA, or miRNA instead.
+
+Different versions of a gene at the same location are called alleles, and they may differ by one nucleotide or larger stretches. Genes are expressed as proteins through two steps: transcription, where DNA becomes mRNA, and translation, where mRNA becomes protein.
+
+A single mutation in a gene can change one amino acid, potentially causing disease. Sickle-cell anemia comes from a single nucleotide change in the beta-globin gene. Not all DNA is coding. Only about one-point-five percent of the human genome consists of protein-coding genes. The rest includes regulatory and non-coding sequences.
+
+As you explore genes further, they connect to DNA, protein synthesis, alleles, mutations, the concept of heredity, and transcription itself. Genes are segments of DNA. Proteins are made through gene expression. Alleles are different versions of genes. Mutations change gene sequences and alter function, and genes are the physical basis of inheritance.

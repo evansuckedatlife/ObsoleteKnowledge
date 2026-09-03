@@ -1,0 +1,13 @@
+Genetic Code. The universal dictionary that translates nucleotide sequences in DNA and RNA into protein sequences, using three-nucleotide codons to specify amino acids or stop signals. Cracked in the nineteen-sixties by Nirenberg, Khorana, and others, it revealed that the same sixty-four codon rules apply across nearly all life, from bacteria to humans. This near-universality points to a common evolutionary origin and makes molecular biology quantitative.
+
+The code is based on triplet codons. Each three-nucleotide mRNA sequence specifies one amino acid or a stop signal. Sixty-four codons code for twenty standard amino acids plus stop signals. Redundancy, or degeneracy, means multiple codons specify the same amino acid.
+
+The wobble position matters. The third codon position allows non-standard base pairing. One tRNA's anticodon can decode multiple codons, reducing the required tRNA types from sixty-four to roughly forty to sixty.
+
+This code is nearly universal across all domains, though rare variant codes exist in mitochondria, where UGA codes for tryptophan instead of stop, and in some Candida species and bacterial lineages.
+
+AUG initiates translation and codes for N-formyl-methionine in prokaryotes or methionine in eukaryotes. Three stop codons terminate translation. During translation, transfer RNAs decode the message. Each tRNA has an anticodon that binds to mRNA, and a cognate amino acid attached by aminoacyl-tRNA synthetase.
+
+The code is non-overlapping and non-punctuated. The ribosome reads mRNA in a fixed reading frame, three nucleotides per codon, without gaps or overlaps. Nirenberg determined the code empirically using synthetic RNA templates synthesizing polypeptides without cells. Khorana used sequential trinucleotide decoding.
+
+The genetic code is degenerate, which buffers mutations. Third-position substitutions often don't change amino acids, creating silent mutations that protect protein function. Near-universality suggests common evolutionary origin of all known life, though variant codes evolved separately in mitochondria and isolated lineages after billions of years of divergence. Redundancy in the genetic code buffers mutations, protecting protein function from nucleotide changes.

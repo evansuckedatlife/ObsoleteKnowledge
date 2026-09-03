@@ -1,0 +1,7 @@
+Hellmuth Walter. German rocket and propulsion engineer who pioneered hydrogen peroxide and methanol powered engines and turbopump systems for liquid-fueled rockets. Though less celebrated than von Braun, Walter's innovations in high-performance propellant combinations and engine efficiency made him a foundational figure in German rocketry.
+
+He developed the hydrogen peroxide and methanol engine for the Messerschmitt Me 163 jet-powered interceptor between 1941 and 1945, which used rocket thrust to achieve extreme altitudes and speeds. This was the first operational rocket-powered aircraft. Walter designed turbopumps — centrifugal pumps driven by rocket exhaust — to pressurize liquid propellant tanks, solving a critical engineering problem that allowed engines to run at higher pressures and efficiency.
+
+He experimented with hydrogen peroxide as both a propellant and a gas generator, pioneering monopropellant engines that decompose catalytically without mixing two liquids. His designs influenced postwar rocket development globally, and both Soviet and American engineers studied Walter's propulsion systems after World War II. Working in relative obscurity compared to von Braun, his contributions were more specialized, focused on propulsion rather than systems integration.
+
+After the war, Walter continued innovating in small rocket engines and was consulted on reaction control systems for spacecraft. His work influenced all subsequent rocketry.

@@ -1,0 +1,11 @@
+The Davisson-Germer Experiment. In 1927, two physicists named Clinton Davisson and Lester Germer fired a beam of electrons at a nickel crystal and observed something that seemed impossible. The electrons behaved like waves, not particles. This result proved a bold theoretical prediction and changed how we understand matter itself.
+
+Davisson and Germer had initially set out to study how electrons scatter off crystal surfaces. An accident helped them. A heating episode altered the nickel's crystalline structure, and when they repeated their measurements, they saw an unexpected pattern.
+
+Electrons scattered at certain angles with maxima and minima—the distinctive diffraction pattern of waves passing through a crystal lattice. It was the same kind of pattern you see when light passes through a slit, creating alternating bright and dark bands.
+
+Using Bragg's law, which describes how X-rays diffract through crystal structures, they calculated the wavelength of the electron beam from the diffraction pattern. And the wavelength matched perfectly with a prediction made by Louis de Broglie four years earlier. De Broglie had hypothesized that all matter carries a wave character, with wavelength equal to Planck's constant divided by momentum.
+
+The experiment required only electron energies of fifty to one hundred fifty volts, low enough to be practical. Yet the wavelengths were around a tenth of a billionth of a meter—comparable to atomic spacings and perfect for revealing the wave nature of matter.
+
+George Thomson, the son of the physicist who had discovered the electron as a particle, independently confirmed electron diffraction at around the same time. His confirmation solidified the reality of the effect. Electrons are both particles and waves, and the Davisson-Germer experiment proved it experimentally.

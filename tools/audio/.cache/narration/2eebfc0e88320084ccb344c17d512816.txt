@@ -1,0 +1,9 @@
+Checks and Balances. The constitutional principle that the three branches of government—executive, legislative, and judicial—hold reciprocal powers to constrain one another, preventing tyranny and the concentration of power. Enshrined in the U.S. Constitution in 1787, this doctrine distributes authority so that no single branch can unilaterally dominate, requiring cooperation and compromise for major decisions.
+
+The Framers of the Constitution drew on Montesquieu's theory of separation of powers, which posited that tyranny arises when executive, legislative, and judicial authority concentrate in one body. Distribution of these powers prevents abuse.
+
+The Executive, or President, nominates judges, commands the military, directs foreign policy, and can veto legislation. But the Legislative branch, Congress, confirms judges, controls spending, declares war, and can override a veto with a two-thirds majority. The Judiciary, consisting of courts and ultimately the Supreme Court, interprets the Constitution and laws, can void unconstitutional acts through judicial review, and tries impeachments. But it cannot initiate action and depends on cases brought to it.
+
+Congress must approve the President's budget, can impeach and remove the President and judges, ratifies treaties through the Senate, and declares war. The President can veto bills, propose legislation, and appoint federal judges. The Senate confirms or rejects presidential appointments including judges, cabinet officers, and ambassadors. The House initiates impeachment. Both chambers must pass legislation for it to become law.
+
+Marbury v. Madison in 1803 established that courts can strike down unconstitutional laws, a critical check against legislative overreach and a keystone of the system. The system requires compromise and consensus, making unilateral action difficult. Critics note it can also create gridlock and slow responses to crises.

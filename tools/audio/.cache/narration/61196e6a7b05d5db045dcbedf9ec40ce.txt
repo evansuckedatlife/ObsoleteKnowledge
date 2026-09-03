@@ -1,0 +1,13 @@
+Cache Memory. Cache memory is a small, extremely fast data storage system positioned between the CPU and main RAM that holds frequently accessed data and instructions, reducing the latency cost of fetching from slower main memory. Modern CPUs contain multiple cache levels—L1, L2, and L3—in a hierarchical arrangement where smaller caches are faster but hold less data. Cache design, through algorithms determining which data to keep and when to evict it, is central to CPU performance and is one of computer architecture's most critical optimization challenges.
+
+Cache memory operates on the principle of spatial and temporal locality. Programs tend to re-access recently used data—temporal locality—and data near recently accessed data—spatial locality. Cache exploits both by storing nearby blocks.
+
+L1 cache, the primary cache, is tiny—about thirty-two kilobytes per core—and integrated directly on the CPU die. It operates at CPU speed with nearly zero latency. L2 cache is larger, around two hundred fifty-six kilobytes, and slightly slower. L3, the last-level cache, is shared among cores and ranges from eight to twenty megabytes, operating more slowly still.
+
+The cache miss rate is critical to performance. Accessing L1 costs roughly four cycles, L2 costs about ten cycles, L3 costs around forty cycles, and main RAM access costs over two hundred cycles. Reducing miss rates by even a few percent significantly improves performance.
+
+Cache coherence is complex in multi-core systems. If one core modifies data in its cache, other cores must be notified so they don't use stale copies. Coherence protocols use messages between caches to maintain consistency.
+
+Cache eviction policies, or replacement algorithms, determine which data to remove when cache is full. Common strategies include least-recently-used, least-frequently-used, and random replacement, each with different trade-offs.
+
+Cache line is the basic unit—data is loaded or stored in fixed-size blocks, typically sixty-four bytes. Loading a single byte may pull sixty-four bytes into cache, which is beneficial if nearby bytes are used but wasteful if they are not. Instruction cache and data cache are often separated at L1 for faster parallel access, though unified caches at higher levels reduce complexity and improve flexibility.

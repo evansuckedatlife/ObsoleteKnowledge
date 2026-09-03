@@ -1,0 +1,9 @@
+Spin. Spin is an intrinsic form of angular momentum that electrons, photons, and quarks carry from birth. It has no classical analog—it is not that the electron is literally spinning. Even a point electron would have to spin faster than light to generate the observed angular momentum, which is impossible.
+
+Instead, spin is a purely quantum property woven into the wavefunction. For electrons, the spin quantum number is one-half, meaning the component of spin along any axis is either plus or minus Planck's constant divided by two. Photons have spin one; other particles have other values.
+
+Measuring spin along any axis yields a discrete outcome: spin-up or spin-down for electrons. But a single electron is in a superposition of both states until you measure. The Stern-Gerlach experiment demonstrated this discrete nature a century ago and remains the canonical proof of spin quantization.
+
+Spin couples to magnetic fields. The magnetic moment of the electron—its intrinsic magnetism—arises entirely from spin. This is why magnets work: many electrons aligned with their spins pointing the same direction create a net magnetic field.
+
+In atoms, spin is crucial to chemistry. Two electrons can occupy the same orbital only if they have opposite spins. Spin-orbit coupling makes spin depend on orbital angular momentum, breaking degeneracies and creating fine structure in atomic spectra. Spin emerged naturally from relativistic quantum mechanics in Dirac's equation, revealing that relativity and quantum mechanics must be united to understand spin.

@@ -1,0 +1,9 @@
+The Mean Value Theorem, often abbreviated MVT, states that for a function continuous on a closed interval and differentiable on the open interval, there exists at least one point where the instantaneous rate of change equals the average rate of change over the interval. In geometric terms, it guarantees that the slope of the tangent line at some interior point is parallel to the secant line passing through the endpoints. It is one of the most important theoretical results in calculus, serving as the foundation for proving many other key theorems.
+
+Formally, if f is continuous on the closed interval from a to b and differentiable on the open interval from a to b, then there is some c in that open interval such that f prime of c equals f of b minus f of a, all divided by b minus a. This equation says the instantaneous rate of change at c equals the average rate of change over the entire interval.
+
+Rolle's theorem is a special case of the Mean Value Theorem. It applies when f of a equals f of b, and it guarantees the existence of a point c where the derivative f prime of c equals zero. In other words, if the function has the same value at both endpoints, somewhere in between the function must have a horizontal tangent.
+
+The theorem requires both continuity on the closed interval and differentiability on the open interval. If either condition fails at even a single point, the guarantee doesn't hold. The Mean Value Theorem is used to prove a fundamental fact: if f prime of x equals zero everywhere on an interval, then f of x is constant. This result justifies the arbitrary constant of integration, the plus C you add when computing indefinite integrals.
+
+The Cauchy Mean Value Theorem generalizes this result to two functions. It states that the ratio f of b minus f of a, over g of b minus g of a, equals f prime of c divided by g prime of c, under similar continuity and differentiability conditions.

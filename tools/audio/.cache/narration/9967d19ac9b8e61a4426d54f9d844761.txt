@@ -1,0 +1,9 @@
+Bose-Einstein condensate. A Bose-Einstein condensate is a state of matter where a macroscopic number of particles occupy the same lowest-energy quantum state. Individual particles lose their identity and behave as a single coherent quantum object, exhibiting phenomena no classical system can produce.
+
+This condensation occurs only for bosons—particles with integer spin like photons and gluons. Fermions, with their half-integer spin, obey the Pauli exclusion principle and cannot do this. Bosons have no exclusion limit; arbitrarily many can occupy the same state.
+
+Creating a condensate requires incredibly low temperatures where thermal energy becomes comparable to the spacing between quantum levels. Particles "fall" into the ground state rather than spreading across excited states. Albert Einstein and Satyendra Nath Bose predicted this phenomenon in the nineteen twenties using quantum statistics, but it remained theoretical for seventy years. Not until nineteen ninety-five did experimenters first create a condensate by laser-cooling rubidium atoms.
+
+In the condensate, all particles share a single wavefunction and phase. They move together as one entity. The condensate exhibits macroscopic quantum effects visible to human scales: quantum interference, persistent vortices, and zero viscosity where superfluid flow experiences no friction from container walls.
+
+The condensate is an extreme case of superposition—many particles literally in the same state at once. It reveals that quantum mechanics governs not just the atomic realm but can produce visible phenomena when conditions align perfectly. Modern quantum computers exploit similar physics, keeping systems at near-absolute-zero temperatures to preserve the coherence needed for quantum advantage.

@@ -1,0 +1,7 @@
+Enharmonic notes are two different pitch notations that sound identical on a piano or most instruments but have different names and spellings. C-sharp and D-flat are the classic example. In equal temperament—the modern tuning system we use today—enharmonic equivalents sound the same but are written differently. You'll see this with E and F-flat, or B and C-flat.
+
+On a piano, the same physical key plays both enharmonic pitches. But wind and string players have to adjust their intonation slightly differently depending on which enharmonic the composer writes. Enharmonic spelling isn't arbitrary, though. It depends on the key signature and harmonic context. B-sharp and C are enharmonic, but B-sharp appears in the key of C-sharp major, not in the key of C major.
+
+This matters historically too. In earlier tuning systems like just intonation and Pythagorean tuning, enharmonic notes weren't actually identical in pitch. They had subtle but audible differences in intonation.
+
+Confusion over enharmonic equivalence affects music theory reading and composition. A musician who misreads C-sharp as D-flat might play the right pitch but analyze the harmony incorrectly. The word "enharmonic" itself comes from ancient Greek music theory, but it had a completely different meaning back then. In ancient theory, it referred to microtonal distinctions, not to exact pitch equivalence like we think of it today.

@@ -1,0 +1,7 @@
+Quantization. Quantization is the principle that energy, angular momentum, and other observables cannot take on any value. They come in discrete packets. In the classical world, you can spin a wheel at any speed. In the quantum world, a particle's angular momentum is restricted to specific allowed values.
+
+Electrons in atoms occupy specific shells at fixed distances from the nucleus, not at arbitrary positions. Photons carry energy only at specific frequencies related to Planck's constant. A particle confined to a box has only certain allowed wavelengths, which means only certain allowed momenta and energies.
+
+This discrete nature arises because of boundary conditions. When a quantum wave is confined, only certain wavelengths fit perfectly inside that region. The others do not constructively add up. This constraint generates all the structure you see: the periodic table, atomic stability, chemistry itself.
+
+The blackbody radiation puzzle that stumped nineteenth-century physicists was solved once Planck assumed energy quantization. Vibrational modes in solids come in quanta called phonons. But the deepest insight is why quantization happens: it is not imposed by hand. It emerges necessarily from the Schrödinger equation once you apply boundary conditions. Atoms do not collapse because lower energy states are already full, blocked by the Pauli exclusion principle.

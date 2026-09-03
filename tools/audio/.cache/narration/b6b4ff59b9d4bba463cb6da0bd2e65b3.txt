@@ -1,0 +1,7 @@
+Wave-particle duality. All matter and energy exhibit both wave and particle properties, but only one at a time, depending on how you observe them. Louis de Broglie showed that particles carry an associated wavelength inversely related to their momentum. Conversely, light waves behave as discrete quanta—photons with particle-like energy and momentum.
+
+Neither picture is complete by itself. Electrons show wave behavior: they diffract and interfere just like light waves. Yet when you try to detect them, they arrive as discrete particles, one at a time. The double-slit experiment is the classic demonstration. Electrons create interference patterns—wave behavior—yet individual detectors click one photon at a time—particle behavior.
+
+The wavelength of an object becomes noticeable only when it is comparable to the apparatus size. A baseball has a wavelength too tiny to detect with any instrument, which is why you never see baseballs diffracting. But electrons, with their small mass, have wavelengths comparable to atoms, so wave effects dominate at atomic scales.
+
+The resolution is that quantum objects are fundamentally neither waves nor particles but something more subtle. They are described by wavefunctions that carry both aspects simultaneously. The uncertainty principle connects the two: if you confine a particle to a tiny region, you gain position information but lose momentum information. Spread the wavelength short enough and the momentum uncertainty becomes large, which is why confinement always costs energy.

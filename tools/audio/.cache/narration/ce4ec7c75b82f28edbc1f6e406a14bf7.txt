@@ -1,0 +1,11 @@
+Periodic Function. A periodic function repeats its values at regular intervals. It satisfies f of x plus p equals f of x for all x, where p is the period. Periodic functions model cyclical phenomena—seasons, tides, heartbeats, light waves—and are the language of oscillatory systems throughout physics and engineering.
+
+Formally, a function f is periodic with period p, where p is greater than zero, if f of x plus p equals f of x for all x in the domain. The fundamental period is the smallest positive p for which this property holds.
+
+The sine and cosine functions are perhaps the most famous periodic functions in mathematics. Both have period two pi. The tangent function has a different period: pi. More generally, sine of k times x has period two pi over k. This relationship between a multiplier and the period is central to analyzing oscillations in applied mathematics and engineering.
+
+A periodic function is bounded if its range is a closed interval. For instance, sine of x and cosine of x are bounded on the interval from negative one to one. Every value these functions produce lies within that range.
+
+Not all periodic functions are continuous or even bounded. The sawtooth wave, which ramps up linearly and then drops, is periodic but has jump discontinuities. The square wave, which alternates abruptly between two values, is also periodic but discontinuous. Even more exotic is the Dirac comb, an idealized periodic train of impulses used in signal processing and physics.
+
+Fourier series are the primary tool for analyzing periodic functions. They decompose any periodic function into a sum of sines and cosines at different frequencies. This decomposition is central to signal processing, where engineers convert signals between time and frequency domains to understand and manipulate them. In physics, Fourier series appear in the study of waves, heat diffusion, and quantum mechanics, making periodicity and harmonic decomposition fundamental concepts across the sciences.

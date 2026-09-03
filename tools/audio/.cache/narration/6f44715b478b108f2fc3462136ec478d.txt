@@ -1,0 +1,11 @@
+Electronegativity. A measure of an atom's tendency to attract electrons toward itself in a chemical bond. Elements with high electronegativity strongly pull electrons away from bonding partners. Those with low electronegativity release electrons more readily. This property determines bond type and molecular polarity.
+
+Electronegativity is a relative scale with no absolute unit. It depends on the atom's position in the periodic table and its nuclear charge. Fluorine is the most electronegative element. Alkali metals, like lithium, sodium, and potassium, are the least electronegative.
+
+Differences in electronegativity between bonded atoms predict bond type and character. Large differences create ionic bonds. Small differences create covalent bonds. The Pauling scale quantifies electronegativity on a scale of roughly zero point seven to three point nine eight. This allows chemists to predict bond polarity numerically.
+
+High electronegativity elements like oxygen, nitrogen, and halogens strongly attract electrons. This creates permanent dipoles in molecules. This unequal electron distribution makes water and ammonia highly polar solvents. Electronegativity increases moving up and to the right on the periodic table, toward fluorine, the most electronegative element. It decreases moving down and to the left, toward cesium and francium, the least electronegative metals. This pattern reflects the balance of nuclear charge and electron shielding.
+
+Electronegativity differences explain both bond polarity and reactivity. Highly electronegative atoms readily gain electrons to become anions. Weakly electronegative atoms readily lose electrons to become cations. These tendencies drive ionic bonding and chemical reactions.
+
+Atoms are the units to which electronegativity applies. Chemical bonds form between atoms according to their electronegativity difference. Electrons are the particles that electronegativity describes an atom's attraction for. Polarity is a direct consequence of electronegativity differences in molecules. The Pauling scale is the quantitative scale for measuring electronegativity. And ions form when electronegativity differences are extreme, leading to ionic bonding.

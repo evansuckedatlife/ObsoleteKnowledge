@@ -1,0 +1,15 @@
+Memory Hierarchy. The tiered organization of computer memory from fast and small at the CPU registers to slow and large at disk storage—a fundamental principle of computer architecture. Each tier serves a distinct role. Fast memories hold active data for immediate computation, while slower layers provide bulk storage at lower cost. This hierarchy bridges the vast performance gap between modern processors and disk drives, enabling practical computing at scale.
+
+The memory hierarchy typically consists of CPU registers, which are fastest and smallest, followed by L1, L2, and L3 cache, which are progressively slower and larger. Then comes RAM, the main memory, and finally disk storage, which is slowest and largest.
+
+Access latency increases dramatically across tiers. Register access is approximately one nanosecond. L1 cache is approximately four nanoseconds. Main memory is approximately 100 nanoseconds. Disk access is approximately ten milliseconds.
+
+Capacity increases inversely with speed. Registers hold kilobytes. Caches hold megabytes to tens of megabytes. RAM holds gigabytes to hundreds of gigabytes. Disks hold terabytes. Cache operates on the principle of locality. Programs repeatedly access nearby memory locations, called spatial locality, and recently used data, called temporal locality.
+
+Cache misses—when requested data is not in fast memory—force slower access times, creating a performance penalty that grows with each level accessed. Virtual memory uses disk storage to extend apparent RAM capacity, swapping data between disk and main memory as needed, trading performance for greater address space.
+
+The design of memory hierarchies shapes algorithms and programming practices. Cache-efficient sorting and matrix multiplication exploit data locality to minimize stalls. L3 cache is shared among multiple CPU cores, while L1 and L2 caches are typically private to each core, enabling fine-grained control of data coherence. Write policies, whether write-through or write-back, in cache layers determine how changes propagate down the hierarchy, affecting both performance and data consistency.
+
+Modern processors optimize for sequential access patterns by prefetching data into cache before it is requested, anticipating program behavior to reduce latency.
+
+Cache memory is the fast intermediate storage between CPU and main memory. RAM is random-access memory occupying the middle tier of the hierarchy. The central processing unit is the processor whose performance depends critically on memory latency. The motherboard is the physical substrate integrating multiple hierarchy tiers. Latency is the delay in accessing data, varying by orders of magnitude across tiers. Storage devices provide persistent disk storage at the base of the hierarchy.

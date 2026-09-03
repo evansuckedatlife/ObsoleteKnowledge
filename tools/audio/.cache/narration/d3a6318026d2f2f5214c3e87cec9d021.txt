@@ -1,0 +1,11 @@
+Electrolyte. A substance that conducts electricity when dissolved in a solvent, usually water, or in molten form. It contains ions, charged particles, that move freely and carry electrical current. Electrolytes are essential in batteries, physiological processes, and any application requiring ionic conduction.
+
+Electrolytes are compounds that dissociate, or break apart, into positively charged cations and negatively charged anions when dissolved. Common examples include salts like sodium chloride, acids like hydrochloric acid, and bases like sodium hydroxide. The conductivity of an electrolyte depends on ion concentration, temperature, and the mobility of ions in the medium.
+
+In batteries, electrolytes play a crucial role. They allow ions to flow between the anode and cathode internally, completing the circuit and enabling sustained electron flow through an external circuit. This is the basis for all electrochemical power sources.
+
+Physiological electrolytes like sodium, potassium, and chloride regulate nerve signals, muscle contraction, and fluid balance in living organisms. There are two categories of electrolytes based on their behavior in solution. Strong electrolytes, like salt sodium chloride and strong acids such as hydrochloric acid, dissociate nearly completely into ions. Weak electrolytes, like acetic acid and ammonia, only partially dissociate, reaching equilibrium with their molecular form.
+
+Electrolyte imbalance in the body can cause serious health consequences. Hyponatremia, low sodium, causes confusion and seizures. Hyperkalemia, high potassium, disrupts heart rhythm and can cause cardiac arrest. Athletes and kidney patients are especially vulnerable to these imbalances.
+
+Ions are the charged particles that make electrolytes conductive. Charge is the property that electrolytes carry and transmit. Electrical conductivity is the property electrolytes exhibit in solution or molten state. Muscle contraction depends on electrolyte gradients across cell membranes. Sodium is a major physiological electrolyte regulating nerve and muscle function. Potassium is essential for heart rhythm and cellular function. And nerve transmission relies on electrolyte ion gradients for action potentials.

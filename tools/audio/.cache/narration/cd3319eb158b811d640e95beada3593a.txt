@@ -1,0 +1,19 @@
+Transport Protein. A membrane-spanning protein that facilitates the movement of substances across the cell membrane, enabling cells to import nutrients, export waste, and maintain ionic balance. These specialized proteins function as channels, carriers, and pumps, selectively transporting ions, glucose, amino acids, and other molecules either passively, down concentration gradients, or actively, against gradients using ATP energy. Transport proteins are essential to cell survival and represent prime targets for pharmaceutical intervention.
+
+Channel proteins form pores or tunnels through the membrane, allowing specific molecules to flow passively down their concentration gradients. They are selective for particular ions or molecules.
+
+Carrier proteins, also called permeases, bind substrates on one side of the membrane, undergo conformational change, and release them on the other side. They mediate both passive and active transport.
+
+Ion pumps, like the sodium-potassium pump, or Na-plus-K-plus ATPase, use ATP energy to transport ions against their gradients, maintaining crucial electrochemical gradients for nerve signaling and muscle contraction.
+
+Aquaporins are water channel proteins allowing rapid osmotic water movement. Their discovery earned Peter Agre the Nobel Prize and revealed the importance of specialized water transport.
+
+Glucose transporters, known as GLUTs, are carriers that facilitate glucose uptake into cells without using ATP. They are insulin-regulated in muscle and adipose tissue.
+
+Selective permeability depends on transport proteins. Without them, the membrane barrier would block nearly all polar molecules essential for cellular function.
+
+Defects in transport proteins cause diseases. Cystic fibrosis results from mutations in a chloride channel protein. Type 2 diabetes involves altered glucose transporter regulation.
+
+Symporters, also called cotransporters, couple the movement of two substances in the same direction, using the energy from one gradient to drive the other. Antiporters transport two substances in opposite directions.
+
+Pharmacological targets of transport proteins include diuretics, which inhibit kidney ion transporters; beta-blockers, which block adrenergic receptors; and antihistamines, which block histamine transporters.

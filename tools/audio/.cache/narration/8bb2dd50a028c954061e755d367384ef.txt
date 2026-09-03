@@ -1,0 +1,11 @@
+The Meselson-Stahl Experiment. In 1958, Matthew Meselson and Franklin Stahl answered one of molecular biology's fundamental questions: how exactly does DNA copy itself? Their elegant experiment proved that DNA replicates in a way that had been predicted but never demonstrated.
+
+They began by labeling bacterial DNA with a heavy isotope of nitrogen. This made the DNA denser than normal DNA. They could then separate the different densities using ultracentrifugation—spinning the sample at enormous speeds to separate molecules by weight.
+
+The bacteria with this heavy-labeled DNA were transferred to a medium containing normal nitrogen. They allowed the bacteria to divide and replicate their DNA once, then analyzed what they found. All the DNA was intermediate in density—hybrid DNA, containing one strand from the original heavy DNA and one brand-new strand made from normal nitrogen.
+
+They allowed the bacteria to divide again. After this second replication, half the DNA was still hybrid, and half was fully light, made from two newly synthesized strands. This pattern matched perfectly with what scientists called the semi-conservative model of DNA replication. Each original strand serves as a template, and the two daughter DNA molecules each contain one original strand and one newly synthesized strand.
+
+The experiment ruled out competing models. The conservative model would have kept the original DNA intact while producing a fully new copy. The dispersive model would have fragmented both strands and mixed them together. Neither of these patterns appeared.
+
+The technique of isotope labeling and density separation became a gold standard for molecular biology. It was refined and used for decades, making the Meselson-Stahl experiment a foundation of how we understand the molecular basis of heredity.

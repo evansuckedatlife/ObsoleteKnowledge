@@ -1,0 +1,11 @@
+Source. An active circuit element that supplies electrical energy to a circuit. Two idealized types exist. A voltage source maintains a fixed potential difference across its terminals regardless of load—like a battery. A current source supplies a constant current regardless of the load voltage. Real sources exhibit internal resistance or output impedance.
+
+An ideal voltage source has zero internal resistance. Its terminal voltage equals its electromotive force, regardless of the current drawn. An ideal current source has infinite internal resistance and maintains constant current whether connected to one ohm or one megaohm.
+
+Real batteries are modeled as an ideal voltage source in series with internal resistance. The terminal voltage drops under load. The equation is voltage equals electromotive force minus the product of current and internal resistance.
+
+A Thevenin equivalent reduces any linear network to a single voltage source with series resistance, simplifying circuit analysis. The Norton equivalent expresses the same network as a current source with parallel resistance. These are mathematically equivalent to each other.
+
+Direct current sources, like batteries and power supplies, maintain constant voltage. Alternating current sources oscillate sinusoidally, triangularly, or with other waveforms. Sources can be dependent, or controlled. A voltage-controlled voltage source's output depends on another circuit variable, as does a current-controlled current source.
+
+Source transformation converts between voltage and current representations. A voltage source in series with a resistance is equivalent to a current source in parallel with the same resistance.

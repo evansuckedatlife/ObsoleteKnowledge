@@ -1,0 +1,13 @@
+Richard Feynman was an American theoretical physicist and one of the most brilliant and colorful scientists of the twentieth century. He co-developed quantum electrodynamics, the theory of how light and matter interact, and he introduced the famous visual representations of subatomic particle interactions known as Feynman diagrams. He was awarded the 1965 Nobel Prize in Physics alongside Julian Schwinger and Shin'ichiro Tomonaga.
+
+Feynman invented Feynman diagrams, pictorial representations of mathematical expressions describing the behavior and interactions of subatomic particles. Before Feynman diagrams, calculating the probability of a particle interaction required solving enormously complicated equations. Feynman diagrams transformed these calculations into elegant visual representations — lines representing particles, vertices representing interactions — that made previously intractable problems solvable. They revolutionized particle physics.
+
+He developed the path integral formulation of quantum mechanics, a reformulation that describes quantum behavior as a sum over all possible histories or paths a particle could take, rather than following a single classical trajectory. This approach provided a powerful alternative perspective on quantum phenomena and has become essential in modern theoretical physics.
+
+During World War II, Feynman worked on the Manhattan Project at Los Alamos, where he assisted in developing the first atomic bomb. He became famous there not just for his physics but for his practical jokes and safe-cracking exploits. In 1969, he proposed the parton model of hadron structure, which described protons and neutrons as composed of point-like constituents — particles we now identify as quarks and gluons.
+
+Feynman delivered the legendary Feynman Lectures on Physics at Caltech, a celebrated three-volume textbook series based on his introductory lectures. He also wrote two popular autobiographical books: "Surely You're Joking, Mr. Feynman!" and "What Do You Care What Other People Think?" both of which became bestsellers.
+
+In 1986, as a member of the Rogers Commission investigating the Challenger space shuttle disaster, Feynman famously demonstrated that the shuttle's rubber O-rings lost elasticity at cold temperatures by simply dipping a compressed O-ring into a glass of ice water. The ring stayed compressed, showing exactly where the failure had occurred.
+
+Albert Einstein was someone Feynman encountered as a graduate student at Princeton, where he attended Einstein's lectures on general relativity and presented his early work on classical electromagnetism. Feynman worked with Enrico Fermi during the Manhattan Project at Los Alamos.

@@ -1,0 +1,9 @@
+Mohs scale. How hard is that rock in your hand? The Mohs scale ranks minerals by hardness from one, the softest, to ten, the hardest. In eighteen twelve, an Austrian mineralogist named Friedrich Mohs introduced it as a practical tool for field identification. Here's the crucial thing to understand: it's ordinal, not quantitative. It orders minerals but doesn't measure hardness in absolute units.
+
+Hardness is defined operationally on the Mohs scale. A mineral with Mohs hardness N will scratch any mineral rated N minus one or lower, and any mineral rated N plus one or higher will scratch it in return. The scale uses ten index minerals as reference points. Talc is one, the softest. Gypsum is two. Calcite is three. Fluorite is four. Apatite is five. Orthoclase feldspar is six. Quartz is seven. Topaz is eight. Corundum is nine. Diamond is ten, the hardest.
+
+Here's what makes this scale tricky: the intervals are not evenly spaced. The jump from corundum at nine to diamond at ten represents a far, far greater absolute hardness difference than the jump from talc at one to gypsum at two. The spacing gets wider as you go up the scale.
+
+Hard minerals from quartz and above are used in abrasives and cutting tools, so the scale helps miners and gemologists identify minerals in the field. Your fingernail, at roughly two point five, can scratch softer minerals. A copper coin is around three point five. A steel knife is approximately five point five.
+
+The scale has limits. It measures scratch hardness but doesn't measure brittleness, toughness, or resistance to abrasion at atomic scales. So while it's useful for field identification, it doesn't tell the complete story of mineral behavior under stress.

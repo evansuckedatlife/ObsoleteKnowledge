@@ -1,0 +1,9 @@
+Pauli exclusion principle. The Pauli exclusion principle is deceptively simple: no two identical fermions can occupy the same quantum state at the same time. Yet this principle explains why matter has substance, why atoms don't collapse, and why chemistry exists at all.
+
+Fermions—electrons, protons, neutrons, quarks—obey this constraint. Bosons do not. This distinction defines most of what you see around you. An electron's quantum state is fully specified by four numbers: n, l, m-l, and spin. The principle says no two electrons can share all four.
+
+The consequence is structure. Electrons must fill atomic orbitals level by level. Once an orbital is full, the next electron has no choice but to jump to a higher energy level, creating the electron shells you learn in chemistry. Without this principle, all electrons would crash into the ground state and atoms would collapse.
+
+The principle emerged from a requirement that the total wavefunction be antisymmetric when you exchange two identical fermions. It is not a force pushing electrons apart electromagnetically. Rather, it is a fundamental constraint on which quantum states are allowed. Wolfgang Pauli proposed this in nineteen twenty-five to explain atomic spectra, and it proved to be one of the most powerful insights in physics.
+
+The exclusion principle also creates degeneracy pressure. In dense matter like neutron stars and white dwarfs, fermions resist compression so fiercely that they support an entire star against gravity. It is the reason ordinary matter has stability.

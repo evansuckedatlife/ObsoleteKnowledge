@@ -1,0 +1,7 @@
+Space Shuttle Challenger. On January 28, 1986, the Space Shuttle Challenger was destroyed 73 seconds after launch during mission STS-51-L, killing all seven crew members aboard. The crew included mission commander Dick Scobee, pilot Michael Smith, and five specialists, among them Christa McAuliffe, a teacher selected for the Teacher in Space program.
+
+The disaster was caused by an O-ring failure in the right solid rocket booster, which allowed hot gases to bypass a seal and erode critical structural supports. Cold weather at launch—36 degrees Fahrenheit—made the O-rings brittle. Engineers had warned against launching in such cold, but the decision was made to proceed anyway.
+
+The tragedy sparked investigation and ultimately change. The Rogers Commission found systemic failures in NASA's organizational culture, particularly the pressure to maintain launch schedules despite safety concerns. The Space Shuttle program was grounded for 32 months while a comprehensive redesign and safety review took place. The capsule's hatch was replaced with an outward-opening hatch that could be jettisoned in seconds. The investigation also revealed numerous other flaws: faulty wiring, flammable materials, and a design that had not adequately prioritized crew survival.
+
+Sixteen years later, Space Shuttle Columbia would be lost on February 1, 2003, during re-entry as STS-107, when foam insulation struck the wing during launch, creating a fatal hole. Two tragedies reshaped the shuttle program and how NASA approached risk.

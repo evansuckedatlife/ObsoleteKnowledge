@@ -1,0 +1,19 @@
+Thermodynamics. The physics of heat, work, and energy transformation in macroscopic systems. Born in the 1800s from the study of steam engines, it describes how energy flows between systems and surroundings through three fundamental laws. The second law—that entropy, or disorder, always increases—dictates what spontaneous processes are possible and underpins chemistry, engines, refrigeration, and life itself.
+
+The first law states that energy cannot be created or destroyed, only converted, expressed as delta U equals Q minus W.
+
+The second law asserts that entropy in an isolated system always increases, forbidding perpetual motion machines.
+
+The third law holds that absolute zero, zero Kelvin, cannot be reached. Entropy approaches a minimum but never reaches zero.
+
+Enthalpy, H, measures heat content. Gibbs free energy, G, predicts spontaneity. Reactions proceed if delta G is less than zero.
+
+Catalysts accelerate reactions without altering the free energy landscape, making slow reactions kinetically feasible.
+
+Cooling systems exploit temperature gradients and heat transfer mechanisms—conduction, convection, and radiation—governed by thermodynamics.
+
+The theory predicts equilibrium conditions and explains why reactions reverse when driven backward. It explains why perfect efficiency is impossible. The Carnot cycle defines the theoretical maximum efficiency of any heat engine: eta equals one minus the ratio of cold temperature to hot temperature.
+
+Open systems, like organisms, can decrease local entropy by exporting it to surroundings. The universe's entropy still increases overall.
+
+Phase transitions—melting, boiling—are governed by competing enthalpy and entropy contributions, making them temperature-dependent.

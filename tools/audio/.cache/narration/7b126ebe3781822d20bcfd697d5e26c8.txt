@@ -1,0 +1,15 @@
+Filter Circuit. A filter circuit is an electronic circuit that selectively passes signals of certain frequencies while attenuating, or weakening, others. Filters are fundamental in power supplies for smoothing ripple, in audio systems for removing hum, and in signal processing for isolating desired information from noise. They exploit the frequency-dependent behavior of capacitors and inductors to achieve frequency selectivity without active amplification.
+
+There are four main types of filters. Low-pass filters block high frequencies and pass low. High-pass filters block low frequencies and pass high. Band-pass filters pass a range of frequencies. Band-stop, or notch, filters reject a range.
+
+Filters can be passive or active. Passive filters use only resistor, inductor, and capacitor components and are simple but have limited control. Active filters use operational amplifiers to amplify and shape response more precisely.
+
+The cutoff frequency is the frequency at which a filter's response drops to seventy point seven percent—or negative three decibels—of its pass-band level. This defines the boundary between pass and reject regions.
+
+Pass-band ripple is unwanted signal variation. Stop-band rolloff quantifies how quickly rejection increases beyond cutoff, measured in decibels per octave.
+
+A common application in power supplies is the capacitor-inductor low-pass filter, which smooths the rectified AC, or ripple, into clean DC. This is essential because raw rectified voltage contains high-frequency harmonics.
+
+Filter order and complexity determine performance. A first-order filter has one reactive element—either a capacitor or an inductor. Higher orders provide steeper rolloff but greater complexity.
+
+Resonance in LC circuits creates a sharp peak at a specific frequency, useful for band-pass filtering, or a dip, useful for band-stop filtering. This is useful for tuning radio receivers or rejecting fifty or sixty hertz mains noise.

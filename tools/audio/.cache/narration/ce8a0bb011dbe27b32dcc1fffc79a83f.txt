@@ -1,0 +1,11 @@
+Primality Testing. The computational process of determining whether a given input integer is prime. Unlike the much harder problem of integer factorization, which actually finds the factors of a composite number, primality testing only requires a yes-or-no decision. The creation of rapid primality tests is a crucial foundation of modern public-key cryptography, which requires generating very large prime numbers reliably.
+
+In 2002, the AKS primality test proved that primality testing is in the complexity class P, meaning it can be solved in deterministic polynomial time. This was a landmark result that settled a long-standing open question in computational complexity.
+
+In practical applications, randomized algorithms like the Miller-Rabin primality test are preferred because they run much faster, although they have a small, controllable probability of misidentifying a composite number—called a strong pseudoprime—as prime. The trade-off between speed and guaranteed correctness is essential for real-world cryptography.
+
+The Fermat primality test is a simple check based on Fermat's Little Theorem. However, it is unreliable because of Carmichael numbers, which are composite numbers that satisfy the Fermat congruence for all bases coprime to them. Carmichael numbers trick the Fermat test into believing they are prime.
+
+For Mersenne numbers—primes of the form two to the power of p minus one—the Lucas-Lehmer primality test is a highly specialized and extremely fast deterministic test. It is used by projects like GIMPS to find record-breaking large primes. Most probabilistic tests work by looking for witnesses to compositeness. If a number is composite, the test will find a witness with high probability. If the number is prime, no witnesses exist.
+
+Primality testing highlights the computational gap between deciding if a number is prime, which is easy, and finding its factors, which is hard. Fermat's Little Theorem underlies Fermat's test and its randomized extensions. Mersenne primes are the target of the Lucas-Lehmer test, which is used to discover the largest known primes.

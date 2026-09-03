@@ -1,0 +1,15 @@
+Immunology. Immunology is the scientific study of the body's defense system against pathogens, toxins, and foreign substances. It encompasses the mechanisms by which white blood cells, antibodies, and other immune components recognize, respond to, and neutralize threats, forming the basis for understanding disease resistance, vaccination, allergies, and autoimmune disorders.
+
+The immune system's primary function is recognition and elimination of foreign antigens—proteins or molecular markers present on pathogens or abnormal cells—through a cascade of cellular and molecular responses.
+
+Lymphocytes are white blood cells specialized for immune response. B cells produce antibodies, which are soluble proteins that bind antigens. T cells directly kill infected or cancerous cells or coordinate immune activity.
+
+Antibodies are Y-shaped proteins that bind to specific antigens with high precision, acting as biological locks whose keys are the unique three-dimensional shapes of target molecules.
+
+The innate immune system responds immediately and non-specifically to any pathogen via complement proteins and phagocytes. The adaptive immune system develops targeted responses over days, with memory of prior infections.
+
+Vaccination works by exposing the immune system to a harmless form of a pathogen, either a weakened or killed organism or an isolated antigen. This allows B and T cells to develop memory. Upon real infection, the adaptive response is rapid and strong.
+
+Autoimmune diseases occur when the immune system mistakenly attacks the body's own tissues. Examples include lupus, rheumatoid arthritis, and type one diabetes. These occur because self and non-self recognition breaks down.
+
+Immunological memory persists for years or decades. The secondary immune response to a previously encountered antigen is faster and stronger than the primary response, which is why some vaccinations require boosters.

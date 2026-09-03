@@ -1,0 +1,9 @@
+Pluto. A dwarf planet and the prototype of a new class of icy solar-system bodies orbiting beyond Neptune. Discovered in 1930 as the ninth planet, it was reclassified in 2006 when the International Astronomical Union redefined planet to require clearing its orbital zone of debris — a criterion Pluto fails. Its five known moons and geologically active surface make it a rich target for planetary science.
+
+Pluto was discovered by Clyde Tombaugh at Lowell Observatory on February 18th, 1930. The search was motivated by perturbations in Neptune's orbit that turned out to be spurious. It was reclassified from planet to dwarf planet in 2006 by the IAU, sparking cultural outrage and memes about planetary demotion that persist today.
+
+Pluto has five moons. Charon is so massive it forms a binary system with Pluto itself. The other four — Styx, Nix, Kerberos, and Hydra — were discovered between 1978 and 2012. The planet's diameter is roughly 2,377 kilometers, smaller than Earth's Moon. It's composed of rock and water ice with a thin nitrogen and methane atmosphere.
+
+A heart-shaped region of light-colored nitrogen ice is visible in New Horizons imagery from 2015, suggesting cryovolcanism and ongoing geological activity despite its distance. Pluto's orbital eccentricity is so high that it passes inside Neptune's orbit for 20 years at a time. Its last perihelion was 1989. The planet is three times farther from the Sun than Neptune, and one orbit takes 248 Earth years.
+
+As the prototype of plutinos — icy bodies in a stable two-to-three resonance with Neptune's orbit — Pluto defines the dwarf-planet category and shares its reclassification history with Eris, another rival dwarf planet that is actually slightly more massive. Its orbital history is tied to Neptune's gravitational influence via the Laplace resonance.

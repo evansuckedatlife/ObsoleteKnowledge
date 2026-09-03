@@ -1,0 +1,21 @@
+tRNA. Transfer RNA is a small RNA molecule that delivers amino acids to the ribosome during protein synthesis. Each tRNA carries a specific amino acid and possesses an anticodon, a three-base sequence that pairs with complementary mRNA codons. This anticodon-codon matching is the molecular mechanism that translates the genetic code into protein sequences, making tRNA the interpreter between nucleic acids and proteins.
+
+tRNA is a cloverleaf-shaped RNA that folds into an L-shaped three-dimensional structure in the ribosome.
+
+Each tRNA is charged, or loaded, with a specific amino acid by an aminoacyl-tRNA synthetase enzyme.
+
+The anticodon, typically located in the anticodon loop, base-pairs with an mRNA codon, ensuring correct amino acid insertion.
+
+tRNA occupies three sites on the ribosome during translation. These are the A site, or aminoacyl, where incoming tRNA enters; the P site, or peptidyl, where the current tRNA resides; and the E site, or exit, where the leaving tRNA departs.
+
+Multiple tRNAs may recognize the same amino acid due to wobble base pairing at the third codon position.
+
+In the ribosome, peptide bonds form between amino acids carried by consecutive tRNAs, extending the growing chain.
+
+Human cells employ roughly 40 to 60 different tRNA species to cover the 61 sense codons and their variations.
+
+The three-prime CCA tail of tRNA is where the amino acid attaches. This end is added post-transcriptionally and is highly conserved.
+
+Mutations in tRNA genes or recognition sites can cause genetic diseases. Some cancers exploit tRNA mischarging for cell survival.
+
+tRNA structure and interactions are among the most highly conserved features across all domains of life, underscoring their evolutionary importance.

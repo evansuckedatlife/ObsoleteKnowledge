@@ -1,0 +1,13 @@
+Unemployment. The condition of being without a job despite actively seeking employment. The unemployment rate is the percentage of the labor force that is unemployed. Unemployment has multiple types and reflects both individual hardship and broader economic health. Policymakers monitor it as a key indicator of whether the economy has slack—resources being underutilized.
+
+Unemployment comes in several forms. Frictional unemployment occurs during normal job search—workers between jobs. It exists even at full employment, typically two to three percent. Structural unemployment results from a mismatch between worker skills or location and available jobs. It's caused by technology shifts or industry decline. Cyclical unemployment rises during recessions and falls during expansions. It's the most economically painful type. Seasonal unemployment reflects predictable swings in employment due to seasonal industries like agriculture and retail.
+
+Measuring unemployment matters. The unemployment rate equals unemployed divided by labor force, all multiplied by one hundred. This excludes discouraged workers and part-timers. The labor force participation rate is the percentage of working-age population in the labor force—employed or actively seeking. Real unemployment is higher if you count discouraged workers. The U.S. Bureau of Labor Statistics publishes U-six as a broader measure.
+
+The economics of unemployment are complex. Lost output means workers aren't producing. Consumer spending falls. Workers lose skills over time without work. The psychological harm can be severe. The natural rate of unemployment, consistent with stable inflation, is estimated at four to five percent in the modern U.S. economy.
+
+There's a trade-off between unemployment and inflation. Lower unemployment can push inflation higher as workers demand higher wages and firms pass costs to consumers. This Phillips Curve relationship is one of the foundational trade-offs in macroeconomic policy.
+
+Policymakers respond through multiple channels. Monetary policy: central banks lower interest rates to stimulate hiring during high unemployment. Fiscal stimulus: government spending and tax cuts boost demand and employment. Active labor market policies include retraining, job placement services, and public employment programs.
+
+For individuals, joblessness is devastating. For economies, high unemployment signals slack but constrains inflation. The 2008 financial crisis left many economies with eight to ten percent unemployment for years, raising questions about structural damage. Unemployment is also culturally coded. Its political meaning depends on perceived causes—individual failure versus systemic injustice—and its distribution across groups.

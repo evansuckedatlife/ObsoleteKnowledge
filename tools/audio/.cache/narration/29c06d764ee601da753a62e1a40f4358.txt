@@ -1,0 +1,9 @@
+An antibody, also called an immunoglobulin, is a Y-shaped protein produced by B cells in response to infection or vaccination that binds specifically to foreign antigens and neutralizes or marks them for destruction. Antibodies are central to humoral immunity and are among the most abundant proteins in mammalian blood.
+
+Antibodies are glycoproteins composed of four polypeptide chains: two heavy chains and two light chains, cross-linked by disulfide bonds. The Y-shaped structure features two identical antigen-binding sites at the tip of each arm and a constant region that determines the antibody's class and effector function. Each antibody binds a specific antigen with high affinity, determined by the shape and chemical complementarity of its variable regions.
+
+Five major isotypes exist. IgG is the most abundant in blood and crosses the placenta. IgM is the first responder to new antigens. IgA is secreted in mucosal fluids. IgE is involved in allergies and parasitic infection. And IgD has a regulatory role on B cell surfaces.
+
+Antibodies neutralize toxins, opsonize pathogens for phagocytosis, agglutinate pathogens into clumps, and activate complement, a cascade of proteins that punctures microbial membranes. Affinity maturation occurs when B cells are repeatedly exposed to an antigen. Somatic hypermutation and selection generate higher-affinity variants over weeks to months.
+
+Monoclonal antibodies, all identical and derived from a single B cell, are now produced recombinantly for therapeutic use in cancer, autoimmune disease, and infectious disease.

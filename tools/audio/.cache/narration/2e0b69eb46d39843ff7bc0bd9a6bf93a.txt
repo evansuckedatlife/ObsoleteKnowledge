@@ -1,0 +1,9 @@
+SpaceX. A private aerospace manufacturer founded by Elon Musk in 2002, dedicated to reducing the cost of spaceflight and enabling human colonization of Mars. The company developed the Falcon rocket family and the Dragon spacecraft, broke NASA's launch monopoly through commercial cargo contracts, and pioneered rocket landing and reuse. SpaceX transformed spaceflight from a government-only domain into a competitive commercial industry.
+
+The company was founded in 2002 following Musk's frustration with the cost of space access. The initial Falcon 1 rocket failed three times before succeeding in 2008. SpaceX then developed the Falcon 9, the first orbital-class rocket to successfully land its first stage for reuse. The Falcon 9 has become the world's most-launched orbital rocket.
+
+The Dragon spacecraft exists in two variants. The cargo variant, Dragon CRS, delivers supplies to the International Space Station. The crewed variant, Dragon Crew, transports astronauts. SpaceX was the first private company to dock with the International Space Station in 2012 and the first to carry NASA astronauts to orbit in 2020.
+
+The Starship program aims to build a fully reusable super-heavy launch vehicle for Mars missions, deep-space exploration, and high-capacity Earth-to-orbit transport.
+
+Reusability is the key innovation underlying SpaceX's approach. Recovering and reflying expensive hardware reduces per-launch costs from thousands per kilogram to hundreds, fundamentally altering spaceflight economics. The company also practices vertical integration, manufacturing engines, avionics, and structures in-house rather than relying on contractors.

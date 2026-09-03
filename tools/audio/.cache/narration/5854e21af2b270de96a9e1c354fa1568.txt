@@ -1,0 +1,9 @@
+An optimization problem seeks the best solution from a set of candidates according to some criterion. You might want to maximize profit, minimize cost, find the shortest path, or solve countless other problems. Unlike decision problems that ask yes or no, optimization problems ask "what is the best value?" and are fundamental to practical computing and algorithm design.
+
+Formally, you have a set of feasible solutions and an objective function, and you need to find the solution that maximizes or minimizes the objective. Famous examples include the Travelling Salesman problem, which asks for the shortest tour; the Knapsack problem, which maximizes value subject to a weight constraint; Graph Coloring, which minimizes the number of colors needed; and the Longest Path problem, which finds the longest simple path in a graph.
+
+Optimization problems are harder than their decision-problem variants. The decision version asks "is there a solution with value at least k?" and answers yes or no. The optimization version asks "what is the best value?" If you can solve the optimization problem, you can solve the decision variant by comparing the optimal value to k. In complexity theory, the decision version reduces to the optimization one.
+
+NP-hard optimization problems have no known polynomial-time algorithm. For these problems, approximation algorithms and heuristics—greedy approaches, dynamic programming, branch-and-bound—are practical methods. Optimization is widely studied in operations research, machine learning, and cryptanalysis. Nearly all real-world computational problems are optimization problems, not pure decision problems.
+
+When analyzing complexity, optimization and decision problems are closely paired. If the decision version is NP-complete, the optimization version is NP-hard.

@@ -1,0 +1,9 @@
+DNA Ligase. An enzyme that catalyzes the formation of phosphodiester bonds between the sugar-phosphate backbone of adjacent DNA fragments. It seals nicks, or breaks in the backbone, by joining a three-prime hydroxyl group of one fragment to a five-prime phosphate of another, effectively gluing DNA pieces together. Without DNA ligase, organisms could not replicate their DNA or repair damage. It is also essential to molecular cloning and genetic engineering.
+
+The enzyme works by cleaving ATP and using the energy to drive the formation of the phosphodiester bond. It is essential during DNA replication. After DNA polymerase synthesizes the Okazaki fragments on the lagging strand, ligase seals them into one continuous strand. In cells, the enzyme also repairs spontaneous breaks in DNA and is part of the base-excision and nucleotide-excision repair pathways.
+
+Different ligases exist. T4 DNA ligase, isolated from bacteriophage T4, is widely used in molecular cloning. Bacteria use different ligases for their own DNA repair and replication.
+
+An important requirement is that ligase needs a cofactor, either ATP or NAD-plus depending on the source, to generate the high-energy intermediate. Another key constraint is that the enzyme only works on double-stranded DNA with a nick. It requires a three-prime hydroxyl group next to a five-prime phosphate. Single-stranded breaks cannot be sealed.
+
+DNA ligase is a specific enzyme class, classified among the vast family of biological catalysts. In DNA replication, it joins Okazaki fragments into continuous strands. During molecular cloning, it joins restriction fragments during plasmid construction. Restriction enzymes cut the DNA, leaving nicks that ligase then seals. DNA itself is the substrate that ligase operates on. And ATP provides the energy required for the reaction.

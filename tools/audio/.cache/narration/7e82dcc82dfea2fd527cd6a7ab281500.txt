@@ -1,0 +1,11 @@
+Even and Odd Functions. Even and odd functions are classes of functions characterized by specific symmetry properties. An even function is symmetric with respect to the y-axis, satisfying f of negative x equals f of x. An odd function is symmetric with respect to the origin, satisfying f of negative x equals negative f of x. These classifications simplify algebraic calculations, integration, and the analysis of Fourier series, where functions are decomposed into symmetric components.
+
+The defining property of an even function is that f of negative x equals f of x for all x in the domain. Graphically, it is symmetric under reflection across the y-axis. The canonical examples include x squared, x to the fourth, and cosine of x.
+
+An odd function satisfies f of negative x equals negative f of x for all x in the domain. Graphically, it exhibits 180-degree rotational symmetry about the origin. The canonical examples are x, x cubed, and sine of x.
+
+Here's a powerful decomposition result: any function can be uniquely decomposed into the sum of an even function and an odd function. If you have f of x, you can write it as E of x plus O of x, where E of x equals the average of f of x and f of negative x, and O of x equals half of f of x minus f of negative x. This decomposition is useful for both theoretical analysis and practical computation.
+
+Integration over symmetric intervals reveals the power of parity. The integral of an odd function over a symmetric interval from negative a to a is always zero. This is because the positive and negative regions exactly cancel. In contrast, the integral of an even function over the same interval is twice the integral from zero to a, since the function has the same values on both sides of the origin.
+
+There's also a multiplication rule for parity: the product of two even functions or two odd functions is always even. The product of an even function and an odd function is always odd. These properties make parity classification essential for simplifying and predicting the behavior of more complex functions.

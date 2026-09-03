@@ -1,0 +1,7 @@
+Amide. An organic functional group with a carbonyl carbon bonded to a nitrogen atom. Amides are exceptionally stable compared to other carboxylic acid derivatives. That stability comes from resonance that delocalizes the nitrogen lone pair into the carbonyl, giving the carbon-nitrogen bond partial double-bond character and restricting rotation around that bond.
+
+Because of this resonance, amides are non-basic. The nitrogen lone pair is involved in the resonance, which prevents the amide from acting as a proton acceptor under normal conditions. Amides are essential to biology. They form the peptide bonds that covalently link amino acids into proteins.
+
+Amides undergo the Hofmann rearrangement, a reaction where primary amides react with bromine and sodium hydroxide to degrade into primary amines, losing a carbon atom as carbon dioxide. Lactams are cyclic amides, categorized by their ring size. The most notable are the four-membered beta-lactams, which form the active core of penicillin antibiotics.
+
+Amines act as nucleophiles that attack activated carboxylic acids to synthesize amides. Amides can be synthesized from carboxylic acid derivatives and can be hydrolyzed back to carboxylic acids under harsh acidic or basic conditions. In an amide, the nitrogen atom is sp2 hybridized to allow conjugation of its lone pair with the carbonyl pi system.

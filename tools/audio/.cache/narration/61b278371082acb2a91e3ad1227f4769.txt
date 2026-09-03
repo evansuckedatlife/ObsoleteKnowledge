@@ -1,0 +1,11 @@
+The Stern-Gerlach Experiment. In 1922, two physicists named Otto Stern and Walther Gerlach performed an experiment that revealed something profoundly strange about the quantum world. They passed a beam of silver atoms through a non-uniform magnetic field and watched what happened.
+
+Classical physics made a clear prediction. Atoms with random magnetic moments should spread out continuously along the direction of the magnetic field gradient, like a compass needle wobbling across a whole range of angles. A continuous spectrum of outcomes.
+
+Instead, something unexpected occurred. The beam split into exactly two paths. Not a continuum. Just two. Atoms aligned either up or down relative to the field, with nothing in between.
+
+This splitting revealed a fundamental truth about the quantum world: the magnetic moment of an atom—its spin or angular momentum—is quantized. Only discrete orientations are allowed. Never arbitrary angles.
+
+What happened next was even stranger. If you took one of the two beams and passed it through a second Stern-Gerlach apparatus oriented the same way, it passed straight through undiverted. The outcome was deterministic. But if you rotated the second apparatus by ninety degrees, the single beam split again into two equal parts. The spin orientation was not hidden or predetermined. It was genuinely unmeasured until the apparatus forced a choice.
+
+The Stern-Gerlach experiment opened a doorway to understanding spin as an intrinsic quantum property, not a literal rotation. This property became central to fermions, the Pauli exclusion principle, and everything we understand about chemistry and the periodic table.

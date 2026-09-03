@@ -1,0 +1,17 @@
+Igneous Rock. An igneous rock is any rock formed by the cooling and solidification of molten rock, either magma or lava. Igneous rocks constitute the vast majority of Earth's crust by volume and are classified into two main groups based on where and how they cool: intrusive, or plutonic, rocks that cool slowly underground within the crust, producing large mineral crystals, and extrusive, or volcanic, rocks that cool rapidly at the surface, forming fine-grained or glassy textures. Understanding igneous rocks reveals Earth's internal heat, plate tectonics, and the mineral compositions that make up planetary bodies.
+
+Intrusive igneous rocks cool slowly beneath the surface, allowing minerals to grow large enough to see with the naked eye. Granite is the quintessential example—a coarse-grained rock of feldspar, quartz, and mica that forms the cores of mountains.
+
+Extrusive igneous rocks cool rapidly at the surface or in thin flows, producing fine-grained textures or even volcanic glass, such as obsidian. Basalt, the most common extrusive rock, erupts from mid-ocean ridges and oceanic hotspots.
+
+Igneous rock composition is tied to magma chemistry. Felsic magmas are rich in silica and aluminum and produce light-colored rocks like granite. Mafic magmas are rich in magnesium and iron and produce dark, dense rocks like basalt. Ultramafic rocks are even richer in iron and magnesium and are rare at the surface but common in the mantle.
+
+The cooling rate directly determines crystal size. Magma cooling over millions of years, intrusive, produces centimeter-sized crystals. Lava cooling in days or hours, extrusive, produces millimeter-sized crystals. Super-rapid cooling produces amorphous, or non-crystalline, volcanic glass.
+
+Kimberlite is an ultramafic volcanic rock that originates in the mantle and erupts explosively, carrying diamonds and other high-pressure minerals to the surface. It is the primary source of gem-quality diamonds in the world.
+
+Igneous rocks form along subduction zones, where oceanic plates plunge into the mantle, along mid-ocean ridges, where plates separate and new crust forms, and at hotspots, where mantle plumes rise through the lithosphere, forming volcanic chains.
+
+The Bowen Reaction Series describes the order in which minerals crystallize as cooling magma. Olivine freezes first at roughly twelve hundred degrees Celsius, then pyroxene, amphibole, and mica, finally feldspar and quartz at lower temperatures. This explains why different igneous rocks have different mineral suites.
+
+Pumice is a vesicular, or hole-filled, lava cooled so quickly that dissolved gases formed bubbles. It is so light it floats on water. Scoria is a darker, denser vesicular rock formed from more iron-rich lava.

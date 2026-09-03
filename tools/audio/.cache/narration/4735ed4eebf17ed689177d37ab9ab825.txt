@@ -1,0 +1,11 @@
+Vaccination. The medical practice of introducing a weakened or inactive form of a disease agent into the body to stimulate immunity without causing the disease itself. Pioneered by Edward Jenner in seventeen ninety-six using cowpox to protect against smallpox, vaccination became the most effective tool in modern public health, preventing millions of deaths and enabling the eradication of diseases.
+
+Edward Jenner deliberately exposed an eight-year-old boy to cowpox, then to smallpox, demonstrating immunity. A risky experiment that founded modern vaccination. His willingness to experiment on a child, though ethically troubling by modern standards, produced the first documented proof that vaccination worked.
+
+Vaccination differs from inoculation, the earlier practice of deliberately infecting someone with mild disease. Vaccination uses weakened or dead material instead. Inoculation was common in the Ottoman Empire and China centuries before Jenner and represented humanity's first attempts to control epidemic disease.
+
+Smallpox vaccination campaigns in the nineteenth and twentieth centuries transformed public health, eventually eradicating the disease entirely by nineteen eighty. Louis Pasteur developed vaccines for cholera and rabies, proving that Jenner's principle applied to other diseases and validating vaccination as a general strategy.
+
+Vaccine types include live attenuated, using weakened virus; inactivated, using dead pathogen; toxoid, using inactivated toxin; and subunit, using isolated antigen. Each has different safety-efficacy profiles. Vaccination is population-level medicine. Herd immunity occurs when enough people are vaccinated that disease cannot spread, protecting even the unvaccinated and immunocompromised.
+
+Opposition to vaccination emerged almost immediately after Jenner. Religious objections, fears of contamination, and resistance to state mandates persist to the present day. Jenner and Pasteur proved that vaccination's principle could protect humanity against epidemic disease.

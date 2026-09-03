@@ -1,0 +1,9 @@
+Transformer. A passive component consisting of two or more inductively coupled coils wound on a shared magnetic core, used to transfer electrical energy between circuits while changing voltage and current levels. Transformers operate only on alternating current, as they rely on changing magnetic flux to induce voltage in the secondary coil.
+
+The turns ratio determines voltage and current scaling. If the second coil has more turns than the first, the voltage increases and the current decreases proportionally. If the second coil has fewer turns, the voltage decreases and the current increases. A step-up transformer increases voltage and decreases current, while a step-down transformer does the reverse and is used in power supplies.
+
+Transformers provide galvanic isolation. The primary and secondary coils are electrically separate, floating with respect to each other. This is critical for safety in high-voltage circuits. Core material—iron laminations, ferrite, or toroidal designs—concentrates magnetic flux and minimizes losses. Laminated cores reduce eddy-current heating.
+
+Impedance matching via transformers allows maximum power transfer between circuits of different impedances, such as an antenna connected to a receiver. Real transformers have copper losses from resistive heating in the windings and core losses from hysteresis and eddy currents. Efficiency is typically ninety-five to ninety-nine percent.
+
+Alternating current frequency affects transformer performance. Transformers are used at fifty to sixty hertz in power distribution, kilohertz to megahertz in switching supplies, and gigahertz in RF circuits. Direct current produces no changing flux, so transformers are useless for DC. Though DC-blocking transformers can carry DC on top of AC while decoupling the DC component.

@@ -1,0 +1,17 @@
+DNA. DNA, or deoxyribonucleic acid, is the polymer that stores genetic information in all living organisms and many viruses. It consists of two complementary strands wound in a double helix, each strand a sugar-phosphate backbone with nucleotide bases—adenine, thymine, guanine, and cytosine—extending inward. The sequence of these four bases encodes instructions for building and regulating proteins. Life as we know it depends entirely on DNA's ability to be accurately replicated, transcribed, and expressed.
+
+DNA is a polymer of nucleotides, each consisting of a deoxyribose sugar, a phosphate group, and a nitrogenous base. The two strands are antiparallel—one runs five-prime to three-prime, the other three-prime to five-prime—and held together by hydrogen bonds between complementary bases.
+
+Adenine pairs with thymine via two hydrogen bonds. Guanine pairs with cytosine via three hydrogen bonds. This complementarity is the basis of replication and gene regulation. The double helix winds so that ten base pairs complete one full turn. This structure was elucidated by Watson, Crick, and Franklin in the early nineteen-fifties.
+
+DNA is the template for its own replication during cell division. Each strand serves as the template for a new complementary strand, producing two identical daughter molecules via semiconservative replication. DNA is also the template for transcription. RNA polymerase reads DNA and synthesizes messenger RNA, which carries genetic instructions to the ribosome for protein synthesis.
+
+The genetic code uses sequences of three nucleotides, called codons, to specify amino acids. Sixty-four possible codons encode just twenty amino acids, creating redundancy.
+
+In prokaryotes, DNA is a single circular chromosome in the nucleoid region. In eukaryotes, DNA is organized into linear chromosomes housed in the nucleus. Eukaryotic DNA is packaged with histone proteins into nucleosomes and further coiled into chromatin, allowing roughly two meters of DNA to fit into a nucleus about ten micrometers across.
+
+Gene expression is regulated at multiple levels: chromatin remodeling, transcription control, RNA processing, and protein modification. Not all genes are active in every cell.
+
+DNA replication is semiconservative. The two original strands separate, and each serves as a template for a new strand, giving two DNA molecules that each contain one old and one new strand. DNA polymerase catalyzes bond formation with extraordinary fidelity—roughly one error per ten billion bases—though mutations still accumulate over generations and drive evolution.
+
+Mutations—insertions, deletions, and substitutions—can alter protein function or regulation. Some are neutral, harmful, or beneficial. The discovery of DNA's structure revolutionized our understanding of heredity, disease, and evolution. The Human Genome Project's sequencing of all roughly three billion base pairs revealed that humans share approximately ninety-nine point nine percent of their DNA with each other and significant portions with other animals, grounding evolutionary biology in molecular fact. DNA's central role makes it the focus of modern medicine, agriculture, and forensics.

@@ -1,0 +1,11 @@
+Fuse and Circuit Breaker. Safety devices that interrupt current flow when it exceeds a rated threshold, protecting circuit components and wiring from overcurrent damage, overheating, and fire. Fuses are single-use, while circuit breakers are reusable mechanical switches that automatically trip and reset.
+
+A fuse is a resistive element, typically a metal alloy, that melts and opens the circuit when current exceeds its rating for a specified time—for example, a one ampere slow-blow fuse. Slow-blow fuses tolerate inrush current and prevent nuisance trips, while fast-blow fuses respond instantly to overcurrent and are used to protect expensive integrated circuits from shorts.
+
+Circuit breakers use either a bimetallic strip that heats and bends open, or an electromagnetic coil that trips instantly during large currents. A lever flips to reset the breaker after it trips.
+
+The I-squared-t rating, measured in ampere-squared times time, defines fuse energy. Higher values tolerate longer overloads before opening, which is important in circuits with startup surges. A thermal trip current is typically one-point-five to two times the continuous rating. A magnetic trip triggers at ten to twenty times the rating or higher, with a millisecond response.
+
+Ground-fault circuit interrupters detect imbalance between supply and return current—leakage to ground—and trip in roughly twenty-five milliseconds. This is critical for safety in wet environments.
+
+The fuse and breaker rating must match the wire gauge. Undersizing the rating risks nuisance trips, while oversizing allows the wires to overheat and fail, creating a fire hazard. When multiple protection devices are placed in series, they are designed so the upstream device clears faults before downstream devices fail—this is called coordination.

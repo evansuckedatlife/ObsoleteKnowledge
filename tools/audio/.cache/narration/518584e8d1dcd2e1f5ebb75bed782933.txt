@@ -1,0 +1,11 @@
+Wind speed quantifies the velocity of air movement, typically measured in meters per second, kilometers per hour, or miles per hour. It's a fundamental concept in meteorology because wind arises from pressure differences in the atmosphere caused by differential solar heating.
+
+Wind speed is measured using an anemometer, a device with three or four cups that rotate in the wind. The rotation rate is converted to velocity using calibrated formulas, or by electronic sensors that measure wind pressure directly. The Beaufort Wind Force Scale, created in 1805 by Admiral Francis Beaufort, ranks winds from zero for calm conditions all the way up to twelve for hurricane force, based on visible effects like smoke behavior, leaf movement, wave height, and structural damage.
+
+One key phenomenon is that wind speed increases with altitude in the lower atmosphere due to reduced friction with the ground. This is why wind turbines are mounted on tall towers to capture faster, more consistent winds. Pressure gradients are what actually drive wind; air accelerates from high-pressure regions toward low-pressure regions. The stronger the pressure differences, the stronger the winds, which is why winds accelerate dramatically around intense storms and low-pressure systems.
+
+The Coriolis effect, caused by Earth's rotation, deflects moving air to the right in the Northern Hemisphere and to the left in the Southern Hemisphere. This is why hurricanes and cyclones spin, and why trade winds have such consistent directions.
+
+Another important feature of wind is that jet streams are fast-moving currents of air in the upper atmosphere reaching speeds over three hundred kilometers per hour. They're formed by temperature contrasts between polar and tropical air, and they steer weather systems while influencing long-range forecasting.
+
+Finally, wind power generation depends on something called power density, which increases with the cube of wind speed. Doubling the wind speed increases available power eightfold. This is why wind farms are sited in consistently windy regions.

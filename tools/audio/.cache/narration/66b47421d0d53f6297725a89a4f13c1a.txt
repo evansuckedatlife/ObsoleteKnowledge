@@ -1,0 +1,9 @@
+Decibel scale. The decibel is a logarithmic unit that measures the ratio of one physical quantity to a reference standard, and it's most commonly used for sound intensity or power. A ten decibel increase represents a tenfold increase in power. A twenty decibel increase represents a hundredfold increase in intensity, depending on the reference. This logarithmic nature is the key to understanding why the decibel exists: it compresses the vast range of what humans can perceive into manageable numbers.
+
+The unit is named after Alexander Graham Bell. A bel is the unit, and a decibel is one-tenth of a bel. The mathematics behind it is straightforward: decibels equal ten times the logarithm base ten of the measured value divided by the reference value.
+
+Human perception of loudness and power doesn't scale linearly. It scales logarithmically. Normal conversation happens at roughly sixty decibels. A jet engine roars at one hundred forty decibels. The threshold of pain is around one hundred thirty decibels. A three decibel increase roughly doubles the perceived loudness energy. A ten decibel increase is roughly a tenfold increase in power.
+
+The reference standards vary depending on context. For sound intensity in air, the standard reference is typically ten to the negative twelfth watts per square meter, which is the threshold of human hearing. For sound pressure, the reference is twenty micropascals. The context of measurement determines which applies.
+
+Negative decibel values are meaningful. Minus six decibels, for example, is one-quarter the reference power. The decibel appears in acoustics, electronics, communications, and many engineering disciplines to express power, intensity, and attenuation ratios.

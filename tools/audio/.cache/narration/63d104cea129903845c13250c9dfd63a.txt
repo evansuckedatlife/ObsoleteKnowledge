@@ -1,0 +1,9 @@
+Chlorine. Element 17, Cl. A highly reactive halogen gas used extensively in industrial chemistry, disinfection, and everyday products. It forms ionic salt compounds with metals like sodium and covalent bonds in organic halides. Chlorine's powerful oxidizing properties make it valuable for sterilizing water, killing bacteria, and synthesizing PVC plastics, though its toxicity demands careful handling and safety protocols.
+
+Chlorine has atomic number 17 with an electron configuration ending in three s-squared three p-five, giving it seven valence electrons and high electronegativity. It is one of the most reactive elements. It forms sodium chloride, table salt, through ionic bonding—the classic example of an ionic compound between a metal and a nonmetal.
+
+Chlorine exists naturally as diatomic chlorine gas, Cl₂, a pale greenish-yellow toxic vapor heavier than air that causes respiratory damage if inhaled. It is strongly oxidizing, making it ideal for water disinfection and sterilization in swimming pools and municipal water treatment systems.
+
+Chlorine forms numerous organic halides. Chloroform is CHCl₃. DDT is an insecticide. Polyvinyl chloride, or PVC, is a plastic used in pipes and vinyl records. Chlorine was discovered in 1774 by Carl Wilhelm Scheele and named by Humphry Davy in 1810 from the Greek word chloros, meaning pale green, for its color.
+
+Industrial production occurs primarily via the chlor-alkali process, electrolyzing saltwater to produce chlorine gas, caustic soda, and hydrogen. Environmental concerns about chlorine include its role in ozone depletion via CFCs and its bioaccumulation in organisms through organic halide compounds. The chlorine isotopes Cl-35 and Cl-37 occur naturally in a three to one ratio, giving chlorine an atomic mass of approximately 35.5.

@@ -1,0 +1,15 @@
+Logarithmic Scale. A logarithmic scale is a measurement system where each unit step represents a multiplicative, rather than additive, change in the quantity being measured—typically a factor of ten or two. Logarithmic scales compress vast ranges of data from billions to fractions into manageable ranges, revealing patterns invisible on linear scales. They are essential in measuring phenomena ranging from earthquake magnitude to sound intensity to acidity and are defined mathematically by the logarithm function, where each increase of one unit represents multiplication by the scale's base.
+
+A base-ten logarithmic scale measures each unit as a ten-fold change. A value of three on such a scale represents ten to the third power, or one thousand times a reference value. This allows representing quantities from ten to the zero power, or one, to ten to the sixth power, or one million, within a zero to six range.
+
+The decibel scale measures sound intensity logarithmically with base ten. An increase of ten decibels represents a ten-fold increase in power, or roughly doubling of perceived loudness. This scale compresses the human hearing range, from threshold of hearing to pain, into a zero to one-hundred-forty decibel scale.
+
+The Richter scale measures earthquake magnitude logarithmically with base ten. Each unit increase represents roughly thirty-one times more energy released. Thus, a magnitude seven earthquake releases about thirty-two times more energy than a magnitude six.
+
+The pH scale measures acidity and alkalinity logarithmically with base ten. The formula is pH equals negative log base ten of the hydrogen ion concentration. Thus, pH six is ten times more acidic than pH seven, which is neutral. The scale compresses vast differences in hydrogen-ion concentration into a zero to fourteen range.
+
+Logarithmic compression is not merely mathematical convenience—it reflects how human sensation works. The ear perceives sound intensity logarithmically, following the Weber-Fechner law, so a logarithmic scale aligns with human perception.
+
+Semi-log plots use a logarithmic scale on one axis and a linear scale on the other. They reveal exponential relationships as straight lines, making pattern recognition and data fitting easier.
+
+Logarithmic scales are widespread in science and engineering. Bacterial growth is exponential and shown as linear on a log scale. They appear in pandemic modeling, star brightness, measured as apparent magnitude, and chemical concentration in titration curves.

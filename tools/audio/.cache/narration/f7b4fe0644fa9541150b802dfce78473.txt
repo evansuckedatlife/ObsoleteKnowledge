@@ -1,0 +1,9 @@
+Injective. A function is injective, also called one-to-one, when it maps distinct elements from its domain to distinct elements in its codomain. In other words, no two different inputs produce the same output. Each element in the range corresponds to exactly one element in the domain. Injective functions are essential for establishing unique relations, and they form one of the two core ingredients needed for a function to be bijective.
+
+Formally, a function f from set A to set B is injective if whenever f of x equals f of y for any two elements x and y in A, we must have x equals y.
+
+Graphically, you can test injectivity using the Horizontal Line Test. A real-valued function on a coordinate plane is injective if and only if no horizontal line intersects the graph more than once. If you can draw a horizontal line that touches the curve at two or more points, the function fails this test and is not injective.
+
+Strictly monotonic functions—those that are always strictly increasing or always strictly decreasing over an interval—are guaranteed to be injective on that interval. That fact makes them useful for quickly establishing injectivity without more involved arguments.
+
+In terms of set sizes, if an injection exists from set A to set B, then the cardinality of A is less than or equal to the cardinality of B. Another useful property: the composition of two injective functions is always injective. However, unlike bijections, an injective function does not need to cover the entire codomain. Elements in the codomain can remain unmapped, left out of the range. This distinguishes injections from surjections, which require every element in the codomain to be hit by something from the domain. An injective function has a well-defined left inverse, which makes it valuable in many applications.

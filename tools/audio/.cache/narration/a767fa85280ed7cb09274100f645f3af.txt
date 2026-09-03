@@ -1,0 +1,11 @@
+The Miller-Urey Experiment. In 1952, two scientists named Stanley Miller and Harold Urey asked a radical question: could the building blocks of life have assembled themselves from simple, non-living chemicals? They decided to try it in a flask.
+
+They filled a glass apparatus with methane, ammonia, water vapor, and hydrogen, gases they believed made up Earth's atmosphere billions of years ago. Then they subjected the mixture to electric sparks—simulating lightning—and heated it.
+
+After a week, something had changed. The solution inside the flask had turned brown. When they analyzed it, they found something remarkable. Amino acids—the organic compounds that form the backbones of proteins—had assembled themselves from nothing but inorganic gases and electricity. No biological catalyst. No life needed.
+
+They identified glycine and alanine and many other amino acids, proving that the basic building blocks of life could form spontaneously under conditions that may have existed on early Earth. Later, when researchers re-analyzed the preserved samples with modern equipment, they found even more amino acids than Miller and Urey had originally detected.
+
+The experiment became iconic evidence for something profound: the origin of life did not necessarily require divine creation. Chemical evolution—the emergence of complexity from simple molecules—could bootstrap the chemistry that leads to life itself.
+
+Modern science has revised ideas about Earth's early atmosphere. We think there was more carbon dioxide and less ammonia than Miller and Urey assumed. But scientists have shown that even with these revised conditions, the chemistry still produces amino acids, supporting the spirit of their landmark result.

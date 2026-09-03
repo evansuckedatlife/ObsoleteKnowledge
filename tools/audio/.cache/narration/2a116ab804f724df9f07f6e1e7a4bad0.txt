@@ -1,0 +1,9 @@
+Celsius scale. In the eighteenth century, a Swedish astronomer named Anders Celsius created a practical temperature scale based on the one substance everyone understood: water. He set zero degrees as water's freezing point and one hundred degrees as its boiling point at standard atmospheric pressure. He then divided the space between into one hundred equal intervals. It was originally called the centigrade scale, because centigrade literally means one hundred steps.
+
+In 1948, the scientific community renamed it to Celsius to honor its inventor and to avoid confusion with other scales that also used the term centigrade. The Celsius scale has become the most widely used temperature scale in everyday life and in science globally.
+
+The scale connects to the Kelvin scale, which is the absolute temperature standard. The offset between them is exactly two hundred seventy-three point one five units. Zero Celsius equals two hundred seventy-three point one five Kelvin. Negative temperatures are possible on the Celsius scale. They represent conditions colder than water's freezing point.
+
+The intervals on the Celsius scale are the same size as Kelvin intervals, which makes Celsius practical for everyday and laboratory use. The scale is linear, not logarithmic, so you can compare temperatures and do arithmetic across temperature differences directly. Water freezes at zero Celsius and boils at one hundred Celsius, both defined at sea-level atmospheric pressure of one hundred one point three two five kilopascals.
+
+Fahrenheit, which is used primarily in the United States, is a competing historical scale, and Kelvin remains the preferred choice for physics where absolute temperature is essential.

@@ -1,0 +1,13 @@
+The hard disk drive, or HDD. It's a rotating storage device that works using electromagnetic read and write heads hovering above spinning magnetic disks. Despite being slower than modern SSDs, hard drives remain cheap and practical for bulk storage. You can get anywhere from 1 to 20 terabytes of space on a single drive.
+
+Data is stored on those rotating platters, which are coated with magnetic material. A read and write head hovers above the surface and detects or magnetizes microscopic regions to encode ones and zeros. The primary bottleneck in an HDD is seek time—the time it takes for that head to move to the correct track on the platter. This mechanical motion makes hard drives 10 to 100 times slower than SSDs for random access.
+
+HDDs are measured by RPM, or revolutions per minute. A 5400 RPM drive is energy-efficient and common for external storage. 7200 RPM is the standard for desktop and NAS drives. 15000 RPM drives are used in server environments. The faster the platter spins, the quicker you can access data, but also the more power and heat it generates.
+
+The data transfer throughput of a typical HDD is 100 to 200 megabytes per second—much slower than SSDs which can do 500 or more. However, hard drives handle sequential reads of large files reasonably well.
+
+Reliability is measured in mean time between failures, or MTBF, typically between 30,000 and 50,000 hours. Hard drives are mechanically fragile. Drop one, jar it while it's running, or let it overheat, and you'll likely cause failure. They consume more power than SSDs—between 5 and 15 watts—which makes them unsuitable for battery-powered devices. The spinning motor is the main culprit.
+
+There is one advantage: if a mechanical hard drive fails, the data can often be recovered more easily than with SSDs. The read and write process is reversible, which is why professional data recovery services exist specifically for hard drives.
+
+Like SSDs, HDDs are non-volatile—they retain data when powered off. This makes them the traditional choice for long-term storage, even though their price per gigabyte is higher than RAM. Today, hard drives and SSDs coexist. Most people use an SSD as their main boot drive for speed, and then add hard drives for backup and long-term archival storage. The two technologies complement each other.

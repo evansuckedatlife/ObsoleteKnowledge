@@ -1,0 +1,9 @@
+Sorting Algorithms. Systematic methods used to rearrange a list or array of elements into a specified order, most commonly numerical or alphabetical. They are among the most fundamental and heavily studied topics in computer science, serving as critical components in search algorithms, database engines, and optimization routines. Evaluating sorting methods involves analyzing trade-offs in time complexity, memory usage, and stability.
+
+Any comparison-based sorting algorithm has a mathematical lower bound of O of n log n operations in the worst and average cases. This fact is proven using decision tree models. Algorithms that achieve this optimal O of n log n worst-case bound include mergesort and heapsort. Quicksort achieves O of n log n on average but can degrade to O of n squared in its worst case.
+
+Non-comparison sorting methods like counting sort, radix sort, and bucket sort can achieve O of n linear time by exploiting prior knowledge about the range or structure of the inputs. These algorithms break the comparison-based lower bound by taking a different approach entirely.
+
+A sort is defined as stable if it maintains the relative order of duplicate elements. For example, mergesort and insertion sort are stable, while heapsort and standard quicksort are unstable. Stability matters when sorting complex data structures where you want to preserve secondary orderings.
+
+Basic comparison sorts like bubble sort, selection sort, and insertion sort run in quadratic O of n squared time. However, insertion sort is extremely fast for small arrays or lists that are already mostly sorted, making it valuable for hybrid algorithms. Sorting is a fundamental computational problem situated firmly within the class P. Dijkstra's shortest path algorithm relies on a priority queue, which is maintained using sorting principles through heaps. Sorting items by their value-to-weight ratio is the key step in solving the fractional knapsack problem greedily.

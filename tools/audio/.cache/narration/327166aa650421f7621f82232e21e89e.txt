@@ -1,0 +1,9 @@
+Cell Division. The process by which a parent cell separates into two or more daughter cells, accomplished through mitosis for somatic cells or meiosis for germ cells. It is essential for growth, tissue repair, wound healing, and reproduction in all living organisms. During division, chromosomes condense, the nuclear envelope breaks down, and spindle fibers pull replicated DNA to opposite poles, ensuring each daughter cell receives an identical or reduced genomic copy.
+
+Mitosis produces two genetically identical diploid daughter cells from a diploid parent. Meiosis produces four genetically distinct haploid gametes from a diploid cell. The cell cycle comprises G1, gap one; S, DNA synthesis and replication; G2, gap two; and M, mitosis and cytokinesis phases.
+
+Centrioles organize the spindle apparatus during mitosis, positioning centrosomes at poles from which microtubule fibers extend to pull chromosomes apart. Chromosomes condense from diffuse chromatin during prophase, allowing organized segregation. Decondensation occurs after cytokinesis restores nuclear membranes.
+
+Checkpoints control cell cycle progression. The G1/S checkpoint prevents replication of damaged DNA. The G2/M checkpoint prevents mitosis of unreplicated DNA. The spindle checkpoint ensures all chromosomes are attached. Cytokinesis physically divides the cytoplasm, typically via cleavage furrow ingression in animals or cell plate formation in plants.
+
+Uncontrolled or aberrant division leads to aneuploidy and cancer. Proper division is essential for maintaining genome stability and organism development. The duration of the cell cycle varies by cell type, from hours in actively dividing cells to years or decades in neurons and muscle cells.

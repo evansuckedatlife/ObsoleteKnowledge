@@ -1,0 +1,11 @@
+Drosophila. Drosophila melanogaster, the common fruit fly, is a small insect that became the most important model organism in genetics. Its short life cycle, simple genetics, and ease of breeding made it ideal for studying inheritance, mutations, and chromosome behavior in the early twentieth century.
+
+This tiny insect is only three millimeters long but has a remarkable two-week life cycle. Females produce hundreds of offspring, providing massive genetic output for researchers. Thomas Hunt Morgan chose Drosophila in nineteen o eight for experiments on inheritance. Mutations appeared spontaneously in the flies, providing natural variation for study.
+
+Morgan noticed that red eye color is the normal type, called wild-type. A white eye mutant appeared spontaneously and allowed researchers to track inheritance patterns across generations. Drosophila has only four pairs of chromosomes with clear morphological differences that made chromosome tracking visible under microscopes.
+
+Morgan's experiments linked specific traits to specific chromosomes, providing experimental proof of the chromosome theory of inheritance. He mapped the relative positions of genes on chromosomes, establishing the first genetic maps. The fruit fly genome contains roughly thirteen thousand six hundred genes in one hundred sixty-five million base pairs—much smaller and simpler than human DNA but remarkably similar. About seventy-five percent of human disease genes have functional homologs in Drosophila, making it invaluable for studying human genetic disorders.
+
+The fruit fly continues to be used in developmental biology and genetics research today. Its entire genome was sequenced in nineteen ninety-nine. Developmental genes controlling body segmentation, called Hox genes, were discovered in Drosophila and have homologs throughout the animal kingdom.
+
+Thomas Hunt Morgan was the geneticist who pioneered Drosophila experimental work. Drosophila experiments provided the experimental proof for the chromosome theory. The field of genetics was defined by Drosophila research methods. Spontaneous mutations in Drosophila eyes and body were the key observations. This research revealed how genes are located on chromosomes. And Drosophila continues to illuminate evolutionary developmental biology.

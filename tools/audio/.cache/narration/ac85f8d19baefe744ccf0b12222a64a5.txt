@@ -1,0 +1,11 @@
+David Ricardo. An early nineteenth century British economist whose theories of rent, comparative advantage, and value dominated economics for most of the 1800s.
+
+Ricardo developed the principle of comparative advantage. He showed that nations benefit from specializing in goods they produce relatively cheaply compared to other goods they could make, and then trading for goods they are less efficient at producing. This holds true even if one nation is less efficient at everything. This principle became foundational to international trade theory.
+
+He created what became known as Ricardian rent theory. Rent is paid on land not because landlords are productive, but because land has a fixed supply and different plots have different fertility. The best land produces more than the worst land with the same effort, and that difference is captured as rent. This distinguished rent from profit and wages.
+
+Ricardo was acutely aware of tensions within capitalism. He distinguished between wages paid to laborers and profits paid to capitalists. As output increases, these two shares can move in opposite directions. He argued that labor is the ultimate source of value in commodities, though he acknowledged that durable goods like machines needed adjustments to this theory.
+
+He made a pessimistic prediction. As population grew and agriculture expanded onto poorer and poorer lands, rents would rise and profit rates would fall. Eventually, capitalism would reach a stationary state where growth stopped. This bleak vision influenced economic thought for generations.
+
+Ricardo published his ideas in Principles of Political Economy and Taxation in 1817. This book remained the standard textbook for nearly fifty years. He extended Adam Smith's division of labor and free trade into a complete theory of how wealth is distributed among landowners, capitalists, and workers. Karl Marx later adopted Ricardo's labor theory of value and his theory of falling profit rates as cornerstones of his own critique of capitalism. Alfred Marshall would later harmonize Ricardian rent theory with supply and demand curves in his unified framework of economics.

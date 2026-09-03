@@ -1,0 +1,7 @@
+Commutator. In quantum mechanics, the commutator of two operators measures whether they commute. Defined as the difference between applying them in one order versus the other, it answers a crucial question: can you measure two properties of a quantum system simultaneously with perfect precision?
+
+When the commutator equals zero, the operators are compatible and you can measure both observables at the same time. But when it's nonzero, you face a fundamental trade-off, governed by the uncertainty principle itself. The position and momentum operators exemplify this: their commutator is nonzero, which is precisely why you cannot know both exactly.
+
+Commutators are at the bedrock of quantum mechanics because they define the algebra of any quantum system. In the nineteen twenties, physicists realized that the nonzero commutator of position and momentum explained something profound: particles cannot have both definite position and definite momentum simultaneously. This insight forced a complete reimagining of physical reality.
+
+One complication is the anticommutator, used in fermion algebra where the Pauli exclusion principle becomes encoded. But the fundamental insight remains: whether two properties can be known together is determined entirely by whether their operators commute. This is not computational detail—it determines what nature permits us to know.

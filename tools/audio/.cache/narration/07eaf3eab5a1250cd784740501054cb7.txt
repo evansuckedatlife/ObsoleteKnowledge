@@ -1,0 +1,9 @@
+Charge. Electric charge is a fundamental property of matter and the source of electromagnetic force, existing in two types: positive, associated with protons, and negative, associated with electrons. Charge is quantized, meaning all charges are integer multiples of the elementary charge, approximately 1.6 times ten to the negative nineteenth power coulombs. The interaction between charges governs atomic structure, chemical bonding, electromagnetism, and the vast majority of everyday phenomena.
+
+Opposite charges attract according to Coulomb's law, where force is proportional to the product of the charges and inversely proportional to the square of the distance. Like charges repel. This imbalance is the basis of ionic bonding and electrostatic forces. The elementary charge is approximately 1.602 times ten to the negative nineteenth power coulombs, the smallest charge unit. Electrons carry negative elementary charge and protons carry positive elementary charge.
+
+Charge quantization means that free charges always appear as multiples of the elementary charge. The electron's charge has never been measured fractionally, even though quarks inside hadrons carry fractional charges. The coulomb is the SI unit of charge. One coulomb is defined as the charge flowing past a point in one second when current is one ampere.
+
+Electric field is the force per unit charge exerted by charged objects. A positive test charge placed at a field point experiences a force equal to the charge times the electric field. Gauss's law relates electric field to enclosed charge, showing charge as the source of electric field.
+
+Moving charges create magnetic fields according to Ampère's law. Changing magnetic fields induce electric fields according to Faraday's law, unifying electricity and magnetism as electromagnetism. The Millikan oil-drop experiment in 1909 directly measured the elementary charge by observing the motion of charged oil droplets in electric fields.

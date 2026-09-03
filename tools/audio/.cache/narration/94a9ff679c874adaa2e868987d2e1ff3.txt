@@ -1,0 +1,15 @@
+Magnesium. A lightweight alkaline earth metal with atomic number 12 and two valence electrons, making it both chemically reactive and biologically essential. In organic chemistry, it forms the basis of Grignard reagents, among the most versatile nucleophilic reagents in synthesis. In biology, magnesium sits at the heart of chlorophyll and ATP complexes, powering photosynthesis and cellular energy transfer.
+
+Magnesium is the eighth most abundant element in Earth's crust and the third most abundant in seawater, where it exists as magnesium two plus ions. The metal is highly reactive with oxygen and water, burning with an intense white flame often used for flares and emergency signaling.
+
+In Grignard reactions, magnesium metal inserts into the carbon-halogen bond of an organic halide to form R-Mg-X, an organomagnesium reagent and a powerful nucleophile and carbanion equivalent. Magnesium-chloride or magnesium-iodide Grignard reagents are stable in aprotic solvents like diethyl ether or tetrahydrofuran, allowing efficient carbon-carbon bond formation.
+
+Chlorophyll, the photosynthetic pigment, chelates magnesium two plus at its porphyrin center. Without it, photosynthesis cannot proceed. ATP and other high-energy phosphates bind magnesium two plus to stabilize the nucleotide structure and facilitate enzyme-catalyzed phosphoryl transfer.
+
+Dietary magnesium deficiency impairs muscle function and nerve transmission. The mineral is absorbed in the small intestine and stored primarily in bone. Magnesium's electron configuration of neon followed by three s squared gives it a consistent plus-two oxidation state in virtually all compounds, simplifying prediction of its chemistry.
+
+Grignard reagents react with polar groups including carbonyls, esters, and carboxylic acids, making them indispensable for building complex molecules in pharmaceutical and fine-chemical synthesis. Magnesium hydroxide and magnesium oxide are used industrially as flame retardants, refractory materials, and in pulp bleaching processes.
+
+Enzymatic cofactors containing magnesium activate thousands of reactions. Hexokinase, glucose isomerase, and DNA polymerase all require magnesium two plus for catalysis.
+
+Magnesium is essential to the Grignard reaction, the classic organic synthesis using magnesium as the key metal reagent. Organic halides are the starting materials that react with magnesium to form Grignard reagents. Magnesium belongs to the alkaline earth metal category of elements. Many enzymes use magnesium as a cofactor to stabilize substrate binding and transition states. Magnesium exists as magnesium two plus ions throughout biology and aquatic chemistry. Chlorophyll is the photosynthetic pigment that depends on magnesium coordination. ATP is the energy nucleotide that requires magnesium for stability and enzyme interaction.

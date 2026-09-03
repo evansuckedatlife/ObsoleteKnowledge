@@ -1,0 +1,13 @@
+Differentiable Function. A differentiable function is one that has a well-defined derivative at every point in its domain—a measure of how the function's output changes with its input. Differentiability is stronger than continuity; it requires smoothness with no sharp corners or cusps, making it central to optimization, modeling motion, and the entire edifice of calculus.
+
+Formally, a function f is differentiable at x equals a if the derivative f prime of a exists. This derivative is defined as the limit as h approaches zero of f of a plus h minus f of a, all over h. Geometrically, this represents the slope of the tangent line to the graph at that point.
+
+Here's a crucial distinction: differentiability implies continuity, but continuity does not imply differentiability. A continuous function like f of x equals the absolute value of x is not differentiable at x equals zero because there is a sharp corner at that point. You cannot draw a unique tangent line there.
+
+Most functions you encounter in standard calculus are differentiable on their natural domains. All polynomials, exponential functions, and trigonometric functions are differentiable where they are defined.
+
+The derivative provides powerful information about a function's behavior. When the derivative is positive, the function is increasing. When it's negative, the function is decreasing. When the derivative equals zero, you have a critical point, which is often a local extremum—a local maximum or minimum.
+
+A cornerstone theorem is the Mean Value Theorem. It states that if f is differentiable on a closed interval from a to b, then there exists at least one point c in the open interval from a to b where f prime of c equals the overall rate of change: f of b minus f of a, all divided by b minus a.
+
+Higher derivatives provide additional insight. The second derivative f double-prime of x measures concavity. When f double-prime is positive, the graph is concave up, shaped like a bowl. When f double-prime is negative, it's concave down, shaped like an arch. These concavity properties are essential for understanding the shape of functions and for optimization problems.

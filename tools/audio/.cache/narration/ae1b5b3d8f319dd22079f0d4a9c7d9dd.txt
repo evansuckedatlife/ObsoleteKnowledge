@@ -1,0 +1,5 @@
+Chromosome. Thread-like structures made of tightly coiled DNA and proteins that package and organize a cell's genetic material. In eukaryotes, chromosomes exist in the nucleus and are visible only during cell division when the DNA is maximally condensed. They are the physical basis of heredity and the stage upon which genes are distributed to daughter cells.
+
+Chromosomes are composed of DNA wrapped around histone proteins in a repeating structure called nucleosomes. Eukaryotic cells are diploid, meaning they contain pairs of homologous chromosomes, one from each parent. Humans have 46 chromosomes: 22 pairs of autosomes plus sex chromosomes, either XX or XY.
+
+During mitosis, replicated chromosomes are pulled apart to opposite poles of the cell and segregated. During meiosis, homologous chromosomes pair and recombine, creating genetic variation. Chromosomes are visible with a light microscope only when highly condensed during metaphase. Otherwise they remain diffuse in the nucleus as chromatin.

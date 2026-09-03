@@ -1,0 +1,19 @@
+Transistor. A semiconductor device that amplifies or switches electrical signals, forming the foundation of modern electronics. By controlling the flow of current through a small input signal, transistors enable everything from simple switching logic to complex signal amplification. The invention of the transistor in 1947 revolutionized technology by replacing bulky, power-hungry vacuum tubes, enabling the microelectronic era and the digital revolution.
+
+Transistors come in two main types. Bipolar junction transistors, or BJTs, use current to control current. Field-effect transistors, or FETs, use voltage to control current.
+
+A transistor has three terminals. In BJTs these are the base, the input; the collector; and the emitter. In FETs they are the gate, the input; the drain; and the source.
+
+BJTs work by allowing a small base current to control a much larger collector-emitter current, providing current amplification. They are used in analog amplifiers and early digital circuits.
+
+FETs, including MOSFETs, the dominant type in modern chips, use a voltage applied to the gate to create an electric field that controls current flow. They are more power-efficient than BJTs.
+
+When biased as a switch, a transistor can be driven between two states: fully off, or cutoff, or fully on, called saturation. This enables binary logic gates that form the basis of digital computers.
+
+Millions of transistors are integrated onto microchips. Modern processors contain billions, with feature sizes now in the nanometer range.
+
+The transistor's ability to amplify and switch small signals enabled telecommunications, radio, television, computers, and all modern electronics.
+
+Gain, or amplification factor, in BJTs is called hFE or beta, the ratio of collector current to base current. Typical values range from 20 to 300, allowing small signals to control large currents.
+
+Transistor aging and degradation occur over time through mechanisms like hot-carrier injection, electromigration, and bias temperature instability, affecting performance in long-running devices.

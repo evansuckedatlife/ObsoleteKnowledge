@@ -1,0 +1,9 @@
+Superposition. Superposition is the quantum principle that a system can exist simultaneously in multiple states. The superposed state is not a mixture—where the system is in one state or another but you do not know which. Rather, it is a single coherent quantum state described by one wavefunction containing all the possibilities at once.
+
+Before measurement, the system genuinely occupies all superposed states together. Upon measurement, the superposition collapses to one definite outcome. This is counterintuitive because classical objects seem to occupy one state always. But quantum objects are waves, and waves can occupy multiple locations or momenta simultaneously, the way a sound wave fills a room.
+
+Superposition applies to all quantum properties: a particle can be in two locations at once, two momenta at once, spin up and down simultaneously. The wave description makes this intuitive. A water wave occupies many places at once. Similarly, the quantum wavefunction spreads across multiple positions or spin orientations.
+
+The key is that phase matters. Different superposed components interfere with each other. When two paths through the double-slit experiment have the same phase, they interfere constructively. When they differ by half a wavelength, they interfere destructively. This interference is quintessentially quantum and cannot happen in a classical mixture where the system has a definite but unknown state.
+
+The Schrödinger equation describes how superposed states evolve smoothly. But measurement breaks that smooth evolution and forces the system to pick one outcome from the ensemble of possibilities.

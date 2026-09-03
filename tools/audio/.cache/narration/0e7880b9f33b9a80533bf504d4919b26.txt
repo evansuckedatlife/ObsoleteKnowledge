@@ -1,0 +1,11 @@
+The Hershey-Chase Experiment. In 1952, two scientists named Alfred Hershey and Martha Chase set out to answer one of biology's burning questions: what actually carries genetic information—DNA or protein? They used radioactive isotopes to find out.
+
+They grew bacteriophages, which are viruses that infect bacteria, in two separate media. In one, they incorporated radioactive sulfur, which labels protein. In the other, they used radioactive phosphorus, which labels DNA. This gave them two populations of viruses with different isotopic signatures.
+
+They infected bacterial cells with each labeled phage and let the infection proceed. Then they used a blender—literally a kitchen-style blender—to separate the empty phage coats clinging to the outside of the bacteria from whatever genetic material had entered inside.
+
+Here was what they found. The phosphorus, which was bound to DNA, was inside the bacteria and passed on to the next generation of viruses. The sulfur, which was bound to protein, remained outside with the empty phage shells, discarded by the cells. The genetic material was DNA, not protein.
+
+This result settled a debate that had divided biologists. Many had favored protein as the hereditary material, but the Hershey-Chase experiment proved otherwise with elegant simplicity. The power of the technique lay in its directness: isotopic labels allowed them to track molecules without disrupting the infection process.
+
+The finding unified molecular biology. It set the stage for James Watson and Francis Crick's determination of DNA's structure just two years later, and it established DNA as the carrier of hereditary instructions for all life.

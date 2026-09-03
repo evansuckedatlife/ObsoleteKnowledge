@@ -1,0 +1,9 @@
+Op-Amp. Operational amplifier. An integrated circuit containing a high-gain differential amplifier with very high input impedance and low output impedance, designed to be applied with external feedback networks to implement almost any linear or non-linear analog function. Modern op-amps are among the most versatile and cost-effective building blocks in electronics.
+
+The op-amp has three main terminals: a non-inverting input, an inverting input, and an output. It also requires two power supplies, typically plus and minus fifteen volts or plus and minus five volts. The gain without feedback is enormous—between one hundred thousand and one million, or eighty to one hundred twenty decibels.
+
+With negative feedback, where the output is routed back to the inverting input, the op-amp forces both inputs to the same voltage. This virtual short enables predictable, linear circuit behavior. The gain-bandwidth product, measured in megahertz, is constant. Reducing closed-loop gain increases bandwidth. A one hundred times amplifier with a one megahertz gain-bandwidth product has a ten kilohertz bandwidth.
+
+An inverting amplifier applies input to the inverting pin while the non-inverting pin is grounded. The output inverts the signal and scales it. A non-inverting amplifier applies input to the non-inverting pin. The output is in-phase with the input. A summing amplifier, or inverting adder, routes multiple inputs through resistors to the inverting pin, producing a weighted sum that is inverted and amplified.
+
+An integrator uses resistor-capacitor feedback to convert input voltage ramps into output frequency. This is used in function generators and analog computers. A comparator has no feedback and amplifies the difference between inputs to saturation, serving as a high-speed voltage threshold detector and ADC front-end.

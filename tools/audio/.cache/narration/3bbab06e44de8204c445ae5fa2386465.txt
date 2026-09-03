@@ -1,0 +1,11 @@
+Pauling scale. When atoms bond together, they don't share electrons equally. Some atoms have a stronger pull on electrons than others. The Pauling scale quantifies this tendency, called electronegativity, for each chemical element. It ranges from approximately zero point seven for the least electronegative elements to four point zero for fluorine, the most electronegative of all.
+
+The scale was developed by Linus Pauling in nineteen thirty-two. Pauling was an American chemist and Nobel laureate who introduced the concept to explain molecular bonding and reactivity patterns. The scale he created became fundamental to understanding chemistry itself.
+
+Electronegativity generally increases from left to right across a period of the periodic table, and from bottom to top within a group. Fluorine sits at the top right, with the highest electronegativity at four point zero. Cesium and francium, at the bottom left, have the lowest electronegativity at roughly zero point seven.
+
+The scale is dimensionless and conventionally defined relative to hydrogen, which sits at two point two zero. The critical application is predicting what happens when atoms bond. If the electronegativity difference is less than zero point four, the bond is essentially nonpolar. Differences of zero point four to two point zero indicate polar covalent bonds. Differences greater than two point zero suggest ionic character in the bond.
+
+A nonpolar bond occurs between atoms of similar electronegativity, like carbon bonding with carbon or hydrogen bonding with hydrogen. A polar bond occurs when electronegativities differ significantly, like carbon bonding with oxygen. The scale predicts molecular geometry, solubility, reactivity, and acid-base properties. It's crucial for understanding why chemistry works the way it does.
+
+Later scales were developed, like the Allred-Rochow scale, but the Pauling scale remains the most widely taught and referenced in chemistry education.

@@ -1,0 +1,11 @@
+Kirchhoff's laws. Two fundamental principles governing current and voltage in electrical circuits, formulated by German physicist Gustav Kirchhoff in 1845. The current law, or KCL, states that the sum of currents entering a node equals the sum leaving it—a conservation of charge. The voltage law, or KVL, states that the sum of voltages around any closed loop is zero—a conservation of energy. Together, they provide the mathematical framework for analyzing complex circuits of any topology.
+
+Kirchhoff's Current Law states that the algebraic sum of currents entering and leaving any node in a circuit equals zero. Equivalently, current is conserved at junctions. Kirchhoff's Voltage Law states that the sum of all voltage changes around any closed loop in a circuit is zero. No energy is created or destroyed in a circuit path.
+
+KCL follows from charge conservation. Charge cannot accumulate at a node, so whatever current flows in must flow out. KVL follows from energy conservation. The total work done by electric fields in moving a charge around a closed path must be zero because the field is conservative.
+
+Both laws apply to any circuit topology—series, parallel, or mixed—and to both direct current and alternating current circuits. KCL is the basis for the nodal analysis method. Assigning voltages to each node and writing current-conservation equations solves for all node voltages. KVL is the basis for mesh analysis, also called loop analysis. Assigning loop currents and writing voltage-sum equations for each independent loop solves for all currents.
+
+The laws hold in the ideal circuit limit with thin wires and no radiation losses. Real circuits at very high frequencies must account for electromagnetic wave effects beyond the lumped-element approximation. Together with Ohm's law, Kirchhoff's laws form the complete foundation for classical circuit theory and practical circuit design.
+
+The circuit is the system of components Kirchhoff's laws govern. Voltage is one of the two quantities conserved in a circuit through KVL, and current is the other quantity conserved through KCL. The resistor is a passive component whose voltage and current obey Ohm's law, which combined with Kirchhoff's laws allows complete circuit analysis. Circuit topology—the architecture and connections—is what Kirchhoff's laws apply to.

@@ -1,0 +1,13 @@
+Current. The flow of electrical charge through a conductor, measured in amperes. It represents the rate at which charge moves from one point to another, driven by a potential difference, and is the foundational quantity in all practical electronics and power systems.
+
+Current is defined as the amount of charge flowing past a point per unit time. One ampere equals one coulomb per second, and roughly speaking, one ampere is the current flowing through a typical light bulb.
+
+Now here's a key detail: conventional current flows from positive to negative terminal, which is the direction opposite to actual electron flow. There are two main types. Direct current, or DC, flows in one constant direction at constant voltage. Alternating current, or AC, reverses direction periodically, changing polarity and magnitude sinusoidally.
+
+An important principle is that current requires a complete circuit—a closed path with no breaks—to flow. It cannot exist in an open circuit. Breaking the circuit, like flipping a light switch, stops current instantaneously.
+
+Ohm's Law relates current, voltage, and resistance mathematically: current equals voltage divided by resistance. Doubling voltage doubles current through a fixed resistor, while increasing resistance decreases current proportionally.
+
+Lastly, current produces both heat and magnetic fields. This heat dissipation, governed by the equation I squared times R, is a critical concern in circuit design. Designers must use heat sinks and cooling systems to prevent component damage and failure.
+
+Voltage is the potential difference that drives current through a circuit. Resistance opposes current flow and determines how much current flows for a given voltage. Charge is what current represents in quantified form. Electrons are the primary charge carriers in metals and conductors. The circuit itself is the path through which current flows. And the ampere is the standard unit of current measurement. Finally, power is the product of current and voltage, and it determines the energy transfer rate.

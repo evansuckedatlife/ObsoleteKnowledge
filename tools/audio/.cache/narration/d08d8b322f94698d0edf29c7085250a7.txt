@@ -1,0 +1,11 @@
+The Rutherford Gold-Foil Experiment. In 1909, Ernest Rutherford and his team—Hans Geiger and Ernest Marsden—conducted an experiment that shattered the accepted model of the atom. They bombarded thin gold foil with alpha particles, which are helium nuclei, and what they found redirected the entire field of physics.
+
+Rutherford expected the alpha particles to scatter slightly if atoms were uniform, like a diffuse cloud of positive charge studded with electrons. Most particles did pass straight through the foil undeflected, which made sense. But some scattered at wide angles, and a few—a tiny, shocking fraction—bounced nearly straight back.
+
+Rutherford was amazed. He compared it to firing artillery shells at tissue paper and having some bounce back. The backward bounces revealed something extraordinary: a concentrated center of positive charge. The nucleus. Virtually all the atom's mass was concentrated in a region just one hundred-thousandth the size of the atom itself.
+
+The scattering angles matched predictions from Coulomb's law applied to head-on collisions with a point charge. This confirmed that atoms had a nuclear structure, with a dense, tiny nucleus surrounded by empty space occupied by electrons.
+
+This discovery overthrew the reigning plum-pudding model, which had imagined the atom as a diffuse sphere of positive charge with electrons embedded in it like raisins in a pudding. Rutherford's nuclear model became the foundation for everything that followed—Niels Bohr's model of orbital electrons, and ultimately, modern atomic structure.
+
+The elegance of the experiment lay in its simplicity. A straightforward counting task—recording where particles struck a detector screen—revealed the cosmos at the atomic scale and transformed our understanding of matter.

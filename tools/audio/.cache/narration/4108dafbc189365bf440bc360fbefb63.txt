@@ -1,0 +1,9 @@
+Operator, in quantum mechanics. An operator is a mathematical recipe that acts on a wavefunction to extract a measurement. The position operator, the momentum operator, the energy operator—each corresponds to something physical that you can measure.
+
+What makes an operator special is its eigenvalues and eigenstates. When you measure an observable and the system is already in an eigenstate of that operator, the measurement returns the eigenvalue, and the result is certain. Eigenstates are the special quantum states where a measurement has a definite outcome.
+
+Measurement is only precise when the wavefunction is already an eigenstate of the operator you are measuring. If the system is in a superposition of multiple eigenstates, measurement randomly selects one outcome, with probabilities given by the coefficients. The wavefunction then collapses to that eigenstate.
+
+The commutator between two operators reveals whether you can measure both observables simultaneously. If the commutator is zero, the operators share eigenstates and can be measured together. If not, you cannot. Position and momentum do not commute, so you cannot know both exactly—the uncertainty principle in its mathematical heart.
+
+Hermitian operators, those that are self-adjoint, guarantee that eigenvalues are real numbers that can correspond to physical measurements. Werner Heisenberg and Erwin Schrödinger developed operator formalism in the nineteen twenties and showed these abstract mathematical objects encode all of quantum mechanics.

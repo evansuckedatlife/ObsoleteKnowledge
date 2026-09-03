@@ -1,0 +1,7 @@
+Quantum entanglement. Entanglement occurs when two particles become so deeply connected that they share a single quantum state, even when separated by vast distances. Measuring one particle instantaneously determines what you will measure for the other, no matter how far apart they are.
+
+This seems to violate locality—the idea that distant objects cannot instantly affect each other. Yet Albert Einstein himself was deeply troubled by this "spooky action at a distance," as he called it. He suspected that hidden variables, some classical information set at the moment of creation, must explain these correlations.
+
+But experiments proved Einstein wrong. Bell's inequality theorem and subsequent experiments from the nineteen sixties onward showed that no hidden-variable theory can explain quantum entanglement. The correlations are genuinely non-local. Yet paradoxically, you cannot use entanglement to send information faster than light, so Einstein's worry about causality turns out to be unfounded.
+
+Entanglement has become a resource. Quantum computers exploit it to achieve exponential speedup. Quantum cryptography uses it to guarantee security. But entanglement is fragile. Interaction with the environment, called decoherence, destroys the delicate correlation. This is why quantum computers must be kept isolated and cold.

@@ -1,0 +1,7 @@
+Esterification. A chemical reaction that synthesizes an ester by reacting an organic acid, typically a carboxylic acid, with an alcohol. The most common method, Fischer esterification, is an acid-catalyzed condensation reaction that operates under thermodynamic equilibrium, releasing water as a byproduct.
+
+The reaction proceeds via a reversible nucleophilic acyl substitution, where protonation of the carbonyl oxygen of a carboxylic acid by a strong acid catalyst activates the carbon for attack by an alcohol nucleophile. The reaction is driven to completion by Le Chatelier's principle, which requires the removal of water—often using a Dean-Stark apparatus—or the use of one of the starting materials, commonly the alcohol, as the solvent.
+
+Through isotopic labeling, the reaction was demonstrated to proceed with the cleavage of the acyl-oxygen bond rather than the alkyl-oxygen bond, proving that the oxygen atom in the product ester originates from the alcohol. The reaction is catalyzed by strong mineral acids, such as sulfuric acid, or organic acids, such as p-toluenesulfonic acid, which act to increase the electrophilicity of the carboxyl group.
+
+The reaction occurs intramolecularly in hydroxycarboxylic acids to yield cyclic esters known as lactones. Esters are the product class of the esterification reaction, and the primary acidic precursor is a carboxylic acid that reacts with an alcohol—the nucleophile that attacks the carbonyl center of the activated carboxylic acid.
