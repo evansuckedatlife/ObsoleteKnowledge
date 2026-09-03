@@ -3,6 +3,7 @@ type: concept
 category: history
 defines:
   - Harlem Renaissance
+aliases: [artistic-flowering]
 related:
   - "[[langston-hughes]]"
   - "[[zora-neale-hurston]]"

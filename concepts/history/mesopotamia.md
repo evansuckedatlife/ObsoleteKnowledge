@@ -2,6 +2,7 @@
 type: place
 category: history
 defines: [Mesopotamia]
+aliases: [ancient-iraq]
 related: ["[[sumer]]", "[[akkad]]", "[[babylon]]", "[[assyria]]", "[[hammurabi]]", "[[cuneiform]]", "[[ancient-agriculture]]", "[[writing-systems]]"]
 requires: []
 lists: []

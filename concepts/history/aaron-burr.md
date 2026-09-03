@@ -3,6 +3,7 @@ type: person
 category: history
 defines:
   - Aaron Burr
+aliases: [aaron-burr-historical]
 related: ["[[thomas-jefferson]]", "[[alexander-hamilton]]", "[[james-madison]]"]
 requires: ["[[american-revolution]]"]
 lists:

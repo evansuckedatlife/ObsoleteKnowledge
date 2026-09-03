@@ -118,6 +118,10 @@ Write accurate, verifiable, encyclopaedic content from your own general knowledg
 """
 
 
+class QuotaExhausted(RuntimeError):
+    """agy's per-account quota. Every remaining call will fail identically."""
+
+
 SECTIONS = ("## summary", "## you gotta know", "## connections", "## see also")
 
 
@@ -163,6 +167,12 @@ def author(job) -> dict:
         proc = sh(AGY, "-p", prompt, "--model", MODEL, "--output-format", "text")
     except subprocess.TimeoutExpired:
         return {"slug": slug, "ok": False, "reason": "agy timed out"}
+
+    combined = f"{proc.stdout or ''}\n{proc.stderr or ''}"
+    if "quota reached" in combined.lower() or "upgrade your subscription" in combined.lower():
+        # Distinct from the tool-call failure mode below: both surface as an
+        # empty reply, but this one means every remaining call will fail too.
+        raise QuotaExhausted(combined.strip().splitlines()[0][:160])
 
     body = clean(proc.stdout or "")
     if not body:
@@ -225,15 +235,34 @@ def main() -> None:
           + (" [dry run]" if args.dry_run else ""))
 
     ok = fail = 0
+    quota = None
     with concurrent.futures.ThreadPoolExecutor(max_workers=args.jobs) as pool:
-        for r in pool.map(author, jobs):
+        futures = [pool.submit(author, j) for j in jobs]
+        for fut in futures:
+            try:
+                r = fut.result()
+            except QuotaExhausted as exc:
+                if quota is None:
+                    quota = str(exc)
+                    for other in futures:
+                        other.cancel()
+                continue
+            except concurrent.futures.CancelledError:
+                continue
             if r["ok"]:
                 ok += 1
-                print(f"  OK   {r['slug']:<38} {r['words']} words")
+                print(f"  OK   {r['slug']:<38} {r['words']} words", flush=True)
             else:
                 fail += 1
-                print(f"  FAIL {r['slug']:<38} {r['reason']}")
-    print(f"\n{ok} written, {fail} failed")
+                print(f"  FAIL {r['slug']:<38} {r['reason']}", flush=True)
+
+    print("")
+    print(f"{ok} written, {fail} failed")
+    if quota:
+        print(f"QUOTA EXHAUSTED: {quota}")
+        print(f"{len(jobs) - ok - fail} slug(s) not attempted. Nothing is lost: "
+              f"re-run the same wave after the reset and it skips what exists.")
+        sys.exit(2)
 
 
 if __name__ == "__main__":

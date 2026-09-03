@@ -2,6 +2,7 @@
 type: concept
 category: history
 defines: [Legalism, Fajia]
+aliases: [authoritarian-rule]
 related: ["[[qin-dynasty]]", "[[han-dynasty]]", "[[confucianism]]", "[[daoism]]", "[[china]]", "[[shihuangdi]]", "[[authoritarian-rule]]"]
 requires: ["[[china]]"]
 lists: ["[[history-hubs]]"]

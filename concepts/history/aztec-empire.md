@@ -2,6 +2,7 @@
 type: place
 category: history
 defines: [Aztec Empire, Aztec civilization, Mexica]
+aliases: [aztec]
 related: ["[[mexico]]", "[[spanish-conquest-of-mexico]]", "[[hernan-cortes]]", "[[montezuma-ii]]", "[[smallpox-in-the-americas]]"]
 requires: ["[[spanish-conquest-of-mexico]]"]
 lists: ["[[history-hubs]]"]

@@ -4,6 +4,7 @@ category: literature
 defines:
   - "Matsuo Bashō"
   - "Matsuo Basho"
+aliases: [basho]
 related: ["[[haiku]]", "[[edo-period]]", "[[the-narrow-road-to-the-deep-north]]", "[[japan]]"]
 requires: []
 lists:

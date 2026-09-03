@@ -2,6 +2,7 @@
 type: concept
 category: geography
 defines: ["Indigenous land rights", "Native American land claims", "Aboriginal land rights"]
+aliases: [activism]
 related: ["[[aboriginal-australians]]", "[[aboriginal-art]]", "[[native-american]]", "[[united-states]]", "[[colonialism]]", "[[activism]]"]
 requires: ["[[colonialism]]"]
 lists: ["[[geography-hubs]]"]

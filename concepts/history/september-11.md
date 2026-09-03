@@ -2,6 +2,7 @@
 type: event
 category: history
 defines: [September 11 attacks, September 11, 9/11]
+aliases: [9-11-attacks]
 related: ["[[david-childs]]", "[[new-york-city]]", "[[united-states]]", "[[middle-east]]", "[[cold-war]]", "[[islam]]", "[[modernism]]"]
 requires: ["[[united-states]]", "[[middle-east]]", "[[cold-war]]"]
 lists: ["[[history-hubs]]"]

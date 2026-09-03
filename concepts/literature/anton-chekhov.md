@@ -2,6 +2,7 @@
 type: person
 category: literature
 defines: ["Anton Chekhov", Chekhov]
+aliases: [antonin-chekhov]
 related: ["[[realism]]", "[[russian-literature]]", "[[drama]]", "[[the-cherry-orchard]]", "[[russian-empire]]"]
 requires: []
 lists: ["[[short-story-authors]]"]

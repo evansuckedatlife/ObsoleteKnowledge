@@ -2,6 +2,7 @@
 type: event
 category: history
 defines: [Norman Conquest, Normans of England, Norman invasions of England]
+aliases: [1066]
 related: ["[[battle-of-hastings]]", "[[william-the-conqueror]]", "[[harold-godwinson]]", "[[anglo-saxon-england]]", "[[medieval-feudalism]]", "[[england]]", "[[france]]", "[[1066]]"]
 requires: ["[[england]]"]
 lists: ["[[history-hubs]]"]
