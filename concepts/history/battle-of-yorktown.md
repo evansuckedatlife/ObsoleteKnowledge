@@ -7,7 +7,7 @@ requires: ["[[american-revolution]]"]
 lists: ["[[revolutionary-war-battles]]"]
 tour_order: 1
 read: false
-aliases: [yorktown]
+aliases: [yorktown, yorktown-campaign]
 ---
 
 # Yorktown

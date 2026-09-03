@@ -2,6 +2,7 @@
 type: event
 category: history
 defines: [Battle of Normandy, D-Day, Normandy Invasion]
+aliases: [operation-overlord]
 related: ["[[world-war-ii]]", "[[western-europe-campaign]]", "[[dwight-eisenhower]]", "[[operation-overlord]]", "[[france]]"]
 requires: ["[[world-war-ii]]"]
 lists: ["[[world-war-ii-battles]]"]

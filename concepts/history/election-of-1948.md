@@ -2,6 +2,7 @@
 type: event
 category: history
 defines: [Election of 1948, "1948 US presidential election"]
+aliases: [1948-u-s-presidential-election]
 related: ["[[harry-truman]]", "[[thomas-dewey]]", "[[strom-thurmond]]", "[[henry-wallace]]", "[[upset-victory]]"]
 requires: ["[[cold-war]]"]
 lists: ["[[elections]]"]

@@ -7,7 +7,7 @@ requires: ["[[russian-empire]]"]
 lists: []
 tour_order: 1
 read: false
-aliases: [october-revolution]
+aliases: [october-revolution, russian-revolution-1917]
 ---
 
 # Russian Revolution

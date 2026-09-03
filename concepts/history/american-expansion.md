@@ -2,6 +2,7 @@
 type: concept
 category: history
 defines: ["American expansion", "Western expansion", "Westward expansion"]
+aliases: [united-states-westward-expansion]
 related: ["[[manifest-destiny]]", "[[lewis-and-clark-expedition]]", "[[mexican-american-war]]", "[[indian-removal]]", "[[louisiana-purchase]]", "[[oregon-trail]]"]
 requires: ["[[united-states]]", "[[manifest-destiny]]"]
 lists: ["[[history-hubs]]"]
