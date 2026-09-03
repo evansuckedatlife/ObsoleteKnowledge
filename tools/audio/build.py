@@ -72,7 +72,15 @@ def ensure_kokoro_interpreter() -> None:
         sys.exit("Kokoro not installed. Run: save-to-spotify tts setup")
     if os.path.abspath(py) == os.path.abspath(sys.executable):
         sys.exit("kokoro_onnx missing from the Kokoro venv; re-run tts setup")
-    os.execv(py, [py, os.path.abspath(__file__), *sys.argv[1:]])
+
+    # NOT os.execv. On Windows execv does not replace the process: it spawns a
+    # new one and the original exits immediately, so any caller that is not
+    # holding a pipe sees this script "finish" in milliseconds while the real
+    # render runs on detached. A shell loop then reports a failure and starts
+    # the next episode, stacking renders until the machine runs out of memory.
+    # Spawn and wait, and propagate the child's exit code.
+    proc = subprocess.run([py, os.path.abspath(__file__), *sys.argv[1:]])
+    sys.exit(proc.returncode)
 
 
 def find_model(pattern: str) -> str:
