@@ -112,6 +112,41 @@ def available_memory_gb():
         return None
 
 
+def limit_cpu(threads: int) -> None:
+    """Keep synthesis from taking the whole machine.
+
+    onnxruntime defaults to one intra-op thread per core, so a single episode
+    saturates all 8 and the desktop becomes unusable. kokoro_onnx constructs
+    its InferenceSession without passing SessionOptions, so the cap has to be
+    injected by wrapping the constructor.
+
+    Priority matters as much as the thread count: BELOW_NORMAL lets interactive
+    work preempt the render, so the machine stays responsive even while it is
+    busy.
+    """
+    import onnxruntime as rt
+
+    original = rt.InferenceSession
+
+    def throttled(path_or_bytes, sess_options=None, providers=None, **kw):
+        if sess_options is None:
+            sess_options = rt.SessionOptions()
+        sess_options.intra_op_num_threads = threads
+        sess_options.inter_op_num_threads = 1
+        return original(path_or_bytes, sess_options=sess_options,
+                        providers=providers, **kw)
+
+    rt.InferenceSession = throttled
+
+    try:
+        import ctypes
+        BELOW_NORMAL_PRIORITY_CLASS = 0x00004000
+        k32 = ctypes.windll.kernel32
+        k32.SetPriorityClass(k32.GetCurrentProcess(), BELOW_NORMAL_PRIORITY_CLASS)
+    except Exception:
+        pass
+
+
 def patch_kokoro_speed_dtype() -> None:
     """Work around a dtype bug in kokoro-onnx 0.4.7.
 
@@ -175,6 +210,9 @@ def main() -> None:
     ap.add_argument("--voice", default="af_heart")
     ap.add_argument("--speed", type=float, default=1.0)
     ap.add_argument("--bitrate", default="56k")
+    ap.add_argument("--threads", type=int, default=3,
+                    help="onnxruntime intra-op threads; the machine has 8 cores "
+                         "and the default would take all of them")
     args = ap.parse_args()
 
     # Chapter titles are node titles, and the vault holds names well outside
@@ -206,6 +244,7 @@ def main() -> None:
             "Where-Object { $_.CommandLine -like '*audio*build.py*' }\""
         )
 
+    limit_cpu(args.threads)
     patch_kokoro_speed_dtype()
 
     epdir = os.path.join(WORK, args.episode)
