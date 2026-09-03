@@ -2,6 +2,7 @@
 type: person
 category: performance
 defines: [Marius Petipa, Jean-Antoine-Alfred Marius Petipa]
+aliases: [petipa]
 related: ["[[swan-lake]]", "[[the-sleeping-beauty]]", "[[the-nutcracker]]", "[[tchaikovsky]]", "[[imperial-ballet]]", "[[france]]", "[[russian-empire]]"]
 requires: ["[[ballet]]"]
 lists: ["[[choreographers]]"]

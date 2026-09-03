@@ -3,6 +3,7 @@ type: concept
 category: literature
 defines:
   - Elizabethan Theatre
+aliases: [elizabethan-drama]
 related:
   - "[[william-shakespeare]]"
   - "[[christopher-marlowe]]"

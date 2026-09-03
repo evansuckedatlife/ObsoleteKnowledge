@@ -2,6 +2,7 @@
 type: term
 category: science
 defines: [Angiosperms, "angiosperms", "flowering plants", "flowering plant"]
+aliases: [angiosperm]
 related: ["[[gymnosperms]]", "[[monocots]]", "[[dicots]]", "[[seed]]", "[[flower]]"]
 requires: ["[[photosynthesis]]"]
 lists: ["[[plant-distinctions]]"]

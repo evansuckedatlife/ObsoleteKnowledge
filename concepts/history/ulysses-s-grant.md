@@ -2,6 +2,7 @@
 type: person
 category: history
 defines: ["Ulysses S. Grant", "Grant"]
+aliases: [ulysses-grant]
 related: ["[[american-civil-war]]", "[[robert-e-lee]]", "[[abraham-lincoln]]", "[[reconstruction-era]]", "[[battle-of-appomattox]]"]
 requires: ["[[american-civil-war]]"]
 lists: []

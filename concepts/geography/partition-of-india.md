@@ -2,6 +2,7 @@
 type: event
 category: geography
 defines: [Partition of India, Indian Independence]
+aliases: [india-independence]
 related: ["[[india]]", "[[pakistan]]", "[[gandhi]]", "[[british-raj]]", "[[assassination-of-gandhi]]"]
 requires: ["[[british-raj]]", "[[gandhi]]"]
 lists: ["[[geography-hubs]]"]

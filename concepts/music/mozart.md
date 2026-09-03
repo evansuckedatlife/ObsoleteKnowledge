@@ -2,6 +2,7 @@
 type: person
 category: music
 defines: ["Wolfgang Amadeus Mozart", "Mozart", "W.A. Mozart"]
+aliases: [w-a-mozart]
 related: ["[[classical-music]]", "[[sonata-form]]", "[[symphony]]", "[[beethoven]]", "[[salzburg]]", "[[austria]]"]
 requires: ["[[classical-music]]"]
 lists: ["[[music-hubs]]"]

@@ -2,6 +2,7 @@
 type: person
 category: history
 defines: [William Ewart Gladstone]
+aliases: [william-gladstone]
 related: ["[[liberal-party]]", "[[irish-home-rule]]", "[[benjamin-disraeli]]", "[[victorian-era]]", "[[england]]"]
 requires: ["[[british-empire]]"]
 lists:

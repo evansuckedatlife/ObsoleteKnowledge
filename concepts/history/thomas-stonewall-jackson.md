@@ -2,6 +2,7 @@
 type: person
 category: history
 defines: ["Thomas Stonewall Jackson", "Stonewall Jackson", "Thomas Jonathan Jackson"]
+aliases: [thomas-jackson]
 related: ["[[robert-e-lee]]", "[[james-longstreet]]", "[[american-civil-war]]", "[[belle-boyd]]", "[[confederacy]]", "[[virginia]]", "[[battle-of-chickamauga]]"]
 requires: ["[[american-civil-war]]"]
 lists: ["[[history-hubs]]"]

@@ -2,6 +2,7 @@
 type: person
 category: history
 defines: ["Adolf Hitler", "Der Führer"]
+aliases: [hitler]
 related: ["[[nazi-germany]]", "[[world-war-ii]]", "[[holocaust]]", "[[soviet-union]]", "[[fascism]]", "[[operation-barbarossa]]"]
 requires: ["[[world-war-i]]"]
 lists: ["[[history-hubs]]"]

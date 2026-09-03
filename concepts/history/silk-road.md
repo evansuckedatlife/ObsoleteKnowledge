@@ -2,6 +2,7 @@
 type: concept
 category: history
 defines: [Silk Road, Silk Routes]
+aliases: [the-silk-road]
 related: ["[[trade]]", "[[merchants]]", "[[tang-dynasty]]", "[[ottoman-empire]]", "[[venetian-republic]]", "[[buddhism]]", "[[islam]]", "[[Marco-Polo]]", "[[china]]", "[[india]]"]
 requires: []
 lists: []

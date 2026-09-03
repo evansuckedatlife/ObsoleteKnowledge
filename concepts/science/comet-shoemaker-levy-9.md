@@ -2,7 +2,7 @@
 type: place
 category: science
 defines: [Shoemaker-Levy 9, Comet Shoemaker-Levy 9]
-related: ["[[comet]]", "[[jupiter]]", "[[['[[tidal-disruption]]']]]", "[[impact]]"]
+related: ["[[comet]]", "[[jupiter]]", "[[tidal-disruption]]", "[[impact]]"]
 requires: ["[[comet]]"]
 lists: ["[[dwarf-planets-comets-and-asteroids]]"]
 tour_order: 2

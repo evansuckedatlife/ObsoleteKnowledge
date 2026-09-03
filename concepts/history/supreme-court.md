@@ -4,6 +4,7 @@ category: history
 defines:
   - Supreme Court
   - Supreme Court of the United States
+aliases: [united-states-supreme-court]
 related:
   - "[[united-states-constitution]]"
   - "[[bill-of-rights]]"

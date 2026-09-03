@@ -2,6 +2,7 @@
 type: concept
 category: history
 defines: [Women Suffrage, Women's Suffrage]
+aliases: [women-s-suffrage]
 related: ["[[19th-amendment]]", "[[progressive-era]]", "[[susan-b-anthony]]", "[[elizabeth-cady-stanton]]", "[[reproductive-rights]]"]
 requires: ["[[american-revolution]]"]
 lists: ["[[history-hubs]]"]

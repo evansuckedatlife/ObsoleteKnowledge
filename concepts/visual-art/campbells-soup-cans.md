@@ -3,6 +3,7 @@ type: work
 category: visual-art
 defines:
   - Campbell's Soup Cans
+aliases: [campbell-soup-cans]
 related: ["[[andy-warhol]]", "[[pop-art]]", "[[consumerism]]", "[[united-states]]", "[[industrial-revolution]]"]
 requires: ["[[dada]]", "[[surrealism]]"]
 lists:

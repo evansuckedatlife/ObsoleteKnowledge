@@ -5,6 +5,7 @@ defines:
   - Native Americans
   - American Indians
   - Indigenous peoples of North America
+aliases: [native-american]
 related:
   - "[[united-states]]"
   - "[[american-revolution]]"

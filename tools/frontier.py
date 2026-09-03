@@ -34,7 +34,11 @@ except ImportError:  # pragma: no cover
     sys.exit("PyYAML is required:  python -m pip install pyyaml")
 
 FRONTMATTER = re.compile(r"^---\r?\n(.*?)\r?\n---", re.S)
-WIKILINK = re.compile(r"\[\[([^\]\|#]+)")
+# `[` must be excluded from the capture, not just `]`. A malformed nested link
+# such as `[[['[[tidal-disruption` otherwise yields the target `[[tidal-...`,
+# which propagates into the build queue and produces a file literally named
+# `[[cold-war.md`.
+WIKILINK = re.compile(r"\[\[([^\[\]\|#]+)")
 
 # Root-level docs that are legitimate link targets but are not nodes.
 ROOT_DOCS = {
