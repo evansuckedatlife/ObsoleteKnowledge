@@ -16,3 +16,5 @@ ORIGINAL_REQUEST.md
 tools/audio/work/
 tools/audio/state.json
 audit.log
+__pycache__/
+*.pyc
