@@ -2,6 +2,7 @@
 type: concept
 category: science
 defines: ["Data structure"]
+aliases: [data-structures]
 related: ["[[algorithm]]", "[[array]]", "[[linked-list]]", "[[tree-data-structure]]", "[[graph-data-structure]]"]
 requires: ["[[algorithm]]"]
 lists: ["[[science-hubs]]"]

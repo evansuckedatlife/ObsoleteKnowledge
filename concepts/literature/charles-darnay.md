@@ -2,6 +2,7 @@
 type: person
 category: literature
 defines: [Charles Darnay, Charles St. Evrémonde]
+aliases: [darnay]
 related: ["[[a-tale-of-two-cities]]", "[[lucie-manette]]", "[[sydney-carton]]", "[[french-revolution]]", "[[charles-dickens]]"]
 lists: ["[[literature-hubs]]"]
 tour_order: 0

@@ -4,6 +4,7 @@ category: history
 defines:
   - Eddie Rickenbacker
   - Edward Rickenbacker
+aliases: [eddie-rickerbacker]
 related: ["[[red-baron]]", "[[jimmy-doolittle]]"]
 requires: ["[[world-war-i]]"]
 lists:

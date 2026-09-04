@@ -2,6 +2,7 @@
 type: term
 category: science
 defines: [Algorithm, algo]
+aliases: [algorithms]
 related: ["[[recursion]]", "[[divide-and-conquer]]", "[[greedy-algorithm]]", "[[big-o-notation]]"]
 requires: ["[[logic]]"]
 lists: ["[[programming-terms]]"]

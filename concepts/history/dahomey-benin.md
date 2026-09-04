@@ -2,6 +2,7 @@
 type: place
 category: history
 defines: ["Dahomey", "Benin"]
+aliases: [dahomey-kingdom]
 related: ["[[dahomey-kingdom]]", "[[benin-empire]]", "[[french-west-africa]]", "[[transatlantic-slave-trade]]"]
 requires: []
 lists:

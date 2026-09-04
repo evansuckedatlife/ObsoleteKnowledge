@@ -3,6 +3,7 @@ type: person
 category: history
 defines:
   - Christopher Columbus
+aliases: [columbus]
 related: ["[[marco-polo]]", "[[age-of-exploration]]", "[[conquistadors]]", "[[spain]]"]
 requires: ["[[age-of-exploration]]"]
 lists:

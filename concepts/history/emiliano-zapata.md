@@ -2,6 +2,7 @@
 type: person
 category: history
 defines: [Emiliano Zapata]
+aliases: [emilio-zapata]
 related: ["[[mexican-revolution]]", "[[porfirio-diaz]]", "[[pancho-villa]]"]
 requires: ["[[mexican-revolution]]"]
 lists: ["[[mexican-leaders]]"]

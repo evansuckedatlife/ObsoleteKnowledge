@@ -2,6 +2,7 @@
 type: person
 category: history
 defines: [Constantine the Great, Constantine I, Flavius Valerius Constantinus]
+aliases: [constantine]
 related: ["[[diocletian]]", "[[battle-of-the-milvian-bridge]]", "[[edict-of-milan]]", "[[council-of-nicaea]]", "[[christianity]]", "[[rome]]"]
 requires: ["[[roman-empire]]"]
 lists: ["[[roman-emperors]]"]

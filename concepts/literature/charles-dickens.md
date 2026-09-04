@@ -2,6 +2,7 @@
 type: person
 category: literature
 defines: [Charles Dickens, Boz]
+aliases: [dickens]
 related: ["[[great-expectations]]", "[[a-tale-of-two-cities]]", "[[oliver-twist]]", "[[a-christmas-carol]]", "[[bleak-house]]", "[[hard-times]]", "[[our-mutual-friend]]", "[[the-pickwick-papers]]", "[[david-copperfield]]", "[[nicholas-nickleby]]", "[[the-old-curiosity-shop]]", "[[industrial-revolution]]", "[[victorian-england]]", "[[social-realism]]", "[[serialized-fiction]]", "[[england]]"]
 requires: []
 lists: []

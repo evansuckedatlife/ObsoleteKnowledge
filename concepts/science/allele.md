@@ -2,6 +2,7 @@
 type: concept
 category: science
 defines: [allele, allelic]
+aliases: [alleles]
 related: ["[[gene]]", "[[genetics]]", "[[heredity]]", "[[dominant-trait]]", "[[mutation]]"]
 requires: ["[[gene]]"]
 lists: ["[[science-hubs]]"]

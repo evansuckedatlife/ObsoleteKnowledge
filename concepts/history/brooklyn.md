@@ -2,6 +2,7 @@
 type: place
 category: history
 defines: [Brooklyn]
+aliases: [brooklyn-new-york]
 related: ["[[new-york-city]]", "[[united-states]]", "[[battle-of-long-island]]", "[[american-revolution]]", "[[ellis-island]]"]
 requires: ["[[united-states]]"]
 lists: ["[[history-hubs]]"]
