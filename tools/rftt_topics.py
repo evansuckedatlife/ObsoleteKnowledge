@@ -178,8 +178,12 @@ def main() -> None:
         print(f"    {m['packs']:>2}x  {m['name']}")
 
     with open(os.path.join(ROOT, args.out), "w", encoding="utf-8", newline="\r\n") as fh:
-        json.dump({"packs": len(pdfs), "have": len(have),
-                   "missing": missing}, fh, indent=1)
+        # `have` is written out in full, not just counted: which subjects are
+        # already covered is what makes per-category coverage computable, and
+        # coverage -- not node count -- is what predicts match performance.
+        json.dump({"packs": len(pdfs), "have_count": len(have),
+                   "have": have, "missing": missing}, fh, indent=1,
+                  ensure_ascii=False)
     print(f"\nwrote {args.out}")
 
 
