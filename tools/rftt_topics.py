@@ -62,6 +62,24 @@ STOP = {
 }
 
 
+SPACED = re.compile(r"^(?:[A-Za-z]\s+){2,}[A-Za-z]$")
+
+
+def unshout(p: str) -> str:
+    """Undo the two ways a pack renders an answer as display text.
+
+    Spelling rounds letter-space the word ("L A C H R Y M O S E") and many
+    packs set the answer in caps ("HISPANIOLA"). Both are typography, not the
+    subject's name, and left alone they never match a vault slug. Short caps
+    tokens are left alone -- BMW and NATO really are the name.
+    """
+    if SPACED.match(p):
+        p = p.replace(" ", "")
+    if p.isupper() and len(p) > 3:
+        p = p.title() if " " in p or len(p) > 5 else p
+    return p
+
+
 def clean_answer(raw: str) -> list[str]:
     """One answer line -> the subject name(s) it names."""
     s = BRACKETS.sub(" ", PARENS.sub(" ", raw))
@@ -72,7 +90,7 @@ def clean_answer(raw: str) -> list[str]:
     parts = re.split(r"\s*(?:/|;|,\s+or\s+)\s*", s)
     out = []
     for p in parts:
-        p = " ".join(p.split()).strip(" .:-")
+        p = unshout(" ".join(p.split()).strip(" .:-"))
         if not p or len(p) < 3 or len(p) > 60:
             continue
         if re.fullmatch(r"[\d\W]+", p):
@@ -83,11 +101,32 @@ def clean_answer(raw: str) -> list[str]:
     return out[:2]
 
 
+def canon(value: str) -> str:
+    """Normalise a name the way a vault FILENAME is normalised.
+
+    `frontier.slugify` only lowercases and swaps spaces, so it leaves internal
+    punctuation in place: "People's Party of Canada" became `people's-party-
+    of-canada` and never matched the node `peoples-party-of-canada`. Every
+    subject with an apostrophe was therefore counted as missing. Curly quotes
+    made it worse once the extractor started decoding UTF-8 properly.
+
+    Only the comparison is normalised here -- slugify itself is left alone
+    because the merge and dedup tools depend on its exact behaviour.
+    """
+    s = value.strip().lower()
+    for a, b in (("’", ""), ("‘", ""), ("'", ""),
+                 ("“", ""), ("”", ""), ('"', ""),
+                 ("–", "-"), ("—", "-")):
+        s = s.replace(a, b)
+    s = re.sub(r"[^\wÀ-ɏ]+", "-", s, flags=re.U)
+    return s.strip("-")
+
+
 def extract(path: str) -> list[str]:
     with tempfile.NamedTemporaryFile(suffix=".txt", delete=False) as tmp:
         txt = tmp.name
     try:
-        subprocess.run(["pdftotext", "-layout", path, txt],
+        subprocess.run(["pdftotext", "-enc", "UTF-8", "-layout", path, txt],
                        capture_output=True, check=False)
         with open(txt, encoding="utf-8", errors="replace") as fh:
             body = fh.read()
@@ -117,17 +156,17 @@ def main() -> None:
           f"{len(counts)} distinct subjects")
 
     data = frontier.build(ROOT)
-    resolvable = set(data["nodes"])
+    resolvable = {canon(s) for s in data["nodes"]}
     for slug, meta in data["nodes"].items():
         fm = frontier.parse_frontmatter(
             frontier.read_text(os.path.join(ROOT, meta["path"])))
         for key in ("aliases", "defines"):
             for v in frontier.as_list(fm.get(key)):
-                resolvable.add(frontier.slugify(v))
+                resolvable.add(canon(str(v)))
 
     have, missing = [], []
     for name, n in counts.most_common():
-        slug = frontier.slugify(name)
+        slug = canon(name)
         (have if slug in resolvable else missing).append(
             {"name": name, "slug": slug, "packs": n})
 
