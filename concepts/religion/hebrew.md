@@ -2,6 +2,7 @@
 type: term
 category: religion
 defines: [Hebrew, Biblical Hebrew, "Modern Hebrew"]
+aliases: [hebrew-language]
 related: ["[[judaism]]", "[[torah]]", "[[aramaic]]", "[[hebrew-bible]]", "[[israel]]", "[[jewish-language]]"]
 requires: ["[[judaism]]"]
 lists: ["[[religion-hubs]]"]

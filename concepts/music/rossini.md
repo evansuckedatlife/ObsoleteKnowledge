@@ -2,6 +2,7 @@
 type: person
 category: music
 defines: ["Gioachino Rossini", "Rossini"]
+aliases: [gioacchino-rossini]
 related: ["[[opera]]", "[[bel-canto-opera]]", "[[the-barber-of-seville]]", "[[opera-buffa]]", "[[soprano]]", "[[italy]]"]
 requires: ["[[opera]]"]
 lists: ["[[music-hubs]]"]

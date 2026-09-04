@@ -2,6 +2,7 @@
 type: concept
 category: visual-art
 defines: [Die Brücke, The Bridge]
+aliases: [die-brucke]
 related: ["[[german-expressionism]]", "[[expressionism]]", "[[der-blaue-reiter]]", "[[ernst-ludwig-kirchner]]", "[[distortion-in-art]]"]
 requires: ["[[expressionism]]"]
 lists: ["[[visual-art-hubs]]"]

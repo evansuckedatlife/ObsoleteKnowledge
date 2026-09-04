@@ -2,6 +2,7 @@
 type: person
 category: music
 defines: [Puccini, Giacomo Puccini]
+aliases: [gioachimo-puccini]
 related: ["[[opera]]", "[[verismo-opera]]", "[[la-boheme]]", "[[tosca]]", "[[madama-butterfly]]", "[[turandot]]", "[[tenor]]", "[[soprano]]", "[[italy]]"]
 requires: ["[[opera]]", "[[romantic-era]]"]
 lists: ["[[music-hubs]]"]

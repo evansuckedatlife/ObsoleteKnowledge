@@ -2,6 +2,7 @@
 type: concept
 category: performance
 defines: [Fairy tale, Fairytale]
+aliases: [fairy-tales]
 related: ["[[brothers-grimm]]", "[[hans-christian-andersen]]", "[[into-the-woods-musical]]", "[[the-sleeping-beauty]]", "[[cinderella]]", "[[romance]]", "[[magical-realism]]"]
 requires: []
 lists: ["[[performance-hubs]]"]

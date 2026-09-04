@@ -2,6 +2,7 @@
 type: concept
 category: geography
 defines: [Australian Aboriginal culture, Indigenous Australian culture]
+aliases: [indigenous-culture]
 related: ["[[australia]]", "[[dreamtime]]", "[[aboriginal-australians]]", "[[australian-outback]]", "[[songlines]]", "[[didgeridoo]]", "[[uluru]]"]
 requires: ["[[australia]]", "[[colonialism]]"]
 lists: ["[[geography-hubs]]"]

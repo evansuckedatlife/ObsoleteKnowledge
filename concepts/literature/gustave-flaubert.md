@@ -2,6 +2,7 @@
 type: person
 category: literature
 defines: ["Gustave Flaubert"]
+aliases: [flaubert]
 related: ["[[realism]]", "[[french-literature]]", "[[madame-bovary]]", "[[guy-de-maupassant]]", "[[literary-style]]"]
 requires: ["[[realism]]"]
 lists: ["[[literature-hubs]]"]

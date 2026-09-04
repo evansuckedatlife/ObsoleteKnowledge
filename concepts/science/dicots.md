@@ -2,6 +2,7 @@
 type: term
 category: science
 defines: [Dicots, "dicots", "dicotyledonous", Dicotyledoneae, "eudicots"]
+aliases: [dicot]
 related: ["[[monocots]]", "[[angiosperms]]", "[[seed]]", "[[cotyledon]]"]
 requires: ["[[cell]]"]
 lists: ["[[plant-distinctions]]"]

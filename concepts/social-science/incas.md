@@ -2,6 +2,7 @@
 type: concept
 category: social-science
 defines: [Incas, Incan people]
+aliases: [inca]
 related: ["[[inca-empire]]", "[[machu-picchu]]", "[[cusco]]", "[[quechua]]", "[[peru]]"]
 requires: ["[[inca-empire]]"]
 lists: ["[[social-science-hubs]]"]

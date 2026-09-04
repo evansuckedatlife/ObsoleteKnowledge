@@ -2,6 +2,7 @@
 type: work
 category: geography
 defines: [Faust, "Faust: A Tragedy"]
+aliases: [goethe-faust]
 related: ["[[goethe]]", "[[germany]]", "[[faustian-bargain]]", "[[romanticism]]", "[[enlightenment]]"]
 requires: []
 lists: ["[[geography-hubs]]"]

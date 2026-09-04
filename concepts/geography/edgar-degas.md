@@ -2,6 +2,7 @@
 type: person
 category: geography
 defines: [Edgar Degas, Hilaire-Germain-Edgar De Gas]
+aliases: [degas]
 related: ["[[impressionism]]", "[[france]]", "[[paris]]", "[[claude-monet]]", "[[pierre-auguste-renoir]]", "[[ballet]]", "[[modernism]]"]
 requires: ["[[france]]", "[[impressionism]]"]
 lists: ["[[geography-hubs]]"]

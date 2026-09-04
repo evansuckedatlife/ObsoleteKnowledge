@@ -2,7 +2,7 @@
 type: concept
 category: history
 defines: [Fourteenth Amendment, "14th Amendment"]
-aliases: [fourteenth-amendment, "14th Amendment"]
+aliases: [fourteenth-amendment, 14th Amendment, fourteen-amendment]
 related: ["[[united-states-constitution]]", "[[reconstruction-era]]", "[[equal-protection]]", "[[due-process]]", "[[brown-v-board-of-education]]", "[[civil-rights-act-of-1964]]", "[[voting-rights-act-of-1965]]", "[[civil-rights-movement]]"]
 requires: ["[[united-states-constitution]]"]
 lists: []
