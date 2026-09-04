@@ -1,0 +1,212 @@
+{
+  "menu": [
+    "united-states",
+    "cold-war",
+    "france",
+    "modernism",
+    "world-war-ii",
+    "england",
+    "industrial-revolution",
+    "british-empire",
+    "enlightenment",
+    "ancient-greece",
+    "christianity",
+    "roman-empire",
+    "colonialism",
+    "american-civil-war",
+    "new-york-city",
+    "civil-rights-movement",
+    "united-states-constitution",
+    "soviet-union",
+    "existentialism",
+    "germany",
+    "william-shakespeare",
+    "middle-east",
+    "realism",
+    "reconstruction-era",
+    "renaissance",
+    "world-war-i",
+    "italy",
+    "japan",
+    "judaism",
+    "american-revolution",
+    "rome",
+    "spain",
+    "poetry",
+    "linguistics",
+    "14th-amendment",
+    "age-of-exploration",
+    "tragedy",
+    "romanticism",
+    "american-literature",
+    "french-revolution",
+    "silent-film",
+    "dna",
+    "islam",
+    "satire",
+    "china",
+    "charles-dickens",
+    "detective-fiction",
+    "george-washington",
+    "ottoman-empire",
+    "silk-road",
+    "gothic-literature",
+    "jesus",
+    "russian-empire",
+    "jazz",
+    "oxygen",
+    "quantum-mechanics",
+    "english-renaissance",
+    "buddhism",
+    "napoleon-bonaparte",
+    "carbon",
+    "nasa",
+    "atlantic-ocean",
+    "edgar-allan-poe",
+    "cell",
+    "electron",
+    "space-race",
+    "fyodor-dostoevsky",
+    "opera",
+    "macbeth",
+    "evolution"
+  ],
+  "targets": [
+    {
+      "slug": "saint-augustine-confusion",
+      "category": "misc",
+      "inbound": 1,
+      "outbound": 1,
+      "summary": "Two major figures named Saint Augustine lived over two centuries apart, and they are frequently conflated despite very different roles and legacies. Augustine of Hippo (354\u2013430) was a North African theologian whose writings shaped Christian doctrine; Augustine of Canterbury (c. 540\u2013604) was a missionary who brought Chr",
+      "existing": [
+        "christian-theology"
+      ]
+    },
+    {
+      "slug": "centripetal-centrifugal-force",
+      "category": "misc",
+      "inbound": 1,
+      "outbound": 2,
+      "summary": "A widespread misconception treats centripetal and centrifugal force as equal-and-opposite real forces; in fact, only centripetal force is a genuine force. Centrifugal force is a pseudo-force or fictitious force that appears to act in a rotating reference frame but has no physical cause\u2014it is an artifact of non-inertial",
+      "existing": [
+        "isaac-newton",
+        "physics"
+      ]
+    },
+    {
+      "slug": "merchant-of-venice-antisemitism",
+      "category": "misc",
+      "inbound": 2,
+      "outbound": 1,
+      "summary": "The Merchant of Venice is frequently misread as a redemptive or sympathetic portrait of the Jewish moneylender Shylock, when in fact Shakespeare's 1596 play reinforces antisemitic tropes of the era. While modern productions often sympathize with Shylock's plight and rejection, the original text frames him as a villaino",
+      "existing": [
+        "william-shakespeare"
+      ]
+    },
+    {
+      "slug": "bios-firmware",
+      "category": "science",
+      "inbound": 1,
+      "outbound": 3,
+      "summary": "The BIOS (Basic Input/Output System) is firmware\u2014a low-level software program stored on the motherboard\u2014that initializes all hardware at power-up and hands control to the operating system. Modern systems use UEFI (Unified Extensible Firmware Interface), a more advanced standard replacing legacy BIOS, offering better se",
+      "existing": [
+        "central-processing-unit",
+        "motherboard",
+        "power-supply-unit"
+      ]
+    },
+    {
+      "slug": "crispr",
+      "category": "science",
+      "inbound": 1,
+      "outbound": 3,
+      "summary": "CRISPR/Cas9 is a genome-editing tool adapted from bacterial immune systems that uses a guide RNA to direct the Cas9 nuclease to cut DNA at precise locations, enabling deletion, correction, or insertion of genetic sequences. Its programmability, simplicity, and efficiency have revolutionized genetic engineering and hold",
+      "existing": [
+        "cas9",
+        "dna",
+        "molecular-cloning"
+      ]
+    },
+    {
+      "slug": "gene-regulation",
+      "category": "science",
+      "inbound": 2,
+      "outbound": 2,
+      "summary": "Gene regulation is the process by which cells control when, where, and how frequently genes are expressed, turning transcription and translation on or off as needed. Without it, every cell would express every gene constantly, which is incompatible with specialization and survival. Gene regulation allows identical cells",
+      "existing": [
+        "protein-synthesis",
+        "rna"
+      ]
+    },
+    {
+      "slug": "interference",
+      "category": "science",
+      "inbound": 2,
+      "outbound": 2,
+      "summary": "Interference is the phenomenon where two or more waves combine to produce a resultant wave whose amplitude depends on the relative phase of the overlapping waves. Waves that arrive in phase reinforce each other (constructive interference, producing larger amplitude), while waves arriving out of phase cancel each other ",
+      "existing": [
+        "double-slit-experiment",
+        "superposition"
+      ]
+    },
+    {
+      "slug": "ordovician-period",
+      "category": "science",
+      "inbound": 2,
+      "outbound": 2,
+      "summary": "The Ordovician Period (485\u2013444 million years ago) saw an explosion of marine diversity\u2014fishes emerged, corals and cephalopods flourished, and invertebrates colonised the seafloor. The period is named after the Ordovices, an ancient Welsh tribe. It ended abruptly with a mass extinction, possibly triggered by glaciation ",
+      "existing": [
+        "cambrian-period",
+        "silurian-period"
+      ]
+    },
+    {
+      "slug": "switch",
+      "category": "science",
+      "inbound": 1,
+      "outbound": 3,
+      "summary": "A switch is a mechanical or electronic component that opens or closes a circuit path, controlling whether current can flow. Switches range from simple single-pole single-throw (SPST) hand levers to complex electromechanical relays and solid-state field-effect transistors, all serving to route or block current under use",
+      "existing": [
+        "diode",
+        "resistor",
+        "transistor"
+      ]
+    },
+    {
+      "slug": "compiler",
+      "category": "science",
+      "inbound": 2,
+      "outbound": 3,
+      "summary": "A compiler is a program that translates source code written in a high-level language into lower-level code (machine code, bytecode, or another language) that can be executed. The compilation process involves multiple phases: lexical analysis (tokenization), parsing (building syntax trees), semantic analysis (type check",
+      "existing": [
+        "algorithm",
+        "programming-language",
+        "type-system"
+      ]
+    },
+    {
+      "slug": "devonian-period",
+      "category": "science",
+      "inbound": 2,
+      "outbound": 3,
+      "summary": "The Devonian Period (419\u2013359 million years ago) is called the Age of Fishes because jawed fish diversified explosively and dominated the oceans. Meanwhile, plants carpeted the land with forests, and the first four-legged vertebrates\u2014tetrapods\u2014crawled from the water. The period is named after Devon, a county in southwes",
+      "existing": [
+        "age-of-fishes",
+        "carboniferous-period",
+        "silurian-period"
+      ]
+    },
+    {
+      "slug": "fujita-pearson-scale",
+      "category": "science",
+      "inbound": 2,
+      "outbound": 3,
+      "summary": "The Enhanced Fujita scale (EF scale) rates tornado intensity from EF0 to EF5 based on wind speed estimates derived from structural damage rather than direct wind measurements. Developed by Ted Fujita and updated by Don Pearson, the scale provides a standardized framework for assessing tornado damage severity and estima",
+      "existing": [
+        "beaufort-wind-force-scale",
+        "saffir-simpson-scale",
+        "wind-speed"
+      ]
+    }
+  ]
+}

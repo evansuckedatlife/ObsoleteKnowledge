@@ -1,0 +1,178 @@
+{
+  "proposals": [
+    {
+      "slug": "saint-augustine-confusion",
+      "links": [
+        {
+          "target": "christianity",
+          "reason": "Augustine of Hippo shaped Christian theology and doctrine; Augustine of Canterbury was sent as missionary to spread Christianity among Anglo-Saxons—both foundational to Christianity's development"
+        },
+        {
+          "target": "england",
+          "reason": "Augustine of Canterbury brought Christianity to the Anglo-Saxon kingdom and established the archbishopric of Canterbury—a pivotal moment in English religious history"
+        },
+        {
+          "target": "roman-empire",
+          "reason": "Augustine of Hippo lived in Roman North Africa and wrote philosophical and theological responses to Rome's decline in the early 5th century"
+        }
+      ]
+    },
+    {
+      "slug": "centripetal-centrifugal-force",
+      "links": [
+        {
+          "target": "space-race",
+          "reason": "Understanding centripetal force is essential for stable orbital mechanics; NASA and Soviet programs built astronaut training around this physics principle"
+        },
+        {
+          "target": "nasa",
+          "reason": "All spacecraft in orbit depend on precise calculations of centripetal force to maintain stable trajectories around Earth"
+        }
+      ]
+    },
+    {
+      "slug": "merchant-of-venice-antisemitism",
+      "links": [
+        {
+          "target": "judaism",
+          "reason": "The play depicts Shylock as a predatory Jewish moneylender and reinforces medieval antisemitic stereotypes of Jews as enemies to Christian merchants"
+        },
+        {
+          "target": "england",
+          "reason": "The play was written during the English Renaissance and reflects the xenophobic attitudes of Elizabethan England toward religious minorities"
+        },
+        {
+          "target": "christianity",
+          "reason": "The play frames Christian merchants as protagonists and the Jewish character as an antagonist, encoding Christian-Jewish conflict into its moral structure"
+        }
+      ]
+    },
+    {
+      "slug": "bios-firmware",
+      "links": [
+        {
+          "target": "nasa",
+          "reason": "Space systems use specialized firmware for mission-critical hardware initialization and real-time control of spacecraft subsystems"
+        },
+        {
+          "target": "industrial-revolution",
+          "reason": "Firmware represents the digital fulfillment of industrial automation—extending relay and mechanical switch logic into programmable electronic control"
+        }
+      ]
+    },
+    {
+      "slug": "crispr",
+      "links": [
+        {
+          "target": "evolution",
+          "reason": "CRISPR enables directed evolution at genomic precision, giving humans control over selection pressure that natural evolution shapes across millennia"
+        },
+        {
+          "target": "civil-rights-movement",
+          "reason": "CRISPR raises issues of genetic discrimination and unequal access to enhancement—echoing civil rights concerns about biological determinism and inequality"
+        },
+        {
+          "target": "world-war-ii",
+          "reason": "CRISPR's power to edit human genetics raises ethical questions that parallel WWII's role in establishing modern bioethics and restrictions on human experimentation"
+        }
+      ]
+    },
+    {
+      "slug": "gene-regulation",
+      "links": [
+        {
+          "target": "evolution",
+          "reason": "Gene regulation is the molecular mechanism enabling adaptation—organisms with different regulatory patterns experience different selection pressures"
+        },
+        {
+          "target": "industrial-revolution",
+          "reason": "Gene regulation functions like industrial feedback control systems—environmental signals trigger on/off cascades of gene expression, analogous to automated machinery responding to conditions"
+        }
+      ]
+    },
+    {
+      "slug": "interference",
+      "links": [
+        {
+          "target": "world-war-ii",
+          "reason": "Radar systems detect aircraft using interference patterns of radio waves—this technology was decisive in WWII air defense and shaped naval and aerial warfare"
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "slug": "ordovician-period",
+      "links": [
+        {
+          "target": "evolution",
+          "reason": "The Ordovician witnessed a major diversification explosion—vertebrate fish emerged, cephalopods flourished, and marine life radiated into new niches"
+        },
+        {
+          "target": "england",
+          "reason": "The Ordovician period is named after the Ordovices, an ancient Welsh tribe—geological timescale units are named for the locations where their rocks were first studied"
+        }
+      ]
+    },
+    {
+      "slug": "switch",
+      "links": [
+        {
+          "target": "industrial-revolution",
+          "reason": "Electromechanical switches and relays enabled automated machinery and assembly line production—the foundation of industrial manufacturing"
+        },
+        {
+          "target": "world-war-ii",
+          "reason": "Advanced switching technology in radar and electronic warfare systems gave Allies critical detection and targeting advantages"
+        },
+        {
+          "target": "cold-war",
+          "reason": "Switching technology in early computing and nuclear command-and-control systems was central to the technological competition between superpowers"
+        }
+      ]
+    },
+    {
+      "slug": "compiler",
+      "links": [
+        {
+          "target": "world-war-ii",
+          "reason": "Early computing (Turing machines, ENIAC) was developed for code-breaking during WWII; compilers emerged from this computational tradition"
+        },
+        {
+          "target": "nasa",
+          "reason": "Space missions like Apollo required sophisticated real-time compilers for guidance computers operating under extreme resource constraints"
+        },
+        {
+          "target": "cold-war",
+          "reason": "Compiler technology and computing advancement was central to both the space race and nuclear deterrent systems during superpower competition"
+        }
+      ]
+    },
+    {
+      "slug": "devonian-period",
+      "links": [
+        {
+          "target": "evolution",
+          "reason": "The Devonian saw the epochal transition from fish to tetrapods—four-legged vertebrates first colonized land, reshaping life's distribution"
+        },
+        {
+          "target": "england",
+          "reason": "The Devonian period is named after Devon, a county in southwestern England where rocks of this age are well-exposed and were first systematically studied"
+        }
+      ]
+    },
+    {
+      "slug": "fujita-pearson-scale",
+      "links": [
+        {
+          "target": "united-states",
+          "reason": "Tornadoes are a defining natural disaster of central and southern US; the Enhanced Fujita scale was developed to quantify damage from severe American tornadoes"
+        },
+        {
+          "target": "industrial-revolution",
+          "reason": "Standardized damage scales emerged alongside industrialization—societies needed to quantify and insure against natural disaster losses as industrial assets concentrated"
+        }
+      ]
+    }
+  ],
+  "skipped": []
+}
