@@ -28,6 +28,7 @@ from __future__ import annotations
 import argparse
 import collections
 import io
+import itertools
 import json
 import os
 import sys
@@ -137,7 +138,7 @@ def main() -> None:
     for i in range(0, len(fresh), args.per_wave):
         chunk = fresh[i:i + args.per_wave]
         batches = []
-        for cat, items in collections.groupby(
+        for cat, items in itertools.groupby(
                 sorted(chunk, key=lambda f: f["category"]),
                 key=lambda f: f["category"]):
             items = list(items)
