@@ -2,6 +2,7 @@
 type: person
 category: literature
 defines: [J.R.R. Tolkien, John Ronald Reuel Tolkien]
+aliases: [jrr-tolkien]
 related: ["[[the-lord-of-the-rings]]", "[[the-hobbit]]", "[[fantasy]]", "[[childrens-literature]]", "[[odin]]", "[[middle-earth]]"]
 lists: ["[[literature-hubs]]"]
 tour_order: 0

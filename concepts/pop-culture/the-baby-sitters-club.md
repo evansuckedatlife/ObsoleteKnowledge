@@ -2,6 +2,7 @@
 type: work
 category: pop-culture
 defines: [The Baby-Sitters Club, BSC]
+aliases: [baby-sitters-club]
 related: ["[[american-literature]]", "[[united-states]]", "[[realism]]", "[[new-york-city]]", "[[industrialization]]", "[[modernism]]"]
 requires: ["[[american-literature]]", "[[united-states]]"]
 lists: ["[[pop-culture-hubs]]"]

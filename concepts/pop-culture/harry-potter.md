@@ -2,6 +2,7 @@
 type: work
 category: pop-culture
 defines: [Harry Potter, Boy Who Lived]
+aliases: [harry-potter-series]
 related: ["[[halflings]]", "[[england]]", "[[british-empire]]", "[[christianity]]", "[[ancient-greece]]", "[[william-shakespeare]]", "[[tragedy]]"]
 requires: ["[[england]]", "[[british-empire]]"]
 lists: ["[[pop-culture-hubs]]"]

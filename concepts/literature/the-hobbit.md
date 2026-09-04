@@ -2,6 +2,7 @@
 type: work
 category: literature
 defines: [The Hobbit, The Hobbit, or There and Back Again, There and Back Again]
+aliases: [hobbit]
 related: ["[[the-lord-of-the-rings]]", "[[winnie-the-pooh]]", "[[england]]", "[[world-war-i]]", "[[poetry]]", "[[linguistics]]", "[[childrens-literature]]"]
 requires: ["[[england]]", "[[linguistics]]"]
 lists: ["[[literature-hubs]]"]
