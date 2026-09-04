@@ -18,3 +18,7 @@ tools/audio/state.json
 audit.log
 __pycache__/
 *.pyc
+
+# Colon-mangled path spills: an unquoted Windows path used as a literal
+# filename. Has recurred several times from agents writing to a scratchpad.
+C[[:punct:]]UsersevanP*
