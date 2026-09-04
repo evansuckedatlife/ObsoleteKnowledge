@@ -3,7 +3,7 @@ type: concept
 category: performance
 defines: [Fairy tale, Fairytale]
 aliases: [fairy-tales]
-related: ["[[brothers-grimm]]", "[[hans-christian-andersen]]", "[[into-the-woods-musical]]", "[[the-sleeping-beauty]]", "[[cinderella]]", "[[romance]]", "[[magical-realism]]"]
+related: ["[[brothers-grimm]]", "[[hans-christian-andersen]]", "[[into-the-woods-musical]]", "[[sleeping-beauty]]", "[[cinderella]]", "[[romance]]", "[[magical-realism]]"]
 requires: []
 lists: ["[[performance-hubs]]"]
 tour_order: 0
@@ -39,14 +39,14 @@ A **fairy tale** is a narrative genre featuring magical elements, archetypal cha
 - [[brothers-grimm]] — collectors who standardized European fairy-tale canon.
 - [[hans-christian-andersen]] — writer whose original tales blended folk tradition with literary sophistication.
 - [[into-the-woods-musical]] — Sondheim's deconstruction of fairy-tale narrative and the "happily ever after."
-- [[the-sleeping-beauty]] — Tchaikovsky ballet that made fairy tale and dance inseparable.
+- [[sleeping-beauty]] — Tchaikovsky ballet that made fairy tale and dance inseparable.
 - [[cinderella]] — archetypal rags-to-riches transformation tale across countless theatrical and narrative traditions.
 - [[stephen-sondheim]] — composer who critiqued fairy-tale logic through musical theatre.
 - [[romance]] — genre deeply intertwined with fairy-tale narrative, particularly themes of transformation and wish-fulfillment.
 
 ## see also
 
-- [[into-the-woods-musical]] · [[the-sleeping-beauty]] · [[brothers-grimm]] · [[literature-genre]]
+- [[into-the-woods-musical]] · [[sleeping-beauty]] · [[brothers-grimm]] · [[literature-genre]]
 
 <!-- crosslinks -->
 ```dataviewjs

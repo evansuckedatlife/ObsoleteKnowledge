@@ -45,7 +45,7 @@ dv.view("_dv/foundations")
 
 ## see also
 
-- [[aldrich-ames]] · [[kim-philby]] · [[the-cambridge-five]]
+- [[aldrich-ames]] · [[kim-philby]] · [[cambridge-five]]
 
 <!-- crosslinks -->
 ```dataviewjs

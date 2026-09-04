@@ -3,7 +3,7 @@ type: person
 category: performance
 defines: [Marius Petipa, Jean-Antoine-Alfred Marius Petipa]
 aliases: [petipa]
-related: ["[[swan-lake]]", "[[the-sleeping-beauty]]", "[[the-nutcracker]]", "[[tchaikovsky]]", "[[imperial-ballet]]", "[[france]]", "[[russian-empire]]"]
+related: ["[[swan-lake]]", "[[sleeping-beauty]]", "[[the-nutcracker]]", "[[tchaikovsky]]", "[[imperial-ballet]]", "[[france]]", "[[russian-empire]]"]
 requires: ["[[ballet]]"]
 lists: ["[[choreographers]]"]
 tour_order: 1
@@ -36,7 +36,7 @@ dv.view("_dv/foundations")
 ## connections
 
 - [[swan-lake]] — he choreographed the iconic final act, codifying Odette/Odile.
-- [[the-sleeping-beauty]] — his masterpiece; a complete synthesis of ballet, music, and spectacle.
+- [[sleeping-beauty]] — his masterpiece; a complete synthesis of ballet, music, and spectacle.
 - [[the-nutcracker]] — another Tchaikovsky collaboration that became a global institution.
 - [[tchaikovsky]] — his greatest artistic partner; their ballets defined the art form.
 - [[george-balanchine]] — his spiritual descendant; Balanchine inherited and transformed Petipa's classical vocabulary.

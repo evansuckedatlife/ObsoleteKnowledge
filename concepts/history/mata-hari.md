@@ -48,7 +48,7 @@ dv.view("_dv/foundations")
 
 ## see also
 
-- [[belle-boyd]] · [[the-cambridge-five]] · [[virginia-hall]]
+- [[belle-boyd]] · [[cambridge-five]] · [[virginia-hall]]
 
 <!-- crosslinks -->
 ```dataviewjs

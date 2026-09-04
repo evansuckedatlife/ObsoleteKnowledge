@@ -48,7 +48,7 @@ Forms and traditions behind the individual productions and performers.
 - [[new-york-city-ballet|New York City Ballet]] — New York City Ballet (NYCB) is an American ballet company founded in 1948 by choreographer George Balanchine and Lincoln Kirstein, establishing New Yo…
 - [[nijinsky|Vaslav Nijinsky]] — Vaslav Nijinsky was a Russian dancer and choreographer of unparalleled technical virtuosity and artistic daring whose brief but revolutionary career r…
 - [[russian-folklore|Russian Folklore]] — Russian folklore encompasses the mythology, fairy tales, folk customs, and carnival traditions of Russian culture stretching back centuries.
-- [[the-sleeping-beauty|The Sleeping Beauty]] — The Sleeping Beauty is a grand three-act ballet with a prologue composed by Pyotr Ilyich Tchaikovsky and choreographed by Marius Petipa, which premier…
+- [[sleeping-beauty|The Sleeping Beauty]] — The Sleeping Beauty is a grand three-act ballet with a prologue composed by Pyotr Ilyich Tchaikovsky and choreographed by Marius Petipa, which premier…
 - [[tim-rice|Tim Rice]] — Tim Rice (born 1944) is an acclaimed English lyricist and author who transformed modern musical-theatre through celebrated collaborations with compose…
 
 ## progress

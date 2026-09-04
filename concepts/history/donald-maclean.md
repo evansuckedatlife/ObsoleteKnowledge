@@ -2,8 +2,8 @@
 type: person
 category: history
 defines: [Donald Maclean]
-related: ["[[the-cambridge-five]]", "[[kim-philby]]", "[[soviet-intelligence]]", "[[british-intelligence]]", "[[cold-war]]"]
-requires: ["[[the-cambridge-five]]", "[[cold-war]]"]
+related: ["[[cambridge-five]]", "[[kim-philby]]", "[[soviet-intelligence]]", "[[british-intelligence]]", "[[cold-war]]"]
+requires: ["[[cambridge-five]]", "[[cold-war]]"]
 lists: ["[[history-hubs]]"]
 tour_order: 0
 read: false
@@ -36,7 +36,7 @@ dv.view("_dv/foundations")
 
 ## connections
 
-- [[the-cambridge-five]] — the spy ring he was a member of.
+- [[cambridge-five]] — the spy ring he was a member of.
 - [[kim-philby]] — fellow Cambridge spy and colleague in Soviet service.
 - [[soviet-intelligence]] — the KGB and NKVD operatives who recruited and ran him.
 - [[british-intelligence]] — the service he penetrated and then betrayed.
@@ -46,7 +46,7 @@ dv.view("_dv/foundations")
 
 ## see also
 
-- [[the-cambridge-five]] · [[kim-philby]] · [[soviet-intelligence]]
+- [[cambridge-five]] · [[kim-philby]] · [[soviet-intelligence]]
 
 <!-- crosslinks -->
 ```dataviewjs

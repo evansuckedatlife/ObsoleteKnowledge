@@ -5,7 +5,7 @@ defines:
   - Kim Philby
   - Harold Adrian Russell Philby
   - H.A.R. Philby
-related: ["[[cold-war]]", "[[british-intelligence]]", "[[soviet-intelligence]]", "[[the-cambridge-five]]"]
+related: ["[[cold-war]]", "[[british-intelligence]]", "[[soviet-intelligence]]", "[[cambridge-five]]"]
 requires: ["[[cold-war]]"]
 lists:
   - "[[spies]]"
@@ -42,7 +42,7 @@ dv.view("_dv/foundations")
 
 ## connections
 
-- [[the-cambridge-five]] — he was the most senior and destructive member of this spy ring.
+- [[cambridge-five]] — he was the most senior and destructive member of this spy ring.
 - [[british-intelligence]] — the organization he penetrated for two decades.
 - [[soviet-intelligence]] — his handler and protector.
 - [[cold-war]] — the conflict in which his espionage had strategic significance.
@@ -50,7 +50,7 @@ dv.view("_dv/foundations")
 
 ## see also
 
-- [[the-cambridge-five]] · [[aldrich-ames]] · [[donald-maclean]]
+- [[cambridge-five]] · [[aldrich-ames]] · [[donald-maclean]]
 
 <!-- crosslinks -->
 ```dataviewjs

@@ -2,7 +2,7 @@
 type: term
 category: performance
 defines: [Imperial Ballet, Russian Imperial Ballet, Mariinsky Ballet]
-related: ["[[marius-petipa]]", "[[tchaikovsky]]", "[[swan-lake]]", "[[the-sleeping-beauty]]", "[[the-nutcracker]]", "[[russian-empire]]", "[[st-petersburg]]"]
+related: ["[[marius-petipa]]", "[[tchaikovsky]]", "[[swan-lake]]", "[[sleeping-beauty]]", "[[the-nutcracker]]", "[[russian-empire]]", "[[st-petersburg]]"]
 requires: ["[[ballet]]"]
 lists: ["[[performance-hubs]]"]
 tour_order: 0
@@ -37,14 +37,14 @@ The **Imperial Ballet** was the state ballet company of Imperial Russia, centere
 - [[marius-petipa]] — the choreographer who codified its aesthetic and created its masterworks.
 - [[tchaikovsky]] — the composer whose three ballets became its most celebrated productions.
 - [[swan-lake]] — the iconic work premiered in its final act by Petipa.
-- [[the-sleeping-beauty]] — Petipa's full-length masterpiece for the Imperial stage.
+- [[sleeping-beauty]] — Petipa's full-length masterpiece for the Imperial stage.
 - [[the-nutcracker]] — the holiday staple that emerged from Imperial commission and tradition.
 - [[russian-empire]] — the imperial court that patronized and enshrined the company as an institution.
 - [[st-petersburg]] — the city that housed and nurtured the company's development.
 
 ## see also
 
-- [[marius-petipa]] · [[tchaikovsky]] · [[swan-lake]] · [[the-sleeping-beauty]] · [[ballet]]
+- [[marius-petipa]] · [[tchaikovsky]] · [[swan-lake]] · [[sleeping-beauty]] · [[ballet]]
 
 <!-- crosslinks -->
 ```dataviewjs

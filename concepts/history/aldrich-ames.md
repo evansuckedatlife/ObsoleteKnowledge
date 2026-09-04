@@ -35,7 +35,7 @@ read: false
 
 ## see also
 
-- [[robert-hanssen]] · [[kim-philby]] · [[the-cambridge-five]]
+- [[robert-hanssen]] · [[kim-philby]] · [[cambridge-five]]
 
 <!-- crosslinks -->
 ```dataviewjs

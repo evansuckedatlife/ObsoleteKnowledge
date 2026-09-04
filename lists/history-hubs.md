@@ -818,7 +818,6 @@ The connective tissue of the history collection: eras, institutions, movements a
 - [[thaddeus-stevens|Thaddeus Stevens]] — Thaddeus Stevens was a fiercely principled American statesman, ardent abolitionist, and the formidable leader of the radical-republicans in the united…
 - [[the-factory|The Factory]] — The Factory was the legendary Midtown new-york-city studio founded by artist Andy Warhol in 1962, functioning as an influential workspace, countercult…
 - [[the-female-eunuch|The Female Eunuch]] — The Female Eunuch is a landmark 1970 feminist text written by the Australian scholar and academic Germaine Greer, first published in London, england.
-- [[the-labor-movement|The Labor Movement]] — The labor movement—also known as organized labor or trade unionism—is the broad historical and political struggle by working people to secure fair wag…
 - [[the-lost-generation|The Lost Generation]] — The Lost Generation, also referred to simply as the Lost Generation, denotes the post-war demographic cohort and literary circle that reached maturity…
 - [[the-spanish-american-wars-of-independence|The Spanish American Wars of Independence]] — The Spanish American Wars of Independence (1808–1833) were the series of military campaigns and revolutions through which Spanish American colonies li…
 - [[themistocles|Themistocles]] — Themistocles was an Athenian politician and general (strategos) of the fifth century BC who transformed Athens into the preeminent naval power of anci…

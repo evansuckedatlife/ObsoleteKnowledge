@@ -32,7 +32,7 @@ read: false
 
 - [[juan-peron]] — her husband and partner in Peronist ideology.
 - [[salvador-allende]] — contemporary South American advocate for workers' rights and social reform.
-- [[the-labor-movement]] — a foundational context for her work and influence.
+- [[labor-movement]] — a foundational context for her work and influence.
 
 ## see also
 

@@ -36,7 +36,7 @@ dv.view("_dv/foundations")
 - [[fairy-tale]] — they codified fairy tales as a literary category worthy of serious study.
 - [[into-the-woods-musical]] — Sondheim's musical directly deconstructs the Grimm-collected canon as its foundational source material.
 - [[hans-christian-andersen]] — contemporary fairy-tale author whose collected tales were published in parallel and often compared.
-- [[the-sleeping-beauty]] — their "Little Briar Rose" became the libretto source for Petipa and Tchaikovsky's ballet.
+- [[sleeping-beauty]] — their "Little Briar Rose" became the libretto source for Petipa and Tchaikovsky's ballet.
 - [[romantic-movement]] — their work exemplified early Romantic interest in folk tradition and cultural nationalism.
 - [[literature-genre]] — their systematic curation helped establish what counts as fairy-tale literature itself.
 

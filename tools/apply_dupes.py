@@ -70,8 +70,16 @@ def write(p, t):
 
 
 def norm(s: str) -> str:
-    """Compare titles the way a reader would: case and punctuation blind."""
-    return re.sub(r"[^a-z0-9]+", " ", (s or "").lower()).strip()
+    """Compare titles the way a reader would.
+
+    Case and punctuation blind, and blind to a leading article -- "The Olympic
+    Games" and "Olympic Games" are one subject, and an exact compare on the
+    first `defines` value is what let that pair through as two nodes.
+    Consensus's own rules take the same view: a player "will not be penalized
+    if they add, remove, or change the leading article of a title."
+    """
+    s = re.sub(r"[^a-z0-9]+", " ", (s or "").lower()).strip()
+    return re.sub(r"^(?:the|a|an)\s+", "", s)
 
 
 def title_of(text: str) -> str:
@@ -192,6 +200,20 @@ def main() -> None:
             skipped["victim is read"] += 1
             continue
 
+        # B0. the leading-article trap. Ignoring "The" makes "The Birds" and
+        # "Birds" look like one subject; they are a Hitchcock film and a class
+        # of animal. When the article is the ONLY difference, require the two
+        # nodes to agree on category before believing they are the same thing.
+        if (norm(atitle) == norm(ktitle)
+                and atitle.strip().lower() != ktitle.strip().lower()
+                and afm.get("category") != kfm.get("category")):
+            notes.append(f"DOWNGRADED to narrow: {keep} and {away} differ only "
+                         f"by a leading article but sit in different "
+                         f"categories ({kfm.get('category')} vs "
+                         f"{afm.get('category')}) -- different subjects")
+            skipped["article-only match across categories"] += 1
+            continue
+
         # B. subject -- does the survivor already claim the victim's title?
         if norm(atitle) != norm(ktitle) and norm(atitle) not in claims(kfm):
             notes.append(f"DOWNGRADED to narrow: {keep} ('{ktitle}') does not "
@@ -236,11 +258,22 @@ def main() -> None:
                 have.add(norm(str(extra)))
         set_key(kp, "defines", [str(x) for x in defines])
 
+        # Inherit the victim's list memberships -- but only those the list
+        # file actually records. A membership that lives only in the victim's
+        # frontmatter would otherwise transfer to the survivor and leave it
+        # claiming a list it does not appear in, which is exactly the
+        # asymmetry check_symmetry.py exists to catch.
         lists = [frontier.link_basename(x)
                  for x in frontier.as_list(kfm.get("lists"))]
         for extra in frontier.as_list(afm.get("lists")):
             b = frontier.link_basename(extra)
-            if b not in lists:
+            if b in lists:
+                continue
+            lf = os.path.join(ROOT, "lists", b + ".md")
+            if not os.path.exists(lf):
+                continue
+            members = set(frontier.WIKILINK.findall(read(lf)))
+            if away in members or keep in members:
                 lists.append(b)
         set_key(kp, "lists", [f"[[{b}]]" for b in lists])
         cache.pop(keep, None)

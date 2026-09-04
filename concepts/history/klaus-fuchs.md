@@ -48,7 +48,7 @@ dv.view("_dv/foundations")
 
 ## see also
 
-- [[julius-and-ethel-rosenberg]] · [[aldrich-ames]] · [[the-cambridge-five]]
+- [[julius-and-ethel-rosenberg]] · [[aldrich-ames]] · [[cambridge-five]]
 
 <!-- crosslinks -->
 ```dataviewjs

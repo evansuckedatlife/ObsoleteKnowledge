@@ -1,10 +1,10 @@
 ---
 type: term
 category: history
-defines: [Cambridge Five, Cambridge Spies]
+defines: [Cambridge Five, Cambridge Spies, Cambridge Spy Ring]
 related: ["[[cold-war]]", "[[soviet-union]]", "[[england]]", "[[british-empire]]", "[[world-war-ii]]", "[[united-states]]", "[[detective-fiction]]"]
 requires: ["[[cold-war]]", "[[soviet-union]]", "[[england]]"]
-lists: ["[[history-hubs]]"]
+lists: ["[[history-hubs]]", "[[spies]]"]
 tour_order: 0
 read: false
 ---

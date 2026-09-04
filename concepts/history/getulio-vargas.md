@@ -30,7 +30,7 @@ read: false
 
 - [[juan-peron]] — contemporary populist leader with similar labour-focused politics and authoritarian tendencies.
 - [[pedro-ii-of-brazil]] — Vargas's predecessor as a dominant Brazilian political figure.
-- [[the-labor-movement]] — foundational to his political base and policy initiatives.
+- [[labor-movement]] — foundational to his political base and policy initiatives.
 
 ## see also
 

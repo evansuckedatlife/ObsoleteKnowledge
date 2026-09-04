@@ -1,7 +1,7 @@
 ---
 type: concept
 category: history
-defines: ["Labor Movement", "Trade Unions"]
+defines: [Labor Movement, Trade Unions, Organized Labor, Trade Unionism]
 related: ["[[industrial-revolution]]", "[[capitalism]]", "[[progressive-era]]", "[[marxism]]", "[[socialism]]", "[[working-class]]"]
 requires: ["[[industrial-revolution]]"]
 lists: ["[[history-hubs]]"]

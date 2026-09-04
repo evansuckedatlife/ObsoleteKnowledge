@@ -1,12 +1,10 @@
 ---
 type: work
 category: performance
-defines:
-  - Sleeping Beauty
+defines: [Sleeping Beauty]
 related: ["[[swan-lake]]", "[[the-nutcracker]]", "[[coppelia]]"]
 requires: ["[[pyotr-ilyich-tchaikovsky]]"]
-lists:
-  - "[[ballets]]"
+lists: ["[[ballets]]", "[[performance-hubs]]"]
 tour_order: 1
 read: false
 ---
