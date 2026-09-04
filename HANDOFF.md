@@ -27,6 +27,13 @@ Nothing is running. `agy` quota is available.
 
 ## Three queues, ready to go
 
+**Read `COVERAGE.md` first.** It replaces "write more nodes" with a measured
+target: the vault answers 30.5% of a real RFTT pack, and the gap is subject
+area, not obscurity. Consensus is 23% Popular Culture where the vault is 6.9%,
+and 16% General Knowledge where the vault is 2.8%. The queue in
+`_scratch/master.json` (3,563 subjects, RFTT answer set + per-subcategory
+seeding) is ordered by that deficit via `tools/consensus_wave.py`.
+
 ```bash
 # 1. Canadian / RFTT gap — 125 of 128 classified subjects unwritten. HIGHEST VALUE.
 #    The vault was NAQT-scoped (American); RFTT is Canadian and asks about
