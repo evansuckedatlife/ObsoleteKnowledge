@@ -3,7 +3,7 @@ type: place
 category: social-science
 defines:
   - L'Anse aux Meadows
-related: ["[[vikings]]", "[[canada]]", "[[vinland]]", "[[age-of-exploration]]"]
+related: ["[[vikings]]", "[[canada]]", "[[vinland]]", "[[age-of-exploration]]", "[[colonialism]]"]
 requires: []
 lists:
   - "[[archaeological-sites]]"

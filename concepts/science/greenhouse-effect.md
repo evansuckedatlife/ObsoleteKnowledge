@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: [Greenhouse effect, Climate forcing]
-related: ["[[atmosphere]]", "[[meteorology]]", "[[carbon-dioxide]]", "[[climate]]", "[[radiation]]", "[[infrared]]", "[[ozone]]"]
+related: ["[[atmosphere]]", "[[meteorology]]", "[[carbon-dioxide]]", "[[climate]]", "[[radiation]]", "[[infrared]]", "[[ozone]]", "[[industrial-revolution]]"]
 requires: ["[[atmosphere]]"]
 lists: ["[[science-hubs]]"]
 tour_order: 0

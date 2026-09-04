@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: [Electrolyte, Ionic conductor]
-related: ["[[ion]]", "[[charge]]", "[[electrical-conductivity]]", "[[muscle-contraction]]", "[[potassium]]", "[[sodium]]", "[[nerve-transmission]]"]
+related: ["[[ion]]", "[[charge]]", "[[electrical-conductivity]]", "[[muscle-contraction]]", "[[potassium]]", "[[sodium]]", "[[nerve-transmission]]", "[[space-race]]"]
 requires: ["[[ion]]", "[[charge]]"]
 lists: ["[[science-hubs]]"]
 tour_order: 0

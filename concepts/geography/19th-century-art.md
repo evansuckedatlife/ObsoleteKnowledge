@@ -2,7 +2,7 @@
 type: concept
 category: geography
 defines: [19th-Century Art]
-related: ["[[impressionism]]", "[[romanticism]]", "[[realism]]", "[[modernism]]", "[[post-impressionism]]", "[[industrialization]]", "[[modernization]]"]
+related: ["[[impressionism]]", "[[romanticism]]", "[[realism]]", "[[modernism]]", "[[post-impressionism]]", "[[industrialization]]", "[[modernization]]", "[[industrial-revolution]]"]
 requires: ["[[industrialization]]"]
 lists: ["[[geography-hubs]]"]
 tour_order: 0

@@ -2,7 +2,7 @@
 type: place
 category: performance
 defines: [19th-Century France, Nineteenth-Century France]
-related: ["[[les-miserables-musical]]", "[[the-phantom-of-the-opera-musical]]", "[[giselle]]", "[[coppelia]]", "[[ballet]]", "[[french-revolution]]", "[[france]]"]
+related: ["[[les-miserables-musical]]", "[[the-phantom-of-the-opera-musical]]", "[[giselle]]", "[[coppelia]]", "[[ballet]]", "[[french-revolution]]", "[[france]]", "[[romanticism]]", "[[napoleon-bonaparte]]", "[[industrial-revolution]]"]
 requires: ["[[france]]", "[[french-revolution]]"]
 lists: ["[[performance-hubs]]"]
 tour_order: 0

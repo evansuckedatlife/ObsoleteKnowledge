@@ -3,7 +3,7 @@ type: event
 category: history
 defines:
   - Battle of Tarawa
-related: ["[[battle-of-guadalcanal]]", "[[united-states-marine-corps]]", "[[gilbert-islands]]", "[[japan]]"]
+related: ["[[battle-of-guadalcanal]]", "[[united-states-marine-corps]]", "[[gilbert-islands]]", "[[japan]]", "[[united-states]]"]
 requires: ["[[world-war-ii]]"]
 lists:
   - "[[world-war-ii-pacific-campaigns]]"

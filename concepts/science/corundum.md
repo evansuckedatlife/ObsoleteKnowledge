@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [Corundum, Al₂O₃, ruby, sapphire]
-related: ["[[diamond]]", "[[quartz]]", "[[mohs-scale]]", "[[metamorphic-rock]]", "[[gemstone]]"]
+related: ["[[diamond]]", "[[quartz]]", "[[mohs-scale]]", "[[metamorphic-rock]]", "[[gemstone]]", "[[silk-road]]"]
 requires: []
 lists: ["[[rocks-and-minerals]]"]
 tour_order: 0

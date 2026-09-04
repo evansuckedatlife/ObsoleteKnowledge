@@ -2,7 +2,7 @@
 type: period
 category: sports
 defines: [1920s Sports, The Golden Age of Sports]
-related: ["[[tennis]]", "[[bill-tilden]]", "[[helen-wills-moody]]", "[[1920s-tennis]]", "[[united-states]]"]
+related: ["[[tennis]]", "[[bill-tilden]]", "[[helen-wills-moody]]", "[[1920s-tennis]]", "[[united-states]]", "[[silent-film]]"]
 requires: []
 lists: ["[[sports-hubs]]"]
 tour_order: 0

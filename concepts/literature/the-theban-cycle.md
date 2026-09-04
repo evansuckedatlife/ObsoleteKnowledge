@@ -2,7 +2,7 @@
 type: concept
 category: literature
 defines: [Theban Cycle, House of Laius, Labdacid Curse]
-related: ["[[sophocles]]", "[[oedipus-rex]]", "[[antigone]]", "[[greek-tragedy]]", "[[ancient-greece]]"]
+related: ["[[sophocles]]", "[[oedipus-rex]]", "[[antigone]]", "[[greek-tragedy]]", "[[ancient-greece]]", "[[aristotle]]", "[[existentialism]]"]
 requires: ["[[sophocles]]"]
 lists: ["[[literature-hubs]]"]
 tour_order: 0

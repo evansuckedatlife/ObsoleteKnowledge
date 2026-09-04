@@ -4,7 +4,7 @@ category: social-science
 defines:
   - E.E. Evans-Pritchard
   - Edward Evan Evans-Pritchard
-related: ["[[bronislaw-malinowski]]", "[[nuer]]", "[[witchcraft-oracles-magic]]", "[[ancient-greece]]", "[[rome]]", "[[middle-east]]", "[[ottoman-empire]]"]
+related: ["[[bronislaw-malinowski]]", "[[nuer]]", "[[witchcraft-oracles-magic]]", "[[ancient-greece]]", "[[rome]]", "[[middle-east]]", "[[ottoman-empire]]", "[[colonialism]]", "[[england]]"]
 requires: ["[[franz-boas]]", "[[bronislaw-malinowski]]"]
 lists:
   - "[[anthropologists]]"

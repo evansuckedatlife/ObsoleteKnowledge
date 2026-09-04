@@ -2,7 +2,7 @@
 type: place
 category: history
 defines: [Mediterranean Theater]
-related: ["[[world-war-ii]]", "[[north-africa-campaign]]", "[[italy-campaign]]", "[[battle-of-anzio]]", "[[battle-of-el-alamein]]"]
+related: ["[[world-war-ii]]", "[[north-africa-campaign]]", "[[italy-campaign]]", "[[battle-of-anzio]]", "[[battle-of-el-alamein]]", "[[italy]]", "[[mediterranean-sea]]"]
 requires: ["[[world-war-ii]]"]
 lists: ["[[history-hubs]]"]
 tour_order: 0

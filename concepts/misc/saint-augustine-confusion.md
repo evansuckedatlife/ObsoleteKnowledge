@@ -5,7 +5,7 @@ defines:
   - Saint Augustine confusion
   - Augustine of Hippo
   - Augustine of Canterbury
-related: ["[[augustine-of-hippo]]", "[[augustine-of-canterbury]]", "[[christian-theology]]"]
+related: ["[[augustine-of-hippo]]", "[[augustine-of-canterbury]]", "[[christian-theology]]", "[[christianity]]", "[[england]]"]
 requires: ["[[christianity]]"]
 lists:
   - "[[common-mistakes]]"

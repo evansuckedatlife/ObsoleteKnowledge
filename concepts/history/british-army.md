@@ -2,7 +2,7 @@
 type: concept
 category: history
 defines: [British Army]
-related: ["[[battle-of-el-alamein]]", "[[battle-of-princeton]]", "[[world-war-ii]]", "[[american-revolution]]", "[[british-empire]]"]
+related: ["[[battle-of-el-alamein]]", "[[battle-of-princeton]]", "[[world-war-ii]]", "[[american-revolution]]", "[[british-empire]]", "[[england]]"]
 requires: ["[[british-empire]]"]
 lists: ["[[history-hubs]]"]
 tour_order: 0

@@ -3,9 +3,7 @@ type: place
 category: science
 defines:
   - Mauna Loa
-related:
-  - "[[kilauea]]"
-  - "[[mount-erebus]]"
+related: ["[[kilauea]]", "[[mount-erebus]]", "[[united-states]]", "[[colonialism]]"]
 requires: []
 lists:
   - "[[active-volcanoes]]"

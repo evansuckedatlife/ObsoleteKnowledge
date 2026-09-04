@@ -2,7 +2,7 @@
 type: place
 category: geography
 defines: [Borneo, Kalimantan]
-related: ["[[southeast-asia]]", "[[colonialism]]", "[[activism]]", "[[age-of-exploration]]", "[[world-war-ii]]", "[[british-empire]]", "[[dna]]"]
+related: ["[[southeast-asia]]", "[[colonialism]]", "[[activism]]", "[[age-of-exploration]]", "[[world-war-ii]]", "[[british-empire]]", "[[dna]]", "[[evolution]]"]
 requires: ["[[southeast-asia]]", "[[colonialism]]"]
 lists: ["[[geography-hubs]]"]
 tour_order: 0

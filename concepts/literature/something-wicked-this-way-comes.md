@@ -3,7 +3,7 @@ type: work
 category: literature
 defines:
   - Something Wicked This Way Comes
-related: ["[[ray-bradbury]]", "[[gothic-literature]]", "[[carnival-horror]]"]
+related: ["[[ray-bradbury]]", "[[gothic-literature]]", "[[carnival-horror]]", "[[enlightenment]]", "[[existentialism]]"]
 requires: ["[[ray-bradbury]]"]
 lists:
   - "[[works-of-horror-fiction]]"

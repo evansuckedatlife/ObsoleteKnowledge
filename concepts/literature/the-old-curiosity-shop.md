@@ -2,7 +2,7 @@
 type: work
 category: literature
 defines: ["The Old Curiosity Shop"]
-related: ["[[charles-dickens]]", "[[little-nell]]", "[[england]]", "[[london]]"]
+related: ["[[charles-dickens]]", "[[little-nell]]", "[[england]]", "[[london]]", "[[culture]]"]
 requires: ["[[charles-dickens]]"]
 lists: ["[[charles-dickens-novels]]"]
 tour_order: 1

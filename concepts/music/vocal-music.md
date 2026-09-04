@@ -2,7 +2,7 @@
 type: term
 category: music
 defines: [Vocal music, sung music, voice-based music]
-related: ["[[voice-classification]]", "[[voice-type]]", "[[singing]]", "[[opera]]", "[[madrigal]]", "[[aria]]", "[[song]]"]
+related: ["[[voice-classification]]", "[[voice-type]]", "[[singing]]", "[[opera]]", "[[madrigal]]", "[[aria]]", "[[song]]", "[[poetry]]"]
 requires: ["[[voice-classification]]"]
 lists: ["[[music-hubs]]"]
 tour_order: 0

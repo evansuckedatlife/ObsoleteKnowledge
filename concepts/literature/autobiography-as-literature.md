@@ -2,7 +2,7 @@
 type: concept
 category: literature
 defines: [Autobiography as literature, literary autobiography]
-related: ["[[american-literature]]", "[[civil-rights-movement]]", "[[romanticism]]", "[[enlightenment]]", "[[realism]]", "[[modernism]]", "[[existentialism]]"]
+related: ["[[american-literature]]", "[[civil-rights-movement]]", "[[romanticism]]", "[[enlightenment]]", "[[realism]]", "[[modernism]]", "[[existentialism]]", "[[christianity]]"]
 requires: ["[[american-literature]]", "[[realism]]"]
 lists: ["[[literature-hubs]]"]
 tour_order: 0

@@ -2,7 +2,7 @@
 type: event
 category: history
 defines: ["Catholic Emancipation", "Catholic Emancipation Act of 1829"]
-related: ["[[great-reform-act-of-1832]]", "[[robert-peel]]", "[[daniel-o-connell]]", "[[irish-nationalism]]", "[[chartism]]", "[[christianity]]"]
+related: ["[[great-reform-act-of-1832]]", "[[robert-peel]]", "[[daniel-o-connell]]", "[[irish-nationalism]]", "[[chartism]]", "[[christianity]]", "[[england]]"]
 requires: []
 lists: ["[[british-reform-movements]]"]
 tour_order: 0

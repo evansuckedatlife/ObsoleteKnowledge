@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: [Measurement, Quantum measurement]
-related: ["[[wavefunction-collapse]]", "[[superposition]]", "[[wave-particle-duality]]", "[[quantum-entanglement]]", "[[uncertainty-principle]]"]
+related: ["[[wavefunction-collapse]]", "[[superposition]]", "[[wave-particle-duality]]", "[[quantum-entanglement]]", "[[uncertainty-principle]]", "[[science-fiction]]"]
 requires: ["[[quantum-mechanics]]", "[[superposition]]"]
 lists: ["[[science-hubs]]"]
 tour_order: 0

@@ -2,7 +2,7 @@
 type: concept
 category: literature
 defines: [Form and Content, form and content]
-related: ["[[modernism]]", "[[poetry]]", "[[stream-of-consciousness]]", "[[visual-poetry]]", "[[expressionism]]", "[[realism]]", "[[linguistics]]"]
+related: ["[[modernism]]", "[[poetry]]", "[[stream-of-consciousness]]", "[[visual-poetry]]", "[[expressionism]]", "[[realism]]", "[[linguistics]]", "[[aristotle]]", "[[france]]"]
 requires: ["[[modernism]]", "[[poetry]]"]
 lists: ["[[literature-hubs]]"]
 tour_order: 0

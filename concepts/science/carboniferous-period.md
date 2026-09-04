@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: [Carboniferous Period, Carboniferous]
-related: ["[[devonian-period]]", "[[permian-period]]", "[[coal-forests]]", "[[synapsids]]", "[[amphibians]]"]
+related: ["[[devonian-period]]", "[[permian-period]]", "[[coal-forests]]", "[[synapsids]]", "[[amphibians]]", "[[industrial-revolution]]"]
 requires: ["[[cenozoic-era]]", "[[devonian-period]]"]
 lists: ["[[geologic-time-periods]]"]
 tour_order: 1

@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: [cryovolcanism, cryovolcanic]
-related: ["[[volcano]]", "[[enceladus]]", "[[europa]]", "[[triton]]", "[[subsurface-ocean]]"]
+related: ["[[volcano]]", "[[enceladus]]", "[[europa]]", "[[triton]]", "[[subsurface-ocean]]", "[[space-race]]"]
 requires: ["[[volcano]]"]
 lists: ["[[science-hubs]]"]
 tour_order: 0

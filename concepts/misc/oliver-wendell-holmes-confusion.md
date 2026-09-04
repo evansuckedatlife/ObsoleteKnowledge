@@ -5,7 +5,7 @@ defines:
   - Oliver Wendell Holmes confusion
   - Oliver Wendell Holmes Sr.
   - Oliver Wendell Holmes Jr.
-related: ["[[oliver-wendell-holmes-sr]]", "[[oliver-wendell-holmes-jr]]", "[[united-states]]"]
+related: ["[[oliver-wendell-holmes-sr]]", "[[oliver-wendell-holmes-jr]]", "[[united-states]]", "[[american-literature]]", "[[united-states-constitution]]"]
 requires: []
 lists:
   - "[[common-mistakes]]"

@@ -2,7 +2,7 @@
 type: person
 category: history
 defines: ["Eleanor of Aquitaine", "Duchess of Aquitaine"]
-related: ["[[thomas-becket]]", "[[richard-i]]", "[[king-john]]", "[[house-of-plantagenet]]", "[[england]]", "[[france]]", "[[christianity]]"]
+related: ["[[thomas-becket]]", "[[richard-i]]", "[[king-john]]", "[[house-of-plantagenet]]", "[[england]]", "[[france]]", "[[christianity]]", "[[poetry]]", "[[culture]]"]
 requires: ["[[france]]", "[[england]]", "[[christianity]]"]
 lists: ["[[history-hubs]]"]
 tour_order: 0

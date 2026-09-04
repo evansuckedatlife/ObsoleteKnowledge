@@ -2,7 +2,7 @@
 type: person
 category: history
 defines: [Bartolomeo Vanzetti]
-related: ["[[nicola-sacco]]", "[[anarchism-in-america]]", "[[1920s-american-politics]]", "[[united-states]]", "[[italy]]", "[[world-war-i]]", "[[14th-amendment]]", "[[american-literature]]"]
+related: ["[[nicola-sacco]]", "[[anarchism-in-america]]", "[[1920s-american-politics]]", "[[united-states]]", "[[italy]]", "[[world-war-i]]", "[[14th-amendment]]", "[[american-literature]]", "[[poetry]]"]
 requires: ["[[united-states]]", "[[italy]]", "[[world-war-i]]"]
 lists: ["[[history-hubs]]"]
 tour_order: 0

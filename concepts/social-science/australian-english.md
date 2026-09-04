@@ -4,7 +4,7 @@ category: social-science
 defines:
   - Australian English
   - Aussie English
-related: ["[[general-american]]", "[[received-pronunciation]]", "[[new-zealand-english]]"]
+related: ["[[general-american]]", "[[received-pronunciation]]", "[[new-zealand-english]]", "[[british-empire]]", "[[colonialism]]", "[[cold-war]]"]
 requires: ["[[linguistics]]"]
 lists:
   - "[[accents-and-dialects-of-english]]"

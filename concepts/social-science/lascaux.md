@@ -3,7 +3,7 @@ type: place
 category: social-science
 defines:
   - Lascaux
-related: ["[[paleolithic-art]]", "[[france]]", "[[cave-painting]]"]
+related: ["[[paleolithic-art]]", "[[france]]", "[[cave-painting]]", "[[modernism]]", "[[evolution]]", "[[world-war-ii]]"]
 requires: []
 lists:
   - "[[archaeological-sites]]"

@@ -3,7 +3,7 @@ type: work
 category: literature
 defines:
   - "The Monkey's Paw"
-related: ["[[william-wymark-jacobs]]", "[[short-story]]", "[[consequence-horror]]", "[[england]]"]
+related: ["[[william-wymark-jacobs]]", "[[short-story]]", "[[consequence-horror]]", "[[england]]", "[[existentialism]]", "[[industrial-revolution]]"]
 requires: []
 lists:
   - "[[works-of-horror-fiction]]"

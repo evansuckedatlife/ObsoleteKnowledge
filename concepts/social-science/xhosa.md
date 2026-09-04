@@ -5,7 +5,7 @@ defines:
   - Xhosa
   - isiXhosa
   - Xhossa
-related: ["[[click-consonants]]", "[[bantu-languages]]", "[[south-african-languages]]"]
+related: ["[[click-consonants]]", "[[bantu-languages]]", "[[south-african-languages]]", "[[colonialism]]", "[[british-empire]]"]
 requires: ["[[linguistics]]"]
 lists:
   - "[[unique-languages]]"

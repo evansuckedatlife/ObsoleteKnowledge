@@ -2,7 +2,7 @@
 type: concept
 category: literature
 defines: [Visual poetry, Concrete poetry, Pattern poetry]
-related: ["[[modernism]]", "[[poetry]]", "[[american-literature]]", "[[france]]", "[[english-renaissance]]", "[[ancient-greece]]", "[[linguistics]]"]
+related: ["[[modernism]]", "[[poetry]]", "[[american-literature]]", "[[france]]", "[[english-renaissance]]", "[[ancient-greece]]", "[[linguistics]]", "[[italy]]"]
 requires: ["[[poetry]]", "[[modernism]]"]
 lists: ["[[literature-hubs]]"]
 tour_order: 0

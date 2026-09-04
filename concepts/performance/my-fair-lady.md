@@ -3,7 +3,7 @@ type: work
 category: performance
 defines:
   - My Fair Lady
-related: ["[[alan-jay-lerner]]", "[[frederick-loewe]]", "[[pygmalion]]", "[[george-bernard-shaw]]", "[[england]]"]
+related: ["[[alan-jay-lerner]]", "[[frederick-loewe]]", "[[pygmalion]]", "[[george-bernard-shaw]]", "[[england]]", "[[realism]]"]
 requires: []
 lists:
   - "[[musicals-part-1]]"

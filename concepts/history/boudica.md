@@ -2,7 +2,7 @@
 type: person
 category: history
 defines: [Boudica, Boadicea, Buddug]
-related: ["[[roman-empire]]", "[[rome]]", "[[england]]", "[[tragedy]]", "[[poetry]]", "[[colonialism]]"]
+related: ["[[roman-empire]]", "[[rome]]", "[[england]]", "[[tragedy]]", "[[poetry]]", "[[colonialism]]", "[[culture]]"]
 requires: ["[[roman-empire]]", "[[rome]]"]
 lists: ["[[history-hubs]]"]
 tour_order: 0

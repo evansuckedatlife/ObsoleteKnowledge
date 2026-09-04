@@ -2,7 +2,7 @@
 type: person
 category: religion
 defines: ["John Paul II", "Pope John Paul II", "Karol Wojtyła", "Karol Józef Wojtyła", "Saint John Paul the Great"]
-related: ["[[peter]]", "[[innocent-iii]]", "[[gregory-i]]"]
+related: ["[[peter]]", "[[innocent-iii]]", "[[gregory-i]]", "[[cold-war]]"]
 requires: ["[[christianity]]"]
 lists: ["[[popes]]"]
 tour_order: 3

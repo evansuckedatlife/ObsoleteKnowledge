@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: [Chlorine, Cl]
-related: ["[[sodium]]", "[[halogen]]", "[[salt]]", "[[organic-halide]]", "[[periodic-table]]", "[[chemistry]]", "[[bleach]]"]
+related: ["[[sodium]]", "[[halogen]]", "[[salt]]", "[[organic-halide]]", "[[periodic-table]]", "[[chemistry]]", "[[bleach]]", "[[world-war-i]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[science-hubs]]"]
 tour_order: 0

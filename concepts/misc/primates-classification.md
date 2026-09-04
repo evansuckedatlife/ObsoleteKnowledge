@@ -5,7 +5,7 @@ defines:
   - Primates
   - Primates definition
   - Humans as primates
-related: ["[[evolutionary-biology]]", "[[apes]]", "[[taxonomy]]", "[[dna]]"]
+related: ["[[evolutionary-biology]]", "[[apes]]", "[[taxonomy]]", "[[dna]]", "[[evolution]]", "[[christianity]]"]
 requires: []
 lists:
   - "[[common-mistakes]]"

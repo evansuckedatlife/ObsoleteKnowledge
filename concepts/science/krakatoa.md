@@ -5,10 +5,7 @@ defines:
   - Krakatoa
   - Krakatau
   - Anak Krakatau
-related:
-  - "[[vesuvius]]"
-  - "[[mount-tambora]]"
-  - "[[mount-pinatubo]]"
+related: ["[[vesuvius]]", "[[mount-tambora]]", "[[mount-pinatubo]]", "[[colonialism]]"]
 requires: []
 lists:
   - "[[active-volcanoes]]"

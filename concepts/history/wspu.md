@@ -2,7 +2,7 @@
 type: concept
 category: history
 defines: ["Women's Social and Political Union", "WSPU", "Suffragettes"]
-related: ["[[emmeline-pankhurst]]", "[[elizabeth-cady-stanton]]", "[[susan-b-anthony]]", "[[chartism]]", "[[british-abolitionism]]"]
+related: ["[[emmeline-pankhurst]]", "[[elizabeth-cady-stanton]]", "[[susan-b-anthony]]", "[[chartism]]", "[[british-abolitionism]]", "[[england]]", "[[united-states]]"]
 requires: []
 lists: ["[[british-reform-movements]]"]
 tour_order: 0

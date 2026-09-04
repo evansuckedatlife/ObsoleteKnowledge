@@ -2,7 +2,7 @@
 type: concept
 category: history
 defines: [Ancient Literature, Ancient Near Eastern Literature]
-related: ["[[mesopotamia]]", "[[sumerian-civilization]]", "[[akkadian-empire]]", "[[assyrian-empire]]", "[[middle-east]]", "[[poetry]]", "[[ancient-greece]]"]
+related: ["[[mesopotamia]]", "[[sumerian-civilization]]", "[[akkadian-empire]]", "[[assyrian-empire]]", "[[middle-east]]", "[[poetry]]", "[[ancient-greece]]", "[[hebrew-bible]]"]
 requires: ["[[middle-east]]", "[[poetry]]"]
 lists: ["[[history-hubs]]"]
 tour_order: 0

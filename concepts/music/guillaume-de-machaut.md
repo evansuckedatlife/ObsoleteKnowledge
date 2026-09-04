@@ -4,7 +4,7 @@ category: music
 defines:
   - Guillaume de Machaut
   - Guillaume de Machault
-related: ["[[ars-nova]]", "[[motets-medieval]]", "[[courtly-love]]", "[[france]]"]
+related: ["[[ars-nova]]", "[[motets-medieval]]", "[[courtly-love]]", "[[france]]", "[[poetry]]"]
 requires: []
 lists:
   - "[[pre-1700-composers]]"

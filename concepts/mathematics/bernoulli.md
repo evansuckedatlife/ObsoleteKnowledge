@@ -2,7 +2,7 @@
 type: person
 category: mathematics
 defines: [Johann Bernoulli, Jean Bernoulli]
-related: ["[[calculus]]", "[[cycloid]]", "[[catenary]]", "[[derivative]]", "[[isaac-newton]]", "[[exponential-function]]", "[[enlightenment]]"]
+related: ["[[calculus]]", "[[cycloid]]", "[[catenary]]", "[[derivative]]", "[[isaac-newton]]", "[[exponential-function]]", "[[enlightenment]]", "[[france]]"]
 requires: ["[[calculus]]", "[[derivative]]"]
 lists: ["[[mathematics-hubs]]"]
 tour_order: 0

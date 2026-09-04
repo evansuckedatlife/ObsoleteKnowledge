@@ -2,7 +2,7 @@
 type: place
 category: geography
 defines: [Bedloe's Island, Liberty Island]
-related: ["[[new-york-city]]", "[[france]]", "[[united-states]]", "[[atlantic-ocean]]", "[[american-revolution]]", "[[french-revolution]]", "[[industrial-revolution]]"]
+related: ["[[new-york-city]]", "[[france]]", "[[united-states]]", "[[atlantic-ocean]]", "[[american-revolution]]", "[[french-revolution]]", "[[industrial-revolution]]", "[[enlightenment]]"]
 requires: ["[[new-york-city]]", "[[united-states]]"]
 lists: ["[[geography-hubs]]"]
 tour_order: 0

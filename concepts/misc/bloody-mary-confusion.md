@@ -5,7 +5,7 @@ defines:
   - Bloody Mary confusion
   - Mary I of England
   - Mary, Queen of Scots
-related: ["[[mary-i-of-england]]", "[[mary-queen-of-scots]]", "[[tudor-dynasty]]", "[[british-empire]]"]
+related: ["[[mary-i-of-england]]", "[[mary-queen-of-scots]]", "[[tudor-dynasty]]", "[[british-empire]]", "[[christianity]]"]
 requires: ["[[england]]"]
 lists:
   - "[[common-mistakes]]"

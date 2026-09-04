@@ -5,7 +5,7 @@ defines:
   - Five Classical Orders of Architecture
   - Five Orders
   - Classical orders
-related: ["[[greek-architecture]]", "[[roman-architecture]]", "[[architecture]]", "[[classical-antiquity]]", "[[frank-lloyd-wright]]", "[[leonardo-da-vinci]]"]
+related: ["[[greek-architecture]]", "[[roman-architecture]]", "[[architecture]]", "[[classical-antiquity]]", "[[frank-lloyd-wright]]", "[[leonardo-da-vinci]]", "[[ancient-greece]]", "[[renaissance]]", "[[christianity]]"]
 requires: ["[[ancient-greece]]"]
 lists:
   - "[[quintuples]]"

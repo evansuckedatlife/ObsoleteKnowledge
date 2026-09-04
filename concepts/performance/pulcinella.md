@@ -2,7 +2,7 @@
 type: work
 category: performance
 defines: [Pulcinella, Stravinsky-Massine Pulcinella]
-related: ["[[stravinsky]]", "[[commedia-dell-arte]]"]
+related: ["[[stravinsky]]", "[[commedia-dell-arte]]", "[[italy]]", "[[modernism]]", "[[renaissance]]"]
 requires: ["[[igor-stravinsky]]"]
 lists: ["[[ballets-2]]"]
 tour_order: 1

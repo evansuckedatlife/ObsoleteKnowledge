@@ -2,7 +2,7 @@
 type: event
 category: history
 defines: [Council of Nicaea, First Council of Nicaea, First Ecumenical Council]
-related: ["[[christianity]]", "[[roman-empire]]", "[[rome]]", "[[jesus]]", "[[diocletian]]", "[[edict-of-milan]]", "[[battle-of-the-milvian-bridge]]"]
+related: ["[[christianity]]", "[[roman-empire]]", "[[rome]]", "[[jesus]]", "[[diocletian]]", "[[edict-of-milan]]", "[[battle-of-the-milvian-bridge]]", "[[hebrew-bible]]", "[[aristotle]]"]
 requires: ["[[roman-empire]]", "[[christianity]]"]
 lists: ["[[history-hubs]]"]
 tour_order: 0

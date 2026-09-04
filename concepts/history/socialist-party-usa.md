@@ -4,7 +4,7 @@ category: history
 defines:
   - Socialist Party of America
   - Socialist Party USA
-related: ["[[eugene-v-debs]]", "[[american-labor-movement]]", "[[american-third-parties]]"]
+related: ["[[eugene-v-debs]]", "[[american-labor-movement]]", "[[american-third-parties]]", "[[modernism]]"]
 requires: []
 lists:
   - "[[american-third-parties]]"

@@ -2,7 +2,7 @@
 type: person
 category: religion
 defines: [Jonah]
-related: ["[[nineveh]]", "[[repentance]]"]
+related: ["[[nineveh]]", "[[repentance]]", "[[satire]]"]
 requires: ["[[hebrew-bible]]"]
 lists: ["[[hebrew-bible-characters]]"]
 tour_order: 3

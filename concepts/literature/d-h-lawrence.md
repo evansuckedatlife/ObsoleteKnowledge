@@ -2,7 +2,7 @@
 type: person
 category: literature
 defines: ["D. H. Lawrence", "David Herbert Lawrence"]
-related: ["[[modernist-authors]]", "[[england]]", "[[sexuality-in-literature]]", "[[stream-of-consciousness]]", "[[women-in-love]]"]
+related: ["[[modernist-authors]]", "[[england]]", "[[sexuality-in-literature]]", "[[stream-of-consciousness]]", "[[women-in-love]]", "[[industrial-revolution]]", "[[existentialism]]"]
 requires: ["[[modernism]]"]
 lists: ["[[modernist-authors]]"]
 tour_order: 1

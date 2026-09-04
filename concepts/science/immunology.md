@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: [Immunology, immune system]
-related: ["[[antigen]]", "[[antibody]]", "[[enzyme]]", "[[protein]]", "[[cell]]"]
+related: ["[[antigen]]", "[[antibody]]", "[[enzyme]]", "[[protein]]", "[[cell]]", "[[colonialism]]"]
 requires: []
 lists: []
 tour_order: 0

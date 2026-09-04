@@ -3,7 +3,7 @@ type: work
 category: pop-culture
 defines:
   - Street Fighter
-related: ["[[capcom]]", "[[ryu]]", "[[m-bison]]"]
+related: ["[[capcom]]", "[[ryu]]", "[[m-bison]]", "[[japan]]"]
 requires: []
 lists:
   - "[[video-game-series]]"

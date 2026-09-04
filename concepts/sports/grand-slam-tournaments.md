@@ -2,7 +2,7 @@
 type: term
 category: sports
 defines: ["Grand Slam tournaments", "Grand Slam"]
-related: ["[[wimbledon]]", "[[us-open]]", "[[australian-open]]", "[[french-open]]", "[[roger-federer]]", "[[pete-sampras]]", "[[novak-djokovic]]", "[[serena-williams]]"]
+related: ["[[wimbledon]]", "[[us-open]]", "[[australian-open]]", "[[french-open]]", "[[roger-federer]]", "[[pete-sampras]]", "[[novak-djokovic]]", "[[serena-williams]]", "[[france]]", "[[england]]"]
 requires: []
 lists: ["[[sports-hubs]]"]
 tour_order: 0

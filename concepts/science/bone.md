@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: [Bone, Osseous tissue, Bones]
-related: ["[[ion]]", "[[muscle-contraction]]", "[[alkaline-earth-metal]]", "[[neurotransmitter]]", "[[cell]]", "[[protein]]", "[[burgess-shale]]", "[[brass]]"]
+related: ["[[ion]]", "[[muscle-contraction]]", "[[alkaline-earth-metal]]", "[[neurotransmitter]]", "[[cell]]", "[[protein]]", "[[burgess-shale]]", "[[brass]]", "[[renaissance]]"]
 requires: ["[[cell]]", "[[protein]]"]
 lists: ["[[science-hubs]]"]
 tour_order: 0

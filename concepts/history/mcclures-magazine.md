@@ -2,7 +2,7 @@
 type: work
 category: history
 defines: ["McClure's Magazine", "McClures Magazine"]
-related: ["[[muckraking-journalism]]", "[[progressive-era]]", "[[investigative-journalism]]"]
+related: ["[[muckraking-journalism]]", "[[progressive-era]]", "[[investigative-journalism]]", "[[realism]]", "[[detective-fiction]]", "[[modernism]]"]
 requires: []
 lists: ["[[magazines-from-american-history]]"]
 tour_order: 0

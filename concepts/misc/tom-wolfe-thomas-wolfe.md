@@ -5,7 +5,7 @@ defines:
   - Tom Wolfe and Thomas Wolfe
   - Author confusion
   - Wolfe confusion
-related: ["[[american-literature]]", "[[20th-century-writers]]", "[[modernism]]"]
+related: ["[[american-literature]]", "[[20th-century-writers]]", "[[modernism]]", "[[satire]]"]
 requires: []
 lists:
   - "[[common-mistakes-2]]"

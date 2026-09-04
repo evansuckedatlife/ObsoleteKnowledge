@@ -2,7 +2,7 @@
 type: place
 category: science
 defines: ["The Moon", "Moon, Earth's", "lunar"]
-related: ["[[earth]]", "[[tidal-heating]]", "[[orbital-mechanics]]", "[[apollo-program]]", "[[lunar-landing]]"]
+related: ["[[earth]]", "[[tidal-heating]]", "[[orbital-mechanics]]", "[[apollo-program]]", "[[lunar-landing]]", "[[space-race]]"]
 requires: []
 lists: ["[[science-hubs]]"]
 tour_order: 0

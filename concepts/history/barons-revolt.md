@@ -2,7 +2,7 @@
 type: event
 category: history
 defines: [Barons' Revolt, First Barons' War]
-related: ["[[england]]", "[[king-john]]", "[[magna-carta]]", "[[feudalism]]", "[[france]]", "[[william-marshal]]", "[[british-empire]]"]
+related: ["[[england]]", "[[king-john]]", "[[magna-carta]]", "[[feudalism]]", "[[france]]", "[[william-marshal]]", "[[british-empire]]", "[[united-states]]"]
 requires: ["[[england]]", "[[france]]"]
 lists: ["[[history-hubs]]"]
 tour_order: 0

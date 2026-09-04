@@ -4,7 +4,7 @@ category: literature
 defines:
   - "'Tis Pity She's a Whore"
   - Tis Pity She's a Whore
-related: ["[[john-ford]]", "[[incest-in-drama]]", "[[jacobean-tragedy]]", "[[italy]]", "[[england]]"]
+related: ["[[john-ford]]", "[[incest-in-drama]]", "[[jacobean-tragedy]]", "[[italy]]", "[[england]]", "[[christianity]]"]
 requires: []
 lists:
   - "[[non-shakespeare-classical-english-dramas]]"

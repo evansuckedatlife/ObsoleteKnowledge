@@ -2,7 +2,7 @@
 type: place
 category: history
 defines: [Cleveland in the 1950s, 1950s Cleveland]
-related: ["[[united-states]]", "[[cold-war]]", "[[industrial-revolution]]", "[[civil-rights-movement]]", "[[14th-amendment]]", "[[jazz]]", "[[detective-fiction]]"]
+related: ["[[united-states]]", "[[cold-war]]", "[[industrial-revolution]]", "[[civil-rights-movement]]", "[[14th-amendment]]", "[[jazz]]", "[[detective-fiction]]", "[[culture]]"]
 requires: ["[[united-states]]", "[[cold-war]]"]
 lists: ["[[history-hubs]]"]
 tour_order: 0

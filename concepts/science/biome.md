@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: [Biome, Major life zone]
-related: ["[[photosynthesis]]", "[[carbon]]", "[[oxygen]]", "[[biochemistry]]", "[[evolution]]", "[[cell]]"]
+related: ["[[photosynthesis]]", "[[carbon]]", "[[oxygen]]", "[[biochemistry]]", "[[evolution]]", "[[cell]]", "[[colonialism]]"]
 requires: ["[[photosynthesis]]", "[[carbon]]"]
 lists: ["[[science-hubs]]"]
 tour_order: 0

@@ -2,7 +2,7 @@
 type: person
 category: literature
 defines: ["José Martí"]
-related: ["[[cuban-literature]]", "[[poetry]]", "[[modernism]]", "[[cuban-independence]]", "[[spain]]", "[[age-of-exploration]]"]
+related: ["[[cuban-literature]]", "[[poetry]]", "[[modernism]]", "[[cuban-independence]]", "[[spain]]", "[[age-of-exploration]]", "[[colonialism]]", "[[united-states]]"]
 requires: []
 lists: ["[[latin-american-authors]]"]
 tour_order: 0

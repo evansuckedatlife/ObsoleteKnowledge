@@ -5,7 +5,7 @@ defines:
   - Enharmonic notes
   - Enharmonic equivalents
   - Enharmony
-related: ["[[musical-intervals]]", "[[chromatic-scale]]"]
+related: ["[[musical-intervals]]", "[[chromatic-scale]]", "[[linguistics]]", "[[poetry]]"]
 requires: []
 lists:
   - "[[common-mistakes-2]]"

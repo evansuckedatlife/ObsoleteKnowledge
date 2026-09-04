@@ -4,7 +4,7 @@ category: history
 defines:
   - Māori
   - Maori
-related: ["[[pacific-indigenous-peoples]]", "[[new-zealand]]"]
+related: ["[[pacific-indigenous-peoples]]", "[[new-zealand]]", "[[poetry]]", "[[dna]]"]
 requires: ["[[james-cook]]"]
 lists:
   - "[[indigenous-peoples]]"

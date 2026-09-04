@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [Inductor, "inductive coil"]
-related: ["[[capacitor]]", "[[magnetic-field]]", "[[inductance]]", "[[transformer]]", "[[industrial-revolution]]"]
+related: ["[[capacitor]]", "[[magnetic-field]]", "[[inductance]]", "[[transformer]]", "[[industrial-revolution]]", "[[world-war-ii]]", "[[cold-war]]"]
 requires: []
 lists: ["[[circuit-components]]"]
 tour_order: 0

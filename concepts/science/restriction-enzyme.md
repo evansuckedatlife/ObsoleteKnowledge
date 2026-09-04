@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: ["Restriction enzyme", "restriction endonuclease"]
-related: ["[[dna]]", "[[catalysis]]"]
+related: ["[[dna]]", "[[catalysis]]", "[[science-fiction]]"]
 requires: ["[[dna]]", "[[catalysis]]", "[[enzyme]]"]
 lists: ["[[enzymes]]"]
 tour_order: 2

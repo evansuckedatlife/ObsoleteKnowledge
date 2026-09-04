@@ -4,7 +4,7 @@ category: history
 defines:
   - "Sweatt v. Painter"
   - Sweatt decision
-related: ["[[separate-but-equal]]", "[[brown-v-board-of-education]]", "[[plessy-v-ferguson]]"]
+related: ["[[separate-but-equal]]", "[[brown-v-board-of-education]]", "[[plessy-v-ferguson]]", "[[united-states]]"]
 requires: ["[[united-states-constitution]]"]
 lists:
   - "[[supreme-court-cases-concerned-with-african-americans]]"

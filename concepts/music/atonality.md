@@ -2,7 +2,7 @@
 type: concept
 category: music
 defines: [Atonality, Atonal music]
-related: ["[[tonality]]", "[[twelve-tone-technique]]", "[[arnold-schoenberg]]", "[[classical-music]]", "[[modernism]]", "[[counterpoint]]", "[[polyphony]]"]
+related: ["[[tonality]]", "[[twelve-tone-technique]]", "[[arnold-schoenberg]]", "[[classical-music]]", "[[modernism]]", "[[counterpoint]]", "[[polyphony]]", "[[world-war-i]]"]
 requires: ["[[tonality]]", "[[classical-music]]"]
 lists: ["[[music-hubs]]"]
 tour_order: 0

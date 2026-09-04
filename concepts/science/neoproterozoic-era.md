@@ -2,7 +2,7 @@
 type: event
 category: science
 defines: [Neoproterozoic Era, Neoproterozoic]
-related: ["[[proterozoic-eon]]", "[[ice-age]]", "[[evolution]]", "[[oxygen]]", "[[carbon]]", "[[photosynthesis]]", "[[cell]]"]
+related: ["[[proterozoic-eon]]", "[[ice-age]]", "[[evolution]]", "[[oxygen]]", "[[carbon]]", "[[photosynthesis]]", "[[cell]]", "[[science-fiction]]"]
 requires: ["[[evolution]]", "[[oxygen]]", "[[carbon]]"]
 lists: ["[[science-hubs]]"]
 tour_order: 0

@@ -2,7 +2,7 @@
 type: place
 category: geography
 defines: [Central Park]
-related: ["[[new-york-city]]", "[[united-states]]", "[[american-civil-war]]", "[[american-literature]]", "[[realism]]", "[[romanticism]]", "[[industrial-revolution]]"]
+related: ["[[new-york-city]]", "[[united-states]]", "[[american-civil-war]]", "[[american-literature]]", "[[realism]]", "[[romanticism]]", "[[industrial-revolution]]", "[[charles-dickens]]"]
 requires: ["[[new-york-city]]", "[[united-states]]"]
 lists: ["[[geography-hubs]]"]
 tour_order: 0

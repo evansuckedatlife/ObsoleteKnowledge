@@ -2,7 +2,7 @@
 type: hero
 category: history
 defines: [Danaus]
-related: ["[[ancient-greece]]", "[[heracles]]", "[[agamemnon]]", "[[diomedes]]", "[[tragedy]]", "[[poetry]]", "[[rome]]"]
+related: ["[[ancient-greece]]", "[[heracles]]", "[[agamemnon]]", "[[diomedes]]", "[[tragedy]]", "[[poetry]]", "[[rome]]", "[[culture]]"]
 requires: ["[[ancient-greece]]", "[[tragedy]]"]
 lists: ["[[history-hubs]]"]
 tour_order: 0

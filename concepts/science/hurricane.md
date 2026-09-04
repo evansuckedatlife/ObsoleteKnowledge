@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: [Hurricane, "Tropical cyclone"]
-related: ["[[tropical-cyclone]]", "[[wind]]", "[[atmospheric-pressure]]", "[[beaufort-wind-force-scale]]", "[[saffir-simpson-scale]]", "[[water-cycle]]", "[[climate]]"]
+related: ["[[tropical-cyclone]]", "[[wind]]", "[[atmospheric-pressure]]", "[[beaufort-wind-force-scale]]", "[[saffir-simpson-scale]]", "[[water-cycle]]", "[[climate]]", "[[age-of-exploration]]"]
 requires: []
 lists: ["[[science-hubs]]"]
 tour_order: 0

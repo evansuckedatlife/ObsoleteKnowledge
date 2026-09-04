@@ -2,7 +2,7 @@
 type: concept
 category: pop-culture
 defines: [Anti-Establishment, Anti-Establishment Populism]
-related: ["[[frank-capra]]", "[[everyman-hero]]", "[[the-people]]", "[[cross-of-gold]]", "[[william-jennings-bryan]]", "[[democratic-idealism]]", "[[james-stewart]]"]
+related: ["[[frank-capra]]", "[[everyman-hero]]", "[[the-people]]", "[[cross-of-gold]]", "[[william-jennings-bryan]]", "[[democratic-idealism]]", "[[james-stewart]]", "[[civil-rights-movement]]", "[[existentialism]]"]
 requires: ["[[frank-capra]]", "[[united-states]]"]
 lists: ["[[pop-culture-hubs]]"]
 tour_order: 0

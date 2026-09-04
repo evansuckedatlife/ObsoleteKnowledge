@@ -4,7 +4,7 @@ category: pop-culture
 defines:
   - Sonic the Hedgehog
   - Sonic
-related: ["[[sonic-team]]", "[[sega]]", "[[tails]]", "[[dr-robotnik]]"]
+related: ["[[sonic-team]]", "[[sega]]", "[[tails]]", "[[dr-robotnik]]", "[[japan]]"]
 requires: ["[[super-mario]]"]
 lists:
   - "[[video-game-series]]"

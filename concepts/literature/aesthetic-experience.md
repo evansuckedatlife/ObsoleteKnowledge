@@ -2,7 +2,7 @@
 type: concept
 category: literature
 defines: [Aesthetic Experience]
-related: ["[[catharsis]]", "[[romanticism]]", "[[tragedy]]", "[[enlightenment]]", "[[modernism]]", "[[poetry]]", "[[existentialism]]"]
+related: ["[[catharsis]]", "[[romanticism]]", "[[tragedy]]", "[[enlightenment]]", "[[modernism]]", "[[poetry]]", "[[existentialism]]", "[[aristotle]]"]
 requires: ["[[ancient-greece]]", "[[romanticism]]"]
 lists: ["[[literature-hubs]]"]
 tour_order: 0

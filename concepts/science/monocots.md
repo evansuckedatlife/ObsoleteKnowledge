@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [Monocots, "monocots", "monocotyledonous", Monocotyledoneae]
-related: ["[[dicots]]", "[[angiosperms]]", "[[seed]]", "[[cotyledon]]"]
+related: ["[[dicots]]", "[[angiosperms]]", "[[seed]]", "[[cotyledon]]", "[[colonialism]]"]
 requires: []
 lists: ["[[plant-distinctions]]"]
 tour_order: 0

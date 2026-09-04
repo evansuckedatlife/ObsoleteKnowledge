@@ -4,7 +4,7 @@ category: history
 defines:
   - Lombards
   - Lombard
-related: ["[[theodoric]]", "[[ostrogoths]]", "[[italy]]", "[[charlemagne]]"]
+related: ["[[theodoric]]", "[[ostrogoths]]", "[[italy]]", "[[charlemagne]]", "[[germany]]", "[[rome]]"]
 requires: ["[[roman-empire]]"]
 lists:
   - "[[peoples-of-the-early-middle-ages]]"

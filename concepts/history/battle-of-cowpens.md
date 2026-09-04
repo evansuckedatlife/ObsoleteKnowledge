@@ -2,7 +2,7 @@
 type: event
 category: history
 defines: [Cowpens, Battle of Cowpens]
-related: ["[[daniel-morgan]]", "[[banastre-tarleton]]", "[[american-revolution]]"]
+related: ["[[daniel-morgan]]", "[[banastre-tarleton]]", "[[american-revolution]]", "[[united-states]]", "[[england]]"]
 requires: ["[[american-revolution]]"]
 lists: ["[[revolutionary-war-battles]]"]
 tour_order: 1

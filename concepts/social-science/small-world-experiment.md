@@ -2,7 +2,7 @@
 type: event
 category: social-science
 defines: ["The Small-World Experiment", "Milgram's small-world problem"]
-related: ["[[stanley-milgram]]", "[[social-networks]]", "[[degrees-of-separation]]", "[[network-analysis]]", "[[cold-war]]", "[[world-war-ii]]"]
+related: ["[[stanley-milgram]]", "[[social-networks]]", "[[degrees-of-separation]]", "[[network-analysis]]", "[[cold-war]]", "[[world-war-ii]]", "[[civil-rights-movement]]", "[[existentialism]]"]
 requires: ["[[stanley-milgram]]", "[[asch-conformity]]"]
 lists:
   - "[[psychological-experiments]]"

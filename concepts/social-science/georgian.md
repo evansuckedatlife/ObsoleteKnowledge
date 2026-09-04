@@ -5,7 +5,7 @@ defines:
   - Georgian
   - Kartuli
   - Kartveli
-related: ["[[caucasian-languages]]", "[[unique-writing-systems]]", "[[eastern-caucasian-languages]]", "[[ancient-christian-languages]]"]
+related: ["[[caucasian-languages]]", "[[unique-writing-systems]]", "[[eastern-caucasian-languages]]", "[[ancient-christian-languages]]", "[[silk-road]]", "[[russian-empire]]"]
 requires: ["[[structural-linguistics]]"]
 lists:
   - "[[unique-languages]]"

@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [Latency, memory latency, access latency]
-related: ["[[cache-memory]]", "[[memory-hierarchy]]", "[[central-processing-unit]]", "[[ram]]", "[[storage-device]]"]
+related: ["[[cache-memory]]", "[[memory-hierarchy]]", "[[central-processing-unit]]", "[[ram]]", "[[storage-device]]", "[[cold-war]]", "[[space-race]]"]
 requires: ["[[memory-hierarchy]]", "[[central-processing-unit]]"]
 lists: ["[[science-hubs]]"]
 tour_order: 0

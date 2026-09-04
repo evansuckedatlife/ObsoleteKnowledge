@@ -2,7 +2,7 @@
 type: event
 category: history
 defines: [Assassination of Yitzhak Rabin, Rabin assassination, Israeli Prime Minister Rabin assassination]
-related: ["[[yitzhak-rabin]]", "[[israeli-palestinian-conflict]]", "[[oslo-accords]]", "[[israeli-right-wing-extremism]]", "[[israel]]", "[[judaism]]"]
+related: ["[[yitzhak-rabin]]", "[[israeli-palestinian-conflict]]", "[[oslo-accords]]", "[[israeli-right-wing-extremism]]", "[[israel]]", "[[judaism]]", "[[middle-east]]"]
 requires: ["[[arab-israeli-conflict]]"]
 lists: ["[[assassinations]]"]
 tour_order: 1

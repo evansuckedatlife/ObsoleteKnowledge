@@ -4,7 +4,7 @@ category: history
 defines:
   - Gepids
   - Gepid
-related: ["[[huns]]", "[[ostrogoths]]", "[[pannonia]]", "[[theodoric]]"]
+related: ["[[huns]]", "[[ostrogoths]]", "[[pannonia]]", "[[theodoric]]", "[[germany]]"]
 requires: ["[[roman-empire]]"]
 lists:
   - "[[peoples-of-the-early-middle-ages]]"

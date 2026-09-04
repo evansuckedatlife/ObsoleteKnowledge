@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: [Velocity]
-related: ["[[albert-einstein]]", "[[electron]]", "[[photon]]", "[[quantum-mechanics]]", "[[resistor]]", "[[wavefunction]]", "[[standard-model]]"]
+related: ["[[albert-einstein]]", "[[electron]]", "[[photon]]", "[[quantum-mechanics]]", "[[resistor]]", "[[wavefunction]]", "[[standard-model]]", "[[enlightenment]]"]
 requires: ["[[albert-einstein]]", "[[electron]]"]
 lists: ["[[science-hubs]]"]
 tour_order: 0

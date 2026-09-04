@@ -3,7 +3,7 @@ type: work
 category: visual-art
 defines:
   - Salvator Mundi
-related: ["[[leonardo-da-vinci]]", "[[jesus]]"]
+related: ["[[leonardo-da-vinci]]", "[[jesus]]", "[[christianity]]"]
 requires: ["[[leonardo-da-vinci]]"]
 lists:
   - "[[works-by-leonardo-da-vinci]]"

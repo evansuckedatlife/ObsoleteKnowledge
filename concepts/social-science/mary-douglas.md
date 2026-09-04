@@ -4,7 +4,7 @@ category: social-science
 defines:
   - Mary Douglas
   - Mary Tew Douglas
-related: ["[[purity-and-danger]]", "[[ritual]]", "[[classification]]", "[[christianity]]", "[[existentialism]]"]
+related: ["[[purity-and-danger]]", "[[ritual]]", "[[classification]]", "[[christianity]]", "[[existentialism]]", "[[enlightenment]]", "[[colonialism]]", "[[gothic-literature]]"]
 requires: ["[[franz-boas]]", "[[bronislaw-malinowski]]"]
 lists:
   - "[[anthropologists]]"

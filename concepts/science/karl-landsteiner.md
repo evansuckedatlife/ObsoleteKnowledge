@@ -2,7 +2,7 @@
 type: person
 category: science
 defines: [Karl Landsteiner]
-related: ["[[blood-type]]", "[[immunology]]", "[[polio]]", "[[world-war-ii]]"]
+related: ["[[blood-type]]", "[[immunology]]", "[[polio]]", "[[world-war-ii]]", "[[world-war-i]]", "[[new-york-city]]"]
 requires: []
 lists: ["[[nobel-prize-winners-in-medicine]]"]
 tour_order: 0

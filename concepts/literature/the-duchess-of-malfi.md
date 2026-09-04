@@ -3,7 +3,7 @@ type: work
 category: literature
 defines:
   - The Duchess of Malfi
-related: ["[[john-webster]]", "[[revenge-tragedy]]", "[[white-devil]]", "[[england]]", "[[italian-renaissance]]", "[[italy]]"]
+related: ["[[john-webster]]", "[[revenge-tragedy]]", "[[white-devil]]", "[[england]]", "[[italian-renaissance]]", "[[italy]]", "[[christianity]]"]
 requires: ["[[revenge-tragedy]]"]
 lists:
   - "[[non-shakespeare-classical-english-dramas]]"

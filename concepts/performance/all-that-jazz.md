@@ -2,7 +2,7 @@
 type: work
 category: performance
 defines: [All That Jazz]
-related: ["[[bob-fosse]]", "[[chicago-musical]]", "[[musical-theatre]]", "[[modern-dance]]", "[[new-york-city]]", "[[united-states]]", "[[modernism]]"]
+related: ["[[bob-fosse]]", "[[chicago-musical]]", "[[musical-theatre]]", "[[modern-dance]]", "[[new-york-city]]", "[[united-states]]", "[[modernism]]", "[[existentialism]]"]
 requires: ["[[bob-fosse]]", "[[musical-theatre]]"]
 lists: ["[[performance-hubs]]"]
 tour_order: 0

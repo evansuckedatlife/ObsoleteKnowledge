@@ -2,7 +2,7 @@
 type: person
 category: science
 defines: ["Louis de Broglie", "Louis-Victor-Pierre-Raymond de Broglie", "Prince Louis-Victor de Broglie"]
-related: ["[[albert-einstein]]", "[[niels-bohr]]", "[[erwin-schrodinger]]"]
+related: ["[[albert-einstein]]", "[[niels-bohr]]", "[[erwin-schrodinger]]", "[[france]]", "[[world-war-i]]", "[[modernism]]"]
 requires: ["[[quantum-mechanics]]"]
 lists: ["[[20th-century-physicists]]"]
 tour_order: 1

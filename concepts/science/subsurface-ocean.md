@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: [subsurface ocean, cryosphere, icy moon water]
-related: ["[[europa]]", "[[enceladus]]", "[[ganymede]]", "[[astrobiology]]", "[[water]]", "[[exoplanet]]", "[[cryovolcanism]]"]
+related: ["[[europa]]", "[[enceladus]]", "[[ganymede]]", "[[astrobiology]]", "[[water]]", "[[exoplanet]]", "[[cryovolcanism]]", "[[space-race]]", "[[science-fiction]]"]
 requires: ["[[water]]"]
 lists: ["[[science-hubs]]"]
 tour_order: 0

@@ -2,7 +2,7 @@
 type: organization
 category: history
 defines: [NAACP, National Association for the Advancement of Colored People]
-related: ["[[ella-baker]]", "[[medgar-evers]]", "[[martin-luther-king-jr]]", "[[civil-rights-movement]]", "[[desegregation]]"]
+related: ["[[ella-baker]]", "[[medgar-evers]]", "[[martin-luther-king-jr]]", "[[civil-rights-movement]]", "[[desegregation]]", "[[culture]]"]
 requires: ["[[civil-rights-movement]]", "[[united-states]]"]
 lists: ["[[history-hubs]]"]
 tour_order: 0

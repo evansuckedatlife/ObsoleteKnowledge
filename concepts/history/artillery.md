@@ -2,7 +2,7 @@
 type: concept
 category: history
 defines: [Continental Artillery, Continental Army Artillery]
-related: ["[[american-revolution]]", "[[george-washington]]", "[[continental-army]]", "[[yorktown-campaign]]", "[[france]]", "[[british-empire]]", "[[united-states]]"]
+related: ["[[american-revolution]]", "[[george-washington]]", "[[continental-army]]", "[[yorktown-campaign]]", "[[france]]", "[[british-empire]]", "[[united-states]]", "[[culture]]"]
 requires: ["[[american-revolution]]", "[[george-washington]]"]
 lists: ["[[history-hubs]]"]
 tour_order: 0

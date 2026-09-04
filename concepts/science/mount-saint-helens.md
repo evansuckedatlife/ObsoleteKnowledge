@@ -4,9 +4,7 @@ category: science
 defines:
   - Mount Saint Helens
   - Mount St. Helens
-related:
-  - "[[vesuvius]]"
-  - "[[mauna-loa]]"
+related: ["[[vesuvius]]", "[[mauna-loa]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[active-volcanoes]]"

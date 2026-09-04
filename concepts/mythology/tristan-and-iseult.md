@@ -2,7 +2,7 @@
 type: person
 category: mythology
 defines: [Tristan and Iseult, Tristan and Isolde]
-related: ["[[king-arthur]]", "[[round-table]]"]
+related: ["[[king-arthur]]", "[[round-table]]", "[[tragedy]]", "[[romanticism]]"]
 requires: ["[[king-arthur]]"]
 lists: ["[[arthurian-characters]]"]
 tour_order: 1

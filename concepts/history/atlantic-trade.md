@@ -2,7 +2,7 @@
 type: concept
 category: history
 defines: [Atlantic trade, transatlantic trade, triangular trade]
-related: ["[[age-of-exploration]]", "[[colonialism]]", "[[spain]]", "[[england]]", "[[france]]", "[[british-empire]]", "[[silk-road]]"]
+related: ["[[age-of-exploration]]", "[[colonialism]]", "[[spain]]", "[[england]]", "[[france]]", "[[british-empire]]", "[[silk-road]]", "[[culture]]", "[[modernism]]"]
 requires: ["[[age-of-exploration]]", "[[colonialism]]"]
 lists: ["[[history-hubs]]"]
 tour_order: 0

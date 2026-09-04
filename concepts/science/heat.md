@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: [heat, thermal energy]
-related: ["[[thermodynamics]]", "[[temperature]]", "[[energy]]", "[[entropy]]", "[[cooling]]"]
+related: ["[[thermodynamics]]", "[[temperature]]", "[[energy]]", "[[entropy]]", "[[cooling]]", "[[industrial-revolution]]"]
 requires: ["[[thermodynamics]]", "[[temperature]]"]
 lists: ["[[science-hubs]]"]
 tour_order: 0

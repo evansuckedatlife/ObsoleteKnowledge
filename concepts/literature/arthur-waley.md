@@ -4,7 +4,7 @@ category: literature
 defines:
   - Arthur Waley
   - "Arthur David Waley"
-related: ["[[chinese-literature]]", "[[japanese-literature]]", "[[tale-of-genji]]", "[[dream-of-the-red-chamber]]", "[[literary-translation]]", "[[japan]]"]
+related: ["[[chinese-literature]]", "[[japanese-literature]]", "[[tale-of-genji]]", "[[dream-of-the-red-chamber]]", "[[literary-translation]]", "[[japan]]", "[[silk-road]]", "[[china]]"]
 requires: []
 lists:
   - "[[translations]]"

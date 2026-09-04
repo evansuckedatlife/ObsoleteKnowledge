@@ -4,7 +4,7 @@ category: visual-art
 defines:
   - Codex Leicester
   - Codex Hammer
-related: ["[[leonardo-da-vinci]]", "[[scientific-illustration]]", "[[engineering-drawings]]"]
+related: ["[[leonardo-da-vinci]]", "[[scientific-illustration]]", "[[engineering-drawings]]", "[[renaissance]]", "[[ancient-greece]]", "[[enlightenment]]"]
 requires: ["[[leonardo-da-vinci]]"]
 lists:
   - "[[works-by-leonardo-da-vinci]]"

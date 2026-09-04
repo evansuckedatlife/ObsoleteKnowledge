@@ -3,7 +3,7 @@ type: person
 category: literature
 defines:
   - Joseph Heller
-related: ["[[catch-22]]", "[[kurt-vonnegut]]", "[[world-war-ii]]", "[[vietnam-war]]"]
+related: ["[[catch-22]]", "[[kurt-vonnegut]]", "[[world-war-ii]]", "[[vietnam-war]]", "[[existentialism]]"]
 requires: []
 lists:
   - "[[postmodern-authors]]"

@@ -2,7 +2,7 @@
 type: deity
 category: mythology
 defines: [Ptah]
-related: ["[[ra]]", "[[thoth]]", "[[maat]]"]
+related: ["[[ra]]", "[[thoth]]", "[[maat]]", "[[rome]]"]
 requires: ["[[ra]]"]
 lists: ["[[egyptian-deities]]"]
 tour_order: 1

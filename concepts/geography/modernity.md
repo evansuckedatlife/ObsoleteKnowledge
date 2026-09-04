@@ -2,7 +2,7 @@
 type: concept
 category: geography
 defines: [Modernity]
-related: ["[[industrial-revolution]]", "[[modernism]]", "[[enlightenment]]", "[[new-york-city]]", "[[jazz]]", "[[impressionism]]", "[[world-war-i]]"]
+related: ["[[industrial-revolution]]", "[[modernism]]", "[[enlightenment]]", "[[new-york-city]]", "[[jazz]]", "[[impressionism]]", "[[world-war-i]]", "[[stream-of-consciousness]]"]
 requires: ["[[enlightenment]]", "[[industrial-revolution]]"]
 lists: ["[[geography-hubs]]"]
 tour_order: 0

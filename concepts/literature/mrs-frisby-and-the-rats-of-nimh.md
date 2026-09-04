@@ -4,7 +4,7 @@ category: literature
 defines:
   - Mrs. Frisby and the Rats of NIMH
   - Frisby
-related: ["[[robert-obrien]]", "[[animal-fiction]]", "[[science-fiction]]", "[[nasa]]"]
+related: ["[[robert-obrien]]", "[[animal-fiction]]", "[[science-fiction]]", "[[nasa]]", "[[cold-war]]"]
 requires: ["[[science-fiction]]"]
 lists:
   - "[[20th-century-newbery-medal-winners]]"

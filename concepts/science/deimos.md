@@ -2,7 +2,7 @@
 type: place
 category: science
 defines: [Deimos]
-related: ["[[mars]]", "[[phobos]]", "[[retrograde-orbit]]", "[[space-race]]"]
+related: ["[[mars]]", "[[phobos]]", "[[retrograde-orbit]]", "[[space-race]]", "[[ancient-greece]]"]
 requires: []
 lists: ["[[moons]]"]
 tour_order: 0

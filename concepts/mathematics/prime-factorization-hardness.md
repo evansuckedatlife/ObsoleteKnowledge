@@ -2,7 +2,7 @@
 type: concept
 category: mathematics
 defines: ["Hardness of Prime Factorization", "Integer Factorization Problem"]
-related: ["[[rsa-encryption]]", "[[computational-complexity]]", "[[public-key-cryptography]]"]
+related: ["[[rsa-encryption]]", "[[computational-complexity]]", "[[public-key-cryptography]]", "[[quantum-mechanics]]"]
 requires: ["[[number-theory]]"]
 lists: []
 tour_order: 1

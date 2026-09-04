@@ -3,7 +3,7 @@ type: person
 category: social-science
 defines:
   - George Lakoff
-related: ["[[cognitive-linguistics]]", "[[conceptual-metaphor]]", "[[embodied-cognition]]"]
+related: ["[[cognitive-linguistics]]", "[[conceptual-metaphor]]", "[[embodied-cognition]]", "[[poetry]]"]
 requires: ["[[cognitive-science]]"]
 lists:
   - "[[linguists]]"

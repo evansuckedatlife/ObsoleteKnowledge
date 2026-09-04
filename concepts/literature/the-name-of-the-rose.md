@@ -2,7 +2,7 @@
 type: work
 category: literature
 defines: ["The Name of the Rose"]
-related: ["[[umberto-eco]]", "[[detective-fiction]]", "[[medieval-monastery]]", "[[italy]]"]
+related: ["[[umberto-eco]]", "[[detective-fiction]]", "[[medieval-monastery]]", "[[italy]]", "[[christianity]]", "[[torah]]"]
 requires: []
 lists:
   - "[[works-of-mystery-and-detective-fiction]]"

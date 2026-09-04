@@ -2,7 +2,7 @@
 type: person
 category: history
 defines: ["Elijah Muhammad", "Elijah Robert Poole"]
-related: ["[[nation-of-islam]]", "[[martin-luther-king-jr]]", "[[civil-rights-movement]]", "[[islam]]", "[[united-states]]", "[[booker-t-washington]]", "[[world-war-ii]]"]
+related: ["[[nation-of-islam]]", "[[martin-luther-king-jr]]", "[[civil-rights-movement]]", "[[islam]]", "[[united-states]]", "[[booker-t-washington]]", "[[world-war-ii]]", "[[culture]]"]
 requires: ["[[civil-rights-movement]]", "[[islam]]", "[[united-states]]"]
 lists: ["[[history-hubs]]"]
 tour_order: 0

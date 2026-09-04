@@ -2,7 +2,7 @@
 type: concept
 category: literature
 defines: [Con artist, confidence man, trickster]
-related: ["[[satire]]", "[[volpone]]", "[[the-alchemist]]", "[[deception]]", "[[morality]]"]
+related: ["[[satire]]", "[[volpone]]", "[[the-alchemist]]", "[[deception]]", "[[morality]]", "[[france]]"]
 requires: ["[[satire]]"]
 lists: ["[[literature-hubs]]"]
 tour_order: 0

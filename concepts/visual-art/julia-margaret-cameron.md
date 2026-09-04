@@ -2,7 +2,7 @@
 type: person
 category: visual-art
 defines: ["Julia Margaret Cameron"]
-related: ["[[alfred-stieglitz]]", "[[william-henry-fox-talbot]]", "[[england]]", "[[british-empire]]"]
+related: ["[[alfred-stieglitz]]", "[[william-henry-fox-talbot]]", "[[england]]", "[[british-empire]]", "[[william-shakespeare]]"]
 requires: []
 lists: ["[[photography-pioneers]]"]
 tour_order: 0

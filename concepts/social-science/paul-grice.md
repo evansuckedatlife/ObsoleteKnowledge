@@ -4,7 +4,7 @@ category: social-science
 defines:
   - Paul Grice
   - Herbert Paul Grice
-related: ["[[pragmatics]]", "[[conversational-implicature]]", "[[philosophy-of-language]]"]
+related: ["[[pragmatics]]", "[[conversational-implicature]]", "[[philosophy-of-language]]", "[[poetry]]", "[[detective-fiction]]"]
 requires: ["[[linguistics]]"]
 lists:
   - "[[linguists]]"

@@ -4,7 +4,7 @@ category: history
 defines:
   - Suebi
   - Suebic
-related: ["[[germanic-peoples]]", "[[iberian-peninsula]]", "[[visigoths]]", "[[gaul]]"]
+related: ["[[germanic-peoples]]", "[[iberian-peninsula]]", "[[visigoths]]", "[[gaul]]", "[[spain]]", "[[christianity]]"]
 requires: []
 lists:
   - "[[peoples-of-the-early-middle-ages]]"

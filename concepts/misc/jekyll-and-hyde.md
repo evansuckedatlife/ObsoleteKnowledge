@@ -5,7 +5,7 @@ defines:
   - Jekyll and Hyde
   - Dr. Jekyll and Mr. Hyde
   - The Strange Case of Dr. Jekyll and Mr. Hyde
-related: ["[[robert-louis-stevenson]]", "[[gothic-literature]]", "[[duality]]"]
+related: ["[[robert-louis-stevenson]]", "[[gothic-literature]]", "[[duality]]", "[[science-fiction]]", "[[existentialism]]"]
 requires: []
 lists:
   - "[[common-mistakes]]"

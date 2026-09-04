@@ -2,7 +2,7 @@
 type: person
 category: visual-art
 defines: ["Renzo Piano"]
-related: ["[[richard-rogers]]", "[[modernism]]", "[[high-tech-architecture]]", "[[italy]]"]
+related: ["[[richard-rogers]]", "[[modernism]]", "[[high-tech-architecture]]", "[[italy]]", "[[france]]"]
 requires: ["[[modernism]]"]
 lists: ["[[architects]]"]
 tour_order: 1

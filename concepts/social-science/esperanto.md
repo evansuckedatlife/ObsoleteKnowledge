@@ -4,7 +4,7 @@ category: social-science
 defines:
   - Esperanto
   - "Esperanto"
-related: ["[[constructed-languages]]", "[[international-auxiliary-languages]]", "[[linguistic-idealism]]", "[[enlightenment]]", "[[utilitarianism]]", "[[russian-revolution]]", "[[positivism]]"]
+related: ["[[constructed-languages]]", "[[international-auxiliary-languages]]", "[[linguistic-idealism]]", "[[enlightenment]]", "[[utilitarianism]]", "[[russian-revolution]]", "[[positivism]]", "[[world-war-i]]"]
 requires: ["[[linguistics]]"]
 lists:
   - "[[unique-languages]]"

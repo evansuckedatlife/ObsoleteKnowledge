@@ -2,7 +2,7 @@
 type: work
 category: visual-art
 defines: ["The Potato Eaters"]
-related: ["[[vincent-van-gogh]]", "[[post-impressionism]]", "[[industrial-revolution]]"]
+related: ["[[vincent-van-gogh]]", "[[post-impressionism]]", "[[industrial-revolution]]", "[[realism]]"]
 requires: ["[[expressionism]]"]
 lists:
   - "[[dutch-paintings]]"

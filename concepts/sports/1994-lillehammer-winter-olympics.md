@@ -4,7 +4,7 @@ category: sports
 defines:
   - 1994 Winter Olympics
   - Lillehammer Winter Olympics
-related: ["[[olympic-games]]", "[[nancy-kerrigan]]"]
+related: ["[[olympic-games]]", "[[nancy-kerrigan]]", "[[united-states]]"]
 requires: ["[[olympic-games]]"]
 lists:
   - "[[olympics]]"

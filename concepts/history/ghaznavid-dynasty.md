@@ -4,7 +4,7 @@ category: history
 defines:
   - Ghaznavid Dynasty
   - Ghaznavid Empire
-related: ["[[seljuk-empire]]", "[[abbasid-caliphate]]", "[[mughal-empire]]", "[[islam]]"]
+related: ["[[seljuk-empire]]", "[[abbasid-caliphate]]", "[[mughal-empire]]", "[[islam]]", "[[poetry]]"]
 requires: []
 lists:
   - "[[medieval-islamic-dynasties]]"

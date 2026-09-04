@@ -2,7 +2,7 @@
 type: person
 category: social-science
 defines: ["François Quesnay"]
-related: ["[[adam-smith]]", "[[physiocrats]]", "[[enlightenment]]", "[[france]]", "[[renaissance]]", "[[french-revolution]]"]
+related: ["[[adam-smith]]", "[[physiocrats]]", "[[enlightenment]]", "[[france]]", "[[renaissance]]", "[[french-revolution]]", "[[industrial-revolution]]"]
 requires: ["[[adam-smith]]"]
 lists: ["[[economists]]"]
 tour_order: 1

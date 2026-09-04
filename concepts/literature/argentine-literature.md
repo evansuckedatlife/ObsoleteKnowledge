@@ -2,7 +2,7 @@
 type: concept
 category: literature
 defines: [Argentine literature, Argentine Literature]
-related: ["[[magical-realism]]", "[[modernism]]", "[[detective-fiction]]", "[[existentialism]]", "[[stream-of-consciousness]]", "[[spain]]", "[[world-war-ii]]"]
+related: ["[[magical-realism]]", "[[modernism]]", "[[detective-fiction]]", "[[existentialism]]", "[[stream-of-consciousness]]", "[[spain]]", "[[world-war-ii]]", "[[france]]", "[[colonialism]]"]
 requires: ["[[spain]]", "[[modernism]]"]
 lists: ["[[literature-hubs]]"]
 tour_order: 0

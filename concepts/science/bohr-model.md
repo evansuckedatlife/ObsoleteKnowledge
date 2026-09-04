@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: ["Bohr model", "Bohr atom"]
-related: ["[[atom]]", "[[electron]]", "[[quantum-mechanics]]", "[[niels-bohr]]", "[[energy-level]]"]
+related: ["[[atom]]", "[[electron]]", "[[quantum-mechanics]]", "[[niels-bohr]]", "[[energy-level]]", "[[world-war-ii]]"]
 requires: ["[[atom]]", "[[electron]]"]
 lists: ["[[science-hubs]]"]
 tour_order: 0

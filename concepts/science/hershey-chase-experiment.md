@@ -2,7 +2,7 @@
 type: event
 category: science
 defines: ["Hershey–Chase experiment"]
-related: ["[[dna]]", "[[genetic-material]]", "[[bacteriophage]]", "[[protein]]", "[[radioactive-isotope]]", "[[world-war-ii]]", "[[united-states]]"]
+related: ["[[dna]]", "[[genetic-material]]", "[[bacteriophage]]", "[[protein]]", "[[radioactive-isotope]]", "[[world-war-ii]]", "[[united-states]]", "[[cold-war]]"]
 requires: ["[[dna]]"]
 lists: ["[[scientific-experiments]]"]
 tour_order: 1

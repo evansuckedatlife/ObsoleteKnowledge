@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: [Orbit, orbital path, orbital mechanics]
-related: ["[[gravity]]", "[[newton-laws-of-motion]]", "[[moon]]", "[[planet]]", "[[satellite]]"]
+related: ["[[gravity]]", "[[newton-laws-of-motion]]", "[[moon]]", "[[planet]]", "[[satellite]]", "[[space-race]]", "[[enlightenment]]"]
 requires: ["[[gravity]]", "[[force]]"]
 lists: ["[[science-hubs]]"]
 tour_order: 0

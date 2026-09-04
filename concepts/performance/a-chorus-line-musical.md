@@ -4,7 +4,7 @@ category: performance
 defines:
   - A Chorus Line
   - A Chorus Line Musical
-related: ["[[marvin-hamlisch]]", "[[edward-kleban]]", "[[michael-bennett]]", "[[broadway-dancers]]", "[[modernism]]", "[[new-york-city]]", "[[civil-rights-movement]]", "[[harlem-renaissance]]"]
+related: ["[[marvin-hamlisch]]", "[[edward-kleban]]", "[[michael-bennett]]", "[[broadway-dancers]]", "[[modernism]]", "[[new-york-city]]", "[[civil-rights-movement]]", "[[harlem-renaissance]]", "[[american-literature]]", "[[realism]]"]
 requires: ["[[ballet]]"]
 lists:
   - "[[musicals-part-2]]"

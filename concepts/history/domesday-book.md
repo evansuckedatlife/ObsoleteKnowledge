@@ -2,7 +2,7 @@
 type: text
 category: history
 defines: [Domesday Book, Liber de Wintonia, Great Domesday, Little Domesday]
-related: ["[[battle-of-hastings]]", "[[harold-godwinson]]", "[[william-the-conqueror]]", "[[house-of-normandy]]", "[[england]]", "[[feudalism]]", "[[middle-ages]]"]
+related: ["[[battle-of-hastings]]", "[[harold-godwinson]]", "[[william-the-conqueror]]", "[[house-of-normandy]]", "[[england]]", "[[feudalism]]", "[[middle-ages]]", "[[culture]]"]
 requires: ["[[england]]"]
 lists: ["[[history-hubs]]"]
 tour_order: 0

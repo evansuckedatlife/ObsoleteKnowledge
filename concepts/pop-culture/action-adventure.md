@@ -2,7 +2,7 @@
 type: concept
 category: pop-culture
 defines: [Action-Adventure, Action-Adventure Game]
-related: ["[[first-person-shooter]]", "[[skyrim]]", "[[minecraft]]", "[[japan]]", "[[united-states]]", "[[esports]]"]
+related: ["[[first-person-shooter]]", "[[skyrim]]", "[[minecraft]]", "[[japan]]", "[[united-states]]", "[[esports]]", "[[age-of-exploration]]", "[[ancient-greece]]"]
 requires: ["[[first-person-shooter]]", "[[japan]]"]
 lists: ["[[pop-culture-hubs]]"]
 tour_order: 0

@@ -2,7 +2,7 @@
 type: person
 category: history
 defines: [Carol Moseley Braun]
-related: ["[[united-states-senate]]", "[[illinois]]", "[[united-states-ambassador]]"]
+related: ["[[united-states-senate]]", "[[illinois]]", "[[united-states-ambassador]]", "[[united-states]]"]
 requires: ["[[civil-rights-movement]]"]
 lists: ["[[black-american-legislators]]"]
 tour_order: 1

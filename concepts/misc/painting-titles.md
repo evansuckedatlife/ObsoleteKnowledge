@@ -5,7 +5,7 @@ defines:
   - Painting titles
   - Artwork titling
   - Famous paintings
-related: ["[[visual-art]]", "[[museum-identification]]", "[[art-history]]"]
+related: ["[[visual-art]]", "[[museum-identification]]", "[[art-history]]", "[[linguistics]]", "[[poetry]]"]
 requires: []
 lists:
   - "[[common-mistakes-2]]"

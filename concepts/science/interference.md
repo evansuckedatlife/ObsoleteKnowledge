@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: [Interference, "Wave interference"]
-related: ["[[wave]]", "[[superposition]]", "[[double-slit-experiment]]", "[[diffraction]]", "[[constructive-interference]]", "[[destructive-interference]]", "[[light-wave]]"]
+related: ["[[wave]]", "[[superposition]]", "[[double-slit-experiment]]", "[[diffraction]]", "[[constructive-interference]]", "[[destructive-interference]]", "[[light-wave]]", "[[world-war-ii]]"]
 requires: []
 lists: ["[[science-hubs]]"]
 tour_order: 0

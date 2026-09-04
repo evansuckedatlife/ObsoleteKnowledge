@@ -2,7 +2,7 @@
 type: concept
 category: performance
 defines: [Bohemian Culture, bohemianism, bohemians]
-related: ["[[musical-theatre]]", "[[modernism]]", "[[realism]]", "[[existentialism]]", "[[broadway-dancers]]", "[[new-york-city]]", "[[france]]", "[[industrial-revolution]]"]
+related: ["[[musical-theatre]]", "[[modernism]]", "[[realism]]", "[[existentialism]]", "[[broadway-dancers]]", "[[new-york-city]]", "[[france]]", "[[industrial-revolution]]", "[[romanticism]]"]
 requires: ["[[modernism]]"]
 lists: ["[[performance-hubs]]"]
 tour_order: 0

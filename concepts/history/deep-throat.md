@@ -2,7 +2,7 @@
 type: person
 category: history
 defines: [Deep Throat, Mark Felt, W. Mark Felt]
-related: ["[[richard-nixon]]", "[[gerald-ford]]", "[[united-states]]", "[[cold-war]]", "[[united-states-constitution]]", "[[detective-fiction]]"]
+related: ["[[richard-nixon]]", "[[gerald-ford]]", "[[united-states]]", "[[cold-war]]", "[[united-states-constitution]]", "[[detective-fiction]]", "[[culture]]"]
 requires: ["[[united-states]]", "[[cold-war]]"]
 lists: ["[[history-hubs]]"]
 tour_order: 0

@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: ["Giant impact hypothesis", "Big whack", "Big splash"]
-related: ["[[moon]]", "[[hadean-eon]]", "[[theia]]", "[[early-solar-system]]", "[[planetary-formation]]", "[[impact-crater]]"]
+related: ["[[moon]]", "[[hadean-eon]]", "[[theia]]", "[[early-solar-system]]", "[[planetary-formation]]", "[[impact-crater]]", "[[space-race]]"]
 requires: ["[[hadean-eon]]"]
 lists: ["[[science-hubs]]"]
 tour_order: 0

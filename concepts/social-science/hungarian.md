@@ -5,7 +5,7 @@ defines:
   - Hungarian
   - Magyar
   - Magyarország
-related: ["[[uralic-languages]]", "[[agglutinative-languages]]", "[[european-languages]]", "[[central-asian-language-contacts]]"]
+related: ["[[uralic-languages]]", "[[agglutinative-languages]]", "[[european-languages]]", "[[central-asian-language-contacts]]", "[[ottoman-empire]]", "[[soviet-union]]", "[[poetry]]"]
 requires: ["[[structural-linguistics]]"]
 lists:
   - "[[unique-languages]]"

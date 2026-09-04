@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: [Impact crater]
-related: ["[[asteroid-belt]]", "[[giant-impact-hypothesis]]", "[[moon]]", "[[mars]]", "[[extinction-event]]"]
+related: ["[[asteroid-belt]]", "[[giant-impact-hypothesis]]", "[[moon]]", "[[mars]]", "[[extinction-event]]", "[[space-race]]"]
 requires: ["[[the-moon]]", "[[asteroid-belt]]"]
 lists: ["[[science-hubs]]"]
 tour_order: 0

@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: [Spindle fiber]
-related: ["[[mitosis]]", "[[cell-division]]", "[[chromosome]]", "[[microtubule]]", "[[centriole]]"]
+related: ["[[mitosis]]", "[[cell-division]]", "[[chromosome]]", "[[microtubule]]", "[[centriole]]", "[[science-fiction]]"]
 requires: ["[[mitosis]]"]
 lists: ["[[science-hubs]]"]
 tour_order: 0

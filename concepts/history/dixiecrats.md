@@ -4,7 +4,7 @@ category: history
 defines:
   - Dixiecrats
   - States' Rights Democratic Party
-related: ["[[strom-thurmond]]", "[[1948-u-s-presidential-election]]", "[[american-third-parties]]", "[[jim-crow-laws]]"]
+related: ["[[strom-thurmond]]", "[[1948-u-s-presidential-election]]", "[[american-third-parties]]", "[[jim-crow-laws]]", "[[gothic-literature]]", "[[tragedy]]"]
 requires: ["[[civil-rights-movement]]"]
 lists:
   - "[[american-third-parties]]"

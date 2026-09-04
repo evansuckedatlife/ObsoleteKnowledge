@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: [Genetic diversity]
-related: ["[[cell]]", "[[cell-cycle]]", "[[dna]]", "[[evolution]]", "[[meiosis]]", "[[nucleus]]", "[[protein]]"]
+related: ["[[cell]]", "[[cell-cycle]]", "[[dna]]", "[[evolution]]", "[[meiosis]]", "[[nucleus]]", "[[protein]]", "[[civil-rights-movement]]"]
 requires: ["[[dna]]", "[[evolution]]"]
 lists: ["[[science-hubs]]"]
 tour_order: 0

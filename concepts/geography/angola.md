@@ -2,7 +2,7 @@
 type: place
 category: geography
 defines: [Angola, Republic of Angola]
-related: ["[[atlantic-ocean]]", "[[cold-war]]", "[[colonialism]]", "[[namib-desert]]", "[[south-africa]]", "[[southern-africa]]"]
+related: ["[[atlantic-ocean]]", "[[cold-war]]", "[[colonialism]]", "[[namib-desert]]", "[[south-africa]]", "[[southern-africa]]", "[[civil-rights-movement]]", "[[french-revolution]]"]
 requires: ["[[atlantic-ocean]]", "[[cold-war]]", "[[colonialism]]"]
 lists: ["[[geography-hubs]]"]
 tour_order: 0

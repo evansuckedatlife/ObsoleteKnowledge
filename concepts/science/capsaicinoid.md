@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: [Capsaicinoid, Capsaicinoids, Capsaicin]
-related: ["[[heat]]", "[[sensation]]", "[[ph-scale]]", "[[decibel-scale]]", "[[richter-scale]]", "[[enzyme]]", "[[protein]]"]
+related: ["[[heat]]", "[[sensation]]", "[[ph-scale]]", "[[decibel-scale]]", "[[richter-scale]]", "[[enzyme]]", "[[protein]]", "[[age-of-exploration]]"]
 requires: ["[[protein]]", "[[cell]]"]
 lists: ["[[science-hubs]]"]
 tour_order: 0

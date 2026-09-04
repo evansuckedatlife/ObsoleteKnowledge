@@ -2,7 +2,7 @@
 type: concept
 category: science
 defines: [Scoville scale, Scoville units, SHU]
-related: ["[[decibel-scale]]", "[[ph-scale]]", "[[richter-scale]]", "[[capsaicinoid]]", "[[heat]]", "[[sensation]]"]
+related: ["[[decibel-scale]]", "[[ph-scale]]", "[[richter-scale]]", "[[capsaicinoid]]", "[[heat]]", "[[sensation]]", "[[age-of-exploration]]"]
 requires: []
 lists: ["[[science-hubs]]"]
 tour_order: 0
