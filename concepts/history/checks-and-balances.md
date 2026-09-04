@@ -1,9 +1,7 @@
 ---
 type: concept
 category: history
-defines:
-  - Checks and balances
-  - Separation of powers
+defines: [Checks and balances]
 related:
   - "[[united-states-constitution]]"
   - "[[montesquieu]]"

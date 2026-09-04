@@ -1,7 +1,7 @@
 ---
 type: person
 category: social-science
-defines: ["John B. Watson", Watson]
+defines: [John B. Watson]
 related: ["[[ivan-pavlov]]", "[[b-f-skinner]]", "[[behaviorism]]", "[[little-albert-experiment]]", "[[classical-conditioning]]", "[[psychological-experiments]]"]
 requires: ["[[behaviorism]]"]
 lists: ["[[psychologists]]"]

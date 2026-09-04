@@ -1,7 +1,7 @@
 ---
 type: deity
 category: mythology
-defines: [Zeus, Jupiter]
+defines: [Zeus]
 related: ["[[hera]]", "[[poseidon]]", "[[hades]]", "[[athena]]", "[[apollo]]", "[[aphrodite]]", "[[heracles]]", "[[perseus]]", "[[jupiter]]", "[[ancient-greece]]", "[[socrates]]"]
 requires: []
 lists: []

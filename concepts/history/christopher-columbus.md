@@ -64,7 +64,7 @@ Columbus is a figure around whom myth and historical reality clash sharply. In p
 
 ## see also
 
-- [[marco-polo]] · [[magellan]] · [[vasco-da-gama]]
+- [[marco-polo]] · [[ferdinand-magellan]] · [[vasco-da-gama]]
 
 <!-- crosslinks -->
 ```dataviewjs

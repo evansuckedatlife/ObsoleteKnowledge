@@ -2,7 +2,7 @@
 type: phrase
 category: music
 defines: ["Casta diva", "Chaste goddess"]
-related: ["[[norma]]", "[[bellini]]", "[[soprano]]", "[[france]]"]
+related: ["[[norma]]", "[[vincenzo-bellini]]", "[[soprano]]", "[[france]]"]
 requires: ["[[opera]]"]
 lists: ["[[arias]]"]
 tour_order: 1
@@ -36,7 +36,7 @@ dv.view("_dv/foundations")
 ## connections
 
 - [[norma]] — Bellini's tragic opera about a Druid priestess caught between duty, love, and conscience.
-- [[bellini]] — Vincenzo Bellini, a master of bel canto and composer of some of opera's most elegant and emotionally direct works.
+- [[vincenzo-bellini]] — Vincenzo Bellini, a master of bel canto and composer of some of opera's most elegant and emotionally direct works.
 - [[soprano]] — A principal female vocal type; this aria is among the most demanding in soprano repertoire.
 - [[bel-canto-opera]] — The Italian vocal tradition emphasizing beautiful, lyrical melody and technical perfection.
 - [[moon-in-mythology-and-art]] — Norma's address to the moon goddess reflects the moon's symbolic significance across cultures.

@@ -2,7 +2,7 @@
 type: event
 category: history
 defines: [German Unification, Unification of Germany]
-related: ["[[germany]]", "[[german-empire]]", "[[prussian-empire]]", "[[franco-prussian-war]]", "[[realpolitik]]", "[[france]]", "[[world-war-i]]"]
+related: ["[[germany]]", "[[german-empire]]", "[[prussia]]", "[[franco-prussian-war]]", "[[realpolitik]]", "[[france]]", "[[world-war-i]]"]
 requires: ["[[germany]]", "[[france]]", "[[napoleon-bonaparte]]"]
 lists: ["[[history-hubs]]"]
 tour_order: 0
@@ -35,7 +35,7 @@ dv.view("_dv/foundations")
 
 - [[german-empire]] — the federal nation-state proclaimed at Versailles in 1871 as the direct culmination of unification.
 - [[franco-prussian-war]] — the triumphant military clash with [[france]] that galvanized the southern German states to join the Prussian-led confederation.
-- [[prussian-empire]] — the dominant militaristic kingdom whose monarchy, army, and civil bureaucracy directed the entire unification process.
+- [[prussia]] — the dominant militaristic kingdom whose monarchy, army, and civil bureaucracy directed the entire unification process.
 - [[realpolitik]] — the ruthlessly pragmatic diplomatic doctrine wielded by *Otto von Bismarck* to manipulate allies and adversaries alike.
 - [[napoleon-bonaparte]] — the French ruler whose restructuring of the German states abolished the *Holy Roman Empire* and ignited nineteenth-century German nationalism.
 - [[industrial-revolution]] — the rapid expansion of railways, steel manufacturing, and coal extraction that furnished Prussia with decisive logistical and military superiority.
@@ -43,7 +43,7 @@ dv.view("_dv/foundations")
 
 ## see also
 
-- [[franco-prussian-war]] · [[german-empire]] · [[prussian-empire]] · [[realpolitik]] · [[italy]] · [[world-war-i]]
+- [[franco-prussian-war]] · [[german-empire]] · [[prussia]] · [[realpolitik]] · [[italy]] · [[world-war-i]]
 
 <!-- crosslinks -->
 ```dataviewjs

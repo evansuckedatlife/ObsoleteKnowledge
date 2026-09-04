@@ -1,10 +1,10 @@
 ---
 type: term
 category: science
-defines: ["Power Supply", "PSU", "power-supply unit"]
+defines: [Power Supply, PSU, power-supply unit]
 related: ["[[electricity]]", "[[voltage]]", "[[current-electricity]]", "[[transformer]]", "[[rectifier]]", "[[motherboard]]", "[[cooling]]", "[[industrial-revolution]]"]
 requires: []
-lists: []
+lists: ["[[computer-components]]"]
 tour_order: 0
 read: false
 ---

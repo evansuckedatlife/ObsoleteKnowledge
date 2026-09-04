@@ -1,7 +1,7 @@
 ---
 type: concept
 category: history
-defines: [Republic, Republican government, Republicanism]
+defines: [Republic, Republican government]
 related: ["[[rome]]", "[[ancient-greece]]", "[[roman-empire]]", "[[renaissance]]", "[[enlightenment]]", "[[american-revolution]]", "[[united-states-constitution]]", "[[french-revolution]]"]
 requires: ["[[rome]]", "[[ancient-greece]]"]
 lists: ["[[history-hubs]]"]

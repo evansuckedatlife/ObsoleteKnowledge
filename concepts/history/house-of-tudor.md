@@ -2,7 +2,7 @@
 type: concept
 category: history
 defines: ["House of Tudor", "Tudor Dynasty"]
-related: ["[[henry-viii]]", "[[elizabeth-i]]", "[[english-reformation]]", "[[spanish-armada]]", "[[wars-of-roses]]", "[[england]]"]
+related: ["[[henry-viii]]", "[[elizabeth-i]]", "[[english-reformation]]", "[[spanish-armada]]", "[[wars-of-the-roses]]", "[[england]]"]
 requires: ["[[house-of-plantagenet]]"]
 lists:
   - "[[european-royal-families]]"
@@ -40,7 +40,7 @@ The **House of Tudor** ruled England from 1485 to 1603, emerging from the chaos 
 
 - [[henry-viii]] — the dynasty's most infamous monarch and architect of the English Reformation.
 - [[elizabeth-i]] — the greatest Tudor monarch and symbol of England's golden age.
-- [[wars-of-roses]] — the civil war the Tudors ended.
+- [[wars-of-the-roses]] — the civil war the Tudors ended.
 - [[english-reformation]] — they initiated and shaped England's break with Rome.
 - [[spanish-armada]] — defeated under Elizabeth, securing England's independence.
 - [[house-of-stuart]] — succeeded the Tudors on the English throne.

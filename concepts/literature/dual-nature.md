@@ -1,7 +1,7 @@
 ---
 type: concept
 category: literature
-defines: [Dual Nature, Doppelgänger, double self, split personality in literature]
+defines: [Dual Nature, double self, split personality in literature]
 related: ["[[gothic-literature]]", "[[edgar-allan-poe]]", "[[fyodor-dostoevsky]]", "[[england]]", "[[romanticism]]", "[[drug-literature]]"]
 requires: ["[[gothic-literature]]", "[[romanticism]]"]
 lists: ["[[literature-hubs]]"]

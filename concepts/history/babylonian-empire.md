@@ -1,7 +1,7 @@
 ---
 type: place
 category: history
-defines: [Babylonian Empire, Babylon, Babylonia]
+defines: [Babylonian Empire, Babylonia]
 related: ["[[mesopotamia]]", "[[hammurabi]]", "[[nebuchadnezzar-ii]]", "[[code-of-hammurabi]]", "[[akkadian-empire]]", "[[middle-east]]"]
 requires: ["[[akkadian-empire]]"]
 lists: ["[[ancient-empires]]"]

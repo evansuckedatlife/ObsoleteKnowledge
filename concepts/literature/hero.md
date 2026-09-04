@@ -2,7 +2,7 @@
 type: concept
 category: literature
 defines: [Hero, Protagonist, Epic hero]
-related: ["[[heroic-quest]]", "[[journey-narrative]]", "[[quest]]", "[[action]]", "[[peril]]", "[[ancient-greece]]", "[[tragedy]]", "[[romanticism]]"]
+related: ["[[epic-quest]]", "[[journey-narrative]]", "[[quest]]", "[[action]]", "[[peril]]", "[[ancient-greece]]", "[[tragedy]]", "[[romanticism]]"]
 requires: ["[[ancient-greece]]", "[[tragedy]]"]
 lists: ["[[literature-hubs]]"]
 tour_order: 0
@@ -19,7 +19,7 @@ dv.view("_dv/foundations")
 
 ## summary
 
-A **hero** is the central protagonist in myth, epic, and narrative literature, typically distinguished by exceptional virtue, physical courage, ingenuity, or moral fortitude in the face of daunting adversity. From the martial champions celebrated by *Homer* in [[ancient-greece]] to the introspective, alienated figures of [[modernism]], the character has evolved across centuries to mirror shifting cultural ethics and philosophical models. Understanding this archetype is essential across literary studies because the character's trials, descent, and ultimate transformation structure foundational storytelling patterns, most notably the [[heroic-quest]]. In dramatic and narrative theory, the figure operates as a vessel for collective values, embodying the ideals a culture venerates as well as the existential vulnerabilities it seeks to transcend.
+A **hero** is the central protagonist in myth, epic, and narrative literature, typically distinguished by exceptional virtue, physical courage, ingenuity, or moral fortitude in the face of daunting adversity. From the martial champions celebrated by *Homer* in [[ancient-greece]] to the introspective, alienated figures of [[modernism]], the character has evolved across centuries to mirror shifting cultural ethics and philosophical models. Understanding this archetype is essential across literary studies because the character's trials, descent, and ultimate transformation structure foundational storytelling patterns, most notably the [[epic-quest]]. In dramatic and narrative theory, the figure operates as a vessel for collective values, embodying the ideals a culture venerates as well as the existential vulnerabilities it seeks to transcend.
 
 ## you gotta know
 
@@ -34,7 +34,7 @@ A **hero** is the central protagonist in myth, epic, and narrative literature, t
 
 ## connections
 
-- [[heroic-quest]] — the archetypal journey through which the protagonist tests virtues, overcomes monstrous adversaries, and achieves maturity.
+- [[epic-quest]] — the archetypal journey through which the protagonist tests virtues, overcomes monstrous adversaries, and achieves maturity.
 - [[ancient-greece]] — the cradle of Western heroic tradition, codifying martial champions in epic verse and flawed protagonists in civic drama.
 - [[tragedy]] — dramatic genre where heroic figures suffer catastrophic downfalls driven by hubris, fate, or moral misjudgment.
 - [[william-shakespeare]] — master dramatist who deepened the archetype by creating conflicted, philosophically tormented protagonists facing moral paralysis.
@@ -45,7 +45,7 @@ A **hero** is the central protagonist in myth, epic, and narrative literature, t
 
 ## see also
 
-- [[heroic-quest]] · [[tragedy]] · [[romanticism]] · [[modernism]] · [[ancient-greece]] · [[william-shakespeare]]
+- [[epic-quest]] · [[tragedy]] · [[romanticism]] · [[modernism]] · [[ancient-greece]] · [[william-shakespeare]]
 
 <!-- crosslinks -->
 ```dataviewjs

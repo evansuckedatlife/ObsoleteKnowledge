@@ -1,11 +1,7 @@
 ---
 type: concept
 category: misc
-defines:
-  - John Adams confusion
-  - John Adams
-  - John Quincy Adams
-  - Samuel Adams
+defines: [John Adams confusion, Samuel Adams]
 related: ["[[john-adams]]", "[[john-quincy-adams]]", "[[samuel-adams]]", "[[american-revolution]]", "[[united-states]]"]
 requires: ["[[american-revolution]]"]
 lists:

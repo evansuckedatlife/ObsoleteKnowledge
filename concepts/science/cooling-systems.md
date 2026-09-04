@@ -1,8 +1,8 @@
 ---
 type: term
 category: science
-defines: [cooling, thermal management, heatsink, fan, liquid cooling]
-related: ["[[central-processing-unit]]", "[[graphics-card]]", "[[power-supply-unit]]", "[[motherboard]]"]
+defines: [cooling, heatsink, fan, liquid cooling]
+related: ["[[central-processing-unit]]", "[[graphics-card]]", "[[power-supply]]", "[[motherboard]]"]
 requires: ["[[cooling]]"]
 lists: ["[[computer-components]]"]
 tour_order: 1
@@ -40,12 +40,12 @@ dv.view("_dv/foundations")
 
 - [[central-processing-unit]] — generates 65–280 watts of heat depending on generation; a CPU heatsink is mandatory, sized to the TDP.
 - [[graphics-card]] — discrete GPUs generate 50–450 watts; on-card cooling (heatsink + fan or liquid loop) is built-in.
-- [[power-supply-unit]] — the PSU itself generates heat and requires internal cooling; a PSU placed in a hot case may throttle if intake air is warm.
+- [[power-supply]] — the PSU itself generates heat and requires internal cooling; a PSU placed in a hot case may throttle if intake air is warm.
 - [[motherboard]] — voltage regulators and chipsets also generate heat; airflow across the motherboard helps dissipate their load and extends component life.
 
 ## see also
 
-- [[central-processing-unit]] · [[graphics-card]] · [[power-supply-unit]] · [[motherboard]]
+- [[central-processing-unit]] · [[graphics-card]] · [[power-supply]] · [[motherboard]]
 
 <!-- crosslinks -->
 ```dataviewjs

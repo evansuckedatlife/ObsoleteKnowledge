@@ -2,7 +2,7 @@
 type: text
 category: misc
 defines: ["Ten Commandments", "Decalogue"]
-related: ["[[moses]]", "[[pentateuch]]", "[[judaism]]", "[[christianity]]", "[[mount-sinai]]", "[[law]]"]
+related: ["[[moses]]", "[[torah]]", "[[judaism]]", "[[christianity]]", "[[mount-sinai]]", "[[law]]"]
 requires: ["[[judaism]]", "[[moses]]"]
 lists: ["[[misc-hubs]]"]
 tour_order: 0
@@ -34,7 +34,7 @@ The **Ten Commandments** are the foundational moral and religious laws given by 
 ## connections
 
 - [[moses]] — the lawgiver who received the commandments directly from God.
-- [[pentateuch]] — the Torah, of which Exodus and Deuteronomy are parts.
+- [[torah]] — the Torah, of which Exodus and Deuteronomy are parts.
 - [[mount-sinai]] — the sacred mountain where the revelation occurred.
 - [[judaism]] — the religious tradition for which the commandments are absolutely central.
 - [[christianity]] — inherited and reinterpreted the commandments as part of its moral framework.

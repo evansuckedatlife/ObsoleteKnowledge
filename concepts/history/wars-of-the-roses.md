@@ -1,7 +1,7 @@
 ---
 type: event
 category: history
-defines: ["Wars of the Roses", "War of the Roses"]
+defines: [Wars of the Roses, War of the Roses, wars-of-roses]
 related: ["[[richard-iii]]", "[[henry-vii]]", "[[battle-of-bosworth-field]]", "[[tudor-dynasty]]", "[[english-succession]]", "[[england]]", "[[william-shakespeare]]"]
 requires: ["[[england]]"]
 lists: ["[[history-hubs]]"]

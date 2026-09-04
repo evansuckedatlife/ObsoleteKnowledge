@@ -2,7 +2,7 @@
 type: concept
 category: history
 defines: ["House of Plantagenet", "Plantagenet Dynasty"]
-related: ["[[king-henry-iii]]", "[[king-edward-i]]", "[[king-richard-the-lionheart]]", "[[king-john]]", "[[wars-of-roses]]", "[[england]]"]
+related: ["[[king-henry-iii]]", "[[king-edward-i]]", "[[king-richard-the-lionheart]]", "[[king-john]]", "[[wars-of-the-roses]]", "[[england]]"]
 requires: []
 lists:
   - "[[european-royal-families]]"
@@ -31,7 +31,7 @@ The **House of Plantagenet** ruled England from 1154 to 1485, the longest-reigni
 - [[magna-carta]] — established under King John.
 - [[king-henry-iii]] — reformed English law and governance.
 - [[king-edward-i]] — the "Hammer of the Scots," expanded English power.
-- [[wars-of-roses]] — the civil war that destroyed the dynasty.
+- [[wars-of-the-roses]] — the civil war that destroyed the dynasty.
 - [[king-richard-iii]] — the last Plantagenet, killed at Bosworth.
 - [[house-of-tudor]] — who succeeded them.
 

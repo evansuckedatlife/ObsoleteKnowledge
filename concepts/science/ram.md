@@ -1,10 +1,10 @@
 ---
 type: term
 category: science
-defines: ["RAM", "Random-Access Memory", "random-access-memory"]
+defines: [RAM, Random-Access Memory, random-access-memory, DRAM, SDRAM]
 related: ["[[computer-memory]]", "[[cpu]]", "[[cache-memory]]", "[[virtual-memory]]", "[[volatile-memory]]", "[[cold-war]]"]
 requires: ["[[central-processing-unit]]"]
-lists: []
+lists: ["[[computer-components]]"]
 tour_order: 8
 read: false
 ---

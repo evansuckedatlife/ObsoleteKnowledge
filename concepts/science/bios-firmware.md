@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [BIOS, firmware, UEFI, CMOS]
-related: ["[[motherboard]]", "[[central-processing-unit]]", "[[power-supply-unit]]"]
+related: ["[[motherboard]]", "[[central-processing-unit]]", "[[power-supply]]"]
 requires: []
 lists: ["[[computer-components]]"]
 tour_order: 0
@@ -30,11 +30,11 @@ The **BIOS** (Basic Input/Output System) is firmware—a low-level software prog
 
 - [[motherboard]] — BIOS firmware lives on the motherboard's flash chip; the motherboard's design determines CPU models supported, RAM timings, and PCIe options exposed via BIOS.
 - [[central-processing-unit]] — BIOS initializes the CPU, configuring clock speeds, voltage, and cores; BIOS sets multipliers that determine the final CPU frequency.
-- [[power-supply-unit]] — BIOS configures voltage regulators on the motherboard via PMBus signaling; correct voltage delivery depends on proper BIOS CPU configuration.
+- [[power-supply]] — BIOS configures voltage regulators on the motherboard via PMBus signaling; correct voltage delivery depends on proper BIOS CPU configuration.
 
 ## see also
 
-- [[motherboard]] · [[central-processing-unit]] · [[power-supply-unit]]
+- [[motherboard]] · [[central-processing-unit]] · [[power-supply]]
 
 <!-- crosslinks -->
 ```dataviewjs

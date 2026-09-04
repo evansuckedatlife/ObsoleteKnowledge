@@ -1,9 +1,7 @@
 ---
 type: concept
 category: visual-art
-defines:
-  - Expressionism
-  - German Expressionism
+defines: [Expressionism]
 related: ["[[die-brucke]]", "[[der-blaue-reiter]]", "[[edvard-munch]]", "[[fauvism]]", "[[industrial-revolution]]", "[[existentialism]]"]
 requires: []
 lists:

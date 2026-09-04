@@ -1,7 +1,7 @@
 ---
 type: event
 category: history
-defines: [Pacific Theater, Pacific War, Asiatic-Pacific Theater]
+defines: [Pacific Theater, Asiatic-Pacific Theater]
 related: ["[[world-war-ii]]", "[[japan]]", "[[united-states]]", "[[china]]", "[[battle-of-iwo-jima]]", "[[battle-of-okinawa]]", "[[atomic-bombings-of-japan]]"]
 requires: ["[[world-war-ii]]", "[[japan]]"]
 lists: ["[[history-hubs]]"]

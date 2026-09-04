@@ -2,7 +2,7 @@
 type: person
 category: history
 defines: [Frederick the Great, Frederick II, Frederick of Prussia]
-related: ["[[prussian-empire]]", "[[enlightenment]]", "[[catherine-ii]]", "[[house-of-hohenzollern]]", "[[war-of-austrian-succession]]"]
+related: ["[[prussia]]", "[[enlightenment]]", "[[catherine-ii]]", "[[house-of-hohenzollern]]", "[[war-of-austrian-succession]]"]
 requires: ["[[house-of-hohenzollern]]"]
 lists: ["[[history-hubs]]"]
 tour_order: 0
@@ -36,7 +36,7 @@ dv.view("_dv/foundations")
 
 ## connections
 
-- [[prussian-empire]] — the state he transformed into a major power.
+- [[prussia]] — the state he transformed into a major power.
 - [[house-of-hohenzollern]] — his royal house, which he elevated to dynastic prominence.
 - [[catherine-ii]] — contemporary Russian empress and occasional ally, often rival.
 - [[enlightenment]] — the philosophical movement he claimed to embody.
@@ -46,7 +46,7 @@ dv.view("_dv/foundations")
 
 ## see also
 
-[[prussian-empire]] · [[enlightenment]] · [[catherine-ii]]
+[[prussia]] · [[enlightenment]] · [[catherine-ii]]
 
 <!-- crosslinks -->
 ```dataviewjs

@@ -1,10 +1,7 @@
 ---
 type: concept
 category: misc
-defines:
-  - Saint Augustine confusion
-  - Augustine of Hippo
-  - Augustine of Canterbury
+defines: [Saint Augustine confusion, Augustine of Canterbury]
 related: ["[[augustine-of-hippo]]", "[[augustine-of-canterbury]]", "[[christian-theology]]", "[[christianity]]", "[[england]]"]
 requires: ["[[christianity]]"]
 lists:

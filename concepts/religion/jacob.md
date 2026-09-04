@@ -1,7 +1,7 @@
 ---
 type: person
 category: religion
-defines: [Jacob, Israel]
+defines: [Jacob]
 related: ["[[abraham]]", "[[moses]]", "[[joseph]]"]
 requires: ["[[hebrew-bible]]"]
 lists: ["[[hebrew-bible-characters]]"]

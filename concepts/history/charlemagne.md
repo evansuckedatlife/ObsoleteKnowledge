@@ -1,10 +1,7 @@
 ---
 type: person
 category: history
-defines:
-  - Charlemagne
-  - Charles the Great
-  - Charles I
+defines: [Charlemagne, Charles the Great]
 related: ["[[frankish-empire]]", "[[holy-roman-empire]]", "[[papal-authority]]", "[[carolingian-renaissance]]", "[[christianity]]"]
 requires: ["[[roman-empire]]"]
 lists:

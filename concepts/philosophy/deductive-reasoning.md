@@ -2,7 +2,7 @@
 type: concept
 category: philosophy
 defines: [Deductive reasoning, deduction, deductive logic]
-related: ["[[aristotle]]", "[[logic]]", "[[rationalism]]", "[[empiricism]]", "[[descartes]]", "[[ancient-greece]]", "[[deontology]]", "[[kant]]"]
+related: ["[[aristotle]]", "[[logic]]", "[[rationalism]]", "[[empiricism]]", "[[descartes]]", "[[ancient-greece]]", "[[deontological-ethics]]", "[[kant]]"]
 requires: ["[[logic]]", "[[aristotle]]"]
 lists: ["[[philosophy-hubs]]"]
 tour_order: 0
@@ -29,7 +29,7 @@ dv.view("_dv/foundations")
 - Grounded upon classical logical principles, including the *principle of identity*, the *law of excluded middle*, and the *[[law-of-non-contradiction]]*, which asserts that contradictory statements cannot both be true simultaneously in the same sense.
 - Employs classic conditional deduction rules in propositional calculus, such as *modus ponens* (affirming the antecedent) and *modus tollens* (denying the consequent), alongside fallacies like affirming the consequent.
 - Championed during the *[[enlightenment]]* by continental *[[rationalism]]*, especially by *[[descartes]]*, who sought to construct an indubitable edifice of knowledge deduced purely from self-evident first principles like the *Cogito*.
-- Central to modern normative theory, such as *[[kant]]*'s moral *[[deontology]]*, where unconditional ethical obligations are deduced from the logical consistency of practical reason rather than empirical results.
+- Central to modern normative theory, such as *[[kant]]*'s moral *[[deontological-ethics]]*, where unconditional ethical obligations are deduced from the logical consistency of practical reason rather than empirical results.
 - Extended by *Gottlob Frege*, *Bertrand Russell*, and *Alfred North Whitehead* into modern symbolic and mathematical logic, demonstrating that arithmetic could be derived from pure deductive axioms.
 
 ## connections
@@ -38,14 +38,14 @@ dv.view("_dv/foundations")
 - [[aristotle]] — the peripatetic philosopher who pioneered formal deductive logic through categorical syllogisms.
 - [[rationalism]] — the epistemological doctrine holding that knowledge is primarily derived through deductive intellect rather than sensation.
 - [[descartes]] — rationalist philosopher who attempted to deduce metaphysics and science from intuitive, clear and distinct ideas.
-- [[deontology]] — ethical tradition that deduces universal duties from the logical demands of rational non-contradiction.
+- [[deontological-ethics]] — ethical tradition that deduces universal duties from the logical demands of rational non-contradiction.
 - [[ancient-greece]] — the cultural environment that birthed Euclidean geometry and Aristotle's deductive paradigm.
 - [[empiricism]] — rival epistemological framework that questions pure deduction in favour of inductive sensory evidence.
 - [[kant]] — philosopher who used transcendental deduction to establish the a priori conditions of human experience.
 
 ## see also
 
-- [[logic]] · [[rationalism]] · [[deontology]]
+- [[logic]] · [[rationalism]] · [[deontological-ethics]]
 
 <!-- crosslinks -->
 ```dataviewjs

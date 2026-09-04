@@ -1,7 +1,7 @@
 ---
 type: term
 category: science
-defines: [Limestone, CaCO₃]
+defines: [Limestone]
 related: ["[[calcite]]", "[[marble]]", "[[sedimentary-rock]]", "[[metamorphic-rock]]", "[[fossil]]"]
 requires: []
 lists: ["[[rocks-and-minerals]]"]

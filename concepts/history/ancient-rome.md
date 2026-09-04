@@ -1,10 +1,7 @@
 ---
 type: place
 category: history
-defines:
-  - Ancient Rome
-  - Rome
-  - Roman civilization
+defines: [Ancient Rome, Roman civilization]
 related:
   - "[[roman-empire]]"
   - "[[julius-caesar]]"

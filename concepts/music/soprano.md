@@ -2,7 +2,7 @@
 type: term
 category: music
 defines: [Soprano, Soprano voice]
-related: ["[[tenor]]", "[[alto]]", "[[mezzo-soprano]]", "[[opera]]", "[[voice-type]]", "[[casta-diva]]"]
+related: ["[[tenor]]", "[[alto]]", "[[mezzo-soprano]]", "[[opera]]", "[[voice-classification]]", "[[casta-diva]]"]
 requires: ["[[opera]]", "[[tenor]]"]
 lists: ["[[music-hubs]]"]
 tour_order: 0

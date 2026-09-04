@@ -186,7 +186,6 @@ Genres, movements and traditions that give the individual authors and works thei
 - [[duncan|Duncan]] — Duncan is the rightful King of Scotland in William Shakespeare's Macbeth, a virtuous and ineffectual ruler whose murder by Macbeth and Lady Macbeth se…
 - [[durational-time|Durational Time]] — Durational Time, rooted in the philosophical concept of durée formulated by French thinker Henri Bergson, denotes subjective, continuous, and indivisi…
 - [[dystopia|Dystopia]] — Dystopia is a speculative narrative depicting an imagined society in which oppressive political, social, or environmental conditions have produced wid…
-- [[dystopian-fiction|Dystopian Fiction]] — Dystopian fiction is speculative literature that imagines societies organized around systematic oppression, environmental collapse, or totalitarian co…
 - [[early-christianity|Early Christianity]] — Early Christianity designates the historical and theological development of the Christian movement from the ministry of Jesus of Nazareth in the first…
 - [[early-modern-psychology|Early Modern Psychology]] — Early Modern Psychology designates the evolving systems of thought concerning the human mind, soul, passions, and nervous sensibility that developed b…
 - [[eastern-european-jewry|Eastern European Jewry]] — Eastern European Jewry refers to the vibrant, predominantly Yiddish-speaking Ashkenazi Jewish civilization that flourished across the Polish-Lithuania…
@@ -297,7 +296,6 @@ Genres, movements and traditions that give the individual authors and works thei
 - [[herman-melville|Herman Melville]] — Herman Melville was an American novelist, short-story writer, and poet whose visionary maritime masterpiece Moby-Dick stands as a defining pillar of a…
 - [[hero|Hero]] — A hero is the central protagonist in myth, epic, and narrative literature, typically distinguished by exceptional virtue, physical courage, ingenuity,…
 - [[heroic-couplet|Heroic Couplet]] — The heroic couplet is a verse form of two consecutive lines of iambic pentameter that rhyme (AA BB CC...), which became the dominant English verse for…
-- [[heroic-quest|Heroic quest]] — The heroic quest is an archetypal narrative structure wherein a chosen protagonist departs from familiar society to traverse perilous wildernesses, ov…
 - [[heroism|Heroism]] — Heroism is the literary and cultural idealization of extraordinary human conduct, martial courage, and moral purpose when confronted by danger, mortal…
 - [[hieronimo|Hieronimo]] — Hieronimo is the grief-stricken protagonist of The Spanish Tragedy, the groundbreaking Elizabethan drama written by Thomas Kyd in the late 1580s.
 - [[historical-fiction|Historical Fiction]] — Historical Fiction is the novel genre in which invented or reimagined narratives are set against real historical events, periods, and figures.

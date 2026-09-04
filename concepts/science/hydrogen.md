@@ -1,7 +1,7 @@
 ---
 type: element
 category: science
-defines: [Hydrogen, "H"]
+defines: [Hydrogen]
 related: ["[[water]]", "[[photosynthesis]]", "[[chemical-element]]", "[[atomic-number]]", "[[isotope]]", "[[industrial-revolution]]", "[[space-race]]"]
 requires: []
 lists: []

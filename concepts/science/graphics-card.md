@@ -2,7 +2,7 @@
 type: term
 category: science
 defines: [GPU, graphics processing unit, graphics card, video card]
-related: ["[[central-processing-unit]]", "[[pci-express]]", "[[motherboard]]", "[[power-supply-unit]]", "[[industrial-revolution]]"]
+related: ["[[central-processing-unit]]", "[[pci-express]]", "[[motherboard]]", "[[power-supply]]", "[[industrial-revolution]]"]
 requires: []
 lists: ["[[computer-components]]"]
 tour_order: 0
@@ -31,12 +31,12 @@ A **graphics card** (or GPU, graphics processing unit) is a specialized processo
 - [[central-processing-unit]] — the GPU and CPU work in tandem; the CPU prepares scene data, issues draw commands, and handles non-graphics logic, while the GPU executes the graphics pipeline in parallel.
 - [[pci-express]] — the GPU plugs into a PCIe x16 slot; the bus bandwidth and latency are critical for CPU-GPU communication.
 - [[motherboard]] — houses the PCIe slot and power delivery; the motherboard's *UEFI* initializes the GPU at boot.
-- [[power-supply-unit]] — discrete GPUs require high wattage; an undersized PSU cannot deliver sustained power to a high-end GPU, causing crashes or throttling.
+- [[power-supply]] — discrete GPUs require high wattage; an undersized PSU cannot deliver sustained power to a high-end GPU, causing crashes or throttling.
 - [[cooling]] — GPUs are hotter than CPUs (70–85 °C under load); on-card cooling (fans or liquid) is mandatory.
 
 ## see also
 
-- [[central-processing-unit]] · [[pci-express]] · [[motherboard]] · [[power-supply-unit]]
+- [[central-processing-unit]] · [[pci-express]] · [[motherboard]] · [[power-supply]]
 
 <!-- crosslinks -->
 ```dataviewjs

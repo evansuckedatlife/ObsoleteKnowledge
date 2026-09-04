@@ -1,7 +1,7 @@
 ---
 type: practice
 category: religion
-defines: [Jewish mourning, shiva, aveilut]
+defines: [Jewish mourning, aveilut]
 related: ["[[jewish-death]]", "[[kaddish]]", "[[judaism]]"]
 requires: ["[[judaism]]"]
 lists: ["[[jewish-lifecycle-events]]"]

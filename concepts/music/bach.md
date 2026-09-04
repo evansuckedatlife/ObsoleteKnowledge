@@ -41,7 +41,7 @@ dv.view("_dv/foundations")
 
 ## see also
 
-- [[george-frideric-handel]] · [[antonio-vivaldi]] · [[antonio-corelli]] · [[arcangelo-corelli]]
+- [[george-frideric-handel]] · [[antonio-vivaldi]] · [[arcangelo-corelli]] · [[arcangelo-corelli]]
 
 <!-- crosslinks -->
 ```dataviewjs

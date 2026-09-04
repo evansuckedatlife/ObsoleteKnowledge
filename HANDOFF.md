@@ -80,6 +80,7 @@ in isolation; they are only duplicates relative to what already exists.
 | `tools/enrich_targets.py` | work list of orphaned / thin / insular nodes |
 | `tools/apply_links.py` | applies verified links, guarding `read:` |
 | `tools/consolidate.py` | duplicate names, shadowed slugs, stubs |
+| `tools/apply_dupes.py` | applies merge/narrow verdicts, guarding `read:` |
 | `tools/rftt_topics.py` | RFTT answer set → topic map |
 | `tools/pick_tail.py` | filters the single-reference tail |
 | `tools/audio/*` | bundle → narrate → build → publish → feed |

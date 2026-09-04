@@ -1,7 +1,7 @@
 ---
 type: person
 category: music
-defines: [Arcangelo Corelli]
+defines: [Arcangelo Corelli, Antonio Corelli]
 related: ["[[baroque-music]]", "[[tonality]]", "[[counterpoint]]", "[[classical-music]]", "[[italy]]", "[[polyphony]]", "[[improvisation]]"]
 requires: ["[[baroque-music]]", "[[tonality]]"]
 lists: ["[[music-hubs]]"]

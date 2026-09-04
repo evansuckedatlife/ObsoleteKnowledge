@@ -1,9 +1,7 @@
 ---
 type: place
 category: geography
-defines:
-  - Lake Victoria
-  - Victoria
+defines: [Lake Victoria]
 related: ["[[nile-river]]", "[[lake-tanganyika]]", "[[east-africa]]"]
 requires: []
 lists:

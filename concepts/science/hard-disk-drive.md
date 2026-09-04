@@ -31,7 +31,7 @@ A **hard disk drive** (HDD) is a rotating-platter storage device that uses elect
 - [[solid-state-drive]] — the modern alternative; SSDs are faster but more expensive per gigabyte, so both technologies coexist in hybrid setups.
 - [[motherboard]] — connects via *SATA* (Serial ATA) or legacy *IDE* cables; the motherboard's SATA controller manages the connection.
 - [[mechanical-storage]] — represents the broader category of moving-part storage; conceptually distinct from electronic flash memory.
-- [[power-supply-unit]] — supplies continuous power to the motor and electronics; power loss during a write can corrupt the filesystem.
+- [[power-supply]] — supplies continuous power to the motor and electronics; power loss during a write can corrupt the filesystem.
 
 ## see also
 

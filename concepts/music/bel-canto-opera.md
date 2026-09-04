@@ -2,7 +2,7 @@
 type: practice
 category: music
 defines: ["Bel canto", "Bel canto opera"]
-related: ["[[soprano]]", "[[tenor]]", "[[opera]]", "[[italy]]", "[[rossini]]", "[[bellini]]", "[[donizetti]]"]
+related: ["[[soprano]]", "[[tenor]]", "[[opera]]", "[[italy]]", "[[rossini]]", "[[vincenzo-bellini]]", "[[donizetti]]"]
 requires: ["[[opera]]", "[[soprano]]"]
 lists: ["[[music-hubs]]"]
 tour_order: 0
@@ -38,12 +38,12 @@ dv.view("_dv/foundations")
 - [[opera]] — the genre that defines bel canto.
 - [[italy]] — the birthplace and heartland of bel canto tradition.
 - [[rossini]] — A founder of bel canto opera with works like *The Barber of Seville*.
-- [[bellini]] — Refined and deepened bel canto with *Norma* and *La Sonnambula*.
+- [[vincenzo-bellini]] — Refined and deepened bel canto with *Norma* and *La Sonnambula*.
 - [[donizetti]] — Mastered both comic and tragic bel canto opera.
 
 ## see also
 
-- [[opera]] · [[soprano]] · [[tenor]] · [[rossini]] · [[bellini]] · [[donizetti]]
+- [[opera]] · [[soprano]] · [[tenor]] · [[rossini]] · [[vincenzo-bellini]] · [[donizetti]]
 
 <!-- crosslinks -->
 ```dataviewjs

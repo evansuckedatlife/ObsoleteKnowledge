@@ -2,7 +2,7 @@
 type: concept
 category: history
 defines: ["House of Hohenzollern", "Hohenzollern Dynasty"]
-related: ["[[prussian-empire]]", "[[frederick-the-great]]", "[[german-empire]]", "[[kaiser-wilhelm-ii]]", "[[bismarck]]", "[[germany]]"]
+related: ["[[prussia]]", "[[frederick-the-great]]", "[[german-empire]]", "[[kaiser-wilhelm-ii]]", "[[bismarck]]", "[[germany]]"]
 requires: []
 lists:
   - "[[european-royal-families]]"
@@ -29,7 +29,7 @@ The **House of Hohenzollern** rose from minor German nobility to rule Prussia an
 ## connections
 
 - [[frederick-the-great]] — greatest Hohenzollern ruler; transformed Prussia into a great power.
-- [[prussian-empire]] — their domain and instrument of power.
+- [[prussia]] — their domain and instrument of power.
 - [[bismarck]] — architect of German unification under Hohenzollern rule.
 - [[kaiser-wilhelm-ii]] — last German emperor; led Germany into World War I.
 - [[german-empire]] — the multinational state they created and ruled.

@@ -1,7 +1,7 @@
 ---
 type: event
 category: history
-defines: [Battle of Hampton Roads, USS Monitor, CSS Virginia, Ironclads]
+defines: [Battle of Hampton Roads, Ironclads]
 related: ["[[american-civil-war]]", "[[naval-warfare]]", "[[ironclad-ships]]", "[[virginia]]"]
 requires: ["[[american-civil-war]]"]
 lists: ["[[civil-war-battles]]"]

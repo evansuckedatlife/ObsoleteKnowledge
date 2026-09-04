@@ -4,7 +4,7 @@ category: literature
 defines:
   - "Soylent Green"
   - Soylent Green (film)
-related: ["[[richard-fleischer]]", "[[dystopian-fiction]]", "[[science-fiction-film]]", "[[united-states]]"]
+related: ["[[richard-fleischer]]", "[[dystopia]]", "[[science-fiction-film]]", "[[united-states]]"]
 requires: ["[[science-fiction]]"]
 lists:
   - "[[plot-twists]]"
@@ -40,7 +40,7 @@ dv.view("_dv/foundations")
 
 ## connections
 
-- [[dystopian-fiction]] — a cornerstone of 1970s science-fiction pessimism.
+- [[dystopia]] — a cornerstone of 1970s science-fiction pessimism.
 - [[mass-production]] — the twist literalises the reduction of human bodies to consumable product.
 - [[environmental-collapse]] — the film's backdrop of resource exhaustion drives the premise.
 - [[richard-fleischer]] — director; known for ambitious science-fiction and crime films.

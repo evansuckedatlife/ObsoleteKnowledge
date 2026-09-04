@@ -5,7 +5,7 @@ defines:
   - The Man That Corrupted Hadleyburg
   - Hadleyburg
   - Mark Twain
-related: ["[[mark-twain]]", "[[american-short-stories]]", "[[social-satire]]"]
+related: ["[[mark-twain]]", "[[american-short-story]]", "[[social-satire]]"]
 requires: []
 lists:
   - "[[common-mistakes-2]]"

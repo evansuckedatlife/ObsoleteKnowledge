@@ -1,7 +1,7 @@
 ---
 type: place
 category: history
-defines: [Macedonian Empire, Alexander the Great, Hellenistic Empire]
+defines: [Macedonian Empire, Hellenistic Empire]
 related: ["[[alexander-the-great]]", "[[philip-ii]]", "[[hellenistic-period]]", "[[achaemenid-empire]]"]
 requires: []
 lists: ["[[ancient-empires]]"]

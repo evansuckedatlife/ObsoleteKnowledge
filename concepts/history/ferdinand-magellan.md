@@ -1,7 +1,7 @@
 ---
 type: person
 category: history
-defines: [Ferdinand Magellan, Fernão de Magalhães]
+defines: [Ferdinand Magellan, Fernão de Magalhães, magellan]
 related: ["[[christopher-columbus]]", "[[age-of-exploration]]", "[[philippines]]", "[[spain]]"]
 requires: ["[[age-of-exploration]]"]
 lists: ["[[explorers]]"]

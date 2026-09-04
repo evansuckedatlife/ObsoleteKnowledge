@@ -45,7 +45,7 @@ The first spacecraft to carry a *multi-person crew*, launched by the *Soviet Uni
 
 ## see also
 
-- [[vostok-1]] · [[apollo-13]] · [[sputnik-1]]
+- [[vostok-1]] · [[apollo-13]] · [[sputnik]]
 
 <!-- crosslinks -->
 ```dataviewjs

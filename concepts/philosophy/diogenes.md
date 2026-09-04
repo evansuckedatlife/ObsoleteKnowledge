@@ -1,7 +1,7 @@
 ---
 type: person
 category: philosophy
-defines: [Diogenes of Sinope, Cynicism, Cynic]
+defines: [Diogenes of Sinope]
 related: ["[[cynicism]]", "[[antisthenes]]", "[[alexander-the-great]]", "[[virtue-ethics]]", "[[ancient-greece]]"]
 requires: ["[[socrates]]"]
 lists: ["[[ancient-philosophers]]"]

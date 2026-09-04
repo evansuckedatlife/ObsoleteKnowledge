@@ -1,7 +1,7 @@
 ---
 type: constant
 category: science
-defines: ["Planck constant", "Planck's constant", "h"]
+defines: [Planck constant, Planck's constant]
 related: ["[[photon]]", "[[photoelectric-effect]]", "[[quantization]]", "[[planck-length]]", "[[max-planck]]"]
 requires: ["[[quantum-mechanics]]", "[[photon]]"]
 lists: []

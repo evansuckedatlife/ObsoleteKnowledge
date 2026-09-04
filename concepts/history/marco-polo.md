@@ -45,7 +45,7 @@ dv.view("_dv/foundations")
 
 ## see also
 
-- [[christopher-columbus]] · [[magellan]] · [[vasco-da-gama]]
+- [[christopher-columbus]] · [[ferdinand-magellan]] · [[vasco-da-gama]]
 
 <!-- crosslinks -->
 ```dataviewjs

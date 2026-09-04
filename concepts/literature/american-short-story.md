@@ -4,7 +4,7 @@ category: literature
 defines: [American short story, American short stories]
 related: ["[[american-literature]]", "[[edgar-allan-poe]]", "[[modernism]]", "[[realism]]", "[[gothic-literature]]", "[[detective-fiction]]", "[[united-states]]"]
 requires: ["[[american-literature]]", "[[edgar-allan-poe]]"]
-lists: ["[[literature-hubs]]"]
+lists: ["[[literature-hubs]]", "[[misc-hubs]]"]
 tour_order: 0
 read: false
 ---

@@ -1,7 +1,7 @@
 ---
 type: concept
 category: social-science
-defines: [Early agriculture, Agricultural Revolution]
+defines: [Early agriculture]
 related: ["[[neolithic-revolution]]", "[[catalhoyuk]]", "[[neolithic-settlement]]", "[[turkey]]", "[[domestication]]"]
 requires: ["[[neolithic-revolution]]"]
 lists: ["[[social-science-hubs]]"]

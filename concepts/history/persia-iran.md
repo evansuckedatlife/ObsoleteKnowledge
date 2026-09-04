@@ -1,7 +1,7 @@
 ---
 type: place
 category: history
-defines: ["Persia", "Iran"]
+defines: [Persia]
 related: ["[[parthian-empire]]", "[[sassanid-empire]]", "[[safavid-empire]]", "[[islamic-revolution]]", "[[zoroastrianism]]"]
 requires: []
 lists:

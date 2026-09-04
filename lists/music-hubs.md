@@ -14,10 +14,9 @@ Forms, eras and concepts underlying the individual composers and works.
 - [[alto|Alto]] — Alto (from the Italian altus, "high") is the lowest female voice type in the standard four-voice singing classification, with a range roughly from the…
 - [[andrea-gabrieli|Andrea Gabrieli]] — Andrea Gabrieli was an influential composer and organist of the Venetian School during the late renaissance, serving for decades at St.
 - [[anthem|Anthem]] — An anthem is an English-language choral composition designed for liturgical performance within the Anglican tradition, particularly associated with th…
-- [[antonio-corelli|Arcangelo Corelli]] — Arcangelo Corelli (occasionally cited as Antonio Corelli) was a renowned Italian violinist and composer of the High Baroque era who transformed Europe…
+- [[arcangelo-corelli|Arcangelo Corelli]] — Arcangelo Corelli (occasionally cited as Antonio Corelli) was a renowned Italian violinist and composer of the High Baroque era who transformed Europe…
 - [[antonio-vivaldi|Antonio Vivaldi]] — Antonio Vivaldi (1678–1741) was an Italian Baroque composer and virtuoso violinist who profoundly shaped the development of the concerto form and inst…
 - [[arab-world|Arab world]] — The Arab world forms an expansive musical and cultural sphere spanning North Africa and the Levant through Western Asia, deeply united by the Arabic l…
-- [[arcangelo-corelli|Arcangelo Corelli]] — Arcangelo Corelli was an influential Italian violinist and composer of the high baroque-music era whose elegant works established the foundational par…
 - [[aria|Aria]] — An aria is a self-contained, expressive musical piece for solo voice accompanied by an orchestra or instrumental ensemble, functioning as the emotiona…
 - [[ars-nova|Ars Nova]] — Ars Nova (Latin for "new art") was a transformative musical style and notation system that flourished across late medieval france and the Low Countrie…
 - [[atonality|Atonality]] — Atonality, along with atonal music, defines a compositional practice and aesthetic in Western classical-music that deliberately avoids establishing a …
@@ -29,7 +28,7 @@ Forms, eras and concepts underlying the individual composers and works.
 - [[beat|Beat]] — Beat is the underlying regular pulse in music—the steady, recurring pulse that listeners can feel and musicians align to.
 - [[beethoven|Ludwig van Beethoven]] — Ludwig van Beethoven (1770–1827) was a German composer whose revolutionary works bridged the Classical and Romantic eras, fundamentally transforming w…
 - [[bel-canto-opera|Bel Canto Opera]] — Bel canto (Italian: "beautiful singing") refers to an operatic tradition and vocal aesthetic emphasizing pure, elegant melody and brilliant vocal tech…
-- [[bellini|Vincenzo Bellini]] — Vincenzo Bellini (1801–1835) was an Italian composer who refined and deepened the bel canto operatic tradition with works of extraordinary vocal beaut…
+- [[vincenzo-bellini|Vincenzo Bellini]] — Vincenzo Bellini (1801–1835) was an Italian composer who refined and deepened the bel canto operatic tradition with works of extraordinary vocal beaut…
 - [[benedictine-monasticism|Benedictine monasticism]] — Benedictine monasticism is the foundational communal religious tradition of Western christianity, established in 6th-century italy following the monas…
 - [[bessie-smith|Bessie Smith]] — Bessie Smith, universally acclaimed as the Empress of the Blues, was the foremost American blues singer of the 1920s and early 1930s.
 - [[big-band|Big Band]] — Big band is a large jazz ensemble format, typically featuring 10–20 musicians organized into saxophone, trumpet, trombone, and rhythm sections, that d…
@@ -142,11 +141,9 @@ Forms, eras and concepts underlying the individual composers and works.
 - [[tuba|Tuba]] — The tuba is the lowest-pitched and largest brass instrument utilized within the modern symphony orchestra, military band, and brass ensemble.
 - [[turandot|Turandot]] — Turandot is the final and most exotic opera by Giacomo Puccini, premiered in 1926, famously incomplete at the composer's death and finished by Franco …
 - [[verismo-opera|Verismo Opera]] — Verismo opera is an operatic movement that emerged in late 19th-century Italy, emphasizing realism, contemporary settings, and raw emotional directnes…
-- [[vincenzo-bellini|Vincenzo Bellini]] — Vincenzo Bellini (1801–1835) was an Italian opera composer who lived briefly but brilliantly, becoming a master of the bel canto tradition.
 - [[violin|Violin]] — The violin is a four-stringed wooden chordophone tuned in perfect fifths (G3, D4, A4, and E5), played predominantly with a horsehair bow drawn across …
 - [[vocal-music|Vocal Music]] — Vocal music is music created with and for the human voice as the primary instrument, encompassing opera, art songs, madrigals, spirituals, pop vocals,…
 - [[voice-classification|Voice Classification]] — Voice classification is the categorical system for organizing human singing voices according to their natural range, timbre, and placement of resonanc…
-- [[voice-type|Voice Type]] — Voice type (or voice classification) is the categorization of singing voices by range, timbre, and tessitura—the comfortable pitch zone where a vocali…
 - [[wayang-kulit|Wayang Kulit]] — Wayang kulit is a form of shadow-puppet theater central to Indonesian ritual and performance, particularly in Bali and Java.
 - [[west-africa|West Africa]] — West Africa is a geographic and cultural region stretching from the Atlantic coast to the Sahel, encompassing nations like Ghana, Senegal, Mali, Ivory…
 

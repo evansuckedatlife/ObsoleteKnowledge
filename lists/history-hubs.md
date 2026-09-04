@@ -721,13 +721,11 @@ The connective tissue of the history collection: eras, institutions, movements a
 - [[philip-vi|Philip VI]] — Philip VI, also known as Philip of Valois, reigned as the first King of france from the cadet House of Valois from 1328 until his death in 1350.
 - [[pierre-beauregard|Pierre Beauregard]] — Pierre Beauregard, widely known as P.
 - [[pierre-elliott-trudeau|Pierre Elliott Trudeau]] — Pierre Elliott Trudeau was a transformative Canadian statesman who served as the 15th prime minister of Canada from 1968 to 1979 and from 1980 to 1984.
-- [[pompeius|Pompey]] — Gnaeus Pompeius Magnus, anglicized as Pompey or Pompey the Great and historically recorded as Pompeius, was a dominant military commander and politici…
-- [[pompey|Pompey]] — Pompey (Gnaeus Pompeius Magnus), widely celebrated as Pompey the Great, was one of the preeminent statesmen and military commanders of the late roman-…
+- [[pompey|Pompey]] — Gnaeus Pompeius Magnus, anglicized as Pompey or Pompey the Great and historically recorded as Pompeius, was a dominant military commander and politici…
 - [[portuguese-empire|Portuguese Empire]] — The Portuguese Empire was the first European maritime empire, built through a systematic program of naval exploration and trade monopoly that establis…
 - [[prince-henry-the-navigator|Prince Henry the Navigator]] — Prince Henry the Navigator, formally known as Infante Dom Henrique, Duke of Viseu, was a fifteenth-century Portuguese royal prince whose patronage ign…
 - [[printing-press|Printing Press]] — The printing press is a transformative mechanical technology for transferring text and imagery onto paper, cloth, or parchment, superseding manual scr…
 - [[prussia|Prussia]] — Prussia was a prominent historic German state on the Baltic coast that expanded from the union of the Duchy of Prussia and the Margraviate of Brandenb…
-- [[prussian-empire|Prussia]] — Prussia, historically the Kingdom of Prussia, was a powerful German state centered in Brandenburg and East Prussia that rose from a modest Baltic duch…
 - [[ptolemaic-egypt|Ptolemaic Egypt]] — Ptolemaic Egypt (officially the Ptolemaic Kingdom) was an ancient Hellenistic state based in egypt, established in 305 BC by Ptolemy I Soter, a Macedo…
 - [[public-accommodation|Public Accommodation]] — A public accommodation is a commercial entity, private business, or facility providing lodging, food, entertainment, or retail goods to the general pu…
 - [[public-health-history|Public Health History]] — Public health history traces the evolution of collective disease prevention, sanitation systems, and population-level health protection from ancient q…
@@ -853,8 +851,7 @@ The connective tissue of the history collection: eras, institutions, movements a
 - [[war-of-spanish-succession|War of Spanish Succession]] — The War of Spanish Succession (1701–1714) was a major European conflict fought over the throne of Spain following the death of the last Habsburg king.
 - [[war-on-terror|War on Terror]] — The War on Terror, also known as the Global War on Terrorism, was an international military campaign spearheaded by the united-states following the Se…
 - [[warring-states-period|Warring States period]] — The Warring States period (also known as the Warring States era or Zhanguo) was an epoch of relentless interstate conflict, profound social transforma…
-- [[wars-of-roses|Wars of the Roses]] — The Wars of the Roses (or War of the Roses) were a series of dynastic civil wars fought between 1455 and 1487 for control of the throne of england.
-- [[wars-of-the-roses|Wars of the Roses]] — The Wars of the Roses (also called the War of the Roses) were a series of fifteenth-century civil wars fought between 1455 and 1487 for control of the…
+- [[wars-of-the-roses|Wars of the Roses]] — The Wars of the Roses (or War of the Roses) were a series of dynastic civil wars fought between 1455 and 1487 for control of the throne of england.
 - [[weimar-republic|Weimar Republic]] — The Weimar Republic, officially designated the Deutsches Reich and known retrospectively as Weimar Germany, was the democratic government of germany e…
 - [[welfare-state|Welfare State]] — The welfare state, most famously established in post-war england, is a system of government in which the state assumes primary responsibility for prot…
 - [[western-allies|Western Allies]] — The Western Allies were the democratic coalition led primarily by the united-states, the british-empire, and the Free French forces that fought agains…

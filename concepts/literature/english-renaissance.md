@@ -1,7 +1,7 @@
 ---
 type: concept
 category: literature
-defines: [English Renaissance, Renaissance]
+defines: [English Renaissance]
 related: ["[[william-shakespeare]]", "[[christopher-marlowe]]", "[[edmund-spenser]]", "[[humananism]]", "[[italian-renaissance]]", "[[england]]"]
 requires: []
 lists: []

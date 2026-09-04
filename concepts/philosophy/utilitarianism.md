@@ -51,13 +51,13 @@ Utilitarianism emerged during industrialisation and political reform, offering a
 - [[john-stuart-mill]] — refined utilitarianism; distinguished higher pleasures and reconciled it with justice.
 - [[happiness]] — the central utilitarian value; what all moral reasoning ultimately serves.
 - [[ethics]] — utilitarianism is a major consequentialist theory of right action.
-- [[deontology]] — the primary ethical opponent; deontologists prioritise duties and rights over consequences.
+- [[deontological-ethics]] — the primary ethical opponent; deontologists prioritise duties and rights over consequences.
 - [[virtue-ethics]] — an alternative theory emphasising character rather than consequences.
 - [[effective-altruism]] — contemporary movement applying utilitarian reasoning to charitable impact.
 
 ## see also
 
-- [[john-stuart-mill]] · [[ethics]] · [[deontology]]
+- [[john-stuart-mill]] · [[ethics]] · [[deontological-ethics]]
 
 <!-- crosslinks -->
 ```dataviewjs

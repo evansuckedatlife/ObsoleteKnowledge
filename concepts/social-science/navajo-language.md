@@ -1,10 +1,7 @@
 ---
 type: language
 category: social-science
-defines:
-  - Navajo
-  - Diné Bizaad
-  - Dine
+defines: [Diné Bizaad, Dine]
 related: ["[[athabaskan-languages]]", "[[indigenous-languages-americas]]", "[[american-sign-language-parallels]]", "[[navajo-culture]]"]
 requires: ["[[linguistics]]"]
 lists:

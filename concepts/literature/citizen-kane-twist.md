@@ -1,9 +1,7 @@
 ---
 type: work
 category: literature
-defines:
-  - "Citizen Kane"
-  - Rosebud
+defines: [Rosebud]
 related: ["[[orson-welles]]", "[[narrative-cinema]]", "[[biography-and-legacy]]"]
 requires: ["[[citizen-kane]]"]
 lists:

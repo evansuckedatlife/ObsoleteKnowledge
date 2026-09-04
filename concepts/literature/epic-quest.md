@@ -1,7 +1,7 @@
 ---
 type: concept
 category: literature
-defines: [epic quest, heroic quest, hero's journey]
+defines: [epic quest, heroic quest, hero's journey, The Quest, Monomyth]
 related: ["[[ancient-greece]]", "[[mythology]]", "[[fantasy]]", "[[poetry]]", "[[science-fiction]]", "[[romanticism]]", "[[english-renaissance-poetry]]"]
 requires: ["[[ancient-greece]]", "[[poetry]]"]
 lists: ["[[literature-hubs]]"]

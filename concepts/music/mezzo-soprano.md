@@ -2,8 +2,8 @@
 type: concept
 category: music
 defines: ["Mezzo-soprano", "Mezzo"]
-related: ["[[soprano]]", "[[alto]]", "[[tenor]]", "[[voice-type]]", "[[opera]]", "[[carmen]]"]
-requires: ["[[voice-type]]"]
+related: ["[[soprano]]", "[[alto]]", "[[tenor]]", "[[voice-classification]]", "[[opera]]", "[[carmen]]"]
+requires: ["[[voice-classification]]"]
 lists: ["[[music-hubs]]"]
 tour_order: 0
 read: false
@@ -35,14 +35,14 @@ dv.view("_dv/foundations")
 
 - [[soprano]] — the higher female voice type, traditionally favored for leading roles.
 - [[alto]] — the lower female voice type, rarer in opera than mezzo-soprano.
-- [[voice-type]] — the broader classification system organizing singers by vocal range and timbre.
+- [[voice-classification]] — the broader classification system organizing singers by vocal range and timbre.
 - [[opera]] — the primary musical genre showcasing mezzo-soprano voices.
 - [[carmen]] — the most celebrated mezzo-soprano opera and defining role for the voice type.
 - [[tenor]] — the male equivalent in terms of dramatic and vocal sophistication.
 
 ## see also
 
-[[voice-type]] · [[soprano]] · [[alto]] · [[carmen]]
+[[voice-classification]] · [[soprano]] · [[alto]] · [[carmen]]
 
 <!-- crosslinks -->
 ```dataviewjs

@@ -1,7 +1,7 @@
 ---
 type: concept
 category: pop-culture
-defines: [Physical Comedy, Slapstick]
+defines: [Physical Comedy]
 related: ["[[buster-keaton]]", "[[charlie-chaplin]]", "[[slapstick-comedy]]", "[[silent-film]]", "[[comedy]]", "[[jacques-tati]]", "[[commedia-dell-arte]]"]
 requires: []
 lists: []

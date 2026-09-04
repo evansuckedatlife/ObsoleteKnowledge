@@ -1,7 +1,7 @@
 ---
 type: person
 category: music
-defines: ["John Coolidge Adams", "John Adams", "Adams"]
+defines: [John Coolidge Adams, Adams]
 related: ["[[american-composers]]", "[[operas]]", "[[united-states]]"]
 requires: []
 lists: ["[[american-composers]]"]

@@ -1,7 +1,7 @@
 ---
 type: concept
 category: philosophy
-defines: [Deontological Ethics, Deontology, Kantian Deontology]
+defines: [Deontological Ethics, Deontology, Kantian Deontology, duty ethics]
 related: ["[[categorical-imperative]]", "[[kant]]", "[[critique-of-metaphysics]]", "[[virtue-ethics]]", "[[enlightenment]]", "[[freedom]]", "[[free-will]]"]
 requires: ["[[kant]]", "[[philosophy]]"]
 lists: ["[[philosophy-hubs]]"]

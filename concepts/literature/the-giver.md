@@ -3,7 +3,7 @@ type: work
 category: literature
 defines:
   - The Giver
-related: ["[[lois-lowry]]", "[[dystopian-fiction]]", "[[science-fiction]]", "[[united-states]]"]
+related: ["[[lois-lowry]]", "[[dystopia]]", "[[science-fiction]]", "[[united-states]]"]
 requires: []
 lists:
   - "[[20th-century-newbery-medal-winners]]"
@@ -30,7 +30,7 @@ read: false
 ## connections
 
 - [[lois-lowry]] — author, winner of the Newbery twice, known for exploring difficult themes with clarity and moral depth.
-- [[dystopian-fiction]] — exemplary work of dystopian literature that examines the cost of safety achieved through conformity.
+- [[dystopia]] — exemplary work of dystopian literature that examines the cost of safety achieved through conformity.
 - [[science-fiction]] — envisions a technologically controlled future as a parable for human choice and autonomy.
 - [[newbery-medal]] — 1994 winner; landmark book that expanded the range of what children's literature could address.
 

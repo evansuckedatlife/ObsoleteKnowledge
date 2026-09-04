@@ -1,7 +1,7 @@
 ---
 type: concept
 category: history
-defines: [Arctic exploration, Arctic voyages, Northwest Passage]
+defines: [Arctic exploration, Arctic voyages]
 related: ["[[henry-hudson]]", "[[roald-amundsen]]", "[[south-pole]]", "[[age-of-exploration]]", "[[hudson-bay]]", "[[arctic-circle]]", "[[indigenous-peoples-of-north-america]]"]
 requires: ["[[henry-hudson]]", "[[age-of-exploration]]"]
 lists: ["[[history-hubs]]"]

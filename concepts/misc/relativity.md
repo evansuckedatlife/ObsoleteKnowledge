@@ -1,7 +1,7 @@
 ---
 type: concept
 category: misc
-defines: [Relativity, Theory of relativity, General relativity]
+defines: [Relativity, Theory of relativity]
 related: ["[[geometry]]", "[[astronomy]]", "[[space-age]]", "[[germany]]", "[[modernism]]", "[[mechanics]]", "[[quantum-mechanics]]"]
 requires: ["[[geometry]]", "[[astronomy]]"]
 lists: ["[[misc-hubs]]"]

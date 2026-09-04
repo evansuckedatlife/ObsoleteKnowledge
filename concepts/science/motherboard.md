@@ -63,7 +63,7 @@ The motherboard is the integrating platform that defines what a computer is: it 
 - [[ram]] — inserts into DIMM slots on the motherboard; the motherboard provides voltage regulation and access control.
 - [[pci-express]] — the standard expansion slot technology; implemented as lanes on the chipset and routed to expansion slots.
 - [[bios]] — firmware stored in a chip on the motherboard; controls hardware initialization and low-level operation.
-- [[power-supply-unit]] — delivers power via multi-pin connectors to the motherboard's voltage regulators.
+- [[power-supply]] — delivers power via multi-pin connectors to the motherboard's voltage regulators.
 - [[chipset]] — the integrated-circuit complex that routes data between CPU, RAM, storage, and I/O.
 - [[nvidia-geforce]] — a discrete GPU that plugs into a PCIe slot on the motherboard.
 - [[computer-architecture]] — the motherboard is the physical embodiment of the system bus and memory hierarchy.

@@ -2,7 +2,7 @@
 type: term
 category: music
 defines: [Bass, bass voice]
-related: ["[[voice-classification]]", "[[opera]]", "[[baritone]]", "[[tenor]]", "[[voice-type]]"]
+related: ["[[voice-classification]]", "[[opera]]", "[[baritone]]", "[[tenor]]", "[[voice-classification]]"]
 requires: ["[[voice-classification]]"]
 lists: ["[[music-hubs]]"]
 tour_order: 0
@@ -38,7 +38,7 @@ dv.view("_dv/foundations")
 ## connections
 
 - [[voice-classification]] — the broader system that defines bass alongside soprano, alto, tenor, and baritone.
-- [[voice-type]] — distinguishes individual vocal ranges and capabilities.
+- [[voice-classification]] — distinguishes individual vocal ranges and capabilities.
 - [[baritone]] — the voice type immediately above bass, often overlapping in range.
 - [[tenor]] — contrasts with bass in the male voice hierarchy.
 - [[opera]] — the primary venue where bass voices are showcased in dramatic roles.

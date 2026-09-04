@@ -1,10 +1,7 @@
 ---
 type: concept
 category: history
-defines:
-  - Ayyubid Dynasty
-  - Ayyubids
-  - Saladin
+defines: [Ayyubid Dynasty, Ayyubids]
 related: ["[[fatimid-caliphate]]", "[[mamluk-sultanate]]", "[[crusades]]", "[[islam]]"]
 requires: ["[[crusades]]"]
 lists:

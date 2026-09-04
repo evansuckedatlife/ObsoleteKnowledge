@@ -1,7 +1,7 @@
 ---
 type: concept
 category: science
-defines: [Enzyme, catalyst, biological catalyst]
+defines: [Enzyme]
 related: ["[[catalysis]]", "[[active-site]]", "[[protein]]", "[[biochemistry]]", "[[substrate]]", "[[fermentation]]", "[[photosynthesis]]", "[[digestion]]"]
 requires: ["[[protein]]"]
 lists: []

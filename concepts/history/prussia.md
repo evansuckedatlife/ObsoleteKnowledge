@@ -1,7 +1,7 @@
 ---
 type: place
 category: history
-defines: [Prussia, Kingdom of Prussia]
+defines: [Prussia, Kingdom of Prussia, prussian-empire]
 related: ["[[germany]]", "[[napoleon-bonaparte]]", "[[france]]", "[[russian-empire]]", "[[enlightenment]]", "[[world-war-i]]", "[[french-revolution]]"]
 requires: ["[[germany]]", "[[enlightenment]]"]
 lists: ["[[history-hubs]]"]

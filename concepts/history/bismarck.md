@@ -2,7 +2,7 @@
 type: person
 category: history
 defines: [Otto von Bismarck, Bismarck]
-related: ["[[prussian-empire]]", "[[german-unification]]", "[[franco-prussian-war]]", "[[german-empire]]", "[[william-i]]", "[[realpolitik]]", "[[european-politics]]"]
+related: ["[[prussia]]", "[[german-unification]]", "[[franco-prussian-war]]", "[[german-empire]]", "[[william-i]]", "[[realpolitik]]", "[[european-politics]]"]
 requires: []
 lists: []
 tour_order: 0
@@ -27,7 +27,7 @@ read: false
 
 ## connections
 
-- [[prussian-empire]] — the state he led to dominance.
+- [[prussia]] — the state he led to dominance.
 - [[german-unification]] — the process he engineered.
 - [[william-i]] — the Prussian king he served and whose empire he created.
 - [[franco-prussian-war]] — the war that unified Germany.
@@ -37,7 +37,7 @@ read: false
 
 ## see also
 
-[[prussian-empire]] · [[german-unification]] · [[franco-prussian-war]] · [[german-empire]]
+[[prussia]] · [[german-unification]] · [[franco-prussian-war]] · [[german-empire]]
 
 <!-- crosslinks -->
 ```dataviewjs

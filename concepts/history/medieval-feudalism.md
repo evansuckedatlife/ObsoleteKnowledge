@@ -1,7 +1,7 @@
 ---
 type: concept
 category: history
-defines: ["Feudalism", "Medieval Feudalism"]
+defines: [Medieval Feudalism]
 related: ["[[medieval-europe]]", "[[black-death]]", "[[magna-carta]]", "[[chivalry]]", "[[england]]"]
 requires: ["[[medieval-europe]]"]
 lists: ["[[history-hubs]]"]

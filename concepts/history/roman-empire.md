@@ -1,7 +1,7 @@
 ---
 type: place
 category: history
-defines: [Roman Empire, Rome, Imperium Romanum]
+defines: [Roman Empire, Imperium Romanum]
 related: ["[[julius-caesar]]", "[[augustus]]", "[[republic-of-rome]]", "[[gladiatorial-games]]", "[[rome]]", "[[italy]]", "[[stoicism]]", "[[michelangelo]]"]
 requires: []
 lists: ["[[ancient-empires]]"]

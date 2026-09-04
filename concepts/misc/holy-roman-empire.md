@@ -1,9 +1,7 @@
 ---
 type: place
 category: misc
-defines:
-  - Holy Roman Empire
-  - German Empire
+defines: [Holy Roman Empire]
 related: ["[[charlemagne]]", "[[ottoman-empire]]", "[[germany]]"]
 requires: ["[[roman-empire]]"]
 lists:

@@ -47,7 +47,7 @@ The *first* crewed lunar landing, on July 20, 1969, when *Apollo 11* carried *Ne
 
 ## see also
 
-- [[apollo-13]] · [[vostok-1]] · [[sputnik-1]]
+- [[apollo-13]] · [[vostok-1]] · [[sputnik]]
 
 <!-- crosslinks -->
 ```dataviewjs

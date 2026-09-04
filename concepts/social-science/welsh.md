@@ -1,10 +1,7 @@
 ---
 type: language
 category: social-science
-defines:
-  - Welsh
-  - Cymraeg
-  - Cambrian
+defines: [Welsh, Cymraeg]
 related: ["[[celtic-languages]]", "[[british-languages]]", "[[celtic-culture]]"]
 requires: ["[[linguistics]]"]
 lists:

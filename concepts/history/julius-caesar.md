@@ -2,7 +2,7 @@
 type: person
 category: history
 defines: [Julius Caesar, Gaius Julius Caesar, Caesar]
-related: ["[[pompeius]]", "[[cato-the-younger]]", "[[mark-antony]]", "[[cleopatra]]", "[[augustus]]", "[[cicero]]", "[[assassination-of-julius-caesar]]", "[[gallic-wars]]", "[[roman-empire]]", "[[rome]]"]
+related: ["[[pompey]]", "[[cato-the-younger]]", "[[mark-antony]]", "[[cleopatra]]", "[[augustus]]", "[[cicero]]", "[[assassination-of-julius-caesar]]", "[[gallic-wars]]", "[[roman-empire]]", "[[rome]]"]
 requires: ["[[roman-empire]]"]
 lists: []
 tour_order: 1
@@ -59,7 +59,7 @@ Julius Caesar represents the pivot point of Western civilization's foundational 
 
 ## connections
 
-- [[pompeius]] — his ally in the First Triumvirate, later his mortal enemy in civil war; the man Caesar had to defeat to rule Rome.
+- [[pompey]] — his ally in the First Triumvirate, later his mortal enemy in civil war; the man Caesar had to defeat to rule Rome.
 - [[mark-antony]] — his subordinate in Gaul and Egypt, who inherited part of his political legacy and became his avenger after assassination.
 - [[cleopatra]] — the Egyptian pharaoh with whom Caesar allied, bearing his son Caesarion and representing Rome's eastern reach.
 - [[augustus]] — his grandnephew and named heir, who completed the work of destroying the Republic and built the empire Caesar began.
@@ -72,7 +72,7 @@ Julius Caesar represents the pivot point of Western civilization's foundational 
 
 ## see also
 
-- [[pompeius]] · [[mark-antony]] · [[augustus]] · [[cicero]]
+- [[pompey]] · [[mark-antony]] · [[augustus]] · [[cicero]]
 
 <!-- crosslinks -->
 ```dataviewjs

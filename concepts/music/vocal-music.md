@@ -2,7 +2,7 @@
 type: term
 category: music
 defines: [Vocal music, sung music, voice-based music]
-related: ["[[voice-classification]]", "[[voice-type]]", "[[singing]]", "[[opera]]", "[[madrigal]]", "[[aria]]", "[[song]]", "[[poetry]]"]
+related: ["[[voice-classification]]", "[[voice-classification]]", "[[singing]]", "[[opera]]", "[[madrigal]]", "[[aria]]", "[[song]]", "[[poetry]]"]
 requires: ["[[voice-classification]]"]
 lists: ["[[music-hubs]]"]
 tour_order: 0
@@ -40,7 +40,7 @@ dv.view("_dv/foundations")
 ## connections
 
 - [[voice-classification]] — the system that categorizes and organizes vocal ranges.
-- [[voice-type]] — the individual vocal capacity and character of each singer.
+- [[voice-classification]] — the individual vocal capacity and character of each singer.
 - [[singing]] — the technique and art of producing vocal music.
 - [[opera]] — the grand theatrical form that showcases vocal music at the largest scale.
 - [[madrigal]] — the Renaissance vocal genre that pioneered sophisticated textual expression.

@@ -1,7 +1,7 @@
 ---
 type: place
 category: geography
-defines: [Statue of Liberty, Liberty]
+defines: [Statue of Liberty]
 related: ["[[new-york-city]]", "[[france]]", "[[united-states]]", "[[immigration]]", "[[french-american-relations]]", "[[bedloe-island]]", "[[gustave-eiffel]]"]
 requires: []
 lists: []

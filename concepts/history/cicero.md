@@ -2,7 +2,7 @@
 type: person
 category: history
 defines: [Cicero, "Marcus Tullius Cicero", Tully]
-related: ["[[julius-caesar]]", "[[mark-antony]]", "[[cato-the-younger]]", "[[pompeius]]", "[[roman-republic]]", "[[stoicism]]", "[[oratory]]", "[[rome]]"]
+related: ["[[julius-caesar]]", "[[mark-antony]]", "[[cato-the-younger]]", "[[pompey]]", "[[roman-republic]]", "[[stoicism]]", "[[oratory]]", "[[rome]]"]
 requires: ["[[roman-republic]]"]
 lists: ["[[history-hubs]]"]
 tour_order: 0
@@ -35,14 +35,14 @@ dv.view("_dv/foundations")
 - [[julius-caesar]] — political rival and alliance partner; Cicero opposed Caesar's consolidation of power while trying to maintain the Republic.
 - [[mark-antony]] — the Triumvir and populist whom Cicero attacked in the *Philippics*, earning his death.
 - [[cato-the-younger]] — fellow defender of republican virtue, with whom Cicero shared ideological alignment against imperial ambition.
-- [[pompeius]] — general and statesman aligned with Cicero in defense of the Senate and Republican institutions.
+- [[pompey]] — general and statesman aligned with Cicero in defense of the Senate and Republican institutions.
 - [[roman-republic]] — the political system Cicero served and whose values he championed against tyranny.
 - [[stoicism]] — the philosophical framework that influenced Cicero's ethics and his conception of duty and virtue.
 - [[oratory]] — the art form Cicero mastered and defined for classical civilization.
 
 ## see also
 
-- [[julius-caesar]] · [[mark-antony]] · [[pompeius]] · [[cato-the-younger]]
+- [[julius-caesar]] · [[mark-antony]] · [[pompey]] · [[cato-the-younger]]
 
 <!-- crosslinks -->
 ```dataviewjs

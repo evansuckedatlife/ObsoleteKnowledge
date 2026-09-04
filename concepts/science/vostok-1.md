@@ -44,7 +44,7 @@ The first crewed spaceflight, launched by the *Soviet Union* on April 12, 1961, 
 
 ## see also
 
-- [[apollo-11]] · [[sputnik-1]] · [[voskhod-1]]
+- [[apollo-11]] · [[sputnik]] · [[voskhod-1]]
 
 <!-- crosslinks -->
 ```dataviewjs

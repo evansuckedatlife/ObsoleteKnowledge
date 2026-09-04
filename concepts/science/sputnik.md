@@ -1,10 +1,10 @@
 ---
 type: event
 category: science
-defines: [Sputnik, "Sputnik 1"]
+defines: [Sputnik, Sputnik 1, first artificial satellite]
 related: ["[[space-race]]", "[[cold-war]]", "[[soviet-space-program]]", "[[nasa]]", "[[apollo-program]]", "[[soviet-union]]"]
 requires: []
-lists: []
+lists: ["[[space-missions]]"]
 tour_order: 0
 read: false
 ---

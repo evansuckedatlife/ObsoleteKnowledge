@@ -2,7 +2,7 @@
 type: event
 category: history
 defines: [Franco-Prussian War, War of 1870]
-related: ["[[prussian-empire]]", "[[german-unification]]", "[[german-empire]]", "[[realpolitik]]", "[[france]]", "[[germany]]", "[[world-war-i]]"]
+related: ["[[prussia]]", "[[german-unification]]", "[[german-empire]]", "[[realpolitik]]", "[[france]]", "[[germany]]", "[[world-war-i]]"]
 requires: ["[[france]]", "[[germany]]"]
 lists: ["[[history-hubs]]"]
 tour_order: 0

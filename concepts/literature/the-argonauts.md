@@ -2,7 +2,7 @@
 type: concept
 category: literature
 defines: ["the Argonauts", Argonauts]
-related: ["[[medea]]", "[[medea-play]]", "[[jason]]", "[[heroic-quest]]", "[[ancient-greece]]", "[[mythology]]", "[[epic-narrative]]"]
+related: ["[[medea]]", "[[medea-play]]", "[[jason]]", "[[epic-quest]]", "[[ancient-greece]]", "[[mythology]]", "[[epic-narrative]]"]
 requires: ["[[jason]]"]
 lists: ["[[literature-hubs]]"]
 tour_order: 0
@@ -37,13 +37,13 @@ dv.view("_dv/foundations")
 - [[jason]] — the leader of the Argonauts, whose ambition and moral failures drive the narrative.
 - [[medea]] — the princess and sorceress whose love enables the quest and whose betrayal becomes tragedy.
 - [[medea-play]] — *Euripides*' drama that makes Medea's perspective central, condemning Jason's cruelty.
-- [[heroic-quest]] — the narrative form that the Argonautic voyage established as foundational to Western storytelling.
+- [[epic-quest]] — the narrative form that the Argonautic voyage established as foundational to Western storytelling.
 - [[ancient-greece]] — the cultural and mythological context from which the tale emerges.
 - [[epic-narrative]] — the literary form in which the story was first elaborated (*Apollonius*' *Argonautica*).
 
 ## see also
 
-[[jason]] · [[medea]] · [[medea-play]] · [[heroic-quest]]
+[[jason]] · [[medea]] · [[medea-play]] · [[epic-quest]]
 
 <!-- crosslinks -->
 ```dataviewjs

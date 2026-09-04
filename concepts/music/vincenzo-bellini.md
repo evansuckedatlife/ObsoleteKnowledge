@@ -1,7 +1,7 @@
 ---
 type: person
 category: music
-defines: [Vincenzo Bellini]
+defines: [Vincenzo Bellini, Bellini]
 related: ["[[opera]]", "[[italy]]", "[[gioachino-rossini]]", "[[giuseppe-verdi]]", "[[bel-canto]]", "[[renaissance]]"]
 requires: ["[[opera]]"]
 lists: ["[[music-hubs]]"]

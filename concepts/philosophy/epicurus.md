@@ -1,7 +1,7 @@
 ---
 type: person
 category: philosophy
-defines: [Epicurus, Epicureanism]
+defines: [Epicurus]
 related: ["[[stoicism]]", "[[atomism]]", "[[pleasure-and-pain]]", "[[lucretius]]", "[[ancient-greece]]"]
 requires: ["[[pre-socratic-philosophy]]"]
 lists: ["[[ancient-philosophers]]"]

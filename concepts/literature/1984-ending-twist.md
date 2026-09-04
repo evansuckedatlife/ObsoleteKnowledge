@@ -5,7 +5,7 @@ defines:
   - "1984"
   - Nineteen Eighty-Four
   - The ending of 1984
-related: ["[[george-orwell]]", "[[totalitarianism]]", "[[dystopian-fiction]]", "[[cold-war]]", "[[soviet-union]]"]
+related: ["[[george-orwell]]", "[[totalitarianism]]", "[[dystopia]]", "[[cold-war]]", "[[soviet-union]]"]
 requires: ["[[george-orwell]]"]
 lists:
   - "[[plot-twists]]"

@@ -15,7 +15,7 @@ Cross-cutting concepts that belong to no single field.
 - [[aesthetics|Aesthetics]] — Aesthetics is the philosophical and critical study of beauty, taste, and the nature of the artistic experience.
 - [[african-diaspora|African Diaspora]] — The African diaspora refers to the dispersal of African peoples across the globe, most significantly through the forced migration of enslaved Africans…
 - [[american-satire|American Satire]] — American satire is a literary, journalistic, and cultural tradition within the united-states that employs irony, parody, hyperbole, and ridicule to ex…
-- [[american-short-stories|American Short Stories]] — The American short story is a foundational literary form that originated in the early nineteenth-century united-states through popular periodicals, re…
+- [[american-short-story|American Short Stories]] — The American short story is a foundational literary form that originated in the early nineteenth-century united-states through popular periodicals, re…
 - [[american-traditions|American New Year Traditions]] — American New Year traditions encompass the celebratory customs observed across the united-states on New Year's Eve and New Year's Day, combining civic…
 - [[ancestor-veneration|Ancestor Veneration]] — Ancestor veneration, also widely termed ancestor worship, is the ritualized practice of honoring, remembering, and spiritually sustaining deceased for…
 - [[apes|Apes]] — Apes (Hominoidea) are a tailless evolutionary superfamily of catarrhine primates comprising lesser apes—the hylobatids or gibbons—and the great apes (…

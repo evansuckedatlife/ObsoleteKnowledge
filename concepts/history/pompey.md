@@ -1,7 +1,7 @@
 ---
 type: person
 category: history
-defines: [Pompey, Pompey the Great, Gnaeus Pompeius Magnus]
+defines: [Pompey, Pompey the Great, Gnaeus Pompeius Magnus, Pompeius]
 related: ["[[julius-caesar]]", "[[roman-republic]]", "[[roman-civil-war]]", "[[rome]]", "[[italy]]", "[[roman-empire]]", "[[ancient-greece]]"]
 requires: ["[[rome]]"]
 lists: ["[[history-hubs]]"]

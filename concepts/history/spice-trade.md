@@ -2,7 +2,7 @@
 type: event
 category: history
 defines: [Spice trade, Spice Route]
-related: ["[[age-of-exploration]]", "[[vasco-da-gama]]", "[[magellan]]", "[[venice]]", "[[portuguese-empire]]", "[[dutch-east-india-company]]", "[[silk-road]]", "[[indian-ocean]]", "[[trade-routes]]"]
+related: ["[[age-of-exploration]]", "[[vasco-da-gama]]", "[[ferdinand-magellan]]", "[[venice]]", "[[portuguese-empire]]", "[[dutch-east-india-company]]", "[[silk-road]]", "[[indian-ocean]]", "[[trade-routes]]"]
 requires: ["[[silk-road]]", "[[age-of-exploration]]"]
 lists: ["[[history-hubs]]"]
 tour_order: 0
@@ -37,7 +37,7 @@ The **spice trade** was the vast maritime commerce in high-value spices—pepper
 
 - [[age-of-exploration]] — the era in which European merchants sought oceanic routes to Asian spice sources.
 - [[vasco-da-gama]] — the Portuguese navigator who pioneered the sea route to India and the Indies.
-- [[magellan]] — the explorer whose voyage circumnavigated the globe while tracking spice movements.
+- [[ferdinand-magellan]] — the explorer whose voyage circumnavigated the globe while tracking spice movements.
 - [[portuguese-empire]] — the first European power to monopolize the spice trade through maritime dominance.
 - [[dutch-east-india-company]] — the merchant corporation that displaced Portuguese control and became the dominant spice trader.
 - [[silk-road]] — the overland predecessor route that made spices valuable to medieval Europe.

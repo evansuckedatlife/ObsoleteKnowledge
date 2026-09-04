@@ -1,7 +1,7 @@
 ---
 type: concept
 category: literature
-defines: [American short fiction, American short story]
+defines: [American short fiction]
 related: ["[[ambrose-bierce]]", "[[american-civil-war]]", "[[american-literature]]", "[[detective-fiction]]", "[[edgar-allan-poe]]", "[[gothic-literature]]", "[[modernism]]", "[[realism]]", "[[stream-of-consciousness]]"]
 requires: ["[[american-literature]]", "[[edgar-allan-poe]]"]
 lists: ["[[literature-hubs]]"]

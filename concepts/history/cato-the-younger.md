@@ -2,7 +2,7 @@
 type: person
 category: history
 defines: [Cato the Younger, Marcus Porcius Cato]
-related: ["[[cicero]]", "[[julius-caesar]]", "[[pompeius]]", "[[roman-republic]]", "[[stoicism]]", "[[senatorial-class]]", "[[civil-war]]"]
+related: ["[[cicero]]", "[[julius-caesar]]", "[[pompey]]", "[[roman-republic]]", "[[stoicism]]", "[[senatorial-class]]", "[[civil-war]]"]
 requires: ["[[roman-republic]]"]
 lists: ["[[history-hubs]]"]
 tour_order: 0
@@ -35,7 +35,7 @@ dv.view("_dv/foundations")
 
 - [[cicero]] — fellow senatorial defender of the republic and eulogizer of Cato's death.
 - [[julius-caesar]] — the rival whose ambition Cato resisted unto death.
-- [[pompeius]] — Caesar's rival whom Cato supported as the lesser evil.
+- [[pompey]] — Caesar's rival whom Cato supported as the lesser evil.
 - [[roman-republic]] — the political system Cato died defending.
 - [[stoicism]] — the philosophy guiding Cato's ethical conduct and martyrdom.
 - [[senatorial-class]] — the aristocratic order Cato represented and fought to preserve.

@@ -1,13 +1,10 @@
 ---
 type: text
 category: religion
-defines:
-  - Torah
-  - Pentateuch
-  - Written Law
+defines: [Torah, Pentateuch, Written Law, Five Books of Moses]
 related: ["[[judaism]]", "[[moses]]", "[[talmud]]", "[[hebrew-bible-characters]]", "[[shavuot]]", "[[ark-of-the-covenant]]", "[[israel]]", "[[the-odyssey]]"]
 requires: ["[[hebrew-bible]]"]
-lists: []
+lists: ["[[quintuples]]"]
 tour_order: 3
 read: true
 ---

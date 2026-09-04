@@ -40,7 +40,7 @@ A **solid state drive** (SSD) is a storage device that uses no moving parts, ins
 - [[hard-disk-drive]] — the mechanical predecessor; most modern systems use an SSD for the OS and frequently-accessed programs, plus HDDs for backup and archival.
 - [[pci-express]] — NVMe SSDs connect directly to PCIe slots via M.2 form factor, bypassing the older SATA bus and achieving higher speeds.
 - [[motherboard]] — modern motherboards include M.2 slots for NVMe SSDs; the chipset controls the connection and TRIM/power management.
-- [[power-supply-unit]] — consumes relatively little power, so stable low-voltage delivery is less critical than for mechanical drives.
+- [[power-supply]] — consumes relatively little power, so stable low-voltage delivery is less critical than for mechanical drives.
 
 ## see also
 
